@@ -1,0 +1,38 @@
+{"items":[{	"arName":"بريما بلاست ايجيبت",
+	"enName":"Prima Plast Egypt",
+	"hotlone":"16804",
+	"arCategory":[
+		"بلاستيك ومطاط"
+	],
+	"enCategories":[
+		"Plastic & Rubber"
+	],
+	"contacts":[
+		{	"profileId":"46784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prima-plast-egypt/46784?b=2&k=16804&l=search",
+	"arName":"21 ش الجمهورية, وسط البلد, القاهرة",
+	"enName":"21 El Gomhoureya St., Downtown, Cairo"
+},
+		{	"profileId":"504270",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prima-plast-egypt/504270?b=3&k=16804&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}, {	"arName":"بريما اليوس للصناعات الكهربائية",
+	"enName":"Prima Elios for Electrical Industries",
+	"hotlone":"16804",
+	"arCategory":[
+		"كهرباء والكترونيات اجهزة ومعدات"
+	],
+	"enCategories":[
+		"Electric & Electronic Devices"
+	],
+	"contacts":[
+		{	"profileId":"58032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prima-elios-for-electrical-industries/58032?b=1&k=16804&l=search",
+	"arName":"21 ش الجمهورية, وسط البلد, القاهرة",
+	"enName":"21 El Gomhoreya St., Downtown, Cairo"
+}
+	]
+}]}

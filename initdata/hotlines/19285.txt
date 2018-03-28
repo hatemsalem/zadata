@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مروج للاستثمار الصناعى",
+	"enName":"Moroog For Investment & Industries",
+	"hotlone":"19285",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"350590",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/moroog-for-investment-&-industries/350590?b=2&k=19285&l=search",
+	"arName":"9113 ش 9, المقطم, القاهرة",
+	"enName":"9113 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"350596",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/moroog-for-investment-&-industries/350596?b=1&k=19285&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"enName":"Customer Service, Mokattam, Cairo"
+}
+	]
+}]}

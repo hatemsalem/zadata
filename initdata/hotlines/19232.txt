@@ -1,0 +1,127 @@
+{"items":[{	"arName":"معمل ساريدار",
+	"enName":"Saridar Lab",
+	"hotlone":"19232",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"158853",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/158853?b=13&k=19232&l=search",
+	"arName":"13 ش المديرية - الدور 2, طنطا, الغربية",
+	"enName":"13 El Modereya St., Floor 2, Tanta, El gharbeya"
+},
+		{	"profileId":"190729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/190729?b=8&k=19232&l=search",
+	"arName":"27 ش ابن الحكم - عمارة المرمر - الدور 2, حلمية الزيتون, القاهرة",
+	"enName":"27 Ibn El Hakam St., El Marmar Bldg., Floor 2, Helmeyet el zaitoun, Cairo"
+},
+		{	"profileId":"158851",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/158851?b=2&k=19232&l=search",
+	"arName":"48 ش عباس العقاد - الدور 4, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"48 Abbas El Akkad St., Floor 4, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"158852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/158852?b=5&k=19232&l=search",
+	"arName":"1 ش الفيوم تقاطع ش سيد حنفى - الدور 2, دار السلام, القاهرة",
+	"enName":"1 El Fayoum St. Intersection Of Sayed Hanafy St., Floor 2, Dar el salam, Cairo"
+},
+		{	"profileId":"456239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/456239?b=19&k=19232&l=search",
+	"arName":"17 ش شهاب - الدور 1, المهندسين, الجيزة",
+	"enName":"17 Shehab St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"158856",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/158856?b=3&k=19232&l=search",
+	"arName":"40 ش كليوباترا ميدان صلاح الدين - الدور 5, مصر الجديدة, القاهرة",
+	"enName":"40 Cleopatra St. Salah El Din Sq., Floor 5, Heliopolis, Cairo"
+},
+		{	"profileId":"166427",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/166427?b=17&k=19232&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"287967",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/287967?b=23&k=19232&l=search",
+	"arName":"231 ش فيصل, حسن محمد, فيصل, الجيزة",
+	"enName":"231 Faisal St., Hassan Mohamed, Faisal, Giza"
+},
+		{	"profileId":"356149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/356149?b=15&k=19232&l=search",
+	"arName":"158 ش الهرم تقاطع ش العريش - الدور 3, سباتس, الهرم, الجيزة",
+	"enName":"158 Haram St. Intersection Of El Arish St., Floor 3, Spates, El haram, Giza"
+},
+		{	"profileId":"555884",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/555884?b=20&k=19232&l=search",
+	"arName":"المحور المركزى, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 8th District, 6th of october, Giza"
+},
+		{	"profileId":"416055",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/416055?b=18&k=19232&l=search",
+	"arName":"ميدان شرف - متفرع من ش جمال عبد الناصر - برج الحكمة - الدور 2, شبين الكوم, المنوفية",
+	"enName":"Sharaf Sq., Off Gamal Abdel Nasser St., El Hekma Tower, Floor 2, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"122123",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/122123?b=1&k=19232&l=search",
+	"arName":"11 ميدان الفلكى - عمارة بدراوى - الدور 5, باب اللوق, القاهرة",
+	"enName":"11 El Falaky Sq., Badrawy Bldg., Floor 5, Bab el louk, Cairo"
+},
+		{	"profileId":"76421",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/76421?b=22&k=19232&l=search",
+	"arName":"15 ش البوهى تقاطع ش القومية - الدور 2, امبابة, الجيزة",
+	"enName":"15 El Bouhy St. Intersection Of El Qawmeya St., Floor 2, Imbaba, Giza"
+},
+		{	"profileId":"190733",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/190733?b=4&k=19232&l=search",
+	"arName":"26 أ ش شريف باشا, حلوان, القاهرة",
+	"enName":"26 A Sherif Pasha St., Helwan, Cairo"
+},
+		{	"profileId":"18705",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/18705?b=14&k=19232&l=search",
+	"arName":"92 ش التحرير ميدان الدقى - برج ساريدار الطبى - الدور 1, الدقى, الجيزة",
+	"enName":"92 El Tahrir St. Dokki Sq., Saridar Medical Tower, Floor 1, Dokki, Giza"
+},
+		{	"profileId":"190731",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/190731?b=9&k=19232&l=search",
+	"arName":"13 ميدان السيدة زينب - الدور 4, السيدة زينب, القاهرة",
+	"enName":"13 El Sayeda Zeinab Sq. , Floor 4, El sayeda zeinab, Cairo"
+},
+		{	"profileId":"456241",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/456241?b=11&k=19232&l=search",
+	"arName":"7 /1 ش النصر تقاطع ش اللاسلكى - الدور 3, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"7 /1 El Nasr St. Intersection Of El Laselky St., Floor 3, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"456242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/456242?b=16&k=19232&l=search",
+	"arName":"38 ش ربيع الجيزى - الدور 2, الجيزة, الجيزة",
+	"enName":"38 Rabea El Gizy St., Floor 2, Giza, Giza"
+},
+		{	"profileId":"76418",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/76418?b=10&k=19232&l=search",
+	"arName":"53 ش شبرا - برج السعد - الدور 5, شبرا, القاهرة",
+	"enName":"53 Shoubra St., El Saad Tower, Floor 5, Shoubra, Cairo"
+},
+		{	"profileId":"76419",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/76419?b=21&k=19232&l=search",
+	"arName":"ش فيصل - برج الاطباء - الدور 4, فيصل, الجيزة",
+	"enName":"Faisal St., El Atebaa Tower, Floor 4, Faisal, Giza"
+},
+		{	"profileId":"273728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/273728?b=6&k=19232&l=search",
+	"arName":"20 ش 9, المقطم, القاهرة",
+	"enName":"20 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"456410",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/456410?b=12&k=19232&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"456235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saridar-lab/456235?b=7&k=19232&l=search",
+	"arName":"52 ش المنيل - الدور 2, المنيل, القاهرة",
+	"enName":"52 Manial St., Floor 2, El manyal, Cairo"
+}
+	]
+}]}

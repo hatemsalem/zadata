@@ -1,0 +1,43 @@
+{"items":[{	"arName":"وين وين",
+	"enName":"Win Win",
+	"hotlone":"16795",
+	"arCategory":[
+		"تسويق استشاريون"
+	],
+	"enCategories":[
+		"Marketing Consultants"
+	],
+	"contacts":[
+		{	"profileId":"457820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/win-win/457820?b=4&k=16795&l=search",
+	"arName":"خدمة العملاء, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"431449",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/win-win/431449?b=3&k=16795&l=search",
+	"arName":"29 ش اسماعيل صبرى متفرع من ش النزهة, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"29 Ismail Sabry St. Off El Nozha St., Hegaz Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بوجو بلس",
+	"enName":"BOGO Plus",
+	"hotlone":"16795",
+	"arCategory":[
+		"كروت تخفيض"
+	],
+	"enCategories":[
+		"Discount Cards"
+	],
+	"contacts":[
+		{	"profileId":"457821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bogo-plus/457821?b=2&k=16795&l=search",
+	"arName":"29 ش اسماعيل صبرى متفرع من ش النزهة, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"29 Ismail Sabry St. Off El Nozha St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"457823",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bogo-plus/457823?b=1&k=16795&l=search",
+	"arName":"خدمة العملاء, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Hegaz Square, Heliopolis, Cairo"
+}
+	]
+}]}

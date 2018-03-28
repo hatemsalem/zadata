@@ -1,0 +1,137 @@
+{"items":[{	"arName":"صيدلية خليل",
+	"enName":"Khalil Pharmacy",
+	"hotlone":"19040",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"351569",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/351569?b=3&k=19040&l=search",
+	"arName":"28 ش الغرفة التجارية, محطة الرمل, الاسكندرية",
+	"enName":"28 El Ghorfa El Togareya St., Raml station, Alexandria"
+},
+		{	"profileId":"351802",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/351802?b=18&k=19040&l=search",
+	"arName":"617 طريق الحرية, زيزينيا, الاسكندرية",
+	"enName":"617 El Horreya Rd., Zezenia, Alexandria"
+},
+		{	"profileId":"158862",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/158862?b=21&k=19040&l=search",
+	"arName":"74 أ ش البرت الاول تقاطع ش فوزى معاذ, سموحة, الاسكندرية",
+	"enName":"74 A Albert El Awal St. Intersection Of Fawzy Moaz St., Semouha, Alexandria"
+},
+		{	"profileId":"158863",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/158863?b=2&k=19040&l=search",
+	"arName":"3 ش يسرى الخضرى متفرع من ش معروف الرصافى, كفر عبده, الاسكندرية",
+	"enName":"3 Yousry El Khodary St. Off Maarouf El Rasafy St., Kafr abdou, Alexandria"
+},
+		{	"profileId":"406345",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/406345?b=5&k=19040&l=search",
+	"arName":"109 ش جمال عبد الناصر تقاطع ش محمد نبيل, سيدى بشر, الاسكندرية",
+	"enName":"109 Gamal Abdel Nasser St. Intersection Of Mohamed Nabil St., Sidi beshr, Alexandria"
+},
+		{	"profileId":"351582",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/351582?b=8&k=19040&l=search",
+	"arName":"كم 28 - طريق اسكندرية القاهرة الصحراوى, مرغم, الاسكندرية",
+	"enName":"Km 28, Alex Cairo Desert Rd., Mirghem, Alexandria"
+},
+		{	"profileId":"486531",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/486531?b=9&k=19040&l=search",
+	"arName":"54 ش اسكندر ابراهيم, ميامى, الاسكندرية",
+	"enName":"54 Iskandar Ibrahim St., Miami, Alexandria"
+},
+		{	"profileId":"354773",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/354773?b=22&k=19040&l=search",
+	"arName":"28 ش الغرفة التجارية, محطة الرمل, الاسكندرية",
+	"enName":"28 El Ghorfa El Togareya St., Raml station, Alexandria"
+},
+		{	"profileId":"351687",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/351687?b=11&k=19040&l=search",
+	"arName":"طريق اسكندرية مطروح الصحراوى, العجمى, الاسكندرية",
+	"enName":"Alex Matrouh Desert Rd., Agami, Alexandria"
+},
+		{	"profileId":"573671",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/573671?b=25&k=19040&l=search",
+	"arName":"طريق اسكندرية مطروح الصحراوى, الهانوفيل, الاسكندرية",
+	"enName":"Alex Matrouh Desert Rd., Hannoville, Alexandria"
+},
+		{	"profileId":"351679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/351679?b=17&k=19040&l=search",
+	"arName":"158 طريق الحرية, الحضرة, الاسكندرية",
+	"enName":"158 El Horreya Rd., El hadara, Alexandria"
+},
+		{	"profileId":"542259",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/542259?b=20&k=19040&l=search",
+	"arName":"57 ش العقيد مصطفى توفيق متفرع من ش اللاجيتيه, الابراهيمية, الاسكندرية",
+	"enName":"57 El Aqid Mostafa Tawfiq St. Off La Guitaih St., El ibrahimeya, Alexandria"
+},
+		{	"profileId":"573657",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/573657?b=24&k=19040&l=search",
+	"arName":"386 ش جمال عبد الناصر, المندرة, الاسكندرية",
+	"enName":"386 Gamal Abdel Nasser St., El mandara, Alexandria"
+},
+		{	"profileId":"573656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/573656?b=6&k=19040&l=search",
+	"arName":"364 ش النقل والهندسة - عمارات سوليك ب, سموحة, الاسكندرية",
+	"enName":"364 El Naql & Handasa St., Solik B Bldgs., Semouha, Alexandria"
+},
+		{	"profileId":"396009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/396009?b=23&k=19040&l=search",
+	"arName":"21 ش كنيسة الاقباط متفرع من ش سعد زغلول, محطة الرمل, الاسكندرية",
+	"enName":"21 Kaniset El Aqbat St. Off Saad Zaghloul St., Raml station, Alexandria"
+},
+		{	"profileId":"258163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/258163?b=7&k=19040&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, محطة الرمل, الاسكندرية",
+	"enName":"Home Delivery, Raml station, Alexandria"
+},
+		{	"profileId":"573673",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/573673?b=13&k=19040&l=search",
+	"arName":"13 عمارات عثمان - ش مصطفى كامل, السيوف شماعة, الاسكندرية",
+	"enName":"13 Othman Bldgs., Mostafa Kamel St., El seyouf shamaa, Alexandria"
+},
+		{	"profileId":"485478",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/485478?b=19&k=19040&l=search",
+	"arName":"452 ش مصطفى كامل, السيوف, الاسكندرية",
+	"enName":"452 Mostafa Kamel St., El seyouf, Alexandria"
+},
+		{	"profileId":"502956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/502956?b=12&k=19040&l=search",
+	"arName":"ش الحديد والصلب متفرع من طريق اسكندرية مطروح الصحراوى, ابو يوسف, الاسكندرية",
+	"enName":"El Hadid & El Solb St. Off Alex Matrouh Desert Rd., Abou youssef, Alexandria"
+},
+		{	"profileId":"190185",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/190185?b=15&k=19040&l=search",
+	"arName":"23 ميدان سعد زغلول, محطة الرمل, الاسكندرية",
+	"enName":"23 Saad Zaghloul Sq., Raml station, Alexandria"
+},
+		{	"profileId":"29732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/29732?b=1&k=19040&l=search",
+	"arName":"28 ش الغرفة التجارية, محطة الرمل, الاسكندرية",
+	"enName":"28 Commercial Chamber St., Raml station, Alexandria"
+},
+		{	"profileId":"485483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/485483?b=4&k=19040&l=search",
+	"arName":"166 ش خالد بن الوليد, سيدى بشر, الاسكندرية",
+	"enName":"166 Khaled Ibn El Walid St., Sidi beshr, Alexandria"
+},
+		{	"profileId":"351580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/351580?b=16&k=19040&l=search",
+	"arName":"6 ابراج شيراتون المنتزة -, المنتزة, المنتزه, الاسكندرية",
+	"enName":"6 Sheraton El Montazah Towers,, EL MONTAZA, El montazah, Alexandria"
+},
+		{	"profileId":"158860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/158860?b=10&k=19040&l=search",
+	"arName":"397 طريق الحرية, مصطفى كامل, الاسكندرية",
+	"enName":"397 El Horreya Rd., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"158861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khalil-pharmacy/158861?b=14&k=19040&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+}
+	]
+}]}

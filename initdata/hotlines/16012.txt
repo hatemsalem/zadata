@@ -1,0 +1,32 @@
+{"items":[{	"arName":"نعيم للوساطة فى الاوراق المالية",
+	"enName":"Naeem Brokerage",
+	"hotlone":"16012",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"153144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/naeem-brokerage/153144?b=2&k=16012&l=search",
+	"arName":"40 ش لبنان, المهندسين, الجيزة",
+	"enName":"40 Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"504266",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/naeem-brokerage/504266?b=3&k=16012&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex. Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"153158",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/naeem-brokerage/153158?b=4&k=16012&l=search",
+	"arName":"4 ش احمد يحيى, جليم, الاسكندرية",
+	"enName":"4 Ahmed Yehia St., Glim, Alexandria"
+},
+		{	"profileId":"225307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/naeem-brokerage/225307?b=1&k=16012&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"customer service, Mohandeseen, Giza"
+}
+	]
+}]}

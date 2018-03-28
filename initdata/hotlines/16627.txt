@@ -1,0 +1,22 @@
+{"items":[{	"arName":"بنده ماركت",
+	"enName":"Panda Market",
+	"hotlone":"16627",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"513354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-market/513354?b=1&k=16627&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"513353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-market/513353?b=2&k=16627&l=search",
+	"arName":"ش 44, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Rd. 44, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

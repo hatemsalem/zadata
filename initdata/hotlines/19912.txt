@@ -1,0 +1,22 @@
+{"items":[{	"arName":"جرومارت",
+	"enName":"Grumart",
+	"hotlone":"19912",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"531489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grumart/531489?b=2&k=19912&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"531432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grumart/531432?b=1&k=19912&l=search",
+	"arName":"6 ش احمد تيسير متفرع من ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"6 Ahmed Tayseer St. Off El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+}
+	]
+}]}

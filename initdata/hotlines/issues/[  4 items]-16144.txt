@@ -1,0 +1,95 @@
+{"items":[{	"arName":"مينا للاستثمار السياحى والعقارى - مجموعة فلوريدا للتنمية والاستثمار",
+	"enName":"Mena For Touristic & Real Estate Investment",
+	"hotlone":"16144",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"516622",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/516622?b=8&k=16144&l=search",
+	"arName":"كم 201 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 201,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"455251",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/455251?b=6&k=16144&l=search",
+	"arName":"8 ش ويصا واصف - برج الامراء - الدور 4, الجيزة, الجيزة",
+	"enName":"8 Wissa Wasef St., El Omaraa Tower, Floor 4, Giza, Giza"
+},
+		{	"profileId":"516620",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/516620?b=5&k=16144&l=search",
+	"arName":"كم 76 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 76,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"442936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/442936?b=7&k=16144&l=search",
+	"arName":"برج الامداد - ش ويصا واصف, الجيزة, الجيزة",
+	"enName":"El Amdaad Bldg., Wissa Wasef St., Giza, Giza"
+},
+		{	"profileId":"187033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/187033?b=4&k=16144&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"منتجع مينا تركواز",
+	"enName":"Mena Turquoise Resort",
+	"hotlone":"16144",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"370264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-turquoise-resort/370264?b=9&k=16144&l=search",
+	"arName":"كم 76 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 76,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"370269",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-turquoise-resort/370269?b=10&k=16144&l=search",
+	"arName":"خدمة العملاء, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Customer Service, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"مينا 5",
+	"enName":"Mena 5",
+	"hotlone":"16144",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"377719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-5/377719?b=3&k=16144&l=search",
+	"arName":"كم 201 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 201,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"516616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-5/516616?b=2&k=16144&l=search",
+	"arName":"خدمة العملاء, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Customer Service, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"نادى بلاك بول",
+	"enName":"Black Pool Club",
+	"hotlone":"16144",
+	"arCategory":[
+		"نوادى"
+	],
+	"enCategories":[
+		"Clubs"
+	],
+	"contacts":[
+		{	"profileId":"440328",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/black-pool-club/440328?b=1&k=16144&l=search",
+	"arName":"تجمع مينا جاردن سيتى, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"Mena Garden City Compound, El Motamayez District, 6th of october, Giza"
+}
+	]
+}]}

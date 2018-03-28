@@ -1,0 +1,67 @@
+{"items":[{	"arName":"رويال للتأمين",
+	"enName":"Royal Insurance",
+	"hotlone":"16902",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"440373",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/440373?b=6&k=16902&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"440372",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/440372?b=9&k=16902&l=search",
+	"arName":"9 ش عبد المنعم رياض تقاطع ش ابو الفدا - برج 23 يوليو - الدور 1, حى الشرق, بور سعيد",
+	"enName":"9 Abdel Moneim Riad St. Intersection Of Abou El Feda St., 23rd Of July Tower, Floor 1, El shark district, Port said"
+},
+		{	"profileId":"390915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/390915?b=7&k=16902&l=search",
+	"arName":"2 ش الاشرف تقاطع ش سعيد - الدور 3, طنطا, الغربية",
+	"enName":"2 El Ashraf St. Intersection Of Said St., Floor 3, Tanta, El gharbeya"
+},
+		{	"profileId":"390917",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/390917?b=11&k=16902&l=search",
+	"arName":"82 ش ابطال التحرير - الدور 5, وسط البلد, اسوان",
+	"enName":"82 Abtal El Tahrir St., Floor 5, Downtown, Aswan"
+},
+		{	"profileId":"440369",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/440369?b=3&k=16902&l=search",
+	"arName":"39 ش قصر النيل - الدور 3, وسط البلد, القاهرة",
+	"enName":"39 Kasr El Nil St., Floor 3, Downtown, Cairo"
+},
+		{	"profileId":"440368",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/440368?b=10&k=16902&l=search",
+	"arName":"56 ش مصدق - الدور 1, المهندسين, الجيزة",
+	"enName":"56 Mossadak St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"176622",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/176622?b=2&k=16902&l=search",
+	"arName":"43 ش عباس العقاد - الدور 2, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"43 Abbas El Akkad St., Floor 2, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"304263",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/304263?b=8&k=16902&l=search",
+	"arName":"21 ش نادى الصيد تقاطع ش محيى الدين ابو العز - الدور 3, المهندسين, الجيزة",
+	"enName":"21 Nady El Seid St. Intersection Of Mohy El Din Abou El Ezz St., Floor 3, Mohandeseen, Giza"
+},
+		{	"profileId":"389926",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/389926?b=4&k=16902&l=search",
+	"arName":"25 طريق الجيش - الدور 2, كامب شيزار, الاسكندرية",
+	"enName":"25 El Guish Rd., Floor 2, Camp shizar, Alexandria"
+},
+		{	"profileId":"304257",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/304257?b=5&k=16902&l=search",
+	"arName":"402 ش المحمدى حويدق - الممشى السياحى - مبارك 2 - الدور 3, الكوثر, الغردقة",
+	"enName":"402 El Mohamady Howaidaq St., Touristic Passage, Mubarak 2, Floor 3, El kawther, Hurghada"
+},
+		{	"profileId":"390910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-insurance/390910?b=1&k=16902&l=search",
+	"arName":"49 ش نوبار تقاطع ش محمد محمود, باب اللوق, القاهرة",
+	"enName":"49 Noubar St. Intersection Of Mohamed Mahmoud St., Bab el louk, Cairo"
+}
+	]
+}]}

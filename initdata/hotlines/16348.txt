@@ -1,0 +1,22 @@
+{"items":[{	"arName":"العاشر للتنمية والاستثمار العقارى - زيزينيا",
+	"enName":"El Asher For Real Estate Development & Investment - Zizinia",
+	"hotlone":"16348",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"473525",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-asher-for-real-estate-development-&-investment-_-zizinia/473525?b=2&k=16348&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"121391",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-asher-for-real-estate-development-&-investment-_-zizinia/121391?b=1&k=16348&l=search",
+	"arName":"19 ش عبد الحميد بدوى - الدور 1, مصر الجديدة, القاهرة",
+	"enName":"19 Abdel Hamid Badawy St., Floor 1, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الشركة العربية للهندسة والاستثمار العقارى",
+	"enName":"Arabian Co. For Engineering & Real Estate Investment",
+	"hotlone":"19566",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"59050",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabian-co.-for-engineering-&-real-estate-investment/59050?b=1&k=19566&l=search",
+	"arName":"1 ابراج السراج مول - ِش عطية الصوالحى - الدور 5 شقة 58, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"1 El Serag Mall Towers, Atteya El Sawalhy St., Floor 5 Flat 58, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"400409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabian-co.-for-engineering-&-real-estate-investment/400409?b=2&k=19566&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 8th District, Nasr city, Cairo"
+}
+	]
+}]}

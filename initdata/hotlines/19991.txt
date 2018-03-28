@@ -1,0 +1,413 @@
+{"items":[{	"arName":"ماكدونالدز",
+	"enName":"McDonald's",
+	"hotlone":"19991",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"94322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94322?b=77&k=19991&l=search",
+	"arName":"162 ش الهرم, الهرم, الجيزة",
+	"enName":"162 Haram St., El haram, Giza"
+},
+		{	"profileId":"316020",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/316020?b=44&k=19991&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"542322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/542322?b=47&k=19991&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"94321",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94321?b=26&k=19991&l=search",
+	"arName":"28 ش شريف متفرع من ش 26 يوليو, وسط البلد, القاهرة",
+	"enName":"28 Sherif St. Off 26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"94320",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94320?b=17&k=19991&l=search",
+	"arName":"6 ش الامير قدادار متفرع من ش محمد محمود, وسط البلد, القاهرة",
+	"enName":"6 El Amir Qadadar St. Off Mohamed Mahmoud St., Downtown, Cairo"
+},
+		{	"profileId":"448985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/448985?b=52&k=19991&l=search",
+	"arName":"40 ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"40 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"526564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/526564?b=68&k=19991&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى, العاشر من رمضان, الشرقية",
+	"enName":"Misr Ismaileya Desert Rd., 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"576931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/576931?b=75&k=19991&l=search",
+	"arName":"ش جمال عبد الناصر - برج الصفا, شبين الكوم, المنوفية",
+	"enName":"Gamal Abdel Nasser St., El Safa Tower, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"142298",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/142298?b=58&k=19991&l=search",
+	"arName":"المشاية, خليج نعمة, شرم الشيخ",
+	"enName":"El Mashaya, Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"358185",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/358185?b=45&k=19991&l=search",
+	"arName":"طريق الواحات - دريم لاند, السادس من اكتوبر, الجيزة",
+	"enName":"Oasis Rd., Dream Land, 6th of october, Giza"
+},
+		{	"profileId":"358187",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/358187?b=31&k=19991&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"176109",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/176109?b=24&k=19991&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"254520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/254520?b=30&k=19991&l=search",
+	"arName":"ش التسعين قطاع 1, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St. Sector 1, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"94313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94313?b=56&k=19991&l=search",
+	"arName":"36 ش نادى الصيد, الدقى, الجيزة",
+	"enName":"36 Nady El Seid St., Dokki, Giza"
+},
+		{	"profileId":"452550",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/452550?b=64&k=19991&l=search",
+	"arName":"106 ش الجمهورية, اسيوط, اسيوط",
+	"enName":"106 El Gomhoureya St., Assyout, Assyout"
+},
+		{	"profileId":"164913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/164913?b=20&k=19991&l=search",
+	"arName":"منطقة المطاعم, مدينة الرحاب, القاهرة",
+	"enName":"Food Court, Al rehab city, Cairo"
+},
+		{	"profileId":"94312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94312?b=49&k=19991&l=search",
+	"arName":"10 ميدان المساحة, الدقى, الجيزة",
+	"enName":"10 El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"176186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/176186?b=76&k=19991&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"94234",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94234?b=38&k=19991&l=search",
+	"arName":"39 ميدان الحصرى - المجاورة الثانية, السادس من اكتوبر, الجيزة",
+	"enName":"39 El Hosary Sq., 2Nd Neighbourhood, 6th of october, Giza"
+},
+		{	"profileId":"94317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94317?b=10&k=19991&l=search",
+	"arName":"42 ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"42 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"232251",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/232251?b=51&k=19991&l=search",
+	"arName":"كم 106 - طريق القاهرة اسكندرية الصحراوى, وادى النطرون, البحيرة",
+	"enName":"Km 106, Cairo Alex Desert Rd., Wadi el natroun, El beheira"
+},
+		{	"profileId":"94350",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94350?b=14&k=19991&l=search",
+	"arName":"54 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"54 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"481152",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/481152?b=7&k=19991&l=search",
+	"arName":"ش ولى العهد, سراى القبة, القاهرة",
+	"enName":"Walley El Ahd St., Saray el koba, Cairo"
+},
+		{	"profileId":"166654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/166654?b=21&k=19991&l=search",
+	"arName":"121 ش شبرا, شبرا, القاهرة",
+	"enName":"121 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"94353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94353?b=36&k=19991&l=search",
+	"arName":"9 ب ش ابو الفدا, الزمالك, القاهرة",
+	"enName":"9 B Abou El Feda St., Zamalek, Cairo"
+},
+		{	"profileId":"460794",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/460794?b=16&k=19991&l=search",
+	"arName":"ش دولتيان - ابراج اغاخان - برج أ, شبرا, القاهرة",
+	"enName":"Dawletian St., Aghakhan Towers, Tower A, Shoubra, Cairo"
+},
+		{	"profileId":"94351",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94351?b=19&k=19991&l=search",
+	"arName":"9 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"9 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"99480",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/99480?b=79&k=19991&l=search",
+	"arName":"66 ش صفية زغلول, محطة الرمل, الاسكندرية",
+	"enName":"66 Safeya Zaghloul St., Raml station, Alexandria"
+},
+		{	"profileId":"99164",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/99164?b=39&k=19991&l=search",
+	"arName":"الممشى السياحى, طريق القرى, الغردقة",
+	"enName":"Touristic Passage, Villages rd., Hurghada"
+},
+		{	"profileId":"99482",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/99482?b=50&k=19991&l=search",
+	"arName":"25 ش الاقبال, لوران, الاسكندرية",
+	"enName":"25 El Eqbal St., Loran, Alexandria"
+},
+		{	"profileId":"230223",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/230223?b=63&k=19991&l=search",
+	"arName":"كم 148 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 148,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"473943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/473943?b=66&k=19991&l=search",
+	"arName":"45 ش طلبة عويضة - القومية, الزقازيق, الشرقية",
+	"enName":"45 Tolba Owaida St., El Qawmeya, El zagazig, El sharkeya"
+},
+		{	"profileId":"470914",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/470914?b=54&k=19991&l=search",
+	"arName":"ش عبد المنعم رياض, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"Abdel Moneim Riad St., El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"254532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/254532?b=72&k=19991&l=search",
+	"arName":"., الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"75962",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/75962?b=40&k=19991&l=search",
+	"arName":"253 طريق الجيش, ستانلى, الاسكندرية",
+	"enName":"253 El Guish Rd., Stanly, Alexandria"
+},
+		{	"profileId":"75963",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/75963?b=48&k=19991&l=search",
+	"arName":"277 ش جمال عبد الناصر, ميامى, الاسكندرية",
+	"enName":"277 Gamal Abdel Nasser St., Miami, Alexandria"
+},
+		{	"profileId":"75965",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/75965?b=71&k=19991&l=search",
+	"arName":"حدائق قصر المنتزة , المنتزة, المنتزه, الاسكندرية",
+	"enName":"El Montazah Palace Gardens, EL MONTAZA, El montazah, Alexandria"
+},
+		{	"profileId":"431142",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/431142?b=32&k=19991&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"75967",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/75967?b=41&k=19991&l=search",
+	"arName":"كم 6 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 6,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"176254",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/176254?b=59&k=19991&l=search",
+	"arName":"ش كورنيش النيل, الكورنيش, اسوان",
+	"enName":"Corniche El Nil St., El corniche, Aswan"
+},
+		{	"profileId":"568539",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/568539?b=74&k=19991&l=search",
+	"arName":"ش الجيش, المنصورة, الدقهلية",
+	"enName":"El Guish St., El mansoura, El dakahleya"
+},
+		{	"profileId":"296905",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/296905?b=5&k=19991&l=search",
+	"arName":"ميدان الحرية - الحى التاسع, مدينة الشروق, القاهرة",
+	"enName":"El Horreya Sq., 9th District, El sherouk city, Cairo"
+},
+		{	"profileId":"94346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94346?b=35&k=19991&l=search",
+	"arName":"39 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"39 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"176098",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/176098?b=3&k=19991&l=search",
+	"arName":"15 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"15 Saray El Gezirah St., Zamalek, Cairo"
+},
+		{	"profileId":"94345",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94345?b=70&k=19991&l=search",
+	"arName":"59 ش شهاب, المهندسين, الجيزة",
+	"enName":"59 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"94344",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94344?b=57&k=19991&l=search",
+	"arName":"32 سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"32 Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"561226",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/561226?b=8&k=19991&l=search",
+	"arName":"ش الخمسين الشطر 13 - عمارة 1, زهراء المعادى, المعادى, القاهرة",
+	"enName":"El Khamseen St. Sector 13, Bldg. 1, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"94348",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94348?b=13&k=19991&l=search",
+	"arName":"ش عباس العقاد, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"Abbas El Akkad St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"94343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94343?b=12&k=19991&l=search",
+	"arName":"7 /1 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"7 /1 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"94342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94342?b=2&k=19991&l=search",
+	"arName":"51 ش 9, ثكنات المعادى, المعادى, القاهرة",
+	"enName":"51 Rd. 9, Thakanat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"445650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/445650?b=73&k=19991&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"94341",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94341?b=34&k=19991&l=search",
+	"arName":"60 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"60 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"445653",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/445653?b=46&k=19991&l=search",
+	"arName":"ش البيطاش, العجمى, الاسكندرية",
+	"enName":"El Bitash St., Agami, Alexandria"
+},
+		{	"profileId":"94340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94340?b=28&k=19991&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"207844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/207844?b=43&k=19991&l=search",
+	"arName":"سور نادى الاتحاد السكندرى -, الشاطبى, الاسكندرية",
+	"enName":"Itthad Club Wall,, El shatby, Alexandria"
+},
+		{	"profileId":"470921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/470921?b=55&k=19991&l=search",
+	"arName":"كم 38 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 38,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"75951",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/75951?b=9&k=19991&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"17549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/17549?b=29&k=19991&l=search",
+	"arName":"10 ش الكامل محمد متفرع من ش 26 يوليو, الزمالك, القاهرة",
+	"enName":"10 El Kamel Mohamed St. Off 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"75952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/75952?b=60&k=19991&l=search",
+	"arName":"1 ش فيكتور عمانويل, سموحة, الاسكندرية",
+	"enName":"1 Victor Emanuel St., Semouha, Alexandria"
+},
+		{	"profileId":"457363",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/457363?b=37&k=19991&l=search",
+	"arName":"ش راغب تقاطع ش شريف, حلوان, القاهرة",
+	"enName":"Ragheb St. Intersection Of Sherif St., Helwan, Cairo"
+},
+		{	"profileId":"438524",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/438524?b=65&k=19991&l=search",
+	"arName":"ش طرح البحر - قرية النورس, حى الشرق, بور سعيد",
+	"enName":"Tarah El Bahr St., El Nawras Village, El shark district, Port said"
+},
+		{	"profileId":"75957",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/75957?b=61&k=19991&l=search",
+	"arName":"كم 28 - طريق الاسكندرية القاهرة الصحراوى, العامرية, الاسكندرية",
+	"enName":"Km 28, Alex Cairo Desert Rd., Amreya, Alexandria"
+},
+		{	"profileId":"94336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94336?b=11&k=19991&l=search",
+	"arName":"110 ش الميرغنى تقاطع ش الثورة, مصر الجديدة, القاهرة",
+	"enName":"110 El Merghany St. Intersection Of El Thawra st., Heliopolis, Cairo"
+},
+		{	"profileId":"94335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94335?b=1&k=19991&l=search",
+	"arName":"54 ش المنيل تقاطع ش محمد فريد, المنيل, القاهرة",
+	"enName":"54 Manial St. Intersection Of Mohamed Farid St., El manyal, Cairo"
+},
+		{	"profileId":"94334",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94334?b=78&k=19991&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"94333",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94333?b=69&k=19991&l=search",
+	"arName":"269 ش الهرم, الهرم, الجيزة",
+	"enName":"269 Haram St., El haram, Giza"
+},
+		{	"profileId":"433858",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/433858?b=22&k=19991&l=search",
+	"arName":"ميدان النافورة, المقطم, القاهرة",
+	"enName":"El Nafoura Sq., Mokattam, Cairo"
+},
+		{	"profileId":"94339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94339?b=33&k=19991&l=search",
+	"arName":"29 ش الاهرام, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"29 El Ahram St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"94338",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94338?b=27&k=19991&l=search",
+	"arName":"23 ش المعهد الاشتراكى, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"23 El Maahad El Eshteraky St., El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"94337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/94337?b=18&k=19991&l=search",
+	"arName":"41 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"41 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"124683",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/124683?b=62&k=19991&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"449324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/449324?b=23&k=19991&l=search",
+	"arName":"القطعة 68/67 - - منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 67/68, , 1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"444940",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/444940?b=53&k=19991&l=search",
+	"arName":"بورتو مارينا - مارينا 3, مارينا, الساحل الشمالى",
+	"enName":"Porto Marina, Marina 3, Marina, North coast"
+},
+		{	"profileId":"426859",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/426859?b=15&k=19991&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"176116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/176116?b=25&k=19991&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"508980",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/508980?b=67&k=19991&l=search",
+	"arName":"107 ش فيصل, المريوطية, فيصل, الجيزة",
+	"enName":"107 Faisal St., El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"431361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/431361?b=6&k=19991&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"176113",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/176113?b=4&k=19991&l=search",
+	"arName":"17 ش السيد الميرغنى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"17 El Sayed El Merghany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"176233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcdonald's/176233?b=42&k=19991&l=search",
+	"arName":"14 ش الشيراتون تقسيم ابو العباس, سقالة, الغردقة",
+	"enName":"14 Sheraton Rd. Abou El Abbas Division, Sekala, Hurghada"
+}
+	]
+}]}

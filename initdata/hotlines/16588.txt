@@ -1,0 +1,17 @@
+{"items":[{	"arName":"وزارة الدفاع والانتاج الحربى",
+	"enName":"Ministry Of Defense & Military Production",
+	"hotlone":"16588",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"256119",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-defense-&-military-production/256119?b=1&k=16588&l=search",
+	"arName":"خدمة العملاء, حدائق القبة, القاهرة",
+	"enName":"Customer Service, Hadayek el kobba, Cairo"
+}
+	]
+}]}

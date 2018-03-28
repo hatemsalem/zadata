@@ -1,0 +1,186 @@
+{"items":[{	"arName":"بابا جونز",
+	"enName":"Papa John's",
+	"hotlone":"19277",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"211282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/211282?b=3&k=19277&l=search",
+	"arName":"19 ش عمر بن الخطاب, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"enName":"19 Omar Ibn El Khattab St., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"514594",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/514594?b=29&k=19277&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"475164",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/475164?b=14&k=19277&l=search",
+	"arName":"1 ش اسماعيل حافظ, الزمالك, القاهرة",
+	"enName":"1 Ismail Hafez St., Zamalek, Cairo"
+},
+		{	"profileId":"408306",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/408306?b=9&k=19277&l=search",
+	"arName":"القطعة 82 - ش اخناتون - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 82, Ekhnatoun St., 1St District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"525987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/525987?b=34&k=19277&l=search",
+	"arName":"30 ش المساحة, الدقى, الجيزة",
+	"enName":"30 El Messaha St., Dokki, Giza"
+},
+		{	"profileId":"246843",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/246843?b=32&k=19277&l=search",
+	"arName":"19 عمارات الاسكان الحدائقى - المحور المركزى, السادس من اكتوبر, الجيزة",
+	"enName":"19 El Iskan El Hadaeqy Bldgs., Central Spine, 6th of october, Giza"
+},
+		{	"profileId":"408321",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/408321?b=7&k=19277&l=search",
+	"arName":"9 ش 9, المقطم, القاهرة",
+	"enName":"9 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"427024",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/427024?b=4&k=19277&l=search",
+	"arName":"84 ش 9, المعادى, القاهرة",
+	"enName":"84 Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"359725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/359725?b=8&k=19277&l=search",
+	"arName":"60 ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"60 El Tayaran St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"465583",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/465583?b=12&k=19277&l=search",
+	"arName":"11 ش مصطفى رفعت, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"11 Mostafa Refaat St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"528645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/528645?b=16&k=19277&l=search",
+	"arName":"., المستثمرين الجنوبية, القاهرة الجديدة, القاهرة",
+	"enName":"., South Investors, New cairo, Cairo"
+},
+		{	"profileId":"527237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/527237?b=30&k=19277&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"439458",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/439458?b=6&k=19277&l=search",
+	"arName":"89 ش عمر بن الخطاب, الماظة, مصر الجديدة, القاهرة",
+	"enName":"89 Omar Ibn El Khattab St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"139159",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/139159?b=18&k=19277&l=search",
+	"arName":"20 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"20 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"456174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/456174?b=21&k=19277&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"430361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/430361?b=10&k=19277&l=search",
+	"arName":"كم 33 - طريق القاهرة السويس, مدينتى, القاهرة",
+	"enName":"Km 33, Cairo Suez Rd., Madinty, Cairo"
+},
+		{	"profileId":"515973",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/515973?b=26&k=19277&l=search",
+	"arName":"كم 150 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 150,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"186624",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/186624?b=17&k=19277&l=search",
+	"arName":"المنطقة 14 - مارينا 4, مارينا, الساحل الشمالى",
+	"enName":"Zone 14, Marina 4, Marina, North coast"
+},
+		{	"profileId":"431515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/431515?b=27&k=19277&l=search",
+	"arName":"464 طريق الجيش, سيدى بشر بحرى, الاسكندرية",
+	"enName":"464 El Guish Rd., Sidi beshr bahary, Alexandria"
+},
+		{	"profileId":"464114",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/464114?b=24&k=19277&l=search",
+	"arName":"52 ش فؤاد, محطة الرمل, الاسكندرية",
+	"enName":"52 Fouad St., Raml station, Alexandria"
+},
+		{	"profileId":"246836",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/246836?b=31&k=19277&l=search",
+	"arName":"المحور المركزى, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 6th of october, Giza"
+},
+		{	"profileId":"139162",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/139162?b=5&k=19277&l=search",
+	"arName":"8 /2 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"8 /2 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"439461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/439461?b=20&k=19277&l=search",
+	"arName":"44 ش الهرم, المريوطية, الهرم, الجيزة",
+	"enName":"44 Haram St., El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"439463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/439463?b=13&k=19277&l=search",
+	"arName":"63 ش المقريزى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"63 El Maqrizy St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"139160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/139160?b=15&k=19277&l=search",
+	"arName":"31 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"31 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"315414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/315414?b=19&k=19277&l=search",
+	"arName":"224 ش الهرم, مدكور, الهرم, الجيزة",
+	"enName":"224 Haram St., Madkour, El haram, Giza"
+},
+		{	"profileId":"139161",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/139161?b=2&k=19277&l=search",
+	"arName":"ش عمر بن الخطاب - الدور 1, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Floor 1, Heliopolis, Cairo"
+},
+		{	"profileId":"483381",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/483381?b=22&k=19277&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"525985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/525985?b=25&k=19277&l=search",
+	"arName":"536 ش الجيش, المندرة, الاسكندرية",
+	"enName":"536 El Guish St., El mandara, Alexandria"
+},
+		{	"profileId":"173540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/173540?b=23&k=19277&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"444948",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/444948?b=28&k=19277&l=search",
+	"arName":"كم 105 - طريق اسكندرية مطروح الصحراوى - مارينا 3, مارينا, الساحل الشمالى",
+	"enName":"Km 105, Alex Matrouh Desert Rd., Marina 3, Marina, North coast"
+},
+		{	"profileId":"175860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/175860?b=11&k=19277&l=search",
+	"arName":"66 ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"66 Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"439467",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/439467?b=33&k=19277&l=search",
+	"arName":"عمارات تراس سموحة - ش النقل والهندسة, سموحة, الاسكندرية",
+	"enName":"Terrace Semouha Bldgs., El Naql & El Handasa St., Semouha, Alexandria"
+},
+		{	"profileId":"177200",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papa-john's/177200?b=1&k=19277&l=search",
+	"arName":"منطقة المطاعم, مدينة الرحاب, القاهرة",
+	"enName":"Food Court, Al rehab city, Cairo"
+}
+	]
+}]}

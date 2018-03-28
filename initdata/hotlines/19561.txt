@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الهيئة العامة للخدمات البيطرية",
+	"enName":"General Organization For Veterinary Services",
+	"hotlone":"19561",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"187114",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-organization-for-veterinary-services/187114?b=2&k=19561&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"customer service, Dokki, Giza"
+},
+		{	"profileId":"187113",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-organization-for-veterinary-services/187113?b=1&k=19561&l=search",
+	"arName":"مبنى الاصلاح - ش نادى الصيد - الدور 5, الدقى, الجيزة",
+	"enName":"El Eslah Bldg., Nady El Seid St., Floor 5, Dokki, Giza"
+}
+	]
+}]}

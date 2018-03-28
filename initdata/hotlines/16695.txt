@@ -1,0 +1,17 @@
+{"items":[{	"arName":"المنارة للتنمية العقارية",
+	"enName":"El Manara For Real Estate Development",
+	"hotlone":"16695",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"472109",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-manara-for-real-estate-development/472109?b=1&k=16695&l=search",
+	"arName":"فيلا 166 - ش الشويفات, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 166, El Showaifat St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

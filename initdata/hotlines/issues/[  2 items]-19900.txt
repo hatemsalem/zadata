@@ -1,0 +1,248 @@
+{"items":[{	"arName":"راية شوب",
+	"enName":"Raya Shop",
+	"hotlone":"19900",
+	"arCategory":[
+		"كهرباء والكترونيات اجهزة ومعدات"
+	],
+	"enCategories":[
+		"Electric & Electronic Devices"
+	],
+	"contacts":[
+		{	"profileId":"129187",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/129187?b=19&k=19900&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"129188",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/129188?b=35&k=19900&l=search",
+	"arName":"269 ش الهرم, الهرم, الجيزة",
+	"enName":"269 Haram St., El haram, Giza"
+},
+		{	"profileId":"291898",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/291898?b=44&k=19900&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"140719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/140719?b=15&k=19900&l=search",
+	"arName":"63 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"63 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"573849",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/573849?b=40&k=19900&l=search",
+	"arName":"166 ش الهرم, الهرم, الجيزة",
+	"enName":"166 Haram St., El haram, Giza"
+},
+		{	"profileId":"573847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/573847?b=28&k=19900&l=search",
+	"arName":"43 ش الليث, مصر الجديدة, القاهرة",
+	"enName":"43 El Leith St., Heliopolis, Cairo"
+},
+		{	"profileId":"393089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/393089?b=33&k=19900&l=search",
+	"arName":"22 ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"22 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"129180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/129180?b=25&k=19900&l=search",
+	"arName":"30 ش بغداد, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"30 Baghdad St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"225128",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/225128?b=37&k=19900&l=search",
+	"arName":"ش الشيراتون, سقالة, الغردقة",
+	"enName":"El Sheraton Rd., Sekala, Hurghada"
+},
+		{	"profileId":"225127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/225127?b=23&k=19900&l=search",
+	"arName":"59 ش شبرا, شبرا, القاهرة",
+	"enName":"59 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"573841",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/573841?b=18&k=19900&l=search",
+	"arName":"43 ش جسر السويس, مصر الجديدة, القاهرة",
+	"enName":"43 Gesr El Suez St., Heliopolis, Cairo"
+},
+		{	"profileId":"225126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/225126?b=27&k=19900&l=search",
+	"arName":"1 ش عبد الحميد لطفى متفرع من ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"1 Abdel Hamid Lotfy St. Off Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"129185",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/129185?b=26&k=19900&l=search",
+	"arName":"50 ش الحجاز, مصر الجديدة, القاهرة",
+	"enName":"50 El Hegaz St., Heliopolis, Cairo"
+},
+		{	"profileId":"225134",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/225134?b=41&k=19900&l=search",
+	"arName":"44 ش مصدق, الدقى, الجيزة",
+	"enName":"44 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"225133",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/225133?b=45&k=19900&l=search",
+	"arName":"25 ش مصدق, الدقى, الجيزة",
+	"enName":"25 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"478405",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/478405?b=20&k=19900&l=search",
+	"arName":"45 ب ش محمد مصطفى المراغى, حلوان, القاهرة",
+	"enName":"45 B Mohamed Mostafa El Maraghy St., Helwan, Cairo"
+},
+		{	"profileId":"137356",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/137356?b=32&k=19900&l=search",
+	"arName":"5 ش الفواكه, المهندسين, الجيزة",
+	"enName":"5 El Fawakeh St., Mohandeseen, Giza"
+},
+		{	"profileId":"137350",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/137350?b=29&k=19900&l=search",
+	"arName":"4 ش صلاح سالم, المنشية, الاسكندرية",
+	"enName":"4 Salah Salem St., El mansheya, Alexandria"
+},
+		{	"profileId":"393092",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/393092?b=30&k=19900&l=search",
+	"arName":"ش عبد المنعم العديسى - المنشية, الاقصر, الاقصر",
+	"enName":"Abdel Moneim El Odeisy St., El Mansheya, LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"129177",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/129177?b=22&k=19900&l=search",
+	"arName":"53 ش المنيل, المنيل, القاهرة",
+	"enName":"53 Manial St., El manyal, Cairo"
+},
+		{	"profileId":"573834",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/573834?b=17&k=19900&l=search",
+	"arName":"ش السد, السيدة زينب, القاهرة",
+	"enName":"El Sad St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"225118",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/225118?b=16&k=19900&l=search",
+	"arName":"1 ش الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"1 El Gazaer St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"129190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/129190?b=36&k=19900&l=search",
+	"arName":"امتداد محور 26 يوليو, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, 6th of october, Giza"
+},
+		{	"profileId":"468936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/468936?b=24&k=19900&l=search",
+	"arName":"48 ش عباس العقاد, مدينة نصر, القاهرة",
+	"enName":"48 Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"573853",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/573853?b=31&k=19900&l=search",
+	"arName":"70 أ ش الجمهورية, حى شرق, اسيوط",
+	"enName":"70 A El Gomhoureya St., Shark district, Assyout"
+},
+		{	"profileId":"129193",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/129193?b=14&k=19900&l=search",
+	"arName":"12 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"12 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"573852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/573852?b=34&k=19900&l=search",
+	"arName":"50 ش سعيد, طنطا, الغربية",
+	"enName":"50 Said St., Tanta, El gharbeya"
+},
+		{	"profileId":"573850",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/573850?b=42&k=19900&l=search",
+	"arName":"ميدان الحصرى, السادس من اكتوبر, الجيزة",
+	"enName":"El Hosary Sq., 6th of october, Giza"
+},
+		{	"profileId":"80629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/80629?b=43&k=19900&l=search",
+	"arName":"24 ش المعسكر الرومانى, رشدى, الاسكندرية",
+	"enName":"24 El Moaskar El Romany St., Roushdy, Alexandria"
+},
+		{	"profileId":"80628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/80628?b=21&k=19900&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"468247",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/468247?b=39&k=19900&l=search",
+	"arName":"40 محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"40 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"329033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-shop/329033?b=38&k=19900&l=search",
+	"arName":"1 ش حسن رضوان متفرع من ش البحر, طنطا, الغربية",
+	"enName":"1 Hassan Radwan St. Off El Bahr St., Tanta, El gharbeya"
+}
+	]
+}, {	"arName":"بست سيرفيس",
+	"enName":"Best Service",
+	"hotlone":"19900",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"225079",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225079?b=6&k=19900&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"225095",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225095?b=11&k=19900&l=search",
+	"arName":"70 أ ش الجمهورية, اسيوط, اسيوط",
+	"enName":"70 A El Gomhoureya St., Assyout, Assyout"
+},
+		{	"profileId":"225094",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225094?b=13&k=19900&l=search",
+	"arName":"1 ش حسن رضوان متفرع من ش البحر, طنطا, الغربية",
+	"enName":"1 Hassan Radwan St. Off El Bahr St., Tanta, El gharbeya"
+},
+		{	"profileId":"548918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/548918?b=9&k=19900&l=search",
+	"arName":"44 ش مصدق, المهندسين, الجيزة",
+	"enName":"44 Mossadak St., Mohandeseen, Giza"
+},
+		{	"profileId":"393157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/393157?b=12&k=19900&l=search",
+	"arName":"24 ش المعسكر الرومانى, رشدى, الاسكندرية",
+	"enName":"24 El Moasker El Romany St., Roushdy, Alexandria"
+},
+		{	"profileId":"393158",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/393158?b=10&k=19900&l=search",
+	"arName":"4 ش صلاح سالم, المنشية, الاسكندرية",
+	"enName":"4 Salah Salem St., El mansheya, Alexandria"
+},
+		{	"profileId":"225088",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225088?b=4&k=19900&l=search",
+	"arName":"50 ش الحجاز, مصر الجديدة, القاهرة",
+	"enName":"50 El Hegaz St., Heliopolis, Cairo"
+},
+		{	"profileId":"225087",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225087?b=5&k=19900&l=search",
+	"arName":"1 ش عبد الحميد لطفى, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"1 Abdel Hamid Lotfy St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"225086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225086?b=1&k=19900&l=search",
+	"arName":"59 ش شبرا, شبرا, القاهرة",
+	"enName":"59 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"225089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225089?b=3&k=19900&l=search",
+	"arName":"12 عمارات العبور - ش صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"12 El Obour Bldgs., Salah Salem St., Nasr city, Cairo"
+},
+		{	"profileId":"225080",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225080?b=8&k=19900&l=search",
+	"arName":"7 ش وادى النيل, المهندسين, الجيزة",
+	"enName":"7 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"225084",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225084?b=2&k=19900&l=search",
+	"arName":"1 ميدان الجزائر , المعادى الجديدة, المعادى, القاهرة",
+	"enName":"1 El Gazaer Sq., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"225081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/best-service/225081?b=7&k=19900&l=search",
+	"arName":"166 ش الهرم, الهرم, الجيزة",
+	"enName":"166 Haram St., El haram, Giza"
+}
+	]
+}]}

@@ -1,0 +1,51 @@
+{"items":[{	"arName":"كشرى ابو طارق",
+	"enName":"Koshary Abou Tarek",
+	"hotlone":"16760",
+	"arCategory":[
+		"كشرى",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Koshari",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"537784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-abou-tarek/537784?b=1&k=16760&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"95304",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-abou-tarek/95304?b=2&k=16760&l=search",
+	"arName":"16 ش معروف - شامبليون, وسط البلد, القاهرة",
+	"enName":"16 Maarouf St., Champillion, Downtown, Cairo"
+}
+	]
+}, {	"arName":"كشرى ابو طارق تو جو",
+	"enName":"Koshary Abou Tarek To Go",
+	"hotlone":"16760",
+	"arCategory":[
+		"كشرى",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Koshari",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"537786",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-abou-tarek-to-go/537786?b=3&k=16760&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"515616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-abou-tarek-to-go/515616?b=4&k=16760&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

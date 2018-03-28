@@ -1,0 +1,22 @@
+{"items":[{	"arName":"دراية لخدمات البيع",
+	"enName":"Deraya Sales Services",
+	"hotlone":"16301",
+	"arCategory":[
+		"تسويق استشاريون"
+	],
+	"enCategories":[
+		"Marketing Consultants"
+	],
+	"contacts":[
+		{	"profileId":"187433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/deraya-sales-services/187433?b=2&k=16301&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer service, Heliopolis, Cairo"
+},
+		{	"profileId":"172673",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/deraya-sales-services/172673?b=1&k=16301&l=search",
+	"arName":"105 عمارة اوسكار - ش عمر بن الخطاب - الدور 8, الماظة, مصر الجديدة, القاهرة",
+	"enName":"105 Oscar Bldg., Omar Ibn El Khattab St., Floor 8, Almaza, Heliopolis, Cairo"
+}
+	]
+}]}

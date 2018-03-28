@@ -1,0 +1,37 @@
+{"items":[{	"arName":"تيز تور ايجيبت",
+	"enName":"Tez Tour Egypt",
+	"hotlone":"16983",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"546091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tez-tour-egypt/546091?b=1&k=16983&l=search",
+	"arName":"14 أ/1 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"14 A/1 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"532851",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tez-tour-egypt/532851?b=4&k=16983&l=search",
+	"arName":"طريق الغردقة سفاجا - مجاويش, طريق القرى, الغردقة",
+	"enName":"Hurghada Safaga Rd., Magawish, Villages rd., Hurghada"
+},
+		{	"profileId":"532861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tez-tour-egypt/532861?b=2&k=16983&l=search",
+	"arName":"خدمة العملاء, طريق القرى, الغردقة",
+	"enName":"Customer Service, Villages rd., Hurghada"
+},
+		{	"profileId":"160031",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tez-tour-egypt/160031?b=3&k=16983&l=search",
+	"arName":"., خليج نعمة, شرم الشيخ",
+	"enName":"., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"399591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tez-tour-egypt/399591?b=5&k=16983&l=search",
+	"arName":"44 ش الهرم, المريوطية, الهرم, الجيزة",
+	"enName":"44 Haram St., El Mariouteya, El haram, Giza"
+}
+	]
+}]}

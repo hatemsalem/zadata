@@ -1,0 +1,56 @@
+{"items":[{	"arName":"بيتزا كوين",
+	"enName":"Pizza Queen",
+	"hotlone":"16393",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"403033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/403033?b=4&k=16393&l=search",
+	"arName":"4 ش شهر العسل, البيطاش, الاسكندرية",
+	"enName":"4 Shahr El Asal St., El bitash, Alexandria"
+},
+		{	"profileId":"256522",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/256522?b=3&k=16393&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ميامى, الاسكندرية",
+	"enName":"Home Delivery , Miami, Alexandria"
+},
+		{	"profileId":"440616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/440616?b=8&k=16393&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"202837",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/202837?b=1&k=16393&l=search",
+	"arName":"كم 6 - , طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 6, , Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"79706",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/79706?b=2&k=16393&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"45495",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/45495?b=6&k=16393&l=search",
+	"arName":"628 طريق الجيش, ميامى, الاسكندرية",
+	"enName":"628 El Guish Rd., Miami, Alexandria"
+},
+		{	"profileId":"403040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/403040?b=5&k=16393&l=search",
+	"arName":"ش يوسف السباعى, المعمورة الشاطئ, الاسكندرية",
+	"enName":"Youssef El Sebaey St., El mamorah shatia, Alexandria"
+},
+		{	"profileId":"202840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/202840?b=7&k=16393&l=search",
+	"arName":"قرية النخيل, العجمى, الاسكندرية",
+	"enName":"El Nakhil Village, Agami, Alexandria"
+}
+	]
+}]}

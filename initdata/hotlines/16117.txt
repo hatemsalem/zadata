@@ -1,0 +1,27 @@
+{"items":[{	"arName":"هيئة النيابة الادارية",
+	"enName":"Administrative Prosecution Authority",
+	"hotlone":"16117",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"539630",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-prosecution-authority/539630?b=2&k=16117&l=search",
+	"arName":"5 أ ش ذكى - التوفيقية, وسط البلد, القاهرة",
+	"enName":"5 A Zaky St., El Tawfiqeya, Downtown, Cairo"
+},
+		{	"profileId":"539634",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-prosecution-authority/539634?b=3&k=16117&l=search",
+	"arName":"المحور المركزى - ميدان النجدة - مبنى النيابة الادارية, الحى الرابع, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Nagdah Sq., Administrative Prosecution Bldg., 4th District, 6th of october, Giza"
+},
+		{	"profileId":"255806",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-prosecution-authority/255806?b=1&k=16117&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

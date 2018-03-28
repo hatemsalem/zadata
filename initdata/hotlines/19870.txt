@@ -1,0 +1,27 @@
+{"items":[{	"arName":"صيدلية دواء",
+	"enName":"Dawaa Pharmacy",
+	"hotlone":"19870",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"144641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawaa-pharmacy/144641?b=1&k=19870&l=search",
+	"arName":"37 ش محمد توفيق دياب, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"37 Mohamed Tawfiq Diab St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"144642",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawaa-pharmacy/144642?b=2&k=19870&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"enName":"Home Delivery, Nasr city, Cairo"
+},
+		{	"profileId":"172955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawaa-pharmacy/172955?b=3&k=19870&l=search",
+	"arName":"16 ش الطيران, مدينة نصر, القاهرة",
+	"enName":"16 El Tayaran St., Nasr city, Cairo"
+}
+	]
+}]}

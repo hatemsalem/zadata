@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ايجى جيت ترافيل",
+	"enName":"Egy Gate Travel",
+	"hotlone":"16209",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"457909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-gate-travel/457909?b=2&k=16209&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"454069",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-gate-travel/454069?b=1&k=16209&l=search",
+	"arName":"53 ش مصطفى النحاس تقاطع ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"53 Mostafa El Nahhas St. Intersection Of Makram Ebaid St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

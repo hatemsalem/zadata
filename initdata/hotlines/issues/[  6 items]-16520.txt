@@ -1,0 +1,102 @@
+{"items":[{	"arName":"مجموعة الوالى",
+	"enName":"Al Waly Group",
+	"hotlone":"16520",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"12438",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-waly-group/12438?b=4&k=16520&l=search",
+	"arName":"4 ش ويصا واصف متفرع من ش مراد - الدور 11, الجيزة, الجيزة",
+	"enName":"4 Wissa Wasef St. Off Mourad St., Floor 11, Giza, Giza"
+},
+		{	"profileId":"256701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-waly-group/256701?b=5&k=16520&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}, {	"arName":"كواترو مول",
+	"enName":"Quatro Mall",
+	"hotlone":"16520",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"442587",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quatro-mall/442587?b=6&k=16520&l=search",
+	"arName":"طريق المريوطية, المريوطية, فيصل, الجيزة",
+	"enName":"El Mariouteya Rd., El Mariouteya, Faisal, Giza"
+}
+	]
+}, {	"arName":"الوالى للخرسانة الجاهزة",
+	"enName":"Al Waly For Ready Mixed Concrete",
+	"hotlone":"16520",
+	"arCategory":[
+		"اسمنت وخرسانة وجبس وطوب ومعدات"
+	],
+	"enCategories":[
+		"Cement & Concrete, Gypsum, Brick & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"441117",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-waly-for-ready-mixed-concrete/441117?b=2&k=16520&l=search",
+	"arName":"4 ش ويصا واصف متفرع من ش مراد - الدور 11, الجيزة, الجيزة",
+	"enName":"4 Wissa Wasef St. Off Mourad St., Floor 11, Giza, Giza"
+}
+	]
+}, {	"arName":"الوالى للتجارة والمقاولات والتنمية العمرانية",
+	"enName":"Al Waly For Trading, Contracting & Urban Development",
+	"hotlone":"16520",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"441116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-waly-for-trading,-contracting-&-urban-development/441116?b=3&k=16520&l=search",
+	"arName":"4 ش ويصا واصف متفرع من ش مراد - الدور 1, الجيزة, الجيزة",
+	"enName":"4 Wissa Wasef St. Off Mourad St., Floor 1, Giza, Giza"
+}
+	]
+}, {	"arName":"الوالى للانشاء والتعمير",
+	"enName":"Al Waly For Construction & Urban",
+	"hotlone":"16520",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"441115",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-waly-for-construction-&-urban/441115?b=1&k=16520&l=search",
+	"arName":"4 ش ويصا واصف متفرع من ش مراد - الدور 1, الجيزة, الجيزة",
+	"enName":"4 Wissa Wasef St. Off Mourad St., Floor 1, Giza, Giza"
+}
+	]
+}, {	"arName":"تاون فالى",
+	"enName":"Town Valley",
+	"hotlone":"16520",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"133429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-valley/133429?b=7&k=16520&l=search",
+	"arName":"طريق ترعة المريوطية, المريوطية, فيصل, الجيزة",
+	"enName":"Teraet El Mariouteya Rd., El Mariouteya, Faisal, Giza"
+}
+	]
+}]}

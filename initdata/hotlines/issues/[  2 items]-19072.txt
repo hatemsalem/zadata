@@ -1,0 +1,325 @@
+{"items":[{	"arName":"البنك الاهلى المتحد",
+	"enName":"Ahli United Bank",
+	"hotlone":"19072",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"373258",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/373258?b=22&k=19072&l=search",
+	"arName":"القطعة الرابعة - - مجمع البنوك, العاشر من رمضان, الشرقية",
+	"enName":"4th Plot, , Banks Complex, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"139249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139249?b=24&k=19072&l=search",
+	"arName":"127 طريق الحرية تقاطع ش باتريس لومومبا, باب شرق, الاسكندرية",
+	"enName":"127 El Horreya Rd. Intersection Of Patrice Lumumba St., Bab shark, Alexandria"
+},
+		{	"profileId":"158603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/158603?b=33&k=19072&l=search",
+	"arName":"52 ش نادى الصيد, الدقى, الجيزة",
+	"enName":"52 Nady El Seid St., Dokki, Giza"
+},
+		{	"profileId":"444895",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/444895?b=20&k=19072&l=search",
+	"arName":"75 ش فوزى معاذ, سموحة, الاسكندرية",
+	"enName":"75 Fawzy Moaz St., Semouha, Alexandria"
+},
+		{	"profileId":"175457",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/175457?b=6&k=19072&l=search",
+	"arName":"14 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"14 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"471472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/471472?b=11&k=19072&l=search",
+	"arName":"السوق التجارى الجديد, مدينة الرحاب, القاهرة",
+	"enName":"New Commercial Market, Al rehab city, Cairo"
+},
+		{	"profileId":"139334",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139334?b=27&k=19072&l=search",
+	"arName":"31 ش سعد زغلول تقاطع ش الجيش, حى الشرق, بور سعيد",
+	"enName":"31 Saad Zaghloul St. Intersection Of El Guish St., El shark district, Port said"
+},
+		{	"profileId":"437011",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/437011?b=21&k=19072&l=search",
+	"arName":"القطعة 33 - المجاورة السادسة - الحى الرابع, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 33, 6th Neighbourhood, 4th District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"139339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139339?b=9&k=19072&l=search",
+	"arName":"3 ش 79 تقاطع ش 10, المعادى, القاهرة",
+	"enName":"3 Rd. 79 Intersection Of Rd. 10, Maadi, Cairo"
+},
+		{	"profileId":"137998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/137998?b=35&k=19072&l=search",
+	"arName":"64 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"64 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"163347",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/163347?b=13&k=19072&l=search",
+	"arName":"ش اللاسلكى - مبنى 2/3 - وحدة 4, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"El Laselky St., Bldg. 2/3, Unit 4, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"139337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139337?b=19&k=19072&l=search",
+	"arName":"2 ش الجيش تقاطع ش الاقصر, حى السويس, السويس",
+	"enName":"2 El Guish St. Intersection Of Luxor St., Suez district, Suez"
+},
+		{	"profileId":"139338",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139338?b=5&k=19072&l=search",
+	"arName":"129 ش الميرغنى تقاطع ش النزهة - ميدان السبع عمارات, مصر الجديدة, القاهرة",
+	"enName":"129 El Marghany St. Intersection Of El Nozha St., El Sabaa Emarat Sq., Heliopolis, Cairo"
+},
+		{	"profileId":"248930",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/248930?b=29&k=19072&l=search",
+	"arName":"المحور المركزى, الحى الثالث, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 3rd District, 6th of october, Giza"
+},
+		{	"profileId":"148403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/148403?b=2&k=19072&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"139341",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139341?b=28&k=19072&l=search",
+	"arName":"1 ش الجيش, طنطا, الغربية",
+	"enName":"1 El Guish St., Tanta, El gharbeya"
+},
+		{	"profileId":"541612",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/541612?b=12&k=19072&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"139308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139308?b=8&k=19072&l=search",
+	"arName":"15 ش الاهرام, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"15 El Ahram St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"139307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139307?b=4&k=19072&l=search",
+	"arName":"4 ش شامبليون, وسط البلد, القاهرة",
+	"enName":"4 Champillion St., Downtown, Cairo"
+},
+		{	"profileId":"163336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/163336?b=15&k=19072&l=search",
+	"arName":"طريق السلام, خليج نبق, شرم الشيخ",
+	"enName":"El Salam Rd., Nabq bay, Sharm el sheikh"
+},
+		{	"profileId":"541653",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/541653?b=23&k=19072&l=search",
+	"arName":"40 محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"40 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"541610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/541610?b=3&k=19072&l=search",
+	"arName":"68 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"68 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"468379",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/468379?b=30&k=19072&l=search",
+	"arName":"طريق السلام, خليج نعمة, شرم الشيخ",
+	"enName":"El Salam Rd., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"139313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139313?b=1&k=19072&l=search",
+	"arName":"40 ش شبرا, شبرا, القاهرة",
+	"enName":"40 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"139319",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139319?b=25&k=19072&l=search",
+	"arName":"195 ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"195 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"139318",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139318?b=17&k=19072&l=search",
+	"arName":"122 ش المديرية - مجمع البنوك, دمياط, دمياط",
+	"enName":"122 El Modereya St., Banks Complex, Damietta, Damietta"
+},
+		{	"profileId":"163326",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/163326?b=10&k=19072&l=search",
+	"arName":"13 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"13 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"139316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139316?b=32&k=19072&l=search",
+	"arName":"132 ش الهرم, الهرم, الجيزة",
+	"enName":"132 Haram St., El haram, Giza"
+},
+		{	"profileId":"163645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/163645?b=34&k=19072&l=search",
+	"arName":"4 ش عبد السلام عارف تقاطع ش الجمهورية - برج مكة, الجمهورية, بور سعيد",
+	"enName":"4 Abdel Salam Aref St. Intersection Of El Gomhoureya St., Mekka Tower, El gomhoureya, Port said"
+},
+		{	"profileId":"169352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/169352?b=14&k=19072&l=search",
+	"arName":"11 ش البرازيل, الزمالك, القاهرة",
+	"enName":"11 Brazil St., Zamalek, Cairo"
+},
+		{	"profileId":"169103",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/169103?b=26&k=19072&l=search",
+	"arName":"ش يوسف عفيفى - الممشى السياحى - فيلا 2, طريق القرى, الغردقة",
+	"enName":"Youssef Afify St., Touristic Passage, Villa 2, Villages rd., Hurghada"
+},
+		{	"profileId":"139248",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139248?b=16&k=19072&l=search",
+	"arName":"544 طريق الجيش, سيدى بشر, الاسكندرية",
+	"enName":"544 El Guish Rd., Sidi beshr, Alexandria"
+},
+		{	"profileId":"139245",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139245?b=7&k=19072&l=search",
+	"arName":"القطعة 81 - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 81, El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"139246",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139246?b=31&k=19072&l=search",
+	"arName":"22 ش عادل حسين رستم تقاطع ش لطفى حسونة, الدقى, الجيزة",
+	"enName":"22 Adel Hussein Rostom St. Intersection Of Lotfy Hasouna St., Dokki, Giza"
+},
+		{	"profileId":"139320",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank/139320?b=18&k=19072&l=search",
+	"arName":"21 ش الجمهورية ميدان بالاس, وسط البلد, المنيا",
+	"enName":"21 El Gomhoureya St. Palace Sq., Downtown, El menia"
+}
+	]
+}, {	"arName":"البنك الاهلى المتحد - ماكينة الصراف الالى",
+	"enName":"Ahli United Bank - ATM",
+	"hotlone":"19072",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"248921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/248921?b=57&k=19072&l=search",
+	"arName":"21 ش رفاعة ميدان المساحة, الدقى, الجيزة",
+	"enName":"21 Refaah St. El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"248926",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/248926?b=58&k=19072&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+},
+		{	"profileId":"548593",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/548593?b=56&k=19072&l=search",
+	"arName":"طريق اسكندرية القاهرة الصحراوى, محرم بك, الاسكندرية",
+	"enName":"Alex Cairo Desert Rd., Moharram bey, Alexandria"
+},
+		{	"profileId":"548592",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/548592?b=60&k=19072&l=search",
+	"arName":"منطقة المطار, الكوثر, الغردقة",
+	"enName":"Airport Zone, El kawther, Hurghada"
+},
+		{	"profileId":"548591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/548591?b=52&k=19072&l=search",
+	"arName":"طريق السلام, خليج نبق, شرم الشيخ",
+	"enName":"El Salam Rd., Nabq bay, Sharm el sheikh"
+},
+		{	"profileId":"548595",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/548595?b=54&k=19072&l=search",
+	"arName":"16 ميدان سعد زغلول, محطة الرمل, الاسكندرية",
+	"enName":"16 Saad Zaghloul Sq., Raml station, Alexandria"
+},
+		{	"profileId":"543643",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/543643?b=59&k=19072&l=search",
+	"arName":"القطعة 31 - , الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31, , El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"248906",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/248906?b=36&k=19072&l=search",
+	"arName":"21 ش محمد مظهر, الزمالك, القاهرة",
+	"enName":"21 Mohamed Mazhar St., Zamalek, Cairo"
+},
+		{	"profileId":"543637",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/543637?b=47&k=19072&l=search",
+	"arName":"ش عمر بن الخطاب متفرع من طريق النصر, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St. Off El Nasr Rd., Heliopolis, Cairo"
+},
+		{	"profileId":"543632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/543632?b=46&k=19072&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"465936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/465936?b=49&k=19072&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+},
+		{	"profileId":"465937",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/465937?b=44&k=19072&l=search",
+	"arName":"34 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"34 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"465932",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/465932?b=43&k=19072&l=search",
+	"arName":"كم 37 - طريق مصر اسماعيلية الصحراوى, مدينة الشروق, القاهرة",
+	"enName":"Km 37, Misr Ismaileya Desert Rd., El sherouk city, Cairo"
+},
+		{	"profileId":"465931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/465931?b=48&k=19072&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"465934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/465934?b=53&k=19072&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"543639",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/543639?b=38&k=19072&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"559741",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/559741?b=51&k=19072&l=search",
+	"arName":"., المستثمرين الجنوبية, القاهرة الجديدة, القاهرة",
+	"enName":"., South Investors, New cairo, Cairo"
+},
+		{	"profileId":"543641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/543641?b=55&k=19072&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"546353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/546353?b=40&k=19072&l=search",
+	"arName":"119 /121 ش البنوك امتداد ش السبعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"119 /121 El Bonouk St. Extension Of El Sabaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"465943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/465943?b=50&k=19072&l=search",
+	"arName":"القطعة 90 - - منطقة خدمات الياسمين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 90, , El Yasmeen Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"248910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/248910?b=42&k=19072&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"465944",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/465944?b=45&k=19072&l=search",
+	"arName":"ش التسعين - سيتى سنتر, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"248913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/248913?b=37&k=19072&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"427279",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/427279?b=39&k=19072&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"169104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahli-united-bank-_-atm/169104?b=41&k=19072&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

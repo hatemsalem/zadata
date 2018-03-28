@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المؤسسة العربية الافريقية للابحاث والتنمية المستدامة",
+	"enName":"Arab African Foundation For Research & Sustainable Development",
+	"hotlone":"16728",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"474410",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-african-foundation-for-research-&-sustainable-development/474410?b=2&k=16728&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"277637",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-african-foundation-for-research-&-sustainable-development/277637?b=1&k=16728&l=search",
+	"arName":"18 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"18 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"اراب فينانس",
+	"enName":"Arab Finance",
+	"hotlone":"19717",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"323709",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-finance/323709?b=2&k=19717&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"customer Service, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"91602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-finance/91602?b=1&k=19717&l=search",
+	"arName":"13 برج الجزيرة 1 - ش الكردى, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"13 El Gezirah Tower 1, El Kordy St., Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

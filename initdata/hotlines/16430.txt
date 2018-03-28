@@ -1,0 +1,367 @@
+{"items":[{	"arName":"ويسترن يونيون - البنك العربى الافريقى الدولى",
+	"enName":"Western Union - Arab African International Bank",
+	"hotlone":"16430",
+	"arCategory":[
+		"تحويل اموال"
+	],
+	"enCategories":[
+		"Money Transfers"
+	],
+	"contacts":[
+		{	"profileId":"405695",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/405695?b=37&k=16430&l=search",
+	"arName":"72 ش سعد زغلول, الزقازيق, الشرقية",
+	"enName":"72 Saad Zaghloul St., El zagazig, El sharkeya"
+},
+		{	"profileId":"289677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289677?b=21&k=16430&l=search",
+	"arName":"54 د ش الجمهورية, وسط البلد, القاهرة",
+	"enName":"54 D El Gomhoureya St., Downtown, Cairo"
+},
+		{	"profileId":"289674",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289674?b=8&k=16430&l=search",
+	"arName":"24 ش كليوباترا, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"24 Cleopatra St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"402182",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402182?b=11&k=16430&l=search",
+	"arName":"116 ش الستين - المركز التجارى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"116 El Seteen St., Commercial Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"402181",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402181?b=18&k=16430&l=search",
+	"arName":"33 ش الحجاز - الدور 1, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"33 El Hegaz St., Floor 1, El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"289713",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289713?b=9&k=16430&l=search",
+	"arName":"33 ش ابو داوود الظاهرى متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"33 Abou Dawoud El Zahery St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"289835",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289835?b=27&k=16430&l=search",
+	"arName":"74 ش البرت الاول - برج البارون, سموحة, الاسكندرية",
+	"enName":"74 Albert El Awal St., El Baroun Tower, Semouha, Alexandria"
+},
+		{	"profileId":"289833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289833?b=49&k=16430&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"492180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/492180?b=3&k=16430&l=search",
+	"arName":"1 /4 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"1 /4 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"289716",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289716?b=22&k=16430&l=search",
+	"arName":"مجمع البنوك - مبنى 4, مدينة الرحاب, القاهرة",
+	"enName":"Banks Complex, Bldg. 4, Al rehab city, Cairo"
+},
+		{	"profileId":"402189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402189?b=34&k=16430&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"132613",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/132613?b=56&k=16430&l=search",
+	"arName":"ش البولينج, خليج نعمة, شرم الشيخ",
+	"enName":"El Bowling St., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"402187",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402187?b=12&k=16430&l=search",
+	"arName":"3 ش حسن صبرى, الزمالك, القاهرة",
+	"enName":"3 Hassan Sabry St., Zamalek, Cairo"
+},
+		{	"profileId":"493543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/493543?b=7&k=16430&l=search",
+	"arName":"منطقة الدرة, مدينة الشروق, القاهرة",
+	"enName":"El Dorra Zone, El sherouk city, Cairo"
+},
+		{	"profileId":"494313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494313?b=44&k=16430&l=search",
+	"arName":"10 ش سميح مبارك - برج الصفا بلازا, شبين الكوم, المنوفية",
+	"enName":"10 Samih Moubark St., El Safa Plaza Tower, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"494311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494311?b=60&k=16430&l=search",
+	"arName":"ش عبد السلام الشاذلى - برج المدينة المنورة, دمنهور, البحيرة",
+	"enName":"Abdel Salam El Shazly St., El Madina El Monawara Tower, Damanhour, El beheira"
+},
+		{	"profileId":"494750",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494750?b=6&k=16430&l=search",
+	"arName":"10 أ ميدان ابن سندر, الزيتون, القاهرة",
+	"enName":"10 A Ibn Sendar Sq., El zaytoun, Cairo"
+},
+		{	"profileId":"495245",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/495245?b=13&k=16430&l=search",
+	"arName":"17 ابراج اغاخان - ش دوليتان, شبرا, القاهرة",
+	"enName":"17 Aghakhan Towers, Dawletian St., Shoubra, Cairo"
+},
+		{	"profileId":"493549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/493549?b=31&k=16430&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"494318",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494318?b=45&k=16430&l=search",
+	"arName":"3 ش ابن ارحب متفرع من ش النيل, الجيزة, الجيزة",
+	"enName":"3 Ibn Arhab St. Off El Nil St., Giza, Giza"
+},
+		{	"profileId":"493547",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/493547?b=55&k=16430&l=search",
+	"arName":"19 ش المساحة, الدقى, الجيزة",
+	"enName":"19 El Messaha St., Dokki, Giza"
+},
+		{	"profileId":"495249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/495249?b=61&k=16430&l=search",
+	"arName":"كم 105 - طريق اسكندرية مطروح الصحراوى - مارينا 3, مارينا, الساحل الشمالى",
+	"enName":"Km 105, Alex Matrouh Desert Rd., Marina 3, Marina, North coast"
+},
+		{	"profileId":"464917",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/464917?b=5&k=16430&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"402173",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402173?b=71&k=16430&l=search",
+	"arName":"ش محمد سعيد - مجمع لوتس الجوهرة, الكوثر, الغردقة",
+	"enName":"Mohamed Said St., Lotus El Gawhara Compound, El kawther, Hurghada"
+},
+		{	"profileId":"290358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/290358?b=57&k=16430&l=search",
+	"arName":"طريق دمياط رأس البر تقسيم زاهر السنانية, دمياط, دمياط",
+	"enName":"Damietta Ras El Bar Rd. Zaher El Sananeya Division, Damietta, Damietta"
+},
+		{	"profileId":"289685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289685?b=15&k=16430&l=search",
+	"arName":"القطعة 354 - ميدان النافورة - المنطقة د, المقطم, القاهرة",
+	"enName":"Plot 354, El Nafoura Sq., Zone D, Mokattam, Cairo"
+},
+		{	"profileId":"402171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402171?b=42&k=16430&l=search",
+	"arName":"الاردنية, العاشر من رمضان, الشرقية",
+	"enName":"El Ordoneya, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"402170",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402170?b=10&k=16430&l=search",
+	"arName":"1 ش 9 ميدان المحطة - عمارة معادى بالاس, المعادى, القاهرة",
+	"enName":"1 Rd. 9 El Mahatta Sq., Maadi Palace Bldg., Maadi, Cairo"
+},
+		{	"profileId":"405688",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/405688?b=36&k=16430&l=search",
+	"arName":"195 ش الجمهورية - برج قصر النيل, المنصورة, الدقهلية",
+	"enName":"195 El Gomhoureya St., Kasr El Nil Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"563238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/563238?b=48&k=16430&l=search",
+	"arName":"ش كورنيش النيل, وسط البلد, اسوان",
+	"enName":"Corniche El Nil St., Downtown, Aswan"
+},
+		{	"profileId":"290354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/290354?b=50&k=16430&l=search",
+	"arName":"95 ش الجيش, طنطا, الغربية",
+	"enName":"95 El Guish St., Tanta, El gharbeya"
+},
+		{	"profileId":"495240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/495240?b=54&k=16430&l=search",
+	"arName":"27 ش عرفات وطرح البحر - برج الحفنى, حى الشرق, بور سعيد",
+	"enName":"27 Arafat & Tarh El Bahr St., El Hefny Tower, El shark district, Port said"
+},
+		{	"profileId":"402177",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402177?b=33&k=16430&l=search",
+	"arName":"10 ش شكرى القواتلى, المحلة الكبرى, الغربية",
+	"enName":"10 Shokry El Qawatly St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"402175",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402175?b=51&k=16430&l=search",
+	"arName":"كفر الجونة - مبنى H2H1, وسط البلد, الجونة",
+	"enName":"Kafr El Gouna, Bldg. H2H1, Downtown, El gouna"
+},
+		{	"profileId":"492167",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/492167?b=25&k=16430&l=search",
+	"arName":"2005 ب ابراج نايل سيتى - كورنيش النيل, رملة بولاق, القاهرة",
+	"enName":"2005 B Nile City Towers, Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"492240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/492240?b=62&k=16430&l=search",
+	"arName":"73 ش المهندس احمد محمد اسماعيل - ش منشا سابقا, وابور المياه, الاسكندرية",
+	"enName":"73 El Mohandes Ahmed Mohamed Ismail St. - Mansha St. Previously, Wabour el mayah, Alexandria"
+},
+		{	"profileId":"495231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/495231?b=24&k=16430&l=search",
+	"arName":"6 ش بغداد, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"6 Baghdad St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"289694",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289694?b=4&k=16430&l=search",
+	"arName":"13 ش تاج الدين السبكى متفرع من ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"13 Tag El Din El Sobky St. Off El Nozha St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"492205",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/492205?b=29&k=16430&l=search",
+	"arName":"359 ش السودان, المهندسين, الجيزة",
+	"enName":"359 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"494746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494746?b=19&k=16430&l=search",
+	"arName":"160 ش جوهر القائد, الازهر, القاهرة",
+	"enName":"160 Gawhar El Qaed St., Azhar, Cairo"
+},
+		{	"profileId":"495236",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/495236?b=67&k=16430&l=search",
+	"arName":"طريق رأس البر, دمياط الجديدة, دمياط",
+	"enName":"Ras El Bar Rd., New damietta, Damietta"
+},
+		{	"profileId":"289697",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289697?b=16&k=16430&l=search",
+	"arName":"140 ش الميرغنى, الماظة, مصر الجديدة, القاهرة",
+	"enName":"140 El Merghany St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"289730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289730?b=23&k=16430&l=search",
+	"arName":"29 ش قصر النيل, وسط البلد, القاهرة",
+	"enName":"29 Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"405676",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/405676?b=35&k=16430&l=search",
+	"arName":"القطعة 31 -, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"289810",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289810?b=38&k=16430&l=search",
+	"arName":"منطقة البنوك, برج العرب الجديدة, الاسكندرية",
+	"enName":"Banks Zone, New borg el arab, Alexandria"
+},
+		{	"profileId":"290360",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/290360?b=58&k=16430&l=search",
+	"arName":"ش خالد بن الوليد - العوامية, الاقصر, الاقصر",
+	"enName":"Khaled Ibn El Walid St., El Awameya, LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"402169",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402169?b=41&k=16430&l=search",
+	"arName":"القطعة 2/3 - - مجمع البنوك - المنطقة الصناعية الرابعة, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 2/3, , Banks Complex, 4th Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"289815",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289815?b=39&k=16430&l=search",
+	"arName":"73 طريق الحرية, محطة الرمل, الاسكندرية",
+	"enName":"73 El Horreya Rd., Raml station, Alexandria"
+},
+		{	"profileId":"402167",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402167?b=59&k=16430&l=search",
+	"arName":"33 ش البحوث - ش التحرير سابقا, الدقى, الجيزة",
+	"enName":"33 El Bohouth St. - El Tahrir St. Previously, Dokki, Giza"
+},
+		{	"profileId":"402166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402166?b=70&k=16430&l=search",
+	"arName":"12 ش نادى الصيد ميدان علاء الدين, الدقى, الجيزة",
+	"enName":"12 Nady El Seid St. Alaa El Din Sq., Dokki, Giza"
+},
+		{	"profileId":"402165",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402165?b=32&k=16430&l=search",
+	"arName":"48 ش جزيرة العرب متفرع من ش وادى النيل, المهندسين, الجيزة",
+	"enName":"48 Geziret El Arab St. Off Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"402164",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402164?b=40&k=16430&l=search",
+	"arName":"85 ش الهرم, المريوطية, الهرم, الجيزة",
+	"enName":"85 Haram St., El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"494333",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494333?b=28&k=16430&l=search",
+	"arName":"طريق السلام, جاردن باى, شرم الشيخ",
+	"enName":"El Salam Rd., Garden bay, Sharm el sheikh"
+},
+		{	"profileId":"473998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/473998?b=52&k=16430&l=search",
+	"arName":"232 ش الهرم - برج رويال رمسيس, حسن محمد, الهرم, الجيزة",
+	"enName":"232 Haram St., Royal Ramsis Tower, Hassan Mohamed, El haram, Giza"
+},
+		{	"profileId":"492195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/492195?b=14&k=16430&l=search",
+	"arName":"مجمع البنوك - مجموعة 25, مدينتى, القاهرة",
+	"enName":"Banks Complex, Group 25, Madinty, Cairo"
+},
+		{	"profileId":"494339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494339?b=66&k=16430&l=search",
+	"arName":"كم 48 - طريق السويس الغردقة - الزعفرانة, العين السخنة, العين السخنة",
+	"enName":"Km 48, Suez Hurghada Rd., El Zaafarana, El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"456113",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/456113?b=26&k=16430&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"492236",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/492236?b=30&k=16430&l=search",
+	"arName":"كم 19 - طريق اسكندرية القاهرة الصحراوى - مبنى مجمع البترول, العامرية, الاسكندرية",
+	"enName":"Km 19, Alex Cairo Desert Rd., Petroleum Complex Bldg., Amreya, Alexandria"
+},
+		{	"profileId":"289665",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289665?b=20&k=16430&l=search",
+	"arName":"44 ش عبد الخالق ثروت, وسط البلد, القاهرة",
+	"enName":"44 Abdel Khaleq Tharwat St., Downtown, Cairo"
+},
+		{	"profileId":"402190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/402190?b=43&k=16430&l=search",
+	"arName":"., الورديان, الاسكندرية",
+	"enName":"., Wardeyan, Alexandria"
+},
+		{	"profileId":"169393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/169393?b=1&k=16430&l=search",
+	"arName":"5 ميدان السراي الكبرى, جاردن سيتى, القاهرة",
+	"enName":"5 El Saraya El Kobra Sq., Garden city, Cairo"
+},
+		{	"profileId":"494051",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494051?b=64&k=16430&l=search",
+	"arName":"17 ش الحرية, وسط البلد, الفيوم",
+	"enName":"17 El Horreya St., Downtown, El fayoum"
+},
+		{	"profileId":"289708",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289708?b=2&k=16430&l=search",
+	"arName":"8 ش ابراهيم نجيب متفرع من ش قصر العينى, جاردن سيتى, القاهرة",
+	"enName":"8 Ibrahim Naguib St. Off Kasr El Ainy St., Garden city, Cairo"
+},
+		{	"profileId":"289829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289829?b=65&k=16430&l=search",
+	"arName":"431 طريق الحرية, رشدى, الاسكندرية",
+	"enName":"431 El Horreya Rd., Roushdy, Alexandria"
+},
+		{	"profileId":"493555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/493555?b=47&k=16430&l=search",
+	"arName":"60 ش كورنيش النيل - برج كليوباترا, بنها, القليوبية",
+	"enName":"60 Corniche El Nil St., Cleopatra Tower, Banha, Kaliobeya"
+},
+		{	"profileId":"493553",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/493553?b=63&k=16430&l=search",
+	"arName":"كم 8 - طريق نبق السياحى, خليج نبق, شرم الشيخ",
+	"enName":"Km 8, Nabq Touristic Rd., Nabq bay, Sharm el sheikh"
+},
+		{	"profileId":"494048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494048?b=68&k=16430&l=search",
+	"arName":"1 ش صلاح سالم - برج فينيسيا 2, وسط البلد, كفر الشيخ",
+	"enName":"1 Salah Salem St., Venicia Tower 2, Downtown, Kafr el sheikh"
+},
+		{	"profileId":"456081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/456081?b=69&k=16430&l=search",
+	"arName":"101 ش الهلالى - برج قصر الهلالى, اسيوط, اسيوط",
+	"enName":"101 El Helaly St., Kasr El Helaly Tower, Assyout, Assyout"
+},
+		{	"profileId":"493550",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/493550?b=46&k=16430&l=search",
+	"arName":"302 ش الجيش - برج الماسة, حى السويس, السويس",
+	"enName":"302 El Guish St., El Masa Tower, Suez district, Suez"
+},
+		{	"profileId":"289793",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/289793?b=17&k=16430&l=search",
+	"arName":"13 ش خالد بن الوليد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"13 Khaled Ibn El Walid St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"494329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/western-union-_-arab-african-international-bank/494329?b=53&k=16430&l=search",
+	"arName":"القطعة السابعة - بلوك 12001 - - المنطقة الصناعية الاولى - الامتداد الشمالى, مدينة العبور, القليوبية",
+	"enName":"7th Plot, Block 12001, , 1St Industrial Zone, Northern Extension, Obour city, Kaliobeya"
+}
+	]
+}]}

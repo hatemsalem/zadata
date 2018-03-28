@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مركز اسوان للقلب",
+	"enName":"Aswan Heart Center",
+	"hotlone":"19731",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"485160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswan-heart-center/485160?b=1&k=19731&l=search",
+	"arName":"خدمة العملاء, وسط البلد, اسوان",
+	"enName":"Customer Service, Downtown, Aswan"
+},
+		{	"profileId":"202885",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswan-heart-center/202885?b=2&k=19731&l=search",
+	"arName":"ش كسر الحجر, وسط البلد, اسوان",
+	"enName":"Kasr El Hagar St., Downtown, Aswan"
+}
+	]
+}]}

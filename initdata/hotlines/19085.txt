@@ -1,0 +1,32 @@
+{"items":[{	"arName":"جراند انفستمنت لتداول الاوراق المالية",
+	"enName":"Grand Investment",
+	"hotlone":"19085",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"214615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-investment/214615?b=2&k=19085&l=search",
+	"arName":"برج البنك العقارى - , المنصورة, الدقهلية",
+	"enName":"The Real Estate Bank Tower, , El mansoura, El dakahleya"
+},
+		{	"profileId":"214616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-investment/214616?b=1&k=19085&l=search",
+	"arName":"برج النصر - ش التحرير, دمياط, دمياط",
+	"enName":"El Nasr Tower, El Tahrir St., Damietta, Damietta"
+},
+		{	"profileId":"210712",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-investment/210712?b=3&k=19085&l=search",
+	"arName":"8 ش وزارة الزراعة متفرع من ش الاحرار, الدقى, الجيزة",
+	"enName":"8 Wezaret El Zeraah St. Off El Ahrar St., Dokki, Giza"
+},
+		{	"profileId":"257340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-investment/257340?b=4&k=19085&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

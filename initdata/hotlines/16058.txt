@@ -1,0 +1,37 @@
+{"items":[{	"arName":"الشركة الاسماعيلية للاستثمار الزراعى والصناعى - فرات",
+	"enName":"Esmaileya Investment For Agricultural & Industrial - Forat",
+	"hotlone":"16058",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"202749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/202749?b=4&k=16058&l=search",
+	"arName":"كم 21 - - ارض جمعية السلام, طريق اسماعيلية مصر الصحراوى, الاسماعيلية",
+	"enName":"Km 21, , Ard Gamaeyet El Salam, Ism. cairo desert road, Ismaileya"
+},
+		{	"profileId":"530880",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/530880?b=5&k=16058&l=search",
+	"arName":"الطريق الزراعى - عزبة ابو هلال, الزقازيق, الشرقية",
+	"enName":"Agricultural Rd., Ezbet Abou Helal, El zagazig, El sharkeya"
+},
+		{	"profileId":"439404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/439404?b=1&k=16058&l=search",
+	"arName":"1 عمارات الشركة السعودية - ش النزهة متفرع من ميدان الساعة - الدور 4 شقة 4, مصر الجديدة, القاهرة",
+	"enName":"1 Secon Bldgs., EL Nozha St. Off El Saah Sq., Floor 4 Flat 4, Heliopolis, Cairo"
+},
+		{	"profileId":"353355",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/353355?b=2&k=16058&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"202743",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/202743?b=3&k=16058&l=search",
+	"arName":"37 ميدان فيكتور عمانويل - الدور 2 شقة 2, سموحة, الاسكندرية",
+	"enName":"37 Victor Emanuel Sq., Floor 2 Flat 2, Semouha, Alexandria"
+}
+	]
+}]}

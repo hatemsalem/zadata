@@ -1,0 +1,22 @@
+{"items":[{	"arName":"جود لايف لوساطة التأمين",
+	"enName":"GoodLife Insurance Brokers",
+	"hotlone":"19235",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"257412",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goodlife-insurance-brokers/257412?b=1&k=19235&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"140631",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goodlife-insurance-brokers/140631?b=2&k=19235&l=search",
+	"arName":"7 ش اسماعيل القبانى متفرع من ش الطيران - الدور 4, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"7 Ismail El Qabbany St. Off El Tayaran St., Floor 4, 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

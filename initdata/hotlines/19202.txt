@@ -1,0 +1,41 @@
+{"items":[{	"arName":"ليتل سيزرز بيتزا بيتزا",
+	"enName":"Little Caesars Pizza Pizza",
+	"hotlone":"19202",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"71327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/little-caesars-pizza-pizza/71327?b=3&k=19202&l=search",
+	"arName":"48 ش صفية زغلول تقاطع ش سلطان حسين, محطة الرمل, الاسكندرية",
+	"enName":"48 Safeya Zaghloul St. Intersection Of Sultan Hussein St., Raml station, Alexandria"
+},
+		{	"profileId":"71328",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/little-caesars-pizza-pizza/71328?b=4&k=19202&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"71326",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/little-caesars-pizza-pizza/71326?b=2&k=19202&l=search",
+	"arName":"238 طريق الجيش, رشدى, الاسكندرية",
+	"enName":"238 El Guish Rd., Roushdy, Alexandria"
+},
+		{	"profileId":"4543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/little-caesars-pizza-pizza/4543?b=5&k=19202&l=search",
+	"arName":"19, 20 سور نادى الزمالك -, المهندسين, الجيزة",
+	"enName":"19, 20 Zamalek Club Wall,, Mohandeseen, Giza"
+},
+		{	"profileId":"397923",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/little-caesars-pizza-pizza/397923?b=1&k=19202&l=search",
+	"arName":"74 ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"74 Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

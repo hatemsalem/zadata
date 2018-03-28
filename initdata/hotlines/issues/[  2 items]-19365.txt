@@ -1,0 +1,48 @@
+{"items":[{	"arName":"الموسى للتجارة والتوزيع - اى تراك",
+	"enName":"Al Mousa For Trade & Distribution - I Track",
+	"hotlone":"19365",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"508108",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mousa-for-trade-&-distribution-_-i-track/508108?b=1&k=19365&l=search",
+	"arName":"خدمة العملاء, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"507469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mousa-for-trade-&-distribution-_-i-track/507469?b=2&k=19365&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"كونكت",
+	"enName":"Connect",
+	"hotlone":"19365",
+	"arCategory":[
+		"مراكز اتصال تسويق عبر الهاتف والتليفزيون"
+	],
+	"enCategories":[
+		"Call Centers, Telemarketing & Teleseen"
+	],
+	"contacts":[
+		{	"profileId":"248110",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/connect/248110?b=4&k=19365&l=search",
+	"arName":"235 - السوق التجارى, مدينة الرحاب, القاهرة",
+	"enName":"235 , Commercial Market, Al rehab city, Cairo"
+},
+		{	"profileId":"172342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/connect/172342?b=5&k=19365&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"248108",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/connect/248108?b=3&k=19365&l=search",
+	"arName":"5 عمارات الشركة السعودية - ش النزهة, مدينة نصر, القاهرة",
+	"enName":"5 Secon Bldgs., El Nozha St., Nasr city, Cairo"
+}
+	]
+}]}

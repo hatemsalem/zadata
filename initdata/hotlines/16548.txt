@@ -1,0 +1,17 @@
+{"items":[{	"arName":"الطيب للتجارة والصناعة - بانيو الطيب - تى اى بى",
+	"enName":"El Tib For Trade & Industry - TIB",
+	"hotlone":"16548",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"170409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tib-for-trade-&-industry-_-tib/170409?b=1&k=16548&l=search",
+	"arName":"سلكا - طريق القاهرة المنصورة, المنصورة, الدقهلية",
+	"enName":"Salka, Cairo El Mansoura Rd., El mansoura, El dakahleya"
+}
+	]
+}]}

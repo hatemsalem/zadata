@@ -1,0 +1,77 @@
+{"items":[{	"arName":"هيئة الرقابة الادارية - ايه سى ايه",
+	"enName":"Administrative Control Authority - ACA",
+	"hotlone":"16100",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"562422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/562422?b=10&k=16100&l=search",
+	"arName":"ميدان الثقافة, سوهاج, سوهاج",
+	"enName":"El Thaqafa Sq., Sohag, Sohag"
+},
+		{	"profileId":"137803",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/137803?b=2&k=16100&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"558097",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/558097?b=8&k=16100&l=search",
+	"arName":"ش الجمهورية, دمنهور, البحيرة",
+	"enName":"El Gomhoureya St., Damanhour, El beheira"
+},
+		{	"profileId":"562335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/562335?b=7&k=16100&l=search",
+	"arName":"كورنيش النيل, الكورنيش, المنيا",
+	"enName":"Corniche El Nil, El corniche, El menia"
+},
+		{	"profileId":"559392",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/559392?b=13&k=16100&l=search",
+	"arName":"ش صلاح سالم تقاطع ش طرح البحر, حى الشرق, بور سعيد",
+	"enName":"Salah Salem St. Intersection Of Tarh El Bahr St., El shark district, Port said"
+},
+		{	"profileId":"557884",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/557884?b=11&k=16100&l=search",
+	"arName":"ش البرت الاول, سموحة, الاسكندرية",
+	"enName":"Albert El Awal St., Semouha, Alexandria"
+},
+		{	"profileId":"558103",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/558103?b=3&k=16100&l=search",
+	"arName":"ش على مبارك, طنطا, الغربية",
+	"enName":"Aly Mubarak St., Tanta, El gharbeya"
+},
+		{	"profileId":"557894",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/557894?b=4&k=16100&l=search",
+	"arName":"ش سعد زغلول, المنصورة, الدقهلية",
+	"enName":"Saad Zaghloul St., El mansoura, El dakahleya"
+},
+		{	"profileId":"558452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/558452?b=12&k=16100&l=search",
+	"arName":"., الخارجة, الوادى الجديد",
+	"enName":"., El kharga, El wadi el gadid"
+},
+		{	"profileId":"558113",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/558113?b=6&k=16100&l=search",
+	"arName":"ش فريد ندا, بنها, القليوبية",
+	"enName":"Farid Nada St., Banha, Kaliobeya"
+},
+		{	"profileId":"96022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/96022?b=1&k=16100&l=search",
+	"arName":"ش النزهة تقاطع ش اسماء فهمى, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"El Nozha St. Intersection Of Asmaa Fahmy St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"558509",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/558509?b=9&k=16100&l=search",
+	"arName":"ش شكرى القواتلى, وسط البلد, مرسى مطروح",
+	"enName":"Shokry El Qawatly St., Downtown, Marsa matrouh"
+},
+		{	"profileId":"557907",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/administrative-control-authority-_-aca/557907?b=5&k=16100&l=search",
+	"arName":"ش مجمع المصالح الحكومية, الزقازيق, الشرقية",
+	"enName":"Governmental Authorities Complex St., El zagazig, El sharkeya"
+}
+	]
+}]}

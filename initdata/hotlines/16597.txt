@@ -1,0 +1,22 @@
+{"items":[{	"arName":"شركة سيارات توفيق محمد",
+	"enName":"Tawfik Mohamed Co.",
+	"hotlone":"16597",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"45790",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tawfik-mohamed-co./45790?b=1&k=16597&l=search",
+	"arName":"6 ميدان الجمهورية, عابدين, القاهرة",
+	"enName":"6 El Gomhoureya Sq., Abdin, Cairo"
+},
+		{	"profileId":"449323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tawfik-mohamed-co./449323?b=2&k=16597&l=search",
+	"arName":"29 ش 257 متفرع من ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"29 Rd. 257 Off El Nasr St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مجموعة فالكون الدولية",
+	"enName":"Falcon Group International",
+	"hotlone":"19651",
+	"arCategory":[
+		"انظمة امنية و كاميرات مراقبة"
+	],
+	"enCategories":[
+		"Security Cameras & Systems"
+	],
+	"contacts":[
+		{	"profileId":"441634",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/falcon-group-international/441634?b=2&k=19651&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"441632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/falcon-group-international/441632?b=1&k=19651&l=search",
+	"arName":"417 ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"417 El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

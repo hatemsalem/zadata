@@ -1,0 +1,38 @@
+{"items":[{	"arName":"نايل دولفين",
+	"enName":"Nile Dolphin",
+	"hotlone":"19520",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"128184",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-dolphin/128184?b=2&k=19520&l=search",
+	"arName":"خدمة العملاء, المنيل, القاهرة",
+	"enName":"Customer Service, El manyal, Cairo"
+},
+		{	"profileId":"267519",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-dolphin/267519?b=1&k=19520&l=search",
+	"arName":"93 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"93 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}, {	"arName":"رويال لى لى",
+	"enName":"Royal Lily",
+	"hotlone":"19520",
+	"arCategory":[
+		"حفلات وافراح منظمون"
+	],
+	"enCategories":[
+		"Party & Wedding Planning"
+	],
+	"contacts":[
+		{	"profileId":"475854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lily/475854?b=3&k=19520&l=search",
+	"arName":"طريق مصر اسيوط - عزبة الاصبجى, الجيزة, الجيزة",
+	"enName":"Misr Asiout RD., Ezbet El Asabgy, Giza, Giza"
+}
+	]
+}]}

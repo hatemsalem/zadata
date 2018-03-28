@@ -1,0 +1,97 @@
+{"items":[{	"arName":"معامل النخبة للتحاليل الطبية",
+	"enName":"El Nokhba Laboratories",
+	"hotlone":"16435",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"452197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/452197?b=9&k=16435&l=search",
+	"arName":"91 ش محمد فريد, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"91 Mohamed Farid St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"239594",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/239594?b=11&k=16435&l=search",
+	"arName":"1 ش المنشية تقاطع ش كعبيش - الدور 3, الطوابق, فيصل, الجيزة",
+	"enName":"1 El Mansheya St. Intersection Of Kaabish St., Floor 3, El Tawabeq, Faisal, Giza"
+},
+		{	"profileId":"452182",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/452182?b=14&k=16435&l=search",
+	"arName":"45 ش الدقى - الدور 2, الدقى, الجيزة",
+	"enName":"45 Dokki St., Floor 2, Dokki, Giza"
+},
+		{	"profileId":"452194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/452194?b=15&k=16435&l=search",
+	"arName":"مبارك 2, الكوثر, الغردقة",
+	"enName":"Mubarak 2, El kawther, Hurghada"
+},
+		{	"profileId":"153308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/153308?b=4&k=16435&l=search",
+	"arName":"47 ش كليوباترا متفرع من ميدان صلاح الدين - عمارة سنتر حورس, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"47 Cleopatra St. Off Salah El Din Sq., Horas Center Bldg., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"574592",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/574592?b=17&k=16435&l=search",
+	"arName":"66 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"66 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"574562",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/574562?b=8&k=16435&l=search",
+	"arName":"19 ش المهندس محمد ابو الليل متفرع من ش شمس الدين الذهبى, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"19 El Mohandes Mohamed Abou El Lail St. Off Shams El Din El Zahaby St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"315878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/315878?b=5&k=16435&l=search",
+	"arName":"19 ش البستان متفرع من ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"19 El Bostan St. Off Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"574596",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/574596?b=13&k=16435&l=search",
+	"arName":"244 ش السودان - الدور 2, امبابة, الجيزة",
+	"enName":"244 El Sudan St., Floor 2, Imbaba, Giza"
+},
+		{	"profileId":"574014",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/574014?b=2&k=16435&l=search",
+	"arName":"خدمة العملاء, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"574487",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/574487?b=3&k=16435&l=search",
+	"arName":"119 ش عبد القادر الجرجانى, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"119 Abdel Qader El Gergany St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"574586",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/574586?b=16&k=16435&l=search",
+	"arName":"14 ش عبد العزيز سليم متفرع من ش الثورة, الدقى, الجيزة",
+	"enName":"14 Abdel Aziz Selim St. Off El Thawra St., Dokki, Giza"
+},
+		{	"profileId":"314766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/314766?b=7&k=16435&l=search",
+	"arName":"10 ش سمير عبد الرؤوف امتداد ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"10 Samir Abdel Raouf St. Extension Of Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"574577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/574577?b=12&k=16435&l=search",
+	"arName":"29 ص طريق الواحات, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"29 S Oasis Rd., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"574602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/574602?b=6&k=16435&l=search",
+	"arName":"96 ش مصطفى النحاس - برج الاطباء - الدور 4, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"96 Mostafa El Nahhas St., El Atebaa Tower, Floor 4, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"196320",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/196320?b=10&k=16435&l=search",
+	"arName":"21 ش البطل احمد عبد العزيز - الدور 2, المهندسين, الجيزة",
+	"enName":"21 El Batal Ahmed Abdel Aziz St., Floor 2, Mohandeseen, Giza"
+},
+		{	"profileId":"452189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nokhba-laboratories/452189?b=1&k=16435&l=search",
+	"arName":"1 ش دمشق متفرع من ميدان سوارس, المعادى, القاهرة",
+	"enName":"1 Demascus St. Off Sawares Sq., Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"كيو ان بى الاهلى",
+	"enName":"QNB Al Ahli Bank",
+	"hotlone":"19703",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"323687",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qnb-al-ahli-bank/323687?b=1&k=19703&l=search",
+	"arName":"مركز خدمات التجار, وسط البلد, القاهرة",
+	"enName":"merchants services center, Downtown, Cairo"
+}
+	]
+}]}

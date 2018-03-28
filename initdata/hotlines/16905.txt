@@ -1,0 +1,62 @@
+{"items":[{	"arName":"اوليو",
+	"enName":"Olio",
+	"hotlone":"16905",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"192245",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/192245?b=4&k=16905&l=search",
+	"arName":"19 ش البطراوى, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"19 El Batrawy St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"156651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/156651?b=8&k=16905&l=search",
+	"arName":"353 ش حسن ابو العباس متفرع من ش شيرى, سقالة, الغردقة",
+	"enName":"353 Hassan Abou El Abbas St. Off Sherry St., Sekala, Hurghada"
+},
+		{	"profileId":"315546",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/315546?b=6&k=16905&l=search",
+	"arName":"قطعة 19 - - المنطقة الحرفية, الطور, جنوب سيناء",
+	"enName":"Plot 19, , El Herafeya Zone, EL TUR, El tur, South sinai"
+},
+		{	"profileId":"192237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/192237?b=2&k=16905&l=search",
+	"arName":"61 برج السلام - ش القنال, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"61 El Salam Tower, Canal St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"315394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/315394?b=1&k=16905&l=search",
+	"arName":"المرحلة الثالثة, مدينة الرحاب, القاهرة",
+	"enName":"Phase 3, Al rehab city, Cairo"
+},
+		{	"profileId":"156669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/156669?b=9&k=16905&l=search",
+	"arName":"37 ش العراق متفرع من ش شهاب, المهندسين, الجيزة",
+	"enName":"37 Iraq St. Off Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"315398",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/315398?b=7&k=16905&l=search",
+	"arName":"147 ش عبد السلام عارف, زيزينيا, الاسكندرية",
+	"enName":"147 Abdel Salam Aref St., Zezenia, Alexandria"
+},
+		{	"profileId":"228395",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/228395?b=5&k=16905&l=search",
+	"arName":"القطعة التاسعة - بلوك 13039 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"9th Plot, Block 13039, , 1st Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"192240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/192240?b=3&k=16905&l=search",
+	"arName":"101 ش الحجاز, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"enName":"101 El Hegaz St., El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"192839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olio/192839?b=10&k=16905&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+}
+	]
+}]}

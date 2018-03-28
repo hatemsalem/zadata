@@ -1,0 +1,275 @@
+{"items":[{	"arName":"جونيز بوب",
+	"enName":"Johnny's Pub",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"180431",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/johnny's-pub/180431?b=3&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"كارلوس",
+	"enName":"Carlo's",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"103168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/carlo's/103168?b=1&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"الباشا 1901",
+	"enName":"Le Pacha 1901",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم عائمة"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants - Floating"
+	],
+	"contacts":[
+		{	"profileId":"75871",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/le-pacha-1901/75871?b=6&k=19982&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"220460",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/le-pacha-1901/220460?b=5&k=19982&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"enName":"Customer Service, Zamalek, Cairo"
+},
+		{	"profileId":"17359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/le-pacha-1901/17359?b=7&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"ذا تايكونز",
+	"enName":"The Tycoons",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"144781",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-tycoons/144781?b=14&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"دا ريكاردو بيتزيريا",
+	"enName":"Da Riccardo Pizzeria",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم ايطالية",
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Italian Food",
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"506528",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/da-riccardo-pizzeria/506528?b=2&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"لا زياتيك",
+	"enName":"L' Asiatique",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم يابانية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Japanese Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"60801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/l'-asiatique/60801?b=4&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"ريفر بوت",
+	"enName":"River Boat",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم لبنانية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Lebanese Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"60548",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/river-boat/60548?b=13&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"مهرانى",
+	"enName":"Maharani",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم هندية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Indian Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"143264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharani/143264?b=10&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"بيكلو مندو",
+	"enName":"Piccolo Mondo",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم ايطالية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Italian Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"60555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/piccolo-mondo/60555?b=12&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"لو طربوش",
+	"enName":"Le Tarbouche",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم عائمة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants - Floating",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"60554",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/le-tarbouche/60554?b=9&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"لو ستيك",
+	"enName":"Le Steak",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم فرنسية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"French Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"61078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/le-steak/61078?b=8&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"اون توب",
+	"enName":"On Top",
+	"hotlone":"19982",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"270985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/on-top/270985?b=11&k=19982&l=search",
+	"arName":"4 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}]}

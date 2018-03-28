@@ -1,0 +1,48 @@
+{"items":[{	"arName":"الجومانا",
+	"enName":"Al Jomanah",
+	"hotlone":"19082",
+	"arCategory":[
+		"بلاستيك ومطاط"
+	],
+	"enCategories":[
+		"Plastic & Rubber"
+	],
+	"contacts":[
+		{	"profileId":"539942",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-jomanah/539942?b=2&k=19082&l=search",
+	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"539937",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-jomanah/539937?b=1&k=19082&l=search",
+	"arName":"109 ش فريد سميكة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"109 Farid Semeika St., Almaza, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"روبيكس العالمية لتصنيع البلاستيك والاكريليك",
+	"enName":"Rubex International For Plastic & Acrylic Manufacturing",
+	"hotlone":"19082",
+	"arCategory":[
+		"بلاستيك ومطاط"
+	],
+	"enCategories":[
+		"Plastic & Rubber"
+	],
+	"contacts":[
+		{	"profileId":"475124",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rubex-international-for-plastic-&-acrylic-manufacturing/475124?b=4&k=19082&l=search",
+	"arName":"خدمة العملاء, برج العرب الجديدة, الاسكندرية",
+	"enName":"Customer Service, New borg el arab, Alexandria"
+},
+		{	"profileId":"475123",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rubex-international-for-plastic-&-acrylic-manufacturing/475123?b=3&k=19082&l=search",
+	"arName":"87 ش عبد العزيز فهمى, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"87 Abdel Aziz Fahmy St., Saint Fatima, Heliopolis, Cairo"
+},
+		{	"profileId":"56737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rubex-international-for-plastic-&-acrylic-manufacturing/56737?b=5&k=19082&l=search",
+	"arName":"بلوك 4 - - المنطقة الصناعية الثالثة, برج العرب الجديدة, الاسكندرية",
+	"enName":"Block 4, , 3rd Industrial Zone, New borg el arab, Alexandria"
+}
+	]
+}]}

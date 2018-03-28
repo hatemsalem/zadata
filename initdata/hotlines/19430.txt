@@ -1,0 +1,42 @@
+{"items":[{	"arName":"صيدلية الرجبى",
+	"enName":"El Ragaby Pharmacy",
+	"hotlone":"19430",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"449516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ragaby-pharmacy/449516?b=3&k=19430&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, جليم, الاسكندرية",
+	"enName":"Home Delivery, Glim, Alexandria"
+},
+		{	"profileId":"449515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ragaby-pharmacy/449515?b=4&k=19430&l=search",
+	"arName":"68 ش مسجد سيدى بشر, سيدى بشر, الاسكندرية",
+	"enName":"68 Masged Sidi Beshr St., Sidi beshr, Alexandria"
+},
+		{	"profileId":"449509",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ragaby-pharmacy/449509?b=2&k=19430&l=search",
+	"arName":"60 طريق اسكندرية مطروح الصحراوى, العجمى, الاسكندرية",
+	"enName":"60 Alex Matrouh Desert Rd., Agami, Alexandria"
+},
+		{	"profileId":"217817",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ragaby-pharmacy/217817?b=1&k=19430&l=search",
+	"arName":"78 ش عبد السلام عارف - عمارة زمردة السرايا, جليم, الاسكندرية",
+	"enName":"78 Abdel Salam Aref St., Zomorodet El Saraya Bldg., Glim, Alexandria"
+},
+		{	"profileId":"557224",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ragaby-pharmacy/557224?b=5&k=19430&l=search",
+	"arName":"5 ش فوزى معاذ, سموحة, الاسكندرية",
+	"enName":"5 Fawzy Moaz St., Semouha, Alexandria"
+},
+		{	"profileId":"449512",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ragaby-pharmacy/449512?b=6&k=19430&l=search",
+	"arName":"5 ش الفريد ليان متفرع من ش سوريا, رشدى, الاسكندرية",
+	"enName":"5 Alfred Lian St. Off Syria St., Roushdy, Alexandria"
+}
+	]
+}]}

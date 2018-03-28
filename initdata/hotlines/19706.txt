@@ -1,0 +1,45 @@
+{"items":[{	"arName":"ستريو ريستوران اند كافيه",
+	"enName":"Stereo Restaurant & Cafe",
+	"hotlone":"19706",
+	"arCategory":[
+		"مطاعم امريكية",
+		"مقاهى",
+		"مطاعم ايطالية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"American Cuisine",
+		"Cafes and Coffee Shops",
+		"Italian Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"525761",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/525761?b=5&k=19706&l=search",
+	"arName":"ش الفتح تقاطع ش الخشاب - ميدان القومية, الزقازيق, الشرقية",
+	"enName":"El Fath St. Intersection Of El Khashab St., El Qawmeya Sq., El zagazig, El sharkeya"
+},
+		{	"profileId":"470936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/470936?b=3&k=19706&l=search",
+	"arName":"ش النادى, طنطا, الغربية",
+	"enName":"El Nady St., Tanta, El gharbeya"
+},
+		{	"profileId":"525759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/525759?b=4&k=19706&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنصورة, الدقهلية",
+	"enName":"Home Delivery, El mansoura, El dakahleya"
+},
+		{	"profileId":"403151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/403151?b=1&k=19706&l=search",
+	"arName":"ش الناصر متفرع من ش بطرس, طنطا, الغربية",
+	"enName":"El Nasser St. Off Botros St., Tanta, El gharbeya"
+},
+		{	"profileId":"468722",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/468722?b=2&k=19706&l=search",
+	"arName":"55 ش هجرس متفرع من ش المشاية السفلية, المنصورة, الدقهلية",
+	"enName":"55 Hagras St. Off El Mashaya El Sofleya St., El mansoura, El dakahleya"
+}
+	]
+}]}

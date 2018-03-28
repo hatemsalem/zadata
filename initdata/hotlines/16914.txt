@@ -1,0 +1,17 @@
+{"items":[{	"arName":"جروفى",
+	"enName":"Groovy Medical Aesthetic Spa",
+	"hotlone":"16914",
+	"arCategory":[
+		"لياقة بدنية مراكز"
+	],
+	"enCategories":[
+		"Fitness Centers"
+	],
+	"contacts":[
+		{	"profileId":"532190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/groovy-medical-aesthetic-spa/532190?b=1&k=16914&l=search",
+	"arName":"9 ش ابن بطوطة متفرع من ش صلاح سالم, مصر الجديدة, القاهرة",
+	"enName":"9 Ibn Batouta St. Off Salah Salem St., Heliopolis, Cairo"
+}
+	]
+}]}

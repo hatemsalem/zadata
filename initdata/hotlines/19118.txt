@@ -1,0 +1,37 @@
+{"items":[{	"arName":"وايت ويل - مصر للالكترونيات",
+	"enName":"White Whale - Egypt Electronics",
+	"hotlone":"19118",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"146851",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/white-whale-_-egypt-electronics/146851?b=1&k=19118&l=search",
+	"arName":"16 ش محمود توفيق, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"16 Mahmoud Tawfiq St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"176939",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/white-whale-_-egypt-electronics/176939?b=2&k=19118&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"165208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/white-whale-_-egypt-electronics/165208?b=5&k=19118&l=search",
+	"arName":"116 - المنطقة الصناعية B3, العاشر من رمضان, الشرقية",
+	"enName":"116 , Industrial Zone B3, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"294376",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/white-whale-_-egypt-electronics/294376?b=4&k=19118&l=search",
+	"arName":"ش الجلاء, طنطا, الغربية",
+	"enName":"el galaa st., Tanta, El gharbeya"
+},
+		{	"profileId":"156040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/white-whale-_-egypt-electronics/156040?b=3&k=19118&l=search",
+	"arName":"8 مساكن التعاونية - ش الجزائر, الزقازيق, الشرقية",
+	"enName":"8 El Taawoneya Bldgs., El Gazaer St., El zagazig, El sharkeya"
+}
+	]
+}]}

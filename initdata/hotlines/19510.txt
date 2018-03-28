@@ -1,0 +1,27 @@
+{"items":[{	"arName":"براذر كوند",
+	"enName":"Brother Cond",
+	"hotlone":"19510",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"10425",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brother-cond/10425?b=2&k=19510&l=search",
+	"arName":"56 عمارات رابعة الاستثمارى - ش النزهة, مدينة نصر, القاهرة",
+	"enName":"56 Rabaa Investment Bldgs., El Nozha St., Nasr city, Cairo"
+},
+		{	"profileId":"125499",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brother-cond/125499?b=1&k=19510&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"125651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brother-cond/125651?b=3&k=19510&l=search",
+	"arName":"السوق التجارى, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Al rehab city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الصافى للاستيراد والتصدير والتوكيلات التجارية",
+	"enName":"Al Safy Export , Import & Commercial Agencies",
+	"hotlone":"19954",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"425106",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safy-export-,-import-&-commercial-agencies/425106?b=2&k=19954&l=search",
+	"arName":"خدمة العملاء, المرج الجديدة, القاهرة",
+	"enName":"Customer Service, El marg el gadida, Cairo"
+},
+		{	"profileId":"424664",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safy-export-,-import-&-commercial-agencies/424664?b=1&k=19954&l=search",
+	"arName":"23 ش عبد الله دراز, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"23 Abdullah Draz St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,29 @@
+{"items":[{	"arName":"سى اى كابيتال هولدينج",
+	"enName":"CI Capital Holding",
+	"hotlone":"16440",
+	"arCategory":[
+		"استثمار شركات",
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Investment Companies",
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"519403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ci-capital-holding/519403?b=1&k=16440&l=search",
+	"arName":"64 ش محيى الدين ابو العز, الدقى, الجيزة",
+	"enName":"64 Mohy El Din Abu El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"446399",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ci-capital-holding/446399?b=2&k=16440&l=search",
+	"arName":"66,68 ش محيى الدين ابو العز, الدقى, الجيزة",
+	"enName":"66,68 Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"516250",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ci-capital-holding/516250?b=3&k=16440&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

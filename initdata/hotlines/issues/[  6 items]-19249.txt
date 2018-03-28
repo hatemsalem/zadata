@@ -1,0 +1,107 @@
+{"items":[{	"arName":"بو ايلاندز",
+	"enName":"Bo Islands",
+	"hotlone":"19249",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"513243",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bo-islands/513243?b=1&k=19249&l=search",
+	"arName":"كم 120 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 120, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+}
+	]
+}, {	"arName":"ماكسيم هولدنج",
+	"enName":"Maxim Holding",
+	"hotlone":"19249",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"374554",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maxim-holding/374554?b=3&k=19249&l=search",
+	"arName":"25 ش عبد السلام فريد, مصر الجديدة, القاهرة",
+	"enName":"25 Abdel Salam Farid St., Heliopolis, Cairo"
+},
+		{	"profileId":"374576",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maxim-holding/374576?b=5&k=19249&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"474632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maxim-holding/474632?b=4&k=19249&l=search",
+	"arName":"32 ش احمد حشمت, الزمالك, القاهرة",
+	"enName":"32 Ahmed Heshmet St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"ماكسيم كونترى كلوب",
+	"enName":"Maxim Country Club",
+	"hotlone":"19249",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"374563",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maxim-country-club/374563?b=2&k=19249&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ماكسيم ريزيدنس",
+	"enName":"Maxim Residence",
+	"hotlone":"19249",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"374573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maxim-residence/374573?b=7&k=19249&l=search",
+	"arName":"., مدينة الشروق, القاهرة",
+	"enName":"., El sherouk city, Cairo"
+}
+	]
+}, {	"arName":"رويال ماكسيم",
+	"enName":"Royal Maxim",
+	"hotlone":"19249",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"374570",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-maxim/374570?b=8&k=19249&l=search",
+	"arName":"., التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"., 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ماكسيم مول",
+	"enName":"Maxim Mall",
+	"hotlone":"19249",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"567817",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maxim-mall/567817?b=6&k=19249&l=search",
+	"arName":"ش التسعين الشمالى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen El Shamaly St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

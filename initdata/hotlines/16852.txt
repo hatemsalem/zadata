@@ -1,0 +1,51 @@
+{"items":[{	"arName":"كاسبر اند جامبينيز",
+	"enName":"Casper & Gambini's",
+	"hotlone":"16852",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"294758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/294758?b=7&k=16852&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"130720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/130720?b=5&k=16852&l=search",
+	"arName":"2005 ابراج النايل سيتى - كورنيش النيل, رملة بولاق, القاهرة",
+	"enName":"2005 Nile City Towers, Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"124102",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/124102?b=3&k=16852&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"146616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/146616?b=1&k=16852&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, رملة بولاق, القاهرة",
+	"enName":"Home Delivery, Ramlet boulak, Cairo"
+},
+		{	"profileId":"568890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/568890?b=4&k=16852&l=search",
+	"arName":"., المستثمرين الشمالية, القاهرة الجديدة, القاهرة",
+	"enName":"., North Investors, New cairo, Cairo"
+},
+		{	"profileId":"433696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/433696?b=2&k=16852&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"486678",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/486678?b=6&k=16852&l=search",
+	"arName":"2 ش فلسطين, المعادى, القاهرة",
+	"enName":"2 Palestine St., Maadi, Cairo"
+}
+	]
+}]}

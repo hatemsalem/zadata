@@ -1,0 +1,27 @@
+{"items":[{	"arName":"العمران للبناء والتشييد والاستثمار العقارى",
+	"enName":"El Omran For Building, Construction & Real Estate Investment",
+	"hotlone":"19062",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"322691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-omran-for-building,-construction-&-real-estate-investment/322691?b=2&k=19062&l=search",
+	"arName":"خدمة العملاء, القاهرة الجديدة, القاهرة",
+	"enName":"customer Service, New cairo, Cairo"
+},
+		{	"profileId":"153432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-omran-for-building,-construction-&-real-estate-investment/153432?b=3&k=19062&l=search",
+	"arName":"ش 90 - حى المصراوية - عمارة 19 د, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Rd. 90, El Masraweya District, Bldg. 19 D, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"294580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-omran-for-building,-construction-&-real-estate-investment/294580?b=1&k=19062&l=search",
+	"arName":"107 ب ش جهاز المدينة - الحى الرابع - التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"107 B Gehaz El Madina St., 4th District, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,70 @@
+{"items":[{	"arName":"مستشفيات اندلسية",
+	"enName":"Andalusia Hospitals",
+	"hotlone":"16781",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"50370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-hospitals/50370?b=3&k=16781&l=search",
+	"arName":"7 ش محمد محمد مطاوع متفرع من ش السلطان حسين, الشلالات, الاسكندرية",
+	"enName":"7 Mohamed Mohamed Motawea St. Off El Sultan Hussein St., El shalalat, Alexandria"
+}
+	]
+}, {	"arName":"صيدليات اندلسية",
+	"enName":"Andalusia Pharmacies",
+	"hotlone":"16781",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"432523",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-pharmacies/432523?b=4&k=16781&l=search",
+	"arName":"7 ش محمد مطاوع متفرع من ش السلطان حسين, الشلالات, الاسكندرية",
+	"enName":"7 Mohamed Motawea St. Off El Sultan Hussein St., El shalalat, Alexandria"
+}
+	]
+}, {	"arName":"مستشفى اندلسية المعادى",
+	"enName":"Andalusia El Maadi Hospital",
+	"hotlone":"16781",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"432645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-el-maadi-hospital/432645?b=1&k=16781&l=search",
+	"arName":"خدمة طوارئ, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Emergency Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"135137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-el-maadi-hospital/135137?b=2&k=16781&l=search",
+	"arName":"القطعة 4ج/6 - تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Plot 4c/6, El Laselky Division, New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"مستشفى اندلسية سموحة",
+	"enName":"Andalusia Smouha Hospital",
+	"hotlone":"16781",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"397033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-smouha-hospital/397033?b=5&k=16781&l=search",
+	"arName":"35 ش بهاء الدين الغتورى متفرع من ش مصطفى كامل, سموحة, الاسكندرية",
+	"enName":"35 Bahaa El Din El Ghatwary St. Off Mostafa Kamel St., Semouha, Alexandria"
+}
+	]
+}]}

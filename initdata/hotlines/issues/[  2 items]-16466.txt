@@ -1,0 +1,43 @@
+{"items":[{	"arName":"رؤية جروب",
+	"enName":"Rooya Group",
+	"hotlone":"16466",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"520193",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rooya-group/520193?b=2&k=16466&l=search",
+	"arName":"القطعة 1150/3 - امتداد ش عبد الحميد بدوى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Plot 1150/3, Extension Of Abdel Hamid Badawy St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"230432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rooya-group/230432?b=1&k=16466&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"تلال ريزورت",
+	"enName":"Telal Resort",
+	"hotlone":"16466",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"520199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/telal-resort/520199?b=4&k=16466&l=search",
+	"arName":"طريق السويس الغردقة - الزعفرانة, العين السخنة, العين السخنة",
+	"enName":"Suez Hurghada Rd., El Zaafarana, El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"520203",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/telal-resort/520203?b=3&k=16466&l=search",
+	"arName":"كم 43 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 43, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+}
+	]
+}]}

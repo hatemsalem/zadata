@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مؤسسة صناع الحياة مصر",
+	"enName":"Life Makers Foundation",
+	"hotlone":"16563",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"355529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-makers-foundation/355529?b=1&k=16563&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"538719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-makers-foundation/538719?b=2&k=16563&l=search",
+	"arName":"114 ش سامح جادو - المنطقة السياحية السادسة, السادس من اكتوبر, الجيزة",
+	"enName":"114 Sameh Gado St., 6th Touristic Zone, 6th of october, Giza"
+}
+	]
+}]}

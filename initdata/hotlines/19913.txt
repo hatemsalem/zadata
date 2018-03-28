@@ -1,0 +1,37 @@
+{"items":[{	"arName":"صيدليات عامر",
+	"enName":"Amer Pharmacies",
+	"hotlone":"19913",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"91782",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-pharmacies/91782?b=2&k=19913&l=search",
+	"arName":"13 ش د. احمد محمد ابراهيم, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"13 Dr. Ahmed Mohamed Ibrahim St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"172180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-pharmacies/172180?b=1&k=19913&l=search",
+	"arName":"8 /64 ش حسن الشريف, مدينة نصر, القاهرة",
+	"enName":"8 /64 Hassan El Sherif St., Nasr city, Cairo"
+},
+		{	"profileId":"9523",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-pharmacies/9523?b=3&k=19913&l=search",
+	"arName":"3 ش عبد الله العربى امتداد ش الطيران, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"3 Abdullah El Araby St. Extension Of El Tayaran St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"187249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-pharmacies/187249?b=4&k=19913&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"home delivery, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"543481",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-pharmacies/543481?b=5&k=19913&l=search",
+	"arName":"ش الخمسين - المنطقة 12 - بلوك 18 - القطعة العاشرة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Khamseen St., Zone 12, Block 18, 10th Plot, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

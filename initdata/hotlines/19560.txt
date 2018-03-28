@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مجموعة شركات المصريين بالخارج",
+	"enName":"Egyptians Abroad Group",
+	"hotlone":"19560",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"472092",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptians-abroad-group/472092?b=2&k=19560&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"471816",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptians-abroad-group/471816?b=1&k=19560&l=search",
+	"arName":"21 طريق مصر حلوان الزراعى, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"21 Misr Helwan Agricultural Rd., Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

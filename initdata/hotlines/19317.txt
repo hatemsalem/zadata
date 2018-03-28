@@ -1,0 +1,17 @@
+{"items":[{	"arName":"مجموعة دارك الاستثمارية",
+	"enName":"Dark Investment Group",
+	"hotlone":"19317",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"458077",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dark-investment-group/458077?b=1&k=19317&l=search",
+	"arName":"فيلا 68 - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 68, El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"دواجن الوطنية - الشركة الوطنية القابضة للاستثمار والتنمية",
+	"enName":"Al Watania Poultry - Al Watania Holding Co. For Investment & Development",
+	"hotlone":"16006",
+	"arCategory":[
+		"دواجن مزارع ومعدات"
+	],
+	"enCategories":[
+		"Poultry Industry"
+	],
+	"contacts":[
+		{	"profileId":"293340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-watania-poultry-_-al-watania-holding-co.-for-investment-&-development/293340?b=1&k=16006&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"customer Service, 6th of october, Giza"
+}
+	]
+}]}

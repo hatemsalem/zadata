@@ -1,0 +1,22 @@
+{"items":[{	"arName":"صيدلية الرحاب",
+	"enName":"Al Rehab Pharmacy",
+	"hotlone":"19244",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"187309",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rehab-pharmacy/187309?b=2&k=19244&l=search",
+	"arName":"سور نادى الرحاب الرياضى -, مدينة الرحاب, القاهرة",
+	"enName":"Al Rehab Sporting Club Wall,, Al rehab city, Cairo"
+},
+		{	"profileId":"187310",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rehab-pharmacy/187310?b=1&k=19244&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة الرحاب, القاهرة",
+	"enName":"Home Delivery, Al rehab city, Cairo"
+}
+	]
+}]}

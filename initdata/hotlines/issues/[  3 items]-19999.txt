@@ -1,0 +1,184 @@
+{"items":[{	"arName":"اوليمبيك جروب",
+	"enName":"Olympic Group",
+	"hotlone":"19999",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"127288",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olympic-group/127288?b=7&k=19999&l=search",
+	"arName":"المنطقة الصناعية الاولى B1, العاشر من رمضان, الشرقية",
+	"enName":"1st Industrial Zone B1, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"53040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olympic-group/53040?b=5&k=19999&l=search",
+	"arName":"المنطقة الصناعية الاولى A1, العاشر من رمضان, الشرقية",
+	"enName":"1st Industrial Zone A1, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"441190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olympic-group/441190?b=9&k=19999&l=search",
+	"arName":"طريق مصر اسيوط البطئ, البدرشين, الجيزة",
+	"enName":"Misr Asiout Slow Rd., El badrashin, Giza"
+},
+		{	"profileId":"108654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olympic-group/108654?b=2&k=19999&l=search",
+	"arName":"خدمة العملاء, الحى السادس, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th District, Nasr city, Cairo"
+},
+		{	"profileId":"49307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olympic-group/49307?b=4&k=19999&l=search",
+	"arName":"امتداد ش رمسيس , الحى السادس, مدينة نصر, القاهرة",
+	"enName":"Extension Of Ramsis St. , 6th District, Nasr city, Cairo"
+},
+		{	"profileId":"80809",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olympic-group/80809?b=6&k=19999&l=search",
+	"arName":"ش الاسكندرية متفرع من ش النحاس - الدور 2, طنطا, الغربية",
+	"enName":"Alexandria St. Off El Nahhas St., Floor 2, Tanta, El gharbeya"
+},
+		{	"profileId":"518148",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olympic-group/518148?b=3&k=19999&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"334358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/olympic-group/334358?b=8&k=19999&l=search",
+	"arName":"8 ش د. عاطف الموجى متفرع من ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"8 Dr. Atef El Mougy St. Off El Gomhoureya St., El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"زانوسى",
+	"enName":"Zanussi",
+	"hotlone":"19999",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"577472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577472?b=28&k=19999&l=search",
+	"arName":"ش جمال عبد الناصر, الليدو, مرسى مطروح",
+	"enName":"Gamal Abdel Nasser St., El lido, Marsa matrouh"
+},
+		{	"profileId":"579412",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579412?b=22&k=19999&l=search",
+	"arName":"19 ش احمد مرسى بدر, العطارين, الاسكندرية",
+	"enName":"19 Ahmed Morsy Badr St., El attarin, Alexandria"
+},
+		{	"profileId":"579355",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579355?b=10&k=19999&l=search",
+	"arName":"28 ش عدلى, وسط البلد, القاهرة",
+	"enName":"28 Adly St., Downtown, Cairo"
+},
+		{	"profileId":"577410",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577410?b=24&k=19999&l=search",
+	"arName":"28 ش سليمان اباظة متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"28 Soliman Abaza St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"579406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579406?b=19&k=19999&l=search",
+	"arName":"32 ش صلاح سالم تقاطع ش فؤاد, العطارين, الاسكندرية",
+	"enName":"32 Salah Salem St. Intersection Of Fouad St., El attarin, Alexandria"
+},
+		{	"profileId":"577423",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577423?b=20&k=19999&l=search",
+	"arName":"8 ش الشيخ محمد متولى الشعراوى, طنطا, الغربية",
+	"enName":"8 El Sheikh Mohamed Metwally El Shaarawy St., Tanta, El gharbeya"
+},
+		{	"profileId":"577403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577403?b=12&k=19999&l=search",
+	"arName":"4 ش فهمى متفرع من ش الطرابيشى - ميدان الجيش, عباسية, القاهرة",
+	"enName":"4 Fahmy St. Off El Tarabishy St., El Guish Sq., Abbasseya, Cairo"
+},
+		{	"profileId":"577427",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577427?b=26&k=19999&l=search",
+	"arName":"ش سعد زغلول ميدان المحطة, الاقصر, الاقصر",
+	"enName":"Saad Zaghloul St. El Mahatta Sq., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"577407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577407?b=29&k=19999&l=search",
+	"arName":"78 ش فكرى زاهر - سوق الحسبة, دمياط, دمياط",
+	"enName":"78 Fekry Zaher St., Souk El Hesba, Damietta, Damietta"
+},
+		{	"profileId":"579364",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579364?b=14&k=19999&l=search",
+	"arName":"16 ش عماد الدين, وسط البلد, القاهرة",
+	"enName":"16 Emad El Din St., Downtown, Cairo"
+},
+		{	"profileId":"579387",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579387?b=17&k=19999&l=search",
+	"arName":"القطعة 21 - قطاع A6 - المنطقة الصناعية الثالثة - المبنى الادارى, العاشر من رمضان, الشرقية",
+	"enName":"Plot 21, Sector A6, 3rd Industrial Zone, Administrative Bldg., 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"577461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577461?b=11&k=19999&l=search",
+	"arName":"55 ش ابو الفوارس, الحى السادس, مدينة نصر, القاهرة",
+	"enName":"55 Abou El Fawares St., 6th District, Nasr city, Cairo"
+},
+		{	"profileId":"577413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577413?b=16&k=19999&l=search",
+	"arName":"9 ش عاطف السادات, حى المناخ, بور سعيد",
+	"enName":"9 Atef El Sadat St., El manakh district, Port said"
+},
+		{	"profileId":"58447",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/58447?b=23&k=19999&l=search",
+	"arName":"18 ش اسماعيل حلمى, سموحة, الاسكندرية",
+	"enName":"18 Ismail Helmy St., Semouha, Alexandria"
+},
+		{	"profileId":"577434",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577434?b=27&k=19999&l=search",
+	"arName":"83 ش كورنيش النيل, الكورنيش, اسوان",
+	"enName":"83 Corniche El Nil St., El corniche, Aswan"
+},
+		{	"profileId":"577459",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577459?b=21&k=19999&l=search",
+	"arName":"52 ش صفية زغلول, محطة الرمل, الاسكندرية",
+	"enName":"52 Safeya Zaghloul St., Raml station, Alexandria"
+},
+		{	"profileId":"577415",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577415?b=25&k=19999&l=search",
+	"arName":"12 ش صفية زغلول تقاطع ش الجمهورية, حى الشرق, بور سعيد",
+	"enName":"12 Safeya Zaghloul St. Intersection Of El Gomhoureya St., El shark district, Port said"
+},
+		{	"profileId":"577439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577439?b=13&k=19999&l=search",
+	"arName":"خدمة العملاء, عباسية, القاهرة",
+	"enName":"Customer Service, Abbasseya, Cairo"
+},
+		{	"profileId":"577417",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577417?b=18&k=19999&l=search",
+	"arName":"طريق المنصورة - برج اجنادين, الزقازيق, الشرقية",
+	"enName":"El Mansoura Rd., Agnadin Tower, El zagazig, El sharkeya"
+},
+		{	"profileId":"117751",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/117751?b=15&k=19999&l=search",
+	"arName":"خدمة العملاء, سموحة, الاسكندرية",
+	"enName":"Customer Service, Semouha, Alexandria"
+},
+		{	"profileId":"577419",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577419?b=30&k=19999&l=search",
+	"arName":"ش المدارس - مدينة ناصر, حى شرق, سوهاج",
+	"enName":"El Madares St., Nasser City, Shark district, Sohag"
+}
+	]
+}, {	"arName":"ايديال زانوسى",
+	"enName":"Ideal Zanussi",
+	"hotlone":"19999",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"66748",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ideal-zanussi/66748?b=1&k=19999&l=search",
+	"arName":"خدمة الصيانة, مدينة نصر, القاهرة",
+	"enName":"Maintenance Service, Nasr city, Cairo"
+}
+	]
+}]}

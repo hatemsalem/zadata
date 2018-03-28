@@ -1,0 +1,17 @@
+{"items":[{	"arName":"بودى كار المريوطية - الوكيل الوحيد لسيارات كينبو بمصر",
+	"enName":"Boudy Car El Mariouteya - The Sole Agent Of Kenbo Cars In Egypt",
+	"hotlone":"16438",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"121012",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/boudy-car-el-mariouteya-_-the-sole-agent-of-kenbo-cars-in-egypt/121012?b=1&k=16438&l=search",
+	"arName":"1 ش محمد سامى, المريوطية, فيصل, الجيزة",
+	"enName":"1 Mohamed Samy St., El Mariouteya, Faisal, Giza"
+}
+	]
+}]}

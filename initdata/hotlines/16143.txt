@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المستشفى الايطالى - امبرتو الاول",
+	"enName":"Italian Hospital Umberto I - Cairo",
+	"hotlone":"16143",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"16601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/italian-hospital-umberto-i-_-cairo/16601?b=1&k=16143&l=search",
+	"arName":"17 ش السرايات, عباسية, القاهرة",
+	"enName":"17 El Sarayat St., Abbasseya, Cairo"
+},
+		{	"profileId":"388783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/italian-hospital-umberto-i-_-cairo/388783?b=2&k=16143&l=search",
+	"arName":"خدمة طوارئ, عباسية, القاهرة",
+	"enName":"Emergency Service, Abbasseya, Cairo"
+}
+	]
+}]}

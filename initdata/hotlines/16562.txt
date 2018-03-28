@@ -1,0 +1,17 @@
+{"items":[{	"arName":"المصرية لاعمال التكييف والتجارة - توتال اير",
+	"enName":"Egyptian Air Conditioning & Trading - Total Air",
+	"hotlone":"16562",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"202336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-air-conditioning-&-trading-_-total-air/202336?b=1&k=16562&l=search",
+	"arName":"136 أ ش جسر السويس ميدان الالف مسكن, جسر السويس, القاهرة",
+	"enName":"136 A Gesr El Suez St. Alf Maskan Sq., Gesr el suez, Cairo"
+}
+	]
+}]}

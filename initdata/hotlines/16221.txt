@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المركز الطبى العالمى",
+	"enName":"International Medical Center",
+	"hotlone":"16221",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"176933",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-medical-center/176933?b=2&k=16221&l=search",
+	"arName":"خدمة طوارئ, طريق مصر الاسماعيلية الصحراوى, القاهرة",
+	"enName":"Emergency Service, Cairo ism. desert rd., Cairo"
+},
+		{	"profileId":"113851",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-medical-center/113851?b=1&k=16221&l=search",
+	"arName":"كم 42 -, طريق مصر الاسماعيلية الصحراوى, القاهرة",
+	"enName":"Km 42,, Cairo ism. desert rd., Cairo"
+}
+	]
+}]}

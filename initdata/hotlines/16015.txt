@@ -1,0 +1,63 @@
+{"items":[{	"arName":"التابعى الدمياطى",
+	"enName":"El Tabei El Domyati",
+	"hotlone":"16015",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"83213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/83213?b=1&k=16015&l=search",
+	"arName":"87 ش 9, المعادى, القاهرة",
+	"enName":"87 Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"245631",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/245631?b=9&k=16015&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, وسط البلد, القاهرة",
+	"enName":"Home Delivery, Downtown, Cairo"
+},
+		{	"profileId":"132323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/132323?b=8&k=16015&l=search",
+	"arName":"24 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"24 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"138313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/138313?b=3&k=16015&l=search",
+	"arName":"25 ش المراغى, حلوان, القاهرة",
+	"enName":"25 El Maraghy St., Helwan, Cairo"
+},
+		{	"profileId":"579461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/579461?b=5&k=16015&l=search",
+	"arName":"ميدان العباسية, عباسية, القاهرة",
+	"enName":"Abbaseya Sq., Abbasseya, Cairo"
+},
+		{	"profileId":"55569",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/55569?b=6&k=16015&l=search",
+	"arName":"30 ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"30 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"83209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/83209?b=4&k=16015&l=search",
+	"arName":"31 ش احمد عرابى - التوفيقية, وسط البلد, القاهرة",
+	"enName":"31 Ahmed Orabi St., El Tawfiqeya, Downtown, Cairo"
+},
+		{	"profileId":"245628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/245628?b=2&k=16015&l=search",
+	"arName":"., التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"enName":"., 3rd Compound, New cairo, Cairo"
+},
+		{	"profileId":"116529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/116529?b=7&k=16015&l=search",
+	"arName":"99 ش رمسيس, وسط البلد, القاهرة",
+	"enName":"99 Ramsis St., Downtown, Cairo"
+}
+	]
+}]}

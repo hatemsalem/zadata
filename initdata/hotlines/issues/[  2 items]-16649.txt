@@ -1,0 +1,56 @@
+{"items":[{	"arName":"اتلانتس كورنرز",
+	"enName":"Atlantis Corners",
+	"hotlone":"16649",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"505832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/atlantis-corners/505832?b=1&k=16649&l=search",
+	"arName":"74 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"74 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}, {	"arName":"مطعم وكافيه اطلانتس",
+	"enName":"Atlantis Restaurant & Cafe",
+	"hotlone":"16649",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مقاهى"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Cafes and Coffee Shops"
+	],
+	"contacts":[
+		{	"profileId":"441072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/atlantis-restaurant-&-cafe/441072?b=4&k=16649&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, السادس من اكتوبر, الجيزة",
+	"enName":"Home Delivery, 6th of october, Giza"
+},
+		{	"profileId":"441071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/atlantis-restaurant-&-cafe/441071?b=5&k=16649&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"564261",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/atlantis-restaurant-&-cafe/564261?b=3&k=16649&l=search",
+	"arName":"كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"449731",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/atlantis-restaurant-&-cafe/449731?b=2&k=16649&l=search",
+	"arName":"ش عبد الحميد بدوى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Abdel Hamid Badawy St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

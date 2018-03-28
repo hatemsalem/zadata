@@ -1,0 +1,22 @@
+{"items":[{	"arName":"العالمية",
+	"enName":"El Alameya",
+	"hotlone":"16156",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"257971",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alameya/257971?b=2&k=16156&l=search",
+	"arName":"خدمة العملاء, جسر السويس, القاهرة",
+	"enName":"Customer Service, Gesr el suez, Cairo"
+},
+		{	"profileId":"257969",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alameya/257969?b=1&k=16156&l=search",
+	"arName":"14 ش حاتم قابيل, جسر السويس, القاهرة",
+	"enName":"14 Hatem Qabil St., Gesr el suez, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,32 @@
+{"items":[{	"arName":"جيوشى موتورز",
+	"enName":"Geyushi Motors",
+	"hotlone":"19927",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"155452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/geyushi-motors/155452?b=4&k=19927&l=search",
+	"arName":"خدمة العملاء, الساحل, القاهرة",
+	"enName":"Customer Service, El sahel, Cairo"
+},
+		{	"profileId":"470316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/geyushi-motors/470316?b=3&k=19927&l=search",
+	"arName":"18 تقسيم المروحة, القطامية, القاهرة",
+	"enName":"18 El Marwha Division, El katameya, Cairo"
+},
+		{	"profileId":"155450",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/geyushi-motors/155450?b=1&k=19927&l=search",
+	"arName":"61 ش عبد القادر طه, الساحل, القاهرة",
+	"enName":"61 Abdel Qader Taha St., El sahel, Cairo"
+},
+		{	"profileId":"470311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/geyushi-motors/470311?b=2&k=19927&l=search",
+	"arName":"271 ش التسعين الشمالى امتداد محور السلام, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"271 El Tesaeen El Shamaly St. Extension Of El Salam Spine, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

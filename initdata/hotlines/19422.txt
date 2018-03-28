@@ -1,0 +1,17 @@
+{"items":[{	"arName":"يونيون اير",
+	"enName":"Unionaire Group",
+	"hotlone":"19422",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"106186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unionaire-group/106186?b=1&k=19422&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}]}

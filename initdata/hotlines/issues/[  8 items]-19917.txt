@@ -1,0 +1,189 @@
+{"items":[{	"arName":"بلومار سيدى عبد الرحمن",
+	"enName":"Blumar Sidi Abdel Rahman",
+	"hotlone":"19917",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"374585",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blumar-sidi-abdel-rahman/374585?b=2&k=19917&l=search",
+	"arName":"كم 137 - طريق اسكندرية مطروح الساحلى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 137, Alex Matrouh Costal Rd., Sidi abdel rahman, North coast"
+}
+	]
+}, {	"arName":"وادى دجلة القابضة",
+	"enName":"Wadi Degla Holding",
+	"hotlone":"19917",
+	"arCategory":[
+		"نوادى"
+	],
+	"enCategories":[
+		"Clubs"
+	],
+	"contacts":[
+		{	"profileId":"278070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/278070?b=18&k=19917&l=search",
+	"arName":"طريق الواحات - مدينة الروضة, السادس من اكتوبر, الجيزة",
+	"enName":"Oasis Rd., El Rawda City, 6th of october, Giza"
+},
+		{	"profileId":"392993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/392993?b=9&k=19917&l=search",
+	"arName":"فيلا 14 - ش النجاح متفرع من طريق العروبة, مصر الجديدة, القاهرة",
+	"enName":"Villa 14, El Nagah St. Off El Orouba Rd., Heliopolis, Cairo"
+},
+		{	"profileId":"188203",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/188203?b=17&k=19917&l=search",
+	"arName":"22 ش شهاب - فيلا وادى دجلة, المهندسين, الجيزة",
+	"enName":"22 Shehab St., Wadi Degla Villa, Mohandeseen, Giza"
+},
+		{	"profileId":"518465",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/518465?b=12&k=19917&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"397808",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/397808?b=10&k=19917&l=search",
+	"arName":"38 أ فيلا وادى دجلة - ش العروبة, مصر الجديدة, القاهرة",
+	"enName":"38 A Villa Wadi Degla, El Orouba St., Heliopolis, Cairo"
+},
+		{	"profileId":"165330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/165330?b=14&k=19917&l=search",
+	"arName":"., التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"442771",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/442771?b=15&k=19917&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"418312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/418312?b=11&k=19917&l=search",
+	"arName":"الشطر الرابع, زهراء المعادى, المعادى, القاهرة",
+	"enName":"4th Sector, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"55057",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/55057?b=16&k=19917&l=search",
+	"arName":"المبنى الادارى الجديد - الشطر الرابع, زهراء المعادى, المعادى, القاهرة",
+	"enName":"New Administrative Bldg., 4Th Sector, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"137295",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-degla-holding/137295?b=13&k=19917&l=search",
+	"arName":"خدمة العملاء, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Customer Service, Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"جراند كافيه",
+	"enName":"Grand Cafe",
+	"hotlone":"19917",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"441932",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-cafe/441932?b=4&k=19917&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بلومار الدوم",
+	"enName":"Blumar El Dome",
+	"hotlone":"19917",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"386594",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blumar-el-dome/386594?b=1&k=19917&l=search",
+	"arName":"وادى الدوم, العين السخنة, العين السخنة",
+	"enName":"Wadi El Dome, El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"ذا ديستريكت",
+	"enName":"The District",
+	"hotlone":"19917",
+	"arCategory":[
+		"نوادى",
+		"مقاهى",
+		"مول"
+	],
+	"enCategories":[
+		"Clubs",
+		"Cafes and Coffee Shops",
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"441225",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-district/441225?b=6&k=19917&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"532422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-district/532422?b=7&k=19917&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بيك مارين",
+	"enName":"Peak Marine",
+	"hotlone":"19917",
+	"arCategory":[
+		"بحرية وملاحة ومراكب"
+	],
+	"enCategories":[
+		"Marine, Navigation & Boating"
+	],
+	"contacts":[
+		{	"profileId":"6821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peak-marine/6821?b=5&k=19917&l=search",
+	"arName":"المبنى الادارى - - المنطقة الرابعة, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Administrative Bldg., , 4th Zone, Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"كافيه بروز",
+	"enName":"Cafe Pro's",
+	"hotlone":"19917",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم ايطالية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Italian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"437016",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cafe-pro's/437016?b=3&k=19917&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"تيجان",
+	"enName":"Tijan",
+	"hotlone":"19917",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"374582",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tijan/374582?b=8&k=19917&l=search",
+	"arName":"., زهراء المعادى, المعادى, القاهرة",
+	"enName":"., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}]}

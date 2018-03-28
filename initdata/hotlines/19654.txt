@@ -1,0 +1,17 @@
+{"items":[{	"arName":"قطاع الرقابة على الفنادق والقرى السياحية",
+	"enName":"Hotels & Touristic Villages Observation Sector",
+	"hotlone":"19654",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"187161",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hotels-&-touristic-villages-observation-sector/187161?b=1&k=19654&l=search",
+	"arName":"خدمة العملاء, عباسية, القاهرة",
+	"enName":"Customer Service, Abbasseya, Cairo"
+}
+	]
+}]}

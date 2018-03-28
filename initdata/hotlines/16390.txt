@@ -1,0 +1,17 @@
+{"items":[{	"arName":"سوما باى",
+	"enName":"Soma Bay",
+	"hotlone":"16390",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"427877",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soma-bay/427877?b=1&k=16390&l=search",
+	"arName":"., سومة باى, سفاجا",
+	"enName":"., Soma bay, Safaga"
+}
+	]
+}]}

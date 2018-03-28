@@ -1,0 +1,32 @@
+{"items":[{	"arName":"نت ورك كوربريشن",
+	"enName":"Network Corporation",
+	"hotlone":"19371",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"67017",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/network-corporation/67017?b=1&k=19371&l=search",
+	"arName":"8 ش عبد الحميد عبد الوهاب متفرع من ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"8 Abdel Hamid Abdel Wahab St. Off Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"503046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/network-corporation/503046?b=3&k=19371&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"155802",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/network-corporation/155802?b=4&k=19371&l=search",
+	"arName":"5 ش عبد الحميد سليمان, المهندسين, الجيزة",
+	"enName":"5 Abdel Hamid Soliman St., Mohandeseen, Giza"
+},
+		{	"profileId":"503042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/network-corporation/503042?b=2&k=19371&l=search",
+	"arName":"59 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"59 Abdel Hamid Badawy St., Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"هايديلينا للصناعات الطبية المتطورة",
+	"enName":"Haidylena For Advanced Medical Industries",
+	"hotlone":"16305",
+	"arCategory":[
+		"طب معدات"
+	],
+	"enCategories":[
+		"Medical Equipment"
+	],
+	"contacts":[
+		{	"profileId":"324811",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/haidylena-for-advanced-medical-industries/324811?b=2&k=16305&l=search",
+	"arName":"خدمة العملاء, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"149340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/haidylena-for-advanced-medical-industries/149340?b=1&k=16305&l=search",
+	"arName":"القطعة 87 - - المنطقة الصناعية الثانية, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 87, , 2nd Industrial Zone, 6th of october, Giza"
+}
+	]
+}]}

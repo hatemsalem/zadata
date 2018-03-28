@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مستشفى جامعة عين شمس التخصصى",
+	"enName":"Ain Shams University Specialized Hospital",
+	"hotlone":"16096",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"187371",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ain-shams-university-specialized-hospital/187371?b=2&k=16096&l=search",
+	"arName":"خدمة طوارئ, عباسية, القاهرة",
+	"enName":"Emergency Service, Abbasseya, Cairo"
+},
+		{	"profileId":"9362",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ain-shams-university-specialized-hospital/9362?b=1&k=16096&l=search",
+	"arName":"ش الخليفة المأمون, عباسية, القاهرة",
+	"enName":"El Khalifa El Maamoun St., Abbasseya, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,56 @@
+{"items":[{	"arName":"سلسلة مطاعم حضرموت",
+	"enName":"Hadramoot Restaurants",
+	"hotlone":"19067",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"174699",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/174699?b=1&k=19067&l=search",
+	"arName":"79 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"79 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"100173",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/100173?b=8&k=19067&l=search",
+	"arName":"74 ش وادى النيل, المهندسين, الجيزة",
+	"enName":"74 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"455739",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/455739?b=5&k=19067&l=search",
+	"arName":"3 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"3 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"127389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/127389?b=3&k=19067&l=search",
+	"arName":"19 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"19 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"393239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/393239?b=4&k=19067&l=search",
+	"arName":"1 أ ش 306, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"1 A Rd. 306, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"393237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/393237?b=6&k=19067&l=search",
+	"arName":"384 ش فيصل تقاطع ش العشرين, مدكور, فيصل, الجيزة",
+	"enName":"384 Faisal St. Intersection Of El Eshreen St., Madkour, Faisal, Giza"
+},
+		{	"profileId":"152486",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/152486?b=7&k=19067&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"217070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/217070?b=2&k=19067&l=search",
+	"arName":"66 محلية 5 -, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"enName":"66 Mahaleya 5,, 3rd Compound, New cairo, Cairo"
+}
+	]
+}]}

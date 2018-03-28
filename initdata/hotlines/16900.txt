@@ -1,0 +1,52 @@
+{"items":[{	"arName":"المجموعة المالية هيرميس",
+	"enName":"EFG Hermes",
+	"hotlone":"16900",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"489163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/efg-hermes/489163?b=4&k=16900&l=search",
+	"arName":"129 ش جامعة الازهر - مدينة الحقوقيين - الدور 1, اسيوط, اسيوط",
+	"enName":"129 Gamaet El Azhar St., El Hoqoqyeen City, Floor 1, Assyout, Assyout"
+},
+		{	"profileId":"96139",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/efg-hermes/96139?b=3&k=16900&l=search",
+	"arName":"برج كونكورد - ش فوزى معاذ تقاطع مع ش حسن علام, سموحة, الاسكندرية",
+	"enName":"Concord Tower, Fawzy Moaz St. Intersection Of Hassan Allam St., Semouha, Alexandria"
+},
+		{	"profileId":"125544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/efg-hermes/125544?b=8&k=16900&l=search",
+	"arName":"5 ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"5 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"272610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/efg-hermes/272610?b=2&k=16900&l=search",
+	"arName":"5 ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"5 Saray El Gezirah St., Zamalek, Cairo"
+},
+		{	"profileId":"138268",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/efg-hermes/138268?b=7&k=16900&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"272568",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/efg-hermes/272568?b=1&k=16900&l=search",
+	"arName":"68 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"68 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"272623",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/efg-hermes/272623?b=6&k=16900&l=search",
+	"arName":"ش الشيراتون, الدهار, الغردقة",
+	"enName":"Sheraton Rd., Dahar, Hurghada"
+},
+		{	"profileId":"272529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/efg-hermes/272529?b=5&k=16900&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

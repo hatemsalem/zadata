@@ -1,0 +1,17 @@
+{"items":[{	"arName":"اتحاد الخبراء المثمنين",
+	"enName":"Union Of Evaluation Experts",
+	"hotlone":"16836",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"62079",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-of-evaluation-experts/62079?b=1&k=16836&l=search",
+	"arName":"22 ش محمود بسيونى متفرع من ش طلعت حرب - قصر النيل, وسط البلد, القاهرة",
+	"enName":"22 Mahmoud Basiony St. Off Talaat Harb St., Kasr El Nil, Downtown, Cairo"
+}
+	]
+}]}

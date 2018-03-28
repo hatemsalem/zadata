@@ -1,0 +1,232 @@
+{"items":[{	"arName":"كلو",
+	"enName":"Clue",
+	"hotlone":"16768",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"397029",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397029?b=23&k=16768&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"397067",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397067?b=26&k=16768&l=search",
+	"arName":"برج الصفا بلازا - ش الاستاد, شبين الكوم, المنوفية",
+	"enName":"El Safa Plaza Tower, El Estad St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"397025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397025?b=21&k=16768&l=search",
+	"arName":"95 ش الهرم, المريوطية, الهرم, الجيزة",
+	"enName":"95 Haram St., El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"397026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397026?b=16&k=16768&l=search",
+	"arName":"17 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"17 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"397048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397048?b=24&k=16768&l=search",
+	"arName":"., طريق القرى, الغردقة",
+	"enName":"., Villages rd., Hurghada"
+},
+		{	"profileId":"434317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/434317?b=39&k=16768&l=search",
+	"arName":"المحور المركزى - ميدان الحرية, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Horreya Sq., 6th of october, Giza"
+},
+		{	"profileId":"405172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/405172?b=15&k=16768&l=search",
+	"arName":"11 ش المبتديان, السيدة زينب, القاهرة",
+	"enName":"11 El Mobtadaian St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"405150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/405150?b=30&k=16768&l=search",
+	"arName":"28 ش طه حسين, وسط البلد, المنيا",
+	"enName":"28 Taha Hussein St., Downtown, El menia"
+},
+		{	"profileId":"405174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/405174?b=31&k=16768&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"579746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/579746?b=10&k=16768&l=search",
+	"arName":"الطريق الدائرى - مدينة المعراج, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Ring Rd., El Mearag City, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"441374",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/441374?b=37&k=16768&l=search",
+	"arName":"ش الجلاء تقاطع ش منتصر, المنصورة, الدقهلية",
+	"enName":"El Galaa St. Intersection Of Montasser St., El mansoura, El dakahleya"
+},
+		{	"profileId":"504998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/504998?b=14&k=16768&l=search",
+	"arName":"9 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"9 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"579744",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/579744?b=17&k=16768&l=search",
+	"arName":"ش 250 ميدان المعادى جراند مول, المعادى, القاهرة",
+	"enName":"Rd. 250 Maadi Grand Mall Sq., Maadi, Cairo"
+},
+		{	"profileId":"508557",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/508557?b=20&k=16768&l=search",
+	"arName":"ش جيهان, المنصورة, الدقهلية",
+	"enName":"Gihan St., El mansoura, El dakahleya"
+},
+		{	"profileId":"580314",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580314?b=27&k=16768&l=search",
+	"arName":"37 ب ش الهرم, الطالبية, الهرم, الجيزة",
+	"enName":"37 B Haram St., El Talbeya, El haram, Giza"
+},
+		{	"profileId":"579869",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/579869?b=18&k=16768&l=search",
+	"arName":"69 ش النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"69 El Nasr St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"580316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580316?b=44&k=16768&l=search",
+	"arName":"269 ش الهرم, الهرم, الجيزة",
+	"enName":"269 Haram St., El haram, Giza"
+},
+		{	"profileId":"580012",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580012?b=4&k=16768&l=search",
+	"arName":"19 ش قصر النيل, وسط البلد, القاهرة",
+	"enName":"19 Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"580312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580312?b=40&k=16768&l=search",
+	"arName":"95 ش الهرم, المريوطية, الهرم, الجيزة",
+	"enName":"95 Haram St., El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"459801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/459801?b=1&k=16768&l=search",
+	"arName":"30 ش برهان تقاطع ش حيدر, حلوان, القاهرة",
+	"enName":"30 Borhan St. Intersection Of Haidar St., Helwan, Cairo"
+},
+		{	"profileId":"405167",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/405167?b=8&k=16768&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"397057",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397057?b=43&k=16768&l=search",
+	"arName":"2 ش صلاح الدين الايوبى - ش النميس سابقا - برج رياض الصالحين, اسيوط, اسيوط",
+	"enName":"2 Salah El Din El Aiouby St. - El Namees St. Previously, Riad El Saleheen Tower, Assyout, Assyout"
+},
+		{	"profileId":"397059",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397059?b=28&k=16768&l=search",
+	"arName":"12 ش فريد ندا, بنها, القليوبية",
+	"enName":"12 Farid Nada St., Banha, Kaliobeya"
+},
+		{	"profileId":"405160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/405160?b=42&k=16768&l=search",
+	"arName":"كم 105 - طريق اسكندرية مطروح الصحراوى - مارينا 3, مارينا, الساحل الشمالى",
+	"enName":"Km 105, Alex Matrouh Desert Rd., Marina 3, Marina, North coast"
+},
+		{	"profileId":"405163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/405163?b=22&k=16768&l=search",
+	"arName":"ش سعد زغلول متفرع من ش كورنيش النيل - ميدان الساعة, دمياط, دمياط",
+	"enName":"Saad Zaghloul St. Off Corniche El Nil St., El Saah Sq., Damietta, Damietta"
+},
+		{	"profileId":"574032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/574032?b=32&k=16768&l=search",
+	"arName":"كم 1 - طريق طنطا المحلة, طنطا, الغربية",
+	"enName":"Km 1, Tanta El Mahalla Rd., Tanta, El gharbeya"
+},
+		{	"profileId":"441376",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/441376?b=5&k=16768&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"579861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/579861?b=11&k=16768&l=search",
+	"arName":"65 ش ابراهيم اللقانى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"65 Ibrahim El Laqqany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"579740",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/579740?b=12&k=16768&l=search",
+	"arName":"ش 250 ميدان المعادى جراند مول, المعادى, القاهرة",
+	"enName":"Rd. 250 Maadi Grand Mall Sq., Maadi, Cairo"
+},
+		{	"profileId":"441375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/441375?b=9&k=16768&l=search",
+	"arName":"5 ش 9 ميدان النافورة, المقطم, القاهرة",
+	"enName":"5 Rd. 9 El Nafora Sq., Mokattam, Cairo"
+},
+		{	"profileId":"580307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580307?b=6&k=16768&l=search",
+	"arName":"116 ش خلوصى, شبرا, القاهرة",
+	"enName":"116 Kholousy St., Shoubra, Cairo"
+},
+		{	"profileId":"579877",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/579877?b=13&k=16768&l=search",
+	"arName":"3 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"3 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"580325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580325?b=33&k=16768&l=search",
+	"arName":"27 ش طلعت حرب, امبابة, الجيزة",
+	"enName":"27 Talaat Harb St., Imbaba, Giza"
+},
+		{	"profileId":"426857",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/426857?b=38&k=16768&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"397020",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397020?b=2&k=16768&l=search",
+	"arName":"116 ش خلوصى, شبرا, القاهرة",
+	"enName":"116 Kholousy St., Shoubra, Cairo"
+},
+		{	"profileId":"308436",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/308436?b=7&k=16768&l=search",
+	"arName":"9 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"9 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"580343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580343?b=41&k=16768&l=search",
+	"arName":"11 ش حسان بن ثابت, طنطا, الغربية",
+	"enName":"11 Hassan Ibn Thabet St., Tanta, El gharbeya"
+},
+		{	"profileId":"580344",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580344?b=34&k=16768&l=search",
+	"arName":"13 ش البورصة, طنطا, الغربية",
+	"enName":"13 El Borsa St., Tanta, El gharbeya"
+},
+		{	"profileId":"397044",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397044?b=3&k=16768&l=search",
+	"arName":"18 ش عباس العقاد, مدينة نصر, القاهرة",
+	"enName":"18 Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"580323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/580323?b=19&k=16768&l=search",
+	"arName":"55 ش المنيل, المنيل, القاهرة",
+	"enName":"55 Manial St., El manyal, Cairo"
+},
+		{	"profileId":"397066",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397066?b=29&k=16768&l=search",
+	"arName":"ش المشير احمد اسماعيل متفرع من ميدان القومية - برج الغرباوى, الزقازيق, الشرقية",
+	"enName":"El Moushir Ahmed Ismail St. Off El Qawmeya Sq., El Gharabawy Tower, El zagazig, El sharkeya"
+},
+		{	"profileId":"397022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397022?b=35&k=16768&l=search",
+	"arName":"54 ش شهاب, المهندسين, الجيزة",
+	"enName":"54 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"397060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397060?b=36&k=16768&l=search",
+	"arName":"10 ش محب, طنطا, الغربية",
+	"enName":"10 Moheb St., Tanta, El gharbeya"
+},
+		{	"profileId":"397062",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/397062?b=25&k=16768&l=search",
+	"arName":"53 ش المشاية السفلية, المنصورة, الدقهلية",
+	"enName":"53 El Mashaya El Sofleya St., El mansoura, El dakahleya"
+}
+	]
+}]}

@@ -1,0 +1,87 @@
+{"items":[{	"arName":"صيدليات وليد الطرشوبى",
+	"enName":"Walid El Tarshouby Pharmacies",
+	"hotlone":"16130",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"111998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/111998?b=1&k=16130&l=search",
+	"arName":"ش السكة الجديدة متفرع من ش بورسعيد, المنصورة, الدقهلية",
+	"enName":"El Sekka El Gadida St. Off Port Said St., El mansoura, El dakahleya"
+},
+		{	"profileId":"180695",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/180695?b=2&k=16130&l=search",
+	"arName":"ش الثورة ميدان المحطة, المنصورة, الدقهلية",
+	"enName":"El Thawra St. El Mahatta Sq., El mansoura, El dakahleya"
+},
+		{	"profileId":"180687",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/180687?b=13&k=16130&l=search",
+	"arName":"ش الجمهورية - برج امون, المنصورة, الدقهلية",
+	"enName":"El Gomhoureya St., Amoun Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"263956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/263956?b=10&k=16130&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنصورة, الدقهلية",
+	"enName":"Home Delivery, El mansoura, El dakahleya"
+},
+		{	"profileId":"180691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/180691?b=5&k=16130&l=search",
+	"arName":"ش البطل احمد عبد العزيز ميدان القنطرة, السنبلاوين, الدقهلية",
+	"enName":"El Batal Ahmed Abdel Aziz St. El Qantara Sq., As sinbillawain, El dakahleya"
+},
+		{	"profileId":"312892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/312892?b=11&k=16130&l=search",
+	"arName":"ش سويت متفرع من ش صلاح سالم, طلخا, الدقهلية",
+	"enName":"Sweet St. Off Salah Salem St., Talkha, El dakahleya"
+},
+		{	"profileId":"180693",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/180693?b=9&k=16130&l=search",
+	"arName":"ش بنك مصر متفرع من ش البحر, المنصورة, الدقهلية",
+	"enName":"Bank Misr St. Off El Bahr St., El mansoura, El dakahleya"
+},
+		{	"profileId":"312874",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/312874?b=8&k=16130&l=search",
+	"arName":"ش صلاح سالم - برج العروسة, طلخا, الدقهلية",
+	"enName":"Salah Salem St., El Arousa Tower, Talkha, El dakahleya"
+},
+		{	"profileId":"312884",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/312884?b=14&k=16130&l=search",
+	"arName":"ش سعد الشربينى - عزبة عقل, المنصورة, الدقهلية",
+	"enName":"Saad El Sherbiny St., Ezbet Aql, El mansoura, El dakahleya"
+},
+		{	"profileId":"474873",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/474873?b=3&k=16130&l=search",
+	"arName":"ش الجلاء, المنصورة, الدقهلية",
+	"enName":"El Galaa St., El mansoura, El dakahleya"
+},
+		{	"profileId":"474884",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/474884?b=7&k=16130&l=search",
+	"arName":"ش قناة السويس, المنصورة, الدقهلية",
+	"enName":"Suez Canal St., El mansoura, El dakahleya"
+},
+		{	"profileId":"474882",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/474882?b=12&k=16130&l=search",
+	"arName":"ميدان الطميهى, المنصورة, الدقهلية",
+	"enName":"El Tomehy Sq., El mansoura, El dakahleya"
+},
+		{	"profileId":"474881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/474881?b=15&k=16130&l=search",
+	"arName":"1 عمارات السعودية - - المشاية, المنصورة, الدقهلية",
+	"enName":"1 El Saudia Bldgs., , El Mashaya, El mansoura, El dakahleya"
+},
+		{	"profileId":"474877",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/474877?b=6&k=16130&l=search",
+	"arName":"ميدان مشعل, المنصورة, الدقهلية",
+	"enName":"Mashaal Sq., El mansoura, El dakahleya"
+},
+		{	"profileId":"474885",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/walid-el-tarshouby-pharmacies/474885?b=4&k=16130&l=search",
+	"arName":"ش الترعة ميدان الاديب, المنصورة, الدقهلية",
+	"enName":"El Teraa St. El Adib Sq., El mansoura, El dakahleya"
+}
+	]
+}]}

@@ -1,0 +1,62 @@
+{"items":[{	"arName":"جهينة للصناعات الغذائية",
+	"enName":"Juhayna For Food Industries",
+	"hotlone":"16630",
+	"arCategory":[
+		"البان منتجات - مصنعون"
+	],
+	"enCategories":[
+		"Dairy Industry"
+	],
+	"contacts":[
+		{	"profileId":"126282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/126282?b=8&k=16630&l=search",
+	"arName":"., السوق القديم, شرم الشيخ",
+	"enName":"., El souk el kadim, Sharm el sheikh"
+},
+		{	"profileId":"126281",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/126281?b=4&k=16630&l=search",
+	"arName":"طريق المحور الاوسط, سقالة, الغردقة",
+	"enName":"El Mehwar El Awsat Rd. , Sekala, Hurghada"
+},
+		{	"profileId":"4707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/4707?b=6&k=16630&l=search",
+	"arName":"11 ش الجهاد ميدان لبنان, المهندسين, الجيزة",
+	"enName":"11 El Gehad St. lebanon sq., Mohandeseen, Giza"
+},
+		{	"profileId":"187395",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/187395?b=3&k=16630&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"130632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/130632?b=7&k=16630&l=search",
+	"arName":"كم 95 - طريق القاهرة اسكندرية الزراعى, طنطا, الغربية",
+	"enName":"Km 95, Cairo Alex Agricultural Rd., Tanta, El gharbeya"
+},
+		{	"profileId":"104656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/104656?b=10&k=16630&l=search",
+	"arName":"كم 21 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 21, , Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"126286",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/126286?b=5&k=16630&l=search",
+	"arName":"المنطقة الصناعية الثانية, طريق اسماعيلية مصر الصحراوى, الاسماعيلية",
+	"enName":"2nd Industrial Zone, Ism. cairo desert road, Ismaileya"
+},
+		{	"profileId":"71382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/71382?b=9&k=16630&l=search",
+	"arName":"القطعة 39 - - المنطقة الصناعية الاولى, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 39, , 1St Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"126284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/126284?b=2&k=16630&l=search",
+	"arName":"ش سكة تلا, ارض شلبى, المنيا",
+	"enName":"Sekket Tala St., Ard shalaby, El menia"
+},
+		{	"profileId":"126283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/126283?b=1&k=16630&l=search",
+	"arName":"ش القفطية, دروه, اسوان",
+	"enName":"El Qofteya St., Daraw, Aswan"
+}
+	]
+}]}

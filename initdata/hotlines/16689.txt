@@ -1,0 +1,17 @@
+{"items":[{	"arName":"ارو فوود للتجارة",
+	"enName":"Arrow Food Trade",
+	"hotlone":"16689",
+	"arCategory":[
+		"شاى وبن"
+	],
+	"enCategories":[
+		"Tea & Coffee"
+	],
+	"contacts":[
+		{	"profileId":"431803",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arrow-food-trade/431803?b=1&k=16689&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

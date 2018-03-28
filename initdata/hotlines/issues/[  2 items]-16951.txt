@@ -1,0 +1,98 @@
+{"items":[{	"arName":"برونتو شوز",
+	"enName":"Pronto Shoes",
+	"hotlone":"16951",
+	"arCategory":[
+		"احذية وشنط محلات"
+	],
+	"enCategories":[
+		"Shoes & Bags Retail"
+	],
+	"contacts":[
+		{	"profileId":"519337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/519337?b=13&k=16951&l=search",
+	"arName":"سور حديقة صنعاء -, دسوق, كفر الشيخ",
+	"enName":"Sanaa Park Wall,, Disuq, Kafr el sheikh"
+},
+		{	"profileId":"519327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/519327?b=10&k=16951&l=search",
+	"arName":"78 ش عثمان بن عفان, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"78 Othman Ibn Affan St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"519335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/519335?b=7&k=16951&l=search",
+	"arName":"ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"519325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/519325?b=6&k=16951&l=search",
+	"arName":"8 ش عثمان امين متفرع من محور طه حسين, النزهة الجديدة, القاهرة",
+	"enName":"8 Othman Amin St. Off Taha Hussein Spine, El nozha el gadida, Cairo"
+},
+		{	"profileId":"519336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/519336?b=14&k=16951&l=search",
+	"arName":"315 ش فيصل, حسن محمد, فيصل, الجيزة",
+	"enName":"315 Faisal St., Hassan Mohamed, Faisal, Giza"
+},
+		{	"profileId":"519333",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/519333?b=11&k=16951&l=search",
+	"arName":"ش محب, طنطا, الغربية",
+	"enName":"Moheb St., Tanta, El gharbeya"
+},
+		{	"profileId":"519334",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/519334?b=15&k=16951&l=search",
+	"arName":"15 ش عاطف السادات, شبين الكوم, المنوفية",
+	"enName":"15 Atef El Sadat St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"359257",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/359257?b=5&k=16951&l=search",
+	"arName":"132 ش النزهة, تريومف, مصر الجديدة, القاهرة",
+	"enName":"132 El Nozha St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"359265",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/359265?b=4&k=16951&l=search",
+	"arName":"29 ش عثمان بن عفان, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"enName":"29 Othman Ibn Affan St., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"359261",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/359261?b=8&k=16951&l=search",
+	"arName":"1 ش ابراهيم اللقانى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"1 Ibrahim El Laqqany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"442805",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/442805?b=12&k=16951&l=search",
+	"arName":"3 ش شهاب تقاطع ش دجلة, المهندسين, الجيزة",
+	"enName":"3 Shehab St. Intersection Of Degla St., Mohandeseen, Giza"
+},
+		{	"profileId":"442807",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-shoes/442807?b=9&k=16951&l=search",
+	"arName":"1 ش عبد الخالق ثروت تقاطع ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"1 Abdel Khaleq Tharwat St. Intersection Of Talaat Harb St., Downtown, Cairo"
+}
+	]
+}, {	"arName":"برونتو لتصنيع المنتجات الجلدية",
+	"enName":"Pronto For Leather Manufacture",
+	"hotlone":"16951",
+	"arCategory":[
+		"جلود ودباغة"
+	],
+	"enCategories":[
+		"Leather & Tanners"
+	],
+	"contacts":[
+		{	"profileId":"519324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-for-leather-manufacture/519324?b=2&k=16951&l=search",
+	"arName":"خدمة العملاء, جسر السويس, القاهرة",
+	"enName":"Customer Service, Gesr el suez, Cairo"
+},
+		{	"profileId":"527228",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-for-leather-manufacture/527228?b=1&k=16951&l=search",
+	"arName":"8 ش عثمان امين متفرع من محور طه حسين, النزهة الجديدة, القاهرة",
+	"enName":"8 Othman Amin St. Off Taha Hussein Spine, El nozha el gadida, Cairo"
+},
+		{	"profileId":"455445",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pronto-for-leather-manufacture/455445?b=3&k=16951&l=search",
+	"arName":"6 ش 110 متفرع من ش مسجد الوطنية, جسر السويس, القاهرة",
+	"enName":"6 Rd. 110 Off Masged El Wataneya St., Gesr el suez, Cairo"
+}
+	]
+}]}

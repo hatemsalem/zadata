@@ -1,0 +1,32 @@
+{"items":[{	"arName":"بريليانس - المجموعة البافارية للسيارات",
+	"enName":"Brilliance - Bavarian Auto Group",
+	"hotlone":"16056",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"426429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brilliance-_-bavarian-auto-group/426429?b=3&k=16056&l=search",
+	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"168747",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brilliance-_-bavarian-auto-group/168747?b=1&k=16056&l=search",
+	"arName":"القطعة 258 - - حى الملتقى العربى, الماظة, مصر الجديدة, القاهرة",
+	"enName":"Plot 258, , El Moltaqa El Araby District, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"490071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brilliance-_-bavarian-auto-group/490071?b=2&k=16056&l=search",
+	"arName":"القطعة 30 - ميدان المروحة - مدينة النخيل, القطامية, القاهرة",
+	"enName":"Plot 30, El Marwaha Sq., El Nakhil City, El katameya, Cairo"
+},
+		{	"profileId":"426430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brilliance-_-bavarian-auto-group/426430?b=4&k=16056&l=search",
+	"arName":"كم 18 - - المنطقة الصناعية, جسر السويس, القاهرة",
+	"enName":"Km 18, , Industrial Zone, Gesr el suez, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مؤسسة اهل مصر",
+	"enName":"Ahl Masr Foundation",
+	"hotlone":"16863",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"576941",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahl-masr-foundation/576941?b=1&k=16863&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"564393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahl-masr-foundation/564393?b=2&k=16863&l=search",
+	"arName":"فيلا 269 - ش الشويفات متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 269, El Shoaifat St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

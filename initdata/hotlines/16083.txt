@@ -1,0 +1,19 @@
+{"items":[{	"arName":"سينابون",
+	"enName":"Cinnabon",
+	"hotlone":"16083",
+	"arCategory":[
+		"مطاعم امريكية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"American Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"96189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cinnabon/96189?b=1&k=16083&l=search",
+	"arName":"القطعة 233 - ش التسعين قطاع 2 - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 233, El Tesaeen St. Sector 2, City Center, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

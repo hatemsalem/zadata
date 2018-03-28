@@ -1,0 +1,37 @@
+{"items":[{	"arName":"اميريكان اكسبريس ترافيل سيرفيسز ايجيبت",
+	"enName":"American Express Travel Services Egypt",
+	"hotlone":"16443",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"293504",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-express-travel-services-egypt/293504?b=2&k=16443&l=search",
+	"arName":"6 أ ش السباق, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"6 A El Sebaq St., El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"74667",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-express-travel-services-egypt/74667?b=1&k=16443&l=search",
+	"arName":"15 ش قصر النيل, وسط البلد, القاهرة",
+	"enName":"15 Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"223373",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-express-travel-services-egypt/223373?b=3&k=16443&l=search",
+	"arName":"خدمة العملاء, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"474574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-express-travel-services-egypt/474574?b=5&k=16443&l=search",
+	"arName":"كورنيش النيل - جزيرة الافانتين, الكورنيش, اسوان",
+	"enName":"Corniche El Nil, Elephantine Island, El corniche, Aswan"
+},
+		{	"profileId":"462575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-express-travel-services-egypt/462575?b=4&k=16443&l=search",
+	"arName":"15 ميدان سعد زغلول, محطة الرمل, الاسكندرية",
+	"enName":"15 Saad Zaghloul Sq., Raml station, Alexandria"
+}
+	]
+}]}

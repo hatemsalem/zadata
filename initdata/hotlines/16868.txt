@@ -1,0 +1,392 @@
+{"items":[{	"arName":"بنك ناصر الاجتماعى",
+	"enName":"Nasser Social Bank - NSB",
+	"hotlone":"16868",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"248006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248006?b=36&k=16868&l=search",
+	"arName":"ش قطينى, طنطا, الغربية",
+	"enName":"Qattiny St., Tanta, El gharbeya"
+},
+		{	"profileId":"248009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248009?b=62&k=16868&l=search",
+	"arName":"كفر الشرفا, طنطا, الغربية",
+	"enName":"Kafr El Shorafa, Tanta, El gharbeya"
+},
+		{	"profileId":"247997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/247997?b=72&k=16868&l=search",
+	"arName":"طريق مصر اسوان - قرية المحاميد, ارمنت, الاقصر",
+	"enName":"Misr Aswan Rd., El Mahameed Village, Arment, Luxor"
+},
+		{	"profileId":"248008",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248008?b=74&k=16868&l=search",
+	"arName":"ش داير الناحية - كفر الشيخ سليم, طنطا, الغربية",
+	"enName":"Dayer El Nahya St., Kafr El Sheikh Selim, Tanta, El gharbeya"
+},
+		{	"profileId":"248494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248494?b=17&k=16868&l=search",
+	"arName":"4 ش الجمهورية, دمنهور, البحيرة",
+	"enName":"4 El Gomhoureya St., Damanhour, El beheira"
+},
+		{	"profileId":"248010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248010?b=75&k=16868&l=search",
+	"arName":"قرية نشيل, قطور, الغربية",
+	"enName":"Nashil Village, Kutour, El gharbeya"
+},
+		{	"profileId":"248012",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248012?b=50&k=16868&l=search",
+	"arName":"قرية بنوفر, كفر الزيات, الغربية",
+	"enName":"Benofr Village, Kafr el zayat, El gharbeya"
+},
+		{	"profileId":"249068",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249068?b=71&k=16868&l=search",
+	"arName":"حجر الاساس, بير شالاتن, البحر الاحمر",
+	"enName":"Hagar El Asas, BIR SHALATIN, Bir shalatin, Red sea"
+},
+		{	"profileId":"248015",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248015?b=76&k=16868&l=search",
+	"arName":"ش الفاتح, طنطا, الغربية",
+	"enName":"El Fateh St., Tanta, El gharbeya"
+},
+		{	"profileId":"232931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232931?b=67&k=16868&l=search",
+	"arName":"41 ش السلطان حسين, الازاريطة, الاسكندرية",
+	"enName":"41 El Sultan Hussein St., Azarita, Alexandria"
+},
+		{	"profileId":"248491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248491?b=55&k=16868&l=search",
+	"arName":"فيلا 89 - - المنطقة الثانية, مدينة السادات, المنوفية",
+	"enName":"Villa 89, , 2nd Zone, Sadat city, El monofeya"
+},
+		{	"profileId":"398124",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/398124?b=3&k=16868&l=search",
+	"arName":"40 ِش محمود حب الله, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"40 Mahmoud Hob Allah St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"97025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/97025?b=26&k=16868&l=search",
+	"arName":"3 ش د. المحروقى, المهندسين, الجيزة",
+	"enName":"3 Dr. El Mahrouqy St., Mohandeseen, Giza"
+},
+		{	"profileId":"248019",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248019?b=12&k=16868&l=search",
+	"arName":"قرية المعتمدية, المحلة الكبرى, الغربية",
+	"enName":"El Moatamadeya Village, El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"249077",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249077?b=45&k=16868&l=search",
+	"arName":"قرية الرحامنة, فارسكور, دمياط",
+	"enName":"El Rahamna Village, Faraskour, Damietta"
+},
+		{	"profileId":"232923",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232923?b=23&k=16868&l=search",
+	"arName":"القطعة 52أ - - المنطقة الصناعية الرابعة - منطقة البنوك, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 52A, , 4th Industrial Zone, Banks Zone, 6th of october, Giza"
+},
+		{	"profileId":"232924",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232924?b=9&k=16868&l=search",
+	"arName":"16 ش رستم باشا, حلوان, القاهرة",
+	"enName":"16 Rostom Pasha St., Helwan, Cairo"
+},
+		{	"profileId":"249079",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249079?b=19&k=16868&l=search",
+	"arName":"26 ش النمسا ميدان الشون الميرى, حى السويس, السويس",
+	"enName":"26 El Nemsa St. El Shon El Merry Sq., Suez district, Suez"
+},
+		{	"profileId":"248462",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248462?b=27&k=16868&l=search",
+	"arName":"عمارة الجمل - ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"El Gamal Bldg., El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"232926",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232926?b=7&k=16868&l=search",
+	"arName":"29 مساكن الزلزال - - عين حلوان شقة 3, 4, حلوان, القاهرة",
+	"enName":"29 El Zelzal Bldgs., , Ein Helwan Flat 3, 4, Helwan, Cairo"
+},
+		{	"profileId":"248465",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248465?b=52&k=16868&l=search",
+	"arName":"قرية دماص, ميت غمر, الدقهلية",
+	"enName":"Damas Village, Mit ghamr, El dakahleya"
+},
+		{	"profileId":"248464",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248464?b=68&k=16868&l=search",
+	"arName":"ش داير الناحية - قرية برج النور الحمص, اجا, الدقهلية",
+	"enName":"Dayer El Nahya St., Borg El Nour El Homos Village, Aga, El dakahleya"
+},
+		{	"profileId":"232928",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232928?b=24&k=16868&l=search",
+	"arName":"18 ش صلاح سالم, الجيزة, الجيزة",
+	"enName":"18 Salah Salem St., Giza, Giza"
+},
+		{	"profileId":"232929",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232929?b=66&k=16868&l=search",
+	"arName":"ش سعد زغلول - برج اللؤلؤة, بنها, القليوبية",
+	"enName":"Saad Zaghloul St., El Loualoaa Tower, Banha, Kaliobeya"
+},
+		{	"profileId":"249071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249071?b=56&k=16868&l=search",
+	"arName":"., دير مواس, المنيا",
+	"enName":"., Dayr mawas, El menia"
+},
+		{	"profileId":"249073",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249073?b=31&k=16868&l=search",
+	"arName":"ش الخليفة المأمون, وسط البلد, كفر الشيخ",
+	"enName":"El Khalifa El Maamoun St., Downtown, Kafr el sheikh"
+},
+		{	"profileId":"249072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249072?b=44&k=16868&l=search",
+	"arName":"قرية ابو عزيز, مطاى, المنيا",
+	"enName":"Abou Aziz Village, Mattay, El menia"
+},
+		{	"profileId":"232921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232921?b=6&k=16868&l=search",
+	"arName":"4 طريق النصر تقاطع ش مكرم عبيد, مدينة نصر, القاهرة",
+	"enName":"4 El Nasr Rd. Intersection Of Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"249074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249074?b=18&k=16868&l=search",
+	"arName":"قرية الخادمية, سيدى غازى, كفر الشيخ",
+	"enName":"El Khademeya Village, Sidi ghazi, Kafr el sheikh"
+},
+		{	"profileId":"8278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/8278?b=8&k=16868&l=search",
+	"arName":"35 ش قصر النيل, وسط البلد, القاهرة",
+	"enName":"35 Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"145909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/145909?b=10&k=16868&l=search",
+	"arName":"السوق السياحى, الكورنيش, اسوان",
+	"enName":"Touristic Market, El corniche, Aswan"
+},
+		{	"profileId":"232919",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232919?b=5&k=16868&l=search",
+	"arName":"ميدان النافورة - الهضبة الوسطى, المقطم, القاهرة",
+	"enName":"El Nafoura Sq., Middle Hill, Mokattam, Cairo"
+},
+		{	"profileId":"118648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/118648?b=40&k=16868&l=search",
+	"arName":"ش 6 اكتوبر, المحلة الكبرى, الغربية",
+	"enName":"6Th Of October St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"248469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248469?b=69&k=16868&l=search",
+	"arName":"قرية ابو داود السباخ, طماى الامديد, الدقهلية",
+	"enName":"Abou Dawoud El Sabbakh Village, Timai el amdid, El dakahleya"
+},
+		{	"profileId":"249088",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249088?b=57&k=16868&l=search",
+	"arName":"قرية بنى رافع, منفلوط, اسيوط",
+	"enName":"Bani Rafea Village, Manfalut, Assyout"
+},
+		{	"profileId":"248474",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248474?b=28&k=16868&l=search",
+	"arName":"ش مساكن بنك ناصر, بلقاس, الدقهلية",
+	"enName":"Masaken Bank Nasser St., Belqas, El dakahleya"
+},
+		{	"profileId":"248473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248473?b=41&k=16868&l=search",
+	"arName":"ش المستشفى - قرية كفر علام, منية النصر, الدقهلية",
+	"enName":"El Mostashfa St., Kafr Allam Village, Meniet el nasr, El dakahleya"
+},
+		{	"profileId":"249089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249089?b=47&k=16868&l=search",
+	"arName":"قرية الحواتكة, منفلوط, اسيوط",
+	"enName":"El Hawatka Village, Manfalut, Assyout"
+},
+		{	"profileId":"232959",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232959?b=2&k=16868&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"232915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232915?b=4&k=16868&l=search",
+	"arName":"7 ش العزيز بالله, الزيتون, القاهرة",
+	"enName":"7 El Aziz Bellah St., El zaytoun, Cairo"
+},
+		{	"profileId":"232916",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232916?b=1&k=16868&l=search",
+	"arName":"19 ش ابن الرومى, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"19 Ibn El Roumy St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"248475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248475?b=15&k=16868&l=search",
+	"arName":"برج التقوى - ش عبد العزيز عياد متفرع من ش المحافظة, الزقازيق, الشرقية",
+	"enName":"El Taqwa Tower, Abdel Aziz Ayyad St. Off El Mohafza St., El zagazig, El sharkeya"
+},
+		{	"profileId":"248478",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248478?b=42&k=16868&l=search",
+	"arName":"ش بنك ناصر - قرية ميت العز, فاقوس, الشرقية",
+	"enName":"Bank Nasser St., Meet El Ezz Village, Faqus, El sharkeya"
+},
+		{	"profileId":"248037",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248037?b=37&k=16868&l=search",
+	"arName":"قرية محلة زياد, سمنود, الغربية",
+	"enName":"Mahallet Ziad Village, Samannoud, El gharbeya"
+},
+		{	"profileId":"248477",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248477?b=53&k=16868&l=search",
+	"arName":"., مشتول السوق, الشرقية",
+	"enName":"., Mashtoul el souk, El sharkeya"
+},
+		{	"profileId":"232918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/232918?b=59&k=16868&l=search",
+	"arName":"., شبرا الخيمة, القليوبية",
+	"enName":"., Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"249080",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249080?b=32&k=16868&l=search",
+	"arName":"عمارة 17ب - - حى السلام شقة 1, الطور, جنوب سيناء",
+	"enName":"Bldg. 17B, , El Salam District Flat 1, EL TUR, El tur, South sinai"
+},
+		{	"profileId":"249081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249081?b=20&k=16868&l=search",
+	"arName":"ش جمال عبد الناصر, الخارجة, الوادى الجديد",
+	"enName":"Gamal Abdel Nasser St., El kharga, El wadi el gadid"
+},
+		{	"profileId":"249084",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249084?b=46&k=16868&l=search",
+	"arName":"ش فاطمة الياس متفرع من ش سعد زغلول, المسلة, الفيوم",
+	"enName":"Fatema Elias St. Off Saad Zaghloul St., El massalah, El fayoum"
+},
+		{	"profileId":"145908",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/145908?b=64&k=16868&l=search",
+	"arName":"قرية بنى محمد سلطان, ملوى, المنيا",
+	"enName":"Bani Mohamed Sultan Village, Mallawi, El menia"
+},
+		{	"profileId":"249086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249086?b=21&k=16868&l=search",
+	"arName":"ش الجيش - ضاحية السلام, العريش, شمال سيناء",
+	"enName":"El Guish St., El Salam Suburb, Arish, North sinai"
+},
+		{	"profileId":"249085",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249085?b=33&k=16868&l=search",
+	"arName":"11 ش الطور تقاطع ش جمال عبد الناصر, حى الشرق, بور سعيد",
+	"enName":"11 El Tour St. Intersection Of Gamal Abdel Nasser St., El shark district, Port said"
+},
+		{	"profileId":"248479",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248479?b=29&k=16868&l=search",
+	"arName":"قرية اولاد سيف, بلبيس, الشرقية",
+	"enName":"Awlad Seif Village, Belbeis, El sharkeya"
+},
+		{	"profileId":"428963",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/428963?b=38&k=16868&l=search",
+	"arName":"1 ش محمود سلامة ميدان الشهداء, محطة مصر, الاسكندرية",
+	"enName":"1 Mahmoud Salama St. El Shohadaa Sq., Misr station, Alexandria"
+},
+		{	"profileId":"247989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/247989?b=11&k=16868&l=search",
+	"arName":"ش محمد حميدة, بنى سويف, بنى سويف",
+	"enName":"Mohamed Hemaida St., Benisuef, Benisuef"
+},
+		{	"profileId":"248043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248043?b=51&k=16868&l=search",
+	"arName":"قرية السجاعية, المحلة الكبرى, الغربية",
+	"enName":"El Sagaeya Village, El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"248483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248483?b=70&k=16868&l=search",
+	"arName":"قرية الزوامل, بلبيس, الشرقية",
+	"enName":"El Zawamel Village, Belbeis, El sharkeya"
+},
+		{	"profileId":"248042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248042?b=63&k=16868&l=search",
+	"arName":"قرية بشبيش, المحلة الكبرى, الغربية",
+	"enName":"Beshbish Village, El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"248045",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248045?b=14&k=16868&l=search",
+	"arName":"قرية صفط تراب, المحلة الكبرى, الغربية",
+	"enName":"Saft Torab Village, El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"248001",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248001?b=35&k=16868&l=search",
+	"arName":"شندويل البلد, المراغة, سوهاج",
+	"enName":"Shandawil El Balad, El maragha, Sohag"
+},
+		{	"profileId":"248485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248485?b=43&k=16868&l=search",
+	"arName":"عمارة الغرفة التجارية - ش سعد زغلول - الدور 3, شبين الكوم, المنوفية",
+	"enName":"Chamber Of Commerce Bldg., Saad Zaghloul St., Floor 3, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"247990",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/247990?b=34&k=16868&l=search",
+	"arName":"5 عمارات المشتل - ش طه حسين, ارض سلطان, المنيا",
+	"enName":"5 El Mashtal Bldgs., Taha Hussein St., Ard sultan, El menia"
+},
+		{	"profileId":"248487",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248487?b=16&k=16868&l=search",
+	"arName":"منشية عاصم, شبين الكوم, المنوفية",
+	"enName":"Mansheyet Assem, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"248003",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248003?b=73&k=16868&l=search",
+	"arName":"جزيرة شندويل, المراغة, سوهاج",
+	"enName":"Geziret Shandawil, El maragha, Sohag"
+},
+		{	"profileId":"145910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/145910?b=65&k=16868&l=search",
+	"arName":"عمارات امن الدولة - ش 23 يوليو, ادفو, اسوان",
+	"enName":"Amn El Dawla Bldgs., 23rd Of July St., Edfou, Aswan"
+},
+		{	"profileId":"248489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248489?b=54&k=16868&l=search",
+	"arName":"قرية الخطاطبة, مدينة السادات, المنوفية",
+	"enName":"El khatatba Village, Sadat city, El monofeya"
+},
+		{	"profileId":"247993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/247993?b=60&k=16868&l=search",
+	"arName":"ش مصطفى كامل, وسط البلد, قنا",
+	"enName":"El Mostafa Kamel St., Downtown, Qena"
+},
+		{	"profileId":"247994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/247994?b=49&k=16868&l=search",
+	"arName":"ش عبد المنعم رياض, قوص, قنا",
+	"enName":"Abdel Moneim Riad St., Quos, Qena"
+},
+		{	"profileId":"248004",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248004?b=61&k=16868&l=search",
+	"arName":"ش عرابى, طهطا, سوهاج",
+	"enName":"Orabi St., Tahta, Sohag"
+},
+		{	"profileId":"249091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249091?b=48&k=16868&l=search",
+	"arName":"17 عمارة الاوقاف - ش التحرير, سوهاج, سوهاج",
+	"enName":"17 El Awqaf Bldg., El Tahrir St., Sohag, Sohag"
+},
+		{	"profileId":"249090",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249090?b=58&k=16868&l=search",
+	"arName":"ش مسجد الشيخ محمود فوزى, التل الكبير, الاسماعيلية",
+	"enName":"Masged El Sheikh Mahmoud Fawzy St., El tal el kabir, Ismaileya"
+},
+		{	"profileId":"249093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/249093?b=22&k=16868&l=search",
+	"arName":"قرية البصيلية, ادفو, اسوان",
+	"enName":"El Baseleya Village, Edfou, Aswan"
+},
+		{	"profileId":"145913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/145913?b=39&k=16868&l=search",
+	"arName":"ش 26 يوليو ميدان الميدوب, حى غرب, اسيوط",
+	"enName":"26Th Of July St. El Maidoub Sq., Gharb district, Assyout"
+},
+		{	"profileId":"145912",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/145912?b=25&k=16868&l=search",
+	"arName":"18 ش فريد ندا, حى الافرنج, الاسماعيلية",
+	"enName":"18 Farid Nada St., El afrang district, Ismaileya"
+},
+		{	"profileId":"248481",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248481?b=30&k=16868&l=search",
+	"arName":"قرية الجوسق, بلبيس, الشرقية",
+	"enName":"El Gawsaq Village, Belbeis, El sharkeya"
+},
+		{	"profileId":"248040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasser-social-bank-_-nsb/248040?b=13&k=16868&l=search",
+	"arName":"قرية ميت عساس, سمنود, الغربية",
+	"enName":"Meet Asas Village, Samannoud, El gharbeya"
+}
+	]
+}]}

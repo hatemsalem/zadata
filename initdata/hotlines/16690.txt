@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مانترونكس",
+	"enName":"Mantronix",
+	"hotlone":"16690",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"161505",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantronix/161505?b=2&k=16690&l=search",
+	"arName":"13 ش 294, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"13 Rd. 294, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"261200",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantronix/261200?b=1&k=16690&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,37 @@
+{"items":[{	"arName":"شركة ايجيبت فودز للصناعات الغذائية",
+	"enName":"Egypt Foods Co. For Food Industries",
+	"hotlone":"19624",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"56489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-foods-co.-for-food-industries/56489?b=2&k=19624&l=search",
+	"arName":"منطقة مبارك الصناعية - المنطقة الصناعية الثانية, قويسنا, المنوفية",
+	"enName":"Mubarak Industrial Zone, 2nd Industrial Zone, Quwasnah, El monofeya"
+},
+		{	"profileId":"463537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-foods-co.-for-food-industries/463537?b=3&k=19624&l=search",
+	"arName":"القطعة 31 -, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"466839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-foods-co.-for-food-industries/466839?b=4&k=19624&l=search",
+	"arName":"ش اللبينى متفرع من ش المريوطية, كرداسة, الجيزة",
+	"enName":"El Lebiny St. Off El Mariouteya St., Kerdasa, Giza"
+},
+		{	"profileId":"271090",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-foods-co.-for-food-industries/271090?b=1&k=19624&l=search",
+	"arName":"1 ش المعهد الدينى متفرع من ش العروبة, الوراق, الجيزة",
+	"enName":"1 El Maahad El Diny St. Off El Orouba St., El warak, Giza"
+},
+		{	"profileId":"460772",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-foods-co.-for-food-industries/460772?b=5&k=19624&l=search",
+	"arName":"خدمة العملاء, قويسنا, المنوفية",
+	"enName":"Customer Service, Quwasnah, El monofeya"
+}
+	]
+}]}

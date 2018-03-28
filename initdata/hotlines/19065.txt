@@ -1,0 +1,31 @@
+{"items":[{	"arName":"ماكس برجرز",
+	"enName":"Max Burgers",
+	"hotlone":"19065",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"580559",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/max-burgers/580559?b=1&k=19065&l=search",
+	"arName":"8 /2 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"8 /2 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"567206",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/max-burgers/567206?b=2&k=19065&l=search",
+	"arName":"محور محمد نجيب - منطقة المستثمرين الشمالية, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Mohamed Naguib Spine, Northern Investors Area, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"567220",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/max-burgers/567220?b=3&k=19065&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Home Delivery, 1st Compound, New cairo, Cairo"
+}
+	]
+}]}

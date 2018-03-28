@@ -1,0 +1,32 @@
+{"items":[{	"arName":"دايناميك لتدوال الاوراق المالية",
+	"enName":"Dynamic Securities",
+	"hotlone":"16330",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"324879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dynamic-securities/324879?b=2&k=16330&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"124796",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dynamic-securities/124796?b=1&k=16330&l=search",
+	"arName":"64 ش الجمهورية - الدور 5, المنصورة, الدقهلية",
+	"enName":"64 El Gomhoureya St., Floor 5, El mansoura, El dakahleya"
+},
+		{	"profileId":"442917",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dynamic-securities/442917?b=3&k=16330&l=search",
+	"arName":"68 ش محيى الدين ابو العز, الدقى, الجيزة",
+	"enName":"68 Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"147618",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dynamic-securities/147618?b=4&k=16330&l=search",
+	"arName":"37 ش اسماعيل سرى - الدور 1, سموحة, الاسكندرية",
+	"enName":"37 Ismail Serry St., Floor 1, Semouha, Alexandria"
+}
+	]
+}]}

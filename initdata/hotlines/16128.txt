@@ -1,0 +1,79 @@
+{"items":[{	"arName":"بلو باص",
+	"enName":"Blue Bus",
+	"hotlone":"16128",
+	"arCategory":[
+		"اتوبيسات شارتر ومحطات",
+		"شاحنات واتوبيسات"
+	],
+	"enCategories":[
+		"Bus Charters & Stations",
+		"Trucks & Buses"
+	],
+	"contacts":[
+		{	"profileId":"564400",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/564400?b=8&k=16128&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"578370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578370?b=5&k=16128&l=search",
+	"arName":"المحور المركزى - ميدان الحصرى, الحى الثانى, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, Hosary Sq., 2nd District, 6th of october, Giza"
+},
+		{	"profileId":"578393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578393?b=9&k=16128&l=search",
+	"arName":"ش الشيراتون - الممشى السياحى, طريق القرى, الغردقة",
+	"enName":"Sheraton Rd., Touristic Passage, Villages rd., Hurghada"
+},
+		{	"profileId":"557840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/557840?b=2&k=16128&l=search",
+	"arName":"44 ش شهاب, المهندسين, الجيزة",
+	"enName":"44 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"578385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578385?b=12&k=16128&l=search",
+	"arName":"طريق النصر, الدهار, الغردقة",
+	"enName":"El Nasr Rd., Dahar, Hurghada"
+},
+		{	"profileId":"578397",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578397?b=13&k=16128&l=search",
+	"arName":"ش الرويسات, الرويسات, شرم الشيخ",
+	"enName":"El Rowaisat St., El ruwaisat, Sharm el sheikh"
+},
+		{	"profileId":"578372",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578372?b=1&k=16128&l=search",
+	"arName":"محور المشير طنطاوى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Moushir Tantawy Spine, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"578395",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578395?b=4&k=16128&l=search",
+	"arName":"طريق السلام, هضبة ام السيد, شرم الشيخ",
+	"enName":"El Salam Rd., Umm el sid hill, Sharm el sheikh"
+},
+		{	"profileId":"557841",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/557841?b=11&k=16128&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"578387",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578387?b=6&k=16128&l=search",
+	"arName":"طريق النصر, الدهار, الغردقة",
+	"enName":"El Nasr Rd., Dahar, Hurghada"
+},
+		{	"profileId":"578377",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578377?b=3&k=16128&l=search",
+	"arName":"., محرم بك, الاسكندرية",
+	"enName":"., Moharram bey, Alexandria"
+},
+		{	"profileId":"578402",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578402?b=7&k=16128&l=search",
+	"arName":"., المسبط, دهب",
+	"enName":"., Masbat, Dahab"
+},
+		{	"profileId":"564396",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/564396?b=10&k=16128&l=search",
+	"arName":"30 ب ش البحر الاعظم, الجيزة, الجيزة",
+	"enName":"30 B El Bahr El Aazam St., Giza, Giza"
+}
+	]
+}]}

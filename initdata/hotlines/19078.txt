@@ -1,0 +1,38 @@
+{"items":[{	"arName":"استيك اوت جريل",
+	"enName":"Steak Out Grill",
+	"hotlone":"19078",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"459758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/steak-out-grill/459758?b=1&k=19078&l=search",
+	"arName":"9 ش عبد الله دراز متفرع من ش الثورة, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"9 Abdullah Deraz St. Off El Thawra St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"153998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/steak-out-grill/153998?b=4&k=19078&l=search",
+	"arName":"16 ش محمد كامل مرسى متفرع من ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"enName":"16 Mohamed Kamel Morsy St. Off El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"459764",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/steak-out-grill/459764?b=2&k=19078&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"459741",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/steak-out-grill/459741?b=3&k=19078&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+}
+	]
+}]}

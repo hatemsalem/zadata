@@ -1,0 +1,27 @@
+{"items":[{	"arName":"مشاوير",
+	"enName":"Mashaweer",
+	"hotlone":"19988",
+	"arCategory":[
+		"بريد سريع خدمات"
+	],
+	"enCategories":[
+		"Courier Services"
+	],
+	"contacts":[
+		{	"profileId":"508303",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mashaweer/508303?b=2&k=19988&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"236211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mashaweer/236211?b=1&k=19988&l=search",
+	"arName":"8 ابراج جرين تاورز -, سموحة, الاسكندرية",
+	"enName":"8 Green Towers,, Semouha, Alexandria"
+},
+		{	"profileId":"508302",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mashaweer/508302?b=3&k=19988&l=search",
+	"arName":"31 ش عبد المنعم رياض, المهندسين, الجيزة",
+	"enName":"31 Abdel Moneim Riad St., Mohandeseen, Giza"
+}
+	]
+}]}

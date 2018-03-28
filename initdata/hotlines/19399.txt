@@ -1,0 +1,27 @@
+{"items":[{	"arName":"مجموعة عز العرب للسيارات",
+	"enName":"Ezz Elarab Automotive Group",
+	"hotlone":"19399",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"18640",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ezz-elarab-automotive-group/18640?b=1&k=19399&l=search",
+	"arName":"13 ش شاهين, العجوزة, الجيزة",
+	"enName":"13 Shahin St., Agouza, Giza"
+},
+		{	"profileId":"387036",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ezz-elarab-automotive-group/387036?b=2&k=19399&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"76402",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ezz-elarab-automotive-group/76402?b=3&k=19399&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+}
+	]
+}]}

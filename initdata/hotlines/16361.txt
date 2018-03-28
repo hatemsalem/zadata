@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مستشفى الصفوة - د. سراج زكريا",
+	"enName":"Al Safwa Hospital - Dr. Serag Zakareya",
+	"hotlone":"16361",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"184376",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safwa-hospital-_-dr.-serag-zakareya/184376?b=2&k=16361&l=search",
+	"arName":"خدمة طوارئ, الحى الاول, السادس من اكتوبر, الجيزة",
+	"enName":"Emergency Service, 1st District, 6th of october, Giza"
+},
+		{	"profileId":"184375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safwa-hospital-_-dr.-serag-zakareya/184375?b=1&k=16361&l=search",
+	"arName":"المجاورة الاولى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"enName":"1St Neighbourhood, 1st District, 6th of october, Giza"
+}
+	]
+}]}

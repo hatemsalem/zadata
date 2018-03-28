@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مركز دار الطب للحقن المجهرى",
+	"enName":"Dar Alteb Center For Microscopic Injection",
+	"hotlone":"19613",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"111041",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-alteb-center-for-microscopic-injection/111041?b=2&k=19613&l=search",
+	"arName":"5 ش عمان متفرع من ش السودان - الدور 2, الدقى, الجيزة",
+	"enName":"5 Oman St. Off Sudan St., Floor 2, Dokki, Giza"
+},
+		{	"profileId":"187139",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-alteb-center-for-microscopic-injection/187139?b=1&k=19613&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"customer service, Dokki, Giza"
+}
+	]
+}]}

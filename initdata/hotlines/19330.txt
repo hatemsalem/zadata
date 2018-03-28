@@ -1,0 +1,267 @@
+{"items":[{	"arName":"درينكيز",
+	"enName":"Drinkie's",
+	"hotlone":"19330",
+	"arCategory":[
+		"مشروبات مصنعون"
+	],
+	"enCategories":[
+		"Beverage Industry"
+	],
+	"contacts":[
+		{	"profileId":"139646",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/139646?b=17&k=19330&l=search",
+	"arName":"45 ش السكاكينى, الظاهر, القاهرة",
+	"enName":"45 El Sakakiny St., El zaher, Cairo"
+},
+		{	"profileId":"123385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123385?b=20&k=19330&l=search",
+	"arName":"ش ناهيا, بولاق الدكرور, الجيزة",
+	"enName":"Nahya St., Boulak el dakrour, Giza"
+},
+		{	"profileId":"559601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559601?b=25&k=19330&l=search",
+	"arName":"كم 68 - , طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 68, , Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"123386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123386?b=5&k=19330&l=search",
+	"arName":"6 عمارات التوفيق - ش ابن فضلان, مدينة نصر, القاهرة",
+	"enName":"6 El Tawfiq Bldgs., Ibn Fadlan St., Nasr city, Cairo"
+},
+		{	"profileId":"164446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/164446?b=16&k=19330&l=search",
+	"arName":"78 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"enName":"78 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"123383",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123383?b=12&k=19330&l=search",
+	"arName":"10 ش الحجاز, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"enName":"10 El Hegaz St., El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"123384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123384?b=45&k=19330&l=search",
+	"arName":"75 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"75 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"123381",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123381?b=28&k=19330&l=search",
+	"arName":"162 أ ش 26 يوليو ميدان سفنكس, العجوزة, الجيزة",
+	"enName":"162 A 26th Of July St. Sphinx Sq., Agouza, Giza"
+},
+		{	"profileId":"123382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123382?b=9&k=19330&l=search",
+	"arName":"26 ش مسرة, شبرا, القاهرة",
+	"enName":"26 Massara St., Shoubra, Cairo"
+},
+		{	"profileId":"164440",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/164440?b=11&k=19330&l=search",
+	"arName":"10 ش هارون الرشيد, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"10 Haroun El Rashid St., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"123457",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123457?b=35&k=19330&l=search",
+	"arName":"52 ش المليجى, زفتى, الغربية",
+	"enName":"52 El Meligy St., Zefta, El gharbeya"
+},
+		{	"profileId":"559592",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559592?b=8&k=19330&l=search",
+	"arName":"26 ش مجلس الشعب, لاظوغلى, القاهرة",
+	"enName":"26 Magles El Shaab St., Lazoughly, Cairo"
+},
+		{	"profileId":"320095",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/320095?b=1&k=19330&l=search",
+	"arName":"157 ش 26 يوليو, الزمالك, القاهرة",
+	"enName":"157 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"123375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123375?b=31&k=19330&l=search",
+	"arName":"62 ش المحطة, امبابة, الجيزة",
+	"enName":"62 El Mahatta St., Imbaba, Giza"
+},
+		{	"profileId":"123404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123404?b=47&k=19330&l=search",
+	"arName":"ش الاشمون, سمنود, الغربية",
+	"enName":"El Ashmoun St., Samannoud, El gharbeya"
+},
+		{	"profileId":"123405",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123405?b=22&k=19330&l=search",
+	"arName":"30 ش د. عادل الرفاعى, المحلة الكبرى, الغربية",
+	"enName":"30 Dr. Adel El Refaey St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"123402",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123402?b=34&k=19330&l=search",
+	"arName":"كم 20 - طريق اسكندرية مطروح الصحراوى, العجمى, الاسكندرية",
+	"enName":"Km 20, Alex Matrouh Desert Rd., Agami, Alexandria"
+},
+		{	"profileId":"210318",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/210318?b=40&k=19330&l=search",
+	"arName":"1 ش جمال الدين ياسين, محطة الرمل, الاسكندرية",
+	"enName":"1 Gamal El Din Yassin St., Raml station, Alexandria"
+},
+		{	"profileId":"123403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123403?b=38&k=19330&l=search",
+	"arName":"18 طريق الجيش, الشاطبى, الاسكندرية",
+	"enName":"18 El Guish Rd., El shatby, Alexandria"
+},
+		{	"profileId":"123444",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123444?b=29&k=19330&l=search",
+	"arName":"ش 23 يوليو, بسيون, الغربية",
+	"enName":"23rd Of July St., Bassioun, El gharbeya"
+},
+		{	"profileId":"210316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/210316?b=23&k=19330&l=search",
+	"arName":"45 ش عمر لطفى, كامب شيزار, الاسكندرية",
+	"enName":"45 Omar Lotfy St., Camp shizar, Alexandria"
+},
+		{	"profileId":"559582",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559582?b=50&k=19330&l=search",
+	"arName":"5 ش العامل الاول, امبابة, الجيزة",
+	"enName":"5 El Amel El Awal St., Imbaba, Giza"
+},
+		{	"profileId":"108325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/108325?b=19&k=19330&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"164826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/164826?b=44&k=19330&l=search",
+	"arName":"ش الجيش, قطور, الغربية",
+	"enName":"El Guish St., Kutour, El gharbeya"
+},
+		{	"profileId":"559588",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559588?b=15&k=19330&l=search",
+	"arName":"193 ش الترعة البولاقية, شبرا, القاهرة",
+	"enName":"193 El Teraa El Boulaqeya St., Shoubra, Cairo"
+},
+		{	"profileId":"559666",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559666?b=37&k=19330&l=search",
+	"arName":"ش معبد الكرنك, الاقصر, الاقصر",
+	"enName":"Maabad El Karnak St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"559586",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559586?b=3&k=19330&l=search",
+	"arName":"31 ش احمد عيسى - دير الملاك, كوبرى القبة, القاهرة",
+	"enName":"31 Ahmed Eissa St., Deir El Malak, Kobry el koba, Cairo"
+},
+		{	"profileId":"559663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559663?b=27&k=19330&l=search",
+	"arName":"ش النقراشى, قويسنا, المنوفية",
+	"enName":"El Noqrashy St., Quwasnah, El monofeya"
+},
+		{	"profileId":"559664",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559664?b=51&k=19330&l=search",
+	"arName":"ش سعد زغلول ميدان المحطة, الاقصر, الاقصر",
+	"enName":"Saad Zaghloul St. El Mahatta Sq., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"559585",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559585?b=7&k=19330&l=search",
+	"arName":"60 ش مصر والسودان, حدائق القبة, القاهرة",
+	"enName":"60 Misr & Sudan St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"474207",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/474207?b=6&k=19330&l=search",
+	"arName":"84 ش 9, المعادى, القاهرة",
+	"enName":"84 Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"123399",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123399?b=33&k=19330&l=search",
+	"arName":"127 ش البيطاش, البيطاش, الاسكندرية",
+	"enName":"127 El Bitash St., El bitash, Alexandria"
+},
+		{	"profileId":"559570",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559570?b=49&k=19330&l=search",
+	"arName":"ش جوهر - حى مبارك - برج عفت, الزقازيق, الشرقية",
+	"enName":"Gohar St., Mubarak District, Effat Tower, El zagazig, El sharkeya"
+},
+		{	"profileId":"559579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559579?b=2&k=19330&l=search",
+	"arName":"33 ش محمد الصغير, مصر القديمة, القاهرة",
+	"enName":"33 Mohamed El Saghir St., Misr el kadima, Cairo"
+},
+		{	"profileId":"559656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559656?b=26&k=19330&l=search",
+	"arName":"12 ش الريفى ميدان عرابى, منوف, المنوفية",
+	"enName":"12 El Reefy St. Orabi Sq., Minuf, El monofeya"
+},
+		{	"profileId":"123396",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123396?b=46&k=19330&l=search",
+	"arName":"11 - السوق التجارى, المعمورة الشاطئ, الاسكندرية",
+	"enName":"11 , commercial Market, El mamorah shatia, Alexandria"
+},
+		{	"profileId":"123473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123473?b=48&k=19330&l=search",
+	"arName":"ارض الخزان, هضبة ام السيد, شرم الشيخ",
+	"enName":"Ard El Khazzan, Umm el sid hill, Sharm el sheikh"
+},
+		{	"profileId":"559577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559577?b=10&k=19330&l=search",
+	"arName":"144 ش جسر السويس, جسر السويس, القاهرة",
+	"enName":"144 Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"123394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123394?b=32&k=19330&l=search",
+	"arName":"348 ش جمال عبد الناصر, العصافرة, الاسكندرية",
+	"enName":"348 Gamal Abdel Nasser St., El asafra, Alexandria"
+},
+		{	"profileId":"123472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123472?b=39&k=19330&l=search",
+	"arName":"ش السلطان قابوس, خليج نعمة, شرم الشيخ",
+	"enName":"El Sultan Qabous St., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"123392",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123392?b=21&k=19330&l=search",
+	"arName":"302 ش خالد بن الوليد, سيدى بشر, الاسكندرية",
+	"enName":"302 Khaled Ibn El Walid St., Sidi beshr, Alexandria"
+},
+		{	"profileId":"164453",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/164453?b=43&k=19330&l=search",
+	"arName":"6 ش على عفت متفرع من ش اسامة ابو عميرة, حسن محمد, فيصل, الجيزة",
+	"enName":"6 Aly Effat St. Off Ossama Abou Emaira St., Hassan Mohamed, Faisal, Giza"
+},
+		{	"profileId":"164450",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/164450?b=4&k=19330&l=search",
+	"arName":"51 ش الظاهر, الظاهر, القاهرة",
+	"enName":"51 El Zaher St., El zaher, Cairo"
+},
+		{	"profileId":"123390",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123390?b=14&k=19330&l=search",
+	"arName":"45 ش السكاكينى, الظاهر, القاهرة",
+	"enName":"45 El Sakakeny St., El zaher, Cairo"
+},
+		{	"profileId":"559574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559574?b=24&k=19330&l=search",
+	"arName":"12 ش سعد زغلول - حى الزهور, الزقازيق, الشرقية",
+	"enName":"12 Saad Zaghloul St., El Zohour District, El zagazig, El sharkeya"
+},
+		{	"profileId":"559608",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559608?b=42&k=19330&l=search",
+	"arName":"كم 46 - طريق السويس الغردقة, العين السخنة, العين السخنة",
+	"enName":"Km 46, Suez Hurghada Rd., El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"123389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123389?b=18&k=19330&l=search",
+	"arName":"26 ش مجرى السيل, دجلة, المعادى, القاهرة",
+	"enName":"26 Magra El Seil St., Degla, Maadi, Cairo"
+},
+		{	"profileId":"559605",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559605?b=30&k=19330&l=search",
+	"arName":"مارينا - العلمين, العلمين, الساحل الشمالى",
+	"enName":"Marina - Alamain, El alamein, North coast"
+},
+		{	"profileId":"123388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/123388?b=13&k=19330&l=search",
+	"arName":"29 ش مصطفى كامل, المعادى, القاهرة",
+	"enName":"29 Mostafa Kamel St., Maadi, Cairo"
+},
+		{	"profileId":"559604",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/559604?b=36&k=19330&l=search",
+	"arName":"كم 148 - طريق اسكندرية مطروح الصحراوى, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 148, Alex Matrouh Desert Rd., Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"320307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/drinkie's/320307?b=41&k=19330&l=search",
+	"arName":"ميدان تمر حنة, وسط البلد, الجونة",
+	"enName":"Tamr Henna Sq., Downtown, El gouna"
+}
+	]
+}]}

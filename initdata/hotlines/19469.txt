@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الهاشمية للتنمية والتعمير",
+	"enName":"El Hashemia For Development & Construction",
+	"hotlone":"19469",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"518636",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hashemia-for-development-&-construction/518636?b=1&k=19469&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"518635",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hashemia-for-development-&-construction/518635?b=2&k=19469&l=search",
+	"arName":"4 أ ابراج المعادى ستارز - كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"4 A Maadi Stars Towers, Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,32 @@
+{"items":[{	"arName":"مستشفى الولايات العربية المتحدة - د. محمد مقبل",
+	"enName":"UAS Hospital",
+	"hotlone":"19924",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"179308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uas-hospital/179308?b=3&k=19924&l=search",
+	"arName":"ش حسنى مبارك, نجع حمادى, قنا",
+	"enName":"Hosny Mubarak St., Nagaa hamady, Qena"
+},
+		{	"profileId":"449298",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uas-hospital/449298?b=1&k=19924&l=search",
+	"arName":"2 أ ش جسر السويس, جسر السويس, القاهرة",
+	"enName":"2 A Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"502997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uas-hospital/502997?b=2&k=19924&l=search",
+	"arName":"خدمة طوارئ, جسر السويس, القاهرة",
+	"enName":"Emergency Service, Gesr el suez, Cairo"
+},
+		{	"profileId":"502998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uas-hospital/502998?b=4&k=19924&l=search",
+	"arName":"ش البحر, حى غرب, سوهاج",
+	"enName":"El Bahr St., Gharb district, Sohag"
+}
+	]
+}]}

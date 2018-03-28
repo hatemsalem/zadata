@@ -1,0 +1,37 @@
+{"items":[{	"arName":"جهاز حماية المستهلك - سى بى ايه",
+	"enName":"Consumer Protection Agency - CPA",
+	"hotlone":"19588",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"513395",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/consumer-protection-agency-_-cpa/513395?b=2&k=19588&l=search",
+	"arName":"25 ش الفاروق عمر - ارض المحلج - برج الياسمين - الدور 3, الزقازيق, الشرقية",
+	"enName":"25 El Farouq Omar St., Ard El Mahlag, El Yasmeen Tower, Floor 3, El zagazig, El sharkeya"
+},
+		{	"profileId":"268006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/consumer-protection-agency-_-cpa/268006?b=5&k=19588&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"268000",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/consumer-protection-agency-_-cpa/268000?b=1&k=19588&l=search",
+	"arName":"96 ش احمد عرابى, المهندسين, الجيزة",
+	"enName":"96 Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"513394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/consumer-protection-agency-_-cpa/513394?b=3&k=19588&l=search",
+	"arName":"1 مساكن السد العالى - ش نفرتيتى متفرع من ش طه حسين - الدور 1 شقة 2, ارض سلطان, المنيا",
+	"enName":"1 El Sad El Aaly Bldgs., Nefertiti St. Off Taha Hussein St., Floor 1 Flat 2, Ard sultan, El menia"
+},
+		{	"profileId":"148609",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/consumer-protection-agency-_-cpa/148609?b=4&k=19588&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

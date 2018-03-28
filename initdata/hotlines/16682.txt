@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الشركة المصرية لتجارة الادوية",
+	"enName":"Egy - Drug",
+	"hotlone":"16682",
+	"arCategory":[
+		"ادوية شركات"
+	],
+	"enCategories":[
+		"Pharmaceutical Companies"
+	],
+	"contacts":[
+		{	"profileId":"99240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/99240?b=6&k=16682&l=search",
+	"arName":"12 ش ابو المحاسن الشاذلى متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"12 Abou El Mahasen El Shazly St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"99239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/99239?b=1&k=16682&l=search",
+	"arName":"58 ش خسرو تقاطع ش اسماعيل كامل, حلوان, القاهرة",
+	"enName":"58 Khesro St. Intersection Of Ismail Kamel St., Helwan, Cairo"
+},
+		{	"profileId":"201978",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/201978?b=2&k=16682&l=search",
+	"arName":"6 ش بستان الدكة, وسط البلد, القاهرة",
+	"enName":"6 Bostan El Dekka St., Downtown, Cairo"
+},
+		{	"profileId":"97511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/97511?b=4&k=16682&l=search",
+	"arName":"1353 كورنيش النيل - اغاخان, شبرا, القاهرة",
+	"enName":"1353 Corniche El Nil, Aghakhan, Shoubra, Cairo"
+},
+		{	"profileId":"118240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/118240?b=5&k=16682&l=search",
+	"arName":"مساكن المرور - - كيمان فارس, وسط البلد, الفيوم",
+	"enName":"El Morour Bldgs. , , kiman fares, Downtown, El fayoum"
+},
+		{	"profileId":"99242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/99242?b=3&k=16682&l=search",
+	"arName":"11 ش عبد الحميد سعيد, وسط البلد, القاهرة",
+	"enName":"11 Abdel Hamid Said St., Downtown, Cairo"
+}
+	]
+}]}

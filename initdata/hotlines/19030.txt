@@ -1,0 +1,69 @@
+{"items":[{	"arName":"اير كول للتكييف",
+	"enName":"Air Cool For Air Condition",
+	"hotlone":"19030",
+	"arCategory":[
+		"اجهزة منزلية",
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Appliances",
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"104033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/104033?b=4&k=19030&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"98717",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/98717?b=9&k=19030&l=search",
+	"arName":"13 ش الوحدة تقاطع ش 16 - مدينة التحرير, امبابة, الجيزة",
+	"enName":"13 El Wehda St. Intersection Of Rd. 16, El Tahrir City, Imbaba, Giza"
+},
+		{	"profileId":"84950",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/84950?b=7&k=19030&l=search",
+	"arName":"9 /2 ش النصر الشطر التاسع - الدور 1, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"9 /2 El Nasr St. 9th Sector, Floor 1, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"133795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/133795?b=2&k=19030&l=search",
+	"arName":"102 ش شبرا, شبرا, القاهرة",
+	"enName":"102 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"171756",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/171756?b=6&k=19030&l=search",
+	"arName":"72 ش عباس العقاد - الدور 4, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"72 Abbas El Akkad St., Floor 4, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"121497",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/121497?b=1&k=19030&l=search",
+	"arName":"59 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"59 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"395855",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/395855?b=11&k=19030&l=search",
+	"arName":"53 ش العشرين متفرع من ش فيصل, فيصل, الجيزة",
+	"enName":"53 El Eshreen St. Off Faisal St., Faisal, Giza"
+},
+		{	"profileId":"256709",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/256709?b=5&k=19030&l=search",
+	"arName":"126 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"126 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"152497",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/152497?b=10&k=19030&l=search",
+	"arName":"103 ش الهرم, المريوطية, الهرم, الجيزة",
+	"enName":"103 Haram St., El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"232118",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/232118?b=3&k=19030&l=search",
+	"arName":"50 ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"50 El Tayaran St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"84949",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-cool-for-air-condition/84949?b=8&k=19030&l=search",
+	"arName":"25 ش مكة متفرع من ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"enName":"25 Mekka St. Off Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+}
+	]
+}]}

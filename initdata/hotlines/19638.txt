@@ -1,0 +1,48 @@
+{"items":[{	"arName":"سلسلة مطاعم الحاتى",
+	"enName":"El Haty Restaurant",
+	"hotlone":"19638",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مشويات"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"B. B. Q."
+	],
+	"contacts":[
+		{	"profileId":"99172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/99172?b=3&k=19638&l=search",
+	"arName":"3 ش فم باب البحر متفرع من ش الجمهورية - ميدان رمسيس, وسط البلد, القاهرة",
+	"enName":"3 Fom Bab El Bahr St. Off El Gomhoureya St., Ramsis Sq., Downtown, Cairo"
+},
+		{	"profileId":"532406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/532406?b=6&k=19638&l=search",
+	"arName":"ش الجلاء, حى السويس, السويس",
+	"enName":"El Galaa St., Suez district, Suez"
+},
+		{	"profileId":"99171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/99171?b=2&k=19638&l=search",
+	"arName":"السوق التجارى - محل 86, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Shop 86, Al rehab city, Cairo"
+},
+		{	"profileId":"397728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/397728?b=5&k=19638&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق القبة, القاهرة",
+	"enName":"Home Delivery, Hadayek el kobba, Cairo"
+},
+		{	"profileId":"99168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/99168?b=1&k=19638&l=search",
+	"arName":"127 ج ش مصر والسودان, حدائق القبة, القاهرة",
+	"enName":"127 C Misr & Sudan St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"452651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/452651?b=4&k=19638&l=search",
+	"arName":"كم 33 - طريق القاهرة السويس, مدينتى, القاهرة",
+	"enName":"Km 33, Cairo Suez Rd., Madinty, Cairo"
+}
+	]
+}]}

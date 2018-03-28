@@ -1,0 +1,22 @@
+{"items":[{	"arName":"فييد",
+	"enName":"Feed",
+	"hotlone":"19653",
+	"arCategory":[
+		"كهرباء مقاولون وكهربائيون"
+	],
+	"enCategories":[
+		"Electric Contractors & Electricians"
+	],
+	"contacts":[
+		{	"profileId":"528526",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/feed/528526?b=2&k=19653&l=search",
+	"arName":"الحى الثامن, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"8th District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"528529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/feed/528529?b=1&k=19653&l=search",
+	"arName":"كورنيش النيل, بنى سويف, بنى سويف",
+	"enName":"Corniche El Nil, Benisuef, Benisuef"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الديار القطرية",
+	"enName":"Qatari Diar",
+	"hotlone":"16922",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"471529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qatari-diar/471529?b=1&k=16922&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"471530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qatari-diar/471530?b=2&k=16922&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

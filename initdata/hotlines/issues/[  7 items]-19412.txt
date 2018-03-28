@@ -1,0 +1,146 @@
+{"items":[{	"arName":"نايل لى لى",
+	"enName":"Nile Lily",
+	"hotlone":"19412",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم",
+		"مطاعم عالمية"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Restaurants",
+		"International Cuisine"
+	],
+	"contacts":[
+		{	"profileId":"129770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-lily/129770?b=5&k=19412&l=search",
+	"arName":"خدمة العملاء, المنيل, القاهرة",
+	"enName":"Customer Service, El manyal, Cairo"
+},
+		{	"profileId":"62035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-lily/62035?b=6&k=19412&l=search",
+	"arName":"70 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"70 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}, {	"arName":"مطعم اهلين",
+	"enName":"Ahlein Restaurant",
+	"hotlone":"19412",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم لبنانية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم سورية"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Lebanese Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Syrian Food"
+	],
+	"contacts":[
+		{	"profileId":"303964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahlein-restaurant/303964?b=1&k=19412&l=search",
+	"arName":"70 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"70 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}, {	"arName":"هابى دولفين",
+	"enName":"Happy Dolphin",
+	"hotlone":"19412",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"7006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/happy-dolphin/7006?b=4&k=19412&l=search",
+	"arName":"70 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"70 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}, {	"arName":"مطعم اندلسية",
+	"enName":"Andalusia Restaurant",
+	"hotlone":"19412",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم عائمة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants - Floating",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"358265",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-restaurant/358265?b=2&k=19412&l=search",
+	"arName":"70 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"70 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}, {	"arName":"مطعم الموندو",
+	"enName":"El Mundo Restaurant",
+	"hotlone":"19412",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"207893",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mundo-restaurant/207893?b=3&k=19412&l=search",
+	"arName":"70 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"70 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}, {	"arName":"قاعة نايل لى لى",
+	"enName":"Nile Lily Ballroom",
+	"hotlone":"19412",
+	"arCategory":[
+		"قاعات افراح"
+	],
+	"enCategories":[
+		"Wedding Halls"
+	],
+	"contacts":[
+		{	"profileId":"540715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-lily-ballroom/540715?b=7&k=19412&l=search",
+	"arName":"70 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"70 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}, {	"arName":"مطعم سكاى لونج",
+	"enName":"Sky Lounge Restaurant",
+	"hotlone":"19412",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم عائمة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants - Floating",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"207888",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sky-lounge-restaurant/207888?b=8&k=19412&l=search",
+	"arName":"70 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"70 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}]}

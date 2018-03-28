@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مصارى",
+	"enName":"Masary",
+	"hotlone":"16994",
+	"arCategory":[
+		"تحصيل وكالات"
+	],
+	"enCategories":[
+		"Collection Agencies"
+	],
+	"contacts":[
+		{	"profileId":"412238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masary/412238?b=2&k=16994&l=search",
+	"arName":"122 ش محى الدين ابو العز, الدقى, الجيزة",
+	"enName":"122 Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"506695",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masary/506695?b=1&k=16994&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

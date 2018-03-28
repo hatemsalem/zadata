@@ -1,0 +1,87 @@
+{"items":[{	"arName":"دار نهضة مصر للنشر",
+	"enName":"Nahdet Misr For Publishing House",
+	"hotlone":"16766",
+	"arCategory":[
+		"طباعة ومطابع ومعدات",
+		"ناشرون"
+	],
+	"enCategories":[
+		"Printing & Equipment",
+		"Publishers"
+	],
+	"contacts":[
+		{	"profileId":"218910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/218910?b=5&k=16766&l=search",
+	"arName":"القطعة 80 - - المنطقة الصناعية الرابعة, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 80, , 4th Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"68035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/68035?b=3&k=16766&l=search",
+	"arName":"18 ش كامل صدقى متفرع من ميدان رمسيس, الفجالة, القاهرة",
+	"enName":"18 Kamel Sedqy St. Off Ramsis Sq., Faggala, Cairo"
+},
+		{	"profileId":"6442",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/6442?b=7&k=16766&l=search",
+	"arName":"21 ش احمد عرابى متفرع من ميدان سفنكس - برج النهضة, المهندسين, الجيزة",
+	"enName":"21 Ahmed Orabi St. Off Sphinx Sq., El Nahda Tower, Mohandeseen, Giza"
+},
+		{	"profileId":"166813",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/166813?b=6&k=16766&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"535505",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/535505?b=4&k=16766&l=search",
+	"arName":"عزبة سيكلام, الرأس السوداء, الاسكندرية",
+	"enName":"Ezbet Seclam, Ras elsoda, Alexandria"
+}
+	]
+}, {	"arName":"نهضة مصر للتجارة والتوزيع",
+	"enName":"Nahdet Misr For Trading & Distribution",
+	"hotlone":"16766",
+	"arCategory":[
+		"ادوات مكتبية"
+	],
+	"enCategories":[
+		"Stationery"
+	],
+	"contacts":[
+		{	"profileId":"6563",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-trading-&-distribution/6563?b=8&k=16766&l=search",
+	"arName":"49 ش احمد عرابى ميدان سفنكس, المهندسين, الجيزة",
+	"enName":"49 Ahmed Orabi St. Sphinx Sq., Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"نهضة مصر للصحافة والاعلام",
+	"enName":"Nahdet Misr For Journalism & Media",
+	"hotlone":"16766",
+	"arCategory":[
+		"صحف ومجلات"
+	],
+	"enCategories":[
+		"Newspapers & Magazines"
+	],
+	"contacts":[
+		{	"profileId":"68034",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-journalism-&-media/68034?b=2&k=16766&l=search",
+	"arName":"21 ش احمد عرابى ميدان سفنكس - الدور 5, المهندسين, الجيزة",
+	"enName":"21 Ahmed Orabi St. Sphinx Sq., Floor 5, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"نهضة مصر للمحتوى الفكرى",
+	"enName":"Nahdet Misr For CD Replication",
+	"hotlone":"16766",
+	"arCategory":[
+		"سى دى روم ودى فى دى وخدمات طبع"
+	],
+	"enCategories":[
+		"CD ROM, DVD & Media Replication"
+	],
+	"contacts":[
+		{	"profileId":"68032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-cd-replication/68032?b=1&k=16766&l=search",
+	"arName":"49 ش احمد عرابى ميدان سفنكس, المهندسين, الجيزة",
+	"enName":"49 Ahmed Orabi St. Sphinx Sq., Mohandeseen, Giza"
+}
+	]
+}]}

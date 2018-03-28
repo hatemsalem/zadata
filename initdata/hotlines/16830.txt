@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ميدرايت للخدمات الطبية",
+	"enName":"Medright For Medical Services",
+	"hotlone":"16830",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"458419",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medright-for-medical-services/458419?b=2&k=16830&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"267039",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medright-for-medical-services/267039?b=1&k=16830&l=search",
+	"arName":"2 ج/5 تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"2 G/5 El Laselky Division, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

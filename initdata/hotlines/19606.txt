@@ -1,0 +1,97 @@
+{"items":[{	"arName":"اى تو - اتصالات الدولية مصر",
+	"enName":"I2 - Itsalat International Egypt",
+	"hotlone":"19606",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"129210",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/129210?b=9&k=19606&l=search",
+	"arName":"62 ش مصدق, الدقى, الجيزة",
+	"enName":"62 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"176592",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/176592?b=5&k=19606&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"166728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/166728?b=7&k=19606&l=search",
+	"arName":"ش طلبة عويضة - القومية, الزقازيق, الشرقية",
+	"enName":"Tolba Owaida St., El Qawmeya, El zagazig, El sharkeya"
+},
+		{	"profileId":"129214",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/129214?b=1&k=19606&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"166726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/166726?b=15&k=19606&l=search",
+	"arName":"ش التليفزيون, الاقصر, الاقصر",
+	"enName":"Television St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"548802",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/548802?b=17&k=19606&l=search",
+	"arName":"440 ش فيصل, فيصل, الجيزة",
+	"enName":"440 Faisal St., Faisal, Giza"
+},
+		{	"profileId":"166679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/166679?b=12&k=19606&l=search",
+	"arName":"172 ش الهرم, الهرم, الجيزة",
+	"enName":"172 Haram St., El haram, Giza"
+},
+		{	"profileId":"166687",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/166687?b=6&k=19606&l=search",
+	"arName":"78 ش المنيل ميدان الباشا, المنيل, القاهرة",
+	"enName":"78 Manial St. El Pasha Sq., El manyal, Cairo"
+},
+		{	"profileId":"166697",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/166697?b=3&k=19606&l=search",
+	"arName":"71 ش شبرا, شبرا, القاهرة",
+	"enName":"71 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"166685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/166685?b=2&k=19606&l=search",
+	"arName":"7 /2 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"7 /2 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"124861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/124861?b=10&k=19606&l=search",
+	"arName":"1 ش سوريا, رشدى, الاسكندرية",
+	"enName":"1 Syria St., Roushdy, Alexandria"
+},
+		{	"profileId":"124862",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/124862?b=13&k=19606&l=search",
+	"arName":"16 ش الجمهورية, الجمهورية, بور سعيد",
+	"enName":"16 El Gomhoureya St., El gomhoureya, Port said"
+},
+		{	"profileId":"548822",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/548822?b=14&k=19606&l=search",
+	"arName":"ش سعد زغلول - حى الزهور, الزقازيق, الشرقية",
+	"enName":"Saad Zaghloul St., El Zohour District, El zagazig, El sharkeya"
+},
+		{	"profileId":"548831",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/548831?b=8&k=19606&l=search",
+	"arName":"ش ايمن عبد العزيز, اسيوط, اسيوط",
+	"enName":"Ayman Abdel Aziz St., Assyout, Assyout"
+},
+		{	"profileId":"136261",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/136261?b=11&k=19606&l=search",
+	"arName":"برج الشروق - ش سعيد تقاطع ش حسن حسيب, طنطا, الغربية",
+	"enName":"El Shorouq Tower, Said St. Intersection Of Hassan Hassib St., Tanta, El gharbeya"
+},
+		{	"profileId":"548794",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/548794?b=16&k=19606&l=search",
+	"arName":"29 ش الاقبال - برج طه, لوران, الاسكندرية",
+	"enName":"29 El Eqbal St., Taha Tower, Loran, Alexandria"
+},
+		{	"profileId":"124859",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i2-_-itsalat-international-egypt/124859?b=4&k=19606&l=search",
+	"arName":"10 عمارات العبور -, مدينة نصر, القاهرة",
+	"enName":"10 El Obour Bldgs.,, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,32 @@
+{"items":[{	"arName":"الربيع للسياحة",
+	"enName":"El Rabie Tours",
+	"hotlone":"16612",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"47624",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabie-tours/47624?b=3&k=16612&l=search",
+	"arName":"37 ش احمد عرابى - الدور 1, المهندسين, الجيزة",
+	"enName":"37 Ahmed Orabi St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"501593",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabie-tours/501593?b=1&k=16612&l=search",
+	"arName":"عمارة 129, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"Bldg. 129, 7th District, 6th of october, Giza"
+},
+		{	"profileId":"495152",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabie-tours/495152?b=2&k=16612&l=search",
+	"arName":"39 ش بهاء الدين الغتورى, سموحة, الاسكندرية",
+	"enName":"39 Bahaa El Din El Ghatwary St., Semouha, Alexandria"
+},
+		{	"profileId":"205382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabie-tours/205382?b=4&k=16612&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"customer service, Mohandeseen, Giza"
+}
+	]
+}]}

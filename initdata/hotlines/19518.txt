@@ -1,0 +1,37 @@
+{"items":[{	"arName":"الشركة العربية العالمية للتنمية الصناعية",
+	"enName":"Arab International Industrial Development Co.",
+	"hotlone":"19518",
+	"arCategory":[
+		"مناديل ورقية"
+	],
+	"enCategories":[
+		"Tissues"
+	],
+	"contacts":[
+		{	"profileId":"287860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./287860?b=3&k=19518&l=search",
+	"arName":"القطعة 124، 125 - - المنطقة الصناعية الثالثة A6, العاشر من رمضان, الشرقية",
+	"enName":"Plot 124, 125, , 3rd Industrial Zone A6, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"96614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./96614?b=5&k=19518&l=search",
+	"arName":"36 ش مصطفى كامل, سموحة, الاسكندرية",
+	"enName":"36 Mostafa Kamel St., Semouha, Alexandria"
+},
+		{	"profileId":"123532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./123532?b=1&k=19518&l=search",
+	"arName":"ش اسوان - المنطقة الصناعية الثانية B2, العاشر من رمضان, الشرقية",
+	"enName":"Aswan St., 2nd Industrial Zone B2, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"6565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./6565?b=2&k=19518&l=search",
+	"arName":"83 ش شهاب, المهندسين, الجيزة",
+	"enName":"83 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"502647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./502647?b=4&k=19518&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,37 @@
+{"items":[{	"arName":"سوفيكو فارم",
+	"enName":"Sofico Pharm",
+	"hotlone":"16556",
+	"arCategory":[
+		"ادوية شركات"
+	],
+	"enCategories":[
+		"Pharmaceutical Companies"
+	],
+	"contacts":[
+		{	"profileId":"22239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sofico-pharm/22239?b=2&k=16556&l=search",
+	"arName":"12 ش اسماعيل القبانى متفرع من ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"12 Ismail El Qabbany St. Off El Tayaran St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"77385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sofico-pharm/77385?b=5&k=16556&l=search",
+	"arName":"54 ش زينة, سيدى بشر, الاسكندرية",
+	"enName":"54 Zena St., Sidi beshr, Alexandria"
+},
+		{	"profileId":"77388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sofico-pharm/77388?b=4&k=16556&l=search",
+	"arName":"13 ش المستشفى العام متفرع من ش عبد السلام عارف, المنصورة, الدقهلية",
+	"enName":"13 El Mostashfa El Aam St. Off Abdel Salam Aref St., El mansoura, El dakahleya"
+},
+		{	"profileId":"325683",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sofico-pharm/325683?b=1&k=16556&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"141803",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sofico-pharm/141803?b=3&k=16556&l=search",
+	"arName":"8 ابراج البروج - ش محمد رشدى, الهرم, الجيزة",
+	"enName":"8 El Broug Towers, Mohamed Roshdy St., El haram, Giza"
+}
+	]
+}]}

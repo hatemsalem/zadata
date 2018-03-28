@@ -1,0 +1,38 @@
+{"items":[{	"arName":"تى اى اى سى - مركز الابداع التكنولوجى وريادة الاعمال",
+	"enName":"TIEC - Technology Innovation & Entrepreneurship Center",
+	"hotlone":"16248",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"290467",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tiec-_-technology-innovation-&-entrepreneurship-center/290467?b=3&k=16248&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}, {	"arName":"هيئة تنمية صناعة تكنولوجيا المعلومات",
+	"enName":"ITIDA - Information Technology Industry Development Agency",
+	"hotlone":"16248",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"214706",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itida-_-information-technology-industry-development-agency/214706?b=2&k=16248&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"187157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itida-_-information-technology-industry-development-agency/187157?b=1&k=16248&l=search",
+	"arName":"مبنى B121 - طريق القاهرة اسكندرية الصحراوى - القرية الذكية, ابو رواش, الجيزة",
+	"enName":"Bldg. B121, Cairo Alex Desert Rd., Smart Village, Abou rawash, Giza"
+}
+	]
+}]}

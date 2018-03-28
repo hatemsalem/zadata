@@ -1,0 +1,27 @@
+{"items":[{	"arName":"الصاوى جروب",
+	"enName":"El Sawy Group",
+	"hotlone":"19259",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"512302",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sawy-group/512302?b=2&k=19259&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"512300",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sawy-group/512300?b=1&k=19259&l=search",
+	"arName":"فيلا 225 - محور محمد نجيب - حى البنفسج 11, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 225, Mohamed Naguib Spine, El Banafseg 11 District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"515180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sawy-group/515180?b=3&k=19259&l=search",
+	"arName":"62 ش عمار بن ياسر شقة 2, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"enName":"62 Ammar Ibn Yasser St. Flat 2, Heliopolis Square, Heliopolis, Cairo"
+}
+	]
+}]}

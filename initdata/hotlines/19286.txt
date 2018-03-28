@@ -1,0 +1,22 @@
+{"items":[{	"arName":"هواوى ديفايس مصر",
+	"enName":"Huawei Device Egypt",
+	"hotlone":"19286",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"503685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/huawei-device-egypt/503685?b=2&k=19286&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"503670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/huawei-device-egypt/503670?b=1&k=19286&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

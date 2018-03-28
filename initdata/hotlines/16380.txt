@@ -1,0 +1,22 @@
+{"items":[{	"arName":"همام للاستشمار العقارى",
+	"enName":"Hammam For Real Estate Investment",
+	"hotlone":"16380",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"455539",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hammam-for-real-estate-investment/455539?b=1&k=16380&l=search",
+	"arName":"خدمة العملاء, سيدى بشر, الاسكندرية",
+	"enName":"Customer Service, Sidi beshr, Alexandria"
+},
+		{	"profileId":"455534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hammam-for-real-estate-investment/455534?b=2&k=16380&l=search",
+	"arName":"42 ش البكباشى العيسوى, سيدى بشر, الاسكندرية",
+	"enName":"42 El Bekbashy El Essawy St., Sidi beshr, Alexandria"
+}
+	]
+}]}

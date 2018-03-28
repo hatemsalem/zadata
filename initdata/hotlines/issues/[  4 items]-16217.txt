@@ -1,0 +1,85 @@
+{"items":[{	"arName":"مكتب التأمينات الاجتماعية - شمال القاهرة 2",
+	"enName":"Social Insurance Office - North Cairo 2",
+	"hotlone":"16217",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"576335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-office-_-north-cairo-2/576335?b=8&k=16217&l=search",
+	"arName":"26 ابراج اللؤلؤة - ش دولتيان متفرع من ش شبرا, اغاخان, القاهرة",
+	"enName":"26 El Loualoaa Towers, Dawletian St. Off Shoubra St., Aghakhan, Cairo"
+}
+	]
+}, {	"arName":"الهيئة القومية للتأمين الاجتماعى",
+	"enName":"National Organization For Social Insurance",
+	"hotlone":"16217",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"258160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance/258160?b=2&k=16217&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"113552",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance/113552?b=1&k=16217&l=search",
+	"arName":"3 ش الالفى, وسط البلد, القاهرة",
+	"enName":"3 El Alfy St., Downtown, Cairo"
+}
+	]
+}, {	"arName":"صندوق التأمين الاجتماعى للعاملين بالقطاع الحكومى",
+	"enName":"Social Insurance Fund For Governmental Sector Workers",
+	"hotlone":"16217",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"428472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-governmental-sector-workers/428472?b=4&k=16217&l=search",
+	"arName":"5 ميدان لاظوغلى, وسط البلد, القاهرة",
+	"enName":"5 Lazoughly Sq., Downtown, Cairo"
+},
+		{	"profileId":"428476",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-governmental-sector-workers/428476?b=3&k=16217&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}, {	"arName":"صندوق التأمين الاجتماعى للعاملين بالقطاع العام والخاص",
+	"enName":"Social Insurance Fund For Public & Private Sector Workers",
+	"hotlone":"16217",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"42870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-public-&-private-sector-workers/42870?b=7&k=16217&l=search",
+	"arName":"66 طريق الحرية, العطارين, الاسكندرية",
+	"enName":"66 El Horreya Rd., El attarin, Alexandria"
+},
+		{	"profileId":"428479",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-public-&-private-sector-workers/428479?b=6&k=16217&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"113825",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-public-&-private-sector-workers/113825?b=5&k=16217&l=search",
+	"arName":"3 ش الالفى, وسط البلد, القاهرة",
+	"enName":"3 El Alfy St., Downtown, Cairo"
+}
+	]
+}]}

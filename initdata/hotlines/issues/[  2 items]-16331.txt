@@ -1,0 +1,43 @@
+{"items":[{	"arName":"الموارد العربية للتنمية والاستثمار العقارى",
+	"enName":"Arab Resources For Development & Real Estate Investment",
+	"hotlone":"16331",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"255899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-resources-for-development-&-real-estate-investment/255899?b=1&k=16331&l=search",
+	"arName":"37 كورنيش النيل - برج بلو نايل - الدور 1, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"37 Corniche El Nil, Blue Nile Tower, Floor 1, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"اى بلس",
+	"enName":"Iplus",
+	"hotlone":"16331",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"448795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iplus/448795?b=4&k=16331&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"454702",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iplus/454702?b=2&k=16331&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"448793",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iplus/448793?b=3&k=16331&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,70 @@
+{"items":[{	"arName":"بيكو - بدوى لصناعة الروافع الهيدروليكية",
+	"enName":"BEECO - Badawy Hydrolic Lifting Equipment",
+	"hotlone":"16292",
+	"arCategory":[
+		"اوناش ورافعات"
+	],
+	"enCategories":[
+		"Forklifts, Cranes & Hoists"
+	],
+	"contacts":[
+		{	"profileId":"138617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beeco-_-badawy-hydrolic-lifting-equipment/138617?b=5&k=16292&l=search",
+	"arName":"القطعة 1/33 - - المنطقة الصناعية الثالثة A1, العاشر من رمضان, الشرقية",
+	"enName":"Plot 33/1, , 3rd Industrial Zone A1, 10th of ramadan, El sharkeya"
+}
+	]
+}, {	"arName":"بيكو - مجموعة بدوى للصناعة والتجارة",
+	"enName":"BEECO - Badawy Group for Industry & Trade",
+	"hotlone":"16292",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"255820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beeco-_-badawy-group-for-industry-&-trade/255820?b=4&k=16292&l=search",
+	"arName":"خدمة العملاء, العاشر من رمضان, الشرقية",
+	"enName":"Customer Service, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"851",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beeco-_-badawy-group-for-industry-&-trade/851?b=3&k=16292&l=search",
+	"arName":"القطعة 1/33 - - المنطقة الصناعية الثالثة A1, العاشر من رمضان, الشرقية",
+	"enName":"Plot 33/1, , 3rd Industrial Zone A1, 10th of ramadan, El sharkeya"
+}
+	]
+}, {	"arName":"بيكو - بدوى للصناعات الهندسية",
+	"enName":"BEECO - Badawy For Engineering Industries",
+	"hotlone":"16292",
+	"arCategory":[
+		"ارفف ومخازن"
+	],
+	"enCategories":[
+		"Shelving & Storage Systems"
+	],
+	"contacts":[
+		{	"profileId":"101681",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beeco-_-badawy-for-engineering-industries/101681?b=1&k=16292&l=search",
+	"arName":"القطعة 1/33 - - المنطقة الصناعية الثالثة A1, العاشر من رمضان, الشرقية",
+	"enName":"Plot 33/1, , 3rd Industrial Zone A1, 10th of ramadan, El sharkeya"
+}
+	]
+}, {	"arName":"بيكو - بدوى لتشكيل المعادن",
+	"enName":"BEECO - Badawy For Metal Forming",
+	"hotlone":"16292",
+	"arCategory":[
+		"معادن منتجات وماكينات"
+	],
+	"enCategories":[
+		"Metals, Products & Machinery"
+	],
+	"contacts":[
+		{	"profileId":"190770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beeco-_-badawy-for-metal-forming/190770?b=2&k=16292&l=search",
+	"arName":"القطعة 1/33 - - المنطقة الصناعية الثالثة A1, العاشر من رمضان, الشرقية",
+	"enName":"Plot 33/1, , 3rd Industrial Zone A1, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

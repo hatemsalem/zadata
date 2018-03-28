@@ -1,0 +1,36 @@
+{"items":[{	"arName":"بهاريز",
+	"enName":"Bharez",
+	"hotlone":"16506",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"463494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bharez/463494?b=3&k=16506&l=search",
+	"arName":"ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"456471",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bharez/456471?b=2&k=16506&l=search",
+	"arName":"المحور المركزى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"459015",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bharez/459015?b=1&k=16506&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Home Delivery, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"469029",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bharez/469029?b=4&k=16506&l=search",
+	"arName":"ش قناة السويس, محرم بك, الاسكندرية",
+	"enName":"Suez Canal St., Moharram bey, Alexandria"
+}
+	]
+}]}

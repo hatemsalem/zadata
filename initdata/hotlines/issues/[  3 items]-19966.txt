@@ -1,0 +1,299 @@
+{"items":[{	"arName":"بى.تك",
+	"enName":"B.TECH",
+	"hotlone":"19966",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"86181",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/86181?b=7&k=19966&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"265147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/265147?b=18&k=19966&l=search",
+	"arName":"10 ش مصطفى حافظ, عين شمس, القاهرة",
+	"enName":"10 Mostafa Hafez St., Ain shams, Cairo"
+},
+		{	"profileId":"534301",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/534301?b=52&k=19966&l=search",
+	"arName":"ش المحطة, اسيوط, اسيوط",
+	"enName":"El Mahatta St., Assyout, Assyout"
+},
+		{	"profileId":"239801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/239801?b=45&k=19966&l=search",
+	"arName":"ش سعد زغلول - برج اللؤلؤة, مقبل, بنى سويف",
+	"enName":"Saad Zaghloul St., El Loualoaa Tower, Mokbel, Benisuef"
+},
+		{	"profileId":"121638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/121638?b=29&k=19966&l=search",
+	"arName":"301 ش بورسعيد, سيدى جابر, الاسكندرية",
+	"enName":"301 Port Said St., Sidi gaber, Alexandria"
+},
+		{	"profileId":"397711",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/397711?b=22&k=19966&l=search",
+	"arName":"4 ش مكرم عبيد تقاطع طريق النصر, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"4 Makram Ebaid St. Intersection Of El Nasr Rd., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"397712",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/397712?b=19&k=19966&l=search",
+	"arName":"القطعة 91 - - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 91, , City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"163942",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/163942?b=43&k=19966&l=search",
+	"arName":"52 عمارة عمان - ش الجلاء, المحلة الكبرى, الغربية",
+	"enName":"52 Oman Bldg., El Galaa St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"467994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/467994?b=51&k=19966&l=search",
+	"arName":"كم 105 - طريق مطروح اسكندرية الصحراوى - مارينا 5, مارينا, الساحل الشمالى",
+	"enName":"Km 105, Matrouh Alex Desert Rd., Marina 5, Marina, North coast"
+},
+		{	"profileId":"459494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/459494?b=9&k=19966&l=search",
+	"arName":"ش اللاسلكى تقاطع ميدان فلسطين, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"El Laselky St. Intersection Of Palestine Sq., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"173420",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/173420?b=8&k=19966&l=search",
+	"arName":"36 أ ش راغب باشا, حلوان, القاهرة",
+	"enName":"36 A Ragheb Pasha St., Helwan, Cairo"
+},
+		{	"profileId":"433168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/433168?b=39&k=19966&l=search",
+	"arName":"ميدان شرف - برج الحكمة, شبين الكوم, المنوفية",
+	"enName":"Sharaf Sq., El Hekma Tower, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"454323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/454323?b=40&k=19966&l=search",
+	"arName":"362 ش الجيش - برج بلال, حى الاربعين, السويس",
+	"enName":"362 El Guish St., Belal Tower, El arbeen, Suez"
+},
+		{	"profileId":"287034",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/287034?b=36&k=19966&l=search",
+	"arName":"ش بورسعيد, المنصورة, الدقهلية",
+	"enName":"Port Said St., El mansoura, El dakahleya"
+},
+		{	"profileId":"166888",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/166888?b=42&k=19966&l=search",
+	"arName":"9 ش الجمهورية, وسط البلد, المنيا",
+	"enName":"9 El Gomhoureya St., Downtown, El menia"
+},
+		{	"profileId":"166885",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/166885?b=23&k=19966&l=search",
+	"arName":"ش كورنيش النيل, الكورنيش, اسوان",
+	"enName":"Corniche El Nil St., El corniche, Aswan"
+},
+		{	"profileId":"467830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/467830?b=27&k=19966&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى - قرية مراسى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Marassi Village, Sidi abdel rahman, North coast"
+},
+		{	"profileId":"166881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/166881?b=28&k=19966&l=search",
+	"arName":"ش الشنهورية متفرع من ش كوبرى الشيخ يونس, نجع حمادى, قنا",
+	"enName":"El Shanhoureya St. Off Kobry El Sheikh Younes St., Nagaa hamady, Qena"
+},
+		{	"profileId":"310135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/310135?b=26&k=19966&l=search",
+	"arName":"51 ش بورسعيد ميدان جمال عبد الناصر, طهطا, سوهاج",
+	"enName":"51 Port Said St. Gamal Abdel Nasser Sq., Tahta, Sohag"
+},
+		{	"profileId":"83337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83337?b=49&k=19966&l=search",
+	"arName":"عمارات الشركة السعودية - ش كورنيش النيل, حى شرق, اسيوط",
+	"enName":"Secon Bldgs., Corniche El Nil St., Shark district, Assyout"
+},
+		{	"profileId":"83339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83339?b=32&k=19966&l=search",
+	"arName":"ش سعد زغلول ميدان المحطة, الاقصر, الاقصر",
+	"enName":"Saad Zaghloul St. El Mahatta Sq., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"83334",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83334?b=31&k=19966&l=search",
+	"arName":"18 ش اسكندرية, طنطا, الغربية",
+	"enName":"18 Alexandria St., Tanta, El gharbeya"
+},
+		{	"profileId":"142237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/142237?b=13&k=19966&l=search",
+	"arName":"101 ش قصر العينى, قصر العينى, القاهرة",
+	"enName":"101 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"83335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83335?b=35&k=19966&l=search",
+	"arName":"عمارة المسيرى - ش نقابة المحامين متفرع من ش احمد عرابى - تقسيم ارض الميرى, دمنهور, البحيرة",
+	"enName":"El Meseary Bldg., Neqabet El Mohameen St. Off Ahmed Orabi St., Ard El Meery Division, Damanhour, El beheira"
+},
+		{	"profileId":"83330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83330?b=11&k=19966&l=search",
+	"arName":"46 ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"46 Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"83332",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83332?b=48&k=19966&l=search",
+	"arName":"38 ش عدلى متفرع من ش الحرية - ميدان عرابى, وسط البلد, الاسماعيلية",
+	"enName":"38 Adly St. Off El Horreya St., Orabi Sq., Downtown, Ismaileya"
+},
+		{	"profileId":"83331",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83331?b=16&k=19966&l=search",
+	"arName":"8 أ ش 26 يوليو, وسط البلد, القاهرة",
+	"enName":"8 A 26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"265172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/265172?b=50&k=19966&l=search",
+	"arName":"., وسط البلد, الجونة",
+	"enName":"., Downtown, El gouna"
+},
+		{	"profileId":"397733",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/397733?b=34&k=19966&l=search",
+	"arName":"10 ش السودان, الدقى, الجيزة",
+	"enName":"10 Sudan St., Dokki, Giza"
+},
+		{	"profileId":"239100",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/239100?b=38&k=19966&l=search",
+	"arName":"139 ش 26 يوليو - ش عدلى يكن سابقا, وسط البلد, الفيوم",
+	"enName":"139 26th Of July St. - Adly Yakan St. Previously, Downtown, El fayoum"
+},
+		{	"profileId":"287644",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/287644?b=25&k=19966&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"130942",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/130942?b=21&k=19966&l=search",
+	"arName":"امتداد ش رمسيس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Extension Of Ramsis St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"167096",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/167096?b=47&k=19966&l=search",
+	"arName":"81 ش الوحدة, امبابة, الجيزة",
+	"enName":"81 El Wehda St., Imbaba, Giza"
+},
+		{	"profileId":"534332",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/534332?b=53&k=19966&l=search",
+	"arName":"2 ش سيدى المتولى, العطارين, الاسكندرية",
+	"enName":"2 Sidi El Metwally St., El attarin, Alexandria"
+},
+		{	"profileId":"167174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/167174?b=24&k=19966&l=search",
+	"arName":"465 ش الهرم, نصر الدين, الهرم, الجيزة",
+	"enName":"465 Haram St., Nasr El Din, El haram, Giza"
+},
+		{	"profileId":"503602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/503602?b=33&k=19966&l=search",
+	"arName":"ش العروبة, دكرنس, الدقهلية",
+	"enName":"El Orouba St., Dikirnis, El dakahleya"
+},
+		{	"profileId":"501503",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/501503?b=46&k=19966&l=search",
+	"arName":"30 ش توت عنخ امون, سموحة, الاسكندرية",
+	"enName":"30 Tut Ankh Amoun St., Semouha, Alexandria"
+},
+		{	"profileId":"146296",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/146296?b=14&k=19966&l=search",
+	"arName":"المرحلة الاولى, مدينة الرحاب, القاهرة",
+	"enName":"Phase 1, Al rehab city, Cairo"
+},
+		{	"profileId":"83327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83327?b=6&k=19966&l=search",
+	"arName":"127 ج ش مصر والسودان, حدائق القبة, القاهرة",
+	"enName":"127 C Misr & Sudan St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"83326",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83326?b=5&k=19966&l=search",
+	"arName":"ش 250 ميدان المعادى جراند مول, المعادى, القاهرة",
+	"enName":"Rd. 250 Maadi Grand Mall Sq., Maadi, Cairo"
+},
+		{	"profileId":"83329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83329?b=15&k=19966&l=search",
+	"arName":"23 ش جوزيف تيتو, النزهة الجديدة, القاهرة",
+	"enName":"23 Joseph Tito St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"83328",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83328?b=10&k=19966&l=search",
+	"arName":"17 ش ابراهيم اللقانى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"17 Ibrahim El Laqqany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"83322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83322?b=30&k=19966&l=search",
+	"arName":"32 ش احمد عرابى, المهندسين, الجيزة",
+	"enName":"32 Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"83324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/83324?b=44&k=19966&l=search",
+	"arName":"212 ش فيصل, الطوابق, فيصل, الجيزة",
+	"enName":"212 Faisal St., El Tawabeq, Faisal, Giza"
+},
+		{	"profileId":"265162",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/265162?b=37&k=19966&l=search",
+	"arName":"20 ش محمد فريد, وينجت, الاسكندرية",
+	"enName":"20 Mohamed Farid St., Wingatt, Alexandria"
+},
+		{	"profileId":"135484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/135484?b=41&k=19966&l=search",
+	"arName":"699 طريق الحرية - عمارة الفيروزة, لوران, الاسكندرية",
+	"enName":"699 El Horreya Rd., El Fairouza Bldg., Loran, Alexandria"
+},
+		{	"profileId":"135483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/135483?b=12&k=19966&l=search",
+	"arName":"61 ش شبرا, شبرا, القاهرة",
+	"enName":"61 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"55878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/55878?b=17&k=19966&l=search",
+	"arName":"3 ميدان النافورة, المقطم, القاهرة",
+	"enName":"3 El Nafoura Sq., Mokattam, Cairo"
+},
+		{	"profileId":"135480",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.tech/135480?b=20&k=19966&l=search",
+	"arName":"194 ش النزهة, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"194 El Nozha St., Saint Fatima, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بى.موبيل",
+	"enName":"B.Mobile",
+	"hotlone":"19966",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"287025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.mobile/287025?b=4&k=19966&l=search",
+	"arName":"17 ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"enName":"17 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+},
+		{	"profileId":"83325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b.mobile/83325?b=3&k=19966&l=search",
+	"arName":"22 ميدان السيدة زينب, السيدة زينب, القاهرة",
+	"enName":"22 El Sayeda Zeinab Sq., El sayeda zeinab, Cairo"
+}
+	]
+}, {	"arName":"اريستون مصر",
+	"enName":"Ariston Egypt",
+	"hotlone":"19966",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"519973",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ariston-egypt/519973?b=2&k=19966&l=search",
+	"arName":"خدمة الصيانة, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Maintenance Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"519959",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ariston-egypt/519959?b=1&k=19966&l=search",
+	"arName":"127 امتداد ش رمسيس - الدور 6, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"127 Extension Of Ramsis St., Floor 6, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

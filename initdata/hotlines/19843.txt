@@ -1,0 +1,37 @@
+{"items":[{	"arName":"تكنوجاز - الشرقية لصناعة الاجهزة المنزلية",
+	"enName":"Tecnogas",
+	"hotlone":"19843",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"69765",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/69765?b=2&k=19843&l=search",
+	"arName":"3 ش الجامعة ميدان الجيزة, الجيزة, الجيزة",
+	"enName":"3 El Gamaa St. Giza Sq., Giza, Giza"
+},
+		{	"profileId":"453725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/453725?b=1&k=19843&l=search",
+	"arName":"1 ش القومية, الزقازيق, الشرقية",
+	"enName":"1 El Qawmeya St., El zagazig, El sharkeya"
+},
+		{	"profileId":"393766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/393766?b=3&k=19843&l=search",
+	"arName":"2 ش محمد عفيفى - الدور 2 شقة 2, بنها, القليوبية",
+	"enName":"2 Mohamed Afify St., Floor 2 Flat 2, Banha, Kaliobeya"
+},
+		{	"profileId":"453730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/453730?b=4&k=19843&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"557120",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/557120?b=5&k=19843&l=search",
+	"arName":"الشئون, حى غرب, قنا",
+	"enName":"El Shoaoun, Gharb district, Qena"
+}
+	]
+}]}

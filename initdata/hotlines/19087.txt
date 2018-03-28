@@ -1,0 +1,37 @@
+{"items":[{	"arName":"عيسى للتجارة والتوزيع",
+	"enName":"Eissa For Trading & Distribution",
+	"hotlone":"19087",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"239650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eissa-for-trading-&-distribution/239650?b=2&k=19087&l=search",
+	"arName":"19 ش الطاقة, مدينة نصر, القاهرة",
+	"enName":"19 El Taqqa St., Nasr city, Cairo"
+},
+		{	"profileId":"411446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eissa-for-trading-&-distribution/411446?b=3&k=19087&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"149025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eissa-for-trading-&-distribution/149025?b=5&k=19087&l=search",
+	"arName":"طريق المنصورة القاهرة السريع - سلكا, المنصورة, الدقهلية",
+	"enName":"El Mansoura Cairo High Rd., Salka, El mansoura, El dakahleya"
+},
+		{	"profileId":"262226",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eissa-for-trading-&-distribution/262226?b=4&k=19087&l=search",
+	"arName":"برج مصر - ش سامية الجمل متفرع من ش احمد ماهر, المنصورة, الدقهلية",
+	"enName":"Misr Tower, Samya El Gamal St. Off Ahmed Maher St., El mansoura, El dakahleya"
+},
+		{	"profileId":"149022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eissa-for-trading-&-distribution/149022?b=1&k=19087&l=search",
+	"arName":"7 ش السباق, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"7 El Sebaq St., El Merryland, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,38 @@
+{"items":[{	"arName":"اشلى هوم ستور",
+	"enName":"Ashley Home Store",
+	"hotlone":"16577",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"325725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ashley-home-store/325725?b=1&k=16577&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"فيوجن فرنيتشر",
+	"enName":"Fusion Furniture",
+	"hotlone":"16577",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"579803",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fusion-furniture/579803?b=3&k=16577&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"579818",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fusion-furniture/579818?b=2&k=16577&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

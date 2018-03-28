@@ -1,0 +1,22 @@
+{"items":[{	"arName":"جيرا",
+	"enName":"Jira",
+	"hotlone":"19614",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"447537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jira/447537?b=2&k=19614&l=search",
+	"arName":"197 أ ش 26 يوليو متفرع من ميدان ابو الهول, المهندسين, الجيزة",
+	"enName":"197 A 26th Of July St. Off Abou El Houl Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"447538",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jira/447538?b=1&k=19614&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

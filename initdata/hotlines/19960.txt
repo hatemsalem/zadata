@@ -1,0 +1,37 @@
+{"items":[{	"arName":"ال جى للالكترونيات",
+	"enName":"LG Electronics",
+	"hotlone":"19960",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"513222",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lg-electronics/513222?b=1&k=19960&l=search",
+	"arName":"5 ش الجمهورية تقاطع ش حسن الاكبر, عابدين, القاهرة",
+	"enName":"5 El Gomhoureya St. Intersection Of Hassan El Akbar St., Abdin, Cairo"
+},
+		{	"profileId":"398104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lg-electronics/398104?b=2&k=19960&l=search",
+	"arName":"القطعة الخامسة -, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"5th Plot,, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"122025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lg-electronics/122025?b=3&k=19960&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"130094",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lg-electronics/130094?b=4&k=19960&l=search",
+	"arName":"411 طريق الحرية, رشدى, الاسكندرية",
+	"enName":"411 El Horreya Rd., Roushdy, Alexandria"
+},
+		{	"profileId":"55282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lg-electronics/55282?b=5&k=19960&l=search",
+	"arName":"المنطقة الصناعية, المنطقة الصناعية, الاسماعيلية",
+	"enName":"Industrial Zone, Industrial zone, Ismaileya"
+}
+	]
+}]}

@@ -1,0 +1,39 @@
+{"items":[{	"arName":"تيرا",
+	"enName":"Terra",
+	"hotlone":"16589",
+	"arCategory":[
+		"رخام وجرانيت",
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Marble & Granite",
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"498638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/terra/498638?b=1&k=16589&l=search",
+	"arName":"4 ش القمص سرجيوس متفرع من ش شمس الدين الذهبى, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"4 El Qomos Sergius St. Off Shams El Din El Zahaby St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"465452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/terra/465452?b=3&k=16589&l=search",
+	"arName":"المجاورة الاولى - الحى السابع, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"1st Neighbourhood, 7th District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"173650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/terra/173650?b=4&k=16589&l=search",
+	"arName":"5 ش النخيل متفرع من ش البطل احمد عبد العزيز شقة 2, المهندسين, الجيزة",
+	"enName":"5 El Nakhil St. Off El Batal Ahmed Abdel Aziz St. Flat 2, Mohandeseen, Giza"
+},
+		{	"profileId":"498653",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/terra/498653?b=5&k=16589&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"444564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/terra/444564?b=2&k=16589&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

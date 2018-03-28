@@ -1,0 +1,22 @@
+{"items":[{	"arName":"سعودى ماركت",
+	"enName":"Seoudi Market",
+	"hotlone":"19694",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"80746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seoudi-market/80746?b=1&k=19694&l=search",
+	"arName":"20 ش محمد المرعشلى, الزمالك, القاهرة",
+	"enName":"20 Mohamed El Maraashly St., Zamalek, Cairo"
+},
+		{	"profileId":"367898",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seoudi-market/367898?b=2&k=19694&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+}
+	]
+}]}

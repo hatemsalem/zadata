@@ -1,0 +1,19 @@
+{"items":[{	"arName":"سيناكولا للمشروبات الغازية والمياه الطبيعية",
+	"enName":"Sinacola For Soft Drinks & Natural Water",
+	"hotlone":"16157",
+	"arCategory":[
+		"مشروبات مصنعون",
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Beverage Industry",
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"185902",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sinacola-for-soft-drinks-&-natural-water/185902?b=1&k=16157&l=search",
+	"arName":"برج الميريلاند - ش قناة السويس - الدور 2, المنصورة, الدقهلية",
+	"enName":"El Merryland Tower, Canal El Suez St., Floor 2, El mansoura, El dakahleya"
+}
+	]
+}]}

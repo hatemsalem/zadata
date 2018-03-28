@@ -1,0 +1,27 @@
+{"items":[{	"arName":"سايبس - الشركة العالمية لمواد البناء والكيماويات",
+	"enName":"Sipes - Universal For Building Materials & Chemicals",
+	"hotlone":"19852",
+	"arCategory":[
+		"دهان وطلاء"
+	],
+	"enCategories":[
+		"Paints & Coatings"
+	],
+	"contacts":[
+		{	"profileId":"15622",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sipes-_-universal-for-building-materials-&-chemicals/15622?b=1&k=19852&l=search",
+	"arName":"104 ش الثورة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"104 El Thawra St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"187226",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sipes-_-universal-for-building-materials-&-chemicals/187226?b=2&k=19852&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"147948",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sipes-_-universal-for-building-materials-&-chemicals/147948?b=3&k=19852&l=search",
+	"arName":"3 ابراج السرايا - طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"3 El Saraya Towers, 14th Of May Rd., Semouha, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,43 @@
+{"items":[{	"arName":"لاند سكيب للاستثمار والتطوير العقارى",
+	"enName":"Landscape For Real Estate Investment & Development",
+	"hotlone":"16105",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"421203",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/landscape-for-real-estate-investment-&-development/421203?b=2&k=16105&l=search",
+	"arName":"فيلا 10 - ش المنيا متفرع من ش بيروت, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"Villa 10, El Menia St. Off Beirut St., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"421224",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/landscape-for-real-estate-investment-&-development/421224?b=4&k=16105&l=search",
+	"arName":"القطعة 156 - - المنطقة السابعة, مدينة الشروق, القاهرة",
+	"enName":"Plot 156, , 7th Zone, El sherouk city, Cairo"
+},
+		{	"profileId":"421220",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/landscape-for-real-estate-investment-&-development/421220?b=3&k=16105&l=search",
+	"arName":"خدمة العملاء, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, El Gamea Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"القرية الهولندية",
+	"enName":"Holland Village",
+	"hotlone":"16105",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"421227",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/holland-village/421227?b=1&k=16105&l=search",
+	"arName":"كم 50 - طريق شرم الشيخ الطور السياحى, رأس سدر, جنوب سيناء",
+	"enName":"Km 50, Sharm El Sheikh El Tor Touristic Rd., RAS SIDR, Ras sidr, South sinai"
+}
+	]
+}]}

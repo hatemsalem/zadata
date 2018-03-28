@@ -1,0 +1,33 @@
+{"items":[{	"arName":"قرية بلبع للمشويات والاسماك",
+	"enName":"Balbaa Village For B.B.Q & Fish",
+	"hotlone":"16941",
+	"arCategory":[
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"469492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/balbaa-village-for-b.b.q-&-fish/469492?b=2&k=16941&l=search",
+	"arName":"كم 56 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 56,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"94491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/balbaa-village-for-b.b.q-&-fish/94491?b=3&k=16941&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"449469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/balbaa-village-for-b.b.q-&-fish/449469?b=1&k=16941&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, سيدى بشر, الاسكندرية",
+	"enName":"Home Delivery, Sidi beshr, Alexandria"
+}
+	]
+}]}

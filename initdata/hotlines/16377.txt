@@ -1,0 +1,27 @@
+{"items":[{	"arName":"صيدليات صحة",
+	"enName":"Sehha Pharmacies",
+	"hotlone":"16377",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"465183",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sehha-pharmacies/465183?b=3&k=16377&l=search",
+	"arName":"مركز خدمات الاحياء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Districts Services Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"465182",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sehha-pharmacies/465182?b=1&k=16377&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"Home Delivery, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"368329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sehha-pharmacies/368329?b=2&k=16377&l=search",
+	"arName":"54 ش حسن المأمون, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"54 Hassan El Maamoun St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

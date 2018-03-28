@@ -1,0 +1,475 @@
+{"items":[{	"arName":"صن رايز هوليدايز ريزورت (بالغين فقط)",
+	"enName":"SUNRISE Holidays Resort (Adults Only)",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"533073",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-holidays-resort-(adults-only)/533073?b=26&k=16032&l=search",
+	"arName":"خدمة العملاء, سقالة, الغردقة",
+	"enName":"Customer Service, Sekala, Hurghada"
+},
+		{	"profileId":"61430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-holidays-resort-(adults-only)/61430?b=6&k=16032&l=search",
+	"arName":"ش الشيراتون, سقالة, الغردقة",
+	"enName":"Sheraton Rd., Sekala, Hurghada"
+}
+	]
+}, {	"arName":"صن رايز لادارة المنتجعات والفنادق العائمة",
+	"enName":"SUNRISE Resorts & Cruises",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"97732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-resorts-&-cruises/97732?b=1&k=16032&l=search",
+	"arName":"29 ش الفلاح ميدان لبنان, المهندسين, الجيزة",
+	"enName":"29 El Falah St. Lebanon Sq., Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"مطعم فلوكا",
+	"enName":"Felucca Restaurant",
+	"hotlone":"16032",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"422792",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/felucca-restaurant/422792?b=16&k=16032&l=search",
+	"arName":"كم 17 - طريق الغردقة سفاجا, طريق القرى, الغردقة",
+	"enName":"Km 17, Hurghada Safaga Rd., Villages rd., Hurghada"
+},
+		{	"profileId":"413324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/felucca-restaurant/413324?b=15&k=16032&l=search",
+	"arName":"., شاركس باى, شرم الشيخ",
+	"enName":"., Shark's bay, Sharm el sheikh"
+},
+		{	"profileId":"546006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/felucca-restaurant/546006?b=13&k=16032&l=search",
+	"arName":"., هضبة ام السيد, شرم الشيخ",
+	"enName":"., Umm el sid hill, Sharm el sheikh"
+},
+		{	"profileId":"568433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/felucca-restaurant/568433?b=17&k=16032&l=search",
+	"arName":"كم 30 - طريق سفاجا الغردقة, مكادى باى, الغردقة",
+	"enName":"Km 30, Safaga Hurghada Rd., Makadi bay, Hurghada"
+},
+		{	"profileId":"568430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/felucca-restaurant/568430?b=14&k=16032&l=search",
+	"arName":"ش الشيراتون, سقالة, الغردقة",
+	"enName":"Sheraton Rd., Sekala, Hurghada"
+}
+	]
+}, {	"arName":"صن رايز محروسة ام/اس",
+	"enName":"Sunrise Mahrousa M/S",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"126356",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-mahrousa-m%2Fs/126356?b=31&k=16032&l=search",
+	"arName":"كورنيش النيل - البغدادى, الاقصر, الاقصر",
+	"enName":"Corniche El Nil, El Boughdady, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"صن رايز ام/اس افريكان دريمز نايل كروز - جراند سليكت",
+	"enName":"SUNRISE M/S African Dreams Nile Cruise - Grand Select",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"444340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-m%2Fs-african-dreams-nile-cruise-_-grand-select/444340?b=7&k=16032&l=search",
+	"arName":"ميناء اسوان, الكورنيش, اسوان",
+	"enName":"Aswan Port, El corniche, Aswan"
+}
+	]
+}, {	"arName":"صن رايز ام/اس سميراميس III",
+	"enName":"Sunrise M/S Semiramis III",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"444342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-m%2Fs-semiramis-iii/444342?b=29&k=16032&l=search",
+	"arName":"كورنيش النيل - البغدادى, الاقصر, الاقصر",
+	"enName":"Corniche El Nil, El Boughdady, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"شرينجيتو بيتش بار",
+	"enName":"Chiringuito Beach Bar",
+	"hotlone":"16032",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"571222",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chiringuito-beach-bar/571222?b=11&k=16032&l=search",
+	"arName":"., هضبة ام السيد, شرم الشيخ",
+	"enName":"., Umm el sid hill, Sharm el sheikh"
+}
+	]
+}, {	"arName":"صن رايز جاردن بيتش ريزورت -سيليكت-",
+	"enName":"SUNRISE Garden Beach Resort -Select-",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"61428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-garden-beach-resort-_select_/61428?b=5&k=16032&l=search",
+	"arName":"كم 20 - طريق الغردقة سفاجا, طريق القرى, الغردقة",
+	"enName":"Km 20, Hurghada Safaga Rd., Villages rd., Hurghada"
+}
+	]
+}, {	"arName":"صن رايز مونتمارى ريزورت (للبالغين فقط) -جراند سليكت-",
+	"enName":"SUNRISE Montemare Resort (Adults Only) -Grand Select-",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"444343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-montemare-resort-(adults-only)-_grand-select_/444343?b=9&k=16032&l=search",
+	"arName":"., هضبة ام السيد, شرم الشيخ",
+	"enName":"., Umm el sid hill, Sharm el sheikh"
+}
+	]
+}, {	"arName":"صن رايز دايموند بيتش ريزورت -سليكت-",
+	"enName":"SUNRISE Diamond Beach Resort -Select-",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"202771",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-diamond-beach-resort-_select_/202771?b=4&k=16032&l=search",
+	"arName":"1 طريق ريتز كارلتون, هضبة ام السيد, شرم الشيخ",
+	"enName":"1 Ritz Carlton Rd., Umm el sid hill, Sharm el sheikh"
+}
+	]
+}, {	"arName":"صن رايز ارابيان بيتش ريزورت -جراند سليكت-",
+	"enName":"SUNRISE Arabian Beach Resort -Grand Select-",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"411122",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-arabian-beach-resort-_grand-select_/411122?b=2&k=16032&l=search",
+	"arName":"., شاركس باى, شرم الشيخ",
+	"enName":"., Shark's bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"منتجع صن رايز كريستال باى - جراند سليكت",
+	"enName":"SUNRISE Crystal Bay Resort - Grand Select",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"419382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-crystal-bay-resort-_-grand-select/419382?b=3&k=16032&l=search",
+	"arName":"كم 17 - طريق الغردقة سفاجا, طريق القرى, الغردقة",
+	"enName":"Km 17, Hurghada Safaga Rd., Villages rd., Hurghada"
+}
+	]
+}, {	"arName":"مطعم مانوهار",
+	"enName":"Manohar Restaurant",
+	"hotlone":"16032",
+	"arCategory":[
+		"مطاعم هندية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Indian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"568446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manohar-restaurant/568446?b=19&k=16032&l=search",
+	"arName":"., شاركس باى, شرم الشيخ",
+	"enName":"., Shark's bay, Sharm el sheikh"
+},
+		{	"profileId":"568440",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manohar-restaurant/568440?b=20&k=16032&l=search",
+	"arName":"كم 17 - طريق الغردقة سفاجا, طريق القرى, الغردقة",
+	"enName":"Km 17, Hurghada Safaga Rd., Villages rd., Hurghada"
+},
+		{	"profileId":"568447",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manohar-restaurant/568447?b=18&k=16032&l=search",
+	"arName":"1 طريق ريتز كارلتون, هضبة ام السيد, شرم الشيخ",
+	"enName":"1 Ritz Carlton Rd., Umm el sid hill, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم ولونج نسايا",
+	"enName":"Nasaya Restaurant & Lounge",
+	"hotlone":"16032",
+	"arCategory":[
+		"مطاعم صينية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Chinese Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"545904",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasaya-restaurant-&-lounge/545904?b=23&k=16032&l=search",
+	"arName":"كم 20 - طريق الغردقة سفاجا, طريق القرى, الغردقة",
+	"enName":"Km 20, Hurghada Safaga Rd., Villages rd., Hurghada"
+},
+		{	"profileId":"545950",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasaya-restaurant-&-lounge/545950?b=22&k=16032&l=search",
+	"arName":"كم 30 - طريق سفاجا الغردقة, مكادى باى, الغردقة",
+	"enName":"Km 30, Safaga Hurghada Rd., Makadi bay, Hurghada"
+}
+	]
+}, {	"arName":"مطعم ولونج ناسايا",
+	"enName":"Nasaya Restaurant & Lounge",
+	"hotlone":"16032",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"568428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nasaya-restaurant-&-lounge/568428?b=21&k=16032&l=search",
+	"arName":"ش الشيراتون, سقالة, الغردقة",
+	"enName":"Sheraton Rd., Sekala, Hurghada"
+}
+	]
+}, {	"arName":"صن رايز افريكان كوين ام/اس",
+	"enName":"Sunrise African Queen‎ M/S",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"126362",
+	"profileURL":"//www.yellowpages.com.eg/ar/profile/Sunrise-African-Queen%E2%80%8E-M%2FS/126362?b=25&k=16032&l=search",
+	"arName":"كورنيش النيل - البغدادى, الاقصر, الاقصر",
+	"enName":"Corniche El Nil, El Boughdady, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"صن رايز روزا بيانكا ام/اس",
+	"enName":"Sunrise Rossa Pianca M/S",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"126361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-rossa-pianca-m%2Fs/126361?b=33&k=16032&l=search",
+	"arName":"كورنيش النيل - البغدادى, الاقصر, الاقصر",
+	"enName":"Corniche El Nil, El Boughdady, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"صن رايز مارينا ريزورت -سليكت-",
+	"enName":"SUNRISE Marina Resort -Select-",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"533063",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-marina-resort-_select_/533063?b=8&k=16032&l=search",
+	"arName":"بورت غالب, خليج كورايا, مرسى علم",
+	"enName":"Port Ghaleb, Corraya bay, Marsa alam"
+}
+	]
+}, {	"arName":"صن رايز ام/اس تيرامار",
+	"enName":"Sunrise M/S Terramar",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"126360",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-m%2Fs-terramar/126360?b=30&k=16032&l=search",
+	"arName":"كورنيش النيل - البغدادى, الاقصر, الاقصر",
+	"enName":"Corniche El Nil, El Boughdady, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"منتجع صن رايز رويال مكادى اكوا ريزورت -سليكت-",
+	"enName":"SUNRISE Royal Makadi Aqua Resort -Select-",
+	"hotlone":"16032",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"118820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-royal-makadi-aqua-resort-_select_/118820?b=10&k=16032&l=search",
+	"arName":"كم 30 - طريق سفاجا الغردقة, مكادى باى, الغردقة",
+	"enName":"Km 30, Safaga Hurghada Rd., Makadi bay, Hurghada"
+}
+	]
+}, {	"arName":"صن رايز ام/اس سميراميس II",
+	"enName":"Sunrise M/S Semiramis II",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"126359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-m%2Fs-semiramis-ii/126359?b=28&k=16032&l=search",
+	"arName":"كورنيش النيل - البغدادى, الاقصر, الاقصر",
+	"enName":"Corniche El Nil, El Boughdady, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"صن رايز ام/اس سميراميس I",
+	"enName":"Sunrise M/S Semiramis I",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"126358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-m%2Fs-semiramis-i/126358?b=27&k=16032&l=search",
+	"arName":"كورنيش النيل - البغدادى, الاقصر, الاقصر",
+	"enName":"Corniche El Nil, El Boughdady, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"صن رايز نايل سراى ام/اس",
+	"enName":"Sunrise Nile Saray M/S",
+	"hotlone":"16032",
+	"arCategory":[
+		"رحلات نيلية"
+	],
+	"enCategories":[
+		"Cruises"
+	],
+	"contacts":[
+		{	"profileId":"126357",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-nile-saray-m%2Fs/126357?b=32&k=16032&l=search",
+	"arName":"كورنيش النيل - البغدادى, الاقصر, الاقصر",
+	"enName":"Corniche El Nil, El Boughdady, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"ستارز ديك",
+	"enName":"Stars Deck",
+	"hotlone":"16032",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"545994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stars-deck/545994?b=24&k=16032&l=search",
+	"arName":"ميناء اسوان, الكورنيش, اسوان",
+	"enName":"Aswan Port, El corniche, Aswan"
+}
+	]
+}, {	"arName":"تيرا ايه مارى",
+	"enName":"Terra Et Mare",
+	"hotlone":"16032",
+	"arCategory":[
+		"ماكولات البحر المتوسط",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Mediterranean Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"545992",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/terra-et-mare/545992?b=34&k=16032&l=search",
+	"arName":"ميناء اسوان, الكورنيش, اسوان",
+	"enName":"Aswan Port, El corniche, Aswan"
+}
+	]
+}, {	"arName":"دريمز لونج بار",
+	"enName":"Dreams Lounge Bar",
+	"hotlone":"16032",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"545993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dreams-lounge-bar/545993?b=12&k=16032&l=search",
+	"arName":"ميناء اسوان, الكورنيش, اسوان",
+	"enName":"Aswan Port, El corniche, Aswan"
+}
+	]
+}]}

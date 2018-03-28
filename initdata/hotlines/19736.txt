@@ -1,0 +1,17 @@
+{"items":[{	"arName":"وادى النيل للخدمات الطبية والعلاجية",
+	"enName":"Wadi El Neel For Medical Services",
+	"hotlone":"19736",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"172108",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-el-neel-for-medical-services/172108?b=1&k=19736&l=search",
+	"arName":"28 ش الشهيد على صالح, الماظة, مصر الجديدة, القاهرة",
+	"enName":"28 El Shaheed Aly Saleh St., Almaza, Heliopolis, Cairo"
+}
+	]
+}]}

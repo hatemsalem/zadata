@@ -1,0 +1,42 @@
+{"items":[{	"arName":"خدماتى - الشركة المصرية للخدمات المجتمعية",
+	"enName":"Khadamaty",
+	"hotlone":"19213",
+	"arCategory":[
+		""
+	],
+	"enCategories":[
+		""
+	],
+	"contacts":[
+		{	"profileId":"207009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/207009?b=6&k=19213&l=search",
+	"arName":"خدمة العملاء, حدائق القبة, القاهرة",
+	"enName":"Customer Service, Hadayek el kobba, Cairo"
+},
+		{	"profileId":"317693",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/317693?b=2&k=19213&l=search",
+	"arName":"35 ش عفيفى عفت, عين شمس الشرقية, القاهرة",
+	"enName":"35 Afify Effat St., Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"247046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/247046?b=3&k=19213&l=search",
+	"arName":"8 /12 ش التجارى الخلفى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"8 /12 El Togary El Khalfy St., Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"314604",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/314604?b=4&k=19213&l=search",
+	"arName":"31 ش السيدة خديجة متفرع من ش معمل الالبان - الخلفاوى, شبرا, القاهرة",
+	"enName":"31 El Sayeda Kadega St. Off Mamal El Alban St., El Khalafawy, Shoubra, Cairo"
+},
+		{	"profileId":"261936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/261936?b=5&k=19213&l=search",
+	"arName":"157 ش المطراوى, المطرية, القاهرة",
+	"enName":"157 el matarawy st., El matareya, Cairo"
+},
+		{	"profileId":"181352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/181352?b=1&k=19213&l=search",
+	"arName":"15 ش امتداد ولى العهد, حدائق القبة, القاهرة",
+	"enName":"15 Emtedad Walley El Ahd St., Hadayek el kobba, Cairo"
+}
+	]
+}]}

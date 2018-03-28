@@ -1,0 +1,62 @@
+{"items":[{	"arName":"تالا لوندرى",
+	"enName":"Tala Laundry",
+	"hotlone":"16067",
+	"arCategory":[
+		"تنظيف جاف"
+	],
+	"enCategories":[
+		"Dry Cleaning"
+	],
+	"contacts":[
+		{	"profileId":"51838999",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/51838999?b=9&k=16067&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"518404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/518404?b=6&k=16067&l=search",
+	"arName":"22 ش هارون ميدان المساحة, الدقى, الجيزة",
+	"enName":"22 Haroun St. El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"518418",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/518418?b=2&k=16067&l=search",
+	"arName":"محور السادات, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"El Sadat Spine, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"518429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/518429?b=4&k=16067&l=search",
+	"arName":"بفرلى هيلز - منطقة 3أ, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Beverly Hills, 3A Zone, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"517439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/517439?b=10&k=16067&l=search",
+	"arName":"32 المحور المركزى, الحى العاشر, السادس من اكتوبر, الجيزة",
+	"enName":"32 Central Spine, 10th District, 6th of october, Giza"
+},
+		{	"profileId":"518389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/518389?b=5&k=16067&l=search",
+	"arName":"خدمة العملاء, الحى العاشر, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 10th District, 6th of october, Giza"
+},
+		{	"profileId":"518411",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/518411?b=7&k=16067&l=search",
+	"arName":"كم 19 - - قرية سيتى فيو, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 19, , City View Village, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"518403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/518403?b=8&k=16067&l=search",
+	"arName":"., الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"., El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"518421",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/518421?b=1&k=16067&l=search",
+	"arName":"159 طريق مصر حلوان الزراعى, المعادى, القاهرة",
+	"enName":"159 Misr Helwan Agricultural Rd., Maadi, Cairo"
+},
+		{	"profileId":"518432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tala-laundry/518432?b=3&k=16067&l=search",
+	"arName":"5 ش المقريزى, الزمالك, القاهرة",
+	"enName":"5 El Maqrizy St., Zamalek, Cairo"
+}
+	]
+}]}

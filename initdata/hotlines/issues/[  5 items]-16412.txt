@@ -1,0 +1,101 @@
+{"items":[{	"arName":"سيتى كلوب",
+	"enName":"City Club",
+	"hotlone":"16412",
+	"arCategory":[
+		"نوادى"
+	],
+	"enCategories":[
+		"Clubs"
+	],
+	"contacts":[
+		{	"profileId":"424913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/city-club/424913?b=2&k=16412&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"424912",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/city-club/424912?b=1&k=16412&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"جيرو لاند - المهندسين المصريين للخدمات الترفيهية",
+	"enName":"Gero Land - Egyptian Engineers For Entertainment",
+	"hotlone":"16412",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"57117",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gero-land-_-egyptian-engineers-for-entertainment/57117?b=5&k=16412&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"255983",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gero-land-_-egyptian-engineers-for-entertainment/255983?b=6&k=16412&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"جيرو لاند",
+	"enName":"Gero Land",
+	"hotlone":"16412",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"424915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gero-land/424915?b=3&k=16412&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"424914",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gero-land/424914?b=4&k=16412&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"ال سى واى كى كى",
+	"enName":"LC Waikiki",
+	"hotlone":"16412",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"453824",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lc-waikiki/453824?b=9&k=16412&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"جولف سيتى مول",
+	"enName":"Golf City Mall",
+	"hotlone":"16412",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"424707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-city-mall/424707?b=7&k=16412&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"424916",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-city-mall/424916?b=8&k=16412&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+}
+	]
+}]}

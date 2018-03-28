@@ -1,0 +1,76 @@
+{"items":[{	"arName":"منقوشة",
+	"enName":"Man'oucheh",
+	"hotlone":"19027",
+	"arCategory":[
+		"مطاعم لبنانية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Lebanese Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"251663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/251663?b=3&k=19027&l=search",
+	"arName":"49 ش 9, ثكنات المعادى, المعادى, القاهرة",
+	"enName":"49 Rd. 9, Thakanat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"524552",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/524552?b=11&k=19027&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"455243",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/455243?b=12&k=19027&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"145290",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/145290?b=1&k=19027&l=search",
+	"arName":"ش طلعت مصطفى المرحلة الثالثة, مدينة الرحاب, القاهرة",
+	"enName":"Talaat Mostafa St. Phase 3, Al rehab city, Cairo"
+},
+		{	"profileId":"178074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/178074?b=6&k=19027&l=search",
+	"arName":"17 ش الميرغنى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"17 El Merghany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"101483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/101483?b=10&k=19027&l=search",
+	"arName":"4 ش الثمار متفرع من ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"enName":"4 El Themar St. Off El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"474460",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/474460?b=5&k=19027&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"232120",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/232120?b=9&k=19027&l=search",
+	"arName":"كم 126 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 126,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"186035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/186035?b=8&k=19027&l=search",
+	"arName":"كم 105 - طريق مطروح اسكندرية الصحراوى - ذا بلاتفورم, مارينا, الساحل الشمالى",
+	"enName":"Km 105, Matrouh Alex Desert Rd., The Platform, Marina, North coast"
+},
+		{	"profileId":"437689",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/437689?b=4&k=19027&l=search",
+	"arName":"حى النادى, مدينة الشروق, القاهرة",
+	"enName":"El Nady District, El sherouk city, Cairo"
+},
+		{	"profileId":"134406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/134406?b=7&k=19027&l=search",
+	"arName":"36 ش ابو بكر الصديق تقاطع ش نخلة المطيعى, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"36 Abou Bakr El Seddik St. Intersection Of Nakhla El Motaey St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"134407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/man'oucheh/134407?b=2&k=19027&l=search",
+	"arName":"34 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"34 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

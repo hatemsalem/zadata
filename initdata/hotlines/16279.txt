@@ -1,0 +1,32 @@
+{"items":[{	"arName":"شاديباك",
+	"enName":"Shady Pack",
+	"hotlone":"16279",
+	"arCategory":[
+		"تعبئة وتغليف ومعدات"
+	],
+	"enCategories":[
+		"Packaging & Equipments"
+	],
+	"contacts":[
+		{	"profileId":"11406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pack/11406?b=2&k=16279&l=search",
+	"arName":"4 ب ش النزهة - الدور 4 شقة 11, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"4 B El Nozha St., Floor 4 Flat 11, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"505608",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pack/505608?b=1&k=16279&l=search",
+	"arName":"خدمة العملاء, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"74361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pack/74361?b=3&k=16279&l=search",
+	"arName":"القطعة 12 - ش الخرطوم - المنطقة الصناعية الثانية B2, العاشر من رمضان, الشرقية",
+	"enName":"Plot 12, El Khartoum St., 2nd Industrial Zone B2, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"129817",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pack/129817?b=4&k=16279&l=search",
+	"arName":"بلوك 13016 - ش 37 متفرع من ش 200 - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"Block 13016, Rd. 37 Off Rd. 200, 1st Industrial Zone, Obour city, Kaliobeya"
+}
+	]
+}]}

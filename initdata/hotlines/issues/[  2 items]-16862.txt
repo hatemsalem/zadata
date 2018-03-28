@@ -1,0 +1,330 @@
+{"items":[{	"arName":"بنك الاتحاد الوطنى - مصر",
+	"enName":"Union National Bank - Egypt",
+	"hotlone":"16862",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"272718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272718?b=20&k=16862&l=search",
+	"arName":"32 ش فوزى معاذ ميدان فيكتور عمانويل, سموحة, الاسكندرية",
+	"enName":"32 Fawzy Moaz St. Victor Emanuel Sq., Semouha, Alexandria"
+},
+		{	"profileId":"217220",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/217220?b=24&k=16862&l=search",
+	"arName":"49 ش المشاية السفلية, المنصورة, الدقهلية",
+	"enName":"49 El Mashaya El Sofleya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"149178",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/149178?b=13&k=16862&l=search",
+	"arName":"7 ش اديب متفرع من ش سعد زغلول, المنشية, الاسكندرية",
+	"enName":"7 Adib St. off saad Zaghloul St., El mansheya, Alexandria"
+},
+		{	"profileId":"272793",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272793?b=25&k=16862&l=search",
+	"arName":"1 ش شكرى القواتلى, المحلة الكبرى, الغربية",
+	"enName":"1 Shokry El Qawatly St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"272753",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272753?b=10&k=16862&l=search",
+	"arName":"235 ش الجمهورية تقسيم الاعصر, دمياط, دمياط",
+	"enName":"235 El Gomhoureya St. El Aasar Division, Damietta, Damietta"
+},
+		{	"profileId":"149183",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/149183?b=27&k=16862&l=search",
+	"arName":"314 ش الجيش - برج لؤلؤة الروضة, حى السويس, السويس",
+	"enName":"314 El Guish St., Loualoaat El Rawda Tower, Suez district, Suez"
+},
+		{	"profileId":"149180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/149180?b=14&k=16862&l=search",
+	"arName":"288 ش الهرم, الطالبية, الهرم, الجيزة",
+	"enName":"288 Haram St., El Talbeya, El haram, Giza"
+},
+		{	"profileId":"483299",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/483299?b=26&k=16862&l=search",
+	"arName":"23 ش بورسعيد - برج الرياض, وسط البلد, المنيا",
+	"enName":"23 Port Said St., El Riad Tower, Downtown, El menia"
+},
+		{	"profileId":"149186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/149186?b=19&k=16862&l=search",
+	"arName":"551 طريق الحرية, جليم, الاسكندرية",
+	"enName":"551 El Horreya Rd., Glim, Alexandria"
+},
+		{	"profileId":"272783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272783?b=18&k=16862&l=search",
+	"arName":"2 ش ابراهيم المغازى - برج البيالى, وسط البلد, كفر الشيخ",
+	"enName":"2 Ibrahim El Moghazy St., El Beialy Tower, Downtown, Kafr el sheikh"
+},
+		{	"profileId":"450520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/450520?b=11&k=16862&l=search",
+	"arName":"18 ش الجمهورية, حى الشرق, بور سعيد",
+	"enName":"18 El Gomhoureya St., El shark district, Port said"
+},
+		{	"profileId":"272703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272703?b=1&k=16862&l=search",
+	"arName":"1 ش جزيرة بدران, شبرا, القاهرة",
+	"enName":"1 Geziret Badran St., Shoubra, Cairo"
+},
+		{	"profileId":"479542",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/479542?b=3&k=16862&l=search",
+	"arName":"10 ش الصالح ايوب, الزمالك, القاهرة",
+	"enName":"10 El Saleh Aioub St., Zamalek, Cairo"
+},
+		{	"profileId":"149272",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/149272?b=8&k=16862&l=search",
+	"arName":"29 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"29 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"483488",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/483488?b=9&k=16862&l=search",
+	"arName":"5 6ج ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"5 6G El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"483489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/483489?b=5&k=16862&l=search",
+	"arName":"176 ش الحجاز, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"176 El Hegaz St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"149276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/149276?b=23&k=16862&l=search",
+	"arName":"65 طريق الحرية, محطة الرمل, الاسكندرية",
+	"enName":"65 El Horreya Rd., Raml station, Alexandria"
+},
+		{	"profileId":"483492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/483492?b=22&k=16862&l=search",
+	"arName":"بلوك 1 - ابراج ساج بلازا - ش عبد السلام الشاذلى, دمنهور, البحيرة",
+	"enName":"Block 1, Sag Plaza Towers, Abdel Salam El Shazly St., Damanhour, El beheira"
+},
+		{	"profileId":"272775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272775?b=21&k=16862&l=search",
+	"arName":"ابراج الرياض - ش الفاتح متفرع من ش على مبارك, طنطا, الغربية",
+	"enName":"El Riad Towers, El Fateh St. off aly mubarak st., Tanta, El gharbeya"
+},
+		{	"profileId":"272733",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272733?b=16&k=16862&l=search",
+	"arName":"159 ش سعد زغلول تقاطع ش عرابى, وسط البلد, الاسماعيلية",
+	"enName":"159 Saad Zaghloul St. Intersection Of Orabi St., Downtown, Ismaileya"
+},
+		{	"profileId":"398381",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/398381?b=2&k=16862&l=search",
+	"arName":"67 ش التسعين قطاع 1, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"67 El Tesaeen St. Sector 1, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"217119",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/217119?b=15&k=16862&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"394142",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/394142?b=30&k=16862&l=search",
+	"arName":"90 ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"enName":"90 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+},
+		{	"profileId":"171706",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/171706?b=6&k=16862&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"480523",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/480523?b=29&k=16862&l=search",
+	"arName":"4 حارة عفيفى - متفرع من ش الامين, شبين الكوم, المنوفية",
+	"enName":"4 Afify Alley, Off El Amin St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"168657",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/168657?b=7&k=16862&l=search",
+	"arName":"9 ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"9 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"272685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272685?b=4&k=16862&l=search",
+	"arName":"9 ش طلعت حرب - عمارة مصر للتأمين, وسط البلد, القاهرة",
+	"enName":"9 Talaat Harb St., Misr Lel Taamin Bldg., Downtown, Cairo"
+},
+		{	"profileId":"272764",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272764?b=17&k=16862&l=search",
+	"arName":"القطعة 14 - بلوك 2 - ش سعد زغلول تقسيم المعلمين, الزقازيق, الشرقية",
+	"enName":"Plot 14, Block 2, Saad Zaghloul St. El Moalemeen Division, El zagazig, El sharkeya"
+},
+		{	"profileId":"272800",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272800?b=28&k=16862&l=search",
+	"arName":"15 أ ش الجمهورية, اسيوط, اسيوط",
+	"enName":"15 A El Gomhoureya St., Assyout, Assyout"
+},
+		{	"profileId":"451198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/451198?b=12&k=16862&l=search",
+	"arName":"حى النور, خليج نعمة, شرم الشيخ",
+	"enName":"El Nour District, Naama bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"بنك الاتحاد الوطنى - مصر - ماكينة الصراف الالى",
+	"enName":"Union National Bank - Egypt - ATM",
+	"hotlone":"16862",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"427283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/427283?b=32&k=16862&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"475760",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475760?b=47&k=16862&l=search",
+	"arName":"كورنيش النيل, رملة بولاق, القاهرة",
+	"enName":"Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"466847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/466847?b=41&k=16862&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"452830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/452830?b=38&k=16862&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"172388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/172388?b=35&k=16862&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"527450",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/527450?b=54&k=16862&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"475769",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475769?b=61&k=16862&l=search",
+	"arName":"ميدان جهينة, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"172378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/172378?b=45&k=16862&l=search",
+	"arName":"ش الشهيد سيد زكريا, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Shaheed Sayed Zakareya St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"475763",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475763?b=51&k=16862&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"455812",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/455812?b=48&k=16862&l=search",
+	"arName":"المرحلة الثالثة, مدينة الرحاب, القاهرة",
+	"enName":"Phase 3, Al rehab city, Cairo"
+},
+		{	"profileId":"475762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475762?b=55&k=16862&l=search",
+	"arName":"., مدينة العبور, القليوبية",
+	"enName":"., Obour city, Kaliobeya"
+},
+		{	"profileId":"475761",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475761?b=42&k=16862&l=search",
+	"arName":"كورنيش النيل, المعادى, القاهرة",
+	"enName":"Corniche El Nil, Maadi, Cairo"
+},
+		{	"profileId":"475768",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475768?b=52&k=16862&l=search",
+	"arName":"230 ش الهرم, حسن محمد, الهرم, الجيزة",
+	"enName":"230 Haram St., Hassan Mohamed, El haram, Giza"
+},
+		{	"profileId":"172371",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/172371?b=53&k=16862&l=search",
+	"arName":"24 ش شهاب, المهندسين, الجيزة",
+	"enName":"24 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"475767",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475767?b=56&k=16862&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"475766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475766?b=43&k=16862&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"528395",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/528395?b=37&k=16862&l=search",
+	"arName":"159 ش 26 يوليو, الزمالك, القاهرة",
+	"enName":"159 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"475765",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/475765?b=57&k=16862&l=search",
+	"arName":"كم 52 - طريق مصر اسماعيلية الصحراوى, العاشر من رمضان, الشرقية",
+	"enName":"Km 52, Misr Ismaileya Desert Rd., 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"272817",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/272817?b=59&k=16862&l=search",
+	"arName":"ابراج الوطنية - طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"El Wataneya Towers, 14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"171715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/171715?b=34&k=16862&l=search",
+	"arName":"3 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"3 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"474969",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/474969?b=46&k=16862&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"171713",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/171713?b=58&k=16862&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"171711",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/171711?b=39&k=16862&l=search",
+	"arName":"4 أ كورنيش النيل, رملة بولاق, القاهرة",
+	"enName":"4 A Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"172365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/172365?b=40&k=16862&l=search",
+	"arName":"المرحلة الاولى, مدينة الرحاب, القاهرة",
+	"enName":"Phase 1, Al rehab city, Cairo"
+},
+		{	"profileId":"394147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/394147?b=49&k=16862&l=search",
+	"arName":"9 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"9 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"394146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/394146?b=33&k=16862&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"171707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/171707?b=50&k=16862&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"172313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/172313?b=31&k=16862&l=search",
+	"arName":"كورنيش النيل, جاردن سيتى, القاهرة",
+	"enName":"Corniche El Nil, Garden city, Cairo"
+},
+		{	"profileId":"171700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/171700?b=44&k=16862&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"272846",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/272846?b=36&k=16862&l=search",
+	"arName":"الطريق الدائرى - مدينة المعراج, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Ring Rd., El Mearag City, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"272848",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/272848?b=60&k=16862&l=search",
+	"arName":"كم 6 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 6,, Alex. cairo desert rd., Alexandria"
+}
+	]
+}]}

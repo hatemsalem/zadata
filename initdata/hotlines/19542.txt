@@ -1,0 +1,47 @@
+{"items":[{	"arName":"الشركة المصرية العالمية للتجارة والتوكيلات - اى اى تى",
+	"enName":"Egyptian International Trading & Agencies - EIT",
+	"hotlone":"19542",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"96218",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-trading-&-agencies-_-eit/96218?b=6&k=19542&l=search",
+	"arName":"81 ش عبد السلام عارف, جليم, الاسكندرية",
+	"enName":"81 Abdel Salam Aref St., Glim, Alexandria"
+},
+		{	"profileId":"124989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-trading-&-agencies-_-eit/124989?b=3&k=19542&l=search",
+	"arName":"القطعة 99 - كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Plot 99, Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"448827",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-trading-&-agencies-_-eit/448827?b=5&k=19542&l=search",
+	"arName":"امتداد ش جيهان - حى الجامعة - برج الجامعة, المنصورة, الدقهلية",
+	"enName":"Extension Of Gihan St., El Gamaa District, El Gamaa Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"176588",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-trading-&-agencies-_-eit/176588?b=1&k=19542&l=search",
+	"arName":"طريق العين السخنة, القطامية, القاهرة",
+	"enName":"Ain El Sokhna Rd., El katameya, Cairo"
+},
+		{	"profileId":"176584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-trading-&-agencies-_-eit/176584?b=2&k=19542&l=search",
+	"arName":"3 ميدان روكسى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"3 Roxy Sq., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"322610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-trading-&-agencies-_-eit/322610?b=4&k=19542&l=search",
+	"arName":"1 ابراج الصفوة - برج الشروق - - الدور 1, حى الاربعين, السويس",
+	"enName":"1 El Safwa Towers, El Shorouq Tower, , Floor 1, El arbeen, Suez"
+},
+		{	"profileId":"176585",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-trading-&-agencies-_-eit/176585?b=7&k=19542&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"enName":"Customer Service, Abou rawash, Giza"
+}
+	]
+}]}

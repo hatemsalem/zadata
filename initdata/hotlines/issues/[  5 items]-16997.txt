@@ -1,0 +1,81 @@
+{"items":[{	"arName":"قرية ريجينا العين السخنة",
+	"enName":"Regina Village El Ain El Sokhna",
+	"hotlone":"16997",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"506104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/regina-village-el-ain-el-sokhna/506104?b=4&k=16997&l=search",
+	"arName":"طريق العين السخنة, العين السخنة, العين السخنة",
+	"enName":"El Ain El Sokhna Rd., El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"البارون للانشاء وادارة القرى السياحية",
+	"enName":"El Baroon For Construction & Touristic Villages Management",
+	"hotlone":"16997",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"500014",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baroon-for-construction-&-touristic-villages-management/500014?b=3&k=16997&l=search",
+	"arName":"6 عمارات العبور -, مصر الجديدة, القاهرة",
+	"enName":"6 Obour Bldgs.,, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"كايرو كونسلت للتنمية العقارية بالقطامية",
+	"enName":"Cairo Consult",
+	"hotlone":"16997",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"499797",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-consult/499797?b=2&k=16997&l=search",
+	"arName":"6 عمارات العبور - طريق صلاح سالم, مصر الجديدة, القاهرة",
+	"enName":"6 Obour Bldgs., Salah Salam Rd., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"مجموعة بنت السلطان للاستثمار والسياحة",
+	"enName":"Bent El Sultan Group For Investment & Tourism",
+	"hotlone":"16997",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"487840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bent-el-sultan-group-for-investment-&-tourism/487840?b=1&k=16997&l=search",
+	"arName":"طريق الواحات دهشور متفرع من ميدان جهينة - منطقة الحزام الاخضر, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Dahshour Rd. Off Juhaina Sq., El Hezam El Akhdar Zone, 6th of october, Giza"
+}
+	]
+}, {	"arName":"كومبوند سرايات القطامية",
+	"enName":"Sarayat El Katameya Compound",
+	"hotlone":"16997",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"418770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sarayat-el-katameya-compound/418770?b=5&k=16997&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"enName":"Ring Rd., El katameya, Cairo"
+}
+	]
+}]}

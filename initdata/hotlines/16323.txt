@@ -1,0 +1,32 @@
+{"items":[{	"arName":"مصر لادارة الاصول العقارية",
+	"enName":"Misr Real Estate Assets Management",
+	"hotlone":"16323",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"479123",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-real-estate-assets-management/479123?b=4&k=16323&l=search",
+	"arName":"33 ش سعد زغلول, محطة الرمل, الاسكندرية",
+	"enName":"33 Saad Zaghloul St., Raml station, Alexandria"
+},
+		{	"profileId":"479133",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-real-estate-assets-management/479133?b=3&k=16323&l=search",
+	"arName":"255 ش الجلاء متفرع من ش البحر, طنطا, الغربية",
+	"enName":"255 El Galaa St. Off El Bahr St., Tanta, El gharbeya"
+},
+		{	"profileId":"479110",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-real-estate-assets-management/479110?b=2&k=16323&l=search",
+	"arName":"9 ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"9 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"223239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-real-estate-assets-management/223239?b=1&k=16323&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

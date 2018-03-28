@@ -1,0 +1,147 @@
+{"items":[{	"arName":"صيدليات مصر",
+	"enName":"Misr Pharmacies",
+	"hotlone":"19110",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"63362",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/63362?b=13&k=19110&l=search",
+	"arName":"20 ش التحرير, الدقى, الجيزة",
+	"enName":"20 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"563746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/563746?b=3&k=19110&l=search",
+	"arName":"منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"448784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/448784?b=12&k=19110&l=search",
+	"arName":"161 ب ش جاردنيا, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"161 B Gardenia St., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"117536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/117536?b=14&k=19110&l=search",
+	"arName":"5 ش مراد, الجيزة, الجيزة",
+	"enName":"5 Mourad St., Giza, Giza"
+},
+		{	"profileId":"95079",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/95079?b=5&k=19110&l=search",
+	"arName":"58 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"58 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"127761",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/127761?b=23&k=19110&l=search",
+	"arName":"ش المحطة, حى غرب, سوهاج",
+	"enName":"El Mahatta St., Gharb district, Sohag"
+},
+		{	"profileId":"448787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/448787?b=20&k=19110&l=search",
+	"arName":"334 ش الهرم, الهرم, الجيزة",
+	"enName":"334 Haram St., El haram, Giza"
+},
+		{	"profileId":"560739",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/560739?b=7&k=19110&l=search",
+	"arName":"11 /5 ش 216, دجلة, المعادى, القاهرة",
+	"enName":"11 /5 Rd. 216, Degla, Maadi, Cairo"
+},
+		{	"profileId":"488416",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/488416?b=8&k=19110&l=search",
+	"arName":"20 ش 87, ثكنات المعادى, المعادى, القاهرة",
+	"enName":"20 Rd. 87, Thakanat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"448785",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/448785?b=27&k=19110&l=search",
+	"arName":"ش السنترال المجاورة الثانية - عمارة 385, الحى الاول, السادس من اكتوبر, الجيزة",
+	"enName":"El Central St. 2nd Neighbourhood, Bldg. 385, 1st District, 6th of october, Giza"
+},
+		{	"profileId":"389898",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/389898?b=15&k=19110&l=search",
+	"arName":"103 ش الهرم, الكوم الاخضر, الهرم, الجيزة",
+	"enName":"103 Haram St., El Koum El Akhdar, El haram, Giza"
+},
+		{	"profileId":"359153",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/359153?b=24&k=19110&l=search",
+	"arName":"32 ش الهرم - مدينة بيتكو, مشعل, الهرم, الجيزة",
+	"enName":"32 Haram St., Betco City, Mashaal, El haram, Giza"
+},
+		{	"profileId":"547522",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/547522?b=9&k=19110&l=search",
+	"arName":"44 ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"44 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"177654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/177654?b=11&k=19110&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الدقى, الجيزة",
+	"enName":"Home Delivery, Dokki, Giza"
+},
+		{	"profileId":"300222",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/300222?b=10&k=19110&l=search",
+	"arName":"86 ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"86 El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"452697",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/452697?b=25&k=19110&l=search",
+	"arName":"21 ش زكى عثمان متفرع من ش التحرير, بين السرايات, الجيزة",
+	"enName":"21 Zaky Othman St. Off El Tahrir St., Bein el sarayat, Giza"
+},
+		{	"profileId":"454852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/454852?b=26&k=19110&l=search",
+	"arName":"25 ش لبنان تقاطع ش شهاب, المهندسين, الجيزة",
+	"enName":"25 Lebanon St. Intersection Of Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"560367",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/560367?b=4&k=19110&l=search",
+	"arName":"22 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"22 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"465446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/465446?b=6&k=19110&l=search",
+	"arName":"14 عمارات رابعة الاستثمارى - ش النزهة, مدينة نصر, القاهرة",
+	"enName":"14 Rabaa Investment Bldgs., El Nozha St., Nasr city, Cairo"
+},
+		{	"profileId":"359188",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/359188?b=1&k=19110&l=search",
+	"arName":"77 ش شبرا - مسرة, شبرا, القاهرة",
+	"enName":"77 Shoubra St., Masarra, Shoubra, Cairo"
+},
+		{	"profileId":"60288",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/60288?b=22&k=19110&l=search",
+	"arName":"118 ش التحرير, الدقى, الجيزة",
+	"enName":"118 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"454867",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/454867?b=17&k=19110&l=search",
+	"arName":"ش عبد المنعم رياض, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"Abdel Moneim Riad St., El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"551625",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/551625?b=18&k=19110&l=search",
+	"arName":"40 ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"enName":"40 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+},
+		{	"profileId":"123749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/123749?b=21&k=19110&l=search",
+	"arName":"1 ش العريش متفرع من ش الهرم, الهرم, الجيزة",
+	"enName":"1 El Arish St. Off Haram St., El haram, Giza"
+},
+		{	"profileId":"454863",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/454863?b=2&k=19110&l=search",
+	"arName":"طريق الزهراء الرئيسى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"El Zahraa Main Rd., Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"454862",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/454862?b=16&k=19110&l=search",
+	"arName":"طريق الواحات - دريم لاند - مدخل 3, السادس من اكتوبر, الجيزة",
+	"enName":"Oasis Rd., Dream Land, Entrance 3, 6th of october, Giza"
+},
+		{	"profileId":"454861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-pharmacies/454861?b=19&k=19110&l=search",
+	"arName":"20 ش التحرير - الدور 2, الدقى, الجيزة",
+	"enName":"20 El Tahrir St., Floor 2, Dokki, Giza"
+}
+	]
+}]}

@@ -1,0 +1,167 @@
+{"items":[{	"arName":"دى اتش ال اكسبريس",
+	"enName":"DHL Express",
+	"hotlone":"16345",
+	"arCategory":[
+		"بريد سريع خدمات"
+	],
+	"enCategories":[
+		"Courier Services"
+	],
+	"contacts":[
+		{	"profileId":"559583",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/559583?b=14&k=16345&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"153773",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/153773?b=27&k=16345&l=search",
+	"arName":"المحور المركزى - ابراج المدينة سنتر - برج أ, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Madina Center Towers, Tower A, 7th District, 6th of october, Giza"
+},
+		{	"profileId":"153775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/153775?b=4&k=16345&l=search",
+	"arName":"24 ش عبد الرازق السنهورى متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"24 Abdel Razeq El Sanhoury St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"153776",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/153776?b=6&k=16345&l=search",
+	"arName":"14 ش جوزيف تيتو, النزهة الجديدة, القاهرة",
+	"enName":"14 Joseph Tito St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"168231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/168231?b=17&k=16345&l=search",
+	"arName":"2 ش شبين الكوم, وسط البلد, الاسماعيلية",
+	"enName":"2 Shebin El Koum St., Downtown, Ismaileya"
+},
+		{	"profileId":"502525",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/502525?b=24&k=16345&l=search",
+	"arName":"القطعة 18 - محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 18, 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"145670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/145670?b=15&k=16345&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"26133",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/26133?b=19&k=16345&l=search",
+	"arName":"1 ش مصطفى كامل, سموحة, الاسكندرية",
+	"enName":"1 Mostafa Kamel St., Semouha, Alexandria"
+},
+		{	"profileId":"225356",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/225356?b=20&k=16345&l=search",
+	"arName":"151 ش الهرم, الهرم, الجيزة",
+	"enName":"151 Haram St., El haram, Giza"
+},
+		{	"profileId":"119943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/119943?b=5&k=16345&l=search",
+	"arName":"38 ش عبد الخالق ثروت, وسط البلد, القاهرة",
+	"enName":"38 Abdel Khaleq Tharwat St., Downtown, Cairo"
+},
+		{	"profileId":"113022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/113022?b=18&k=16345&l=search",
+	"arName":"طريق السلام, خليج نعمة, شرم الشيخ",
+	"enName":"El Salam Rd., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"84189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/84189?b=1&k=16345&l=search",
+	"arName":"12 د/5 ش اللاسلكى تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"12 D/5 El Laselky St. El Laselky Division, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"4527",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/4527?b=16&k=16345&l=search",
+	"arName":"16 ش لبنان - برج المنى, المهندسين, الجيزة",
+	"enName":"16 Lebanon St., El Mona Tower, Mohandeseen, Giza"
+},
+		{	"profileId":"161625",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/161625?b=25&k=16345&l=search",
+	"arName":"طريق الهضبة, الهضبة, الغردقة",
+	"enName":"Hadaba Rd., El hadaba, Hurghada"
+},
+		{	"profileId":"71314",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/71314?b=2&k=16345&l=search",
+	"arName":"خدمة العملاء, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"490726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/490726?b=21&k=16345&l=search",
+	"arName":"ش 23 يوليو تقاطع ش الجمهورية, حى الشرق, بور سعيد",
+	"enName":"23rd Of July St. Intersection Of El Gomhoureya St., El shark district, Port said"
+},
+		{	"profileId":"490728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/490728?b=3&k=16345&l=search",
+	"arName":"3 ش وهيب دوس متفرع من ش 9, سرايات المعادى, المعادى, القاهرة",
+	"enName":"3 Wahib Dous St. Off Rd. 9, Sarayat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"348481",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/348481?b=12&k=16345&l=search",
+	"arName":"قرية البضائع - مبنى دى اتش ال, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Goods Village, DHL Bldg., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"119946",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/119946?b=26&k=16345&l=search",
+	"arName":"9 ش صلاح سالم, المنشية, الاسكندرية",
+	"enName":"9 Salah Salem St., El mansheya, Alexandria"
+},
+		{	"profileId":"225359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/225359?b=30&k=16345&l=search",
+	"arName":"56 ش الجيزة - برج الزهراء, الدقى, الجيزة",
+	"enName":"56 Giza St., El Zahraa Tower, Dokki, Giza"
+},
+		{	"profileId":"221532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/221532?b=8&k=16345&l=search",
+	"arName":"140 ش 26 يوليو - برج الفيروز, الزمالك, القاهرة",
+	"enName":"140 26th Of July St., El Fayrouz Tower, Zamalek, Cairo"
+},
+		{	"profileId":"225335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/225335?b=28&k=16345&l=search",
+	"arName":"3 ش كورنيش النيل, دمياط, دمياط",
+	"enName":"3 Corniche El Nil St., Damietta, Damietta"
+},
+		{	"profileId":"559576",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/559576?b=13&k=16345&l=search",
+	"arName":"15 أ عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"15 A El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"225363",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/225363?b=9&k=16345&l=search",
+	"arName":"1375 كورنيش النيل - ابراج اغاخان - برج 4, شبرا, القاهرة",
+	"enName":"1375 Corniche El Nil, Aghakhan Towers, Tower 4, Shoubra, Cairo"
+},
+		{	"profileId":"231016",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/231016?b=23&k=16345&l=search",
+	"arName":"ش خالد بن الوليد - العوامية, الاقصر, الاقصر",
+	"enName":"Khaled Ibn El Walid St., El Awameya, LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"225361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/225361?b=31&k=16345&l=search",
+	"arName":"كم 52 - طريق مصر اسماعيلية الصحراوى, العاشر من رمضان, الشرقية",
+	"enName":"Km 52, Misr Ismaileya Desert Rd., 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"119951",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/119951?b=7&k=16345&l=search",
+	"arName":"84 ش الميرغنى متفرع من ش صلاح سالم, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"84 El Merghany St. Off Salah Salem St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"225343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/225343?b=22&k=16345&l=search",
+	"arName":"57 ش الامين تقاطع ش البحر, طنطا, الغربية",
+	"enName":"57 El Amin St. Intersection Of El Bahr St., Tanta, El gharbeya"
+},
+		{	"profileId":"119952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/119952?b=10&k=16345&l=search",
+	"arName":"8 ش رستم, جاردن سيتى, القاهرة",
+	"enName":"8 Rostom St., Garden city, Cairo"
+},
+		{	"profileId":"225342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/225342?b=29&k=16345&l=search",
+	"arName":"3 ش الجمهورية - برج الياسمين, المنصورة, الدقهلية",
+	"enName":"3 El Gomhoureya St., El Yasmeen Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"225381",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-express/225381?b=11&k=16345&l=search",
+	"arName":"ش التسعين قطاع 1, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St. Sector 1, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

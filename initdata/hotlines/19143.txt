@@ -1,0 +1,17 @@
+{"items":[{	"arName":"جمعية التطوير والتنمية",
+	"enName":"PDF - Professional Development Foundation",
+	"hotlone":"19143",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"430149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pdf-_-professional-development-foundation/430149?b=1&k=19143&l=search",
+	"arName":"63 ش سوريا - الدور 1, المهندسين, الجيزة",
+	"enName":"63 Syria St., Floor 1, Mohandeseen, Giza"
+}
+	]
+}]}

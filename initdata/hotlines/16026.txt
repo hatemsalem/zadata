@@ -1,0 +1,22 @@
+{"items":[{	"arName":"سفريكو للاستثمار العقارى",
+	"enName":"SVREICO - Smart Village Real Estate Investment Co.",
+	"hotlone":"16026",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"571647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/svreico-_-smart-village-real-estate-investment-co./571647?b=2&k=16026&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"KM 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"571648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/svreico-_-smart-village-real-estate-investment-co./571648?b=1&k=16026&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"enName":"Customer Service, Abou rawash, Giza"
+}
+	]
+}]}

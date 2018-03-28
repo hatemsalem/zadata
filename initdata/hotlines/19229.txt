@@ -1,0 +1,47 @@
+{"items":[{	"arName":"جى ام سى",
+	"enName":"GMC",
+	"hotlone":"19229",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"393054",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/393054?b=5&k=19229&l=search",
+	"arName":"7 ش محمد النجار متفرع من الشارع الجديد - ارض مصطفى حسن, وسط البلد, الفيوم",
+	"enName":"7 Mohamed El Naggar St. Off El Gadid St., Ard Mostafa Hassan, Downtown, El fayoum"
+},
+		{	"profileId":"102083",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/102083?b=2&k=19229&l=search",
+	"arName":"1 ش احمد سعيد, عباسية, القاهرة",
+	"enName":"1 Ahmed Said St., Abbasseya, Cairo"
+},
+		{	"profileId":"131198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/131198?b=3&k=19229&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"59524",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/59524?b=4&k=19229&l=search",
+	"arName":"3 ش شهاب متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"3 Shehab St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"116921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/116921?b=6&k=19229&l=search",
+	"arName":"30 ش احمد عرابى, المهندسين, الجيزة",
+	"enName":"30 Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"211855",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/211855?b=7&k=19229&l=search",
+	"arName":"21 عمارات الضباط - ش احمد شوقى, مصطفى كامل, الاسكندرية",
+	"enName":"21 El Dobbat Bldgs., Ahmed Shawky St., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"102081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/102081?b=1&k=19229&l=search",
+	"arName":"1 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"1 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,117 @@
+{"items":[{	"arName":"امبليفون",
+	"enName":"Amplifon",
+	"hotlone":"19508",
+	"arCategory":[
+		"طب معدات"
+	],
+	"enCategories":[
+		"Medical Equipment"
+	],
+	"contacts":[
+		{	"profileId":"109019",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/109019?b=10&k=19508&l=search",
+	"arName":"ش قناة السويس - برج النور, المنصورة, الدقهلية",
+	"enName":"Suez Canal St., El Nour Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"138217",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/138217?b=14&k=19508&l=search",
+	"arName":"361 طريق الحرية, سيدى جابر المحطة, الاسكندرية",
+	"enName":"361 El Horreya Rd., Sidi gaber el mahata, Alexandria"
+},
+		{	"profileId":"391352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/391352?b=21&k=19508&l=search",
+	"arName":"ش المحافظة متفرع من ش 26 يوليو, وسط البلد, قنا",
+	"enName":"El Mohafza St. Off 26Th Of July St., Downtown, Qena"
+},
+		{	"profileId":"513258",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/513258?b=7&k=19508&l=search",
+	"arName":"7 ش التحرير متفرع من ش كورنيش النيل - ميدان الساعة, دمياط, دمياط",
+	"enName":"7 El Tahrir St. Off Corniche El Nil St., El Saah Sq., Damietta, Damietta"
+},
+		{	"profileId":"163922",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/163922?b=13&k=19508&l=search",
+	"arName":"49 ش الجهاد متفرع من ش الكاشف, حى غرب, سوهاج",
+	"enName":"49 El Gehad St. Off El Kashef St., Gharb district, Sohag"
+},
+		{	"profileId":"139667",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/139667?b=8&k=19508&l=search",
+	"arName":"11 ش نادى الصيد متفرع من ش محى الدين ابو العز, الدقى, الجيزة",
+	"enName":"11 Nady El Seid St. Off Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"446451",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/446451?b=18&k=19508&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"446441",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/446441?b=11&k=19508&l=search",
+	"arName":"19 ش بورسعيد - برج الحرية, بنى سويف, بنى سويف",
+	"enName":"19 Port Said St., El Horreya Tower, Benisuef, Benisuef"
+},
+		{	"profileId":"446460",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/446460?b=12&k=19508&l=search",
+	"arName":"ش البنوك - ابراج المحاربين الجديدة - برج الوسام 2, وسط البلد, كفر الشيخ",
+	"enName":"El Benok St., El Moharbeen New Towers, El Wesam Tower 2, Downtown, Kafr el sheikh"
+},
+		{	"profileId":"391349",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/391349?b=6&k=19508&l=search",
+	"arName":"69 ش خليل حمادة, ميامى, الاسكندرية",
+	"enName":"69 Khalil Hamada St., Miami, Alexandria"
+},
+		{	"profileId":"446444",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/446444?b=17&k=19508&l=search",
+	"arName":"7 ش العريش - الدور 1, الهرم, الجيزة",
+	"enName":"7 El Arish St., Floor 1, El haram, Giza"
+},
+		{	"profileId":"391348",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/391348?b=2&k=19508&l=search",
+	"arName":"34 ش العروسى متفرع من ش شبرا, شبرا, القاهرة",
+	"enName":"34 El Arousy St. Off Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"440189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/440189?b=5&k=19508&l=search",
+	"arName":"ش شرق البندر ميدان الطابية, وسط البلد, اسوان",
+	"enName":"Sharq El Bandra St. Tabya Sq., Downtown, Aswan"
+},
+		{	"profileId":"148197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/148197?b=19&k=19508&l=search",
+	"arName":"ش احمد عرابى - برج الاطباء - الدور 4 شقة 2, دمنهور, البحيرة",
+	"enName":"Ahmed Orabi St., El Atebaa Tower, Floor 4 Flat 2, Damanhour, El beheira"
+},
+		{	"profileId":"148198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/148198?b=4&k=19508&l=search",
+	"arName":"ش المديرية - برج طيبة - الدور 5, طنطا, الغربية",
+	"enName":"El Modereya St., Tiba Tower, Floor 5, Tanta, El gharbeya"
+},
+		{	"profileId":"446432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/446432?b=16&k=19508&l=search",
+	"arName":"14 ابراج ديار الصفا - طريق اسكندرية مطروح الصحراوى - الدور 2, الهانوفيل, الاسكندرية",
+	"enName":"14 Diyar El Safa Towers, Alex Matrouh Desert Rd., Floor 2, Hannoville, Alexandria"
+},
+		{	"profileId":"440186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/440186?b=15&k=19508&l=search",
+	"arName":"9 ش مسجد عباد الرحمن متفرع من ش التحرير, سوهاج, سوهاج",
+	"enName":"9 Masged Ebad El Rahman St. Off El Tahrir St., Sohag, Sohag"
+},
+		{	"profileId":"138211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/138211?b=3&k=19508&l=search",
+	"arName":"43 ش نبيل الوقاد متفرع من ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"43 Nabil El Waqqad St. Off El Nozha St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"433773",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/433773?b=1&k=19508&l=search",
+	"arName":"2 ط ش البرديسى تقسيم اسماء فهمى, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"2 T El Bardisy St. Asmaa Fahmy Division, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"163919",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/163919?b=9&k=19508&l=search",
+	"arName":"برج الراعى - ش الجلاء تقاطع ش المأمون, حى شرق, اسيوط",
+	"enName":"El Raey Tower, El Galaa St. Intersection Of El Maamoun St., Shark district, Assyout"
+},
+		{	"profileId":"250856",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amplifon/250856?b=20&k=19508&l=search",
+	"arName":"60 أ ش عبد العزيز عياد متفرع من ش المحافظة, الزقازيق, الشرقية",
+	"enName":"60 A Abdel Aziz Ayyad St. Off El Mohafza St., El zagazig, El sharkeya"
+}
+	]
+}]}

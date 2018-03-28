@@ -1,0 +1,37 @@
+{"items":[{	"arName":"مفكو حلوان",
+	"enName":"Mffco Helwan",
+	"hotlone":"19440",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"74569",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mffco-helwan/74569?b=4&k=19440&l=search",
+	"arName":"96 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"96 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"209573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mffco-helwan/209573?b=1&k=19440&l=search",
+	"arName":"ش 257 تقاطع ش 274, المعادى, القاهرة",
+	"enName":"Rd. 257 Intersection Of Rd. 274, Maadi, Cairo"
+},
+		{	"profileId":"119603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mffco-helwan/119603?b=3&k=19440&l=search",
+	"arName":"خدمة العملاء, حلوان, القاهرة",
+	"enName":"Customer Service, Helwan, Cairo"
+},
+		{	"profileId":"12206",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mffco-helwan/12206?b=2&k=19440&l=search",
+	"arName":"كورنيش النيل - ركن فاروق, حلوان, القاهرة",
+	"enName":"Corniche El Nil, Rokn Farouq, Helwan, Cairo"
+},
+		{	"profileId":"175145",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mffco-helwan/175145?b=5&k=19440&l=search",
+	"arName":"26 ش فوزى معاذ, سموحة, الاسكندرية",
+	"enName":"26 Fawzy Moaz St., Semouha, Alexandria"
+}
+	]
+}]}

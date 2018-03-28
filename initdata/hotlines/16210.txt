@@ -1,0 +1,22 @@
+{"items":[{	"arName":"اكتوبر للتنمية والاستثمار العقارى",
+	"enName":"October For Development & Real Estate Investment",
+	"hotlone":"16210",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"177638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/october-for-development-&-real-estate-investment/177638?b=2&k=16210&l=search",
+	"arName":"20 ش الثورة, الدقى, الجيزة",
+	"enName":"20 El Thawra St., Dokki, Giza"
+},
+		{	"profileId":"545782",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/october-for-development-&-real-estate-investment/545782?b=1&k=16210&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

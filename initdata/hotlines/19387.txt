@@ -1,0 +1,17 @@
+{"items":[{	"arName":"كيه ام ان للاستيراد والتصدير",
+	"enName":"KMN For Import & Export",
+	"hotlone":"19387",
+	"arCategory":[
+		"شحم وزيوت صناعية"
+	],
+	"enCategories":[
+		"Lubricants & Industrial Oils"
+	],
+	"contacts":[
+		{	"profileId":"443396",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kmn-for-import-&-export/443396?b=1&k=19387&l=search",
+	"arName":"ابراج سيتى ستارز - برج 2 - - المحور المركزى - الدور 5 شقة 5, السادس من اكتوبر, الجيزة",
+	"enName":"City Stars Towers, Tower 2, , Central Spine, Floor 5 Flat 5, 6th of october, Giza"
+}
+	]
+}]}

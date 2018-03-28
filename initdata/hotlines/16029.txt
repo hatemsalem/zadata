@@ -1,0 +1,17 @@
+{"items":[{	"arName":"اصول العقارية",
+	"enName":"Osool Real Estate",
+	"hotlone":"16029",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"464025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-real-estate/464025?b=1&k=16029&l=search",
+	"arName":"فيلا 2 - ش 57 متفرع من ش التسعين - الحى الاول - المنطقة السابعة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 2, Rd. 57 Off El Tesaeen St., 1St District, 7th Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المركز الدولى - د. خالد ابو طاقية",
+	"enName":"International Center - Dr. Khaled Abou Taqeya",
+	"hotlone":"19794",
+	"arCategory":[
+		"طب معدات"
+	],
+	"enCategories":[
+		"Medical Equipment"
+	],
+	"contacts":[
+		{	"profileId":"406784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-center-_-dr.-khaled-abou-taqeya/406784?b=2&k=19794&l=search",
+	"arName":"خدمة العملاء, عابدين, القاهرة",
+	"enName":"Customer Service, Abdin, Cairo"
+},
+		{	"profileId":"7737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-center-_-dr.-khaled-abou-taqeya/7737?b=1&k=19794&l=search",
+	"arName":"145 ش محمد فريد, عابدين, القاهرة",
+	"enName":"145 Mohamed Farid St., Abdin, Cairo"
+}
+	]
+}]}

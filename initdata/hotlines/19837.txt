@@ -1,0 +1,41 @@
+{"items":[{	"arName":"قصر المندى",
+	"enName":"Kasr El Mandy",
+	"hotlone":"19837",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"193369",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kasr-el-mandy/193369?b=1&k=19837&l=search",
+	"arName":"24 أ عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"24 A El Obour Bldgs. , Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"576009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kasr-el-mandy/576009?b=3&k=19837&l=search",
+	"arName":"35 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"35 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"443703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kasr-el-mandy/443703?b=2&k=19837&l=search",
+	"arName":"3 عمارات رابعة الاستثمارى -, مدينة نصر, القاهرة",
+	"enName":"3 Rabaa Investment Bldgs.,, Nasr city, Cairo"
+},
+		{	"profileId":"576010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kasr-el-mandy/576010?b=4&k=19837&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"enName":"Home Delivery, Nasr city, Cairo"
+},
+		{	"profileId":"450566",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kasr-el-mandy/450566?b=5&k=19837&l=search",
+	"arName":"87 ش صقر قريش, مصر الجديدة, القاهرة",
+	"enName":"87 Saqr Qoraish St., Heliopolis, Cairo"
+}
+	]
+}]}

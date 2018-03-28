@@ -1,0 +1,470 @@
+{"items":[{	"arName":"البنك العربى",
+	"enName":"Arab Bank",
+	"hotlone":"19100",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"71286",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/71286?b=16&k=19100&l=search",
+	"arName":"41 ش عبد الرازق السنهورى متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"41 Abdel Razeq El Sanhoury St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"71287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/71287?b=2&k=19100&l=search",
+	"arName":"31 ش 151 تقاطع ش 103, المعادى, القاهرة",
+	"enName":"31 Rd. 151 Intersection Of Rd. 103, Maadi, Cairo"
+},
+		{	"profileId":"246789",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/246789?b=22&k=19100&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"356239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/356239?b=27&k=19100&l=search",
+	"arName":"201,203 ش الجمهورية - برج النصر, المنصورة, الدقهلية",
+	"enName":"201,203 El Gomhoureya St., El Naser Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"389836",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/389836?b=9&k=19100&l=search",
+	"arName":"القطعة 103 - طريق البنوك - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 103, El Bonouk Rd., 1St District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"546294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/546294?b=37&k=19100&l=search",
+	"arName":"134 ش النيل, العجوزة, الجيزة",
+	"enName":"134 El Nil St., Agouza, Giza"
+},
+		{	"profileId":"465160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/465160?b=35&k=19100&l=search",
+	"arName":"440 طريق الجيش, لوران, الاسكندرية",
+	"enName":"440 El Guish Rd., Loran, Alexandria"
+},
+		{	"profileId":"544235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/544235?b=41&k=19100&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"139333",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/139333?b=6&k=19100&l=search",
+	"arName":"54 أ ش الجمهورية, وسط البلد, القاهرة",
+	"enName":"54 A El Gomhoureya St., Downtown, Cairo"
+},
+		{	"profileId":"465082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/465082?b=18&k=19100&l=search",
+	"arName":"67 ش عمر بن الخطاب متفرع من ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"67 Omar Ibn El Khattab St. Off El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"581367",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/581367?b=12&k=19100&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"453843",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/453843?b=36&k=19100&l=search",
+	"arName":"ش نجيب محفوظ - السوق التجارى - قرية مينا جاردن سيتى, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"Naguib Mahfouz St., Commercial Market, Mina Garden City Village, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"581364",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/581364?b=42&k=19100&l=search",
+	"arName":"74 ش البرت الاول - برج البارون, سموحة, الاسكندرية",
+	"enName":"74 Albert El Awel St., El Baroun Tower, Semouha, Alexandria"
+},
+		{	"profileId":"220668",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/220668?b=5&k=19100&l=search",
+	"arName":"3 ش شجرة الدر, الزمالك, القاهرة",
+	"enName":"3 Shagaret El Dor St., Zamalek, Cairo"
+},
+		{	"profileId":"405800",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/405800?b=40&k=19100&l=search",
+	"arName":"46 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"46 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"71297",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/71297?b=33&k=19100&l=search",
+	"arName":"21 ش طلعت حرب, المنشية, الاسكندرية",
+	"enName":"21 Talaat Harb St., El mansheya, Alexandria"
+},
+		{	"profileId":"71295",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/71295?b=26&k=19100&l=search",
+	"arName":"القطعة العاشرة - - منطقة البنوك, العاشر من رمضان, الشرقية",
+	"enName":"10th Plot, , Banks Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"71294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/71294?b=20&k=19100&l=search",
+	"arName":"4 ابراج برعى بلازا - المحور المركزى, الحى الثانى, السادس من اكتوبر, الجيزة",
+	"enName":"4 Boraie Plaza Towers, Central Spine, 2nd District, 6th of october, Giza"
+},
+		{	"profileId":"465168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/465168?b=23&k=19100&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"519173",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/519173?b=10&k=19100&l=search",
+	"arName":"27 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"enName":"27 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"71291",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/71291?b=29&k=19100&l=search",
+	"arName":"426 ش الهرم, نصر الدين, الهرم, الجيزة",
+	"enName":"426 Haram St., Nasr El Din, El haram, Giza"
+},
+		{	"profileId":"318929",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/318929?b=8&k=19100&l=search",
+	"arName":"القطعة 7/2 - مربع 1155 - ش خالد بن الوليد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Plot 7/2, Square 1155, Khaled Ibn El Walid St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"111032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/111032?b=19&k=19100&l=search",
+	"arName":"222 طريق الحرية, الابراهيمية, الاسكندرية",
+	"enName":"222 El Horreya Rd., El ibrahimeya, Alexandria"
+},
+		{	"profileId":"458448",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/458448?b=39&k=19100&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"71268",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/71268?b=1&k=19100&l=search",
+	"arName":"49 ش بيروت, مصر الجديدة, القاهرة",
+	"enName":"49 Beirut St., Heliopolis, Cairo"
+},
+		{	"profileId":"139305",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/139305?b=15&k=19100&l=search",
+	"arName":"22 ش المنتزة, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"enName":"22 El Montazah St., Heliopolis Square, Heliopolis, Cairo"
+},
+		{	"profileId":"4507",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/4507?b=21&k=19100&l=search",
+	"arName":"50 ش جزيرة العرب امتداد ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"enName":"50 Geziret El Arab St. Extension Of El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"247583",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/247583?b=30&k=19100&l=search",
+	"arName":"58 ش النحاس - ش العوايد سابقا, طنطا, الغربية",
+	"enName":"58 El Nahhas St. - El Awayed St. Previously, Tanta, El gharbeya"
+},
+		{	"profileId":"169911",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/169911?b=3&k=19100&l=search",
+	"arName":"475 القطعة د - ش 9, المقطم, القاهرة",
+	"enName":"475 Plot D, Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"581306",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/581306?b=25&k=19100&l=search",
+	"arName":"المحور المركزى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"169912",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/169912?b=7&k=19100&l=search",
+	"arName":"50 ش على امين امتداد ش مصطفى النحاس, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"50 Aly Amin St. Extension Of Mostafa El Nahhas St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"169915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/169915?b=14&k=19100&l=search",
+	"arName":"19 ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"19 El Nozha St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"169916",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/169916?b=4&k=19100&l=search",
+	"arName":"19 عمارات اغاخان - ش دولتيان ميدان الخلفاوى, شبرا, القاهرة",
+	"enName":"19 Aghakhan Bldgs., Dawletian St. El Khalafawy Sq., Shoubra, Cairo"
+},
+		{	"profileId":"169919",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/169919?b=32&k=19100&l=search",
+	"arName":"42 ش الثورة, الدقى, الجيزة",
+	"enName":"42 El Thawra St., Dokki, Giza"
+},
+		{	"profileId":"169918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/169918?b=28&k=19100&l=search",
+	"arName":"133 ش التحرير, الدقى, الجيزة",
+	"enName":"133 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"455444",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/455444?b=17&k=19100&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"71279",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/71279?b=38&k=19100&l=search",
+	"arName":"14 ش نادى الصيد, الدقى, الجيزة",
+	"enName":"14 Nady El Seid St., Dokki, Giza"
+},
+		{	"profileId":"106194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/106194?b=34&k=19100&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"474814",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/474814?b=31&k=19100&l=search",
+	"arName":"8 ش طرح البحر تقاطع ش صلاح سالم, حى الشرق, بور سعيد",
+	"enName":"8 Tarh El Bahr St. Intersection Of Salah Salem St., El shark district, Port said"
+},
+		{	"profileId":"193239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/193239?b=13&k=19100&l=search",
+	"arName":"4 /5 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"4 /5 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"474816",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/474816?b=24&k=19100&l=search",
+	"arName":"كم 38 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 38,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"567189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/567189?b=11&k=19100&l=search",
+	"arName":"., المستثمرين الشمالية, القاهرة الجديدة, القاهرة",
+	"enName":"., North Investors, New cairo, Cairo"
+}
+	]
+}, {	"arName":"البنك العربى - ماكينة الصراف الالى",
+	"enName":"Arab Bank - ATM",
+	"hotlone":"19100",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"246667",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/246667?b=71&k=19100&l=search",
+	"arName":"طريق اسكندرية مطروح الصحراوى, الدخيلة, الاسكندرية",
+	"enName":"Alex Matrouh Desert Rd., El dekheila, Alexandria"
+},
+		{	"profileId":"169777",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169777?b=65&k=19100&l=search",
+	"arName":"كم 6 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 6,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"169776",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169776?b=62&k=19100&l=search",
+	"arName":"ش جمال عبد الناصر, ميامى, الاسكندرية",
+	"enName":"Gamal Abdel Nasser St., Miami, Alexandria"
+},
+		{	"profileId":"581326",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581326?b=87&k=19100&l=search",
+	"arName":"المنطقة الصناعية الثانية, العاشر من رمضان, الشرقية",
+	"enName":"2nd Industrial Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"474949",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/474949?b=55&k=19100&l=search",
+	"arName":"421 ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"421 El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"474948",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/474948?b=43&k=19100&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"581322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581322?b=77&k=19100&l=search",
+	"arName":"طريق الروبيكى - المنطقة الصناعية الثالثة A1, العاشر من رمضان, الشرقية",
+	"enName":"El Roubaiky Rd., 3rd Industrial Zone A1, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"169771",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169771?b=61&k=19100&l=search",
+	"arName":"المنطقة الصناعية الرابعة, السادس من اكتوبر, الجيزة",
+	"enName":"4th Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"246635",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/246635?b=75&k=19100&l=search",
+	"arName":"قطاع ج - المنطقة الصناعية, الصالحية الجديدة, الشرقية",
+	"enName":"Sector C, Industrial Zone, El salheya el gadida, El sharkeya"
+},
+		{	"profileId":"169770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169770?b=80&k=19100&l=search",
+	"arName":"القطعة 24 - - المنطقة الصناعية الثانية B4, العاشر من رمضان, الشرقية",
+	"enName":"Plot 24, , 2nd Industrial Zone B4, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"169773",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169773?b=69&k=19100&l=search",
+	"arName":"امتداد محور 26 يوليو, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"474958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/474958?b=51&k=19100&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"169840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169840?b=84&k=19100&l=search",
+	"arName":"ترسا , طوخ, القليوبية",
+	"enName":"Tersa, Tukh, Kaliobeya"
+},
+		{	"profileId":"474956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/474956?b=56&k=19100&l=search",
+	"arName":"كم 33 - طريق القاهرة السويس, مدينتى, القاهرة",
+	"enName":"Km 33, Cairo Suez Rd., Madinty, Cairo"
+},
+		{	"profileId":"169768",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169768?b=79&k=19100&l=search",
+	"arName":"القطعة 10 - - المنطقة الصناعية الاولى B3, العاشر من رمضان, الشرقية",
+	"enName":"Plot 10, , 1st Industrial Zone B3, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"169767",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169767?b=52&k=19100&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"169769",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169769?b=60&k=19100&l=search",
+	"arName":"بلوك 132, 133 - - المنطقة الصناعية الاولى 6A, العاشر من رمضان, الشرقية",
+	"enName":"Block 132, 133, , 1St Industrial Zone 6A, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"581454",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581454?b=78&k=19100&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"474954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/474954?b=47&k=19100&l=search",
+	"arName":"المرحلة الثالثة, مدينة الرحاب, القاهرة",
+	"enName":"Phase 3, Al rehab city, Cairo"
+},
+		{	"profileId":"581496",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581496?b=58&k=19100&l=search",
+	"arName":"1 ش انور المفتى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"1 Anwar El Mofty St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"581495",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581495?b=46&k=19100&l=search",
+	"arName":"70 ش عمر بن الخطاب ميدان الماظة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"70 Omar Ibn El Khattab St. Almaza Sq., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"581330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581330?b=72&k=19100&l=search",
+	"arName":"كم 52 - طريق مصر اسماعيلية الصحراوى, العاشر من رمضان, الشرقية",
+	"enName":"Km 52, Misr Ismaileya Desert Rd., 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"247579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/247579?b=86&k=19100&l=search",
+	"arName":"., قها, القليوبية",
+	"enName":"., Kaha, Kaliobeya"
+},
+		{	"profileId":"246646",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/246646?b=85&k=19100&l=search",
+	"arName":"المنطقة الصناعية الثالثة A3, العاشر من رمضان, الشرقية",
+	"enName":"3rd Industrial Zone A3, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"246648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/246648?b=70&k=19100&l=search",
+	"arName":"المنطقة الصناعية B1, العاشر من رمضان, الشرقية",
+	"enName":"Industrial Zone B1, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"581507",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581507?b=50&k=19100&l=search",
+	"arName":"ش الثورة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"El Thawra St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"581469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581469?b=44&k=19100&l=search",
+	"arName":"القطعة 211 - قطاع 2 - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 211, Sector 2, City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"581502",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581502?b=49&k=19100&l=search",
+	"arName":"كورنيش النيل - ابراج نايل سيتى - البرج الشمالى - الدور 2, رملة بولاق, القاهرة",
+	"enName":"Corniche El Nil, Nile City Towers, North Tower, Floor 2, Ramlet boulak, Cairo"
+},
+		{	"profileId":"581348",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581348?b=68&k=19100&l=search",
+	"arName":"امتداد محور 26 يوليو - المنطقة السياحية, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, Touristic Zone, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"169833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169833?b=82&k=19100&l=search",
+	"arName":"147 ش التحرير, الدقى, الجيزة",
+	"enName":"147 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"581504",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581504?b=59&k=19100&l=search",
+	"arName":"3 ش قيادة الثورة, الزمالك, القاهرة",
+	"enName":"3 Qeyadet El Thawra St., Zamalek, Cairo"
+},
+		{	"profileId":"246652",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/246652?b=64&k=19100&l=search",
+	"arName":"ش الاكاديمية البحرية, ابو قير, الاسكندرية",
+	"enName":"El Akademeya El Bahareya St., Abou kir, Alexandria"
+},
+		{	"profileId":"169838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169838?b=83&k=19100&l=search",
+	"arName":"5 ش بحر الغزال متفرع من ش احمد عرابى - الصحفيين, المهندسين, الجيزة",
+	"enName":"5 Bahr El Ghazal St. Off Ahmed Orabi St., El Sahafeyeen, Mohandeseen, Giza"
+},
+		{	"profileId":"581343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581343?b=67&k=19100&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"581500",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581500?b=54&k=19100&l=search",
+	"arName":"6 ش البطران - المنطقة الصناعية, عباسية, القاهرة",
+	"enName":"6 El Batran St., Industrial Zone, Abbasseya, Cairo"
+},
+		{	"profileId":"169839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169839?b=63&k=19100&l=search",
+	"arName":"106 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"106 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"581345",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581345?b=88&k=19100&l=search",
+	"arName":"طريق الواحات تقاطع محور 26 يوليو, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd. Intersection Of 26th Of July Spine, 6th of october, Giza"
+},
+		{	"profileId":"581460",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581460?b=89&k=19100&l=search",
+	"arName":"3 ميدان الرماية, الهرم, الجيزة",
+	"enName":"3 El Remaya Sq., El haram, Giza"
+},
+		{	"profileId":"581342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581342?b=73&k=19100&l=search",
+	"arName":"القطعة 31 - , الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31, , El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"581462",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581462?b=74&k=19100&l=search",
+	"arName":"طريق القاهرة الفيوم الصحراوى, الهرم, الجيزة",
+	"enName":"Cairo Fayoum Desert Rd., El haram, Giza"
+},
+		{	"profileId":"246654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/246654?b=76&k=19100&l=search",
+	"arName":"كم 36 - طريق اسكندرية القاهرة الصحراوى, العامرية, الاسكندرية",
+	"enName":"Km 36, Alex Cairo Desert Rd., Amreya, Alexandria"
+},
+		{	"profileId":"169794",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169794?b=81&k=19100&l=search",
+	"arName":"القطعة 13003 - ش 12 - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"Plot 13003, Rd. 12, 1St Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"169789",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/169789?b=66&k=19100&l=search",
+	"arName":"6 ابراج شيراتون المنتزة -, المنتزة, المنتزه, الاسكندرية",
+	"enName":"6 Sheraton El Montazah Towers,, EL MONTAZA, El montazah, Alexandria"
+},
+		{	"profileId":"581475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581475?b=48&k=19100&l=search",
+	"arName":"., جنوب الاكاديمية, القاهرة الجديدة, القاهرة",
+	"enName":"., South Academy, New cairo, Cairo"
+},
+		{	"profileId":"581472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581472?b=57&k=19100&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"581471",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581471?b=45&k=19100&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"581473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank-_-atm/581473?b=53&k=19100&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

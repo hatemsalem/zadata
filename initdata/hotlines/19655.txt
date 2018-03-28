@@ -1,0 +1,27 @@
+{"items":[{	"arName":"انرشيا",
+	"enName":"Inertia",
+	"hotlone":"19655",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"449826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inertia/449826?b=1&k=19655&l=search",
+	"arName":"القطعة 31 -, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"576768",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inertia/576768?b=2&k=19655&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"571549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inertia/571549?b=3&k=19655&l=search",
+	"arName":"القطعة 31 - , الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31, , El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

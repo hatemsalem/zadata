@@ -1,0 +1,47 @@
+{"items":[{	"arName":"الدورا هاوس مصر للاثاث والمفروشات والمراتب",
+	"enName":"Aldora House Misr For Furniture, Bedding & Mattresses",
+	"hotlone":"16285",
+	"arCategory":[
+		"مفروشات"
+	],
+	"enCategories":[
+		"Bedding"
+	],
+	"contacts":[
+		{	"profileId":"145795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aldora-house-misr-for-furniture,-bedding-&-mattresses/145795?b=1&k=16285&l=search",
+	"arName":"81 ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"81 Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"440107",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aldora-house-misr-for-furniture,-bedding-&-mattresses/440107?b=5&k=16285&l=search",
+	"arName":"132 أ ش الهرم, الهرم, الجيزة",
+	"enName":"132 A Haram St., El haram, Giza"
+},
+		{	"profileId":"460071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aldora-house-misr-for-furniture,-bedding-&-mattresses/460071?b=6&k=16285&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"440106",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aldora-house-misr-for-furniture,-bedding-&-mattresses/440106?b=4&k=16285&l=search",
+	"arName":"11 عمارات رامو - ش عمر بن الخطاب متفرع من ش احمد فخرى, مصر الجديدة, القاهرة",
+	"enName":"11 Ramo Bldgs., Omar Ibn El Khattab St. Off Ahmed Fakhry St., Heliopolis, Cairo"
+},
+		{	"profileId":"388288",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aldora-house-misr-for-furniture,-bedding-&-mattresses/388288?b=3&k=16285&l=search",
+	"arName":"5 عمارات الميريلاند - ش جسر السويس, جسر السويس, القاهرة",
+	"enName":"5 El Merryland Bldgs., Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"440103",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aldora-house-misr-for-furniture,-bedding-&-mattresses/440103?b=2&k=16285&l=search",
+	"arName":"امتداد ش مكرم عبيد, مدينة نصر, القاهرة",
+	"enName":"Extension Of Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"145782",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aldora-house-misr-for-furniture,-bedding-&-mattresses/145782?b=7&k=16285&l=search",
+	"arName":"القطعة 18- بلوك 22006 - - المنطقة الصناعية ب, ج, مدينة العبور, القليوبية",
+	"enName":"Plot 18, Block 22006, , Industrial Zone B, C, Obour city, Kaliobeya"
+}
+	]
+}]}

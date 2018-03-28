@@ -1,0 +1,288 @@
+{"items":[{	"arName":"معمار المرشدى",
+	"enName":"Memaar Al Morshedy",
+	"hotlone":"19086",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"456787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/456787?b=10&k=19086&l=search",
+	"arName":"الطريق الدائرى, المعادى, القاهرة",
+	"enName":"Ring Rd., Maadi, Cairo"
+},
+		{	"profileId":"456766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/456766?b=13&k=19086&l=search",
+	"arName":"12 ش ابراهيم تقاطع ش الاهرام - الدور 1, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"12 Ibrahim St. Intersection Of El Ahram St., Floor 1, El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"456748",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/456748?b=25&k=19086&l=search",
+	"arName":"31 ش جامعة الدول العربية - الدور 1, المهندسين, الجيزة",
+	"enName":"31 Gamaet El Dewal El Arabeya St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"563209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/563209?b=19&k=19086&l=search",
+	"arName":"1 /2 ش اللاسلكى تقاطع ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"1 /2 El Laselky St. Intersection Of El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"160660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/160660?b=28&k=19086&l=search",
+	"arName":"56 ش مصدق - الدور 3 شقة 8, الدقى, الجيزة",
+	"enName":"56 Mossadak St., Floor 3 Flat 8, Dokki, Giza"
+},
+		{	"profileId":"577591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/577591?b=20&k=19086&l=search",
+	"arName":"122 ش عثمان بن عفان ميدان الكلية الحربية - الدور 1, مصر الجديدة, القاهرة",
+	"enName":"122 Othman Ibn Affan St. El Koleya El Harbeya Sq., Floor 1, Heliopolis, Cairo"
+},
+		{	"profileId":"577595",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/577595?b=21&k=19086&l=search",
+	"arName":"ش الجمهورية - برج اللؤلؤة الادارى - الدور 2, اسيوط, اسيوط",
+	"enName":"EL Gomhoureya St., El Loualoaa Administrative Tower, Floor 2, Assyout, Assyout"
+},
+		{	"profileId":"254468",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/254468?b=26&k=19086&l=search",
+	"arName":"132 أ ش الهرم, الكوم الاخضر, الهرم, الجيزة",
+	"enName":"132 A Haram St., El Koum El Akhdar, El haram, Giza"
+},
+		{	"profileId":"143348",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/143348?b=14&k=19086&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"577603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/577603?b=22&k=19086&l=search",
+	"arName":"4 ش سعد زغلول, الزقازيق, الشرقية",
+	"enName":"4 Saad Zaghloul St., El zagazig, El sharkeya"
+},
+		{	"profileId":"47233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/47233?b=9&k=19086&l=search",
+	"arName":"فيلا 12 - ش 150 ميدان الحرية 2, المعادى, القاهرة",
+	"enName":"Villa 12, Rd. 150 El Horreya Sq. 2, Maadi, Cairo"
+},
+		{	"profileId":"167715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/167715?b=12&k=19086&l=search",
+	"arName":"67 ش الحرية, الماظة, مصر الجديدة, القاهرة",
+	"enName":"67 El Horreya St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"295803",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/295803?b=15&k=19086&l=search",
+	"arName":"39 ش عباس العقاد - الدور 2, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"39 Abbas El Akkad St., Floor 2, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"213773",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/213773?b=27&k=19086&l=search",
+	"arName":"8 ابراج السرايا - المحور المركزى - الدور 1 شقة 1, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"enName":"8 El Saraya Towers, Central Spine, Floor 1 Flat 1, 8th District, 6th of october, Giza"
+},
+		{	"profileId":"456736",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/456736?b=24&k=19086&l=search",
+	"arName":"ش الجمهورية تقاطع ش محمد فتحى - برج السوسن بلازا - الدور 2, المنصورة, الدقهلية",
+	"enName":"El Gomhoureya St. Intersection Of Mohamed Fathy St., El Sawsan Plaza Tower, Floor 2, El mansoura, El dakahleya"
+},
+		{	"profileId":"438804",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/438804?b=23&k=19086&l=search",
+	"arName":"85 ش فيصل, حسن محمد, فيصل, الجيزة",
+	"enName":"85 Faisal St., Hassan Mohamed, Faisal, Giza"
+},
+		{	"profileId":"254497",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/254497?b=18&k=19086&l=search",
+	"arName":"5 ابراج اغاخان - ش دولتيان, اغاخان, القاهرة",
+	"enName":"5 Aghakhan Towers, Dawletian St., Aghakhan, Cairo"
+},
+		{	"profileId":"456781",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/456781?b=11&k=19086&l=search",
+	"arName":"فيلا 60 - ش النهضة, سرايات المعادى, المعادى, القاهرة",
+	"enName":"Villa 60, El Nahda St., Sarayat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"456784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/456784?b=17&k=19086&l=search",
+	"arName":"10 ش 9 ميدان النافورة, المقطم, القاهرة",
+	"enName":"10 Rd. 9 El Nafoura Sq., Mokattam, Cairo"
+},
+		{	"profileId":"456741",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-morshedy/456741?b=16&k=19086&l=search",
+	"arName":"47 ش المنيل - الدور 1 شقة 4, المنيل, القاهرة",
+	"enName":"47 Manial St., Floor 1 Flat 4, El manyal, Cairo"
+}
+	]
+}, {	"arName":"دجلة فيو",
+	"enName":"Degla View",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"372989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/degla-view/372989?b=6&k=19086&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"enName":"Ring Rd., El katameya, Cairo"
+}
+	]
+}, {	"arName":"دجلة جاردنز مول",
+	"enName":"Degla Gardens Mall",
+	"hotlone":"19086",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"388175",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/degla-gardens-mall/388175?b=4&k=19086&l=search",
+	"arName":"طريق مصر الفيوم, السادس من اكتوبر, الجيزة",
+	"enName":"Misr El Fayoum Rd., 6th of october, Giza"
+}
+	]
+}, {	"arName":"جراند جيت",
+	"enName":"Grand Gate",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"372985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-gate/372985?b=7&k=19086&l=search",
+	"arName":"الطريق الدائرى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Ring Rd., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"معادى جراند سيتى",
+	"enName":"Maadi Grand City",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"370104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maadi-grand-city/370104?b=8&k=19086&l=search",
+	"arName":"الطريق الدائرى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Ring Rd., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"دجلة بالمز",
+	"enName":"Degla Palms",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"365849",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/degla-palms/365849?b=5&k=19086&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+}
+	]
+}, {	"arName":"وان قطامية",
+	"enName":"One Kattameya",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"418899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/one-kattameya/418899?b=29&k=19086&l=search",
+	"arName":"الطريق الدائرى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ريحانة ريزيدنس",
+	"enName":"Rayhanah Residence",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"372992",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rayhanah-residence/372992?b=31&k=19086&l=search",
+	"arName":"القطعة د - طريق الزهراء الرئيسى الشطر الاول, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Plot D, El Zahraa Main Rd. 1St Sector, Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"بافاريا تاون",
+	"enName":"Bavaria Town",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"370098",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavaria-town/370098?b=1&k=19086&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"enName":"Ring Rd., El katameya, Cairo"
+}
+	]
+}, {	"arName":"كريستال بلازا",
+	"enName":"Crystal Plaza",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"372979",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/crystal-plaza/372979?b=2&k=19086&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"enName":"Ring Rd., El katameya, Cairo"
+}
+	]
+}, {	"arName":"ريحانة بلازا",
+	"enName":"Rayhanah Plaza",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"399913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rayhanah-plaza/399913?b=30&k=19086&l=search",
+	"arName":"ش زهراء المعادى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Zahraa El Maadi St., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"دجلة جاردنز",
+	"enName":"Degla Gardens",
+	"hotlone":"19086",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"365850",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/degla-gardens/365850?b=3&k=19086&l=search",
+	"arName":"طريق مصر الفيوم, السادس من اكتوبر, الجيزة",
+	"enName":"Misr El Fayoum Rd., 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مالفيرن كولج مصر",
+	"enName":"Malvern College Egypt",
+	"hotlone":"19198",
+	"arCategory":[
+		"مدارس دولية"
+	],
+	"enCategories":[
+		"Schools - International"
+	],
+	"contacts":[
+		{	"profileId":"477990",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/malvern-college-egypt/477990?b=1&k=19198&l=search",
+	"arName":"القطعة B2، B3 - الطريق الدائرى - المنطقة الاستثمارية, القطامية, القاهرة",
+	"enName":"Plot B2, B3, Ring Rd., Investment Zone, El katameya, Cairo"
+},
+		{	"profileId":"564063",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/malvern-college-egypt/564063?b=2&k=19198&l=search",
+	"arName":"خدمة العملاء, القطامية, القاهرة",
+	"enName":"Customer Service, El katameya, Cairo"
+}
+	]
+}]}

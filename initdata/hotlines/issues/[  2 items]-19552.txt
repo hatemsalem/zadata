@@ -1,0 +1,38 @@
+{"items":[{	"arName":"مركز ايجيهارت",
+	"enName":"Egy Heart Center",
+	"hotlone":"19552",
+	"arCategory":[
+		"اطباء"
+	],
+	"enCategories":[
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"521363",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-heart-center/521363?b=1&k=19552&l=search",
+	"arName":"2 ش سمير مختار تقاطع ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"2 Samir Mokhtar St. Intersection Of Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"مستشفى الجولف الدولى",
+	"enName":"Golf International Hospital",
+	"hotlone":"19552",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"423316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-international-hospital/423316?b=3&k=19552&l=search",
+	"arName":"خدمة طوارئ, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"Emergency Service, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"423311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-international-hospital/423311?b=2&k=19552&l=search",
+	"arName":"2 ش سمير مختار تقاطع ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"2 Samir Mokhtar St. Intersection Of Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

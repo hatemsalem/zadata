@@ -1,0 +1,27 @@
+{"items":[{	"arName":"بى اند جى - بروكتر وجامبل مصر",
+	"enName":"P & G - Procter & Gamble Egypt",
+	"hotlone":"16136",
+	"arCategory":[
+		"منظفات وصابون"
+	],
+	"enCategories":[
+		"Detergents & Soaps"
+	],
+	"contacts":[
+		{	"profileId":"474113",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/p-&-g-_-procter-&-gamble-egypt/474113?b=1&k=16136&l=search",
+	"arName":"ش التسعين - مبنى 1, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., Bldg. 1, Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"135365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/p-&-g-_-procter-&-gamble-egypt/135365?b=3&k=16136&l=search",
+	"arName":"المنطقة الصناعية الرابعة, السادس من اكتوبر, الجيزة",
+	"enName":"4th Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"131380",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/p-&-g-_-procter-&-gamble-egypt/131380?b=2&k=16136&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

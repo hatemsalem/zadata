@@ -1,0 +1,17 @@
+{"items":[{	"arName":"صحبة للسياحة",
+	"enName":"Sohba Tours",
+	"hotlone":"16926",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"454023",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sohba-tours/454023?b=1&k=16926&l=search",
+	"arName":"خدمة العملاء, المنصورة, الدقهلية",
+	"enName":"Customer Service, El mansoura, El dakahleya"
+}
+	]
+}]}

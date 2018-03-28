@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الهيئة العامة للنظافة والتجميل - الجيزة",
+	"enName":"General Authority For Cleanness & Beautification - Giza",
+	"hotlone":"16809",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"514423",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-authority-for-cleanness-&-beautification-_-giza/514423?b=2&k=16809&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"350024",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-authority-for-cleanness-&-beautification-_-giza/350024?b=1&k=16809&l=search",
+	"arName":"114 ش السودان, المهندسين, الجيزة",
+	"enName":"114 Sudan St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,91 @@
+{"items":[{	"arName":"شاورما الريم",
+	"enName":"Shawerma El Reem",
+	"hotlone":"16068",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"354648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/354648?b=10&k=16068&l=search",
+	"arName":"94 ش وادى النيل, المهندسين, الجيزة",
+	"enName":"94 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"403269",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/403269?b=2&k=16068&l=search",
+	"arName":"36 ش الاهرام, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"36 El Ahram St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"354653",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/354653?b=14&k=16068&l=search",
+	"arName":"32 ش الهرم - مدينة بيتكو, مشعل, الهرم, الجيزة",
+	"enName":"32 Haram St., Betco City, Mashaal, El haram, Giza"
+},
+		{	"profileId":"372857",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/372857?b=15&k=16068&l=search",
+	"arName":"كم 82.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 82.5,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"353366",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/353366?b=4&k=16068&l=search",
+	"arName":"29 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"29 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"447000",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/447000?b=13&k=16068&l=search",
+	"arName":"كم 105 - طريق اسكندرية مطروح الصحراوى - مارينا 3, مارينا, الساحل الشمالى",
+	"enName":"Km 105, Alex Matrouh Desert Rd., Marina 3, Marina, North coast"
+},
+		{	"profileId":"173816",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/173816?b=1&k=16068&l=search",
+	"arName":"145 ش النزهة, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"145 El Nozha St., Saint Fatima, Heliopolis, Cairo"
+},
+		{	"profileId":"354711",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/354711?b=8&k=16068&l=search",
+	"arName":"4 ب عمارات الشرق للتأمين -, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"4 B El Sharq Lel Taamin Bldgs.,, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"398092",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/398092?b=3&k=16068&l=search",
+	"arName":"5 عمارات مصر للتعمير - ش انقرة, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"5 Misr Lel Taamir Bldgs., Anqara St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"227660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/227660?b=7&k=16068&l=search",
+	"arName":"6 ش حافظ رمضان متفرع من ش احمد فخرى, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"6 Hafez Ramadan St. Off Ahmed Fakhry St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"177777",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/177777?b=5&k=16068&l=search",
+	"arName":"76 ش عبد العزيز فهمى, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"76 Abdel Aziz Fahmy St., Saint Fatima, Heliopolis, Cairo"
+},
+		{	"profileId":"474224",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/474224?b=6&k=16068&l=search",
+	"arName":"ش 9 - المنطقة ج, المقطم, القاهرة",
+	"enName":"Rd. 9, Zone C, Mokattam, Cairo"
+},
+		{	"profileId":"438764",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/438764?b=11&k=16068&l=search",
+	"arName":"1 ش الدقى, الدقى, الجيزة",
+	"enName":"1 Dokki St., Dokki, Giza"
+},
+		{	"profileId":"398087",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/398087?b=12&k=16068&l=search",
+	"arName":"122 ش الجيش, حى الافرنج, الاسماعيلية",
+	"enName":"122 El Guish St., El afrang district, Ismaileya"
+},
+		{	"profileId":"454523",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-el-reem/454523?b=9&k=16068&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Saint Fatima, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,27 @@
+{"items":[{	"arName":"كرمة العقارية",
+	"enName":"Karma Developments",
+	"hotlone":"19569",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"552289",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/karma-developments/552289?b=2&k=19569&l=search",
+	"arName":"1 ش محيى الدين عبد الحميد متفرع من ش عباس العقاد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"1 Mohy El Din Abdel Hamid St. Off Abbas El Akkad St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"552264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/karma-developments/552264?b=3&k=19569&l=search",
+	"arName":"فيلا 95 - ش التسعين الجنوبى - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 95, El Tesaeen El Ganouby St., 1St District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"552284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/karma-developments/552284?b=1&k=19569&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

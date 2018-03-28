@@ -1,0 +1,26 @@
+{"items":[{	"arName":"شارع الاكل",
+	"enName":"Shar3 El Akl",
+	"hotlone":"19875",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"545920",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shar3-el-akl/545920?b=2&k=19875&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"545918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shar3-el-akl/545918?b=1&k=19875&l=search",
+	"arName":"218 ش النزهة, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"218 El Nozha St., Hegaz Square, Heliopolis, Cairo"
+}
+	]
+}]}

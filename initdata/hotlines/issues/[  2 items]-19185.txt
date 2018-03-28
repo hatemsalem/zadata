@@ -1,0 +1,138 @@
+{"items":[{	"arName":"برناسوس للادوات المكتبية والاجهزة المساحية",
+	"enName":"Bernasos Stationery, Office Supplies & Surveying",
+	"hotlone":"19185",
+	"arCategory":[
+		"ادوات مكتبية"
+	],
+	"enCategories":[
+		"Stationery"
+	],
+	"contacts":[
+		{	"profileId":"134545",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/134545?b=23&k=19185&l=search",
+	"arName":"15 ش احمد عرابى, المهندسين, الجيزة",
+	"enName":"15 Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"134546",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/134546?b=4&k=19185&l=search",
+	"arName":"7 ش السلطان شعبان تقاطع ش سراج الدين, الفجالة, القاهرة",
+	"enName":"7 El Sultan Shaaban St. Intersection Of Serag El Din St., Faggala, Cairo"
+},
+		{	"profileId":"134547",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/134547?b=14&k=19185&l=search",
+	"arName":"15 ش سيزوستريس متفرع من ش صلاح سالم, محطة الرمل, الاسكندرية",
+	"enName":"15 Sizostris St. Off Salah Salem St., Raml station, Alexandria"
+},
+		{	"profileId":"164934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/164934?b=12&k=19185&l=search",
+	"arName":"السوق التجارى - محل 268, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Shop 268, Al rehab city, Cairo"
+},
+		{	"profileId":"134544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/134544?b=1&k=19185&l=search",
+	"arName":"القطعة 59 - المجاورة الاولى - ميدان الحصرى, الحى الثانى, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 59, 1St Neighborhood, El Hosary Sq., 2nd District, 6th of october, Giza"
+},
+		{	"profileId":"483519",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/483519?b=5&k=19185&l=search",
+	"arName":"9457 س ش كريم بنونة متفرع من ش 9 - الهضبة العليا, المقطم, القاهرة",
+	"enName":"9457 S Karim Bannouna St. Off Rd. 9, Upper Hill, Mokattam, Cairo"
+},
+		{	"profileId":"200416",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/200416?b=16&k=19185&l=search",
+	"arName":"127 عمارات مصر للتأمين - - المنطقة المركزية - محل 2, دمياط الجديدة, دمياط",
+	"enName":"127 Misr Lel Taamin Bldgs., , Central Zone, Shop 2, New damietta, Damietta"
+},
+		{	"profileId":"495427",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/495427?b=10&k=19185&l=search",
+	"arName":"القطعة د - طريق الزهراء الرئيسى الشطر الاول, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Plot D, El Zahraa Main Rd. 1St Sector, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"495405",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/495405?b=15&k=19185&l=search",
+	"arName":"ش نور الايمان متفرع من ش المدينة المنورة, الاقصر, الاقصر",
+	"enName":"Nour El Eman St. Off El Madina El Monawara St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"495439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/495439?b=11&k=19185&l=search",
+	"arName":"9 ش الروضة - مركز المدينة الاول, مدينة الشروق, القاهرة",
+	"enName":"9 El Rawda St., 1St City Center, El sherouk city, Cairo"
+},
+		{	"profileId":"569020",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/569020?b=22&k=19185&l=search",
+	"arName":"سور مركز الشباب - الخارجة - ش جمال عبد الناصر, الخارجة, الوادى الجديد",
+	"enName":"Youth Center - El Kharga Wall, Gamal Abdel Nasser St., El kharga, El wadi el gadid"
+},
+		{	"profileId":"147147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/147147?b=8&k=19185&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"259824",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/259824?b=17&k=19185&l=search",
+	"arName":"الاردنية, العاشر من رمضان, الشرقية",
+	"enName":"El Ordoneya, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"569021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/569021?b=18&k=19185&l=search",
+	"arName":"طريق ميت خاقان, شبين الكوم, المنوفية",
+	"enName":"Meet Khaqan Rd., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"200393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/200393?b=13&k=19185&l=search",
+	"arName":"39 ش الجمهورية, حى الشرق, بور سعيد",
+	"enName":"39 El Gomhoureya St., El shark district, Port said"
+},
+		{	"profileId":"83285",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/83285?b=9&k=19185&l=search",
+	"arName":"72 ش ذاكر حسين, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"72 Zaker Hussein St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"494739",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/494739?b=19&k=19185&l=search",
+	"arName":"78 ش الجمهورية - برج المروة, حى شرق, اسيوط",
+	"enName":"78 El Gomhoureya St., El Marwa Tower, Shark district, Assyout"
+},
+		{	"profileId":"55844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/55844?b=3&k=19185&l=search",
+	"arName":"28 ش شريف, وسط البلد, القاهرة",
+	"enName":"28 Sherif St., Downtown, Cairo"
+},
+		{	"profileId":"495410",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/495410?b=20&k=19185&l=search",
+	"arName":"القطعة 20 - - منطقة الارسال التلفزيونى, حى النور, شرم الشيخ",
+	"enName":"Plot 20, , Television Transmitter Zone, El nour district, Sharm el sheikh"
+},
+		{	"profileId":"495434",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/495434?b=21&k=19185&l=search",
+	"arName":"64 ش ترسا, الكوم الاخضر, الهرم, الجيزة",
+	"enName":"64 Tersa St., El Koum El Akhdar, El haram, Giza"
+},
+		{	"profileId":"495424",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/495424?b=6&k=19185&l=search",
+	"arName":"13 ش اسماعيل المازنى متفرع من ش عمار بن ياسر, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"13 Ismail El Mazny St. Off Amar Ibn Yasser St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"83284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/83284?b=7&k=19185&l=search",
+	"arName":"30 ش شريف, وسط البلد, القاهرة",
+	"enName":"30 Sherif St., Downtown, Cairo"
+}
+	]
+}, {	"arName":"اكاديمية برناسوس",
+	"enName":"Bernasos Academy",
+	"hotlone":"19185",
+	"arCategory":[
+		"فنون وحرف ومستلزمات"
+	],
+	"enCategories":[
+		"Arts, Crafts & Supplies"
+	],
+	"contacts":[
+		{	"profileId":"513341",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-academy/513341?b=2&k=19185&l=search",
+	"arName":"القطعة 59 - المجاورة الاولى - ميدان الحصرى - الدور 4, الحى الثانى, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 59, 1St Neighbourhood, El Hosary Sq., Floor 4, 2nd District, 6th of october, Giza"
+}
+	]
+}]}

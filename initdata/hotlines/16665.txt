@@ -1,0 +1,27 @@
+{"items":[{	"arName":"فاروس القابضة للاستثمارات المالية",
+	"enName":"Pharos Holding For Financial Investments",
+	"hotlone":"16665",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"281359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharos-holding-for-financial-investments/281359?b=3&k=16665&l=search",
+	"arName":"7 ش ابو الفدا, الزمالك, القاهرة",
+	"enName":"7 Abou El Feda St., Zamalek, Cairo"
+},
+		{	"profileId":"205386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharos-holding-for-financial-investments/205386?b=2&k=16665&l=search",
+	"arName":"70 عمارة التوفيقية - ش عباس العقاد - الدور 6, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"70 El Tawfiqeya Bldg., Abbas El Akkad St., Floor 6, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"187552",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharos-holding-for-financial-investments/187552?b=1&k=16665&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"enName":"Customer Service, Zamalek, Cairo"
+}
+	]
+}]}

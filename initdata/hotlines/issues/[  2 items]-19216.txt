@@ -1,0 +1,33 @@
+{"items":[{	"arName":"فيراندا سهل حشيش",
+	"enName":"Veranda Sahl Hashish",
+	"hotlone":"19216",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"466476",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/veranda-sahl-hashish/466476?b=2&k=19216&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}, {	"arName":"فيراندا ريزورت سهل حشيش",
+	"enName":"Veranda Resort Sahl Hasheesh",
+	"hotlone":"19216",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"465922",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/veranda-resort-sahl-hasheesh/465922?b=1&k=19216&l=search",
+	"arName":"طريق الغردقة سفاجا, سهل حشيش, الغردقة",
+	"enName":"Hurghada Safaga Rd., Sahl hashish, Hurghada"
+}
+	]
+}]}

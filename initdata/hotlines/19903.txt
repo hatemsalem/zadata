@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ترومان الكترونيك",
+	"enName":"Truman Electronic",
+	"hotlone":"19903",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"145621",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/truman-electronic/145621?b=2&k=19903&l=search",
+	"arName":"خدمة العملاء, باب اللوق, القاهرة",
+	"enName":"Customer Service, Bab el louk, Cairo"
+},
+		{	"profileId":"145602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/truman-electronic/145602?b=1&k=19903&l=search",
+	"arName":"174 ش التحرير, باب اللوق, القاهرة",
+	"enName":"174 El Tahrir St., Bab el louk, Cairo"
+}
+	]
+}]}

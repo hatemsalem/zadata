@@ -1,0 +1,47 @@
+{"items":[{	"arName":"ايه ام جى - الغلبان جروب",
+	"enName":"AMG - El Ghalban Group",
+	"hotlone":"19025",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"461060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/461060?b=5&k=19025&l=search",
+	"arName":"امتداد ش جيهان - حى الجامعة, المنصورة, الدقهلية",
+	"enName":"Extension Of Gihan St., El Gamaa District, El mansoura, El dakahleya"
+},
+		{	"profileId":"461075",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/461075?b=3&k=19025&l=search",
+	"arName":"خدمة العملاء, الهايكستب, القاهرة",
+	"enName":"Customer Service, Highkestep, Cairo"
+},
+		{	"profileId":"447309",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/447309?b=4&k=19025&l=search",
+	"arName":"كم 19 - طريق مصر اسماعيلية الصحراوى, الهايكستب, القاهرة",
+	"enName":"Km 19, Misr Ismaileya Desert Rd., Highkestep, Cairo"
+},
+		{	"profileId":"461050",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/461050?b=7&k=19025&l=search",
+	"arName":"129 ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"129 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"133173",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/133173?b=6&k=19025&l=search",
+	"arName":"42 ش عبد السلام عارف, المنصورة, الدقهلية",
+	"enName":"42 Abdel Salam Aref St., El mansoura, El dakahleya"
+},
+		{	"profileId":"45294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/45294?b=1&k=19025&l=search",
+	"arName":"1377 ابراج اغاخان - كورنيش النيل, شبرا, القاهرة",
+	"enName":"1377 Aghakhan Towers, Corniche El Nil, Shoubra, Cairo"
+},
+		{	"profileId":"461044",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/461044?b=2&k=19025&l=search",
+	"arName":"74 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"74 El Merghany St., Heliopolis, Cairo"
+}
+	]
+}]}

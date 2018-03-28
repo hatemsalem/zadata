@@ -1,0 +1,22 @@
+{"items":[{	"arName":"حمزة اخوان للتوريدات",
+	"enName":"Hamza Brothers Supplies",
+	"hotlone":"16865",
+	"arCategory":[
+		"مواسير وانابيب وخطوط انابيب"
+	],
+	"enCategories":[
+		"Pipes, Tubes & Pipelines"
+	],
+	"contacts":[
+		{	"profileId":"490099",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hamza-brothers-supplies/490099?b=1&k=16865&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"5538",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hamza-brothers-supplies/5538?b=2&k=16865&l=search",
+	"arName":"62 ش محيى الدين ابو العز, الدقى, الجيزة",
+	"enName":"62 Mohy El Din Abou El Ezz St., Dokki, Giza"
+}
+	]
+}]}

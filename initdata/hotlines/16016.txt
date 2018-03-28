@@ -1,0 +1,32 @@
+{"items":[{	"arName":"منلو",
+	"enName":"Minlo",
+	"hotlone":"16016",
+	"arCategory":[
+		"مياه معالجة"
+	],
+	"enCategories":[
+		"Water Treatment"
+	],
+	"contacts":[
+		{	"profileId":"143297",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/minlo/143297?b=3&k=16016&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"327837",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/minlo/327837?b=4&k=16016&l=search",
+	"arName":"عمارات الصيادلة - ش مسجد حاتم, سموحة, الاسكندرية",
+	"enName":"El Sayadla Bldgs., Masged Hatem St., Semouha, Alexandria"
+},
+		{	"profileId":"131080",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/minlo/131080?b=1&k=16016&l=search",
+	"arName":"17 ش جوزيف تيتو, النزهة الجديدة, القاهرة",
+	"enName":"17 Joseph Tito St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"327820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/minlo/327820?b=2&k=16016&l=search",
+	"arName":"8 ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"8 Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

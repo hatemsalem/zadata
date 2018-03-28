@@ -1,0 +1,17 @@
+{"items":[{	"arName":"الحاوى لتجارة السيارات",
+	"enName":"El Hawi For Cars Trade",
+	"hotlone":"16251",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"428922",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hawi-for-cars-trade/428922?b=1&k=16251&l=search",
+	"arName":"48 ش الطيران, مدينة نصر, القاهرة",
+	"enName":"48 El Tayaran St., Nasr city, Cairo"
+}
+	]
+}]}

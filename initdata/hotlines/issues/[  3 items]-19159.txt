@@ -1,0 +1,96 @@
+{"items":[{	"arName":"السويدى اليكتريك القابضة",
+	"enName":"El Sewedy Electric Holding",
+	"hotlone":"19159",
+	"arCategory":[
+		"كابلات واسلاك",
+		"كهرباء والكترونيات اجهزة ومعدات"
+	],
+	"enCategories":[
+		"Cable & Wire",
+		"Electric & Electronic Devices"
+	],
+	"contacts":[
+		{	"profileId":"286573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/286573?b=9&k=19159&l=search",
+	"arName":"4 ش عبد الحق السنباطى, العتبة, القاهرة",
+	"enName":"4 Abdel Haq El Sonbaty St., Ataba, Cairo"
+},
+		{	"profileId":"152647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/152647?b=11&k=19159&l=search",
+	"arName":"66 ش السبع بنات, المنشية, الاسكندرية",
+	"enName":"66 El Sabaa Banat St., El mansheya, Alexandria"
+},
+		{	"profileId":"141233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/141233?b=5&k=19159&l=search",
+	"arName":"6 ش سيبويه المصرى متفرع من ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"6 Sibawayh El Masry St. Off El Tayaran st., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"166868",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/166868?b=6&k=19159&l=search",
+	"arName":"21 ش كليوباترا, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"21 Cleopatra St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"62830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/62830?b=8&k=19159&l=search",
+	"arName":"14 ش سراى الازبكية متفرع من ش عماد الدين, وسط البلد, القاهرة",
+	"enName":"14 Saray El Azbakeya St. Off Emad El Din St., Downtown, Cairo"
+},
+		{	"profileId":"179239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/179239?b=7&k=19159&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"437111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/437111?b=4&k=19159&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"148363",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/148363?b=10&k=19159&l=search",
+	"arName":"القطعة 27 - قطاع 1, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 27, Sector 1, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"السويدى اليكتريك",
+	"enName":"El Sewedy Electric",
+	"hotlone":"19159",
+	"arCategory":[
+		"كابلات واسلاك"
+	],
+	"enCategories":[
+		"Cable & Wire"
+	],
+	"contacts":[
+		{	"profileId":"181997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric/181997?b=2&k=19159&l=search",
+	"arName":"14 ش البيدق, العتبة, القاهرة",
+	"enName":"14 El Baidaq St., Ataba, Cairo"
+},
+		{	"profileId":"159328",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric/159328?b=3&k=19159&l=search",
+	"arName":"المنطقة الصناعية الثالثة, العاشر من رمضان, الشرقية",
+	"enName":"3rd Industrial Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"176221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric/176221?b=1&k=19159&l=search",
+	"arName":"4 ميدان عرابى , وسط البلد, القاهرة",
+	"enName":"4 Orabi Sq., Downtown, Cairo"
+}
+	]
+}, {	"arName":"المتحدة للمعادن",
+	"enName":"United Metals",
+	"hotlone":"19159",
+	"arCategory":[
+		"كابلات واسلاك"
+	],
+	"enCategories":[
+		"Cable & Wire"
+	],
+	"contacts":[
+		{	"profileId":"80240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-metals/80240?b=12&k=19159&l=search",
+	"arName":"تقسيم ارض شريف - المنطقة الصناعية الثالثة A3, العاشر من رمضان, الشرقية",
+	"enName":"Ard Sherif Division, 3rd Industrial Zone A3, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

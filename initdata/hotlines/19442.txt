@@ -1,0 +1,32 @@
+{"items":[{	"arName":"الطيار ترافيل جروب",
+	"enName":"Al Tayyar Travel Group",
+	"hotlone":"19442",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"563432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tayyar-travel-group/563432?b=4&k=19442&l=search",
+	"arName":"4 ش عبد الحميد بدوى متفرع من ش القائد ابراهيم, محطة الرمل, الاسكندرية",
+	"enName":"4 Abdel Hamid Badawy St. Off El Qaed Ibrahim St., Raml station, Alexandria"
+},
+		{	"profileId":"563431",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tayyar-travel-group/563431?b=2&k=19442&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"563427",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tayyar-travel-group/563427?b=3&k=19442&l=search",
+	"arName":"7, 9 ميدان اسوان, المهندسين, الجيزة",
+	"enName":"7, 9 Aswan Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"58749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tayyar-travel-group/58749?b=1&k=19442&l=search",
+	"arName":"5 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"5 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}]}

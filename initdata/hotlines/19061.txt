@@ -1,0 +1,36 @@
+{"items":[{	"arName":"طبالى",
+	"enName":"Tabali",
+	"hotlone":"19061",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"580577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tabali/580577?b=3&k=19061&l=search",
+	"arName":"20 ش محمد المرعشلى تقاطع ش احمد حشمت, الزمالك, القاهرة",
+	"enName":"20 Mohamed El Maraashly St. Intersection Of Ahmed Heshmat St., Zamalek, Cairo"
+},
+		{	"profileId":"449915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tabali/449915?b=1&k=19061&l=search",
+	"arName":"القطعة 106 - القطاع التجارى الاول - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 106, 1St Commercial Sector, City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"522433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tabali/522433?b=4&k=19061&l=search",
+	"arName":"18 ش نزيه خليفة, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"18 Nazih Khalifa St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"548312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tabali/548312?b=2&k=19061&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

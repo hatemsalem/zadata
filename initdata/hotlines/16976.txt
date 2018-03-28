@@ -1,0 +1,22 @@
+{"items":[{	"arName":"انترافريكا ترافل",
+	"enName":"Interafrica Travel",
+	"hotlone":"16976",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"460714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/interafrica-travel/460714?b=1&k=16976&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"150089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/interafrica-travel/150089?b=2&k=16976&l=search",
+	"arName":"6 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"6 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,27 @@
+{"items":[{	"arName":"ساينس اير",
+	"enName":"Science Air",
+	"hotlone":"19748",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"546235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/science-air/546235?b=2&k=19748&l=search",
+	"arName":"9 ش محمد درى باشا, لوران, الاسكندرية",
+	"enName":"9 Mohamed Dorry Pasha St., Loran, Alexandria"
+},
+		{	"profileId":"546233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/science-air/546233?b=3&k=19748&l=search",
+	"arName":"خدمة العملاء, المريوطية, فيصل, الجيزة",
+	"enName":"Customer Service, El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"546230",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/science-air/546230?b=1&k=19748&l=search",
+	"arName":"ش المريوطية, المريوطية, فيصل, الجيزة",
+	"enName":"El Mariouteya St., El Mariouteya, Faisal, Giza"
+}
+	]
+}]}

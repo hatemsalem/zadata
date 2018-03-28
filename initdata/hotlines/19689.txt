@@ -1,0 +1,36 @@
+{"items":[{	"arName":"ان سيزون",
+	"enName":"Inseason",
+	"hotlone":"19689",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"543599",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inseason/543599?b=3&k=19689&l=search",
+	"arName":"82 ش 9, المعادى, القاهرة",
+	"enName":"82 Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"506351",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inseason/506351?b=4&k=19689&l=search",
+	"arName":"88 ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"88 El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"452773",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inseason/452773?b=1&k=19689&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"451918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inseason/451918?b=2&k=19689&l=search",
+	"arName":"3 ش اسماعيل محمد متفرع من ش ابن النبيه, الزمالك, القاهرة",
+	"enName":"3 Ismail Mohamed St. Off Ibn El Nabih St., Zamalek, Cairo"
+}
+	]
+}]}

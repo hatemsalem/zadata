@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ام ار سى - مركز مصر للاشعة",
+	"enName":"MRC - Misr Radiology Center",
+	"hotlone":"19773",
+	"arCategory":[
+		"اشعة مراكز"
+	],
+	"enCategories":[
+		"Radiology"
+	],
+	"contacts":[
+		{	"profileId":"441557",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mrc-_-misr-radiology-center/441557?b=1&k=19773&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"73890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mrc-_-misr-radiology-center/73890?b=2&k=19773&l=search",
+	"arName":"8 ش الخليفة المأمون - الدور 1, منشية البكرى, مصر الجديدة, القاهرة",
+	"enName":"8 El Khalifa El Maamoun St., Floor 1, Mansheyet El Bakry, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,27 @@
+{"items":[{	"arName":"صيدلية عبد الجواد",
+	"enName":"Abdel Gawad Pharmacy",
+	"hotlone":"19272",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"552302",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abdel-gawad-pharmacy/552302?b=2&k=19272&l=search",
+	"arName":"المنطقة السياحية الاولى, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"1St Touristic Zone, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"552287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abdel-gawad-pharmacy/552287?b=1&k=19272&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"Home Delivery, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"439674",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abdel-gawad-pharmacy/439674?b=3&k=19272&l=search",
+	"arName":"محور 26 يوليو, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"26th Of July Spine, El Motamayez District, 6th of october, Giza"
+}
+	]
+}]}

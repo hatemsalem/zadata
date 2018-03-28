@@ -1,0 +1,195 @@
+{"items":[{	"arName":"بنك بلوم مصر",
+	"enName":"Blom Bank Egypt",
+	"hotlone":"19233",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"267788",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/267788?b=21&k=19233&l=search",
+	"arName":"410 ش الهرم, نصر الدين, الهرم, الجيزة",
+	"enName":"410 Haram St., Nasr El Din, El haram, Giza"
+},
+		{	"profileId":"57043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/57043?b=15&k=19233&l=search",
+	"arName":"54 ش لبنان, المهندسين, الجيزة",
+	"enName":"54 Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"83829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/83829?b=23&k=19233&l=search",
+	"arName":"1 ش سليمان يسرى - ش باتريس لومومبا سابقا, باب شرق, الاسكندرية",
+	"enName":"1 Soliman Yousry St. - Patrice Lumumba St. Previously, Bab shark, Alexandria"
+},
+		{	"profileId":"465216",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/465216?b=25&k=19233&l=search",
+	"arName":"30 ش مصدق, الدقى, الجيزة",
+	"enName":"30 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"83826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/83826?b=1&k=19233&l=search",
+	"arName":"31 ش الحجاز, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"31 El Hegaz St., El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"136618",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/136618?b=16&k=19233&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"149010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/149010?b=3&k=19233&l=search",
+	"arName":"20 ش الخليفة المأمون, منشية البكرى, مصر الجديدة, القاهرة",
+	"enName":"20 El Khalifa El Maamoun St., Mansheyet El Bakry, Heliopolis, Cairo"
+},
+		{	"profileId":"145671",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/145671?b=4&k=19233&l=search",
+	"arName":"109 ش العباسية, عباسية, القاهرة",
+	"enName":"109 Abbaseya St., Abbasseya, Cairo"
+},
+		{	"profileId":"149011",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/149011?b=19&k=19233&l=search",
+	"arName":"15 ش 144 متفرع من ش ترعة الاسماعيلية, طريق البلاجات, الاسماعيلية",
+	"enName":"15 Rd. 144 Off Teraet El Ismaileya St., Beaches rd., Ismaileya"
+},
+		{	"profileId":"249143",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/249143?b=5&k=19233&l=search",
+	"arName":"17 ش الجمهورية, وسط البلد, القاهرة",
+	"enName":"17 El Gomhoureya St., Downtown, Cairo"
+},
+		{	"profileId":"83831",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/83831?b=24&k=19233&l=search",
+	"arName":"7 عمارات اكا - ش الميناء, سقالة, الغردقة",
+	"enName":"7 Aka Bldgs., El Minaa St., Sekala, Hurghada"
+},
+		{	"profileId":"574833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/574833?b=29&k=19233&l=search",
+	"arName":"القطعة الثانية - طريق الشباب, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"2nd Plot, El Shabab Rd., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"149009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/149009?b=6&k=19233&l=search",
+	"arName":"1 ش كليوباترا تقاطع ش رمسيس, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"1 Cleopatra St. Intersection Of Ramsis St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"312219",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/312219?b=28&k=19233&l=search",
+	"arName":"37 ش الجمهورية تقاطع ش الجبرتى, حى الشرق, بور سعيد",
+	"enName":"37 El Gomhoureya St. Intersection Of El Gabarty St., El shark district, Port said"
+},
+		{	"profileId":"394984",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/394984?b=9&k=19233&l=search",
+	"arName":"61 ش التسعين قطاع 1 - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"61 El Tesaeen St. Sector 1, City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"149042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/149042?b=20&k=19233&l=search",
+	"arName":"64 ش محيى الدين ابو العز, الدقى, الجيزة",
+	"enName":"64 Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"149045",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/149045?b=2&k=19233&l=search",
+	"arName":"17 /5 ش النصر تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"17 /5 El Nasr St. El Laselky Division, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"149001",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/149001?b=10&k=19233&l=search",
+	"arName":"233 ش شبرا ميدان الخلفاوى, شبرا, القاهرة",
+	"enName":"233 Shoubra St. El Khalafawy Sq., Shoubra, Cairo"
+},
+		{	"profileId":"83821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/83821?b=12&k=19233&l=search",
+	"arName":"273 طريق الحرية, سبورتنج, الاسكندرية",
+	"enName":"273 El Horreya Rd., Sporting, Alexandria"
+},
+		{	"profileId":"142065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/142065?b=18&k=19233&l=search",
+	"arName":"17 ش بورسعيد, الشاطبى, الاسكندرية",
+	"enName":"17 Port Said St., El shatby, Alexandria"
+},
+		{	"profileId":"143831",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/143831?b=8&k=19233&l=search",
+	"arName":"4 ش 269 متفرع من ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"4 Rd. 269 Off El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"149017",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/149017?b=22&k=19233&l=search",
+	"arName":"1 ش كورنيش النيل - برج الشرق للتأمين, دمياط, دمياط",
+	"enName":"1 Corniche El Nil St., El Sharq Lel Taamin Tower, Damietta, Damietta"
+},
+		{	"profileId":"149018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/149018?b=26&k=19233&l=search",
+	"arName":"414 ش جمال عبد الناصر تقاطع ش نعمة الله - برج مكة, المندرة البحرية, الاسكندرية",
+	"enName":"414 Gamal Abdel Nasser St. Intersection Of Neamatullah St., Mekka Tower, El mandara el bahareya, Alexandria"
+},
+		{	"profileId":"143832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/143832?b=27&k=19233&l=search",
+	"arName":"المحور المركزى - المجاورة الاولى - مركز المدينة التجارى, الحى الرابع, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 1St Neighbourhood, Commercial City Center, 4th District, 6th of october, Giza"
+},
+		{	"profileId":"83820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/83820?b=11&k=19233&l=search",
+	"arName":"15 ش ابو الفدا, الزمالك, القاهرة",
+	"enName":"15 Abou El Feda St., Zamalek, Cairo"
+},
+		{	"profileId":"171986",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/171986?b=17&k=19233&l=search",
+	"arName":"9 ميدان عرابى, المنشية, الاسكندرية",
+	"enName":"9 Orabi Sq., El mansheya, Alexandria"
+},
+		{	"profileId":"143833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/143833?b=13&k=19233&l=search",
+	"arName":"35 ش سعد زغلول - توريل, المنصورة, الدقهلية",
+	"enName":"35 Saad Zaghloul St., Toril, El mansoura, El dakahleya"
+},
+		{	"profileId":"120833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/120833?b=7&k=19233&l=search",
+	"arName":"طريق النصر, مدينة نصر, القاهرة",
+	"enName":"El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"249151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt/249151?b=14&k=19233&l=search",
+	"arName":"طريق السلام, خليج نعمة, شرم الشيخ",
+	"enName":"El Salam Rd., Naama bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"بنك بلوم مصر - ماكينة الصراف الالى",
+	"enName":"Blom Bank Egypt - ATM",
+	"hotlone":"19233",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"185648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt-_-atm/185648?b=34&k=19233&l=search",
+	"arName":"طريق رأس البر, دمياط, دمياط",
+	"enName":"Ras El Bar Rd., Damietta, Damietta"
+},
+		{	"profileId":"170527",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt-_-atm/170527?b=31&k=19233&l=search",
+	"arName":"ش جوزيف تيتو, النزهة الجديدة, القاهرة",
+	"enName":"Joseph Tito St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"170521",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt-_-atm/170521?b=30&k=19233&l=search",
+	"arName":"ش الجلاء, وسط البلد, القاهرة",
+	"enName":"El Galaa St., Downtown, Cairo"
+},
+		{	"profileId":"185519",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt-_-atm/185519?b=32&k=19233&l=search",
+	"arName":"المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"1St Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"185516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blom-bank-egypt-_-atm/185516?b=33&k=19233&l=search",
+	"arName":"المنطقة الصناعية الثالثة, العاشر من رمضان, الشرقية",
+	"enName":"3rd Industrial Zone, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

@@ -1,0 +1,71 @@
+{"items":[{	"arName":"بكين",
+	"enName":"Peking",
+	"hotlone":"16078",
+	"arCategory":[
+		"مطاعم صينية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Chinese Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"106178",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/106178?b=8&k=16078&l=search",
+	"arName":"., مارينا, الساحل الشمالى",
+	"enName":"., Marina, North coast"
+},
+		{	"profileId":"358136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/358136?b=7&k=16078&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"85669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/85669?b=9&k=16078&l=search",
+	"arName":"26 ش الاطباء متفرع من ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"enName":"26 El Atebaa St. Off Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+},
+		{	"profileId":"515943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/515943?b=10&k=16078&l=search",
+	"arName":"كم 148 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 148,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"103430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/103430?b=3&k=16078&l=search",
+	"arName":"15 ش د. عزت سلامة متفرع من ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"15 Dr. Ezzat Salama St. Off Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"407406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/407406?b=1&k=16078&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"60465",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/60465?b=2&k=16078&l=search",
+	"arName":"29 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"29 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"85674",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/85674?b=6&k=16078&l=search",
+	"arName":"115 ش عثمان بن عفان, تريومف, مصر الجديدة, القاهرة",
+	"enName":"115 Othman Ibn Affan St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"286858",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/286858?b=4&k=16078&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Home Delivery, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"85673",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/85673?b=5&k=16078&l=search",
+	"arName":"23 ب ش اسماعيل محمد, الزمالك, القاهرة",
+	"enName":"23 B Ismail Mohamed St., Zamalek, Cairo"
+},
+		{	"profileId":"395938",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/peking/395938?b=11&k=16078&l=search",
+	"arName":"القطعة 33 - المجاورة السادسة - الحى الرابع, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 33, 6th Neighbourhood, 4th District, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

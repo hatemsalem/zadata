@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الوعد للانشاءات والاستثمارات العقارية",
+	"enName":"El Waad For Construction & Real Estate Investments",
+	"hotlone":"16183",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"201290",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-waad-for-construction-&-real-estate-investments/201290?b=1&k=16183&l=search",
+	"arName":"10 عمارات العبور - طريق صلاح سالم - الدور 10 شقة 4, مدينة نصر, القاهرة",
+	"enName":"10 El Obour Bldgs., Salah Salem Rd., Floor 10 Flat 4, Nasr city, Cairo"
+},
+		{	"profileId":"449654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-waad-for-construction-&-real-estate-investments/449654?b=2&k=16183&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"جافى - الهيئة العامة للاستثمار والمناطق الحرة",
+	"enName":"GAFI - General Authority For Investment & Free Zones",
+	"hotlone":"16035",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"3414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gafi-_-general-authority-for-investment-&-free-zones/3414?b=2&k=16035&l=search",
+	"arName":"3 ش صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"3 Salah Salem St., Nasr city, Cairo"
+},
+		{	"profileId":"187343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gafi-_-general-authority-for-investment-&-free-zones/187343?b=1&k=16035&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"customer serivce, Nasr city, Cairo"
+}
+	]
+}]}

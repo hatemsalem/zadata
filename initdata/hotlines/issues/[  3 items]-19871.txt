@@ -1,0 +1,64 @@
+{"items":[{	"arName":"صيدلية سكاى سنتر",
+	"enName":"Sky Center Pharmacy",
+	"hotlone":"19871",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"257428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sky-center-pharmacy/257428?b=5&k=19871&l=search",
+	"arName":"28 ش مراد, الجيزة, الجيزة",
+	"enName":"28 Mourad St., Giza, Giza"
+},
+		{	"profileId":"257430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sky-center-pharmacy/257430?b=6&k=19871&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الجيزة, الجيزة",
+	"enName":"Home Delivery, Giza, Giza"
+}
+	]
+}, {	"arName":"صيدلية اسلام المهدى",
+	"enName":"Islam El Mahdy Pharmacy",
+	"hotlone":"19871",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"257426",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/islam-el-mahdy-pharmacy/257426?b=3&k=19871&l=search",
+	"arName":"5 ش على جمال الدين متفرع من ش الهرم, الهرم, الجيزة",
+	"enName":"5 Aly Gamal El Din St. Off Haram St., El haram, Giza"
+},
+		{	"profileId":"395723",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/islam-el-mahdy-pharmacy/395723?b=4&k=19871&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الهرم, الجيزة",
+	"enName":"Home Delivery, El haram, Giza"
+}
+	]
+}, {	"arName":"صيدلية المهدى",
+	"enName":"El Mahdy Pharmacy",
+	"hotlone":"19871",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"257416",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mahdy-pharmacy/257416?b=2&k=19871&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, نصر الدين, الهرم, الجيزة",
+	"enName":"Home Delivery, Nasr El Din, El haram, Giza"
+},
+		{	"profileId":"121025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mahdy-pharmacy/121025?b=1&k=19871&l=search",
+	"arName":"434 ش الهرم, نصر الدين, الهرم, الجيزة",
+	"enName":"434 Haram St., Nasr El Din, El haram, Giza"
+}
+	]
+}]}

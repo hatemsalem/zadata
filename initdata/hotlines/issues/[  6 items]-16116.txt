@@ -1,0 +1,102 @@
+{"items":[{	"arName":"اعمار مصر للتنمية",
+	"enName":"Emaar Misr For Development",
+	"hotlone":"16116",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"160646",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/emaar-misr-for-development/160646?b=3&k=16116&l=search",
+	"arName":"ش الاعلاميين متفرع من ش صلاح سالم, المقطم, القاهرة",
+	"enName":"El Ealamyeen st. Off Salah Salem St. , Mokattam, Cairo"
+},
+		{	"profileId":"131977",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/emaar-misr-for-development/131977?b=2&k=16116&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"enName":"Customer Service, Mokattam, Cairo"
+}
+	]
+}, {	"arName":"ميفيدا",
+	"enName":"Mivida",
+	"hotlone":"16116",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"371254",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mivida/371254?b=6&k=16116&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"مراسى",
+	"enName":"Marassi",
+	"hotlone":"16116",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"232629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marassi/232629?b=5&k=16116&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+}
+	]
+}, {	"arName":"ام بوريوم مول",
+	"enName":"M Porium Mall",
+	"hotlone":"16116",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"513136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/m-porium-mall/513136?b=4&k=16116&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+}
+	]
+}, {	"arName":"بيتش كلوب هاوس",
+	"enName":"Beach Club House",
+	"hotlone":"16116",
+	"arCategory":[
+		"نوادى"
+	],
+	"enCategories":[
+		"Clubs"
+	],
+	"contacts":[
+		{	"profileId":"471431",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beach-club-house/471431?b=1&k=16116&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+}
+	]
+}, {	"arName":"اب تاون كايرو",
+	"enName":"Uptown Cairo",
+	"hotlone":"16116",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"371249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uptown-cairo/371249?b=7&k=16116&l=search",
+	"arName":"ش الاعلاميين, المقطم, القاهرة",
+	"enName":"El Ealamyeen St., Mokattam, Cairo"
+}
+	]
+}]}

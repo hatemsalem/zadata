@@ -1,0 +1,27 @@
+{"items":[{	"arName":"البرج العالمية لنقل الاثاث",
+	"enName":"El Borg International",
+	"hotlone":"19887",
+	"arCategory":[
+		"اوناش ورافعات"
+	],
+	"enCategories":[
+		"Forklifts, Cranes & Hoists"
+	],
+	"contacts":[
+		{	"profileId":"471074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-borg-international/471074?b=2&k=19887&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"52985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-borg-international/52985?b=1&k=19887&l=search",
+	"arName":"35 عمارات العبور - طريق صلاح سالم - الدور 12 شقة 1, مصر الجديدة, القاهرة",
+	"enName":"35 El Obour Bldgs., Salah Salem Rd., Floor 12 Flat 1, Heliopolis, Cairo"
+},
+		{	"profileId":"530629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-borg-international/530629?b=3&k=19887&l=search",
+	"arName":"45 ش 314 تقسيم القضاة - برج الصفوة - الدور 2, سموحة, الاسكندرية",
+	"enName":"45 Rd. 314 El Qodah Division, El Safwa Tower, Floor 2, Semouha, Alexandria"
+}
+	]
+}]}

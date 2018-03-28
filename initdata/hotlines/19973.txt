@@ -1,0 +1,77 @@
+{"items":[{	"arName":"بايونيرز لتداول الاوراق المالية",
+	"enName":"Pioneers Securities",
+	"hotlone":"19973",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"154991",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/154991?b=10&k=19973&l=search",
+	"arName":"30 ش جامعة الدول العربية - الدور 8, المهندسين, الجيزة",
+	"enName":"30 Gamaet El Dewal El Arabeya St., Floor 8, Mohandeseen, Giza"
+},
+		{	"profileId":"179185",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/179185?b=4&k=19973&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"482605",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/482605?b=8&k=19973&l=search",
+	"arName":"2 ش عمر بن الخطاب متفرع من ش المشير احمد اسماعيل - برج الحرمين 2, الزقازيق, الشرقية",
+	"enName":"2 Omar Ibn El Khattab St. Off El Moushir Ahmed Ismail St., El Haramain Tower 2, El zagazig, El sharkeya"
+},
+		{	"profileId":"482560",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/482560?b=9&k=19973&l=search",
+	"arName":"42 ش الجيش - برج دلتا سيتى مول, طنطا, الغربية",
+	"enName":"42 El Guish St., Delta City Mall Tower, Tanta, El gharbeya"
+},
+		{	"profileId":"482584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/482584?b=2&k=19973&l=search",
+	"arName":"5 ش وادى النيل, المعادى, القاهرة",
+	"enName":"5 Wadi El Nil St., Maadi, Cairo"
+},
+		{	"profileId":"482872",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/482872?b=6&k=19973&l=search",
+	"arName":"16 ش نهرو, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"16 Nehro St., El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"144052",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/144052?b=7&k=19973&l=search",
+	"arName":"10 ش مصطفى لطفى المنفلوطى, ستانلى, الاسكندرية",
+	"enName":"10 Mostafa Lotfy El Manfloty St., Stanly, Alexandria"
+},
+		{	"profileId":"168961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/168961?b=11&k=19973&l=search",
+	"arName":"98 ش خالد بن الوليد متفرع من ش الجمهورية - برج الامل - الدور 2, حى شرق, اسيوط",
+	"enName":"98 Khaled Ibn El Walid St. Off El Gomhoureya St., El Amal Tower, Floor 2, Shark district, Assyout"
+},
+		{	"profileId":"168936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/168936?b=13&k=19973&l=search",
+	"arName":"10 ش الجيش - برج المغازى, المنصورة, الدقهلية",
+	"enName":"10 El Guish St., El Moghazy Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"68881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/68881?b=1&k=19973&l=search",
+	"arName":"4 ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"4 Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"108208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/108208?b=3&k=19973&l=search",
+	"arName":"18 ش البستان, باب اللوق, القاهرة",
+	"enName":"18 El Bostan St., Bab el louk, Cairo"
+},
+		{	"profileId":"108209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/108209?b=5&k=19973&l=search",
+	"arName":"برج الزينى - طريق مصر حلوان الزراعى - الدور 8, المعادى, القاهرة",
+	"enName":"El Zainy Tower, Misr Helwan Agricultural Rd., Floor 8, Maadi, Cairo"
+},
+		{	"profileId":"345216",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pioneers-securities/345216?b=12&k=19973&l=search",
+	"arName":"ش المدينة المنورة - عمارة د. عباس فريد جرجس - الدور 2, الاقصر, الاقصر",
+	"enName":"El Madina El Monawara St., Dr. Abbas Farid Gerges Bldg., Floor 2, LUXOR, Luxor, Luxor"
+}
+	]
+}]}

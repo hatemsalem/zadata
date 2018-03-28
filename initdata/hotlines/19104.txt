@@ -1,0 +1,42 @@
+{"items":[{	"arName":"فودينا - الاسماعيلية للصناعات الغذائية",
+	"enName":"Foodina - Ismailia Food Industries",
+	"hotlone":"19104",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"147537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/foodina-_-ismailia-food-industries/147537?b=2&k=19104&l=search",
+	"arName":"كم 21 -, طريق اسماعيلية مصر الصحراوى, الاسماعيلية",
+	"enName":"Km 21, , Ism. cairo desert road, Ismaileya"
+},
+		{	"profileId":"258190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/foodina-_-ismailia-food-industries/258190?b=3&k=19104&l=search",
+	"arName":"4 ش تقسيم الياس بلاش متفرع من ش النيل, اسيوط, اسيوط",
+	"enName":"4 taqseem elias balash st. Off El Nil St., Assyout, Assyout"
+},
+		{	"profileId":"147534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/foodina-_-ismailia-food-industries/147534?b=5&k=19104&l=search",
+	"arName":"115 ش السودان, المهندسين, الجيزة",
+	"enName":"115 sudan st., Mohandeseen, Giza"
+},
+		{	"profileId":"258214",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/foodina-_-ismailia-food-industries/258214?b=4&k=19104&l=search",
+	"arName":"115 ب برج الصيادلة - ش الشهيد جلال الدسوقى شقة 314, وابور المياه, الاسكندرية",
+	"enName":"115 B El Sayadla Tower, El Shaheed Galal El Desouqy St. Flat 314, Wabour el mayah, Alexandria"
+},
+		{	"profileId":"258210",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/foodina-_-ismailia-food-industries/258210?b=1&k=19104&l=search",
+	"arName":"194 ش حسن الصياد تقسيم عمر بن الخطاب, جسر السويس, القاهرة",
+	"enName":"194 Hassan El Sayad St. Omar Ibn El Khattab Division, Gesr el suez, Cairo"
+},
+		{	"profileId":"258033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/foodina-_-ismailia-food-industries/258033?b=6&k=19104&l=search",
+	"arName":"خدمة العملاء, طريق اسماعيلية مصر الصحراوى, الاسماعيلية",
+	"enName":"Customer Service, Ism. cairo desert road, Ismaileya"
+}
+	]
+}]}

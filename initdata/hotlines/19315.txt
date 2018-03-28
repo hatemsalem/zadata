@@ -1,0 +1,37 @@
+{"items":[{	"arName":"شركة الصفوة صن ست للاستثمار العقارى",
+	"enName":"Al Safwa Sun Set Co. For Real Estate Investment",
+	"hotlone":"19315",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"515403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safwa-sun-set-co.-for-real-estate-investment/515403?b=4&k=19315&l=search",
+	"arName":"المنطقة المركزية, دمياط الجديدة, دمياط",
+	"enName":"Central Zone, New damietta, Damietta"
+},
+		{	"profileId":"515409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safwa-sun-set-co.-for-real-estate-investment/515409?b=3&k=19315&l=search",
+	"arName":"فيلا 11 - ش 67 متفرع من ش بورسعيد, رأس البر, دمياط",
+	"enName":"Villa 11, Rd. 67 Off Port Said St., Ras el bar, Damietta"
+},
+		{	"profileId":"478732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safwa-sun-set-co.-for-real-estate-investment/478732?b=2&k=19315&l=search",
+	"arName":"القطعة الرابعة - بلوك 12 - ش البطراوى - برج الصفوة, مدينة نصر, القاهرة",
+	"enName":"4th Plot, Block 12, El Batrawy St., El Safwa Tower, Nasr city, Cairo"
+},
+		{	"profileId":"473433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safwa-sun-set-co.-for-real-estate-investment/473433?b=1&k=19315&l=search",
+	"arName":"84 ش قناة السويس, المنصورة, الدقهلية",
+	"enName":"84 Suez Canal St., El mansoura, El dakahleya"
+},
+		{	"profileId":"515408",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-safwa-sun-set-co.-for-real-estate-investment/515408?b=5&k=19315&l=search",
+	"arName":"خدمة العملاء, المنصورة, الدقهلية",
+	"enName":"Customer Service, El mansoura, El dakahleya"
+}
+	]
+}]}

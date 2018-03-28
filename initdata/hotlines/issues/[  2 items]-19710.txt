@@ -1,0 +1,45 @@
+{"items":[{	"arName":"اليكس ويست",
+	"enName":"Alex West",
+	"hotlone":"19710",
+	"arCategory":[
+		"عقارات",
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Real Estate",
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"145070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-west/145070?b=3&k=19710&l=search",
+	"arName":"341 طريق الجيش, جليم, الاسكندرية",
+	"enName":"341 El Guish Rd., Glim, Alexandria"
+},
+		{	"profileId":"115666",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-west/115666?b=1&k=19710&l=search",
+	"arName":"كم 23.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 23.5,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"155629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-west/155629?b=2&k=19710&l=search",
+	"arName":"خدمة العملاء, جليم, الاسكندرية",
+	"enName":"Customer Service, Glim, Alexandria"
+}
+	]
+}, {	"arName":"اليكس ويست شوروم",
+	"enName":"Alex West Showroom",
+	"hotlone":"19710",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"139124",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-west-showroom/139124?b=4&k=19710&l=search",
+	"arName":"سور الحديقة الدولية - , محرم بك, الاسكندرية",
+	"enName":"International Park Wall, , Moharram bey, Alexandria"
+}
+	]
+}]}

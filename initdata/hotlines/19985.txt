@@ -1,0 +1,117 @@
+{"items":[{	"arName":"فيدكس ايجيبت اكسبريس",
+	"enName":"Fedex Egypt Express",
+	"hotlone":"19985",
+	"arCategory":[
+		"بريد سريع خدمات"
+	],
+	"enCategories":[
+		"Courier Services"
+	],
+	"contacts":[
+		{	"profileId":"70787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/70787?b=16&k=19985&l=search",
+	"arName":"الاردنية, العاشر من رمضان, الشرقية",
+	"enName":"El Ordoneya, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"70775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/70775?b=15&k=19985&l=search",
+	"arName":"3 ش صلاح جاهين متفرع من ش احمد عرابى, المهندسين, الجيزة",
+	"enName":"3 Salah Gahin St. Off Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"514573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/514573?b=8&k=19985&l=search",
+	"arName":"ش رشدى, دمياط, دمياط",
+	"enName":"Roshdy St., Damietta, Damietta"
+},
+		{	"profileId":"217411",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/217411?b=14&k=19985&l=search",
+	"arName":"طريق السلام, خليج نعمة, شرم الشيخ",
+	"enName":"El Salam Rd., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"70783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/70783?b=18&k=19985&l=search",
+	"arName":"المحور المركزى - ميدان النجدة - مركز المدينة التجارى, الحى الرابع, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Nagdah Sq., El Madina Commercial Center, 4th District, 6th of october, Giza"
+},
+		{	"profileId":"513204",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/513204?b=20&k=19985&l=search",
+	"arName":"ش صلاح سالم تقاطع ش محمد محمود, حى الشرق, بور سعيد",
+	"enName":"Salah Salem St. Intersection Of Mohamed Mahmoud St., El shark district, Port said"
+},
+		{	"profileId":"453283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/453283?b=6&k=19985&l=search",
+	"arName":"ش جامعة الدول العربية, وسط البلد, القصير",
+	"enName":"Gamaet El Dewal El Arabeya St., Downtown, Quseir"
+},
+		{	"profileId":"103784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/103784?b=3&k=19985&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"134137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/134137?b=13&k=19985&l=search",
+	"arName":"طريق السادات, وسط البلد, اسوان",
+	"enName":"El Sadat Rd., Downtown, Aswan"
+},
+		{	"profileId":"200788",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/200788?b=10&k=19985&l=search",
+	"arName":"6 ش النصر, المنشية, الاسكندرية",
+	"enName":"6 El Nasr St., El mansheya, Alexandria"
+},
+		{	"profileId":"148520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/148520?b=9&k=19985&l=search",
+	"arName":"ش صلاح سالم - المنطقة السادسة, المرماح, بنى سويف",
+	"enName":"Salah Salem St. , 6th Zone, El mermah, Benisuef"
+},
+		{	"profileId":"441783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/441783?b=7&k=19985&l=search",
+	"arName":"316 طريق الحرية, سيدى جابر, الاسكندرية",
+	"enName":"316 El Horreya Rd., Sidi gaber, Alexandria"
+},
+		{	"profileId":"200790",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/200790?b=11&k=19985&l=search",
+	"arName":"10 عمارات الصيادلة - ش مسجد حاتم, سموحة, الاسكندرية",
+	"enName":"10 El Sayadla Bldgs., Masged Hatem St., Semouha, Alexandria"
+},
+		{	"profileId":"2961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/2961?b=4&k=19985&l=search",
+	"arName":"القطعة الثانية - مربع 1258و -, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"2nd Plot, Square 1258w,, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"148579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/148579?b=2&k=19985&l=search",
+	"arName":"17 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"17 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"537748",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/537748?b=17&k=19985&l=search",
+	"arName":"9 ش الجمهورية تقسيم الخياط, اسيوط, اسيوط",
+	"enName":"9 El Gomhoureya St. El Khayyat Division, Assyout, Assyout"
+},
+		{	"profileId":"514536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/514536?b=21&k=19985&l=search",
+	"arName":"17 ش رضا, عرايشية مصر, الاسماعيلية",
+	"enName":"17 Reda St., Araisheyat misr, Ismaileya"
+},
+		{	"profileId":"103779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/103779?b=1&k=19985&l=search",
+	"arName":"17 ش وادى النيل متفرع من ش 151, المعادى, القاهرة",
+	"enName":"17 Wadi El Nil St. Off Rd. 151, Maadi, Cairo"
+},
+		{	"profileId":"217418",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/217418?b=5&k=19985&l=search",
+	"arName":"8 ش الخضر - عمارة محمود الدالى, الغريب, السويس",
+	"enName":"8 El Khedr St., Mahmoud El Daly Bldg., El ghareeb, Suez"
+},
+		{	"profileId":"70779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/70779?b=12&k=19985&l=search",
+	"arName":"طريق الكورنيش, الدهار, الغردقة",
+	"enName":"El Corniche Rd., Dahar, Hurghada"
+},
+		{	"profileId":"328932",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fedex-egypt-express/328932?b=19&k=19985&l=search",
+	"arName":"1 سور نادى بلدية المحلة - ش الجلاء امتداد ش شكرى القواتلى, المحلة الكبرى, الغربية",
+	"enName":"1 Baladeyet El Mahalla Club Wall, El Galaa St. Extension Of Shokry El Qawatly St., El mahalla el kobra, El gharbeya"
+}
+	]
+}]}

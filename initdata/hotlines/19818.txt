@@ -1,0 +1,52 @@
+{"items":[{	"arName":"هدية",
+	"enName":"Hedeya",
+	"hotlone":"19818",
+	"arCategory":[
+		"هدايا محلات"
+	],
+	"enCategories":[
+		"Gift Shops"
+	],
+	"contacts":[
+		{	"profileId":"313349",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hedeya/313349?b=7&k=19818&l=search",
+	"arName":"13 ش نادى الصيد, الدقى, الجيزة",
+	"enName":"13 Nady El Seid St., Dokki, Giza"
+},
+		{	"profileId":"454728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hedeya/454728?b=6&k=19818&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"454716",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hedeya/454716?b=3&k=19818&l=search",
+	"arName":"الطريق الدائرى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"447182",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hedeya/447182?b=4&k=19818&l=search",
+	"arName":"34 ش الحرية متفرع من ش النزهة, مصر الجديدة, القاهرة",
+	"enName":"34 El Horreya St. Off El Nozha St., Heliopolis, Cairo"
+},
+		{	"profileId":"468394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hedeya/468394?b=2&k=19818&l=search",
+	"arName":"الطريق الدائرى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"454725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hedeya/454725?b=5&k=19818&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"427833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hedeya/427833?b=1&k=19818&l=search",
+	"arName":"54 ش المنيل, المنيل, القاهرة",
+	"enName":"54 Manial St., El manyal, Cairo"
+},
+		{	"profileId":"447186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hedeya/447186?b=8&k=19818&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,27 @@
+{"items":[{	"arName":"ميدمارك",
+	"enName":"Medmark",
+	"hotlone":"19247",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"142970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medmark/142970?b=1&k=19247&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"45474",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medmark/45474?b=2&k=19247&l=search",
+	"arName":"44 ش عبد المنعم رياض متفرع من ش البطل احمد عبد العزيز - برج الاطباء, المهندسين, الجيزة",
+	"enName":"44 Abdel Moneim Riad St. Off El Batal Ahmed Abdel Aziz St., El Atebaa Tower, Mohandeseen, Giza"
+},
+		{	"profileId":"400394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medmark/400394?b=3&k=19247&l=search",
+	"arName":"401 طريق الحرية - الدور 3, مصطفى كامل, الاسكندرية",
+	"enName":"401 El Horreya Rd., Floor 3, Mostafa kamel, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الامير للتنمية العقارية",
+	"enName":"Al Amir For Real Estate Development",
+	"hotlone":"19421",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"430369",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-amir-for-real-estate-development/430369?b=2&k=19421&l=search",
+	"arName":"38 ش على امين امتداد ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"enName":"38 Aly Amin St. Extension Of Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"547364",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-amir-for-real-estate-development/547364?b=1&k=19421&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

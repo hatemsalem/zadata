@@ -1,0 +1,47 @@
+{"items":[{	"arName":"اى تى سى - مركز التجارة الدولى",
+	"enName":"ITC - International Trading Center",
+	"hotlone":"19400",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"400627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/400627?b=4&k=19400&l=search",
+	"arName":"98 ش الفيوم, دار السلام, القاهرة",
+	"enName":"98 El Fayoum St., Dar el salam, Cairo"
+},
+		{	"profileId":"126192",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/126192?b=2&k=19400&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"79543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/79543?b=1&k=19400&l=search",
+	"arName":"23 ش محمد المقريفى, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"23 Mohamed El Maqrify St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"45029",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/45029?b=5&k=19400&l=search",
+	"arName":"445 أ ش الهرم, نصر الدين, الهرم, الجيزة",
+	"enName":"445 A Haram St., Nasr El Din, El haram, Giza"
+},
+		{	"profileId":"279171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/279171?b=7&k=19400&l=search",
+	"arName":"ش ترعة المنصورية, المريوطية, الهرم, الجيزة",
+	"enName":"Teraet El Mansoureya St., El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"126190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/126190?b=6&k=19400&l=search",
+	"arName":"14 طريق كفر طهرمس - برج الورد, الطالبية, فيصل, الجيزة",
+	"enName":"14 Kafr Tohormos Rd., El Ward Tower, El Talbeya, Faisal, Giza"
+},
+		{	"profileId":"123489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/123489?b=3&k=19400&l=search",
+	"arName":"24 ش عين شمس, عين شمس, القاهرة",
+	"enName":"24 Ain Shams St., Ain shams, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,32 @@
+{"items":[{	"arName":"انسيا - مصر للتجارة",
+	"enName":"Anasia - Egypt For Trading",
+	"hotlone":"19311",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"542253",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anasia-_-egypt-for-trading/542253?b=4&k=19311&l=search",
+	"arName":"ش ابراهيم شلبى متفرع من ش سامية الجمل - تقسيم سامية الجمل, المنصورة, الدقهلية",
+	"enName":"Ibrahim Shalaby St. Off Samya El Gamal St., Samia El Gamal Division, El mansoura, El dakahleya"
+},
+		{	"profileId":"106559",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anasia-_-egypt-for-trading/106559?b=1&k=19311&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"26205",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anasia-_-egypt-for-trading/26205?b=3&k=19311&l=search",
+	"arName":"23 ش عصام حلمى المصرى متفرع من ش ادموند فيرمونت, سموحة, الاسكندرية",
+	"enName":"23 Essam Helmy El Masry St. Off Edmund Vermont St., Semouha, Alexandria"
+},
+		{	"profileId":"10346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anasia-_-egypt-for-trading/10346?b=2&k=19311&l=search",
+	"arName":"9 ش مصطفى رفعت, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"9 Mostafa Refaat St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

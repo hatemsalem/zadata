@@ -1,0 +1,27 @@
+{"items":[{	"arName":"موتور وان",
+	"enName":"Motor One",
+	"hotlone":"19640",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"151433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/motor-one/151433?b=1&k=19640&l=search",
+	"arName":"7 ش ابراهيم ابو النجا امتداد ش عباس العقاد, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"7 Ibrahim Abou El Naga St. Extension Of Abbas El Akkad St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"475448",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/motor-one/475448?b=2&k=19640&l=search",
+	"arName":"خدمة العملاء, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"475447",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/motor-one/475447?b=3&k=19640&l=search",
+	"arName":"ش البحر, ميت غمر, الدقهلية",
+	"enName":"El Bahr St., Mit ghamr, El dakahleya"
+}
+	]
+}]}

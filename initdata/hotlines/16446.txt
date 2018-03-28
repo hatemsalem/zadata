@@ -1,0 +1,27 @@
+{"items":[{	"arName":"ايه ام فودز",
+	"enName":"AM Foods",
+	"hotlone":"16446",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"256626",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/am-foods/256626?b=2&k=16446&l=search",
+	"arName":"5 عمارات بدر - الطريق الدائرى - الدور 10, زهراء المعادى, المعادى, القاهرة",
+	"enName":"5 Badr Bldgs., Ring Rd., Floor 10, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"428490",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/am-foods/428490?b=1&k=16446&l=search",
+	"arName":"3 ش د. طه حسين تقاطع ش اسماعيل محمد, الزمالك, القاهرة",
+	"enName":"3 Dr. Taha Hussein St. Intersection Of Ismail Mohamed St., Zamalek, Cairo"
+},
+		{	"profileId":"256026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/am-foods/256026?b=3&k=16446&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"الشرطة العسكرية",
+	"enName":"Military Police",
+	"hotlone":"16039",
+	"arCategory":[
+		"ارقام طوارئ"
+	],
+	"enCategories":[
+		"Emergency Numbers"
+	],
+	"contacts":[
+		{	"profileId":"275396",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/military-police/275396?b=1&k=16039&l=search",
+	"arName":"الخط الساخن, مدينة نصر, القاهرة",
+	"enName":"Hot Line, Nasr city, Cairo"
+}
+	]
+}]}

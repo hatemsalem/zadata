@@ -1,0 +1,106 @@
+{"items":[{	"arName":"ارابياتا",
+	"enName":"Arabiata",
+	"hotlone":"16919",
+	"arCategory":[
+		"فول وطعمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Foul & Ta'mya",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"178262",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/178262?b=5&k=16919&l=search",
+	"arName":"منطقة المطاعم, مدينة الرحاب, القاهرة",
+	"enName":"food Court, Al rehab city, Cairo"
+},
+		{	"profileId":"178263",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/178263?b=9&k=16919&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"enName":"Home Delivery, Nasr city, Cairo"
+},
+		{	"profileId":"73621",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/73621?b=3&k=16919&l=search",
+	"arName":"1 ش ابراهيم ميدان الكوربة, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"1 Ibrahim St. El Korba Sq., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"173091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/173091?b=6&k=16919&l=search",
+	"arName":"39 ش الخليفة المأمون تقاطع ش الميرغنى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"39 El Khalifa El Maamoun St. Intersection Of El Merghany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"185086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/185086?b=12&k=16919&l=search",
+	"arName":"17 ش السيد الميرغنى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"17 El Sayed El Merghany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"391843",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/391843?b=4&k=16919&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"448941",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/448941?b=14&k=16919&l=search",
+	"arName":"96 ش التحرير, الدقى, الجيزة",
+	"enName":"96 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"489539",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/489539?b=15&k=16919&l=search",
+	"arName":"ش جامعة الازهر, اسيوط, اسيوط",
+	"enName":"Gamaet El Azhar St., Assyout, Assyout"
+},
+		{	"profileId":"464489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/464489?b=10&k=16919&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"489537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/489537?b=18&k=16919&l=search",
+	"arName":"2 ش جامعة الدول العربية ميدان سفنكس, المهندسين, الجيزة",
+	"enName":"2 Gamaet El Dewal El Arabeya St. Sphinx Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"435180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/435180?b=2&k=16919&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"504831",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/504831?b=11&k=16919&l=search",
+	"arName":"ش الشهيد سيد زكريا, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Shaheed Sayed Zakareya St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"315417",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/315417?b=13&k=16919&l=search",
+	"arName":"17 ش التحرير, الدقى, الجيزة",
+	"enName":"17 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"272374",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/272374?b=16&k=16919&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"489532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/489532?b=17&k=16919&l=search",
+	"arName":"ش البرت الاول, سموحة, الاسكندرية",
+	"enName":"Albert El Awal St., Semouha, Alexandria"
+},
+		{	"profileId":"185084",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/185084?b=7&k=16919&l=search",
+	"arName":"كم 8 - طريق القاهرة السويس الصحراوى - الحى الخامس, مدينة الشروق, القاهرة",
+	"enName":"Km 8, Cairo Suez Desert Rd., 5th District, El sherouk city, Cairo"
+},
+		{	"profileId":"173087",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/173087?b=1&k=16919&l=search",
+	"arName":"1 ش زاكر حسين امتداد ش الطيران, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"1 Zaker Hussein St. Extension Of El Tayaran St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"327436",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/327436?b=8&k=16919&l=search",
+	"arName":"259 ش شبرا الخلفاوى, شبرا, القاهرة",
+	"enName":"259 Shoubra St. El Khalafawy, Shoubra, Cairo"
+}
+	]
+}]}

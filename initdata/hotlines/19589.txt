@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الضحى للمواد الغذائية",
+	"enName":"Al Doha For Food Stuff",
+	"hotlone":"19589",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"464089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-doha-for-food-stuff/464089?b=2&k=19589&l=search",
+	"arName":"المنطقة الصناعية B2, العاشر من رمضان, الشرقية",
+	"enName":"Industrial Zone B2, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-doha-for-food-stuff/543?b=1&k=19589&l=search",
+	"arName":"القطعة 28 ص 1 - - المنطقة الصناعية الاستثمارية, القطامية, القاهرة",
+	"enName":"Plot 28 S1, , Investmental Industrial Zone, El katameya, Cairo"
+}
+	]
+}]}

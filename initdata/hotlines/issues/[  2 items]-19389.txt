@@ -1,0 +1,43 @@
+{"items":[{	"arName":"حوالة للسيراميك والبورسلين",
+	"enName":"Hawala For Ceramic & Porcelain",
+	"hotlone":"19389",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"567844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hawala-for-ceramic-&-porcelain/567844?b=1&k=19389&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}, {	"arName":"يونى كير للرعاية والمراكز الطبية",
+	"enName":"Unicare Medical Care & Centers",
+	"hotlone":"19389",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"522077",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unicare-medical-care-&-centers/522077?b=4&k=19389&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"522079",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unicare-medical-care-&-centers/522079?b=3&k=19389&l=search",
+	"arName":"39 أ عمارات العبور - ش مصطفى كامل تقاطع ش لافيزون, بولكلى, الاسكندرية",
+	"enName":"39 A El Obour Bldgs., Mostafa Kamel St. Intersection Of Lavizone St., Bolkeley, Alexandria"
+},
+		{	"profileId":"522069",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unicare-medical-care-&-centers/522069?b=2&k=19389&l=search",
+	"arName":"زايد 2000 - مجمع الكرمة 1 - المنطقة الادارية - مبنى 101, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Zayed 2000, El Karma1 Compound, Administrative Zone, Bldg. 101, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

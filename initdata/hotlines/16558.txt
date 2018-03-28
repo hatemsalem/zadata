@@ -1,0 +1,17 @@
+{"items":[{	"arName":"شورى للكيماويات",
+	"enName":"Shoura Chemicals",
+	"hotlone":"16558",
+	"arCategory":[
+		"كيماويات"
+	],
+	"enCategories":[
+		"Chemicals"
+	],
+	"contacts":[
+		{	"profileId":"256056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shoura-chemicals/256056?b=1&k=16558&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}]}

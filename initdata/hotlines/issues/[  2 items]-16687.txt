@@ -1,0 +1,67 @@
+{"items":[{	"arName":"حلوانى اكسبشن",
+	"enName":"Exception Pastry & Bakery",
+	"hotlone":"16687",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"517091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry-&-bakery/517091?b=6&k=16687&l=search",
+	"arName":"4 ش المسلة - عمارة مصر للتأمين, المسلة, الفيوم",
+	"enName":"4 El Masalla St., Misr Lel Taamin Bldg., El massalah, El fayoum"
+},
+		{	"profileId":"447615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry-&-bakery/447615?b=7&k=16687&l=search",
+	"arName":"2 ش المنصورية, مشعل, الهرم, الجيزة",
+	"enName":"2 El Mansoureya St., Mashaal, El haram, Giza"
+},
+		{	"profileId":"509407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry-&-bakery/509407?b=4&k=16687&l=search",
+	"arName":"1 /7 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"1 /7 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"447612",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry-&-bakery/447612?b=8&k=16687&l=search",
+	"arName":"المحور المركزى - المجاورة الاولى - عمارة 280, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 1St Neighbourhood, Bldg. 280, 7th District, 6th of october, Giza"
+},
+		{	"profileId":"509404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry-&-bakery/509404?b=5&k=16687&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"Home Delivery, Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"288724",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry-&-bakery/288724?b=1&k=16687&l=search",
+	"arName":"63 أ ش الثروة المعدنية, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"63 A El Tharwa El Maadaneya St., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"447610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry-&-bakery/447610?b=3&k=16687&l=search",
+	"arName":"1 ش ابراهيم ابو النجا متفرع من ش ذاكر حسين, مدينة نصر, القاهرة",
+	"enName":"1 Ibrahim Abou El Naga St. Off Zaker Hussein St., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"حلوانى اكسبشن",
+	"enName":"Exception Pastry",
+	"hotlone":"16687",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"5170913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry/5170913?b=2&k=16687&l=search",
+	"arName":"4 عمارات مصر للتأمين -, المسلة, الفيوم",
+	"enName":"4 Misr Lel Taamin Bldgs.,, El massalah, El fayoum"
+}
+	]
+}]}

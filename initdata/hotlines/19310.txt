@@ -1,0 +1,49 @@
+{"items":[{	"arName":"الشركة المصرية للتصنيع - سيلتال باسيفيك",
+	"enName":"Egyptian Co. For Industry - Siltal Pacific",
+	"hotlone":"19310",
+	"arCategory":[
+		"ثلاجات ومجمدات ومخازن تبريد",
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Refrigerators, Freezers & Cold Storage",
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"323078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-industry-_-siltal-pacific/323078?b=3&k=19310&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"136403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-industry-_-siltal-pacific/136403?b=2&k=19310&l=search",
+	"arName":"20 أ ش المقريزى, منشية البكرى, مصر الجديدة, القاهرة",
+	"enName":"20 A El Maqrizy St., Mansheyet El Bakry, Heliopolis, Cairo"
+},
+		{	"profileId":"440647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-industry-_-siltal-pacific/440647?b=7&k=19310&l=search",
+	"arName":"4 عمارة المهندس محمد والى - ش ويصا واصف, الجيزة, الجيزة",
+	"enName":"4 Eng. Mohamed Waly Bldg., Wissa Wasef St., Giza, Giza"
+},
+		{	"profileId":"150475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-industry-_-siltal-pacific/150475?b=5&k=19310&l=search",
+	"arName":"برج الحقوقيين - ش الهلالى, اسيوط, اسيوط",
+	"enName":"El Hoqoqyeen Tower, El Helaly St., Assyout, Assyout"
+},
+		{	"profileId":"440886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-industry-_-siltal-pacific/440886?b=4&k=19310&l=search",
+	"arName":"8 ش عمار بن ياسر متفرع من ش عمر بن عبد العزيز, طنطا, الغربية",
+	"enName":"8 Ammar Ibn Yasser St. Off Omar Ibn Abdel Aziz St., Tanta, El gharbeya"
+},
+		{	"profileId":"71010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-industry-_-siltal-pacific/71010?b=6&k=19310&l=search",
+	"arName":"المنطقة الصناعية الثالثة, العاشر من رمضان, الشرقية",
+	"enName":"3rd Industrial Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"3617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-industry-_-siltal-pacific/3617?b=1&k=19310&l=search",
+	"arName":"98 ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"98 Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

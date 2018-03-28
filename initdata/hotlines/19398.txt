@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الحياة للتخطيط العمرانى والتنمية",
+	"enName":"Al Hayah Urban Planning & Development",
+	"hotlone":"19398",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"451455",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-hayah-urban-planning-&-development/451455?b=2&k=19398&l=search",
+	"arName":"67 ش فيكتور عمانويل, سموحة, الاسكندرية",
+	"enName":"67 Victor Emanuel St., Semouha, Alexandria"
+},
+		{	"profileId":"451454",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-hayah-urban-planning-&-development/451454?b=1&k=19398&l=search",
+	"arName":"22 ش الطيران, مدينة نصر, القاهرة",
+	"enName":"22 El Tayaran St., Nasr city, Cairo"
+}
+	]
+}]}

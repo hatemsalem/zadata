@@ -1,0 +1,444 @@
+{"items":[{	"arName":"دايس للملابس الداخلية",
+	"enName":"Dice Underwear",
+	"hotlone":"19148",
+	"arCategory":[
+		"ملابس - تسوق",
+		"ملابس - تجار جملة ومصنعون"
+	],
+	"enCategories":[
+		"Clothing - Shopping",
+		"Clothing - Wholesalers & Manufactures"
+	],
+	"contacts":[
+		{	"profileId":"397943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397943?b=4&k=19148&l=search",
+	"arName":"27 امتداد ش 9, حدائق المعادى, المعادى, القاهرة",
+	"enName":"27 Extension Of Rd. 9, Hadayek El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"370624",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370624?b=22&k=19148&l=search",
+	"arName":"92 ش المطراوى ميدان المطرية, المطرية, القاهرة",
+	"enName":"92 El Matarawy St. El Matareya Sq., El matareya, Cairo"
+},
+		{	"profileId":"397949",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397949?b=35&k=19148&l=search",
+	"arName":"294 ش الترعة البولاقية, الساحل, القاهرة",
+	"enName":"294 El Teraa El Boulaqeya St., El sahel, Cairo"
+},
+		{	"profileId":"397906",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397906?b=34&k=19148&l=search",
+	"arName":"187 ش احمد عرابى, عين شمس, القاهرة",
+	"enName":"187 Ahmed Orabi St., Ain shams, Cairo"
+},
+		{	"profileId":"397907",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397907?b=27&k=19148&l=search",
+	"arName":"12 ش الفريد, عزبة النخل, القاهرة",
+	"enName":"12 El Farid St., Ezbet el nakhl, Cairo"
+},
+		{	"profileId":"397900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397900?b=3&k=19148&l=search",
+	"arName":"29 ش نخلة المطيعى, تريومف, مصر الجديدة, القاهرة",
+	"enName":"29 Nakhla El Motaey St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"397945",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397945?b=28&k=19148&l=search",
+	"arName":"79 ش شبرا, شبرا, القاهرة",
+	"enName":"79 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"397901",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397901?b=33&k=19148&l=search",
+	"arName":"30 ش فريد, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"30 Farid St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"397902",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397902?b=26&k=19148&l=search",
+	"arName":"سور دار الدفاع الجوى -, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"Air Defense House Wall,, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"370468",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370468?b=46&k=19148&l=search",
+	"arName":"13 عمارة د. عزمى - ش سوق التلات, القناطر الخيرية, القليوبية",
+	"enName":"13 Dr. Azmy Bldg., Souk El Talat St., El qanatir el khayriyah, Kaliobeya"
+},
+		{	"profileId":"397903",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397903?b=20&k=19148&l=search",
+	"arName":"133 ش مصر والسودان, حدائق القبة, القاهرة",
+	"enName":"133 Misr & Sudan St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"370623",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370623?b=38&k=19148&l=search",
+	"arName":"12 ش الفريد, عزبة النخل, القاهرة",
+	"enName":"12 El Farid St., Ezbet el nakhl, Cairo"
+},
+		{	"profileId":"355592",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355592?b=1&k=19148&l=search",
+	"arName":"9 ش 151 ميدان الحرية, المعادى, القاهرة",
+	"enName":"9 Rd. 151 El Horreya Sq., Maadi, Cairo"
+},
+		{	"profileId":"577588",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/577588?b=6&k=19148&l=search",
+	"arName":"6 أ عمارات الهيئة العربية للتصنيع - ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"6 A Arab Organization For Industrialization Bldgs., Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"355590",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355590?b=19&k=19148&l=search",
+	"arName":"29 برج التوفيق - ش مصطفى كامل متفرع من ش 9, المعادى, القاهرة",
+	"enName":"29 El Tawfiq Tower, Mostafa Kamel St. Off Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"550188",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/550188?b=65&k=19148&l=search",
+	"arName":"25 ش توت عنخ امون متفرع من ش يسرى راغب, حى غرب, اسيوط",
+	"enName":"25 Tut Ankh Amoun St. Off Yousry Ragheb St., Gharb district, Assyout"
+},
+		{	"profileId":"355595",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355595?b=55&k=19148&l=search",
+	"arName":"22 ش يثرب, الدقى, الجيزة",
+	"enName":"22 Yathreb St., Dokki, Giza"
+},
+		{	"profileId":"355552",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355552?b=17&k=19148&l=search",
+	"arName":"180 ش النزهة, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"180 El Nozha St., Saint Fatima, Heliopolis, Cairo"
+},
+		{	"profileId":"398043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398043?b=36&k=19148&l=search",
+	"arName":"1 ش عبد الرحمن عويضة متفرع من ش جمال عبد الناصر, الحرفيين, القاهرة",
+	"enName":"1 Abdel Rahman Ewaida St. Off Gamal Abdel Nasser St., El herafeyeen, Cairo"
+},
+		{	"profileId":"398044",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398044?b=74&k=19148&l=search",
+	"arName":"27 /2 المحور المركزى, السادس من اكتوبر, الجيزة",
+	"enName":"27 /2 Central Spine, 6th of october, Giza"
+},
+		{	"profileId":"370451",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370451?b=45&k=19148&l=search",
+	"arName":"27 تقسيم هـ, سموحة, الاسكندرية",
+	"enName":"27 Division H, Semouha, Alexandria"
+},
+		{	"profileId":"370572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370572?b=85&k=19148&l=search",
+	"arName":"14 ش الثورة - مدينة التعاون, شبرا الخيمة, القليوبية",
+	"enName":"14 El Thawra St., El Taawon City, Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"370452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370452?b=84&k=19148&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"154750",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/154750?b=14&k=19148&l=search",
+	"arName":"29 ش مختار اباظة - المنطقة الصناعية, جسر السويس, القاهرة",
+	"enName":"29 Mokhtar Abaza St., Industrial Zone, Gesr el suez, Cairo"
+},
+		{	"profileId":"397953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397953?b=59&k=19148&l=search",
+	"arName":"2 برج الوفاء - ش كعبيش, الطوابق, فيصل, الجيزة",
+	"enName":"2 El Wafaa Tower, Kaabish St., El Tawabeq, Faisal, Giza"
+},
+		{	"profileId":"370453",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370453?b=66&k=19148&l=search",
+	"arName":"برج الغنيمى - ش الخليفة المأمون, وسط البلد, كفر الشيخ",
+	"enName":"El Ghonaimy Tower, El Khalifa El Maamoun St., Downtown, Kafr el sheikh"
+},
+		{	"profileId":"370498",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370498?b=52&k=19148&l=search",
+	"arName":"32 ش احمد حمادة, شربين, الدقهلية",
+	"enName":"32 Ahmed Hamada St., Sherbin, El dakahleya"
+},
+		{	"profileId":"398046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398046?b=48&k=19148&l=search",
+	"arName":"9 ش ابو بكر الصديق متفرع من ش ناهيا, بولاق الدكرور, الجيزة",
+	"enName":"9 Abou Bakr El Seddik St. Off Nahya St., Boulak el dakrour, Giza"
+},
+		{	"profileId":"398048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398048?b=81&k=19148&l=search",
+	"arName":"1 سور نادى بنها الرياضى - ش الشبان المسلمين, بنها, القليوبية",
+	"enName":"1 Banha Sporting Club Wall, El Shoban El Muslimeen St., Banha, Kaliobeya"
+},
+		{	"profileId":"397950",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397950?b=5&k=19148&l=search",
+	"arName":"24 ش روض الفرج, الساحل, القاهرة",
+	"enName":"24 Road El Farag St., El sahel, Cairo"
+},
+		{	"profileId":"398049",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398049?b=75&k=19148&l=search",
+	"arName":"4 ش امين خيرت الغندور متفرع من ش جمال عبد الناصر, المنتزة, المنتزه, الاسكندرية",
+	"enName":"4 Amin Khairat El Ghandour St. Off Gamal Abde Nasser St., EL MONTAZA, El montazah, Alexandria"
+},
+		{	"profileId":"370459",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370459?b=63&k=19148&l=search",
+	"arName":"ش الاقصر, وسط البلد, قنا",
+	"enName":"Luxor St., Downtown, Qena"
+},
+		{	"profileId":"370537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370537?b=53&k=19148&l=search",
+	"arName":"14 ب ش كورنيش النيل, دمياط, دمياط",
+	"enName":"14 B Corniche El Nil St., Damietta, Damietta"
+},
+		{	"profileId":"355597",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355597?b=2&k=19148&l=search",
+	"arName":"24 ش شريف تقاطع ش رياض, حلوان, القاهرة",
+	"enName":"24 Sherif St. Intersection Of Riad St., Helwan, Cairo"
+},
+		{	"profileId":"397955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397955?b=44&k=19148&l=search",
+	"arName":"296 ش فيصل, فيصل, الجيزة",
+	"enName":"296 Faisal St., Faisal, Giza"
+},
+		{	"profileId":"397957",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397957?b=73&k=19148&l=search",
+	"arName":"1 ج ., حدائق الاهرام, الهرم, الجيزة",
+	"enName":"1 C ., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"355558",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355558?b=10&k=19148&l=search",
+	"arName":"43 ش كليوباترا ميدان صلاح الدين, مصر الجديدة, القاهرة",
+	"enName":"43 Cleopatra St. Salah El Din Sq., Heliopolis, Cairo"
+},
+		{	"profileId":"397958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397958?b=21&k=19148&l=search",
+	"arName":"5 ش محمد سيد احمد تقاطع ش عبد الله, حلوان, القاهرة",
+	"enName":"5 Mohamed Sayed Ahmed St. Intersection Of Abdullah St., Helwan, Cairo"
+},
+		{	"profileId":"442543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/442543?b=29&k=19148&l=search",
+	"arName":"4 أ كورنيش النيل, رملة بولاق, القاهرة",
+	"enName":"4 A Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"398054",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398054?b=40&k=19148&l=search",
+	"arName":"10 برج طيبة - ش الهانوفيل, الهانوفيل, الاسكندرية",
+	"enName":"10 Tiba Tower, El Hannoville St., Hannoville, Alexandria"
+},
+		{	"profileId":"459055",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/459055?b=79&k=19148&l=search",
+	"arName":"ش الامن الغذائى - القومية, الزقازيق, الشرقية",
+	"enName":"El Amn El Ghezaay St., El Qawmeya, El zagazig, El sharkeya"
+},
+		{	"profileId":"398050",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398050?b=82&k=19148&l=search",
+	"arName":"85 ش هليوبوليس, الابراهيمية, الاسكندرية",
+	"enName":"85 Heliopolis St., El ibrahimeya, Alexandria"
+},
+		{	"profileId":"398051",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398051?b=76&k=19148&l=search",
+	"arName":"4 ش البيطاش, البيطاش, الاسكندرية",
+	"enName":"4 El Bitash St., El bitash, Alexandria"
+},
+		{	"profileId":"398052",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398052?b=60&k=19148&l=search",
+	"arName":"1 ش الظاهر, محرم بك, الاسكندرية",
+	"enName":"1 El Zaher St., Moharram bey, Alexandria"
+},
+		{	"profileId":"370484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370484?b=67&k=19148&l=search",
+	"arName":"7 المساكن التعاونية - ش الامن الغذائى - القومية, الزقازيق, الشرقية",
+	"enName":"7 El Taawoneya Bldgs., El Amn El Ghezaay St., El Qawmeya, El zagazig, El sharkeya"
+},
+		{	"profileId":"355607",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355607?b=71&k=19148&l=search",
+	"arName":"12 ز ش الثروة المعدنية, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"12 Z El Tharwa El Maadaneya St., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"355605",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355605?b=39&k=19148&l=search",
+	"arName":"95 ش الهرم - الدور 2, الهرم, الجيزة",
+	"enName":"95 Haram St., Floor 2, El haram, Giza"
+},
+		{	"profileId":"398057",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398057?b=61&k=19148&l=search",
+	"arName":"ش شكرى القواتلى, المحلة الكبرى, الغربية",
+	"enName":"Shokry El Qawatly St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"398059",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398059?b=41&k=19148&l=search",
+	"arName":"ش شيرى, سقالة, الغردقة",
+	"enName":"Sherry St., Sekala, Hurghada"
+},
+		{	"profileId":"397961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397961?b=47&k=19148&l=search",
+	"arName":"18 - مدينة العمال, امبابة, الجيزة",
+	"enName":"18 , El Omal City, Imbaba, Giza"
+},
+		{	"profileId":"355564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355564?b=18&k=19148&l=search",
+	"arName":"4 ش سيد عبد الواحد متفرع من ش ابراهيم اللقانى, مصر الجديدة, القاهرة",
+	"enName":"4 Sayed Abdel Wahed St. Off Ibrahim El Laqqany St., Heliopolis, Cairo"
+},
+		{	"profileId":"370604",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370604?b=37&k=19148&l=search",
+	"arName":"45 ش سليم, الزيتون, القاهرة",
+	"enName":"45 Selim St., El zaytoun, Cairo"
+},
+		{	"profileId":"355367",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355367?b=16&k=19148&l=search",
+	"arName":"خدمة العملاء, جسر السويس, القاهرة",
+	"enName":"Customer Service, Gesr el suez, Cairo"
+},
+		{	"profileId":"355603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355603?b=56&k=19148&l=search",
+	"arName":"151 ش العريش متفرع من ش الهرم, الكوم الاخضر, الهرم, الجيزة",
+	"enName":"151 El Arish St. Off Haram St., El Koum El Akhdar, El haram, Giza"
+},
+		{	"profileId":"370566",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370566?b=69&k=19148&l=search",
+	"arName":"ميدان الثقافة, سوهاج, سوهاج",
+	"enName":"El Thaqafa Sq., Sohag, Sohag"
+},
+		{	"profileId":"355602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355602?b=25&k=19148&l=search",
+	"arName":"277 ش بورسعيد, السيدة زينب, القاهرة",
+	"enName":"277 Port Said St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"577575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/577575?b=54&k=19148&l=search",
+	"arName":"39 ش شهاب, المهندسين, الجيزة",
+	"enName":"39 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"355570",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355570?b=23&k=19148&l=search",
+	"arName":"67 ش هارون الرشيد, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"67 Haroun El Rashid St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"442778",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/442778?b=8&k=19148&l=search",
+	"arName":"50 ش 9, المقطم, القاهرة",
+	"enName":"50 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"398064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398064?b=62&k=19148&l=search",
+	"arName":"ش طه حسين, ارض شلبى, المنيا",
+	"enName":"Taha Hussein St., Ard shalaby, El menia"
+},
+		{	"profileId":"398065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398065?b=49&k=19148&l=search",
+	"arName":"15 ابراج عثمان بن عفان - برج ب - ش الجمهورية, حى شرق, اسيوط",
+	"enName":"15 Othman Ibn Affan Towers - Tower B, El Gomhoureya St., Shark district, Assyout"
+},
+		{	"profileId":"398066",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398066?b=43&k=19148&l=search",
+	"arName":"ش الحرية, ميت غمر, الدقهلية",
+	"enName":"El Horreya St., Mit ghamr, El dakahleya"
+},
+		{	"profileId":"398067",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398067?b=83&k=19148&l=search",
+	"arName":"2 ش احمد شوقى, كفر الدوار, البحيرة",
+	"enName":"2 Ahmed Shawky St., Kafr el dawar, El beheira"
+},
+		{	"profileId":"398061",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398061?b=42&k=19148&l=search",
+	"arName":"4 ش الجلاء البحرى, شبين الكوم, المنوفية",
+	"enName":"4 El Galaa El Bahary St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"398063",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398063?b=77&k=19148&l=search",
+	"arName":"88 ش الجلاء, كفر الزيات, الغربية",
+	"enName":"88 El Galaa St., Kafr el zayat, El gharbeya"
+},
+		{	"profileId":"397896",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397896?b=9&k=19148&l=search",
+	"arName":"45 ش عثمان بن عفان, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"enName":"45 Othman Ibn Affan St., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"370473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370473?b=64&k=19148&l=search",
+	"arName":"168 تقسيم المهندسين - الحى الاول, العاشر من رمضان, الشرقية",
+	"enName":"168 El Mohandeseen Division, 1St District, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"355616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355616?b=13&k=19148&l=search",
+	"arName":". - الدور 1, وسط البلد, القاهرة",
+	"enName":"., Floor 1, Downtown, Cairo"
+},
+		{	"profileId":"397898",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397898?b=32&k=19148&l=search",
+	"arName":"205 ش الحجاز, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"205 El Hegaz St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"370596",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370596?b=86&k=19148&l=search",
+	"arName":"13 ش محمود امين تقاطع ش سليمان جوهر, الدقى, الجيزة",
+	"enName":"13 Mahmoud Amin St. Intersection Of Soliman Gawhar St., Dokki, Giza"
+},
+		{	"profileId":"6264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/6264?b=15&k=19148&l=search",
+	"arName":"5 ش انابيب البترول, جسر السويس, القاهرة",
+	"enName":"5 Anabib El Petrol St., Gesr el suez, Cairo"
+},
+		{	"profileId":"398068",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/398068?b=78&k=19148&l=search",
+	"arName":"38 ش هميمى الجبلاوى, وسط البلد, اسوان",
+	"enName":"38 Hamimy El Gabalawy St., Downtown, Aswan"
+},
+		{	"profileId":"397893",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397893?b=31&k=19148&l=search",
+	"arName":"3 ش بطرس غالى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"3 Botros Ghaly St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"399234",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/399234?b=50&k=19148&l=search",
+	"arName":"51 ش العريش, فيصل, الجيزة",
+	"enName":"51 El Arish St., Faisal, Giza"
+},
+		{	"profileId":"355577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355577?b=51&k=19148&l=search",
+	"arName":"42 ش شهاب, المهندسين, الجيزة",
+	"enName":"42 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"355611",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355611?b=12&k=19148&l=search",
+	"arName":"152 ش سليم الاول - النعام, عين شمس, القاهرة",
+	"enName":"152 Selim El Awal St., El Naam, Ain shams, Cairo"
+},
+		{	"profileId":"355575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355575?b=24&k=19148&l=search",
+	"arName":"32 ش محمد حسنين هيكل, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"32 Mohamed Hassanein Heikal St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"397939",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/397939?b=58&k=19148&l=search",
+	"arName":"73 سور نادى الزمالك -, المهندسين, الجيزة",
+	"enName":"73 Zamalek Club Wall,, Mohandeseen, Giza"
+},
+		{	"profileId":"355614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355614?b=72&k=19148&l=search",
+	"arName":"ش الحلو تقاطع ش على بك الكبير, طنطا, الغربية",
+	"enName":"El Helw St. Intersection Of Aly Bey El Kabir St., Tanta, El gharbeya"
+},
+		{	"profileId":"355615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355615?b=57&k=19148&l=search",
+	"arName":"3 ش اسماعيل سرى, حى الافرنج, الاسماعيلية",
+	"enName":"3 Ismail Serry St., El afrang district, Ismaileya"
+},
+		{	"profileId":"370511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/370511?b=68&k=19148&l=search",
+	"arName":"ش على باشا ابراهيم, المنصورة, الدقهلية",
+	"enName":"Aly Pasha Ibrahim St., El mansoura, El dakahleya"
+},
+		{	"profileId":"355579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355579?b=80&k=19148&l=search",
+	"arName":"42 ش عدن ميدان الحجاز, المهندسين, الجيزة",
+	"enName":"42 Aden St. El Hegaz Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"355613",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355613?b=30&k=19148&l=search",
+	"arName":"79 ش عين شمس, عين شمس, القاهرة",
+	"enName":"79 Ain Shams St., Ain shams, Cairo"
+},
+		{	"profileId":"355584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355584?b=11&k=19148&l=search",
+	"arName":"20 ش المنصور محمد متفرع من ش 26 يوليو, الزمالك, القاهرة",
+	"enName":"20 El Mansour Mohamed St. Off 26Th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"355582",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/355582?b=70&k=19148&l=search",
+	"arName":"18 ش امبابة الرياضى, امبابة, الجيزة",
+	"enName":"18 Imbaba El Riady St., Imbaba, Giza"
+},
+		{	"profileId":"436175",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dice-underwear/436175?b=7&k=19148&l=search",
+	"arName":"15 ش الطاقة, مدينة نصر, القاهرة",
+	"enName":"15 El Taqqa St., Nasr city, Cairo"
+}
+	]
+}]}

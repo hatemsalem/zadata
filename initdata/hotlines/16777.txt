@@ -1,0 +1,42 @@
+{"items":[{	"arName":"البنك المركزى المصرى",
+	"enName":"Central Bank Of Egypt",
+	"hotlone":"16777",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"73306",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/central-bank-of-egypt/73306?b=1&k=16777&l=search",
+	"arName":"147 ش محمد فريد, وسط البلد, القاهرة",
+	"enName":"147 Mohamed Farid St., Downtown, Cairo"
+},
+		{	"profileId":"111158",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/central-bank-of-egypt/111158?b=5&k=16777&l=search",
+	"arName":"3 ش محمود عزمى, العطارين, الاسكندرية",
+	"enName":"3 Mahmoud Azmy St., El attarin, Alexandria"
+},
+		{	"profileId":"164953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/central-bank-of-egypt/164953?b=6&k=16777&l=search",
+	"arName":"90 د عمارات الاوقاف - ش احمد عرابى, المهندسين, الجيزة",
+	"enName":"90 D El Awqaf Bldgs., Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"144816",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/central-bank-of-egypt/144816?b=3&k=16777&l=search",
+	"arName":"خدمة العملاء, العتبة, القاهرة",
+	"enName":"Customer Service, Ataba, Cairo"
+},
+		{	"profileId":"94385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/central-bank-of-egypt/94385?b=4&k=16777&l=search",
+	"arName":"35 ش الجمهورية, حى الشرق, بور سعيد",
+	"enName":"35 El Gomhoureya St., El shark district, Port said"
+},
+		{	"profileId":"8519",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/central-bank-of-egypt/8519?b=2&k=16777&l=search",
+	"arName":"54 ش الجمهورية, العتبة, القاهرة",
+	"enName":"54 El Gomhoureya St., Ataba, Cairo"
+}
+	]
+}]}

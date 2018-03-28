@@ -1,0 +1,29 @@
+{"items":[{	"arName":"بيراميدز هايتس",
+	"enName":"Pyramids Heights",
+	"hotlone":"16800",
+	"arCategory":[
+		"مجمعات سكنية",
+		"عقارات"
+	],
+	"enCategories":[
+		"Residential Compounds",
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"580924",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-heights/580924?b=3&k=16800&l=search",
+	"arName":"كم 22 - , طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 22, , Cairo alex desert rd., Giza"
+},
+		{	"profileId":"580925",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-heights/580925?b=2&k=16800&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"580920",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-heights/580920?b=1&k=16800&l=search",
+	"arName":"كم 22 - - مرتفعات الاهرام - مبنى C2, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 22, , Pyramids Heights, Bldg. C2, Cairo alex desert rd., Giza"
+}
+	]
+}]}

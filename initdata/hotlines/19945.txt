@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المصرية العالمية للطيران",
+	"enName":"Al Masria Universal Airlines",
+	"hotlone":"19945",
+	"arCategory":[
+		"خطوط جوية"
+	],
+	"enCategories":[
+		"Airlines"
+	],
+	"contacts":[
+		{	"profileId":"256987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-masria-universal-airlines/256987?b=2&k=19945&l=search",
+	"arName":"13 ميدان التحرير, وسط البلد, القاهرة",
+	"enName":"13 El Tahrir Sq., Downtown, Cairo"
+},
+		{	"profileId":"452734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-masria-universal-airlines/452734?b=1&k=19945&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

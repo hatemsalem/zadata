@@ -1,0 +1,66 @@
+{"items":[{	"arName":"حلوانى لابوم",
+	"enName":"La Pomme Pastry",
+	"hotlone":"16131",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"463184",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/463184?b=8&k=16131&l=search",
+	"arName":"47 ش الهرم, مشعل, الهرم, الجيزة",
+	"enName":"47 Haram St., Mashaal, El haram, Giza"
+},
+		{	"profileId":"12638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/12638?b=10&k=16131&l=search",
+	"arName":"519 ش الاهرام ميدان الجيزة , الجيزة, الجيزة",
+	"enName":"519 el ahram st. Giza Sq., Giza, Giza"
+},
+		{	"profileId":"463185",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/463185?b=7&k=16131&l=search",
+	"arName":"ش البنوك - مبارك 2, الكوثر, الغردقة",
+	"enName":"El Bonouk St., Mubarak 2, El kawther, Hurghada"
+},
+		{	"profileId":"140485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/140485?b=4&k=16131&l=search",
+	"arName":"المحور المركزى, الحى الثالث, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 3rd District, 6th of october, Giza"
+},
+		{	"profileId":"140486",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/140486?b=6&k=16131&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الجيزة, الجيزة",
+	"enName":"Home Delivery, Giza, Giza"
+},
+		{	"profileId":"74721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/74721?b=2&k=16131&l=search",
+	"arName":"9 ش 159 ميدان الاتحاد, حدائق المعادى, المعادى, القاهرة",
+	"enName":"9 Rd. 159 El Ethad Sq., Hadayek El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"107687",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/107687?b=3&k=16131&l=search",
+	"arName":"386 ش فيصل, مدكور, فيصل, الجيزة",
+	"enName":"386 Faisal St., Madkour, Faisal, Giza"
+},
+		{	"profileId":"74719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/74719?b=1&k=16131&l=search",
+	"arName":"56 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"56 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"74718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/74718?b=5&k=16131&l=search",
+	"arName":"238 ش السودان, المهندسين, الجيزة",
+	"enName":"238 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"189741",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/189741?b=9&k=16131&l=search",
+	"arName":"3 ب ش الثروة المعدنية, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"3 B El Tharwa El Maadaneya St., Hadayek El Ahram, El haram, Giza"
+}
+	]
+}]}

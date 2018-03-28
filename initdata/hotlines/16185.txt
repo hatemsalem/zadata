@@ -1,0 +1,17 @@
+{"items":[{	"arName":"جهاز مدينة الرحاب",
+	"enName":"Al Rehab City Authority",
+	"hotlone":"16185",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"256094",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rehab-city-authority/256094?b=1&k=16185&l=search",
+	"arName":"خدمة الزراعة, مدينة الرحاب, القاهرة",
+	"enName":"Agriculture Service, Al rehab city, Cairo"
+}
+	]
+}]}

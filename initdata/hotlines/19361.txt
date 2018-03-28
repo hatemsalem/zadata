@@ -1,0 +1,67 @@
+{"items":[{	"arName":"قبانى للاثاث",
+	"enName":"Kabbani Furniture",
+	"hotlone":"19361",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"533977",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/533977?b=6&k=19361&l=search",
+	"arName":"كم 92 - طريق السويس الغردقة - الزعفرانة, العين السخنة, العين السخنة",
+	"enName":"Km 92, Suez Hurghada Rd., El Zaafarana, El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"533834",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/533834?b=11&k=19361&l=search",
+	"arName":"ش المنصورية, مشعل, الهرم, الجيزة",
+	"enName":"El Mansoureya St., Mashaal, El haram, Giza"
+},
+		{	"profileId":"533986",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/533986?b=10&k=19361&l=search",
+	"arName":"1 ش فوزى معاذ ميدان الابراهيمية - برج سما سموحة, سموحة, الاسكندرية",
+	"enName":"1 Fawzy Moaz St. El Ibrahimeya Sq., Sama Smouha Tower, Semouha, Alexandria"
+},
+		{	"profileId":"533963",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/533963?b=9&k=19361&l=search",
+	"arName":"ش فيصل - الاريزونا, حسن محمد, فيصل, الجيزة",
+	"enName":"Faisal St., El Arizona, Hassan Mohamed, Faisal, Giza"
+},
+		{	"profileId":"533467",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/533467?b=4&k=19361&l=search",
+	"arName":"خدمة العملاء, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"475997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/475997?b=5&k=19361&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى, مدينة الشروق, القاهرة",
+	"enName":"Misr Ismaileya Desert Rd., El sherouk city, Cairo"
+},
+		{	"profileId":"475960",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/475960?b=1&k=19361&l=search",
+	"arName":"كم 33 - طريق القاهرة السويس, مدينتى, القاهرة",
+	"enName":"Km 33, Cairo Suez Rd., Madinty, Cairo"
+},
+		{	"profileId":"475982",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/475982?b=3&k=19361&l=search",
+	"arName":"منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"475971",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/475971?b=7&k=19361&l=search",
+	"arName":"القطعة 2/48 - المحور المركزى, الحى الخامس, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 2/48, Central Spine, 5th District, 6th of october, Giza"
+},
+		{	"profileId":"405352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/405352?b=2&k=19361&l=search",
+	"arName":"القطعة 11، 12 - المجاورة السابعة - محور مصطفى كامل, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 11, 12, 7th Neighbourhood, Mostafa Kamel Spine, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"476005",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/476005?b=8&k=19361&l=search",
+	"arName":"القطعة 7أ - بلوك 1325 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"Plot A7, Block 1325, , 1St Industrial Zone, Obour city, Kaliobeya"
+}
+	]
+}]}

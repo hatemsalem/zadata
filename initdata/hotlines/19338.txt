@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ايوان للاستثمار والتنمية",
+	"enName":"Iwan For Investment & Development",
+	"hotlone":"19338",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"187041",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iwan-for-investment-&-development/187041?b=1&k=19338&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"117538",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iwan-for-investment-&-development/117538?b=2&k=19338&l=search",
+	"arName":"3 ش الاسماعيلية متفرع من ش ميشيل باخوم, الدقى, الجيزة",
+	"enName":"3 Ismaileya St. Off Micheal Bakhoum St., Dokki, Giza"
+}
+	]
+}]}

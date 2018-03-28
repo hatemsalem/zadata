@@ -1,0 +1,121 @@
+{"items":[{	"arName":"دجاج تكا",
+	"enName":"Chicken Tikka",
+	"hotlone":"19099",
+	"arCategory":[
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"158996",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/158996?b=2&k=19099&l=search",
+	"arName":"9 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"9 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"329758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/329758?b=19&k=19099&l=search",
+	"arName":"ش كورنيش النيل, دمياط, دمياط",
+	"enName":"Corniche El Nil St., Damietta, Damietta"
+},
+		{	"profileId":"392262",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/392262?b=20&k=19099&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"43011",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/43011?b=13&k=19099&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"134158",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/134158?b=7&k=19099&l=search",
+	"arName":"8 /2 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"8 /2 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"165699",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/165699?b=4&k=19099&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"426156",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/426156?b=6&k=19099&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"78860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/78860?b=12&k=19099&l=search",
+	"arName":"47 ش البطل احمد عبد العزيز متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"47 El Batal Ahmed Abdel Aziz St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"387006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/387006?b=17&k=19099&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26Th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"78864",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/78864?b=8&k=19099&l=search",
+	"arName":"44 ش الحجاز, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"enName":"44 El Hegaz St., Heliopolis Square, Heliopolis, Cairo"
+},
+		{	"profileId":"232718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/232718?b=15&k=19099&l=search",
+	"arName":"السوق التجارى - مارينا 4, مارينا, الساحل الشمالى",
+	"enName":"Commercial Market, Marina 4, Marina, North coast"
+},
+		{	"profileId":"78866",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/78866?b=3&k=19099&l=search",
+	"arName":"30 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"30 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"272047",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/272047?b=5&k=19099&l=search",
+	"arName":"41 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"41 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"272069",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/272069?b=9&k=19099&l=search",
+	"arName":"7 ش د. سيد عبد الواحد متفرع من ش ابراهيم اللقانى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"7 Dr. Sayed Abdel Wahed St. Off Ibrahim El Laqqany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"78865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/78865?b=1&k=19099&l=search",
+	"arName":"13 ش الخليفة المأمون - عمارة ال رشدان, روكسى, مصر الجديدة, القاهرة",
+	"enName":"13 El Khalifa El Maamoun St., Al Rashdan Bldg., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"78857",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/78857?b=21&k=19099&l=search",
+	"arName":"7 ش السد العالى متفرع من ش التحرير, الدقى, الجيزة",
+	"enName":"7 El Sad El Aaly St. Off El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"119194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/119194?b=10&k=19099&l=search",
+	"arName":"40 ش الجمهورية - برج الامراء - الدور 2, المنصورة, الدقهلية",
+	"enName":"40 El Gomhoureya St., El Omaraa Tower, Floor 2, El mansoura, El dakahleya"
+},
+		{	"profileId":"78858",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/78858?b=11&k=19099&l=search",
+	"arName":"202 ش الهرم, التعاون, الهرم, الجيزة",
+	"enName":"202 Haram St., El Taawon, El haram, Giza"
+},
+		{	"profileId":"232720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/232720?b=16&k=19099&l=search",
+	"arName":"كم 57.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 57.5,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"101303",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/101303?b=18&k=19099&l=search",
+	"arName":"طريق الجيش, بحرى, الاسكندرية",
+	"enName":"El Guish Rd., Bahary, Alexandria"
+},
+		{	"profileId":"190056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/190056?b=14&k=19099&l=search",
+	"arName":"426 طريق الجيش تقاطع ش شعراوى, لوران, الاسكندرية",
+	"enName":"426 El Guish Rd. Intersectoin Of Shaarawy St., Loran, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"جولدن فايف سيتى",
+	"enName":"Golden 5 City",
+	"hotlone":"16283",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"458725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golden-5-city/458725?b=1&k=16283&l=search",
+	"arName":"37 ش طنطا متفرع من ميدان اسوان, المهندسين, الجيزة",
+	"enName":"37 Tanta St. Off Aswan Sq., Mohandeseen, Giza"
+}
+	]
+}]}

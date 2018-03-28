@@ -1,0 +1,27 @@
+{"items":[{	"arName":"صيدليات د. مروة حسنى",
+	"enName":"Dr. Marwa Hosny Pharmacies",
+	"hotlone":"19252",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"257208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-marwa-hosny-pharmacies/257208?b=2&k=19252&l=search",
+	"arName":"مجمع البنوك - محل 400, مدينة الرحاب, القاهرة",
+	"enName":"Banks Complex, Shop 400, Al rehab city, Cairo"
+},
+		{	"profileId":"257214",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-marwa-hosny-pharmacies/257214?b=3&k=19252&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة الرحاب, القاهرة",
+	"enName":"Home Delivery , Al rehab city, Cairo"
+},
+		{	"profileId":"451314",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-marwa-hosny-pharmacies/451314?b=1&k=19252&l=search",
+	"arName":"القطعة 18 - - منطقة خدمات التجمع الخامس, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 18, , 5th Compound Services Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

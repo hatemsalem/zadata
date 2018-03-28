@@ -1,0 +1,42 @@
+{"items":[{	"arName":"مصاعد اوتيس مصر",
+	"enName":"Otis Elevator Egypt",
+	"hotlone":"16515",
+	"arCategory":[
+		"مصاعد وسلالم متحركة"
+	],
+	"enCategories":[
+		"Elevators & Escalators"
+	],
+	"contacts":[
+		{	"profileId":"2212",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/otis-elevator-egypt/2212?b=1&k=16515&l=search",
+	"arName":"11 ش د. محمد مندور موازى لشارع الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"11 Dr. Mohamed Mandour St. Parallel To El Tayaran St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"449772",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/otis-elevator-egypt/449772?b=4&k=16515&l=search",
+	"arName":"ش الجمهورية - برج اللؤلؤة - الدور 6, اسيوط, اسيوط",
+	"enName":"El Gomhoureya St., El Loualoaa Tower, Floor 6, Assyout, Assyout"
+},
+		{	"profileId":"70529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/otis-elevator-egypt/70529?b=5&k=16515&l=search",
+	"arName":"1 ش حسين حجازى, العطارين, الاسكندرية",
+	"enName":"1 Hussein Hegazy St., El attarin, Alexandria"
+},
+		{	"profileId":"449776",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/otis-elevator-egypt/449776?b=6&k=16515&l=search",
+	"arName":"19 ش الجمهورية تقاطع ش صفية زغلول - الدور 3, حى الشرق, بور سعيد",
+	"enName":"19 El Gomhoureya St. Intersection Of Safeya Zaghloul St., Floor 3, El shark district, Port said"
+},
+		{	"profileId":"146153",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/otis-elevator-egypt/146153?b=2&k=16515&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"419365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/otis-elevator-egypt/419365?b=3&k=16515&l=search",
+	"arName":"ميدان المحطة - برج الكوثر - الدور 7, المنصورة, الدقهلية",
+	"enName":"El Mahatta Sq., El Kawthar Tower, Floor 7, El mansoura, El dakahleya"
+}
+	]
+}]}

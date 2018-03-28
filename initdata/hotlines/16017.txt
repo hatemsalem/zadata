@@ -1,0 +1,27 @@
+{"items":[{	"arName":"ابن سينا فارما",
+	"enName":"Ibn Sina Pharma",
+	"hotlone":"16017",
+	"arCategory":[
+		"ادوية شركات"
+	],
+	"enCategories":[
+		"Pharmaceutical Companies"
+	],
+	"contacts":[
+		{	"profileId":"46954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-sina-pharma/46954?b=2&k=16017&l=search",
+	"arName":"بلوك 12015 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"Block 12015, , 1St Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"80226",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-sina-pharma/80226?b=1&k=16017&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"80225",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-sina-pharma/80225?b=3&k=16017&l=search",
+	"arName":"ش شركة الاخشاب, قليوب, القليوبية",
+	"enName":"Sherket El Akhshab St., Qalyub, Kaliobeya"
+}
+	]
+}]}

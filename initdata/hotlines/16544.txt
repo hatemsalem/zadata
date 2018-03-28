@@ -1,0 +1,36 @@
+{"items":[{	"arName":"تيبيستى",
+	"enName":"Tebesty",
+	"hotlone":"16544",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"175196",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tebesty/175196?b=2&k=16544&l=search",
+	"arName":"30 امتداد ش 26 يوليو - ميدان لبنان, المهندسين, الجيزة",
+	"enName":"30 Extension Of 26th of July St., Lebanon Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"256039",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tebesty/256039?b=4&k=16544&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"490317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tebesty/490317?b=1&k=16544&l=search",
+	"arName":"18 ش ابراهيم متفرع من ش الاهرام, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"18 Ibrahim St. Off El Ahram St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"186037",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tebesty/186037?b=3&k=16544&l=search",
+	"arName":"طريق الجيش - الدور 1, سان استيفانو, الاسكندرية",
+	"enName":"El Guish Rd., Floor 1, San stefano, Alexandria"
+}
+	]
+}]}

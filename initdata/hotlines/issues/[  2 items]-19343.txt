@@ -1,0 +1,48 @@
+{"items":[{	"arName":"عقول",
+	"enName":"Okool",
+	"hotlone":"19343",
+	"arCategory":[
+		"جمعيات ومنظمات"
+	],
+	"enCategories":[
+		"Associations"
+	],
+	"contacts":[
+		{	"profileId":"149007",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/okool/149007?b=2&k=19343&l=search",
+	"arName":"المجاورة الاولى , السادس من اكتوبر, الجيزة",
+	"enName":"1st neighbourhood, 6th of october, Giza"
+},
+		{	"profileId":"148976",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/okool/148976?b=1&k=19343&l=search",
+	"arName":"47 ش احمد قاسم جودة, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"47 Ahmed Qassem Gouda St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"148981",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/okool/148981?b=3&k=19343&l=search",
+	"arName":"12 ش مدكور, الهرم, الجيزة",
+	"enName":"12 Madkour St., El haram, Giza"
+},
+		{	"profileId":"148982",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/okool/148982?b=4&k=19343&l=search",
+	"arName":"خدمة العملاء, الهرم, الجيزة",
+	"enName":"Customer Service, El haram, Giza"
+}
+	]
+}, {	"arName":"وايتي دينتال كلينك - دكتور نور الدين مصطفي",
+	"enName":"Whity Dental Clinic - Dr. Nour El Deen Mostafa",
+	"hotlone":"19343",
+	"arCategory":[
+		"طب اسنان عيادات"
+	],
+	"enCategories":[
+		"Dentist Clinics"
+	],
+	"contacts":[
+		{	"profileId":"567852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/whity-dental-clinic-_-dr.-nour-el-deen-mostafa/567852?b=5&k=19343&l=search",
+	"arName":"123 برج الاميره ديانا - ش حسن المامون, مدينة نصر, القاهرة",
+	"enName":"123 El Amira Diana Tour, Hassan El Mamon St., Nasr city, Cairo"
+}
+	]
+}]}

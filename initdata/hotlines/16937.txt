@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مجموعة صلاح الدين للمقاولات والتنمية العقارية",
+	"enName":"Salah Al Din Group",
+	"hotlone":"16937",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"487493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salah-al-din-group/487493?b=2&k=16937&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"487491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salah-al-din-group/487491?b=1&k=16937&l=search",
+	"arName":"4 ابراج عثمان - فاخر - كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"4 Othman Towers - Luxurious, Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

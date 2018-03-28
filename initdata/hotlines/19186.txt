@@ -1,0 +1,37 @@
+{"items":[{	"arName":"ميجا سكان - حافظ شريف للاشعة",
+	"enName":"Mega Scan - Hafez Sherif Rays",
+	"hotlone":"19186",
+	"arCategory":[
+		"اشعة مراكز"
+	],
+	"enCategories":[
+		"Radiology"
+	],
+	"contacts":[
+		{	"profileId":"502962",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-scan-_-hafez-sherif-rays/502962?b=5&k=19186&l=search",
+	"arName":"القطعة 18 - محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 18, 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"51830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-scan-_-hafez-sherif-rays/51830?b=1&k=19186&l=search",
+	"arName":"180 ش التحرير ميدان الفلكى, باب اللوق, القاهرة",
+	"enName":"180 El Tahrir St. El Falaky Sq., Bab el louk, Cairo"
+},
+		{	"profileId":"558763",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-scan-_-hafez-sherif-rays/558763?b=2&k=19186&l=search",
+	"arName":"خدمة العملاء, باب اللوق, القاهرة",
+	"enName":"Customer Service, Bab el louk, Cairo"
+},
+		{	"profileId":"121847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-scan-_-hafez-sherif-rays/121847?b=3&k=19186&l=search",
+	"arName":"44 ش سوريا, المهندسين, الجيزة",
+	"enName":"44 Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"81924",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-scan-_-hafez-sherif-rays/81924?b=4&k=19186&l=search",
+	"arName":"10 ش مراد, الجيزة, الجيزة",
+	"enName":"10 Mourad St., Giza, Giza"
+}
+	]
+}]}

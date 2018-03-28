@@ -1,0 +1,22 @@
+{"items":[{	"arName":"اب ترن للتطوير العقارى",
+	"enName":"Upturn Real Estate Development",
+	"hotlone":"19316",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"577307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/upturn-real-estate-development/577307?b=2&k=19316&l=search",
+	"arName":"فيلا 120 - - النرجس 5, النرجس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 120, , El Narges 5, Narges, New cairo, Cairo"
+},
+		{	"profileId":"577308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/upturn-real-estate-development/577308?b=1&k=19316&l=search",
+	"arName":"خدمة العملاء, النرجس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, Narges, New cairo, Cairo"
+}
+	]
+}]}

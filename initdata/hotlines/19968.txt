@@ -1,0 +1,17 @@
+{"items":[{	"arName":"سيراميكا رويال",
+	"enName":"Ceramica Royal",
+	"hotlone":"19968",
+	"arCategory":[
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"324785",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-royal/324785?b=1&k=19968&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"customer Service, Obour city, Kaliobeya"
+}
+	]
+}]}

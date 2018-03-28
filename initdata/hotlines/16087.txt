@@ -1,0 +1,42 @@
+{"items":[{	"arName":"ايمكو جروب",
+	"enName":"IEMCO Group",
+	"hotlone":"16087",
+	"arCategory":[
+		"اضاءة انظمة ولمبات ونجف"
+	],
+	"enCategories":[
+		"Lighting Systems, Lamps, Chandeliers & Bulbs"
+	],
+	"contacts":[
+		{	"profileId":"144389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iemco-group/144389?b=1&k=16087&l=search",
+	"arName":"399 ش رمسيس, عباسية, القاهرة",
+	"enName":"399 Ramsis St., Abbasseya, Cairo"
+},
+		{	"profileId":"144386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iemco-group/144386?b=3&k=16087&l=search",
+	"arName":"., المنطقة الصناعية, بور سعيد",
+	"enName":"., Industrial zone, Port said"
+},
+		{	"profileId":"62565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iemco-group/62565?b=2&k=16087&l=search",
+	"arName":"القطعة التاسعة - بلوك 13013 - ش 200 - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"9th Plot, Block 13013, Rd. 200, 1st Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"240728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iemco-group/240728?b=5&k=16087&l=search",
+	"arName":"153 المجاورة الاولى, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"enName":"153 1St Neighbourhood, 8th District, 6th of october, Giza"
+},
+		{	"profileId":"173312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iemco-group/173312?b=4&k=16087&l=search",
+	"arName":"20 ش عيد مصطفى, فيصل, الجيزة",
+	"enName":"20 Eid Mostafa St., Faisal, Giza"
+},
+		{	"profileId":"240699",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iemco-group/240699?b=6&k=16087&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+}
+	]
+}]}

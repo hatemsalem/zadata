@@ -1,0 +1,17 @@
+{"items":[{	"arName":"مركز الحياة الجديدة",
+	"enName":"New Life Center",
+	"hotlone":"19533",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"473291",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-life-center/473291?b=1&k=19533&l=search",
+	"arName":"14 ش معمل الالبان - الخلفاوى, شبرا, القاهرة",
+	"enName":"14 Maamal Al Alban St., Al Khlafawy, Shoubra, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,157 @@
+{"items":[{	"arName":"قناة السويس للتأمين",
+	"enName":"Suez Canal Insurance",
+	"hotlone":"16569",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"199390",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/199390?b=16&k=16569&l=search",
+	"arName":"3 ش عرابى وابو الفدا - الدور 1, الجمهورية, بور سعيد",
+	"enName":"3 Orabi & Abou El Feda St., Floor 1, El gomhoureya, Port said"
+},
+		{	"profileId":"102384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/102384?b=5&k=16569&l=search",
+	"arName":"114 ش التحرير - الدور 6, الدقى, الجيزة",
+	"enName":"114 El Tahrir St., Floor 6, Dokki, Giza"
+},
+		{	"profileId":"391582",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/391582?b=19&k=16569&l=search",
+	"arName":"ش على عيسى متفرع من ش ابطال التحرير, وسط البلد, اسوان",
+	"enName":"Aly Eissa St. Off Abtal El Tahrir St., Downtown, Aswan"
+},
+		{	"profileId":"455590",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/455590?b=28&k=16569&l=search",
+	"arName":"ش الجمهورية - برج العدوى, دمنهور, البحيرة",
+	"enName":"El Gomhoureya St., El Adawy Tower, Damanhour, El beheira"
+},
+		{	"profileId":"561404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/561404?b=13&k=16569&l=search",
+	"arName":"7 ش البرت الاول متفرع من ش فوزى معاذ - برج القصر - الدور 3 شقة 301, سموحة, الاسكندرية",
+	"enName":"7 Albert El Awal St. Off Fawzy Moaz St., El Qasr Tower, Floor 3 Flat 301, Semouha, Alexandria"
+},
+		{	"profileId":"449804",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/449804?b=25&k=16569&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"145543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/145543?b=8&k=16569&l=search",
+	"arName":"3 ش سعد زغلول - الدور 3, بنها, القليوبية",
+	"enName":"3 Saad Zaghloul St., Floor 3, Banha, Kaliobeya"
+},
+		{	"profileId":"199627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/199627?b=11&k=16569&l=search",
+	"arName":"11 - المشروع الاستثمارى الثانى - الاردنية - الدور 2, العاشر من رمضان, الشرقية",
+	"enName":"11 , 2nd Investment Project, El Ordoneya, Floor 2, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"199647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/199647?b=2&k=16569&l=search",
+	"arName":"90 ب ش شبرا - الدور 1, شبرا, القاهرة",
+	"enName":"90 B Shoubra St., Floor 1, Shoubra, Cairo"
+},
+		{	"profileId":"145189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/145189?b=15&k=16569&l=search",
+	"arName":"مبنى هيئة الاستثمار - - المنطقة الحرة, العامرية, الاسكندرية",
+	"enName":"Investment Authority Bldg., , Free Zone, Amreya, Alexandria"
+},
+		{	"profileId":"199608",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/199608?b=9&k=16569&l=search",
+	"arName":"91 ش سعد زغلول - الدور 2, الزقازيق, الشرقية",
+	"enName":"91 Saad Zaghloul St., Floor 2, El zagazig, El sharkeya"
+},
+		{	"profileId":"76467",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/76467?b=18&k=16569&l=search",
+	"arName":"539 ب طريق الحرية - الدور 1, جليم, الاسكندرية",
+	"enName":"539 B El Horreya Rd., Floor 1, Glim, Alexandria"
+},
+		{	"profileId":"240072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/240072?b=1&k=16569&l=search",
+	"arName":"2 ش السيد ابو شادى - الدور 1, تريومف, مصر الجديدة, القاهرة",
+	"enName":"2 El Sayed Abou Shady St., Floor 1, Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"546016",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/546016?b=26&k=16569&l=search",
+	"arName":"20 ش احمد خلاف متفرع من ش عبد المنعم رياض, المهندسين, الجيزة",
+	"enName":"20 Ahmed Khallaf St. Off Abdel Moneim Riad St., Mohandeseen, Giza"
+},
+		{	"profileId":"139993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/139993?b=4&k=16569&l=search",
+	"arName":"15 أ ش الاهرام - الدور 3, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"15 A El Ahram St., Floor 3, El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"18854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/18854?b=7&k=16569&l=search",
+	"arName":"31 ش محمد كامل مرسى متفرع من ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"enName":"31 Mohamed Kamel Morsy St. Off El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"187839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/187839?b=22&k=16569&l=search",
+	"arName":"المجاورة الثانية - عمارة 21ج شقة 2, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"2nd Neighbourhood, Bldg. 21C Flat 2, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"350923",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/350923?b=27&k=16569&l=search",
+	"arName":"128 برج المروة - ش الجمهورية, حى شرق, اسيوط",
+	"enName":"128 El Marwa Tower, El Gomhoureya St., Shark district, Assyout"
+},
+		{	"profileId":"391573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/391573?b=29&k=16569&l=search",
+	"arName":"431 طريق الحرية - الدور 1 شقة 1, رشدى, الاسكندرية",
+	"enName":"431 El Horreya Rd., Floor 1 Flat 1, Roushdy, Alexandria"
+},
+		{	"profileId":"396847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/396847?b=3&k=16569&l=search",
+	"arName":"27 ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"27 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"173429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/173429?b=6&k=16569&l=search",
+	"arName":"10 ش ايران - الدور 1, الدقى, الجيزة",
+	"enName":"10 Iran St., Floor 1, Dokki, Giza"
+},
+		{	"profileId":"199615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/199615?b=10&k=16569&l=search",
+	"arName":"325 ش الجيش - برج الياسمين - الدور 2 شقة 201,202, بور توفيق, السويس",
+	"enName":"325 El Guish St., El Yasmeen Tower, Floor 2 Flat 201,202, Port tawfik, Suez"
+},
+		{	"profileId":"199597",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/199597?b=17&k=16569&l=search",
+	"arName":"144 ش التحرير - الدور 1, حى الافرنج, الاسماعيلية",
+	"enName":"144 El Tahrir St., Floor 1, El afrang district, Ismaileya"
+},
+		{	"profileId":"455713",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/455713?b=20&k=16569&l=search",
+	"arName":"ش جمال عبد الناصر ميدان شرف - برج الكوثر - الدور 5, شبين الكوم, المنوفية",
+	"enName":"Gamal Abdel Nasser St. Sharaf Sq., El Kawthar Tower, Floor 5, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"143932",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/143932?b=21&k=16569&l=search",
+	"arName":"5 أ ش النهضة متفرع من ش مصدق - الدور 15, الدقى, الجيزة",
+	"enName":"5 A El Nahda St. Off Mossadak St., Floor 15, Dokki, Giza"
+},
+		{	"profileId":"199574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/199574?b=23&k=16569&l=search",
+	"arName":"87 ش المحطة - برج الجزيرى - الدور 3, حى غرب, سوهاج",
+	"enName":"87 El Mahatta St., El Geziry Tower, Floor 3, Gharb district, Sohag"
+},
+		{	"profileId":"141858",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/141858?b=14&k=16569&l=search",
+	"arName":"4 ش ابن الوليد, الدقى, الجيزة",
+	"enName":"4 Ibn El Walid St., Dokki, Giza"
+},
+		{	"profileId":"455710",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/455710?b=12&k=16569&l=search",
+	"arName":"ش كورنيش النيل, دمياط, دمياط",
+	"enName":"Corniche El Nil St., Damietta, Damietta"
+},
+		{	"profileId":"199579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/suez-canal-insurance/199579?b=24&k=16569&l=search",
+	"arName":"9 ش الجمهورية ميدان بالاس - برج ميامى سنتر - الدور 3, وسط البلد, المنيا",
+	"enName":"9 El Gomhoureya St. Palace Sq., Miami Center Tower, Floor 3, Downtown, El menia"
+}
+	]
+}]}

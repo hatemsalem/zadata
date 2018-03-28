@@ -1,0 +1,37 @@
+{"items":[{	"arName":"المصرية للتأمين التكافلى",
+	"enName":"Egyptian Takaful",
+	"hotlone":"19963",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"223838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/223838?b=2&k=19963&l=search",
+	"arName":"14 ش عبد الحميد لطفى متفرع من ش البطل احمد عبد العزيز - الدور 2, المهندسين, الجيزة",
+	"enName":"14 Abdel Hamid Lotfy St. Off El Batal Ahmed Abdel Aziz St., Floor 2, Mohandeseen, Giza"
+},
+		{	"profileId":"223839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/223839?b=5&k=19963&l=search",
+	"arName":"74 ش مكة المكرمة متفرع من ش الجمهورية, اسيوط, اسيوط",
+	"enName":"74 Mekka El Mokarama St. Off El Gomhoureya St., Assyout, Assyout"
+},
+		{	"profileId":"351603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/351603?b=3&k=19963&l=search",
+	"arName":"56 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"56 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"439459",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/439459?b=1&k=19963&l=search",
+	"arName":"34 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"34 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"317331",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/317331?b=4&k=19963&l=search",
+	"arName":"39 ش النبى دانيال, محطة الرمل, الاسكندرية",
+	"enName":"39 El Nabi Daniel St., Raml station, Alexandria"
+}
+	]
+}]}

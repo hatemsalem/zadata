@@ -1,0 +1,138 @@
+{"items":[{	"arName":"انتى انز",
+	"enName":"Auntie Anne's",
+	"hotlone":"16629",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"393099",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/393099?b=7&k=16629&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"581470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/581470?b=6&k=16629&l=search",
+	"arName":"92 ش المرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"92 El Marghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"393097",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/393097?b=3&k=16629&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"396242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/396242?b=5&k=16629&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"237610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/237610?b=13&k=16629&l=search",
+	"arName":"بورتو مارينا, مارينا, الساحل الشمالى",
+	"enName":"Porto Marina , Marina, North coast"
+},
+		{	"profileId":"393107",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/393107?b=8&k=16629&l=search",
+	"arName":"كورنيش النيل - ابراج نايل سيتى - البرج الشمالى, رملة بولاق, القاهرة",
+	"enName":"Corniche El Nil, Nile City Towers, Northen Tower, Ramlet boulak, Cairo"
+},
+		{	"profileId":"272392",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/272392?b=1&k=16629&l=search",
+	"arName":"76 ش 9, المعادى, القاهرة",
+	"enName":"76 Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"524255",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/524255?b=12&k=16629&l=search",
+	"arName":"ش الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish St., San stefano, Alexandria"
+},
+		{	"profileId":"524078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/524078?b=10&k=16629&l=search",
+	"arName":"176 ش 26 يوليو تقاطع ش شجرة الدر, الزمالك, القاهرة",
+	"enName":"176 26th Of July St. Intersection Of Shagaret El Dor St., Zamalek, Cairo"
+},
+		{	"profileId":"524091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/524091?b=11&k=16629&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish St., San stefano, Alexandria"
+},
+		{	"profileId":"457278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/457278?b=2&k=16629&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"272406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/272406?b=9&k=16629&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"enName":"home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"524273",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/524273?b=4&k=16629&l=search",
+	"arName":"88 ش الحجاز, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"88 El Hegaz St., El Merryland, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"شو حلو",
+	"enName":"Shou Helou",
+	"hotlone":"16629",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"468909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shou-helou/468909?b=18&k=16629&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"468905",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shou-helou/468905?b=17&k=16629&l=search",
+	"arName":"92 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"92 El Merghany St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"شاورمايستر",
+	"enName":"Shawarmaister",
+	"hotlone":"16629",
+	"arCategory":[
+		"مطاعم لبنانية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Lebanese Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"468903",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawarmaister/468903?b=14&k=16629&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"468900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawarmaister/468900?b=15&k=16629&l=search",
+	"arName":"92 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"92 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"524288",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawarmaister/524288?b=16&k=16629&l=search",
+	"arName":"2 ش طه حسين متفرع من ش اسماعيل محمد, الزمالك, القاهرة",
+	"enName":"2 Taha Hussien St. Off Ismail Mohamed St., Zamalek, Cairo"
+}
+	]
+}]}

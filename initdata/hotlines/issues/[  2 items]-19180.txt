@@ -1,0 +1,53 @@
+{"items":[{	"arName":"شاهين كافيه",
+	"enName":"Shaheen Cafe",
+	"hotlone":"19180",
+	"arCategory":[
+		"شاى وبن"
+	],
+	"enCategories":[
+		"Tea & Coffee"
+	],
+	"contacts":[
+		{	"profileId":"5681",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shaheen-cafe/5681?b=6&k=19180&l=search",
+	"arName":"17 ش وزارة الزراعة, الدقى, الجيزة",
+	"enName":"17 Wezarat El Zeraah St., Dokki, Giza"
+},
+		{	"profileId":"531358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shaheen-cafe/531358?b=4&k=19180&l=search",
+	"arName":"24 ش ابراهيم اللقانى, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"24 Ibrahim El Laqqany St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"97899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shaheen-cafe/97899?b=3&k=19180&l=search",
+	"arName":"39 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"39 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"141612",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shaheen-cafe/141612?b=5&k=19180&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الدقى, الجيزة",
+	"enName":"Home Delivery, Dokki, Giza"
+}
+	]
+}, {	"arName":"جيزة فود",
+	"enName":"Giza Food",
+	"hotlone":"19180",
+	"arCategory":[
+		"شاى وبن"
+	],
+	"enCategories":[
+		"Tea & Coffee"
+	],
+	"contacts":[
+		{	"profileId":"5502",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/giza-food/5502?b=1&k=19180&l=search",
+	"arName":"11 ش نوال متفرع من ش البطل احمد عبد العزيز, الدقى, الجيزة",
+	"enName":"11 Nawal St. Off El Batal Ahmed Abdel Aziz St., Dokki, Giza"
+},
+		{	"profileId":"531340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/giza-food/531340?b=2&k=19180&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

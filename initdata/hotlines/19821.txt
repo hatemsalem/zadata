@@ -1,0 +1,22 @@
+{"items":[{	"arName":"تى شورى للسياحة",
+	"enName":"Tishoury Tours",
+	"hotlone":"19821",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"295481",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tishoury-tours/295481?b=1&k=19821&l=search",
+	"arName":"8 عمارات العبور - طريق صلاح سالم - الدور 1, مدينة نصر, القاهرة",
+	"enName":"8 El Obour Bldgs., Salah Salem Rd., Floor 1, Nasr city, Cairo"
+},
+		{	"profileId":"438368",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tishoury-tours/438368?b=2&k=19821&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

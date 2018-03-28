@@ -1,0 +1,70 @@
+{"items":[{	"arName":"مول العرب",
+	"enName":"Mall Of Arabia",
+	"hotlone":"19226",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"287254",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mall-of-arabia/287254?b=5&k=19226&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"522900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mall-of-arabia/522900?b=4&k=19226&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}, {	"arName":"هوم كونسيبت",
+	"enName":"Home Concept",
+	"hotlone":"19226",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"369829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/home-concept/369829?b=3&k=19226&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}, {	"arName":"بارسيلوس",
+	"enName":"Barcelos",
+	"hotlone":"19226",
+	"arCategory":[
+		"مطاعم عالمية"
+	],
+	"enCategories":[
+		"International Cuisine"
+	],
+	"contacts":[
+		{	"profileId":"559628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/barcelos/559628?b=1&k=19226&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}, {	"arName":"بيلى بييز كايرو",
+	"enName":"Billy Beez Cairo",
+	"hotlone":"19226",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"384086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/billy-beez-cairo/384086?b=2&k=19226&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"هاواى الجديدة للسياحة والاستثمار",
+	"enName":"New Hawai For Tourism & Investment",
+	"hotlone":"16504",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"96192",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-hawai-for-tourism-&-investment/96192?b=1&k=16504&l=search",
+	"arName":"1 ش المرعشلى - الدور 1 شقة 1, الزمالك, القاهرة",
+	"enName":"1 El Maraashly St., Floor 1 Flat 1, Zamalek, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,38 @@
+{"items":[{	"arName":"فينيز بيتزريا",
+	"enName":"Vinny's Pizzeria",
+	"hotlone":"19867",
+	"arCategory":[
+		"مطاعم ايطالية",
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Italian Food",
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"400715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vinny's-pizzeria/400715?b=2&k=19867&l=search",
+	"arName":"73 ش 9, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"73 Rd. 9, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"459035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vinny's-pizzeria/459035?b=4&k=19867&l=search",
+	"arName":"2 ش طه حسين, الزمالك, القاهرة",
+	"enName":"2 Taha Hussien St., Zamalek, Cairo"
+},
+		{	"profileId":"577246",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vinny's-pizzeria/577246?b=3&k=19867&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"459039",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vinny's-pizzeria/459039?b=1&k=19867&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Home Delivery, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

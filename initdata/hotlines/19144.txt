@@ -1,0 +1,97 @@
+{"items":[{	"arName":"كايرو سكان للاشعة والتحاليل",
+	"enName":"Cairo Scan - Radiology & Labs.",
+	"hotlone":"19144",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"71954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./71954?b=5&k=19144&l=search",
+	"arName":"91 ش العباسية ميدان عبده باشا, عباسية, القاهرة",
+	"enName":"91 Abbaseya St. Abdou Pasha Sq., Abbasseya, Cairo"
+},
+		{	"profileId":"71955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./71955?b=8&k=19144&l=search",
+	"arName":"15 ش سمير عبد الرؤوف امتداد ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"15 Samir Abdel Raouf St. Extension Of Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"71952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./71952?b=12&k=19144&l=search",
+	"arName":"59 ش شبرا - الدور 6, شبرا, القاهرة",
+	"enName":"59 Shoubra St., Floor 6, Shoubra, Cairo"
+},
+		{	"profileId":"71953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./71953?b=2&k=19144&l=search",
+	"arName":"15 ميدان التحرير, وسط البلد, القاهرة",
+	"enName":"15 El Tahrir Sq., Downtown, Cairo"
+},
+		{	"profileId":"109427",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./109427?b=16&k=19144&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"5861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./5861?b=1&k=19144&l=search",
+	"arName":"35 ش سليمان اباظة متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"35 Soliman Abaza St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"516455",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./516455?b=17&k=19144&l=search",
+	"arName":"55 ش عبد المنعم رياض متفرع من ش البطل احمد عبد العزيز - برج الاطباء - الدور 1, المهندسين, الجيزة",
+	"enName":"55 Abdel Moneim Riad St. Off El Batal Ahmed Abdel Aziz St., El Atebaa Tower, Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"479121",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./479121?b=13&k=19144&l=search",
+	"arName":"319 ش فيصل - الدور 1, حسن محمد, فيصل, الجيزة",
+	"enName":"319 Faisal St., Floor 1, Hassan Mohamed, Faisal, Giza"
+},
+		{	"profileId":"388933",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./388933?b=14&k=19144&l=search",
+	"arName":"15 ش مراد - الدور 2, الجيزة, الجيزة",
+	"enName":"15 Mourad St., Floor 2, Giza, Giza"
+},
+		{	"profileId":"415182",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./415182?b=4&k=19144&l=search",
+	"arName":"43 ميدان الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"43 El Gazaer Sq., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"415216",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./415216?b=11&k=19144&l=search",
+	"arName":"18 ش القبة, روكسى, مصر الجديدة, القاهرة",
+	"enName":"18 El Qobba St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"415213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./415213?b=7&k=19144&l=search",
+	"arName":"110 ش المنيل, المنيل, القاهرة",
+	"enName":"110 Manial St., El manyal, Cairo"
+},
+		{	"profileId":"479117",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./479117?b=10&k=19144&l=search",
+	"arName":"41 ش محمد السيد احمد - برج النادى - الدور 2, حلوان, القاهرة",
+	"enName":"41 Mohamed El Sayed Ahmed St., El Nady Tower, Floor 2, Helwan, Cairo"
+},
+		{	"profileId":"479119",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./479119?b=3&k=19144&l=search",
+	"arName":"66 أ ش شبرا - الدور 1, شبرا, القاهرة",
+	"enName":"66 A Shoubra St., Floor 1, Shoubra, Cairo"
+},
+		{	"profileId":"71956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./71956?b=15&k=19144&l=search",
+	"arName":"55 ش عبد المنعم رياض متفرع من ش البطل احمد عبد العزيز - برج الاطباء - الدور 14, المهندسين, الجيزة",
+	"enName":"55 Abdel Moneim Riad St. Off El Batal Ahmed Abdel Aziz St., El Atebaa Tower, Floor 14, Mohandeseen, Giza"
+},
+		{	"profileId":"155043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./155043?b=6&k=19144&l=search",
+	"arName":"7 أ ش فريد سميكة متفرع من ميدان الالف مسكن, الالف مسكن, مصر الجديدة, القاهرة",
+	"enName":"7 A Farid Semeika St. Off El Alf Maskan Sq., El Alf Maskan, Heliopolis, Cairo"
+},
+		{	"profileId":"369616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-scan-_-radiology-&-labs./369616?b=9&k=19144&l=search",
+	"arName":"القطعة 420 - ش 9, المقطم, القاهرة",
+	"enName":"Plot 420, Rd. 9, Mokattam, Cairo"
+}
+	]
+}]}

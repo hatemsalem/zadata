@@ -1,0 +1,108 @@
+{"items":[{	"arName":"مول اسواق شارع عبد العزيز",
+	"enName":"Aswaq Sharea Abdel Aziz Mall",
+	"hotlone":"16581",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"564875",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564875?b=3&k=16581&l=search",
+	"arName":"2 ش متولى الشعراوى, الحى العاشر, مدينة نصر, القاهرة",
+	"enName":"2 Metwally El Shaarawy St., 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"564872",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564872?b=11&k=16581&l=search",
+	"arName":"1 ش احمد الزمر امتداد ش زاكر حسين, مدينة نصر, القاهرة",
+	"enName":"1 Ahmed El Zomor St. Extension Of Zaker Hussein St., Nasr city, Cairo"
+},
+		{	"profileId":"564895",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564895?b=1&k=16581&l=search",
+	"arName":"ش عثمان بن عفان امتداد ش فريد سميكة, مصر الجديدة, القاهرة",
+	"enName":"Osman Ibn Affan St. Extension Of Farid Semeika St., Heliopolis, Cairo"
+},
+		{	"profileId":"564878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564878?b=9&k=16581&l=search",
+	"arName":"100 ش جسر السويس, جسر السويس, القاهرة",
+	"enName":"100 Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"564887",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564887?b=12&k=16581&l=search",
+	"arName":"ش الشباب, مدينة العبور, القليوبية",
+	"enName":"El Shabab St., Obour city, Kaliobeya"
+},
+		{	"profileId":"564902",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564902?b=5&k=16581&l=search",
+	"arName":"ش الميثاق, زهراء مدينة نصر, مدينة نصر, القاهرة",
+	"enName":"El Mithaq St., Zahraa Nasr City, Nasr city, Cairo"
+},
+		{	"profileId":"564907",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564907?b=6&k=16581&l=search",
+	"arName":"عمارات التوفيق - ش يوسف عباس, مدينة نصر, القاهرة",
+	"enName":"El Tawfiq Bldgs., Youssef Abbas St., Nasr city, Cairo"
+},
+		{	"profileId":"454513",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/454513?b=7&k=16581&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"564870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564870?b=2&k=16581&l=search",
+	"arName":"16 ش الطاقة, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"16 El Taka St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"564881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564881?b=8&k=16581&l=search",
+	"arName":"2 ش ترعة الجبل, حدائق الزيتون, القاهرة",
+	"enName":"2 Teraet El Gabal St., Hadayek el zaitoun, Cairo"
+},
+		{	"profileId":"564882",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/564882?b=4&k=16581&l=search",
+	"arName":"189 ش الحجاز, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"189 El Hegaz St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"454511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-sharea-abdel-aziz-mall/454511?b=10&k=16581&l=search",
+	"arName":"ش عمر بن عبد العزيز متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Omar Ibn Abdel Aziz St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"الشركة المصرية للاسواق",
+	"enName":"The Egyptian Co. For Markets",
+	"hotlone":"16581",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"162276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-egyptian-co.-for-markets/162276?b=13&k=16581&l=search",
+	"arName":"16 ش الطاقة, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"16 El Taqqa St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"404290",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-egyptian-co.-for-markets/404290?b=14&k=16581&l=search",
+	"arName":"ش ترعة الجبل, الزيتون, القاهرة",
+	"enName":"Teraet El Gabal St., El zaytoun, Cairo"
+},
+		{	"profileId":"437037",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-egyptian-co.-for-markets/437037?b=15&k=16581&l=search",
+	"arName":"2 ش متولى الشعراوى, الحى العاشر, مدينة نصر, القاهرة",
+	"enName":"2 Metwally El Shaarawy St., 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"456353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-egyptian-co.-for-markets/456353?b=16&k=16581&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"437036",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-egyptian-co.-for-markets/437036?b=17&k=16581&l=search",
+	"arName":"ش زاكر حسين, مدينة نصر, القاهرة",
+	"enName":"Zaker Hussein St., Nasr city, Cairo"
+}
+	]
+}]}

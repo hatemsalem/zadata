@@ -1,0 +1,17 @@
+{"items":[{	"arName":"النهار للاستثمار العقارى",
+	"enName":"El Nahar For Real Estate",
+	"hotlone":"16884",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"412384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nahar-for-real-estate/412384?b=1&k=16884&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"سول ووتر لتكنولوجيا معالجة المياه والبيئة",
+	"enName":"Soul Water For Water Treatment & Environmental Technology",
+	"hotlone":"19449",
+	"arCategory":[
+		"مياه معالجة"
+	],
+	"enCategories":[
+		"Water Treatment"
+	],
+	"contacts":[
+		{	"profileId":"180769",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soul-water-for-water-treatment-&-environmental-technology/180769?b=1&k=19449&l=search",
+	"arName":"2 ش جعفر الصادق متفرع من ش الطيران, مدينة نصر, القاهرة",
+	"enName":"2 Jaafar El Sadeq St. Off El Tayaran St., Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"كنيسة العذراء والملاك ميخائيل",
+	"enName":"St. Mary & St. Michael Coptic Orthodox Church",
+	"hotlone":"16650",
+	"arCategory":[
+		"كنائس واديرة"
+	],
+	"enCategories":[
+		"Churches & Monasteries"
+	],
+	"contacts":[
+		{	"profileId":"555214",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/st.-mary-&-st.-michael-coptic-orthodox-church/555214?b=1&k=16650&l=search",
+	"arName":"البستان, وسط البلد, الجونة",
+	"enName":"El Bostan, Downtown, El gouna"
+}
+	]
+}]}

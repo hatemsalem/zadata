@@ -1,0 +1,43 @@
+{"items":[{	"arName":"ابناء حسن علام",
+	"enName":"Hassan Allam Sons",
+	"hotlone":"19172",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"128287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hassan-allam-sons/128287?b=3&k=19172&l=search",
+	"arName":"15 ش حسن محمد علام ميدان السبع عمارات, مصر الجديدة, القاهرة",
+	"enName":"15 Hassan Mohamed Allam St. El sabaa Emarat sq., Heliopolis, Cairo"
+},
+		{	"profileId":"2710",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hassan-allam-sons/2710?b=2&k=19172&l=search",
+	"arName":"10 ش يحيى زكريا, مصر الجديدة, القاهرة",
+	"enName":"10 Yehia Zakareya St., Heliopolis, Cairo"
+},
+		{	"profileId":"187305",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hassan-allam-sons/187305?b=1&k=19172&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"سوان ليك",
+	"enName":"Swan Lake",
+	"hotlone":"19172",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"453006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/swan-lake/453006?b=4&k=19172&l=search",
+	"arName":"الطريق الدائرى تقاطع طريق القاهرة السويس - ميراج سيتى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd. Intersection Of Cairo Suez Rd., Mirage City, 1st Compound, New cairo, Cairo"
+}
+	]
+}]}

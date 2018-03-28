@@ -1,0 +1,38 @@
+{"items":[{	"arName":"العوض جروب اتوموتيف",
+	"enName":"Al Awad Group Automotive",
+	"hotlone":"19802",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"148945",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-awad-group-automotive/148945?b=2&k=19802&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"118166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-awad-group-automotive/118166?b=1&k=19802&l=search",
+	"arName":"39 طريق الاوتوستراد, المعادى, القاهرة",
+	"enName":"39 Autostrad Rd., Maadi, Cairo"
+}
+	]
+}, {	"arName":"مونامى",
+	"enName":"Mon Ami",
+	"hotlone":"19802",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"293121",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mon-ami/293121?b=3&k=19802&l=search",
+	"arName":"39 طريق الاوتوستراد, المعادى, القاهرة",
+	"enName":"39 Autostrad Rd., Maadi, Cairo"
+}
+	]
+}]}

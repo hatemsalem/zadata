@@ -1,0 +1,24 @@
+{"items":[{	"arName":"سما القاهرة",
+	"enName":"Sama El Qahera",
+	"hotlone":"19723",
+	"arCategory":[
+		"عقارات",
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Real Estate",
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"199074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sama-el-qahera/199074?b=1&k=19723&l=search",
+	"arName":"برج سما - الطريق الدائرى - الدور 1, القطامية, القاهرة",
+	"enName":"Sama Tower, Ring Rd., Floor 1, El katameya, Cairo"
+},
+		{	"profileId":"371347",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sama-el-qahera/371347?b=2&k=19723&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"enName":"Ring Rd., El katameya, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,41 @@
+{"items":[{	"arName":"مصر للتجارة والاستثمار",
+	"enName":"MTI - Misr Trade & Investment",
+	"hotlone":"16159",
+	"arCategory":[
+		"كهرباء والكترونيات اجهزة ومعدات",
+		"اجهزة منزلية",
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Electric & Electronic Devices",
+		"Appliances",
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"137537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti-_-misr-trade-&-investment/137537?b=4&k=16159&l=search",
+	"arName":"159 ش شبرا, الساحل, القاهرة",
+	"enName":"159 Shoubra St., El sahel, Cairo"
+},
+		{	"profileId":"55854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti-_-misr-trade-&-investment/55854?b=3&k=16159&l=search",
+	"arName":"1345 كورنيش النيل, شبرا, القاهرة",
+	"enName":"1345 Corniche El Nil, Shoubra, Cairo"
+},
+		{	"profileId":"176899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti-_-misr-trade-&-investment/176899?b=1&k=16159&l=search",
+	"arName":"خدمة العملاء, شبرا, القاهرة",
+	"enName":"Customer Service, Shoubra, Cairo"
+},
+		{	"profileId":"171053",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti-_-misr-trade-&-investment/171053?b=2&k=16159&l=search",
+	"arName":"7 أ ش معهد ناصر, شبرا, القاهرة",
+	"enName":"7 A Maahad Nasser St., Shoubra, Cairo"
+},
+		{	"profileId":"171055",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti-_-misr-trade-&-investment/171055?b=5&k=16159&l=search",
+	"arName":"142 ش مسجد الرحمن متفرع من ش جاردن سيتى - تعاونيات سموحة, سموحة, الاسكندرية",
+	"enName":"142 Masged El Rahman St. Off Garden City St., Taawoneyat Semouha, Semouha, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,37 @@
+{"items":[{	"arName":"كواليتى للتوكيلات التجارية",
+	"enName":"Quality For Commercial Agencies",
+	"hotlone":"16535",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"59016",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quality-for-commercial-agencies/59016?b=4&k=16535&l=search",
+	"arName":"القطعة 5240 - فيلا 2 - ش اندريا متفرع من ش 9, المقطم, القاهرة",
+	"enName":"Plot 5240, Villa 2, Andria St. Off Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"259127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quality-for-commercial-agencies/259127?b=2&k=16535&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"enName":"Customer Service, Mokattam, Cairo"
+},
+		{	"profileId":"84765",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quality-for-commercial-agencies/84765?b=5&k=16535&l=search",
+	"arName":"3 ش عطية الصوالحى متفرع من ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"3 Atteya El Sawalhy St. Off Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"259134",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quality-for-commercial-agencies/259134?b=3&k=16535&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"424892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quality-for-commercial-agencies/424892?b=1&k=16535&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"مركز عيون",
+	"enName":"Oyoun Eye Center",
+	"hotlone":"16554",
+	"arCategory":[
+		"اطباء رمد"
+	],
+	"enCategories":[
+		"Doctors - Ophthalmologists"
+	],
+	"contacts":[
+		{	"profileId":"118689",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oyoun-eye-center/118689?b=1&k=16554&l=search",
+	"arName":"16 ش دولتيان ميدان الخلفاوى - الدور 5, شبرا, القاهرة",
+	"enName":"16 Dawletian St. El Khalafawy Sq., Floor 5, Shoubra, Cairo"
+}
+	]
+}]}

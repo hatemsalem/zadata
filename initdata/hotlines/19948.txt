@@ -1,0 +1,37 @@
+{"items":[{	"arName":"محجوب للسيراميك والبورسلين",
+	"enName":"Mahgoub For Ceramic & Porcelain",
+	"hotlone":"19948",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"167420",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/167420?b=3&k=19948&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"167149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/167149?b=1&k=19948&l=search",
+	"arName":"1 ش مكرم عبيد تقاطع ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"1 Makram Ebaid St. Intersection Of Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"200845",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/200845?b=4&k=19948&l=search",
+	"arName":"435 ش فيصل, مدكور, فيصل, الجيزة",
+	"enName":"435 Faisal St., Madkour, Faisal, Giza"
+},
+		{	"profileId":"200844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/200844?b=5&k=19948&l=search",
+	"arName":"150 ش البحر الاعظم, الجيزة, الجيزة",
+	"enName":"150 El Bahr El Aazam St., Giza, Giza"
+},
+		{	"profileId":"524075",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/524075?b=2&k=19948&l=search",
+	"arName":"القطعة 319 - ش التسعين القطاع الثانى - مركز المدينة التجارى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 319, El Tesaeen St. Sector 2, City Commercial Center, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,138 @@
+{"items":[{	"arName":"جمعية الاورمان",
+	"enName":"Al Orman Association",
+	"hotlone":"19455",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"379610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/379610?b=15&k=19455&l=search",
+	"arName":"34 مساكن ناصر - - الدور 1 شقة 1, حى شرق, سوهاج",
+	"enName":"34 Nasser Bldgs., , Floor 1 Flat 1, Shark district, Sohag"
+},
+		{	"profileId":"449499",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/449499?b=16&k=19455&l=search",
+	"arName":"18 عمارات ابناء قارون - - كيمان فارس, وسط البلد, الفيوم",
+	"enName":"18 Abnaa Qaroun Bldgs., , Keman Fares, Downtown, El fayoum"
+},
+		{	"profileId":"64413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/64413?b=3&k=19455&l=search",
+	"arName":"6 ش تل العيون, عين الصيرة, القاهرة",
+	"enName":"6 Tal El Oyoun St., Ain el sira, Cairo"
+},
+		{	"profileId":"379228",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/379228?b=14&k=19455&l=search",
+	"arName":"ش عزيز مقبل, بنى سويف الجديدة, بنى سويف",
+	"enName":"Aziz Moqbel St., Benisuef al gadida, Benisuef"
+},
+		{	"profileId":"241419",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/241419?b=19&k=19455&l=search",
+	"arName":"44 ش محمود كامل متفرع من ش التعاون, التعاون, الهرم, الجيزة",
+	"enName":"44 Mahmoud Kamel St. Off El Taawon St., El Taawon, El haram, Giza"
+},
+		{	"profileId":"57166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/57166?b=22&k=19455&l=search",
+	"arName":"7 ش الحاج موسى متفرع من ش يحيى شاهين - الدور 4, التعاون, الهرم, الجيزة",
+	"enName":"7 El Haj Moussa St. Off Yehia Shahin St., Floor 4, El Taawon, El haram, Giza"
+},
+		{	"profileId":"379319",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/379319?b=8&k=19455&l=search",
+	"arName":"4 ش ابو بكر الصديق - الدور 1, الزقازيق, الشرقية",
+	"enName":"4 Abou Bakr El Seddik St., Floor 1, El zagazig, El sharkeya"
+},
+		{	"profileId":"142052",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/142052?b=11&k=19455&l=search",
+	"arName":"18 ش على باشا ذو الفقار متفرع من ش خليل الخياط, كفر عبده, الاسكندرية",
+	"enName":"18 Aly Pasha Zou El Foqqar St. Off Khalil El Khayyat St., Kafr abdou, Alexandria"
+},
+		{	"profileId":"379371",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/379371?b=10&k=19455&l=search",
+	"arName":"3 ش القاضى الجداوى متفرع من ش السوق - الدور 2 شقة 4, وسط البلد, اسوان",
+	"enName":"3 El Qady El Gedawy St. Off El Souk St., Floor 2 Flat 4, Downtown, Aswan"
+},
+		{	"profileId":"379361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/379361?b=21&k=19455&l=search",
+	"arName":"ش وليد متفرع من ش التليفزيون, الاقصر, الاقصر",
+	"enName":"Walid St. Off Television St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"508426",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/508426?b=6&k=19455&l=search",
+	"arName":"71 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"71 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"379354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/379354?b=20&k=19455&l=search",
+	"arName":"د1 ابراج النصر - شقة 5, اسيوط, اسيوط",
+	"enName":"D1 El Nasr Towers, Flat 5, Assyout, Assyout"
+},
+		{	"profileId":"427966",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/427966?b=2&k=19455&l=search",
+	"arName":"فيلا 60ز - ش الشيماء متفرع من ش التسعين, جنوب الاكاديمية, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 60z, El Shaimaa St. Off El Tesaeen St., South Academy, New cairo, Cairo"
+},
+		{	"profileId":"379212",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/379212?b=12&k=19455&l=search",
+	"arName":"628 طريق الحرية, جناكليس, الاسكندرية",
+	"enName":"628 El Horreya Rd., Ganaklis, Alexandria"
+},
+		{	"profileId":"508435",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/508435?b=17&k=19455&l=search",
+	"arName":"1 أ ش الجيش - عمارات الاوقاف - برج عمر بن الخطاب - الدور 5 شقة 17, دسوق, كفر الشيخ",
+	"enName":"1 A El Guish St., El Awqaf Bldgs., Omar Ibn El Khattab Tower, Floor 5 Flat 17, Disuq, Kafr el sheikh"
+},
+		{	"profileId":"83886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/83886?b=18&k=19455&l=search",
+	"arName":"11 ش د. المحروقى متفرع من ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"enName":"11 Dr. El Mahrouqy St. Off El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"142049",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/142049?b=1&k=19455&l=search",
+	"arName":"7 ش عباس العقاد - الدور 2 شقة 4, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"7 Abbas El Akkad St., Floor 2 Flat 4, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"167229",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/167229?b=5&k=19455&l=search",
+	"arName":"28 ش النصر - الدور 2 شقة 9, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"28 El Nasr St., Floor 2 Flat 9, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"379345",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/379345?b=9&k=19455&l=search",
+	"arName":"ش البحر تقاطع ش طه الحكيم - برج بهانة, طنطا, الغربية",
+	"enName":"El Bahar St. Intersection Of Taha El Hakim St., Bahana Tower, Tanta, El gharbeya"
+},
+		{	"profileId":"369028",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/369028?b=13&k=19455&l=search",
+	"arName":"فيلا 51 - المجاورة 14 - غرب سوميد, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"Villa 51, Neighbourhood 14, West Somid, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"173125",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/173125?b=4&k=19455&l=search",
+	"arName":"115 ش ابراهيم عبد الرازق متفرع من ش احمد عصمت, عين شمس, القاهرة",
+	"enName":"115 Ibrahim Abdel Razeq St. Off Ahmed Essmat St., Ain shams, Cairo"
+},
+		{	"profileId":"176586",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orman-association/176586?b=7&k=19455&l=search",
+	"arName":"خدمة العملاء, التعاون, الهرم, الجيزة",
+	"enName":"Customer Service, El Taawon, El haram, Giza"
+}
+	]
+}, {	"arName":"معامل الشمس",
+	"enName":"Al Shams Labs",
+	"hotlone":"19455",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"443374",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-shams-labs/443374?b=23&k=19455&l=search",
+	"arName":"97 ش التحرير - الدور 2, الدقى, الجيزة",
+	"enName":"97 El Tahrir St., Floor 2, Dokki, Giza"
+}
+	]
+}]}

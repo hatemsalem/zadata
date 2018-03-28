@@ -1,0 +1,38 @@
+{"items":[{	"arName":"فطيرة",
+	"enName":"Feteera",
+	"hotlone":"16287",
+	"arCategory":[
+		"فطير",
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Feteer",
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"450685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/feteera/450685?b=4&k=16287&l=search",
+	"arName":"الحى الرابع, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"4th District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"526092",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/feteera/526092?b=1&k=16287&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"526093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/feteera/526093?b=3&k=16287&l=search",
+	"arName":"37 أ ش التسعين الشمالى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"37 A El Tesaeen El Shamaly St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"398072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/feteera/398072?b=2&k=16287&l=search",
+	"arName":"32 أ ش بهجت على متفرع من ش محمد مظهر, الزمالك, القاهرة",
+	"enName":"32 A Bahgat Aly St. Off Mohamed Mazhar St., Zamalek, Cairo"
+}
+	]
+}]}

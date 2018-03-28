@@ -1,0 +1,45 @@
+{"items":[{	"arName":"نكست هوم",
+	"enName":"Next Home",
+	"hotlone":"19699",
+	"arCategory":[
+		"عقارات",
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Real Estate",
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"578416",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/next-home/578416?b=2&k=19699&l=search",
+	"arName":"فيلا 3450 - ش هادى جوهر - الهضبة الوسطى - الحى الثانى, المقطم, القاهرة",
+	"enName":"Villa 3450, Hady Gawhar St., Middle Hill, 2nd District, Mokattam, Cairo"
+},
+		{	"profileId":"578428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/next-home/578428?b=3&k=19699&l=search",
+	"arName":"154 ابراج النصر - ش الجامعة الحديثة - الهضبة الوسطى, المقطم, القاهرة",
+	"enName":"154 El Nasr Towers, Modern University St., Middle Hill, Mokattam, Cairo"
+},
+		{	"profileId":"578430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/next-home/578430?b=4&k=19699&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"enName":"Customer Service, Mokattam, Cairo"
+}
+	]
+}, {	"arName":"الحلبى للسياحة",
+	"enName":"El Halabi Tours",
+	"hotlone":"19699",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"49724",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-halabi-tours/49724?b=1&k=19699&l=search",
+	"arName":"47 ش عبد الخالق ثروت ميدان الاوبرا, وسط البلد, القاهرة",
+	"enName":"47 Abdel khaleq Tharwat St. opera Sq., Downtown, Cairo"
+}
+	]
+}]}

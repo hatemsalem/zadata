@@ -1,0 +1,17 @@
+{"items":[{	"arName":"كيو ان بى الاهلى",
+	"enName":"QNB Al Ahli Bank",
+	"hotlone":"16790",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"256035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qnb-al-ahli-bank/256035?b=1&k=16790&l=search",
+	"arName":"خدمة سوجى كاش نت, وسط البلد, القاهرة",
+	"enName":"Soge Cash Net Service, Downtown, Cairo"
+}
+	]
+}]}

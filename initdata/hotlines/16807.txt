@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الاكاديمية المصرية للعيون",
+	"enName":"Egyptian Eye Academy",
+	"hotlone":"16807",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"468753",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-eye-academy/468753?b=2&k=16807&l=search",
+	"arName":"خدمة العملاء, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"105030",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-eye-academy/105030?b=1&k=16807&l=search",
+	"arName":"17 ش بيروت تقاطع ش دمشق, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"17 Beirut St. Intersection Of Demascus St., El Gamea Square, Heliopolis, Cairo"
+}
+	]
+}]}

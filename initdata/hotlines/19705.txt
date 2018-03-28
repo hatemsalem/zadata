@@ -1,0 +1,52 @@
+{"items":[{	"arName":"صيدليات الفؤاد",
+	"enName":"Al Fouad Pharmacies",
+	"hotlone":"19705",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"256966",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/256966?b=3&k=19705&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"395243",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/395243?b=6&k=19705&l=search",
+	"arName":"14 ش شهاب, المهندسين, الجيزة",
+	"enName":"14 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"440380",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/440380?b=5&k=19705&l=search",
+	"arName":"45 ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"enName":"45 El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"571922",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/571922?b=4&k=19705&l=search",
+	"arName":"4 ش زمزم متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"4 Zamzam St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"256961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/256961?b=2&k=19705&l=search",
+	"arName":"8 ش وزارة الزراعة, المهندسين, الجيزة",
+	"enName":"8 Wezaret El Zeraah St., Mohandeseen, Giza"
+},
+		{	"profileId":"446320",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/446320?b=8&k=19705&l=search",
+	"arName":"المحور المركزى - ميدان الحصرى, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Hosary Sq., 7th District, 6th of october, Giza"
+},
+		{	"profileId":"466752",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/466752?b=1&k=19705&l=search",
+	"arName":"محور السادات, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"El Sadat Spine, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"466753",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/466753?b=7&k=19705&l=search",
+	"arName":"260 ع ش الجيش, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"260 E El Guish St., Hadayek El Ahram, El haram, Giza"
+}
+	]
+}]}

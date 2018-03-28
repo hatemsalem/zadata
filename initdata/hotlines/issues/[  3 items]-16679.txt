@@ -1,0 +1,174 @@
+{"items":[{	"arName":"ذا فور فات لاديز بيكرى",
+	"enName":"The Four Fat Ladies Bakery",
+	"hotlone":"16679",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"567567",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-four-fat-ladies-bakery/567567?b=26&k=16679&l=search",
+	"arName":"كم 124 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 124, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"560358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-four-fat-ladies-bakery/560358?b=25&k=16679&l=search",
+	"arName":"القطعة 33 - المجاورة السادسة - الحى الرابع, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 33, 6th Neighbourhood, 4th District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"542058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-four-fat-ladies-bakery/542058?b=21&k=16679&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"554018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-four-fat-ladies-bakery/554018?b=23&k=16679&l=search",
+	"arName":"10 ش 218, دجلة, المعادى, القاهرة",
+	"enName":"10 Rd. 218, Degla, Maadi, Cairo"
+},
+		{	"profileId":"569189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-four-fat-ladies-bakery/569189?b=22&k=16679&l=search",
+	"arName":"8 ش البرازيل, الزمالك, القاهرة",
+	"enName":"8 Brazil St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"تى بى اس - ذا بيكرى شوب",
+	"enName":"TBS - The Bakery Shop",
+	"hotlone":"16679",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مقاهى"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Cafes and Coffee Shops"
+	],
+	"contacts":[
+		{	"profileId":"525703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/525703?b=5&k=16679&l=search",
+	"arName":"القطعة 1216 - ش الشهيد سيد زكريا خليل - عمارة 7, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Plot 1216, El Shaheed Sayed Zakareya Khalil St., Bldg. 7, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"401112",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/401112?b=4&k=16679&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"424730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/424730?b=13&k=16679&l=search",
+	"arName":"الطريق الدائرى - القطامية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., El Qattameya, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"525707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/525707?b=14&k=16679&l=search",
+	"arName":"كم 27 - طريق القاهرة اسكندرية الصحراوى تقسيم الاحلام, ابو رواش, الجيزة",
+	"enName":"Km 27, Cairo Alex Desert Rd. El Ahlam Division, Abou rawash, Giza"
+},
+		{	"profileId":"299511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/299511?b=6&k=16679&l=search",
+	"arName":"64 ش 9, سرايات المعادى, المعادى, القاهرة",
+	"enName":"64 Rd. 9, Sarayat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"401108",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/401108?b=8&k=16679&l=search",
+	"arName":"2005 ج البرج الشمالى - ابراج نايل سيتى - كورنيش النيل - الدور 2, رملة بولاق, القاهرة",
+	"enName":"2005 C North Tower, Nile City Towers, Corniche El Nil, Floor 2, Ramlet boulak, Cairo"
+},
+		{	"profileId":"299514",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/299514?b=9&k=16679&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"456473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/456473?b=12&k=16679&l=search",
+	"arName":"5 ش الشهيد صبحى نصر, مصر الجديدة, القاهرة",
+	"enName":"5 El Shaheed Sobhy Nasr St., Heliopolis, Cairo"
+},
+		{	"profileId":"451243",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/451243?b=7&k=16679&l=search",
+	"arName":"محور السادات, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"El Sadat Spine, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"186602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/186602?b=16&k=16679&l=search",
+	"arName":"كم 160 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 160,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"353918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/353918?b=15&k=16679&l=search",
+	"arName":"3 ش مكة متفرع من ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"enName":"3 Mekka St. Off Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+},
+		{	"profileId":"435912",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/435912?b=17&k=16679&l=search",
+	"arName":"52 ش فؤاد, محطة الرمل, الاسكندرية",
+	"enName":"52 Fouad St., Raml station, Alexandria"
+},
+		{	"profileId":"513192",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/513192?b=18&k=16679&l=search",
+	"arName":"مارينا 5, مارينا, الساحل الشمالى",
+	"enName":"Marina 5, Marina, North coast"
+},
+		{	"profileId":"421793",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/421793?b=20&k=16679&l=search",
+	"arName":"القطعة 31 -, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"475706",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/475706?b=3&k=16679&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"490541",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/490541?b=11&k=16679&l=search",
+	"arName":"39 ش عباس العقاد, مدينة نصر, القاهرة",
+	"enName":"39 Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"527009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/527009?b=10&k=16679&l=search",
+	"arName":"محور السادات, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"El Sadat Spine, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"525700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/525700?b=19&k=16679&l=search",
+	"arName":"بفرلى هيلز, السادس من اكتوبر, الجيزة",
+	"enName":"Beverly Hills, 6th of october, Giza"
+},
+		{	"profileId":"254718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/254718?b=2&k=16679&l=search",
+	"arName":"22 ش بغداد, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"22 Baghdad St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"190389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tbs-_-the-bakery-shop/190389?b=1&k=16679&l=search",
+	"arName":"4 د ش الجزيرة, الزمالك, القاهرة",
+	"enName":"4 D El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"ذا فور فات ليديز بيكرى",
+	"enName":"The Four Fat Ladies Bakery",
+	"hotlone":"16679",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops"
+	],
+	"contacts":[
+		{	"profileId":"470499",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-four-fat-ladies-bakery/470499?b=24&k=16679&l=search",
+	"arName":"كم 126 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 126,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

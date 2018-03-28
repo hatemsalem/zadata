@@ -1,0 +1,61 @@
+{"items":[{	"arName":"صب واى",
+	"enName":"Subway",
+	"hotlone":"19894",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"173989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/173989?b=7&k=19894&l=search",
+	"arName":"26 ش يحيى باشا ابراهيم متفرع من ش 26 يوليو, الزمالك, القاهرة",
+	"enName":"26 Yehia Pasha Ibrahim St. Off 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"221608",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/221608?b=3&k=19894&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"451899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/451899?b=5&k=19894&l=search",
+	"arName":"39 ش عبد الرازق السنهورى متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"39 Abdel Razeq El Sanhoury St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"422412",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/422412?b=9&k=19894&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"238015",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/238015?b=2&k=19894&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"173993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/173993?b=1&k=19894&l=search",
+	"arName":"14 ش 218, دجلة, المعادى, القاهرة",
+	"enName":"14 Rd. 218, Degla, Maadi, Cairo"
+},
+		{	"profileId":"422410",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/422410?b=6&k=19894&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"346886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/346886?b=4&k=19894&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, دجلة, المعادى, القاهرة",
+	"enName":"Home Delivery, Degla, Maadi, Cairo"
+},
+		{	"profileId":"351027",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/subway/351027?b=8&k=19894&l=search",
+	"arName":"63 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"63 El Merghany St., Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,27 @@
+{"items":[{	"arName":"طيبة المنزلاوى جروب",
+	"enName":"Tiba El Manzalawy Group",
+	"hotlone":"16215",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"179958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tiba-el-manzalawy-group/179958?b=1&k=16215&l=search",
+	"arName":"5 برج النصر - طريق النصر, مدينة نصر, القاهرة",
+	"enName":"5 El Nasr Tower, El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"92874",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tiba-el-manzalawy-group/92874?b=3&k=16215&l=search",
+	"arName":"المنطقة الصناعية B4, العاشر من رمضان, الشرقية",
+	"enName":"Industrial Zone B4, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"323446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tiba-el-manzalawy-group/323446?b=2&k=16215&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

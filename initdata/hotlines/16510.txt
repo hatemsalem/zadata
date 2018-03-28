@@ -1,0 +1,27 @@
+{"items":[{	"arName":"خان الخليلى للسياحة",
+	"enName":"Khan El Khalili Travel",
+	"hotlone":"16510",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"434779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khan-el-khalili-travel/434779?b=1&k=16510&l=search",
+	"arName":"47 ش عباس العقاد, مدينة نصر, القاهرة",
+	"enName":"47 Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"434781",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khan-el-khalili-travel/434781?b=3&k=16510&l=search",
+	"arName":"4 ش رميح, المنصورة, الدقهلية",
+	"enName":"4 Romayeh St., El mansoura, El dakahleya"
+},
+		{	"profileId":"434780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khan-el-khalili-travel/434780?b=2&k=16510&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

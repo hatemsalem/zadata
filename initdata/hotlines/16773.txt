@@ -1,0 +1,26 @@
+{"items":[{	"arName":"كبابجى الازهر فرحات",
+	"enName":"Kababgy El Azhar Farahat",
+	"hotlone":"16773",
+	"arCategory":[
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"74194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kababgy-el-azhar-farahat/74194?b=1&k=16773&l=search",
+	"arName":"7 ش النيل الابيض ميدان لبنان, المهندسين, الجيزة",
+	"enName":"7 El Nil El Abyad St. Lebanon Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"256018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kababgy-el-azhar-farahat/256018?b=2&k=16773&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+}
+	]
+}]}

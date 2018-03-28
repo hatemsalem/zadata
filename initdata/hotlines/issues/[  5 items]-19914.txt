@@ -1,0 +1,223 @@
+{"items":[{	"arName":"بافلو برجر",
+	"enName":"Buffalo Burger",
+	"hotlone":"19914",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"بيتزا"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Pizza"
+	],
+	"contacts":[
+		{	"profileId":"436219",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/436219?b=11&k=19914&l=search",
+	"arName":"8 ش سوريا, المهندسين, الجيزة",
+	"enName":"8 Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"397489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/397489?b=13&k=19914&l=search",
+	"arName":"ش الجمهورية - عمارة ابو طوق, المنصورة, الدقهلية",
+	"enName":"El Gomhoureya St., Abou Touq Bldg., El mansoura, El dakahleya"
+},
+		{	"profileId":"391027",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/391027?b=3&k=19914&l=search",
+	"arName":"105 ش النزهة, تريومف, مصر الجديدة, القاهرة",
+	"enName":"105 El Nozha St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"397428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/397428?b=5&k=19914&l=search",
+	"arName":"9 ش حافظ رمضان متفرع من ش احمد فخرى, مدينة نصر, القاهرة",
+	"enName":"9 Hafez Ramadan St. Off Ahmed Fakhry St., Nasr city, Cairo"
+},
+		{	"profileId":"524142",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/524142?b=4&k=19914&l=search",
+	"arName":"27 ش البطراوى, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"27 El Batrawy St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"391031",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/391031?b=7&k=19914&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"397437",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/397437?b=9&k=19914&l=search",
+	"arName":"83 ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"83 Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"397430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/397430?b=12&k=19914&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"458858",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/458858?b=1&k=19914&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى, مدينة الشروق, القاهرة",
+	"enName":"Misr Ismaileya Desert Rd., El sherouk city, Cairo"
+},
+		{	"profileId":"397432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/397432?b=8&k=19914&l=search",
+	"arName":"2 ش انقرة, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"2 Anqara St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"553255",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/553255?b=10&k=19914&l=search",
+	"arName":"27 ش النصر, المعادى, القاهرة",
+	"enName":"27 El Nasr St., Maadi, Cairo"
+},
+		{	"profileId":"428025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/428025?b=6&k=19914&l=search",
+	"arName":"كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"463543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/463543?b=15&k=19914&l=search",
+	"arName":"المحور المركزى - ميدان الحرية, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Horreya Sq., 6th of october, Giza"
+},
+		{	"profileId":"574207",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/574207?b=14&k=19914&l=search",
+	"arName":"عمارات ضباط مصطفى كامل - ش المشير احمد اسماعيل تقاطع طريق الجيش, مصطفى كامل, الاسكندرية",
+	"enName":"Dobbat Mostafa Kamel Bldgs., El Moushir Ahmed Ismail St. Intersection Of El Guish Rd., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"415931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/415931?b=16&k=19914&l=search",
+	"arName":"175 ش الهرم, الهرم, الجيزة",
+	"enName":"175 Haram St., El haram, Giza"
+},
+		{	"profileId":"443619",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/buffalo-burger/443619?b=2&k=19914&l=search",
+	"arName":"3 ش د. طه حسين, الزمالك, القاهرة",
+	"enName":"3 Dr. Taha Hussein St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"روما بيتزا تو جو",
+	"enName":"Roma Pizza 2 Go",
+	"hotlone":"19914",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"436216",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roma-pizza-2-go/436216?b=26&k=19914&l=search",
+	"arName":"8 ش سوريا, المهندسين, الجيزة",
+	"enName":"8 Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"524483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roma-pizza-2-go/524483?b=20&k=19914&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى, مدينة الشروق, القاهرة",
+	"enName":"Misr Ismaileya Desert Rd., El sherouk city, Cairo"
+},
+		{	"profileId":"214406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roma-pizza-2-go/214406?b=21&k=19914&l=search",
+	"arName":"9 ش حافظ رمضان متفرع من ش احمد فخرى, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"9 Hafez Ramadan St. Off Ahmed Fakhry St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"524480",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roma-pizza-2-go/524480?b=23&k=19914&l=search",
+	"arName":"105 ش النزهة, تريومف, مصر الجديدة, القاهرة",
+	"enName":"105 El Nozha St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"189754",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roma-pizza-2-go/189754?b=24&k=19914&l=search",
+	"arName":"83 ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"83 Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"189893",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roma-pizza-2-go/189893?b=25&k=19914&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Home Delivery, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"524473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roma-pizza-2-go/524473?b=22&k=19914&l=search",
+	"arName":"27 ش البطراوى متفرع من ش عباس العقاد, مدينة نصر, القاهرة",
+	"enName":"27 El Batrawy St. Off Abbas El Akkad St., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"طرطوس",
+	"enName":"Tartouss",
+	"hotlone":"19914",
+	"arCategory":[
+		"وجبات سريعة",
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"392273",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tartouss/392273?b=28&k=19914&l=search",
+	"arName":"105 ش النزهة, تريومف, مصر الجديدة, القاهرة",
+	"enName":"105 El Nozha St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"397492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tartouss/397492?b=27&k=19914&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"427951",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tartouss/427951?b=29&k=19914&l=search",
+	"arName":"175 ش الهرم, الهرم, الجيزة",
+	"enName":"175 Haram St., El haram, Giza"
+}
+	]
+}, {	"arName":"فوتبول كافيه",
+	"enName":"Football Cafe",
+	"hotlone":"19914",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"483783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/football-cafe/483783?b=18&k=19914&l=search",
+	"arName":"خدمة العملاء, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"93174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/football-cafe/93174?b=17&k=19914&l=search",
+	"arName":"60 ش د. عبد الله العربى امتداد ش الطيران, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"60 Dr. Abdullah El Araby St. Extension Of El Tayaran St., 7th District, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"روما كافيه اند بيسترو",
+	"enName":"Roma Cafe & Bistro",
+	"hotlone":"19914",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم ايطالية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Italian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"53791",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roma-cafe-&-bistro/53791?b=19&k=19914&l=search",
+	"arName":"24 ش الحرية تقاطع ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"24 El Horreya St. Intersection Of El Nozha St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

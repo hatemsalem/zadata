@@ -1,0 +1,43 @@
+{"items":[{	"arName":"ايستهاوس",
+	"enName":"East House",
+	"hotlone":"16141",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"123327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/east-house/123327?b=4&k=16141&l=search",
+	"arName":"القطعة الثانية - بلوك 13125 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"2nd plot, block 13125, , 1st Industrial Zone, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"القاهرة للمبيعات",
+	"enName":"Cairo Sales Stores",
+	"hotlone":"16141",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"155653",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-sales-stores/155653?b=1&k=16141&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"288845",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-sales-stores/288845?b=2&k=16141&l=search",
+	"arName":"73 ش عمر بن الخطاب ميدان السبع عمارات, مصر الجديدة, القاهرة",
+	"enName":"73 Omar Ibn El Khattab St. El Sabaa Emarat Sq., Heliopolis, Cairo"
+},
+		{	"profileId":"10035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-sales-stores/10035?b=3&k=16141&l=search",
+	"arName":"86 ش شهاب متفرع من ش وادى النيل, المهندسين, الجيزة",
+	"enName":"86 Shehab St. Off Wadi El Nil St., Mohandeseen, Giza"
+}
+	]
+}]}

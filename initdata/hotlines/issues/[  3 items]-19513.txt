@@ -1,0 +1,54 @@
+{"items":[{	"arName":"الشركة المصرية العربية",
+	"enName":"The Egyptian Arab Co.",
+	"hotlone":"19513",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"232549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-egyptian-arab-co./232549?b=3&k=19513&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"139420",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-egyptian-arab-co./139420?b=2&k=19513&l=search",
+	"arName":"112 ش محيى الدين ابو العز - الدور 2, المهندسين, الجيزة",
+	"enName":"112 Mohy El Din Abou El Ezz St., Floor 2, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"جاردن هيلز لادارة المشروعات",
+	"enName":"Garden Hills",
+	"hotlone":"19513",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"369996",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/garden-hills/369996?b=1&k=19513&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}, {	"arName":"الشركة المصرية العربية للمبانى الحديثة والتعمير",
+	"enName":"The Egyptian Arab Co. For Modern Building & Reconstruction",
+	"hotlone":"19513",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"405275",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-egyptian-arab-co.-for-modern-building-&-reconstruction/405275?b=4&k=19513&l=search",
+	"arName":"112 ش محيى الدين ابو العز - الدور 2, الدقى, الجيزة",
+	"enName":"112 Mohy El Din Abou El Ezz St., Floor 2, Dokki, Giza"
+}
+	]
+}]}

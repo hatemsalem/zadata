@@ -1,0 +1,32 @@
+{"items":[{	"arName":"تيم لتداول الاوراق المالية",
+	"enName":"Team For Stock Exchange",
+	"hotlone":"16455",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"580365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/team-for-stock-exchange/580365?b=2&k=16455&l=search",
+	"arName":"37 ش السلطان حسين, محطة الرمل, الاسكندرية",
+	"enName":"37 El Sultan Hussein St., Raml station, Alexandria"
+},
+		{	"profileId":"393712",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/team-for-stock-exchange/393712?b=3&k=16455&l=search",
+	"arName":"6 ش الكوثر متفرع من ش جدة, المهندسين, الجيزة",
+	"enName":"6 El Kawthar St. Off Jeddah St., Mohandeseen, Giza"
+},
+		{	"profileId":"393715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/team-for-stock-exchange/393715?b=4&k=16455&l=search",
+	"arName":"خدمة العملاء, محطة الرمل, الاسكندرية",
+	"enName":"Customer Service, Raml station, Alexandria"
+},
+		{	"profileId":"393713",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/team-for-stock-exchange/393713?b=1&k=16455&l=search",
+	"arName":"ش نور الدين تقاطع ش الجيش, المنصورة, الدقهلية",
+	"enName":"Nour El Din St. Intersection Of El Guish St., El mansoura, El dakahleya"
+}
+	]
+}]}

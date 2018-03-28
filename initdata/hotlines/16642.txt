@@ -1,0 +1,42 @@
+{"items":[{	"arName":"بنده سوبر",
+	"enName":"Panda Super",
+	"hotlone":"16642",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"527411",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/527411?b=4&k=16642&l=search",
+	"arName":"محلية 8 - ش سليمان الفارسى - الحى الاول, مدينة العبور, القليوبية",
+	"enName":"Mahaleya 8, Soliman El Faresy St., 1st District, Obour city, Kaliobeya"
+},
+		{	"profileId":"574245",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/574245?b=5&k=16642&l=search",
+	"arName":"القطعة 1 - - اسيوط الجديدة, اسيوط, اسيوط",
+	"enName":"Plot 1, , Asiout El Gadida, Assyout, Assyout"
+},
+		{	"profileId":"544346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/544346?b=1&k=16642&l=search",
+	"arName":"4 طريق النصر تقاطع ش مكرم عبيد, مدينة نصر, القاهرة",
+	"enName":"4 El Nasr Rd. Intersection Of Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"522322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/522322?b=3&k=16642&l=search",
+	"arName":"طريق القاهرة اسكندرية الزراعى, قها, القليوبية",
+	"enName":"Cairo Alex Agricultural Rd., Kaha, Kaliobeya"
+},
+		{	"profileId":"488166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/488166?b=6&k=16642&l=search",
+	"arName":"المحور المركزى - ميدان النجدة, الحى العاشر, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Nagdah Sq., 10th District, 6th of october, Giza"
+},
+		{	"profileId":"522412",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/522412?b=2&k=16642&l=search",
+	"arName":"خدمة العملاء, الحى العاشر, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 10th District, 6th of october, Giza"
+}
+	]
+}]}

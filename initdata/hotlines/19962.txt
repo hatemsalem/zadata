@@ -1,0 +1,142 @@
+{"items":[{	"arName":"كايرو لاب للتحاليل الطبية",
+	"enName":"Cairo Lab",
+	"hotlone":"19962",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"543953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/543953?b=20&k=19962&l=search",
+	"arName":"2 عمارات شباب المهندسين - طريق النصر, مدينة نصر, القاهرة",
+	"enName":"2 Shabab El Mohandeseen Bldgs., El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"466989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/466989?b=26&k=19962&l=search",
+	"arName":"42 ش مصدق - الدور 2, الدقى, الجيزة",
+	"enName":"42 Mossadak St., Floor 2, Dokki, Giza"
+},
+		{	"profileId":"167140",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/167140?b=6&k=19962&l=search",
+	"arName":"1 /1 ش فلسطين - الدور 1, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"1 /1 Palestine St., Floor 1, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"315311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/315311?b=10&k=19962&l=search",
+	"arName":"56 طريق مصر حلوان الزراعى - برج بدر - الدور 7, المعادى, القاهرة",
+	"enName":"56 Misr Helwan Agricultural Rd., Badr Tower, Floor 7, Maadi, Cairo"
+},
+		{	"profileId":"73063",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/73063?b=4&k=19962&l=search",
+	"arName":"81 عمارات عثمان - ش مصطفى النحاس تقاطع ش عباس العقاد - الدور 2 شقة 203, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"81 Othman Bldgs., Mostafa El Nahhas St. Intersection Of Abbas El Akkad St., Floor 2 Flat 203, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"466993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/466993?b=11&k=19962&l=search",
+	"arName":"41 ش رايل - الدور 1, حلوان, القاهرة",
+	"enName":"41 Rayel St., Floor 1, Helwan, Cairo"
+},
+		{	"profileId":"383278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/383278?b=18&k=19962&l=search",
+	"arName":"ش طومانباى ميدان ابن الحكم - ابراج العز - برج أ - الدور 6, الزيتون, القاهرة",
+	"enName":"Tomanbay St. Ibn El Hakam Sq., El Ezz Towers, Tower A, Floor 6, El zaytoun, Cairo"
+},
+		{	"profileId":"466990",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/466990?b=1&k=19962&l=search",
+	"arName":"الشطر 13 - برج الندى - الدور 1 شقة 1, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Sector 13, El Nada Tower, Floor 1 Flat 1, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"379164",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/379164?b=24&k=19962&l=search",
+	"arName":"ميدان الحصرى, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"enName":"El Hosary Sq., 8th District, 6th of october, Giza"
+},
+		{	"profileId":"175118",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/175118?b=14&k=19962&l=search",
+	"arName":"32 ش زكى تقاطع ش رياض - برج لؤلؤة حلوان - الدور 1, حلوان, القاهرة",
+	"enName":"32 Zaky St. Intersection Of Riad St., Loualoaat Helwan Tower, Floor 1, Helwan, Cairo"
+},
+		{	"profileId":"383273",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/383273?b=17&k=19962&l=search",
+	"arName":"13 ش نوبار تقاطع ش اسماعيل اباظة - الدور 2, لاظوغلى, القاهرة",
+	"enName":"13 Noubar St. Intersection Of Ismail Abaza St., Floor 2, Lazoughly, Cairo"
+},
+		{	"profileId":"8090",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/8090?b=22&k=19962&l=search",
+	"arName":"4 ش شهاب, المهندسين, الجيزة",
+	"enName":"4 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"175113",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/175113?b=13&k=19962&l=search",
+	"arName":"138 ش النزهة - برج بانوراما - الدور 2, تريومف, مصر الجديدة, القاهرة",
+	"enName":"138 El Nozha St., Panorama Tower, Floor 2, Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"107702",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/107702?b=21&k=19962&l=search",
+	"arName":"446 ش فيصل - برج النصر - الدور 2, فيصل, الجيزة",
+	"enName":"446 Faisal St., El Nasr Tower, Floor 2, Faisal, Giza"
+},
+		{	"profileId":"175131",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/175131?b=9&k=19962&l=search",
+	"arName":"40 ش شبرا - الدور 4, شبرا, القاهرة",
+	"enName":"40 Shoubra St., Floor 4, Shoubra, Cairo"
+},
+		{	"profileId":"564600",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/564600?b=3&k=19962&l=search",
+	"arName":"74 ش النزهة ميدان السبع عمارات - برج الامير, مصر الجديدة, القاهرة",
+	"enName":"74 El Nozha St. El Sabaa Emarat Sq., El Amir Tower, Heliopolis, Cairo"
+},
+		{	"profileId":"175097",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/175097?b=7&k=19962&l=search",
+	"arName":"9 ش شريف - الدور 2, باب اللوق, القاهرة",
+	"enName":"9 Sherif St., Floor 2, Bab el louk, Cairo"
+},
+		{	"profileId":"73059",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/73059?b=19&k=19962&l=search",
+	"arName":"89 أ ش المنيل - الدور 2, المنيل, القاهرة",
+	"enName":"89 A Manial St., Floor 2, El manyal, Cairo"
+},
+		{	"profileId":"73058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/73058?b=15&k=19962&l=search",
+	"arName":"54 ش عبد الخالق ثروت - الدور 2, وسط البلد, القاهرة",
+	"enName":"54 Abdel Khaleq Tharwat St., Floor 2, Downtown, Cairo"
+},
+		{	"profileId":"466997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/466997?b=25&k=19962&l=search",
+	"arName":"ش النيل السعيد - برج المصطفى - الدور 2, البدرشين, الجيزة",
+	"enName":"El Nil El Said St., El Mostafa Tower, Floor 2, El badrashin, Giza"
+},
+		{	"profileId":"466995",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/466995?b=2&k=19962&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"531912",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/531912?b=12&k=19962&l=search",
+	"arName":"ش 306 - الدور 2, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Rd. 306, Floor 2, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"313617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/313617?b=16&k=19962&l=search",
+	"arName":"القطعة 18 - - منطقة خدمات التجمع الخامس, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 18, , 5th Compound Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"244463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/244463?b=23&k=19962&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"235697",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/235697?b=5&k=19962&l=search",
+	"arName":"18 ش المنصورة - برج هارون - الدور 3, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"18 El Mansoura St., Haroun Tower, Floor 3, El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"175105",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-lab/175105?b=8&k=19962&l=search",
+	"arName":"القطعة 6030 - ش الاكاديمية تقاطع ش 9, المقطم, القاهرة",
+	"enName":"Plot 6030, El Academeya St. Intersection Of Rd. 9, Mokattam, Cairo"
+}
+	]
+}]}

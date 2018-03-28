@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ميدكوم للرعاية الصحية",
+	"enName":"Medcom Health Care",
+	"hotlone":"19274",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"270691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medcom-health-care/270691?b=1&k=19274&l=search",
+	"arName":"78 ش عبد العزيز فهمى, مصر الجديدة, القاهرة",
+	"enName":"78 Abdel Aziz Fahmy St., Heliopolis, Cairo"
+},
+		{	"profileId":"422097",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medcom-health-care/422097?b=2&k=19274&l=search",
+	"arName":"خدمة العملاء, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Saint Fatima, Heliopolis, Cairo"
+}
+	]
+}]}

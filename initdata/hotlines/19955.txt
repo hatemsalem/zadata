@@ -1,0 +1,122 @@
+{"items":[{	"arName":"صيدليات دلمار وعطا الله",
+	"enName":"DELMAR & ATTALLA PHARMACIES",
+	"hotlone":"19955",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"101291",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/101291?b=1&k=19955&l=search",
+	"arName":"5 ش عماد الدين - الدور 3, وسط البلد, القاهرة",
+	"enName":"5 Emad El Dien St., Floor 3, Downtown, Cairo"
+},
+		{	"profileId":"518900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/518900?b=5&k=19955&l=search",
+	"arName":"77 ش ترعة جزيرة بدران امتداد ش مسرة, شبرا, القاهرة",
+	"enName":"77 Teraet Geziret Badran St. Extension Of Masarra St., Shoubra, Cairo"
+},
+		{	"profileId":"43357",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/43357?b=6&k=19955&l=search",
+	"arName":"9 ش 26 يوليو, وسط البلد, القاهرة",
+	"enName":"9 26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"489838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/489838?b=19&k=19955&l=search",
+	"arName":"34 ش العشرين, فيصل, الجيزة",
+	"enName":"34 El Eshreen St., Faisal, Giza"
+},
+		{	"profileId":"139933",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/139933?b=2&k=19955&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, وسط البلد, القاهرة",
+	"enName":"home Delivery, Downtown, Cairo"
+},
+		{	"profileId":"325879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/325879?b=3&k=19955&l=search",
+	"arName":"1 ش شيكولانى متفرع من ش شبرا, شبرا, القاهرة",
+	"enName":"1 Shekoulany St. Off Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"64013",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/64013?b=11&k=19955&l=search",
+	"arName":"221 طريق مصر حلوان الزراعى, حدائق المعادى, المعادى, القاهرة",
+	"enName":"221 Misr Helwan Agricultural Rd., Hadayek El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"518253",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/518253?b=4&k=19955&l=search",
+	"arName":"30 ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"30 Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"160881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/160881?b=20&k=19955&l=search",
+	"arName":"9 ش محمود غالب متفرع من ش الهرم, نصر الدين, الهرم, الجيزة",
+	"enName":"9 Mahmoud Ghaleb St. Off Haram St., Nasr El Din, El haram, Giza"
+},
+		{	"profileId":"43359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/43359?b=13&k=19955&l=search",
+	"arName":"13 ش شريف باشا, وسط البلد, القاهرة",
+	"enName":"13 Sherif Pasha St., Downtown, Cairo"
+},
+		{	"profileId":"449745",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/449745?b=16&k=19955&l=search",
+	"arName":"89 ش ابن الحكم, حلمية الزيتون, القاهرة",
+	"enName":"89 Ibn El Hakam St., Helmeyet el zaitoun, Cairo"
+},
+		{	"profileId":"553211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/553211?b=17&k=19955&l=search",
+	"arName":"عمارة 449ح, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"Bldg. 449H, Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"469801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/469801?b=22&k=19955&l=search",
+	"arName":"بفرلى هيلز, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Beverly Hills, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"489835",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/489835?b=15&k=19955&l=search",
+	"arName":"11 ش جواد حسنى متفرع من ش رشدى, عابدين, القاهرة",
+	"enName":"11 Gawad Hosny St. Off Roshdy St., Abdin, Cairo"
+},
+		{	"profileId":"297351",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/297351?b=9&k=19955&l=search",
+	"arName":"22 ميدان الظاهر, الظاهر, القاهرة",
+	"enName":"22 El Zaher Sq., El zaher, Cairo"
+},
+		{	"profileId":"278786",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/278786?b=8&k=19955&l=search",
+	"arName":"79 ش 26 يوليو, بولاق, القاهرة",
+	"enName":"79 26th Of July St., Boulak, Cairo"
+},
+		{	"profileId":"470445",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/470445?b=10&k=19955&l=search",
+	"arName":"25 ش قصر العينى, قصر العينى, القاهرة",
+	"enName":"25 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"469400",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/469400?b=18&k=19955&l=search",
+	"arName":"55 ش النادى الرياضى - برج الاطباء, فيصل, الجيزة",
+	"enName":"55 El Nady El Riady St., El Atebaa Tower, Faisal, Giza"
+},
+		{	"profileId":"140099",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/140099?b=7&k=19955&l=search",
+	"arName":"88 ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"88 Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"140100",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/140100?b=21&k=19955&l=search",
+	"arName":"69 ش فيصل, المريوطية, فيصل, الجيزة",
+	"enName":"69 Faisal St., El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"251921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/251921?b=12&k=19955&l=search",
+	"arName":"44 أ ش المنتزة, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"enName":"44 A El Montazah St., Heliopolis Square, Heliopolis, Cairo"
+},
+		{	"profileId":"470443",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-&-attalla-pharmacies/470443?b=14&k=19955&l=search",
+	"arName":"80 ش العباسية ميدان عبده باشا, عباسية, القاهرة",
+	"enName":"80 Abbaseya St. Abdou Pasha Sq., Abbasseya, Cairo"
+}
+	]
+}]}

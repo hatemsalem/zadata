@@ -1,0 +1,56 @@
+{"items":[{	"arName":"هانيمكس",
+	"enName":"Hanimex",
+	"hotlone":"16985",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق",
+		"ابواب وشبابيك - اكسسوار",
+		"منسوجات"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden",
+		"Doors & Windows - Hardware",
+		"Textiles"
+	],
+	"contacts":[
+		{	"profileId":"77343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hanimex/77343?b=5&k=16985&l=search",
+	"arName":"15 ش احمد عرابى ميدان سفنكس, المهندسين, الجيزة",
+	"enName":"15 Ahmed Orabi St. Sphinx Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"64660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hanimex/64660?b=6&k=16985&l=search",
+	"arName":"عمارات لاندمارك - طريق كوبرى 14 مايو, سموحة, الاسكندرية",
+	"enName":"Landmark Bldgs., 14th Of May Bridge Rd., Semouha, Alexandria"
+},
+		{	"profileId":"21907",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hanimex/21907?b=3&k=16985&l=search",
+	"arName":"1 ش معز الدولة متفرع من ش مكرم عبيد, مدينة نصر, القاهرة",
+	"enName":"1 Moez El Dawla St. Off Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"370053",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hanimex/370053?b=8&k=16985&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"475632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hanimex/475632?b=1&k=16985&l=search",
+	"arName":"119/121 ش البنوك امتداد ش السبعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"119/121 El Benouk St. Extension Of El Sabeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"547311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hanimex/547311?b=4&k=16985&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"547300",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hanimex/547300?b=7&k=16985&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"191388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hanimex/191388?b=2&k=16985&l=search",
+	"arName":"5 ش معز الدولة متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"5 Moez El Dawla St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

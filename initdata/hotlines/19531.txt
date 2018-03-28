@@ -1,0 +1,27 @@
+{"items":[{	"arName":"مدرسة منارة البيان للغات",
+	"enName":"Manaret El Bayan Language School",
+	"hotlone":"19531",
+	"arCategory":[
+		"مدارس لغات"
+	],
+	"enCategories":[
+		"Schools - Languages"
+	],
+	"contacts":[
+		{	"profileId":"113996",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manaret-el-bayan-language-school/113996?b=1&k=19531&l=search",
+	"arName":"38 ش البيان متفرع من ش جمال عبد الناصر, الحرفيين, القاهرة",
+	"enName":"38 El Bayan St. Off Gamal Abdel Nasser St., El herafeyeen, Cairo"
+},
+		{	"profileId":"187986",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manaret-el-bayan-language-school/187986?b=2&k=19531&l=search",
+	"arName":"الحى الثانى, مدينة العبور, القليوبية",
+	"enName":"2nd District, Obour city, Kaliobeya"
+},
+		{	"profileId":"564098",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manaret-el-bayan-language-school/564098?b=3&k=19531&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+}
+	]
+}]}

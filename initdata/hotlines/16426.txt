@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ايجيكير",
+	"enName":"Egycare",
+	"hotlone":"16426",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"63658",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egycare/63658?b=1&k=16426&l=search",
+	"arName":"20 ش الطاقة - مشروع 27 عمارة, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"20 El Taqqa St., 27 Bldgs. Project, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"546200",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egycare/546200?b=2&k=16426&l=search",
+	"arName":"خدمة العملاء, الحى السادس, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th District, Nasr city, Cairo"
+}
+	]
+}]}

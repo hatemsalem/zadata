@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المركز الطبى للمقاولون العرب",
+	"enName":"Arab Contractors Medical Center",
+	"hotlone":"19660",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"3610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-contractors-medical-center/3610?b=1&k=19660&l=search",
+	"arName":"طريق النصر - الجبل الاخضر, مدينة نصر, القاهرة",
+	"enName":"El Nasr Rd., El Gabal El Akhdar, Nasr city, Cairo"
+},
+		{	"profileId":"167281",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-contractors-medical-center/167281?b=2&k=19660&l=search",
+	"arName":"خدمة طوارئ, مدينة نصر, القاهرة",
+	"enName":"Emergency Service, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,122 @@
+{"items":[{	"arName":"المجموعة المتحدة",
+	"enName":"Union Group",
+	"hotlone":"19406",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"532454",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/532454?b=13&k=19406&l=search",
+	"arName":"1 ش احمد الشرقاوى متفرع من ش فيصل, فيصل, الجيزة",
+	"enName":"1 Ahmed El Sharqawy St. Off Faisal St., Faisal, Giza"
+},
+		{	"profileId":"533444",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533444?b=15&k=19406&l=search",
+	"arName":"ش عباس محمود - ش البركة سابقا, وسط البلد, اسوان",
+	"enName":"Abbas Mahmoud St. - El Baraka St. Previously, Downtown, Aswan"
+},
+		{	"profileId":"533421",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533421?b=11&k=19406&l=search",
+	"arName":"ش المشاية - برج سالى بلازا, المنصورة, الدقهلية",
+	"enName":"El Mashaya St., Saly Plaza Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"533222",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533222?b=4&k=19406&l=search",
+	"arName":"73 ش شبرا - مسرة, شبرا, القاهرة",
+	"enName":"73 Shoubra St., Masarra, Shoubra, Cairo"
+},
+		{	"profileId":"533871",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533871?b=8&k=19406&l=search",
+	"arName":"40 ش الفردوس, سموحة, الاسكندرية",
+	"enName":"40 El Fardous St., Semouha, Alexandria"
+},
+		{	"profileId":"390863",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/390863?b=14&k=19406&l=search",
+	"arName":"80 ش مصدق تقاطع ش محيى الدين ابو العز, الدقى, الجيزة",
+	"enName":"80 Mossadak St. Intersection Of Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"533431",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533431?b=21&k=19406&l=search",
+	"arName":"77 ش عدلى يكن, حى السويس, السويس",
+	"enName":"77 Adly Yakan St., Suez district, Suez"
+},
+		{	"profileId":"532473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/532473?b=3&k=19406&l=search",
+	"arName":"2 /9 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"2 /9 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"533221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533221?b=6&k=19406&l=search",
+	"arName":"1 ش الغمراوى متفرع من ش شبرا, شبرا, القاهرة",
+	"enName":"1 El Ghamrawy St. Off Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"331892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/331892?b=19&k=19406&l=search",
+	"arName":"21 ش الاستاد - برج البسطاويسى, طنطا, الغربية",
+	"enName":"21 El Estad St., El Bastawesy Tower, Tanta, El gharbeya"
+},
+		{	"profileId":"187056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/187056?b=22&k=19406&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"533219",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533219?b=5&k=19406&l=search",
+	"arName":"16 عمارات رابعة الاستثمارى - ش النزهة ميدان الساعة, مدينة نصر, القاهرة",
+	"enName":"16 Rabaa Investment Bldgs., El Nozha St. El Saah Sq., Nasr city, Cairo"
+},
+		{	"profileId":"533879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533879?b=18&k=19406&l=search",
+	"arName":"383 ش جمال عبد الناصر, العصافرة, الاسكندرية",
+	"enName":"383 Gamal Abdel Nasser St., El asafra, Alexandria"
+},
+		{	"profileId":"277013",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/277013?b=1&k=19406&l=search",
+	"arName":"61 ش فريد سميكة متفرع من ميدان الحجاز, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"61 Farid Semeika St. Off El Hegaz Sq., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"533438",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533438?b=12&k=19406&l=search",
+	"arName":"362 ش الجيش - برج بلال, حى الاربعين, السويس",
+	"enName":"362 El Guish St., Belal Tower, El arbeen, Suez"
+},
+		{	"profileId":"533867",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533867?b=17&k=19406&l=search",
+	"arName":"1 ميدان المحطة, وسط البلد, قنا",
+	"enName":"1 El Mahatta Sq., Downtown, Qena"
+},
+		{	"profileId":"533888",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533888?b=9&k=19406&l=search",
+	"arName":"6 ش سوريا, رشدى, الاسكندرية",
+	"enName":"6 Syria St., Roushdy, Alexandria"
+},
+		{	"profileId":"533468",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533468?b=16&k=19406&l=search",
+	"arName":"الشارع الجديد - ش صلاح الدين سابقا, الكورنيش, اسوان",
+	"enName":"El Gadid St. - Salah El Din St. Previously, El corniche, Aswan"
+},
+		{	"profileId":"533424",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533424?b=20&k=19406&l=search",
+	"arName":"1 ش محمد ممتاز متفرع من ش الجمهورية, اسيوط, اسيوط",
+	"enName":"1 Mohamed Momtaz St. Off El Gomhoureya St., Assyout, Assyout"
+},
+		{	"profileId":"532466",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/532466?b=2&k=19406&l=search",
+	"arName":"58 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"58 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"394070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/394070?b=10&k=19406&l=search",
+	"arName":"138 ش الهرم, الهرم, الجيزة",
+	"enName":"138 Haram St., El haram, Giza"
+},
+		{	"profileId":"567179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/567179?b=7&k=19406&l=search",
+	"arName":"29 ش 9, المقطم, القاهرة",
+	"enName":"29 Rd. 9, Mokattam, Cairo"
+}
+	]
+}]}

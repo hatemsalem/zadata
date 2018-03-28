@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مؤسسة بهية للاكتشاف المبكر وعلاج سرطان الثدى",
+	"enName":"Baheya Foundation For Early Detection & Treatment Of Breast Cancer",
+	"hotlone":"16602",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"465664",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baheya-foundation-for-early-detection-&-treatment-of-breast-cancer/465664?b=1&k=16602&l=search",
+	"arName":"4 ش علوبة مدكور, مدكور, الهرم, الجيزة",
+	"enName":"4 Alouba Madkour St., Madkour, El haram, Giza"
+},
+		{	"profileId":"544085",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baheya-foundation-for-early-detection-&-treatment-of-breast-cancer/544085?b=2&k=16602&l=search",
+	"arName":"خدمة طوارئ, مدكور, الهرم, الجيزة",
+	"enName":"Emergency Service, Madkour, El haram, Giza"
+}
+	]
+}]}

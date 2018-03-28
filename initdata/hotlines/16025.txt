@@ -1,0 +1,17 @@
+{"items":[{	"arName":"اكسكلوسيفز كارد",
+	"enName":"Xclusives Card",
+	"hotlone":"16025",
+	"arCategory":[
+		"كروت تخفيض"
+	],
+	"enCategories":[
+		"Discount Cards"
+	],
+	"contacts":[
+		{	"profileId":"219464",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/xclusives-card/219464?b=1&k=16025&l=search",
+	"arName":"42 ش معز الدولة متفرع من ش مكرم, مدينة نصر, القاهرة",
+	"enName":"42 Moaz El Dawla St. Off Makram Ebaid St., Nasr city, Cairo"
+}
+	]
+}]}

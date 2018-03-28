@@ -1,0 +1,37 @@
+{"items":[{	"arName":"كومفورت سليب",
+	"enName":"Comfort Sleep",
+	"hotlone":"16509",
+	"arCategory":[
+		"مفروشات"
+	],
+	"enCategories":[
+		"Bedding"
+	],
+	"contacts":[
+		{	"profileId":"498492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/comfort-sleep/498492?b=1&k=16509&l=search",
+	"arName":"ش المحكمة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Mahkama St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"343170",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/comfort-sleep/343170?b=2&k=16509&l=search",
+	"arName":"48 ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"48 Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"498475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/comfort-sleep/498475?b=5&k=16509&l=search",
+	"arName":"17 ش لبنان, المهندسين, الجيزة",
+	"enName":"17 Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"280059",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/comfort-sleep/280059?b=3&k=16509&l=search",
+	"arName":"بلوك 20021 - القطعة الثامنة - الامتداد الغربى - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"Block 20021, 8th Plot, Western Extension, 1St Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"370114",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/comfort-sleep/370114?b=4&k=16509&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}]}

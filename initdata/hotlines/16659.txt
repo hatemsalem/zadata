@@ -1,0 +1,17 @@
+{"items":[{	"arName":"الامبراطور لصناعة السيراميك ش.م.م",
+	"enName":"Embrator Ceramic Industries S. A.E",
+	"hotlone":"16659",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"436688",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/embrator-ceramic-industries-s.-a.e/436688?b=1&k=16659&l=search",
+	"arName":"48 المحور المركزى, الحى الثالث, السادس من اكتوبر, الجيزة",
+	"enName":"48 Central Spine, 3rd District, 6th of october, Giza"
+}
+	]
+}]}

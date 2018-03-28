@@ -1,0 +1,17 @@
+{"items":[{	"arName":"مستشفى الكاتب",
+	"enName":"El Katib Hospital",
+	"hotlone":"19038",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"514498",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-katib-hospital/514498?b=1&k=19038&l=search",
+	"arName":"خدمة طوارئ, الدقى, الجيزة",
+	"enName":"Emergency Service, Dokki, Giza"
+}
+	]
+}]}

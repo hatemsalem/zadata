@@ -1,0 +1,71 @@
+{"items":[{	"arName":"مطعم بهية",
+	"enName":"Bahya Restaurant",
+	"hotlone":"19074",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم مصرية",
+		"ماكولات شرقية",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Egyptian Cuisine",
+		"Oriental Food",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"456844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bahya-restaurant/456844?b=1&k=19074&l=search",
+	"arName":"عمارة الشرق للتامين - ميدان المسلة, المسلة, الفيوم",
+	"enName":"El Sharq Lel Taamin Bldg., El Masalla Sq., El massalah, El fayoum"
+},
+		{	"profileId":"489725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bahya-restaurant/489725?b=2&k=19074&l=search",
+	"arName":"المحور المركزى - ميدان الحصرى, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Hosary Sq., 7th District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"مطعم وينجز",
+	"enName":"Wings Restaurant",
+	"hotlone":"19074",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"495728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wings-restaurant/495728?b=4&k=19074&l=search",
+	"arName":"ميدان المسلة - عمارة الشرق للتأمين, المسلة, الفيوم",
+	"enName":"El Masalla Sq., El Sharq Lel Taamin Bldg., El massalah, El fayoum"
+},
+		{	"profileId":"495732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wings-restaurant/495732?b=5&k=19074&l=search",
+	"arName":"ش شيرى, سقالة, الغردقة",
+	"enName":"Sherry St., Sekala, Hurghada"
+}
+	]
+}, {	"arName":"كافيه فلوريلا",
+	"enName":"Florella Cafe",
+	"hotlone":"19074",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"495733",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/florella-cafe/495733?b=3&k=19074&l=search",
+	"arName":"ميدان المسلة - عمارة الشرق للتأمين, المسلة, الفيوم",
+	"enName":"El Masalla Sq., El Sharq Lel Taamin Bldg., El massalah, El fayoum"
+}
+	]
+}]}

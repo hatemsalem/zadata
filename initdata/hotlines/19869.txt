@@ -1,0 +1,17 @@
+{"items":[{	"arName":"استبينا",
+	"enName":"Estabena",
+	"hotlone":"19869",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"391393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/estabena/391393?b=1&k=19869&l=search",
+	"arName":"2 ش حوض اللبن, جاردن سيتى, القاهرة",
+	"enName":"2 Houd El Laban St., Garden city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,36 @@
+{"items":[{	"arName":"مطعم انس الدمشقى",
+	"enName":"Anas Damascene Restaurant",
+	"hotlone":"16206",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"467146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anas-damascene-restaurant/467146?b=4&k=16206&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"467144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anas-damascene-restaurant/467144?b=2&k=16206&l=search",
+	"arName":"1 ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"1 Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"447195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anas-damascene-restaurant/447195?b=3&k=16206&l=search",
+	"arName":"125 ش النزهة, تريومف, مصر الجديدة, القاهرة",
+	"enName":"125 El Nozha St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"175868",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anas-damascene-restaurant/175868?b=1&k=16206&l=search",
+	"arName":"6 عمارات الامداد والتموين - طريق النصر, مدينة نصر, القاهرة",
+	"enName":"6 El Emdad & El Tamween Bldgs., El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}]}

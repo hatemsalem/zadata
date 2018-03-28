@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المصرية لخدمات تكنولوجيا المعلومات ذات القيمة المضافة - فاس",
+	"enName":"El Masria For Information Technology Services - VAS",
+	"hotlone":"19827",
+	"arCategory":[
+		"كمبيوتر برامج"
+	],
+	"enCategories":[
+		"Computer Software"
+	],
+	"contacts":[
+		{	"profileId":"187225",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-for-information-technology-services-_-vas/187225?b=1&k=19827&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"139432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-for-information-technology-services-_-vas/139432?b=2&k=19827&l=search",
+	"arName":"11 ش كمال حسن على, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"11 Kamal Hassan Aly St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

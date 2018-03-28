@@ -1,0 +1,416 @@
+{"items":[{	"arName":"بورتو مارينا ريزيدنس",
+	"enName":"Porto Marina Residence",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"475061",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-marina-residence/475061?b=22&k=19106&l=search",
+	"arName":"كم 97 - طريق اسكندرية مطروح الصحراوى, مارينا, الساحل الشمالى",
+	"enName":"Km 97, Alex Matrouh Desert Rd., Marina, North coast"
+}
+	]
+}, {	"arName":"عامر جروب",
+	"enName":"Amer Group",
+	"hotlone":"19106",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"295858",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/295858?b=5&k=19106&l=search",
+	"arName":"78 ش بيروت, مصر الجديدة, القاهرة",
+	"enName":"78 Beirut St., Heliopolis, Cairo"
+},
+		{	"profileId":"478256",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/478256?b=7&k=19106&l=search",
+	"arName":"فيلا 8 - ش 213, دجلة, المعادى, القاهرة",
+	"enName":"Villa 8, Rd. 213, Degla, Maadi, Cairo"
+},
+		{	"profileId":"397167",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/397167?b=3&k=19106&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"397173",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/397173?b=6&k=19106&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"397177",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/397177?b=9&k=19106&l=search",
+	"arName":"97 ابراج اللؤلؤة - كورنيش النيل, شبرا, القاهرة",
+	"enName":"97 El Loaloaa Towers, Corniche El Nil, Shoubra, Cairo"
+},
+		{	"profileId":"397178",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/397178?b=11&k=19106&l=search",
+	"arName":"20 ش عبد الحميد لطفى, المهندسين, الجيزة",
+	"enName":"20 Abdel Hamid Lotfy St., Mohandeseen, Giza"
+},
+		{	"profileId":"397179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/397179?b=4&k=19106&l=search",
+	"arName":"ش النهر, الزمالك, القاهرة",
+	"enName":"El Nahr St., Zamalek, Cairo"
+},
+		{	"profileId":"160852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/160852?b=2&k=19106&l=search",
+	"arName":"11 ش كليوباترا, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"11 Cleopatra St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"397184",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/397184?b=12&k=19106&l=search",
+	"arName":"4 ش احمد يحيى, جليم, الاسكندرية",
+	"enName":"4 Ahmed Yehia St., Glim, Alexandria"
+},
+		{	"profileId":"397165",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/397165?b=8&k=19106&l=search",
+	"arName":"93 ش الميرغنى - الدور 8, مصر الجديدة, القاهرة",
+	"enName":"93 El Merghany St., Floor 8, Heliopolis, Cairo"
+},
+		{	"profileId":"263360",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/263360?b=1&k=19106&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"397181",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amer-group/397181?b=10&k=19106&l=search",
+	"arName":"القطعة الثانية - امتداد محور 26 يوليو - الدور 2, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"2Nd Plot, Extension Of 26Th Of July Spine, Floor 2, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"بينو برافو",
+	"enName":"Pino Bravo",
+	"hotlone":"19106",
+	"arCategory":[
+		"احذية وشنط محلات"
+	],
+	"enCategories":[
+		"Shoes & Bags Retail"
+	],
+	"contacts":[
+		{	"profileId":"482879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pino-bravo/482879?b=18&k=19106&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بورتو نيو كايرو",
+	"enName":"Porto New Cairo",
+	"hotlone":"19106",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"397189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-new-cairo/397189?b=25&k=19106&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ايف روشيه ايجيبت",
+	"enName":"Yves Rocher Egypt",
+	"hotlone":"19106",
+	"arCategory":[
+		"مستحضرات تجميل"
+	],
+	"enCategories":[
+		"Cosmetics & Toiletries"
+	],
+	"contacts":[
+		{	"profileId":"512038",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yves-rocher-egypt/512038?b=33&k=19106&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}, {	"arName":"بورتو شرم",
+	"enName":"Porto Sharm",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"475064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-sharm/475064?b=28&k=19106&l=search",
+	"arName":"., خليج نبق, شرم الشيخ",
+	"enName":"., Nabq bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"الخان",
+	"enName":"El Khan",
+	"hotlone":"19106",
+	"arCategory":[
+		"مشويات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"B. B. Q.",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"465439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-khan/465439?b=14&k=19106&l=search",
+	"arName":"كم 110 - طريق مطروح اسكندرية الصحراوى, مارينا, الساحل الشمالى",
+	"enName":"Km 110, Matrouh Alex Desert Rd., Marina, North coast"
+}
+	]
+}, {	"arName":"هم هم",
+	"enName":"Hum Hum",
+	"hotlone":"19106",
+	"arCategory":[
+		"مطاعم ايطالية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Italian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"465441",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hum-hum/465441?b=17&k=19106&l=search",
+	"arName":"كم 110 - طريق مطروح اسكندرية الصحراوى, مارينا, الساحل الشمالى",
+	"enName":"Km 110, Matrouh Alex Desert Rd., Marina, North coast"
+}
+	]
+}, {	"arName":"جولف بورتو السخنة",
+	"enName":"Golf Porto Sokhna",
+	"hotlone":"19106",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"365882",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-porto-sokhna/365882?b=16&k=19106&l=search",
+	"arName":"كم 48 - طريق السويس الغردقة - الزعفرانة, العين السخنة, العين السخنة",
+	"enName":"Km 48, Suez Hurghada Rd., El Zaafarana, El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"بورتو كايرو",
+	"enName":"Porto Cairo",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"397172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-cairo/397172?b=19&k=19106&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بورتو كايرو مول",
+	"enName":"Porto Cairo Mall",
+	"hotlone":"19106",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"430021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-cairo-mall/430021?b=20&k=19106&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بورتو مارينا ريزورت اند سبا",
+	"enName":"Porto Marina Resort & Spa",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"105429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-marina-resort-&-spa/105429?b=23&k=19106&l=search",
+	"arName":"كم 105 - طريق اسكندرية مطروح الصحراوى - مارينا 3, مارينا, الساحل الشمالى",
+	"enName":"Km 105, Alex Matrouh Desert Rd., Marina 3, Marina, North coast"
+}
+	]
+}, {	"arName":"بورتو مارينا",
+	"enName":"Porto Marina",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"475056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-marina/475056?b=21&k=19106&l=search",
+	"arName":"كم 107 - طريق اسكندرية مطروح الصحراوى, مارينا, الساحل الشمالى",
+	"enName":"Km 107, Alex Matrouh Desert Rd., Marina, North coast"
+}
+	]
+}, {	"arName":"سكاى مول",
+	"enName":"Sky Mall",
+	"hotlone":"19106",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"466934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sky-mall/466934?b=32&k=19106&l=search",
+	"arName":"كم 48 - طريق السويس الغردقة - الزعفرانة, العين السخنة, العين السخنة",
+	"enName":"Km 48, Suez Hurghada Rd., El Zaafarana, El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"بورتو ساوث بيتش",
+	"enName":"Porto South Beach",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"466677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-south-beach/466677?b=29&k=19106&l=search",
+	"arName":"كم 58 - طريق السويس الغردقة, العين السخنة, العين السخنة",
+	"enName":"Km 58, Suez Hurghada Rd., El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"بورتو وورلد للفنادق والمنتجعات",
+	"enName":"Porto World Hotels & Resort",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"396409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-world-hotels-&-resort/396409?b=30&k=19106&l=search",
+	"arName":"6 ش محمد جلال, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"6 Mohamed Galal St., El Korba, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"مطعم وكافيه سيدى منصور",
+	"enName":"Sidi Mansour Restaurant & Cafe",
+	"hotlone":"19106",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"445444",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sidi-mansour-restaurant-&-cafe/445444?b=31&k=19106&l=search",
+	"arName":"كم 110 - طريق مطروح اسكندرية الصحراوى, مارينا, الساحل الشمالى",
+	"enName":"Km 110, Matrouh Alex Desert Rd., Marina, North coast"
+}
+	]
+}, {	"arName":"بورتو بيراميدز",
+	"enName":"Porto Pyramids",
+	"hotlone":"19106",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"509419",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-pyramids/509419?b=27&k=19106&l=search",
+	"arName":"كم 4.5 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 4.5,, Cairo alex desert rd., Giza"
+}
+	]
+}, {	"arName":"بورتو اكتوبر",
+	"enName":"Porto October",
+	"hotlone":"19106",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"404909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-october/404909?b=26&k=19106&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}, {	"arName":"جولف بورتو مارينا",
+	"enName":"Golf Porto Marina",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"152885",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-porto-marina/152885?b=15&k=19106&l=search",
+	"arName":"كم 110 - طريق مطروح اسكندرية الصحراوى, مارينا, الساحل الشمالى",
+	"enName":"Km 110, Matrouh Alex Desert Rd., Marina, North coast"
+}
+	]
+}, {	"arName":"دلمار للتنمية السياحية",
+	"enName":"Delmar For Touristic Development",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"411112",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delmar-for-touristic-development/411112?b=13&k=19106&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بورتو مطروح",
+	"enName":"Porto Matrouh",
+	"hotlone":"19106",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"369854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-matrouh/369854?b=24&k=19106&l=search",
+	"arName":"., حمامات كليوباترا, مرسى مطروح",
+	"enName":"., Hamamat cleopatra, Marsa matrouh"
+}
+	]
+}]}

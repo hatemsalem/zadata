@@ -1,0 +1,51 @@
+{"items":[{	"arName":"ناشيونال موتورز ايجيبت",
+	"enName":"National Motors Egypt",
+	"hotlone":"19076",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة",
+		"سيارات - قطع غيار وكماليات",
+		"سيارات - مراكز اصلاح وخدمات ومعدات"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars",
+		"Cars - Parts & Accessories",
+		"Cars - Repairing & Servicing Equipment"
+	],
+	"contacts":[
+		{	"profileId":"97414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-motors-egypt/97414?b=7&k=19076&l=search",
+	"arName":"15 ش السد العالى ميدان فينى, الدقى, الجيزة",
+	"enName":"15 El Sad El Aaly St. Veiny Sq., Dokki, Giza"
+},
+		{	"profileId":"124487",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-motors-egypt/124487?b=1&k=19076&l=search",
+	"arName":"10 ش سمير عبد الرؤوف امتداد ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"10 Samir Abdel Raouf St. Extension Of Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"124485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-motors-egypt/124485?b=4&k=19076&l=search",
+	"arName":"8 ش المساحة, حى شرق, اسيوط",
+	"enName":"8 El Messaha St., Shark district, Assyout"
+},
+		{	"profileId":"136074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-motors-egypt/136074?b=3&k=19076&l=search",
+	"arName":"ش سعد زغلول, حى شرق, اسيوط",
+	"enName":"Saad Zaghloul St., Shark district, Assyout"
+},
+		{	"profileId":"124492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-motors-egypt/124492?b=5&k=19076&l=search",
+	"arName":"كم 7 - طريق اسيوط القاهرة الزراعى - منقباد, اسيوط, اسيوط",
+	"enName":"Km 7, Asiout Cairo Agricultural Rd., Menqbad, Assyout, Assyout"
+},
+		{	"profileId":"124481",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-motors-egypt/124481?b=6&k=19076&l=search",
+	"arName":"2 برج الثورة - ش كورنيش النيل, حى شرق, اسيوط",
+	"enName":"2 El Thawra Tower, Corniche El Nil St., Shark district, Assyout"
+},
+		{	"profileId":"429146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-motors-egypt/429146?b=2&k=19076&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 8th District, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,123 @@
+{"items":[{	"arName":"مصر القدس للخدمات الغذائية",
+	"enName":"Masr El Kods For Food Services",
+	"hotlone":"19866",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"175282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175282?b=5&k=19866&l=search",
+	"arName":"32 ش صلاح الدين, مصر الجديدة, القاهرة",
+	"enName":"32 Salah El Din St., Heliopolis, Cairo"
+},
+		{	"profileId":"175271",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175271?b=7&k=19866&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"175293",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175293?b=13&k=19866&l=search",
+	"arName":"9 ش الغيث, العجوزة, الجيزة",
+	"enName":"9 El Gheith St., Agouza, Giza"
+},
+		{	"profileId":"175281",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175281?b=2&k=19866&l=search",
+	"arName":"ش 6 اكتوبر, النزهة الجديدة, القاهرة",
+	"enName":"6Th Of October St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"175270",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175270?b=4&k=19866&l=search",
+	"arName":"41 ش محمد امام, عين شمس, القاهرة",
+	"enName":"41 Mohamed Emam St., Ain shams, Cairo"
+},
+		{	"profileId":"175283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175283?b=8&k=19866&l=search",
+	"arName":"القسم القديم, مدينة السلام, القاهرة",
+	"enName":"El Qesm El Adem, El salam city, Cairo"
+},
+		{	"profileId":"388573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/388573?b=3&k=19866&l=search",
+	"arName":"السوق التجارى, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Al rehab city, Cairo"
+},
+		{	"profileId":"123197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/123197?b=6&k=19866&l=search",
+	"arName":"1 ب ش المقاولون العرب ميدان بقطر, الالف مسكن, مصر الجديدة, القاهرة",
+	"enName":"1 B El Meqawloon El Arab St. Boqtor Sq., El Alf Maskan, Heliopolis, Cairo"
+},
+		{	"profileId":"175309",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175309?b=18&k=19866&l=search",
+	"arName":"32 ش راس التين, بحرى, الاسكندرية",
+	"enName":"32 Ras El Teen St., Bahary, Alexandria"
+},
+		{	"profileId":"212826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/212826?b=11&k=19866&l=search",
+	"arName":"5 عمارات الشرطة -, حى السفارات, مدينة نصر, القاهرة",
+	"enName":"5 El Shorta Bldgs.,, El Sefarat District, Nasr city, Cairo"
+},
+		{	"profileId":"175301",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175301?b=15&k=19866&l=search",
+	"arName":"14 ش زين العابدين, محرم بك, الاسكندرية",
+	"enName":"14 Zein El Abedin St., Moharram bey, Alexandria"
+},
+		{	"profileId":"175289",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175289?b=12&k=19866&l=search",
+	"arName":"29 ش سمير عبد الرؤوف متفرع من ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"29 Samir Abdel Raouf St. Off Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"175311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175311?b=19&k=19866&l=search",
+	"arName":"810 طريق اسكندرية مطروح, العجمى, الاسكندرية",
+	"enName":"810 Alex Matrouh Rd., Agami, Alexandria"
+},
+		{	"profileId":"210123",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/210123?b=10&k=19866&l=search",
+	"arName":"89 أ ش الشيخ ريحان, عابدين, القاهرة",
+	"enName":"89 A El Sheikh Rihan St., Abdin, Cairo"
+},
+		{	"profileId":"175303",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175303?b=16&k=19866&l=search",
+	"arName":"برج السعد - ش الهانوفيل, العجمى, الاسكندرية",
+	"enName":"El Saad Tower, El Hannoville St., Agami, Alexandria"
+},
+		{	"profileId":"173048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/173048?b=17&k=19866&l=search",
+	"arName":"350 ش فيصل, فيصل, الجيزة",
+	"enName":"350 Faisal St., Faisal, Giza"
+},
+		{	"profileId":"175274",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175274?b=1&k=19866&l=search",
+	"arName":"42 ش متحف المطرية, حلمية الزيتون, القاهرة",
+	"enName":"42 Mathaf El Matareya St., Helmeyet el zaitoun, Cairo"
+},
+		{	"profileId":"175288",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175288?b=9&k=19866&l=search",
+	"arName":"ش ترعة الجبل, الزاوية الحمراء, القاهرة",
+	"enName":"Teraet El Gabal St. , El zawia el hamra, Cairo"
+},
+		{	"profileId":"175298",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-kods-for-food-services/175298?b=14&k=19866&l=search",
+	"arName":"411 ش ثروت متفرع من ش الجيش, سان استيفانو, الاسكندرية",
+	"enName":"411 Tharwat St. Off El Gish St., San stefano, Alexandria"
+}
+	]
+}, {	"arName":"مصر القدس",
+	"enName":"Misr El Qods",
+	"hotlone":"19866",
+	"arCategory":[
+		"دواجن مزارع ومعدات"
+	],
+	"enCategories":[
+		"Poultry Industry"
+	],
+	"contacts":[
+		{	"profileId":"204975",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-el-qods/204975?b=20&k=19866&l=search",
+	"arName":"17 ش متحف المطرية ميدان النعام , عين شمس, القاهرة",
+	"enName":"17 Mathaf El Matareya St. El Naam Sq., Ain shams, Cairo"
+}
+	]
+}]}

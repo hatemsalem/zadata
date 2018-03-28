@@ -1,0 +1,32 @@
+{"items":[{	"arName":"الشركة الدولية لصيانة الاجهزة المنزلية",
+	"enName":"International Co. For Appliances Maintenance",
+	"hotlone":"19089",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"142780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/142780?b=3&k=19089&l=search",
+	"arName":"10 ش عمر طوسون متفرع من ش احمد عرابى, المهندسين, الجيزة",
+	"enName":"10 Omar Toson St. Off Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"146729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/146729?b=2&k=19089&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"144062",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/144062?b=1&k=19089&l=search",
+	"arName":"31 ش البرامكة متفرع من ش الطيران, مدينة نصر, القاهرة",
+	"enName":"31 El Barameka St. Off El Tayaran St., Nasr city, Cairo"
+},
+		{	"profileId":"144065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/144065?b=4&k=19089&l=search",
+	"arName":"3 ش على باشا فهمى, جليم, الاسكندرية",
+	"enName":"3 Aly Basha Fahmy St., Glim, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,24 @@
+{"items":[{	"arName":"فينوس للادوات الكهربائية",
+	"enName":"Venus Electric",
+	"hotlone":"19764",
+	"arCategory":[
+		"اضاءة انظمة ولمبات ونجف",
+		"كهرباء والكترونيات اجهزة ومعدات"
+	],
+	"enCategories":[
+		"Lighting Systems, Lamps, Chandeliers & Bulbs",
+		"Electric & Electronic Devices"
+	],
+	"contacts":[
+		{	"profileId":"268018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venus-electric/268018?b=2&k=19764&l=search",
+	"arName":"41 ش نجيب الريحانى, الازبكية, القاهرة",
+	"enName":"41 Naguib El Rihany St., El azbakeya, Cairo"
+},
+		{	"profileId":"518591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venus-electric/518591?b=1&k=19764&l=search",
+	"arName":"خدمة العملاء, الازبكية, القاهرة",
+	"enName":"Customer Service, El azbakeya, Cairo"
+}
+	]
+}]}

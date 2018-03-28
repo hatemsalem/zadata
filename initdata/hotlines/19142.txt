@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المقاولون العرب",
+	"enName":"The Arab Contractors",
+	"hotlone":"19142",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"186931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-arab-contractors/186931?b=1&k=19142&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"customer service, Downtown, Cairo"
+},
+		{	"profileId":"83580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-arab-contractors/83580?b=2&k=19142&l=search",
+	"arName":"10 ش 6 اكتوبر - ش ترعة الاسماعيلية سابقا, شبرا الخيمة, القليوبية",
+	"enName":"10 6th Of October St. - Teraet El Ismaileya St. Previously, Shoubra el khaymah, Kaliobeya"
+}
+	]
+}]}

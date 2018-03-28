@@ -1,0 +1,22 @@
+{"items":[{	"arName":"زياد للمقاولات والاستثمار العقارى",
+	"enName":"Ziad Contracting & Real Estate Investment",
+	"hotlone":"16849",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"236489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ziad-contracting-&-real-estate-investment/236489?b=2&k=16849&l=search",
+	"arName":"2 أ عمارات اطلس - ش احمد فخرى - الدور 3 شقة 33, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"2 A Atlas Bldgs., Ahmed Fakhry St., Floor 3 Flat 33, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"453973",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ziad-contracting-&-real-estate-investment/453973?b=1&k=16849&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

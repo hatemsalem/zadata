@@ -1,0 +1,38 @@
+{"items":[{	"arName":"جراند بلازا للاستثمار العقارى والسياحى",
+	"enName":"Grand Plaza For Real Estate & Touristic Investment",
+	"hotlone":"16632",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"369055",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-plaza-for-real-estate-&-touristic-investment/369055?b=2&k=16632&l=search",
+	"arName":"40 ش الثورة, مصر الجديدة, القاهرة",
+	"enName":"40 El Thawra St., Heliopolis, Cairo"
+},
+		{	"profileId":"447111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-plaza-for-real-estate-&-touristic-investment/447111?b=1&k=16632&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"لاميرادا",
+	"enName":"La Mirada",
+	"hotlone":"16632",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"369064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-mirada/369064?b=3&k=16632&l=search",
+	"arName":"القطعة 9 -, المستثمرين الشمالية, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 9,, North Investors, New cairo, Cairo"
+}
+	]
+}]}

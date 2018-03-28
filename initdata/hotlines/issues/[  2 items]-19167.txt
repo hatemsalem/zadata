@@ -1,0 +1,50 @@
+{"items":[{	"arName":"البلاج للتنمية العقارية",
+	"enName":"Al Plage For Real Estate Development",
+	"hotlone":"19167",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"230610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-plage-for-real-estate-development/230610?b=3&k=19167&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"454263",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-plage-for-real-estate-development/454263?b=4&k=19167&l=search",
+	"arName":"10 ابراج الصيادلة, سموحة, الاسكندرية",
+	"enName":"10 El Sayadla Towers, Semouha, Alexandria"
+},
+		{	"profileId":"223576",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-plage-for-real-estate-development/223576?b=2&k=19167&l=search",
+	"arName":"1 ش احمد عرابى ميدان سفنكس, المهندسين, الجيزة",
+	"enName":"1 Ahmed Orabi St. Sphinx Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"230603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-plage-for-real-estate-development/230603?b=1&k=19167&l=search",
+	"arName":"1 ش محمد فهمى المحضر متفرع من ش الطيران - الدور 5, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"1 Mohamed Fahmy El Mohdar St. Off El Tayaran St., Floor 5, 1st Zone, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"الجزار للسيراميك",
+	"enName":"El Gazzar For Ceramic",
+	"hotlone":"19167",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات",
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain",
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"447337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-gazzar-for-ceramic/447337?b=5&k=19167&l=search",
+	"arName":"., بنها الجديدة, القليوبية",
+	"enName":"., Banha el gadida, Kaliobeya"
+}
+	]
+}]}

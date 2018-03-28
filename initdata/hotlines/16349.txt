@@ -1,0 +1,24 @@
+{"items":[{	"arName":"الشركة المصرية العربية للتعمير",
+	"enName":"Egyptian Arab Co. For Development",
+	"hotlone":"16349",
+	"arCategory":[
+		"عقارات",
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Real Estate",
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"68157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-arab-co.-for-development/68157?b=1&k=16349&l=search",
+	"arName":"حى الندى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"El Nada District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"187504",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-arab-co.-for-development/187504?b=2&k=16349&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

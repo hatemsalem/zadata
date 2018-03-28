@@ -1,0 +1,114 @@
+{"items":[{	"arName":"بنك التنمية الصناعية والعمال المصرى",
+	"enName":"Industrial Development & Workers Bank Of Egypt",
+	"hotlone":"19320",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"164408",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/164408?b=6&k=19320&l=search",
+	"arName":"13 ش الشيخ احمد السلاوى متفرع من ش بشير نعمة, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"13 El Sheikh Ahmed El Sellawy St. Off Bashir Neama St., Saint Fatima, Heliopolis, Cairo"
+},
+		{	"profileId":"164405",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/164405?b=1&k=19320&l=search",
+	"arName":"90 ش الجلاء, وسط البلد, القاهرة",
+	"enName":"90 El Galaa St., Downtown, Cairo"
+},
+		{	"profileId":"14013",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/14013?b=4&k=19320&l=search",
+	"arName":"110 ش الجلاء, وسط البلد, القاهرة",
+	"enName":"110 El Galaa St., Downtown, Cairo"
+},
+		{	"profileId":"164406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/164406?b=13&k=19320&l=search",
+	"arName":"ش سعيد ميدان كتشنر, طنطا, الغربية",
+	"enName":"Said St. Kotshnar Sq., Tanta, El gharbeya"
+},
+		{	"profileId":"164402",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/164402?b=15&k=19320&l=search",
+	"arName":"4 ش مصطفى كامل, سموحة, الاسكندرية",
+	"enName":"4 Mostafa Kamel St., Semouha, Alexandria"
+},
+		{	"profileId":"145694",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145694?b=7&k=19320&l=search",
+	"arName":"14 ش سعيد, طنطا, الغربية",
+	"enName":"14 Said St., Tanta, El gharbeya"
+},
+		{	"profileId":"145693",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145693?b=18&k=19320&l=search",
+	"arName":"الحى الاول, العاشر من رمضان, الشرقية",
+	"enName":"1St District, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"145692",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145692?b=5&k=19320&l=search",
+	"arName":"1195 كورنيش النيل, رملة بولاق, القاهرة",
+	"enName":"1195 Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"145695",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145695?b=10&k=19320&l=search",
+	"arName":"4 ش الشهيد عاطف السادات - ش طرح البحر سابقا - مساكن اللوكس, العرب, بور سعيد",
+	"enName":"4 El Shaheed Atef El Sadat St. - Tarh El Bahr St. Previously, El Lux Bldgs., El arab, Port said"
+},
+		{	"profileId":"449702",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/449702?b=20&k=19320&l=search",
+	"arName":"ش محمود فهمى النقراشى ميدان الاوبرا, دمنهور, البحيرة",
+	"enName":"Mahmoud Fahmy El Noqrashy St. Opera Sq., Damanhour, El beheira"
+},
+		{	"profileId":"145702",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145702?b=9&k=19320&l=search",
+	"arName":"649 طريق اسيوط سوهاج - عمارة مصر للتأمين, حى شرق, سوهاج",
+	"enName":"649 Asiout Sohag Rd., Misr Lel Taamin Bldg., Shark district, Sohag"
+},
+		{	"profileId":"145711",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145711?b=3&k=19320&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"508446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/508446?b=17&k=19320&l=search",
+	"arName":"المحور المركزى, الحى الثالث, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 3rd District, 6th of october, Giza"
+},
+		{	"profileId":"145699",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145699?b=8&k=19320&l=search",
+	"arName":"ش جمال عبد الناصر ميدان المسلة - عمارة مصر للتأمين, وسط البلد, الفيوم",
+	"enName":"Gamal Abdel Nasser St. El Masalla Sq., Misr Lel Taamin Bldg., Downtown, El fayoum"
+},
+		{	"profileId":"492209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/492209?b=2&k=19320&l=search",
+	"arName":"13 ش مصطفى صفوت تقاطع ش المراغى, حلوان, القاهرة",
+	"enName":"13 Mostafa Safwat St. Intersection Of El Maraghy St., Helwan, Cairo"
+},
+		{	"profileId":"112034",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/112034?b=19&k=19320&l=search",
+	"arName":"المجاورة الثالثة - الحى الاول - عمارة 6, برج العرب الجديدة, الاسكندرية",
+	"enName":"3rd Neighbourhood, 1St District, Bldg. 6, New borg el arab, Alexandria"
+},
+		{	"profileId":"145705",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145705?b=14&k=19320&l=search",
+	"arName":"فيلا 32 - الطريق الاقليمى - المنطقة الثانية, مدينة السادات, المنوفية",
+	"enName":"Villa 32, Regional Rd., 2nd Zone, Sadat city, El monofeya"
+},
+		{	"profileId":"145704",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145704?b=12&k=19320&l=search",
+	"arName":"ش سعد زغلول ميدان البنوك, حى شرق, اسيوط",
+	"enName":"Saad Zaghloul St. El Bonouk Sq., Shark district, Assyout"
+},
+		{	"profileId":"112021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/112021?b=16&k=19320&l=search",
+	"arName":"9 ش الفواطم متفرع من ش السلطان حسين - ميدان الخرطوم, الازاريطة, الاسكندرية",
+	"enName":"9 El Fawwatem St. Off El Sultan Hussein St., El Khartoum Sq., Azarita, Alexandria"
+},
+		{	"profileId":"145703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145703?b=11&k=19320&l=search",
+	"arName":"82 ميدان الشهيد عبد المنعم رياض - عمارة مصر للتأمين, وسط البلد, قنا",
+	"enName":"82 El Shaheed Abdel Moneim Riad Sq., Misr Lel Taamin Bldg., Downtown, Qena"
+}
+	]
+}]}

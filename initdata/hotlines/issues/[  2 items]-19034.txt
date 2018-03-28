@@ -1,0 +1,91 @@
+{"items":[{	"arName":"باستاويسى",
+	"enName":"Pastaweesy",
+	"hotlone":"19034",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم ايطالية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Italian Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"471548",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pastaweesy/471548?b=2&k=19034&l=search",
+	"arName":"67 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"67 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"515964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pastaweesy/515964?b=7&k=19034&l=search",
+	"arName":"55 ش فؤاد, محطة الرمل, الاسكندرية",
+	"enName":"55 Fouad St., Raml station, Alexandria"
+},
+		{	"profileId":"567732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pastaweesy/567732?b=1&k=19034&l=search",
+	"arName":"22 ش النور متفرع من ش مصدق, الدقى, الجيزة",
+	"enName":"22 El Nour St. Off Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"567815",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pastaweesy/567815?b=6&k=19034&l=search",
+	"arName":"68 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"68 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"471549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pastaweesy/471549?b=5&k=19034&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"511995",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pastaweesy/511995?b=3&k=19034&l=search",
+	"arName":"50 ش مكرم عبيد, مدينة نصر, القاهرة",
+	"enName":"50 Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"567818",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pastaweesy/567818?b=4&k=19034&l=search",
+	"arName":"ميدان الحصرى - المحور المركزى, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"El Hosary Sq., Central Spine, 7th District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"بيتزا لابومبا",
+	"enName":"Pizza Labomba",
+	"hotlone":"19034",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"515970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-labomba/515970?b=10&k=19034&l=search",
+	"arName":"55 ش فؤاد, محطة الرمل, الاسكندرية",
+	"enName":"55 Fouad St., Raml station, Alexandria"
+},
+		{	"profileId":"471550",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-labomba/471550?b=12&k=19034&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الدقى, الجيزة",
+	"enName":"Home Delivery, Dokki, Giza"
+},
+		{	"profileId":"464999",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-labomba/464999?b=9&k=19034&l=search",
+	"arName":"25 عمارات التعاونيات - المجاورة الاولى - الحى الاول, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"25 Taawoneyat Bldgs., 1St Neighbourhood, 1St District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"526340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-labomba/526340?b=8&k=19034&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"426783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-labomba/426783?b=11&k=19034&l=search",
+	"arName":"46 ش مصدق, الدقى, الجيزة",
+	"enName":"46 Mossadak St., Dokki, Giza"
+}
+	]
+}]}

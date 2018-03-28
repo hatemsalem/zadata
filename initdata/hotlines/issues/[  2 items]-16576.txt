@@ -1,0 +1,40 @@
+{"items":[{	"arName":"مطعم ايكيا",
+	"enName":"IKEA Restaurant",
+	"hotlone":"16576",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"449082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ikea-restaurant/449082?b=3&k=16576&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ايكيا مصر",
+	"enName":"IKEA Egypt",
+	"hotlone":"16576",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"424636",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ikea-egypt/424636?b=2&k=16576&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"519035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ikea-egypt/519035?b=1&k=16576&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

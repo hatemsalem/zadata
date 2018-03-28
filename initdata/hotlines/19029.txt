@@ -1,0 +1,57 @@
+{"items":[{	"arName":"صيدليات ذكرى",
+	"enName":"Zikry Pharmacies",
+	"hotlone":"19029",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"158006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/158006?b=8&k=19029&l=search",
+	"arName":"116 ش الثورة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"116 El Thawra St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"172803",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/172803?b=6&k=19029&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"580754",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/580754?b=1&k=19029&l=search",
+	"arName":"106 ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"106 Omar Ibn El Khatab St., Heliopolis, Cairo"
+},
+		{	"profileId":"106879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/106879?b=2&k=19029&l=search",
+	"arName":"1 ش رشدى, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"1 Roshdy St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"166018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/166018?b=3&k=19029&l=search",
+	"arName":"26 ش الشيخ على عبد الرازق متفرع من ش عمار بن ياسر, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"26 El Sheikh Aly Abdel Razeq St. Off Ammar Ibn Yasser St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"106878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/106878?b=9&k=19029&l=search",
+	"arName":"70 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"70 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"474833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/474833?b=7&k=19029&l=search",
+	"arName":"29 ش الفريق على عامر متفرع من ش مكرم عبيد, مدينة نصر, القاهرة",
+	"enName":"29 El Fariq Aly Amer St. Off Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"152670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/152670?b=4&k=19029&l=search",
+	"arName":"165 ش الحجاز, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"165 El Hegaz St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"111329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zikry-pharmacies/111329?b=5&k=19029&l=search",
+	"arName":"4 ش سيد عبد الواحد متفرع من ش ابراهيم اللقانى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"4 Sayed Abdel Wahed St. Off Ibrahim El Laqqany St., Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

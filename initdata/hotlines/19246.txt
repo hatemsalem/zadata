@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مجموعة المستقبل للاستثمار والتنمية العقارية",
+	"enName":"Future Group For Investment & Real Estate Development",
+	"hotlone":"19246",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"475168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/future-group-for-investment-&-real-estate-development/475168?b=2&k=19246&l=search",
+	"arName":"خدمة العملاء, طنطا, الغربية",
+	"enName":"Customer Service, Tanta, El gharbeya"
+},
+		{	"profileId":"393615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/future-group-for-investment-&-real-estate-development/393615?b=1&k=19246&l=search",
+	"arName":"32 ش البحر - برج صفا مول, طنطا, الغربية",
+	"enName":"32 El Bahr St., Safa Mall Tower, Tanta, El gharbeya"
+}
+	]
+}]}

@@ -1,0 +1,63 @@
+{"items":[{	"arName":"الاهرام لصناعة الالومنيوم",
+	"enName":"Al Ahram Aluminum",
+	"hotlone":"19631",
+	"arCategory":[
+		"ادوات منزلية منتجات"
+	],
+	"enCategories":[
+		"Housewares Products"
+	],
+	"contacts":[
+		{	"profileId":"178370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-aluminum/178370?b=3&k=19631&l=search",
+	"arName":"خدمة العملاء, المنشية, الاسكندرية",
+	"enName":"Customer Service, El mansheya, Alexandria"
+},
+		{	"profileId":"127834",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-aluminum/127834?b=4&k=19631&l=search",
+	"arName":"19 ش المشير احمد اسماعيل, سيدى جابر, الاسكندرية",
+	"enName":"19 El Moushir Ahmed Ismail St., Sidi gaber, Alexandria"
+},
+		{	"profileId":"127833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-aluminum/127833?b=2&k=19631&l=search",
+	"arName":"طريق الحديد والصلب, ام زغيو, الاسكندرية",
+	"enName":"El Hadid & El Solb Rd., Om zeghyo, Alexandria"
+},
+		{	"profileId":"426987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-aluminum/426987?b=1&k=19631&l=search",
+	"arName":"91 ش روض الفرج ميدان دوران شبرا, شبرا, القاهرة",
+	"enName":"91 Road El Farag St. Dawaran Shoubra Sq., Shoubra, Cairo"
+},
+		{	"profileId":"31638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-aluminum/31638?b=5&k=19631&l=search",
+	"arName":"35 ش الباب الاخضر السكة الجديدة, المنشية, الاسكندرية",
+	"enName":"35 El Bab El Akhdar St. El Sekka El Gadida, El mansheya, Alexandria"
+},
+		{	"profileId":"203091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-aluminum/203091?b=6&k=19631&l=search",
+	"arName":"73 ش عمر لطفى, الابراهيمية, الاسكندرية",
+	"enName":"73 Omar Lotfy St., El ibrahimeya, Alexandria"
+}
+	]
+}, {	"arName":"فافولا كووك وير",
+	"enName":"Favola Cookware",
+	"hotlone":"19631",
+	"arCategory":[
+		"ادوات منزلية منتجات"
+	],
+	"enCategories":[
+		"Housewares Products"
+	],
+	"contacts":[
+		{	"profileId":"495392",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/favola-cookware/495392?b=7&k=19631&l=search",
+	"arName":"خدمة العملاء, سموحة, الاسكندرية",
+	"enName":"Customer Service, Semouha, Alexandria"
+},
+		{	"profileId":"495388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/favola-cookware/495388?b=8&k=19631&l=search",
+	"arName":"19 ش مصطفى كامل, سموحة, الاسكندرية",
+	"enName":"19 Mostafa Kamel St., Semouha, Alexandria"
+}
+	]
+}]}

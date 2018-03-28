@@ -1,0 +1,22 @@
+{"items":[{	"arName":"كابيتال للتسويق والاستثمار العقارى",
+	"enName":"Capital For Real Estate & Investment",
+	"hotlone":"16705",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"531203",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/capital-for-real-estate-&-investment/531203?b=2&k=16705&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"531196",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/capital-for-real-estate-&-investment/531196?b=1&k=16705&l=search",
+	"arName":"81 ش 27 - المنطقة الثانية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"81 Rd. 27, 2nd Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,132 @@
+{"items":[{	"arName":"مكتبات سمير وعلى",
+	"enName":"Samir & Aly Stationery Houses",
+	"hotlone":"19891",
+	"arCategory":[
+		"ادوات مكتبية"
+	],
+	"enCategories":[
+		"Stationery"
+	],
+	"contacts":[
+		{	"profileId":"455179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/455179?b=23&k=19891&l=search",
+	"arName":"20 ش العدلى متفرع من ش محمود رشوان, اسيوط, اسيوط",
+	"enName":"20 El Adly St. Off Mahmoud Rashwan St., Assyout, Assyout"
+},
+		{	"profileId":"166718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/166718?b=8&k=19891&l=search",
+	"arName":"88 ش الثورة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"88 El Thawra St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"289532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/289532?b=17&k=19891&l=search",
+	"arName":"محور 26 يوليو, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"enName":"26th Of July Spine, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"449242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/449242?b=6&k=19891&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"245226",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/245226?b=12&k=19891&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"288326",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/288326?b=14&k=19891&l=search",
+	"arName":"4 ش حسن المأمون, مدينة نصر, القاهرة",
+	"enName":"4 Hassan El Maamoun St., Nasr city, Cairo"
+},
+		{	"profileId":"390042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/390042?b=21&k=19891&l=search",
+	"arName":"ش المحمدى حويدق - الممشى السياحى - مبارك 2, الكوثر, الغردقة",
+	"enName":"El Mohamady Howaidaq St., Touristic Passage, Mubarak 2, El kawther, Hurghada"
+},
+		{	"profileId":"116527",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/116527?b=3&k=19891&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"378824",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/378824?b=15&k=19891&l=search",
+	"arName":"القطعة 5106 - ش 9, المقطم, القاهرة",
+	"enName":"Plot 5106, Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"79201",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/79201?b=19&k=19891&l=search",
+	"arName":"8 ش مراد, الجيزة, الجيزة",
+	"enName":"8 Mourad St., Giza, Giza"
+},
+		{	"profileId":"79200",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/79200?b=1&k=19891&l=search",
+	"arName":"71 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"71 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"79203",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/79203?b=9&k=19891&l=search",
+	"arName":"2 ابراج النيل - ش طه حسين, الزمالك, القاهرة",
+	"enName":"2 El Nil Towers, Taha Hussein St., Zamalek, Cairo"
+},
+		{	"profileId":"79202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/79202?b=4&k=19891&l=search",
+	"arName":"78 ش العباسية, عباسية, القاهرة",
+	"enName":"78 Abbaseya St., Abbasseya, Cairo"
+},
+		{	"profileId":"79213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/79213?b=20&k=19891&l=search",
+	"arName":"21 ش شهاب, المهندسين, الجيزة",
+	"enName":"21 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"116773",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/116773?b=18&k=19891&l=search",
+	"arName":"12 ش الدقى, الدقى, الجيزة",
+	"enName":"12 Dokki St., Dokki, Giza"
+},
+		{	"profileId":"116530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/116530?b=7&k=19891&l=search",
+	"arName":"8 أ ش السرايات, عباسية, القاهرة",
+	"enName":"8 A El Sarayat St., Abbasseya, Cairo"
+},
+		{	"profileId":"79204",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/79204?b=13&k=19891&l=search",
+	"arName":"4 عمارات عثمان - ش الاثرى محمد بن نافع, روكسى, مصر الجديدة, القاهرة",
+	"enName":"4 Othman Bldgs., El Athary Mohamed Ibn Nafea St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"141236",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/141236?b=16&k=19891&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"79206",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/79206?b=2&k=19891&l=search",
+	"arName":"23 ش شريف, وسط البلد, القاهرة",
+	"enName":"23 Sherif St., Downtown, Cairo"
+},
+		{	"profileId":"212744",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/212744?b=11&k=19891&l=search",
+	"arName":"السوق التجارى, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Al rehab city, Cairo"
+},
+		{	"profileId":"284422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/284422?b=5&k=19891&l=search",
+	"arName":"64 ش ذاكر حسين, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"64 Zaker Hussein St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"79208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/79208?b=10&k=19891&l=search",
+	"arName":"25 ش شريف, وسط البلد, القاهرة",
+	"enName":"25 Sherif St., Downtown, Cairo"
+},
+		{	"profileId":"190314",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/190314?b=24&k=19891&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"439647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/samir-&-aly-stationery-houses/439647?b=22&k=19891&l=search",
+	"arName":"90 ش فوزى معاذ, سموحة, الاسكندرية",
+	"enName":"90 Fawzy Moaz St., Semouha, Alexandria"
+}
+	]
+}]}

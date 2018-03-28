@@ -1,0 +1,49 @@
+{"items":[{	"arName":"شبانة ستورز",
+	"enName":"Shabana Stores",
+	"hotlone":"19829",
+	"arCategory":[
+		"ديكور داخلى ومصممون",
+		""
+	],
+	"enCategories":[
+		"Interior Decorators & Designers",
+		""
+	],
+	"contacts":[
+		{	"profileId":"86778",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/86778?b=6&k=19829&l=search",
+	"arName":"6 ش المشروع, عين شمس الغربية, القاهرة",
+	"enName":"6 El Mashroua St., Ain shams el gharbeya, Cairo"
+},
+		{	"profileId":"388941",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/388941?b=1&k=19829&l=search",
+	"arName":"خدمة العملاء, الحى العاشر, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"86776",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/86776?b=2&k=19829&l=search",
+	"arName":"38 ش هارون الرشيد, ميدان الجامع, مصر الجديدة, القاهرة",
+	"enName":"38 Haroun El Rashid St., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"313738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/313738?b=4&k=19829&l=search",
+	"arName":"5 ش احمد الزمر امتداد ش زاكر حسين, الحى العاشر, مدينة نصر, القاهرة",
+	"enName":"5 Ahmed El Zomor St. Extension Of Zaker Hussein St., 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"62202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/62202?b=3&k=19829&l=search",
+	"arName":"6 ش افريقيا امتداد ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"6 Africa St. Extension Of Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"511678",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/511678?b=5&k=19829&l=search",
+	"arName":"القطعة 9112 - ش 9, المقطم, القاهرة",
+	"enName":"Plot 9112, Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"388936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/388936?b=7&k=19829&l=search",
+	"arName":"المحور المركزى - ميدان فودافون, الحى 11, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, Vodafone Sq., 11th District, 6th of october, Giza"
+}
+	]
+}]}

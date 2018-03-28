@@ -1,0 +1,48 @@
+{"items":[{	"arName":"ارو فوود للتجارة",
+	"enName":"Arrow Food Trade",
+	"hotlone":"16686",
+	"arCategory":[
+		"شاى وبن"
+	],
+	"enCategories":[
+		"Tea & Coffee"
+	],
+	"contacts":[
+		{	"profileId":"431796",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arrow-food-trade/431796?b=1&k=16686&l=search",
+	"arName":"ابراج ستار كابيتال 2 - وحدة 92,98 - ش على الرشيد - الدور 12, مصر الجديدة, القاهرة",
+	"enName":"Star Capital 2 towers, Unit 92,98, Aly El Rashid St., Floor 12, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"نسبرسو",
+	"enName":"Nespresso",
+	"hotlone":"16686",
+	"arCategory":[
+		"شاى وبن"
+	],
+	"enCategories":[
+		"Tea & Coffee"
+	],
+	"contacts":[
+		{	"profileId":"433852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nespresso/433852?b=5&k=16686&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"319115",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nespresso/319115?b=4&k=16686&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"431819",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nespresso/431819?b=2&k=16686&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"519691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nespresso/519691?b=3&k=16686&l=search",
+	"arName":"17 ش اسماعيل محمد - برج جدة, الزمالك, القاهرة",
+	"enName":"17 Ismail Mohamed St., Jeddah Tower, Zamalek, Cairo"
+}
+	]
+}]}

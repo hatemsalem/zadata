@@ -1,0 +1,37 @@
+{"items":[{	"arName":"صيدليات فينوس",
+	"enName":"Venus Pharmacies",
+	"hotlone":"16190",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"256206",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venus-pharmacies/256206?b=1&k=16190&l=search",
+	"arName":"67 ش 9 تقاطع ش 83, المعادى, القاهرة",
+	"enName":"67 Rd. 9 Intersection Of Rd. 83, Maadi, Cairo"
+},
+		{	"profileId":"458629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venus-pharmacies/458629?b=3&k=16190&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"256220",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venus-pharmacies/256220?b=2&k=16190&l=search",
+	"arName":"السوق التجارى - محل 356, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Shop 356, Al rehab city, Cairo"
+},
+		{	"profileId":"313472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venus-pharmacies/313472?b=4&k=16190&l=search",
+	"arName":"11 ش اسماعيل القبانى متفرع من ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"11 Ismail El Qabbany St. Off El Tayaran St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"537990",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venus-pharmacies/537990?b=5&k=16190&l=search",
+	"arName":"424 ش الهرم, نصر الدين, الهرم, الجيزة",
+	"enName":"424 Haram St., Nasr El Din, El haram, Giza"
+}
+	]
+}]}

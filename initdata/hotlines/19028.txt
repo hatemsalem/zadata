@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الوكيل للتوكيلات التجارية",
+	"enName":"Agent For Commercial Agents",
+	"hotlone":"19028",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"576920",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/agent-for-commercial-agents/576920?b=1&k=19028&l=search",
+	"arName":"2 ب امتداد كورنيش النيل, شبرا الخيمة, القليوبية",
+	"enName":"2 B Extension Of Corniche El Nil, Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"576923",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/agent-for-commercial-agents/576923?b=2&k=19028&l=search",
+	"arName":"خدمة العملاء, شبرا الخيمة, القليوبية",
+	"enName":"Customer Service, Shoubra el khaymah, Kaliobeya"
+}
+	]
+}]}

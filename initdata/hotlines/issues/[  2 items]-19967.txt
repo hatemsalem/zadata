@@ -1,0 +1,53 @@
+{"items":[{	"arName":"صيدليات الوكيل",
+	"enName":"El Wakeel Pharmacies",
+	"hotlone":"19967",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"7890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wakeel-pharmacies/7890?b=3&k=19967&l=search",
+	"arName":"45 ش الجمهورية, وسط البلد, القاهرة",
+	"enName":"45 El Gomhoureya St., Downtown, Cairo"
+},
+		{	"profileId":"546945",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wakeel-pharmacies/546945?b=6&k=19967&l=search",
+	"arName":"29 ش دجلة متفرع من ش شهاب, المهندسين, الجيزة",
+	"enName":"29 Degla St. Off Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"546940",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wakeel-pharmacies/546940?b=4&k=19967&l=search",
+	"arName":"60 ش احمد حلمى, شبرا, القاهرة",
+	"enName":"60 Ahmed Helmy St., Shoubra, Cairo"
+},
+		{	"profileId":"547004",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wakeel-pharmacies/547004?b=2&k=19967&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, وسط البلد, القاهرة",
+	"enName":"Home Delivery, Downtown, Cairo"
+},
+		{	"profileId":"546971",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wakeel-pharmacies/546971?b=5&k=19967&l=search",
+	"arName":"ش طه قنديل, المطرية, القاهرة",
+	"enName":"Taha Qandil St., El matareya, Cairo"
+}
+	]
+}, {	"arName":"صيدلية اللواء الوكيل",
+	"enName":"El Lewaa El Wakil Pharmacy",
+	"hotlone":"19967",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"288473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-lewaa-el-wakil-pharmacy/288473?b=1&k=19967&l=search",
+	"arName":"23 ش المعهد الاشتراكى, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"23 El Maahad El Eshteraky St., El Merryland, Heliopolis, Cairo"
+}
+	]
+}]}

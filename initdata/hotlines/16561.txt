@@ -1,0 +1,27 @@
+{"items":[{	"arName":"سيدار جلوبال",
+	"enName":"Sedar Global",
+	"hotlone":"16561",
+	"arCategory":[
+		"ستائر وشيش"
+	],
+	"enCategories":[
+		"Blinds & Window Coverings"
+	],
+	"contacts":[
+		{	"profileId":"513231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedar-global/513231?b=1&k=16561&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"542146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedar-global/542146?b=3&k=16561&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"513235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedar-global/513235?b=2&k=16561&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

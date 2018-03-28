@@ -1,0 +1,22 @@
+{"items":[{	"arName":"احجزلى",
+	"enName":"E7gezly",
+	"hotlone":"19941",
+	"arCategory":[
+		"معارض منظمون ومصممون عروض"
+	],
+	"enCategories":[
+		"Exhibition Organizers & Display Designers"
+	],
+	"contacts":[
+		{	"profileId":"576939",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e7gezly/576939?b=1&k=19941&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"576938",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e7gezly/576938?b=2&k=19941&l=search",
+	"arName":"95 ش 105 متفرع من طريق مصر حلوان الزراعى, المعادى, القاهرة",
+	"enName":"95 Rd. 105 Off Misr Helwan Agricultural Rd., Maadi, Cairo"
+}
+	]
+}]}

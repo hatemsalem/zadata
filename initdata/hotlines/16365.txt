@@ -1,0 +1,61 @@
+{"items":[{	"arName":"مطاعم السلطان ايوب",
+	"enName":"Sultan Ayub Restaurants",
+	"hotlone":"16365",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"441242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/441242?b=7&k=16365&l=search",
+	"arName":"ش النقل والهندسة, سموحة, الاسكندرية",
+	"enName":"El Naql & El Handasa St., Semouha, Alexandria"
+},
+		{	"profileId":"441237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/441237?b=2&k=16365&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"440795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/440795?b=5&k=16365&l=search",
+	"arName":"46 ش سوتير, الازاريطة, الاسكندرية",
+	"enName":"46 Soteir St., Azarita, Alexandria"
+},
+		{	"profileId":"441246",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/441246?b=9&k=16365&l=search",
+	"arName":"عمارات المهندسين - ش صلاح سالم, وسط البلد, كفر الشيخ",
+	"enName":"El Mohadeseen Bldgs., Salah Salem St., Downtown, Kafr el sheikh"
+},
+		{	"profileId":"441245",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/441245?b=1&k=16365&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, جليم, الاسكندرية",
+	"enName":"Home Delivery, Glim, Alexandria"
+},
+		{	"profileId":"290439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/290439?b=8&k=16365&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"290429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/290429?b=4&k=16365&l=search",
+	"arName":"362 طريق الجيش, جليم, الاسكندرية",
+	"enName":"362 El Guish Rd., Glim, Alexandria"
+},
+		{	"profileId":"515804",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/515804?b=3&k=16365&l=search",
+	"arName":"كم 136 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 136, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"444211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-ayub-restaurants/444211?b=6&k=16365&l=search",
+	"arName":"ش سعيد, طنطا, الغربية",
+	"enName":"Said St., Tanta, El gharbeya"
+}
+	]
+}]}

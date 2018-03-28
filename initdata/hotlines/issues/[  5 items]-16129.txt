@@ -1,0 +1,92 @@
+{"items":[{	"arName":"قاعة سييرا",
+	"enName":"Sierra Ballroom",
+	"hotlone":"16129",
+	"arCategory":[
+		"مؤتمرات قاعات ومراكز وخدمات المؤتمرات"
+	],
+	"enCategories":[
+		"Convention Centers & Conference Services"
+	],
+	"contacts":[
+		{	"profileId":"356472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sierra-ballroom/356472?b=3&k=16129&l=search",
+	"arName":"ش الاعلاميين, المقطم, القاهرة",
+	"enName":"El Ealamyeen St., Mokattam, Cairo"
+}
+	]
+}, {	"arName":"مطعم بازيليكو",
+	"enName":"Basilico Restaurant",
+	"hotlone":"16129",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"356471",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/basilico-restaurant/356471?b=1&k=16129&l=search",
+	"arName":"ش الاعلاميين, المقطم, القاهرة",
+	"enName":"El Ealamyeen St., Mokattam, Cairo"
+}
+	]
+}, {	"arName":"مطعم اوليفيتو",
+	"enName":"Oliveto Restaurant",
+	"hotlone":"16129",
+	"arCategory":[
+		"مطاعم ايطالية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Italian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"356470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oliveto-restaurant/356470?b=2&k=16129&l=search",
+	"arName":"ش الاعلاميين, المقطم, القاهرة",
+	"enName":"El Ealamyeen St., Mokattam, Cairo"
+}
+	]
+}, {	"arName":"ذا كلوب هاوس - اب تاون كايرو",
+	"enName":"The Clubhouse - Uptown Cairo",
+	"hotlone":"16129",
+	"arCategory":[
+		"نوادى"
+	],
+	"enCategories":[
+		"Clubs"
+	],
+	"contacts":[
+		{	"profileId":"356463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-clubhouse-_-uptown-cairo/356463?b=5&k=16129&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"enName":"Customer Service, Mokattam, Cairo"
+},
+		{	"profileId":"356458",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-clubhouse-_-uptown-cairo/356458?b=6&k=16129&l=search",
+	"arName":"ش الاعلاميين, المقطم, القاهرة",
+	"enName":"El Ealamyeen St., Mokattam, Cairo"
+}
+	]
+}, {	"arName":"تراتسو",
+	"enName":"Terrazo",
+	"hotlone":"16129",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"495881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/terrazo/495881?b=4&k=16129&l=search",
+	"arName":"ش الاعلاميين, المقطم, القاهرة",
+	"enName":"El Ealamyeen St., Mokattam, Cairo"
+}
+	]
+}]}

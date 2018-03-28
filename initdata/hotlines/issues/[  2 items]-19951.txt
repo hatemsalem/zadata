@@ -1,0 +1,360 @@
+{"items":[{	"arName":"مصرف ابو ظبى الاسلامى - ايه دى اى بى",
+	"enName":"Abu Dhabi Islamic Bank - ADIB",
+	"hotlone":"19951",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"76939",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76939?b=19&k=19951&l=search",
+	"arName":"9 ش الجيش, طنطا, الغربية",
+	"enName":"9 El Guish St., Tanta, El gharbeya"
+},
+		{	"profileId":"373852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/373852?b=45&k=19951&l=search",
+	"arName":"21 ب ش سوريا, رشدى, الاسكندرية",
+	"enName":"21 B Syria St., Roushdy, Alexandria"
+},
+		{	"profileId":"487869",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/487869?b=2&k=19951&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"228839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228839?b=62&k=19951&l=search",
+	"arName":"64 ش 15 مايو, شبرا الخيمة, القليوبية",
+	"enName":"64 15th Of May St., Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"373854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/373854?b=27&k=19951&l=search",
+	"arName":"ش كورنيش النيل - مبنى الوحدة المحلية, الكورنيش, المنيا",
+	"enName":"Corniche El Nil St., El Wehda El Mahaleya Bldg., El corniche, El menia"
+},
+		{	"profileId":"487866",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/487866?b=14&k=19951&l=search",
+	"arName":"92 ش 9, المعادى, القاهرة",
+	"enName":"92 Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"228887",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228887?b=36&k=19951&l=search",
+	"arName":"ش صلاح سالم, طهطا, سوهاج",
+	"enName":"Salah Salem St., Tahta, Sohag"
+},
+		{	"profileId":"228843",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228843?b=43&k=19951&l=search",
+	"arName":"ش الابراهيمية, بنى مزار, المنيا",
+	"enName":"El Ibrahimeya St., Bani mazar, El menia"
+},
+		{	"profileId":"228567",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228567?b=17&k=19951&l=search",
+	"arName":"ش 257 تقاطع ش 274, المعادى, القاهرة",
+	"enName":"Rd. 257 Intersection Of Rd. 274, Maadi, Cairo"
+},
+		{	"profileId":"170129",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/170129?b=10&k=19951&l=search",
+	"arName":"29 أ ش الاندلس, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"29 A El Andalus St., El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"489773",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/489773?b=58&k=19951&l=search",
+	"arName":"ش الشيراتون, الهضبة, الغردقة",
+	"enName":"Sheraton Rd., El hadaba, Hurghada"
+},
+		{	"profileId":"76940",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76940?b=15&k=19951&l=search",
+	"arName":"13 ش الظافر, الازهر, القاهرة",
+	"enName":"13 El Zafer St., Azhar, Cairo"
+},
+		{	"profileId":"76941",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76941?b=1&k=19951&l=search",
+	"arName":"ميدان الاوبرا, العتبة, القاهرة",
+	"enName":"El Opera Sq., Ataba, Cairo"
+},
+		{	"profileId":"76942",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76942?b=5&k=19951&l=search",
+	"arName":"37 أ عمارات الشركة السعودية - , السواح, القاهرة",
+	"enName":"37 A Secon Bldgs., , El sawah, Cairo"
+},
+		{	"profileId":"76944",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76944?b=49&k=19951&l=search",
+	"arName":"ش الشيخ محمد عبده - مبنى فريد احمد البنا, فارسكور, دمياط",
+	"enName":"El Sheikh Mohamed Abdou St., Farid Ahmed El Banna Bldg., Faraskour, Damietta"
+},
+		{	"profileId":"76945",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76945?b=61&k=19951&l=search",
+	"arName":"ش الشهيد حسن البنا - ابو الريش, دمنهور, البحيرة",
+	"enName":"El Shaheed Hassan El Banna St., Abou El Reesh, Damanhour, El beheira"
+},
+		{	"profileId":"76946",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76946?b=20&k=19951&l=search",
+	"arName":"95 ش 26 يوليو, الازاريطة, الاسكندرية",
+	"enName":"95 26th Of July St., Azarita, Alexandria"
+},
+		{	"profileId":"76949",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76949?b=50&k=19951&l=search",
+	"arName":"ش الجيش - عمارة الاوقاف, وسط البلد, كفر الشيخ",
+	"enName":"El Guish St., El Awqaf Bldg., Downtown, Kafr el sheikh"
+},
+		{	"profileId":"164759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/164759?b=7&k=19951&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"enName":"Customer Service, Garden city, Cairo"
+},
+		{	"profileId":"373849",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/373849?b=57&k=19951&l=search",
+	"arName":"199 ش فوزى معاذ - برج صفوة رجال الاعمال, سموحة, الاسكندرية",
+	"enName":"199 Fawzy Moaz St., Safwet Regal El Aamal Tower, Semouha, Alexandria"
+},
+		{	"profileId":"373847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/373847?b=26&k=19951&l=search",
+	"arName":"26 ش سعد زغلول - برج السرايا, المنصورة, الدقهلية",
+	"enName":"26 Saad Zaghloul St., El Saraya Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"228868",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228868?b=35&k=19951&l=search",
+	"arName":"ش مجلس المدينة, جرجا, سوهاج",
+	"enName":"Magles El Madina St., Gerga, Sohag"
+},
+		{	"profileId":"76930",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76930?b=3&k=19951&l=search",
+	"arName":"52 ش قصر النيل, وسط البلد, القاهرة",
+	"enName":"52 Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"228591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228591?b=33&k=19951&l=search",
+	"arName":"ش التحرير تقاطع ش الجلاء, كفر صقر, الشرقية",
+	"enName":"El Tahrir St. Intersection Of El Galaa St., Kafr sakr, El sharkeya"
+},
+		{	"profileId":"76932",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76932?b=47&k=19951&l=search",
+	"arName":"9 ش التحرير, الدقى, الجيزة",
+	"enName":"9 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"76933",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76933?b=60&k=19951&l=search",
+	"arName":"41 ش بابل, الدقى, الجيزة",
+	"enName":"41 Babel St., Dokki, Giza"
+},
+		{	"profileId":"413058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/413058?b=6&k=19951&l=search",
+	"arName":"83 أ ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"83 A Abdel Aziz Al Saoud St., El manyal, Cairo"
+},
+		{	"profileId":"76934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76934?b=18&k=19951&l=search",
+	"arName":"المنطقة الصناعية الرابعة - مجمع البنوك, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"enName":"4th Industrial Zone, Banks Complex, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"76935",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76935?b=4&k=19951&l=search",
+	"arName":"4 ش عبد المجيد الرمالى - ش فهمى سابقا ميدان الفلكى, باب اللوق, القاهرة",
+	"enName":"4 Abdel Magid El Remaly St. - Fahmy St. Previously El Falaky Sq., Bab el louk, Cairo"
+},
+		{	"profileId":"76936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76936?b=40&k=19951&l=search",
+	"arName":"ش كورنيش النيل, بنها, القليوبية",
+	"enName":"Corniche El Nil St., Banha, Kaliobeya"
+},
+		{	"profileId":"76937",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76937?b=48&k=19951&l=search",
+	"arName":"الحى الاول - المنطقة الصناعية الاولى - مبنى 3, العاشر من رمضان, الشرقية",
+	"enName":"1St District, 1St Industrial Zone, Bldg. 3, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"112303",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/112303?b=29&k=19951&l=search",
+	"arName":"كم 8 - - داون تاون, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 8, , Down Town, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"373838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/373838?b=44&k=19951&l=search",
+	"arName":"ش عبد العال حلمى, دمياط, دمياط",
+	"enName":"Abdel Aal Helmy St., Damietta, Damietta"
+},
+		{	"profileId":"373835",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/373835?b=25&k=19951&l=search",
+	"arName":"58 ش لبنان, المهندسين, الجيزة",
+	"enName":"58 Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"228657",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228657?b=54&k=19951&l=search",
+	"arName":"10 ميدان العاشر من رمضان, قليوب, القليوبية",
+	"enName":"10 10th Of Ramadan Sq., Qalyub, Kaliobeya"
+},
+		{	"profileId":"466311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/466311?b=46&k=19951&l=search",
+	"arName":"المحور المركزى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"228667",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228667?b=23&k=19951&l=search",
+	"arName":"8 ش محب, المحلة الكبرى, الغربية",
+	"enName":"8 Moheb St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"228589",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228589?b=32&k=19951&l=search",
+	"arName":"81 ش سعد زغلول ميدان عبدون, فاقوس, الشرقية",
+	"enName":"81 Saad Zaghloul St. Abdoun Sq., Faqus, El sharkeya"
+},
+		{	"profileId":"228584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228584?b=31&k=19951&l=search",
+	"arName":"52 ش اللواء عبد العزيز - عمارة الاوقاف, الزقازيق, الشرقية",
+	"enName":"52 El Lewaa Abdel Aziz St., El Awqaf Bldg., El zagazig, El sharkeya"
+},
+		{	"profileId":"228661",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228661?b=34&k=19951&l=search",
+	"arName":"15 ش المدارس ميدان الشهداء, شبين الكوم, المنوفية",
+	"enName":"15 El Madares St. El Shohadaa Sq., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"229037",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/229037?b=37&k=19951&l=search",
+	"arName":"24 ش سعد زغلول ميدان البنوك, اسيوط, اسيوط",
+	"enName":"24 Saad Zaghloul St. El Bonouk Sq., Assyout, Assyout"
+},
+		{	"profileId":"198716",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/198716?b=52&k=19951&l=search",
+	"arName":"265 ش الهرم, الهرم, الجيزة",
+	"enName":"265 Haram St., El haram, Giza"
+},
+		{	"profileId":"228861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228861?b=56&k=19951&l=search",
+	"arName":"مدينة ناصر, حى شرق, سوهاج",
+	"enName":"Nasser City, Shark district, Sohag"
+},
+		{	"profileId":"228582",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228582?b=53&k=19951&l=search",
+	"arName":"ش جمال عبد الناصر, بلبيس, الشرقية",
+	"enName":"Gamal Abdel Nasser St., Belbeis, El sharkeya"
+},
+		{	"profileId":"229150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/229150?b=13&k=19951&l=search",
+	"arName":"106 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"106 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"413065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/413065?b=38&k=19951&l=search",
+	"arName":"711 طريق الحرية, لوران, الاسكندرية",
+	"enName":"711 El Horreya Rd., Loran, Alexandria"
+},
+		{	"profileId":"20089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/20089?b=9&k=19951&l=search",
+	"arName":"9 أ ش رستم, جاردن سيتى, القاهرة",
+	"enName":"9 A Rostom St., Garden city, Cairo"
+},
+		{	"profileId":"164413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/164413?b=8&k=19951&l=search",
+	"arName":"14 ش الصالح ايوب, الزمالك, القاهرة",
+	"enName":"14 El Saleh Ayoub St., Zamalek, Cairo"
+},
+		{	"profileId":"228727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228727?b=55&k=19951&l=search",
+	"arName":"2 أ ش احمد ماهر, طنطا, الغربية",
+	"enName":"2 A Ahmed Maher St., Tanta, El gharbeya"
+},
+		{	"profileId":"170136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/170136?b=39&k=19951&l=search",
+	"arName":"185 ش سعد زغلول تقاطع ش عمرو بن العاص, حى الافرنج, الاسماعيلية",
+	"enName":"185 Saad Zaghloul St. Intersection Of Amr Ibn El Aas St., El afrang district, Ismaileya"
+},
+		{	"profileId":"170135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/170135?b=30&k=19951&l=search",
+	"arName":"48 ش الجلاء, الزقازيق, الشرقية",
+	"enName":"48 El Galaa St., El zagazig, El sharkeya"
+},
+		{	"profileId":"228573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228573?b=22&k=19951&l=search",
+	"arName":"ش احمد عرابى, التل الكبير, الاسماعيلية",
+	"enName":"Ahmed Orabi St., El tal el kabir, Ismaileya"
+},
+		{	"profileId":"76951",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76951?b=51&k=19951&l=search",
+	"arName":"ش جمال عبد الناصر, المسلة, الفيوم",
+	"enName":"Gamal Abdel Nasser St., El massalah, El fayoum"
+},
+		{	"profileId":"170138",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/170138?b=59&k=19951&l=search",
+	"arName":"74 ش ابطال التحرير - عمارة الاوقاف, وسط البلد, اسوان",
+	"enName":"74 Abtal El Tahrir St., El Awqaf Bldg., Downtown, Aswan"
+},
+		{	"profileId":"76953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76953?b=21&k=19951&l=search",
+	"arName":"ش مستشفى الهلال الاحمر, حى غرب, قنا",
+	"enName":"Mostashfa El Helal El Ahmar St., Gharb district, Qena"
+},
+		{	"profileId":"76954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76954?b=28&k=19951&l=search",
+	"arName":"ش معبد الكرنك ميدان ابو الحجاج, الاقصر, الاقصر",
+	"enName":"Maabad El Karnak St. Abou El Haggag Sq., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"76955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76955?b=41&k=19951&l=search",
+	"arName":"ش النيل, حى غرب, سوهاج",
+	"enName":"El Nil St., Gharb district, Sohag"
+},
+		{	"profileId":"228571",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228571?b=42&k=19951&l=search",
+	"arName":"3 ش محمود صدقى تقاطع ش محمد المأمون, حى الشرق, بور سعيد",
+	"enName":"3 Mahmoud Sedqy St. Intersection Of Mohamed El Maamoun St., El shark district, Port said"
+},
+		{	"profileId":"76956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76956?b=11&k=19951&l=search",
+	"arName":"5 أ ش البورصة الجديدة متفرع من ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"5 A El Borsa El Gadida St. Off Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"228570",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/228570?b=12&k=19951&l=search",
+	"arName":"14 ش سوق التوفيقية, وسط البلد, القاهرة",
+	"enName":"14 Souk El Tawfiqeya St., Downtown, Cairo"
+},
+		{	"profileId":"229021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/229021?b=24&k=19951&l=search",
+	"arName":"ش المحطة - ش حسنى مبارك سابقا ميدان الاوقاف, نجع حمادى, قنا",
+	"enName":"El Mahatta St. - Hosny Mubarak St. Previously El Awqaf Sq., Nagaa hamady, Qena"
+},
+		{	"profileId":"76957",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib/76957?b=16&k=19951&l=search",
+	"arName":"1 ش الحجاز, روكسى, مصر الجديدة, القاهرة",
+	"enName":"1 El Hegaz St., Roxy, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"مصرف ابو ظبى الاسلامى - ايه دى اى بى - ماكينة الصراف الالى",
+	"enName":"Abu Dhabi Islamic Bank - ADIB - ATM",
+	"hotlone":"19951",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"229111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib-_-atm/229111?b=67&k=19951&l=search",
+	"arName":"كم 6 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 6,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"229072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib-_-atm/229072?b=65&k=19951&l=search",
+	"arName":"المرحلة الثالثة, مدينة الرحاب, القاهرة",
+	"enName":"Phase 3, Al rehab city, Cairo"
+},
+		{	"profileId":"229107",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib-_-atm/229107?b=66&k=19951&l=search",
+	"arName":"ش معبد الكرنك, الاقصر, الاقصر",
+	"enName":"Maabad El Karnak St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"229064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib-_-atm/229064?b=63&k=19951&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"170132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-dhabi-islamic-bank-_-adib-_-atm/170132?b=64&k=19951&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,67 @@
+{"items":[{	"arName":"مور",
+	"enName":"More",
+	"hotlone":"16599",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"434613",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/434613?b=1&k=16599&l=search",
+	"arName":"19 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"19 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"416197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/416197?b=2&k=16599&l=search",
+	"arName":"7 ش حمام التلات, الازهر, القاهرة",
+	"enName":"7 Hammam El Talat St., Azhar, Cairo"
+},
+		{	"profileId":"433291",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/433291?b=11&k=16599&l=search",
+	"arName":"ش احمد بدوى, ابو النمرس, الجيزة",
+	"enName":"Ahmed Badawy St., Abou el nomrous, Giza"
+},
+		{	"profileId":"416517",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/416517?b=6&k=16599&l=search",
+	"arName":"66 تقاطع شارع الازهر مع حمام التلات, الازهر, القاهرة",
+	"enName":"66 Intersection Of El Azhar St. With Hamam El Talat St., Azhar, Cairo"
+},
+		{	"profileId":"483085",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/483085?b=8&k=16599&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"416202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/416202?b=5&k=16599&l=search",
+	"arName":"5 ممر الحلو - ش حمام التلات, الموسكى, القاهرة",
+	"enName":"5 El Helw Passage, Hammam El Talat St., El mousky, Cairo"
+},
+		{	"profileId":"413991",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/413991?b=3&k=16599&l=search",
+	"arName":"2 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"2 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"416201",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/416201?b=9&k=16599&l=search",
+	"arName":"391 ش بورسعيد درب سعادة, الازهر, القاهرة",
+	"enName":"391 Port Said St. Darb Saada, Azhar, Cairo"
+},
+		{	"profileId":"443342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/443342?b=10&k=16599&l=search",
+	"arName":"63 ش فيصل, فيصل, الجيزة",
+	"enName":"63 Faisal St., Faisal, Giza"
+},
+		{	"profileId":"416199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/416199?b=4&k=16599&l=search",
+	"arName":"1 ش ارض شريف, العتبة, القاهرة",
+	"enName":"1 Ard Sherif St., Ataba, Cairo"
+},
+		{	"profileId":"433287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/more/433287?b=7&k=16599&l=search",
+	"arName":"11 محور طه حسين, النزهة الجديدة, القاهرة",
+	"enName":"11 Taha Hussein Spine, El nozha el gadida, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,65 @@
+{"items":[{	"arName":"الشركة العربية للتنمية والاسكان",
+	"enName":"Arab Development & Housing Co.",
+	"hotlone":"16077",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"131774",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-development-&-housing-co./131774?b=2&k=16077&l=search",
+	"arName":"54 ش لبنان - الدور 4, المهندسين, الجيزة",
+	"enName":"54 Lebanon St., Floor 4, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"كابيتال بيزنس بارك",
+	"enName":"Capital Business Park",
+	"hotlone":"16077",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"468296",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/capital-business-park/468296?b=3&k=16077&l=search",
+	"arName":"محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"ابراج للتسويق العقارى",
+	"enName":"Abrag For Real Estate Marketing",
+	"hotlone":"16077",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"152655",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abrag-for-real-estate-marketing/152655?b=1&k=16077&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"مجموعة درة - الشركة الهندسية للادارة والتسويق",
+	"enName":"Dorra Group - Engineering Co. For Management & Marketing",
+	"hotlone":"16077",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"152653",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dorra-group-_-engineering-co.-for-management-&-marketing/152653?b=4&k=16077&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

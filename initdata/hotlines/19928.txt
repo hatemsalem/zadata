@@ -1,0 +1,52 @@
+{"items":[{	"arName":"مراكز يات للتدريب",
+	"enName":"Yat Education Centers",
+	"hotlone":"19928",
+	"arCategory":[
+		"كمبيوتر تدريب"
+	],
+	"enCategories":[
+		"Computer Training"
+	],
+	"contacts":[
+		{	"profileId":"125516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yat-education-centers/125516?b=2&k=19928&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"102958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yat-education-centers/102958?b=4&k=19928&l=search",
+	"arName":"15 ش محمد يوسف القاضى متفرع من ش احمد تيسير, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"15 Mohamed Youssef El Qady St. Off Ahmed Tayseer St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"117013",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yat-education-centers/117013?b=7&k=19928&l=search",
+	"arName":"10 ميدان المساحة, الدقى, الجيزة",
+	"enName":"10 El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"117014",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yat-education-centers/117014?b=3&k=19928&l=search",
+	"arName":"فيلا 48 - ش 7, المعادى, القاهرة",
+	"enName":"Villa 48, Rd. 7, Maadi, Cairo"
+},
+		{	"profileId":"431358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yat-education-centers/431358?b=6&k=19928&l=search",
+	"arName":"المحور المركزى - ميدان فودافون, الحى الخامس, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, Vodafone Sq., 5th District, 6th of october, Giza"
+},
+		{	"profileId":"245214",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yat-education-centers/245214?b=8&k=19928&l=search",
+	"arName":"77 ش سوريا تقاطع ش السودان - الدور 1, المهندسين, الجيزة",
+	"enName":"77 Syria St. Intersection Of Sudan St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"117017",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yat-education-centers/117017?b=5&k=19928&l=search",
+	"arName":"9 ش معاوية تقاطع ش حسان بن ثابت - عمارة الخشاب - الدور 1, طنطا, الغربية",
+	"enName":"9 Moaweya St. Intersection Of Hassan Ibn Thabet St., El Khashshab Bldg., Floor 1, Tanta, El gharbeya"
+},
+		{	"profileId":"45176",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yat-education-centers/45176?b=1&k=19928&l=search",
+	"arName":"10 أ الطريق الدائرى - برج راما, القطامية, القاهرة",
+	"enName":"10 A Ring Rd., Rama Tower, El katameya, Cairo"
+}
+	]
+}]}

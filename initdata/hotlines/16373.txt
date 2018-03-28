@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ايلاى ليللى",
+	"enName":"Eli Lilly",
+	"hotlone":"16373",
+	"arCategory":[
+		"ادوية شركات"
+	],
+	"enCategories":[
+		"Pharmaceutical Companies"
+	],
+	"contacts":[
+		{	"profileId":"255961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eli-lilly/255961?b=1&k=16373&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"445597",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eli-lilly/445597?b=2&k=16373&l=search",
+	"arName":"عمارة رقم A2 - - الدور 2, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Bldg. No. A2, , Floor 2, Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

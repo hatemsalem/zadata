@@ -1,0 +1,22 @@
+{"items":[{	"arName":"جولدن هاوس",
+	"enName":"Golden House",
+	"hotlone":"16152",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"468724",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golden-house/468724?b=1&k=16152&l=search",
+	"arName":"خدمة العملاء, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"468723",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golden-house/468723?b=2&k=16152&l=search",
+	"arName":"47 أ ش احمد تيسير متفرع من ش الميرغنى - عمارات رامو - الدور 2, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"47 A Ahmed Tayseer St. Off El Merghany St., Ramo Bldgs., Floor 2, koleyet El Banat, Heliopolis, Cairo"
+}
+	]
+}]}

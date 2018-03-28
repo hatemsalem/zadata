@@ -1,0 +1,66 @@
+{"items":[{	"arName":"القاهرة للتنمية وصناعة السيارات - سى دى سى ام",
+	"enName":"Cairo For Development & Cars Manufacturing - CDCM",
+	"hotlone":"19207",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة",
+		"سيارات - مصنعون ومجمعون",
+		"اوناش انقاذ"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars",
+		"Cars - Manufacturers & Assemblers",
+		"Towing"
+	],
+	"contacts":[
+		{	"profileId":"72115",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/72115?b=6&k=19207&l=search",
+	"arName":"8 ش الامير جميل متفرع من ش ابو قير, زيزينيا, الاسكندرية",
+	"enName":"8 El Amir Gamil St. Off Abou Qir St., Zezenia, Alexandria"
+},
+		{	"profileId":"6267",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/6267?b=7&k=19207&l=search",
+	"arName":"4 ش وادى النيل متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"4 Wadi El Nil St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"142366",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/142366?b=1&k=19207&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"130003",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/130003?b=2&k=19207&l=search",
+	"arName":"114 ش الخليج المصرى, غمره, القاهرة",
+	"enName":"114 El Khaleeg El Masry St., Ghamrah, Cairo"
+},
+		{	"profileId":"124367",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/124367?b=3&k=19207&l=search",
+	"arName":"625 أ ش الجزائر, المعادى, القاهرة",
+	"enName":"625 A El Gazaer St., Maadi, Cairo"
+},
+		{	"profileId":"72114",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/72114?b=10&k=19207&l=search",
+	"arName":"كم 21 - طريق الاسكندرية القاهرة الصحراوى, مرغم, الاسكندرية",
+	"enName":"Km 21, Alex Cairo Desert Rd., Mirghem, Alexandria"
+},
+		{	"profileId":"455008",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/455008?b=5&k=19207&l=search",
+	"arName":"11 طريق صلاح سالم, عباسية, القاهرة",
+	"enName":"11 Salah Salem Rd., Abbasseya, Cairo"
+},
+		{	"profileId":"2319",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/2319?b=4&k=19207&l=search",
+	"arName":"51 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"51 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"166365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/166365?b=9&k=19207&l=search",
+	"arName":"خدمة طوارئ, المهندسين, الجيزة",
+	"enName":"Emergency Service, Mohandeseen, Giza"
+},
+		{	"profileId":"250944",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-for-development-&-cars-manufacturing-_-cdcm/250944?b=8&k=19207&l=search",
+	"arName":"كم 28 - طريق مصر اسكندرية الصحراوى - المنطقة الصناعية, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Industrial Zone, Abou rawash, Giza"
+}
+	]
+}]}

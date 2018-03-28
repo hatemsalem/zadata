@@ -1,0 +1,82 @@
+{"items":[{	"arName":"بورسلينا ماجستيك",
+	"enName":"Porcelain Majestic",
+	"hotlone":"16527",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"454253",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/454253?b=4&k=16527&l=search",
+	"arName":"2 ش نمر مقار - سوق المهاجرين, عين شمس الغربية, القاهرة",
+	"enName":"2 Nemr Maqqar St., Souk El Mohagerin, Ain shams el gharbeya, Cairo"
+},
+		{	"profileId":"449393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/449393?b=5&k=16527&l=search",
+	"arName":"20 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"20 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"449411",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/449411?b=14&k=16527&l=search",
+	"arName":"28 ش مصدق, الدقى, الجيزة",
+	"enName":"28 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"502987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/502987?b=8&k=16527&l=search",
+	"arName":"710 ش ابو قير تقاطع ش سرهنك, لوران, الاسكندرية",
+	"enName":"710 Abou Qir St. Intersection Of Serhank St., Loran, Alexandria"
+},
+		{	"profileId":"449412",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/449412?b=10&k=16527&l=search",
+	"arName":"20 ش توت عنخ امون, سموحة, الاسكندرية",
+	"enName":"20 Tut Ankh Amoun St., Semouha, Alexandria"
+},
+		{	"profileId":"449407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/449407?b=1&k=16527&l=search",
+	"arName":"235 ش الحجاز, مصر الجديدة, القاهرة",
+	"enName":"235 El Hegaz St., Heliopolis, Cairo"
+},
+		{	"profileId":"423126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/423126?b=3&k=16527&l=search",
+	"arName":"10 ش محمد متولى الشعراوى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"10 Mohamed Metwally El Shaarawy St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"423127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/423127?b=2&k=16527&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"508677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/508677?b=7&k=16527&l=search",
+	"arName":"كم 56 - طريق مصر اسماعيلية الصحراوى, العاشر من رمضان, الشرقية",
+	"enName":"Km 56, Misr Ismaileya Desert Rd., 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"449409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/449409?b=13&k=16527&l=search",
+	"arName":"9 ش ابراهيم الشريف, مصطفى كامل, الاسكندرية",
+	"enName":"9 Ibrahim El Sherif St., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"454207",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/454207?b=9&k=16527&l=search",
+	"arName":"287 ش جمال عبد الناصر, العصافرة, الاسكندرية",
+	"enName":"287 Gamal Abdel Nasser St., El asafra, Alexandria"
+},
+		{	"profileId":"454206",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/454206?b=11&k=16527&l=search",
+	"arName":"الطريق الزراعى, خورشيد, الاسكندرية",
+	"enName":"Agricultural Rd., Khorshid, Alexandria"
+},
+		{	"profileId":"508681",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/508681?b=6&k=16527&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"454213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porcelain-majestic/454213?b=12&k=16527&l=search",
+	"arName":"طريق قناة السويس, وسط البلد, الاسكندرية",
+	"enName":"Suez Canal Rd., Downtown, Alexandria"
+}
+	]
+}]}

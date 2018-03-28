@@ -1,0 +1,263 @@
+{"items":[{	"arName":"صيدليات سيف",
+	"enName":"Seif Pharmacies",
+	"hotlone":"19199",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"7066",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/7066?b=1&k=19199&l=search",
+	"arName":"11 ش احمد عمارة, مصر القديمة, القاهرة",
+	"enName":"11 Ahmed Emara St., Misr el kadima, Cairo"
+},
+		{	"profileId":"7264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/7264?b=24&k=19199&l=search",
+	"arName":"1 ش 9 ميدان المحطة - برج المعادى بالاس, سرايات المعادى, المعادى, القاهرة",
+	"enName":"1 Rd. 9 El Mahatta Sq., Maadi Palace Tower, Sarayat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"215586",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/215586?b=30&k=19199&l=search",
+	"arName":"2 ش التحرير ميدان سرور, دمياط, دمياط",
+	"enName":"2 El Tahrir St. Sorour Sq., Damietta, Damietta"
+},
+		{	"profileId":"239772",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/239772?b=3&k=19199&l=search",
+	"arName":"1 ش مكرم عبيد تقاطع ش النصر, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"1 Makram Ebaid St. Intersection Of El Nasr St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"239793",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/239793?b=38&k=19199&l=search",
+	"arName":"22 ش سوريا, رشدى, الاسكندرية",
+	"enName":"22 Syria St., Roushdy, Alexandria"
+},
+		{	"profileId":"352473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/352473?b=4&k=19199&l=search",
+	"arName":"3 ش ابن النبيه متفرع من ش ابو الفدا, الزمالك, القاهرة",
+	"enName":"3 Ibn El Nabih St. Off Abou El Feda St., Zamalek, Cairo"
+},
+		{	"profileId":"121021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/121021?b=33&k=19199&l=search",
+	"arName":"166 ش صيدناوى المجاورة السادسة - تقسيم المهندسين, العاشر من رمضان, الشرقية",
+	"enName":"166 Sidnawy St. 6th Neighbourhood, El Mohandeseen Division, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"72550",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/72550?b=17&k=19199&l=search",
+	"arName":"34 أ ش منيل الروضة, منيل الروضة, القاهرة",
+	"enName":"34 A Manial El Rawda St., Manial el roda, Cairo"
+},
+		{	"profileId":"144082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/144082?b=25&k=19199&l=search",
+	"arName":"17 ابراج عثمان - المتوسط -, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"17 Othman Towers - Intermediate,, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"165695",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/165695?b=14&k=19199&l=search",
+	"arName":"القطعة 67/68 - - منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 67/68, , 1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"165694",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/165694?b=32&k=19199&l=search",
+	"arName":"22 ش دجلة متفرع من ش شهاب, المهندسين, الجيزة",
+	"enName":"22 Degla St. Off Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"445795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/445795?b=35&k=19199&l=search",
+	"arName":"2 /10 عمارات الفيصلية - طريق المريوطية, المريوطية, فيصل, الجيزة",
+	"enName":"2 /10 El Faisaleya Bldgs., El Mariouteya Rd., El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"166770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/166770?b=15&k=19199&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر القديمة, القاهرة",
+	"enName":"Home Delivery, Misr el kadima, Cairo"
+},
+		{	"profileId":"121511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/121511?b=42&k=19199&l=search",
+	"arName":"417 ش الهرم - ويمبى, الهرم, الجيزة",
+	"enName":"417 Haram St., Wimpy, El haram, Giza"
+},
+		{	"profileId":"141001",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/141001?b=13&k=19199&l=search",
+	"arName":"5 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"5 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"237823",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/237823?b=44&k=19199&l=search",
+	"arName":"مارينا 4, مارينا, الساحل الشمالى",
+	"enName":"Marina 4, Marina, North coast"
+},
+		{	"profileId":"121515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/121515?b=36&k=19199&l=search",
+	"arName":"32 ش الجلاء ميدان الكباس, دمياط, دمياط",
+	"enName":"32 El Galaa St. El Kabbas Sq., Damietta, Damietta"
+},
+		{	"profileId":"198038",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/198038?b=37&k=19199&l=search",
+	"arName":"ش الشهيد محمود شكرى عبد المنعم, سموحة, الاسكندرية",
+	"enName":"El Shaheed Mahmoud Shokry Abdel Moneim St., Semouha, Alexandria"
+},
+		{	"profileId":"72548",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/72548?b=16&k=19199&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"452351",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/452351?b=27&k=19199&l=search",
+	"arName":"50 ش ابو العتاهية امتداد ش عباس العقاد, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"50 Abou El Ataheya St. Extension Of Abbas El Akkad St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"198093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/198093?b=31&k=19199&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"72549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/72549?b=26&k=19199&l=search",
+	"arName":"76 ش قصر العينى, قصر العينى, القاهرة",
+	"enName":"76 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"520983",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/520983?b=22&k=19199&l=search",
+	"arName":"55 ش رايل, حلوان, القاهرة",
+	"enName":"55 Rayel St., Helwan, Cairo"
+},
+		{	"profileId":"432528",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/432528?b=29&k=19199&l=search",
+	"arName":"الحى الثالث, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"3rd District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"445780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/445780?b=6&k=19199&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى, مدينة الشروق, القاهرة",
+	"enName":"Misr Ismaileya Desert Rd., El sherouk city, Cairo"
+},
+		{	"profileId":"352502",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/352502?b=21&k=19199&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"520988",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/520988?b=23&k=19199&l=search",
+	"arName":"4 ش قدرى, السيدة زينب, القاهرة",
+	"enName":"4 Qadry St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"427871",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/427871?b=10&k=19199&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258F, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"222470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/222470?b=46&k=19199&l=search",
+	"arName":"المحور المركزى, الحى 11, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 11th District, 6th of october, Giza"
+},
+		{	"profileId":"352491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/352491?b=8&k=19199&l=search",
+	"arName":"120 ش عثمان بن عفان, تريومف, مصر الجديدة, القاهرة",
+	"enName":"120 Othman Ibn Affan St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"195559",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/195559?b=43&k=19199&l=search",
+	"arName":"22 ش محمود عزمى تقاطع ش النبى دانيال, محطة الرمل, الاسكندرية",
+	"enName":"22 Mahmoud Azmy St. Intersection Of El Nabi Daniel St., Raml station, Alexandria"
+},
+		{	"profileId":"505852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/505852?b=47&k=19199&l=search",
+	"arName":"المحور المركزى - تقاطع محور 26 يوليو, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, Intersection Of 26th Of July Spine, 6th of october, Giza"
+},
+		{	"profileId":"468186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/468186?b=7&k=19199&l=search",
+	"arName":"44 ش القلعة, الحلمية الجديدة, القاهرة",
+	"enName":"44 El Qalaa St., El helmeya el gedidah, Cairo"
+},
+		{	"profileId":"405080",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/405080?b=12&k=19199&l=search",
+	"arName":"13 ش 9, المقطم, القاهرة",
+	"enName":"13 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"352494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/352494?b=39&k=19199&l=search",
+	"arName":"223 ش فيصل, التعاون, فيصل, الجيزة",
+	"enName":"223 Faisal St., El Taawon, Faisal, Giza"
+},
+		{	"profileId":"272146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/272146?b=45&k=19199&l=search",
+	"arName":"140 ش السودان, المهندسين, الجيزة",
+	"enName":"140 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"507016",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/507016?b=5&k=19199&l=search",
+	"arName":"24 ش الشهيد سيد زكريا خليل, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"24 El Shaheed Sayed Zakareya Khalil St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"58269",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/58269?b=19&k=19199&l=search",
+	"arName":"73 ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"73 El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"379455",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/379455?b=40&k=19199&l=search",
+	"arName":"59 أ ش 5, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"59 A Rd. 5, Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"121507",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/121507?b=34&k=19199&l=search",
+	"arName":"كم 106 - طريق القاهرة اسكندرية الصحراوى, وادى النطرون, البحيرة",
+	"enName":"Km 106, Cairo Alex Desert Rd., Wadi el natroun, El beheira"
+},
+		{	"profileId":"383506",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/383506?b=48&k=19199&l=search",
+	"arName":"كم 8 - , طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 8, , Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"239779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/239779?b=20&k=19199&l=search",
+	"arName":"183 ميدان التحرير - عمارة استراند, باب اللوق, القاهرة",
+	"enName":"183 El Tahrir Sq., Esterand Bldg., Bab el louk, Cairo"
+},
+		{	"profileId":"412069",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/412069?b=28&k=19199&l=search",
+	"arName":"ش زهراء المعادى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Zahraa El Maadi St., Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"102503",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/102503?b=18&k=19199&l=search",
+	"arName":"41 أ ش شبرا, شبرا, القاهرة",
+	"enName":"41 A Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"383744",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/383744?b=9&k=19199&l=search",
+	"arName":"7 عمارات الشرطة - ش 233, دجلة, المعادى, القاهرة",
+	"enName":"7 El Shorta Bldgs., Rd. 233, Degla, Maadi, Cairo"
+},
+		{	"profileId":"474337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/474337?b=41&k=19199&l=search",
+	"arName":"كم 92 - طريق السويس الغردقة - الزعفرانة, العين السخنة, العين السخنة",
+	"enName":"Km 92, Suez Hurghada Rd., El Zaafarana, El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"383767",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-pharmacies/383767?b=11&k=19199&l=search",
+	"arName":"74 ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"74 Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"سيف بيوتى",
+	"enName":"Seif Beauty",
+	"hotlone":"19199",
+	"arCategory":[
+		"مستحضرات تجميل"
+	],
+	"enCategories":[
+		"Cosmetics & Toiletries"
+	],
+	"contacts":[
+		{	"profileId":"454432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seif-beauty/454432?b=2&k=19199&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

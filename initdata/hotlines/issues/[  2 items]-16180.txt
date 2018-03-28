@@ -1,0 +1,57 @@
+{"items":[{	"arName":"نستلة مصر",
+	"enName":"Nestle Egypt",
+	"hotlone":"16180",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات",
+		"مياه معبئة (معدنية)",
+		"مياه معالجة"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment",
+		"Water Bottled & Bulk",
+		"Water Treatment"
+	],
+	"contacts":[
+		{	"profileId":"17368",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nestle-egypt/17368?b=3&k=16180&l=search",
+	"arName":"44 مبنى سوميت - ش التسعين الشمالى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"44 Somit Bldg., El Tesaeen El Shamaly St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"255862",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nestle-egypt/255862?b=4&k=16180&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"75873",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nestle-egypt/75873?b=5&k=16180&l=search",
+	"arName":"كم 15 - طريق القاهرة اسكندرية الزراعى, قليوب, القليوبية",
+	"enName":"Km 15, Cairo Alex Agricultural Rd., Qalyub, Kaliobeya"
+},
+		{	"profileId":"127243",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nestle-egypt/127243?b=6&k=16180&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"enName":"Customer Service, Abou rawash, Giza"
+}
+	]
+}, {	"arName":"بركة للمياه المعدنية",
+	"enName":"Baraka Mineral Water",
+	"hotlone":"16180",
+	"arCategory":[
+		"مياه معبئة (معدنية)"
+	],
+	"enCategories":[
+		"Water Bottled & Bulk"
+	],
+	"contacts":[
+		{	"profileId":"487520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baraka-mineral-water/487520?b=2&k=16180&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"enName":"Customer Service, Garden city, Cairo"
+},
+		{	"profileId":"164919",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baraka-mineral-water/164919?b=1&k=16180&l=search",
+	"arName":"6 ش دار الشفاء, جاردن سيتى, القاهرة",
+	"enName":"6 Dar El Shefaa St., Garden city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,33 @@
+{"items":[{	"arName":"شركة واتر هاوس للمياة المعدنية",
+	"enName":"Water House Co. For Natural Water",
+	"hotlone":"19409",
+	"arCategory":[
+		"مياه معبئة (معدنية)"
+	],
+	"enCategories":[
+		"Water Bottled & Bulk"
+	],
+	"contacts":[
+		{	"profileId":"469522",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/water-house-co.-for-natural-water/469522?b=2&k=19409&l=search",
+	"arName":"35 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"35 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"شركة جولدن ريتش للتجارة والتوزيع",
+	"enName":"Golden Reach For Trading & Distribution",
+	"hotlone":"19409",
+	"arCategory":[
+		"مياه معبئة (معدنية)"
+	],
+	"enCategories":[
+		"Water Bottled & Bulk"
+	],
+	"contacts":[
+		{	"profileId":"123186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golden-reach-for-trading-&-distribution/123186?b=1&k=19409&l=search",
+	"arName":"35 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"35 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}]}

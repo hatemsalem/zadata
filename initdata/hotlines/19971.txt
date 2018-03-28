@@ -1,0 +1,27 @@
+{"items":[{	"arName":"الرواد للسياحة",
+	"enName":"Al Rowad Tours",
+	"hotlone":"19971",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"471360",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-tours/471360?b=3&k=19971&l=search",
+	"arName":"المجاورة الاولى - عمارة 57 - الدور 1 شقة 1, الحى الثالث, السادس من اكتوبر, الجيزة",
+	"enName":"1St Neighbourhood, Bldg. 57, Floor 1 Flat 1, 3rd District, 6th of october, Giza"
+},
+		{	"profileId":"101078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-tours/101078?b=1&k=19971&l=search",
+	"arName":"172 ش التحرير, باب اللوق, القاهرة",
+	"enName":"172 El Tahrir St., Bab el louk, Cairo"
+},
+		{	"profileId":"471554",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-tours/471554?b=2&k=19971&l=search",
+	"arName":"خدمة العملاء, باب اللوق, القاهرة",
+	"enName":"Customer Service, Bab el louk, Cairo"
+}
+	]
+}]}

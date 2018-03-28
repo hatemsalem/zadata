@@ -1,0 +1,33 @@
+{"items":[{	"arName":"تشارلز فيلى ستيكس",
+	"enName":"Charley's Philly Steaks",
+	"hotlone":"16854",
+	"arCategory":[
+		"وجبات سريعة",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"426904",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/charley's-philly-steaks/426904?b=2&k=16854&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"527040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/charley's-philly-steaks/527040?b=1&k=16854&l=search",
+	"arName":"41 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"41 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"527067",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/charley's-philly-steaks/527067?b=3&k=16854&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Home Delivery, Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

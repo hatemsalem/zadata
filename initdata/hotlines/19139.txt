@@ -1,0 +1,27 @@
+{"items":[{	"arName":"تو ام - الشركة المصرية الايطالية لصناعة مستلزمات الاحذية",
+	"enName":"2M - The Egyptian Italian Co. For Industrial Supply Of Shoes",
+	"hotlone":"19139",
+	"arCategory":[
+		"احذية وشنط محلات"
+	],
+	"enCategories":[
+		"Shoes & Bags Retail"
+	],
+	"contacts":[
+		{	"profileId":"577318",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2m-_-the-egyptian-italian-co.-for-industrial-supply-of-shoes/577318?b=1&k=19139&l=search",
+	"arName":"91 ش القبيسى تقاطع ش ادريس راغب, الظاهر, القاهرة",
+	"enName":"91 El Qubaisy St. Intersection Of Edris Ragheb St., El zaher, Cairo"
+},
+		{	"profileId":"577310",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2m-_-the-egyptian-italian-co.-for-industrial-supply-of-shoes/577310?b=3&k=19139&l=search",
+	"arName":"كم 18 - طريق قليوب القناطر الزراعى, قليوب, القليوبية",
+	"enName":"Km 18, Qalioub El Qanater Agricultural Rd., Qalyub, Kaliobeya"
+},
+		{	"profileId":"577312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2m-_-the-egyptian-italian-co.-for-industrial-supply-of-shoes/577312?b=2&k=19139&l=search",
+	"arName":"خدمة العملاء, قليوب, القليوبية",
+	"enName":"Customer Service, Qalyub, Kaliobeya"
+}
+	]
+}]}

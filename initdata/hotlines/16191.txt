@@ -1,0 +1,352 @@
+{"items":[{	"arName":"معامل الفا",
+	"enName":"Alfa Laboratories",
+	"hotlone":"16191",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"199593",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/199593?b=56&k=16191&l=search",
+	"arName":"المحور المركزى - ميدان ماجدة, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, Magda Sq., 7th District, 6th of october, Giza"
+},
+		{	"profileId":"495691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/495691?b=38&k=16191&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"46046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/46046?b=45&k=16191&l=search",
+	"arName":"1 ميدان الحجاز - برج الصفا الطبى - الدور 1, المهندسين, الجيزة",
+	"enName":"1 El Hegaz Sq., El Safa Medical Tower, Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"463533",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/463533?b=20&k=16191&l=search",
+	"arName":"181 ش جسر السويس, جسر السويس, القاهرة",
+	"enName":"181 Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"355103",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/355103?b=19&k=16191&l=search",
+	"arName":"68 ش مكرم عبيد تقاطع ش عبد الرازق السنهورى - الدور 3, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"68 Makram Ebaid St. Intersection Of Abdel Razeq El Sanhoury St., Floor 3, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"79890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/79890?b=5&k=16191&l=search",
+	"arName":"40 ش شبرا - الدور 3, شبرا, القاهرة",
+	"enName":"40 Shoubra St., Floor 3, Shoubra, Cairo"
+},
+		{	"profileId":"355106",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/355106?b=31&k=16191&l=search",
+	"arName":"2 ش احمد الزمر ميدان الحى العاشر, الحى العاشر, مدينة نصر, القاهرة",
+	"enName":"2 Ahmed El Zomor St. 10th District Sq., 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"79892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/79892?b=55&k=16191&l=search",
+	"arName":"2 ش السلام متفرع من ش فيصل - برج لؤلؤة فيصل - الدور 3, المساحة, فيصل, الجيزة",
+	"enName":"2 El Salam St. Off Faisal St., Loualoaat Faisal Tower, Floor 3, El Messaha, Faisal, Giza"
+},
+		{	"profileId":"463532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/463532?b=58&k=16191&l=search",
+	"arName":"417 ش الهرم, الهرم, الجيزة",
+	"enName":"417 Haram St., El haram, Giza"
+},
+		{	"profileId":"79893",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/79893?b=30&k=16191&l=search",
+	"arName":"208 ش بورسعيد - الدور 2, السيدة زينب, القاهرة",
+	"enName":"208 Port Said St., Floor 2, El sayeda zeinab, Cairo"
+},
+		{	"profileId":"465001",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/465001?b=33&k=16191&l=search",
+	"arName":"القطعة 81 - - منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 81, , 1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"174568",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/174568?b=14&k=16191&l=search",
+	"arName":"94 ش عبد العزيز فهمى ميدان سانت فاتيما - الدور 3, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"94 Abdel Aziz Fahmy St. Saint Fatima Sq., Floor 3, Saint Fatima, Heliopolis, Cairo"
+},
+		{	"profileId":"439073",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/439073?b=10&k=16191&l=search",
+	"arName":"55 ش رياض تقاطع ش شريف, حلوان, القاهرة",
+	"enName":"55 Riad St. Intersection Of Sherif St., Helwan, Cairo"
+},
+		{	"profileId":"527413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/527413?b=43&k=16191&l=search",
+	"arName":"48 ش الجمهورية تقاطع ش المؤيد, الحوامدية, الجيزة",
+	"enName":"48 El Gomhoureya St. Intersection Of El Moayed St., El hawamdeya, Giza"
+},
+		{	"profileId":"205360",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/205360?b=18&k=16191&l=search",
+	"arName":"2 ش جعفر متفرع من ش بورسعيد - الدور 1, الظاهر, القاهرة",
+	"enName":"2 Gaafar St. Off Port Said St., Floor 1, El zaher, Cairo"
+},
+		{	"profileId":"174564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/174564?b=23&k=16191&l=search",
+	"arName":"2 ش شريف - عمارة اللواء - الدور 3, وسط البلد, القاهرة",
+	"enName":"2 Sherif St., El Lewaa Bldg., Floor 3, Downtown, Cairo"
+},
+		{	"profileId":"243085",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/243085?b=25&k=16191&l=search",
+	"arName":"28 ش عثمان بن عفان - عمارة سنتر روما - الدور 1, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"enName":"28 Othman Ibn Affan St., Center Roma Bldg., Floor 1, Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"395370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/395370?b=50&k=16191&l=search",
+	"arName":"22 ش مراد, الجيزة, الجيزة",
+	"enName":"22 Mourad St., Giza, Giza"
+},
+		{	"profileId":"439037",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/439037?b=64&k=16191&l=search",
+	"arName":"القطعة 31 -, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"558021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/558021?b=44&k=16191&l=search",
+	"arName":"26 ش البطل احمد عبد العزيز متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"26 El Batal Ahmed Abdel Aziz St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"395373",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/395373?b=34&k=16191&l=search",
+	"arName":"77 ب طريق النصر - الدور 3, مدينة نصر, القاهرة",
+	"enName":"77 B El Nasr Rd., Floor 3, Nasr city, Cairo"
+},
+		{	"profileId":"568129",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/568129?b=21&k=16191&l=search",
+	"arName":"المجاورة د2 - الحى الثانى, مدينة الشروق, القاهرة",
+	"enName":"Neighbourhood D2, 2nd District, El sherouk city, Cairo"
+},
+		{	"profileId":"395378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/395378?b=67&k=16191&l=search",
+	"arName":"511 ش الاهرام ميدان الجيزة - عمارة النصر, الجيزة, الجيزة",
+	"enName":"511 El Ahram St. Giza Sq., El Nasr Bldg., Giza, Giza"
+},
+		{	"profileId":"537865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/537865?b=12&k=16191&l=search",
+	"arName":"محور السادات, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"El Sadat Spine, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"395377",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/395377?b=39&k=16191&l=search",
+	"arName":"ش الجيش - الدور 2, حى السويس, السويس",
+	"enName":"El Guish St., Floor 2, Suez district, Suez"
+},
+		{	"profileId":"205412",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/205412?b=8&k=16191&l=search",
+	"arName":"4 ش الاثرى محمد بن نافع متفرع من ش الحجاز - برج زهرة روكسى - الدور 2, روكسى, مصر الجديدة, القاهرة",
+	"enName":"4 El Athary Mohamed Ibn Nafea St. Off El Hegaz St., Zahret Roxy Tower, Floor 2, Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"79885",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/79885?b=24&k=16191&l=search",
+	"arName":"127 ج ش مصر والسودان - الدور 2, حدائق القبة, القاهرة",
+	"enName":"127 C Misr & Sudan St., Floor 2, Hadayek el kobba, Cairo"
+},
+		{	"profileId":"439066",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/439066?b=47&k=16191&l=search",
+	"arName":"كم 16 - طريق اسكندرية مطروح الصحراوى, العجمى, الاسكندرية",
+	"enName":"Km 16, Alex Matrouh Desert Rd., Agami, Alexandria"
+},
+		{	"profileId":"568130",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/568130?b=62&k=16191&l=search",
+	"arName":"., مارينا, الساحل الشمالى",
+	"enName":"., Marina, North coast"
+},
+		{	"profileId":"79887",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/79887?b=1&k=16191&l=search",
+	"arName":"106 ش عباس العقاد - الدور 2, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"106 Abbas El Akkad St., Floor 2, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"79886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/79886?b=29&k=16191&l=search",
+	"arName":"47 ش المنيل, المنيل, القاهرة",
+	"enName":"47 Manial St., El manyal, Cairo"
+},
+		{	"profileId":"439060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/439060?b=51&k=16191&l=search",
+	"arName":"25 ميدان فيكتور عمانويل, سموحة, الاسكندرية",
+	"enName":"25 Victor Emanuel Sq., Semouha, Alexandria"
+},
+		{	"profileId":"79889",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/79889?b=16&k=16191&l=search",
+	"arName":"73 ش الميرغنى - الدور 2, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"73 El Merghany St., Floor 2, koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"439063",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/439063?b=65&k=16191&l=search",
+	"arName":"ش احمد عرابى - برج عرابى - الدور 1, دمنهور, البحيرة",
+	"enName":"Ahmed Orabi St., Orabi Tower, Floor 1, Damanhour, El beheira"
+},
+		{	"profileId":"79888",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/79888?b=4&k=16191&l=search",
+	"arName":"1 ش طلعت حرب ميدان التحرير - الدور 2, وسط البلد, القاهرة",
+	"enName":"1 Talaat Harb St. El Tahrir Sq., Floor 2, Downtown, Cairo"
+},
+		{	"profileId":"455815",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/455815?b=11&k=16191&l=search",
+	"arName":"75 ش عين شمس تقاطع ش احمد عصمت - الدور 3, عين شمس, القاهرة",
+	"enName":"75 Ain Shams St. Intersection Of Ahmed Essmat St., Floor 3, Ain shams, Cairo"
+},
+		{	"profileId":"568056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/568056?b=3&k=16191&l=search",
+	"arName":"41 ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"41 Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"568131",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/568131?b=22&k=16191&l=search",
+	"arName":"10 ميدان ابن الحكم, حلمية الزيتون, القاهرة",
+	"enName":"10 Ibn El Hakam Sq., Helmeyet el zaitoun, Cairo"
+},
+		{	"profileId":"439068",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/439068?b=66&k=16191&l=search",
+	"arName":"3 ش الجلاء, فيكتوريا, الاسكندرية",
+	"enName":"3 El Galaa St., Victoria, Alexandria"
+},
+		{	"profileId":"243458",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/243458?b=26&k=16191&l=search",
+	"arName":"القطعة 6019 - ش 9 - الدور 1, المقطم, القاهرة",
+	"enName":"Plot 6019, Rd. 9, Floor 1, Mokattam, Cairo"
+},
+		{	"profileId":"93255",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/93255?b=36&k=16191&l=search",
+	"arName":"300 ش الهرم - عمارة الاتحادية - الدور 2, الطالبية, الهرم, الجيزة",
+	"enName":"300 Haram St., El Ethadeya Bldg., Floor 2, El Talbeya, El haram, Giza"
+},
+		{	"profileId":"489667",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/489667?b=48&k=16191&l=search",
+	"arName":"ش النبوى المهندس, المسلة, الفيوم",
+	"enName":"El Nabawy El Mohandes St., El massalah, El fayoum"
+},
+		{	"profileId":"521126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/521126?b=61&k=16191&l=search",
+	"arName":"74 ش احمد عرابى تقاطع ش الهلال, بنى سويف, بنى سويف",
+	"enName":"74 Ahmed Orabi St. Intersection Of El Helal St., Benisuef, Benisuef"
+},
+		{	"profileId":"521129",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/521129?b=42&k=16191&l=search",
+	"arName":"ميدان المحطة - البرج الزجاجى - الدور 4, طنطا, الغربية",
+	"enName":"El Mahatta Sq., El Zogagy Tower, Floor 4, Tanta, El gharbeya"
+},
+		{	"profileId":"489669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/489669?b=32&k=16191&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"568060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/568060?b=28&k=16191&l=search",
+	"arName":"1 عمارات الميريلاند - ش جسر السويس, جسر السويس, القاهرة",
+	"enName":"1 El Merryland Bldgs., Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"489670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/489670?b=37&k=16191&l=search",
+	"arName":"105 ش سعد زغلول ميدان المحطة, وسط البلد, المنيا",
+	"enName":"105 Saad Zaghloul St. El Mahatta Sq., Downtown, El menia"
+},
+		{	"profileId":"199604",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/199604?b=7&k=16191&l=search",
+	"arName":"10 ابراج اغاخان - ش السلام - الدور 2, اغاخان, القاهرة",
+	"enName":"10 Aghakhan Towers, El Salam St., Floor 2, Aghakhan, Cairo"
+},
+		{	"profileId":"137050",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/137050?b=53&k=16191&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"568064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/568064?b=68&k=16191&l=search",
+	"arName":"القطعة د1 - ش الخزان المحور المركزى, الحى السادس, السادس من اكتوبر, الجيزة",
+	"enName":"Plot D1, El Khazzan St. Central Spine, 6th District, 6th of october, Giza"
+},
+		{	"profileId":"521134",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/521134?b=52&k=16191&l=search",
+	"arName":"1 ابراج سيتى مول - ش 15 مايو تقاطع ش احمد عرابى - الدور 5, شبرا الخيمة, القليوبية",
+	"enName":"1 City Mall Towers, 15th Of May St. Intersection Of Ahmed Orabi St., Floor 5, Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"479018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/479018?b=2&k=16191&l=search",
+	"arName":"87 ش المنيل, المنيل, القاهرة",
+	"enName":"87 Manial St., El manyal, Cairo"
+},
+		{	"profileId":"199601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/199601?b=57&k=16191&l=search",
+	"arName":"29 ش سعد زغلول العدلى - الدور 1, بنها, القليوبية",
+	"enName":"29 Saad Zaghloul St. El Adly, Floor 1, Banha, Kaliobeya"
+},
+		{	"profileId":"439057",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/439057?b=59&k=16191&l=search",
+	"arName":"418 طريق الحرية, رشدى, الاسكندرية",
+	"enName":"418 El Horreya Rd., Roushdy, Alexandria"
+},
+		{	"profileId":"521137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/521137?b=35&k=16191&l=search",
+	"arName":"ش كارفور الرئيسى - المعراج العلوى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"Carrefour Main Rd., El Mearag El Elwey, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"521138",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/521138?b=27&k=16191&l=search",
+	"arName":"1 عمارات الاوقاف - ميدان السواح, الاميرية, القاهرة",
+	"enName":"1 El Awqaf Bldgs., El Sawah Sq., El amireya, Cairo"
+},
+		{	"profileId":"205429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/205429?b=9&k=16191&l=search",
+	"arName":"109 ش العباسية - برج الفردوس - الدور 2, عباسية, القاهرة",
+	"enName":"109 Abbaseya St., EL Fardous Tower, Floor 2, Abbasseya, Cairo"
+},
+		{	"profileId":"439043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/439043?b=40&k=16191&l=search",
+	"arName":"15 ميدان سعد زغلول - الدور 1, محطة الرمل, الاسكندرية",
+	"enName":"15 Saad Zaghloul Sq., Floor 1, Raml station, Alexandria"
+},
+		{	"profileId":"141353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/141353?b=13&k=16191&l=search",
+	"arName":"كورنيش النيل - برج السلام - الدور 1, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Corniche El Nil, El Salam Tower, Floor 1, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"521020",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/521020?b=60&k=16191&l=search",
+	"arName":"الحى الاول, مدينة العبور, القليوبية",
+	"enName":"1st District, Obour city, Kaliobeya"
+},
+		{	"profileId":"355100",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/355100?b=41&k=16191&l=search",
+	"arName":"14 ش مصدق - الدور 2, الدقى, الجيزة",
+	"enName":"14 Mossadak St., Floor 2, Dokki, Giza"
+},
+		{	"profileId":"355101",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/355101?b=63&k=16191&l=search",
+	"arName":"33 ش احمد عرابى - الدور 1, المهندسين, الجيزة",
+	"enName":"33 Ahmed Orabi St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"574867",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/574867?b=49&k=16191&l=search",
+	"arName":"4 ش ترعة الزمر, ارض اللواء, الجيزة",
+	"enName":"4 Teraet El Zomor St., Ard el lewaa, Giza"
+},
+		{	"profileId":"174574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/174574?b=6&k=16191&l=search",
+	"arName":"28 ش النصر - الدور 1, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"28 El Nasr St., Floor 1, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"174575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/174575?b=15&k=16191&l=search",
+	"arName":"9 ميدان الحرية - الدور 1, المعادى, القاهرة",
+	"enName":"9 El Horreya Sq., Floor 1, Maadi, Cairo"
+},
+		{	"profileId":"174571",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/174571?b=54&k=16191&l=search",
+	"arName":"159 ش فيصل - الدور 1, الكوم الاخضر, فيصل, الجيزة",
+	"enName":"159 Faisal St., Floor 1, El Koum El Akhdar, Faisal, Giza"
+},
+		{	"profileId":"100601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/100601?b=46&k=16191&l=search",
+	"arName":"59 ش عبد المنعم رياض متفرع من ش البطل احمد عبد العزيز - الدور 1, المهندسين, الجيزة",
+	"enName":"59 Abdel Moneim Riad St. Off El Batal Ahmed Abdel Aziz St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"100602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-laboratories/100602?b=17&k=16191&l=search",
+	"arName":"39 ش ابن الحكم - الدور 2, حلمية الزيتون, القاهرة",
+	"enName":"39 Ibn El Hakam St., Floor 2, Helmeyet el zaitoun, Cairo"
+}
+	]
+}]}

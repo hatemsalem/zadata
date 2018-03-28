@@ -1,0 +1,132 @@
+{"items":[{	"arName":"معامل رويال لاب",
+	"enName":"Royal Lab",
+	"hotlone":"16064",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"395364",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/395364?b=7&k=16064&l=search",
+	"arName":"14 ش 9 ميدان النافورة, المقطم, القاهرة",
+	"enName":"14 Rd. 9 El Nafoura Sq., Mokattam, Cairo"
+},
+		{	"profileId":"177297",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/177297?b=23&k=16064&l=search",
+	"arName":"443 ش فيصل - الدور 1, مدكور, فيصل, الجيزة",
+	"enName":"443 Faisal St., Floor 1, Madkour, Faisal, Giza"
+},
+		{	"profileId":"96308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/96308?b=11&k=16064&l=search",
+	"arName":"53 ش المقريزى - برج الاطباء - الدور 4, منشية البكرى, مصر الجديدة, القاهرة",
+	"enName":"53 El Maqrizy St., El Atebaa Tower, Floor 4, Mansheyet El Bakry, Heliopolis, Cairo"
+},
+		{	"profileId":"395286",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/395286?b=19&k=16064&l=search",
+	"arName":"ش ابو بكر الصديق, العاشر من رمضان, الشرقية",
+	"enName":"Abou Bakr El Seddik St., 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"395363",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/395363?b=20&k=16064&l=search",
+	"arName":"70 ش دولسى المجاورة الثانية, الحى السادس, السادس من اكتوبر, الجيزة",
+	"enName":"70 Dolcy St. 2nd Neighbourhood, 6th District, 6th of october, Giza"
+},
+		{	"profileId":"439638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/439638?b=14&k=16064&l=search",
+	"arName":"29 ش محمود عطية متفرع من ش ابن الحكم - الدور 3, حلمية الزيتون, القاهرة",
+	"enName":"29 Mahmoud Atteya St. Off Ibn El Hakam St., Floor 3, Helmeyet el zaitoun, Cairo"
+},
+		{	"profileId":"165569",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/165569?b=13&k=16064&l=search",
+	"arName":"2 ش شريف - عمارة اللواء - الدور 4, باب اللوق, القاهرة",
+	"enName":"2 Sherif St., El Lewaa Bldg., Floor 4, Bab el louk, Cairo"
+},
+		{	"profileId":"439628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/439628?b=21&k=16064&l=search",
+	"arName":"1 طريق كعبيش, الطوابق, فيصل, الجيزة",
+	"enName":"1 Kaabish Rd., El Tawabeq, Faisal, Giza"
+},
+		{	"profileId":"148133",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/148133?b=8&k=16064&l=search",
+	"arName":"5 ش عباس العقاد - الدور 7, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"5 Abbas El Akkad St., Floor 7, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"187352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/187352?b=9&k=16064&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"514481",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/514481?b=12&k=16064&l=search",
+	"arName":"8 بلوك 1 - ش 9, المقطم, القاهرة",
+	"enName":"8 Block 1, Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"148131",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/148131?b=16&k=16064&l=search",
+	"arName":"15 برج القطان - ش 15 مايو - الدور 4, شبرا الخيمة, القليوبية",
+	"enName":"15 El Qattan Tower, 15th Of May St., Floor 4, Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"517372",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/517372?b=22&k=16064&l=search",
+	"arName":"ش 25 يناير متفرع من ش المحطة - الدور 1, نجع حمادى, قنا",
+	"enName":"25th Of January St. Off El Mahatta St., Floor 1, Nagaa hamady, Qena"
+},
+		{	"profileId":"244208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/244208?b=24&k=16064&l=search",
+	"arName":"2 ابراج برعى بلازا - ميدان الحصرى, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"2 Boraie Plaza Towers, El Hosary Sq., 7th District, 6th of october, Giza"
+},
+		{	"profileId":"171710",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/171710?b=3&k=16064&l=search",
+	"arName":"22 ش شبرا - الدور 1, شبرا, القاهرة",
+	"enName":"22 Shoubra St., Floor 1, Shoubra, Cairo"
+},
+		{	"profileId":"470875",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/470875?b=5&k=16064&l=search",
+	"arName":"38 ش محمد سيد احمد, حلوان, القاهرة",
+	"enName":"38 Mohamed Sayed Ahmed St., Helwan, Cairo"
+},
+		{	"profileId":"203287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/203287?b=18&k=16064&l=search",
+	"arName":"48 ش شهاب - الدور 5, المهندسين, الجيزة",
+	"enName":"48 Shehab St., Floor 5, Mohandeseen, Giza"
+},
+		{	"profileId":"244221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/244221?b=1&k=16064&l=search",
+	"arName":"القطعة 82 - ش اخناتون - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 82, Ekhnatoun St., 1St District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"439625",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/439625?b=2&k=16064&l=search",
+	"arName":"5 ش الطحاوى متفرع من ش الخليفة المأمون - برج الصفوة - الدور 2, روكسى, مصر الجديدة, القاهرة",
+	"enName":"5 El Tahawy St. Off El Khalifa El Maamoun St., El Safwa Tower, Floor 2, Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"203290",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/203290?b=4&k=16064&l=search",
+	"arName":"45 ش النصر ميدان الجزائر - برج النصر - الدور 2, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"45 El Nasr St. El Gazaer Sq., El Nasr Tower, Floor 2, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"132042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/132042?b=10&k=16064&l=search",
+	"arName":"22 ش مجدى - الدور 2, النزهة الجديدة, القاهرة",
+	"enName":"22 Magdy St., Floor 2, El nozha el gadida, Cairo"
+},
+		{	"profileId":"395282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/395282?b=6&k=16064&l=search",
+	"arName":"183 ش النزهة - برج بانوراما - الدور 2, تريومف, مصر الجديدة, القاهرة",
+	"enName":"183 El Nozha St., Panorama Tower, Floor 2, Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"177298",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/177298?b=15&k=16064&l=search",
+	"arName":"97 ش التحرير - الدور 8, الدقى, الجيزة",
+	"enName":"97 El Tahrir St., Floor 8, Dokki, Giza"
+},
+		{	"profileId":"439632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-lab/439632?b=17&k=16064&l=search",
+	"arName":"2 ش سلامة بصيلى متفرع من ش 15 مايو - الدور 1, شبرا الخيمة, القليوبية",
+	"enName":"2 Salama Bosaily St. Off 15th Of May St., Floor 1, Shoubra el khaymah, Kaliobeya"
+}
+	]
+}]}

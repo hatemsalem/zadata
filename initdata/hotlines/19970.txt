@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مطار القاهرة للسياحة",
+	"enName":"Cairo Airport Travel",
+	"hotlone":"19970",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"126490",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-airport-travel/126490?b=2&k=19970&l=search",
+	"arName":"9 مربع 1216 - ش الشهيد سيد زكريا, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"9 Square 1216, El Shaheed Sayed Zakareya St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"187278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-airport-travel/187278?b=1&k=19970&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

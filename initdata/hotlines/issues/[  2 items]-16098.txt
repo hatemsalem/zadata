@@ -1,0 +1,48 @@
+{"items":[{	"arName":"ايفينت للاستثمار العقارى والمقاولات",
+	"enName":"Event For Real Estate",
+	"hotlone":"16098",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"541029",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/event-for-real-estate/541029?b=4&k=16098&l=search",
+	"arName":"31 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"31 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"418789",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/event-for-real-estate/418789?b=2&k=16098&l=search",
+	"arName":"7 ش لطيف باشا سليم متفرع من ش النزهة, مصر الجديدة, القاهرة",
+	"enName":"7 Latif Pasha Selim St. Off Nozha St., Heliopolis, Cairo"
+},
+		{	"profileId":"541031",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/event-for-real-estate/541031?b=5&k=16098&l=search",
+	"arName":"كم 82 - طريق اسكندرية مطروح الصحراوى - مدينة الحمام, حمامات كليوباترا, مرسى مطروح",
+	"enName":"Km 82, Alex Matrouh Desert Rd., El Hammam City, Hamamat cleopatra, Marsa matrouh"
+},
+		{	"profileId":"418790",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/event-for-real-estate/418790?b=3&k=16098&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بلو بلاجا",
+	"enName":"Blue Plaja",
+	"hotlone":"16098",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"418792",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-plaja/418792?b=1&k=16098&l=search",
+	"arName":"كم 82 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 82,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"بيبسى كولا مصر",
+	"enName":"Pepsi Cola Egypt",
+	"hotlone":"16403",
+	"arCategory":[
+		"مشروبات مصنعون"
+	],
+	"enCategories":[
+		"Beverage Industry"
+	],
+	"contacts":[
+		{	"profileId":"325400",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pepsi-cola-egypt/325400?b=1&k=16403&l=search",
+	"arName":"خدمة التوظيف, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"Recruitment Service, 7th District, Nasr city, Cairo"
+}
+	]
+}]}

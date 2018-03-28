@@ -1,0 +1,43 @@
+{"items":[{	"arName":"عمران مصر للتنمية العقارية",
+	"enName":"Omran Misr Real Estate Development",
+	"hotlone":"19935",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"230589",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/omran-misr-real-estate-development/230589?b=1&k=19935&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"233272",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/omran-misr-real-estate-development/233272?b=2&k=19935&l=search",
+	"arName":"20 أ ش منشية الطيران متفرع من ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"enName":"20 A Mansheyet El Tayaran St. Off El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"147484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/omran-misr-real-estate-development/147484?b=3&k=19935&l=search",
+	"arName":"16 ش مصطفى عبادى, محرم بك, الاسكندرية",
+	"enName":"16 Mostafa Abadi St., Moharram bey, Alexandria"
+}
+	]
+}, {	"arName":"منتجع روزانا",
+	"enName":"Rosana Resort",
+	"hotlone":"19935",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"374578",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rosana-resort/374578?b=4&k=19935&l=search",
+	"arName":"كم 56 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 56,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

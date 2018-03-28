@@ -1,0 +1,137 @@
+{"items":[{	"arName":"سيراميكا كليوباترا جروب",
+	"enName":"Ceramica Cleopatra Group",
+	"hotlone":"19119",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"107952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/107952?b=19&k=19119&l=search",
+	"arName":"المنطقة الصناعية الثالثة, العاشر من رمضان, الشرقية",
+	"enName":"3rd Industrial Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"237156",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/237156?b=8&k=19119&l=search",
+	"arName":"ش الشانزليزيه, مارينا, الساحل الشمالى",
+	"enName":"Champs Elysees St., Marina, North coast"
+},
+		{	"profileId":"416669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/416669?b=16&k=19119&l=search",
+	"arName":"طريق القاهرة اسكندرية الزراعى - ميت حبيش البحرية, طنطا, الغربية",
+	"enName":"Cairo Alex Agricultural Rd., Meet Hebaish El Bahareya, Tanta, El gharbeya"
+},
+		{	"profileId":"85829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/85829?b=4&k=19119&l=search",
+	"arName":"4 ابراج عثمان - ش الاثرى محمد نافع, روكسى, مصر الجديدة, القاهرة",
+	"enName":"4 Othman Towers, El Athary Mohamed Nafea St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"85827",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/85827?b=1&k=19119&l=search",
+	"arName":"15 ش كامل صدقى, الفجالة, القاهرة",
+	"enName":"15 Kamel Sedqy St., Faggala, Cairo"
+},
+		{	"profileId":"85828",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/85828?b=13&k=19119&l=search",
+	"arName":"62 ش فيصل - المريوطية, فيصل, الجيزة",
+	"enName":"62 Faisal St., El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"173515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/173515?b=15&k=19119&l=search",
+	"arName":"طريق المطار, طريق اسيوط الوادى الجديد, اسيوط",
+	"enName":"Airport Rd., Assyout el wady el gadid rd., Assyout"
+},
+		{	"profileId":"202531",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/202531?b=20&k=19119&l=search",
+	"arName":"301 ش الهرم, حسن محمد, الهرم, الجيزة",
+	"enName":"301 Haram St., Hassan Mohamed, El haram, Giza"
+},
+		{	"profileId":"173517",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/173517?b=23&k=19119&l=search",
+	"arName":"ش الجمهورية, حى شرق, اسيوط",
+	"enName":"El Gomhoureya St., Shark district, Assyout"
+},
+		{	"profileId":"173511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/173511?b=5&k=19119&l=search",
+	"arName":"9 ش عبد الحليم النجار متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"9 Abdel Halim El Naggar St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"426404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/426404?b=17&k=19119&l=search",
+	"arName":"كم 46 - طريق العين السخنة, العين السخنة, العين السخنة",
+	"enName":"Km 46, El Ain El Sokhna Rd., El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"85830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/85830?b=3&k=19119&l=search",
+	"arName":"32 أ ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"32 A El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"120502",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/120502?b=6&k=19119&l=search",
+	"arName":"42 ش القائد جوهر, المنشية, الاسكندرية",
+	"enName":"42 El Qaed Gawhar St., El mansheya, Alexandria"
+},
+		{	"profileId":"124629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/124629?b=7&k=19119&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"416675",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/416675?b=21&k=19119&l=search",
+	"arName":"1 ش القاهرة متفرع من ش عبد السلام عارف, المنصورة, الدقهلية",
+	"enName":"1 El Qahera St. Off Abdel Salam Aref St., El mansoura, El dakahleya"
+},
+		{	"profileId":"173110",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/173110?b=14&k=19119&l=search",
+	"arName":"328 ش فيصل, حسن محمد, فيصل, الجيزة",
+	"enName":"328 Faisal St., Hassan Mohamed, Faisal, Giza"
+},
+		{	"profileId":"156971",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/156971?b=11&k=19119&l=search",
+	"arName":"., حى النور, شرم الشيخ",
+	"enName":"., El nour district, Sharm el sheikh"
+},
+		{	"profileId":"139958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/139958?b=12&k=19119&l=search",
+	"arName":"ش الشيراتون, سقالة, الغردقة",
+	"enName":"Sheraton Rd., Sekala, Hurghada"
+},
+		{	"profileId":"390043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/390043?b=2&k=19119&l=search",
+	"arName":"القطعة 316 - ش التسعين قطاع 2, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 316, El Tesaeen St. Sector 2, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"426643",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/426643?b=22&k=19119&l=search",
+	"arName":"المحور المركزى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"120498",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/120498?b=24&k=19119&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"416680",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/416680?b=9&k=19119&l=search",
+	"arName":"كم 2 - طريق مطروح اسكندرية الصحراوى, وسط البلد, مرسى مطروح",
+	"enName":"Km 2, Matrouh Alex Desert Rd., Downtown, Marsa matrouh"
+},
+		{	"profileId":"60666",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/60666?b=10&k=19119&l=search",
+	"arName":"36 ش البطل احمد عبد العزيز متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"36 El Batal Ahmed Abdel Aziz St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"508346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/508346?b=18&k=19119&l=search",
+	"arName":"طريق المطار - منشأة العمارى, الاقصر, الاقصر",
+	"enName":"Airport Rd., Manshaet El Ammary, LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"416686",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ceramica-cleopatra-group/416686?b=25&k=19119&l=search",
+	"arName":"1 ش سوتر, الازاريطة, الاسكندرية",
+	"enName":"1 Sotar St., Azarita, Alexandria"
+}
+	]
+}]}

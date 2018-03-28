@@ -1,0 +1,76 @@
+{"items":[{	"arName":"برجر فيول",
+	"enName":"Burger Fuel",
+	"hotlone":"16479",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"470699",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/burger-fuel/470699?b=2&k=16479&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المعادى, القاهرة",
+	"enName":"Home Delivery, Maadi, Cairo"
+},
+		{	"profileId":"526113",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/burger-fuel/526113?b=3&k=16479&l=search",
+	"arName":"95 د ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"95 D El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"526133",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/burger-fuel/526133?b=4&k=16479&l=search",
+	"arName":"52 ش نادى الصيد, الدقى, الجيزة",
+	"enName":"52 Nady El Seid St., Dokki, Giza"
+},
+		{	"profileId":"442824",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/burger-fuel/442824?b=1&k=16479&l=search",
+	"arName":"80 ش 9, المعادى, القاهرة",
+	"enName":"80 Rd. 9, Maadi, Cairo"
+}
+	]
+}, {	"arName":"شارع منقوشة",
+	"enName":"Manoushe Street",
+	"hotlone":"16479",
+	"arCategory":[
+		"مطاعم لبنانية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Lebanese Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"455244",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/455244?b=8&k=16479&l=search",
+	"arName":"95 د ش الميرغنى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"95 D El Merghany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"498550",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/498550?b=6&k=16479&l=search",
+	"arName":"حى النخيل, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"El Nakhil District, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"470651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/470651?b=9&k=16479&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى - قرية مراسى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Marassi Village, Sidi abdel rahman, North coast"
+},
+		{	"profileId":"470697",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/470697?b=5&k=16479&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, روكسى, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"576399",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/576399?b=7&k=16479&l=search",
+	"arName":"ش 205, ثكنات المعادى, المعادى, القاهرة",
+	"enName":"Rd. 205, Thakanat El Maadi, Maadi, Cairo"
+}
+	]
+}]}

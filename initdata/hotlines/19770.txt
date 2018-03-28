@@ -1,0 +1,82 @@
+{"items":[{	"arName":"صيدلية الايمدج",
+	"enName":"Al Image Pharmacy",
+	"hotlone":"19770",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"61093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/61093?b=1&k=19770&l=search",
+	"arName":"17 ش محمود حافظ - الدور 1 شقة 6, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"17 Mahmoud Hafez St., Floor 1 Flat 6, Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"394353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/394353?b=14&k=19770&l=search",
+	"arName":"12 ش وادى النيل, المهندسين, الجيزة",
+	"enName":"12 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"458519",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/458519?b=10&k=19770&l=search",
+	"arName":"26 ش 26 يوليو, وسط البلد, القاهرة",
+	"enName":"26 26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"392961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/392961?b=13&k=19770&l=search",
+	"arName":"31 ش وزارة الزراعة, الدقى, الجيزة",
+	"enName":"31 Wezaret El Zeraah St., Dokki, Giza"
+},
+		{	"profileId":"162400",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/162400?b=8&k=19770&l=search",
+	"arName":"1 ميدان روكسى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"1 Roxy Sq., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"469228",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/469228?b=5&k=19770&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"538496",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/538496?b=6&k=19770&l=search",
+	"arName":"140 ش 26 يوليو, الزمالك, القاهرة",
+	"enName":"140 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"100515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/100515?b=12&k=19770&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"504118",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/504118?b=4&k=19770&l=search",
+	"arName":"7 ش محمود حافظ, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"7 Mahmoud Hafez St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"451407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/451407?b=7&k=19770&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"502094",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/502094?b=11&k=19770&l=search",
+	"arName":"عمارة 10 - مربع 1160 - ش المشير احمد اسماعيل, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Bldg. 10, Square 1160, El Moushir Ahmed Ismail St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"231223",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/231223?b=3&k=19770&l=search",
+	"arName":"1 كورنيش النيل - برج مامكو, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"1 Corniche El Nil, Mamco Tower, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"100655",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/100655?b=2&k=19770&l=search",
+	"arName":"66 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"66 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"100657",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-image-pharmacy/100657?b=9&k=19770&l=search",
+	"arName":"15 ميدان رابعة العدوية, مدينة نصر, القاهرة",
+	"enName":"15 Rabaa El Adaweya Sq., Nasr city, Cairo"
+}
+	]
+}]}

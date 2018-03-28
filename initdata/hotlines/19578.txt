@@ -1,0 +1,42 @@
+{"items":[{	"arName":"حمزة",
+	"enName":"7amza",
+	"hotlone":"19578",
+	"arCategory":[
+		"وجبات سريعة",
+		"فطير",
+		"بيتزا",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Feteer",
+		"Pizza",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"521480",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7amza/521480?b=4&k=19578&l=search",
+	"arName":"منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"427936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7amza/427936?b=3&k=19578&l=search",
+	"arName":"4 أ عمارات الشرق للتأمين - ش د. محمود ابراهيم متفرع من ش عباس العقاد, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"4 A El Sharq Lel Taamin Bldgs., Dr. Mahmoud Ibrahim St. Off Abbas El Akkad St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"475464",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7amza/475464?b=2&k=19578&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"Home Delivery, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"572088",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7amza/572088?b=1&k=19578&l=search",
+	"arName":"47 ش الخليفة الظافر, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"47 El Khalifa El Zafer St., 7th District, Nasr city, Cairo"
+}
+	]
+}]}

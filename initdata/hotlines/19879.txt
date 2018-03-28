@@ -1,0 +1,17 @@
+{"items":[{	"arName":"البنك العربى",
+	"enName":"Arab Bank",
+	"hotlone":"19879",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"257435",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/257435?b=1&k=19879&l=search",
+	"arName":"خدمة ايليت, المهندسين, الجيزة",
+	"enName":"Elite Service, Mohandeseen, Giza"
+}
+	]
+}]}

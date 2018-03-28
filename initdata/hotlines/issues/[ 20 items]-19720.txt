@@ -1,0 +1,346 @@
+{"items":[{	"arName":"قاعة اميرالد",
+	"enName":"Emerald Ballroom",
+	"hotlone":"19720",
+	"arCategory":[
+		"قاعات افراح"
+	],
+	"enCategories":[
+		"Wedding Halls"
+	],
+	"contacts":[
+		{	"profileId":"548608",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/emerald-ballroom/548608?b=13&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"مطعم الخديوى",
+	"enName":"Al Khedawy Restaurant",
+	"hotlone":"19720",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"406444",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-khedawy-restaurant/406444?b=3&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"كافيه اونكس",
+	"enName":"Onyx Cafe",
+	"hotlone":"19720",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"548638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/onyx-cafe/548638?b=18&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"قاعة اجتماعات لاريمار",
+	"enName":"Larimar Meeting Room",
+	"hotlone":"19720",
+	"arCategory":[
+		"مؤتمرات قاعات ومراكز وخدمات المؤتمرات"
+	],
+	"enCategories":[
+		"Convention Centers & Conference Services"
+	],
+	"contacts":[
+		{	"profileId":"548615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/larimar-meeting-room/548615?b=17&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"مطعم بيرل",
+	"enName":"Pearl Restaurant",
+	"hotlone":"19720",
+	"arCategory":[
+		"مطاعم فرنسية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"French Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"548637",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pearl-restaurant/548637?b=19&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"كافيه جاردنيو",
+	"enName":"Gardenio Cafe",
+	"hotlone":"19720",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"548636",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gardenio-cafe/548636?b=15&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"فندق الماسة",
+	"enName":"Al Masa Hotel",
+	"hotlone":"19720",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"142561",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-masa-hotel/142561?b=7&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"169859",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-masa-hotel/169859?b=6&k=19720&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"قاعة الذهبية",
+	"enName":"El Zahabia Ballroom",
+	"hotlone":"19720",
+	"arCategory":[
+		"قاعات افراح"
+	],
+	"enCategories":[
+		"Wedding Halls"
+	],
+	"contacts":[
+		{	"profileId":"226266",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-zahabia-ballroom/226266?b=12&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"الماسة لونج",
+	"enName":"Al Masah Lounge",
+	"hotlone":"19720",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"369729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-masah-lounge/369729?b=8&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"سينما الماسة",
+	"enName":"Al Masa Cinema",
+	"hotlone":"19720",
+	"arCategory":[
+		"سينما ومسارح"
+	],
+	"enCategories":[
+		"Cinemas & Theaters"
+	],
+	"contacts":[
+		{	"profileId":"548590",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-masa-cinema/548590?b=5&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"قاعة الزمردة",
+	"enName":"Al Zomoroda Ballroom",
+	"hotlone":"19720",
+	"arCategory":[
+		"قاعات افراح"
+	],
+	"enCategories":[
+		"Wedding Halls"
+	],
+	"contacts":[
+		{	"profileId":"226263",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-zomoroda-ballroom/226263?b=9&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"اكوا مارين",
+	"enName":"Aqua Marine",
+	"hotlone":"19720",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"467033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aqua-marine/467033?b=10&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"الفيروز",
+	"enName":"Al Fayrouz",
+	"hotlone":"19720",
+	"arCategory":[
+		"مطاعم مغربية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Moroccan Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"151038",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fayrouz/151038?b=1&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"قاعة اللؤلؤة",
+	"enName":"Al Loaloa Ballroom",
+	"hotlone":"19720",
+	"arCategory":[
+		"قاعات افراح"
+	],
+	"enCategories":[
+		"Wedding Halls"
+	],
+	"contacts":[
+		{	"profileId":"226265",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-loaloa-ballroom/226265?b=4&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"الجوهرة",
+	"enName":"Al Gawhara",
+	"hotlone":"19720",
+	"arCategory":[
+		"مطاعم مغربية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Moroccan Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"151037",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-gawhara/151037?b=2&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"قاعة اجتماعات جالينا",
+	"enName":"Galena Meeting Room",
+	"hotlone":"19720",
+	"arCategory":[
+		"مؤتمرات قاعات ومراكز وخدمات المؤتمرات"
+	],
+	"enCategories":[
+		"Convention Centers & Conference Services"
+	],
+	"contacts":[
+		{	"profileId":"548623",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/galena-meeting-room/548623?b=14&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"قاعة اجتماعات توباز",
+	"enName":"Topaz Meeting Room",
+	"hotlone":"19720",
+	"arCategory":[
+		"مؤتمرات قاعات ومراكز وخدمات المؤتمرات"
+	],
+	"enCategories":[
+		"Convention Centers & Conference Services"
+	],
+	"contacts":[
+		{	"profileId":"548633",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/topaz-meeting-room/548633?b=21&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"قاعة اجتماعات سفير",
+	"enName":"Saphire Meeting Room",
+	"hotlone":"19720",
+	"arCategory":[
+		"مؤتمرات قاعات ومراكز وخدمات المؤتمرات"
+	],
+	"enCategories":[
+		"Convention Centers & Conference Services"
+	],
+	"contacts":[
+		{	"profileId":"548620",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saphire-meeting-room/548620?b=20&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"البرجولة العربى",
+	"enName":"Arabian Pergola",
+	"hotlone":"19720",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"151043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabian-pergola/151043?b=11&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"جبل الماسة بار",
+	"enName":"Jabal Al Masah Bar",
+	"hotlone":"19720",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"548641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jabal-al-masah-bar/548641?b=16&k=19720&l=search",
+	"arName":"ش عبد العزيز الشناوى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"enName":"Abdel Aziz El Shennawy St. Off El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}]}

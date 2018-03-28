@@ -1,0 +1,22 @@
+{"items":[{	"arName":"بلووم",
+	"enName":"Bloom",
+	"hotlone":"16350",
+	"arCategory":[
+		"مستحضرات تجميل"
+	],
+	"enCategories":[
+		"Cosmetics & Toiletries"
+	],
+	"contacts":[
+		{	"profileId":"445022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bloom/445022?b=1&k=16350&l=search",
+	"arName":"20 ش وادى النيل, المهندسين, الجيزة",
+	"enName":"20 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"445433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bloom/445433?b=2&k=16350&l=search",
+	"arName":"20 ش وادى النيل, المهندسين, الجيزة",
+	"enName":"20 Wadi El Nil St., Mohandeseen, Giza"
+}
+	]
+}]}

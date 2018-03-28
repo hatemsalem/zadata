@@ -1,0 +1,70 @@
+{"items":[{	"arName":"الشركة المصرية للاتصالات والشبكات المتطورة",
+	"enName":"Egyptian Co. For Communication & Advanced Network",
+	"hotlone":"19222",
+	"arCategory":[
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"46332",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-communication-&-advanced-network/46332?b=1&k=19222&l=search",
+	"arName":"4 عمارات مشروع الدمرداش - , عباسية, القاهرة",
+	"enName":"4 El Demerdash Project Bldgs., , Abbasseya, Cairo"
+}
+	]
+}, {	"arName":"الشركة المصرية للاتصالات ونظم المعلومات",
+	"enName":"Xceed Contact Center",
+	"hotlone":"19222",
+	"arCategory":[
+		"مراكز اتصال تسويق عبر الهاتف والتليفزيون"
+	],
+	"enCategories":[
+		"Call Centers, Telemarketing & Teleseen"
+	],
+	"contacts":[
+		{	"profileId":"63520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/xceed-contact-center/63520?b=5&k=19222&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}, {	"arName":"وى - المصرية للاتصالات",
+	"enName":"We - Telecom Egypt",
+	"hotlone":"19222",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"136572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/we-_-telecom-egypt/136572?b=4&k=19222&l=search",
+	"arName":"خدمات التليفونات اللاسلكية, وسط البلد, القاهرة",
+	"enName":"Wireless Telephones Services, Downtown, Cairo"
+},
+		{	"profileId":"121966",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/we-_-telecom-egypt/121966?b=3&k=19222&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}, {	"arName":"الشركة المصرية للاتصالات والبرمجيات -ايجيتل",
+	"enName":"Egyptian Co. For Communications & Programs - Egytel",
+	"hotlone":"19222",
+	"arCategory":[
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"52346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-communications-&-programs-_-egytel/52346?b=2&k=19222&l=search",
+	"arName":"40 ش مصدق, الدقى, الجيزة",
+	"enName":"40 Mossadak St., Dokki, Giza"
+}
+	]
+}]}

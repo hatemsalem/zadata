@@ -1,0 +1,29 @@
+{"items":[{	"arName":"سوليك للاستثمار العقارى",
+	"enName":"Solik Real Estate Investment",
+	"hotlone":"16034",
+	"arCategory":[
+		"عقارات",
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Real Estate",
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"251088",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/solik-real-estate-investment/251088?b=2&k=16034&l=search",
+	"arName":"21 ش البطل احمد عبد العزيز - الدور 6 شقة 26, المهندسين, الجيزة",
+	"enName":"21 El Batal Ahmed Abdel Aziz St., Floor 6 Flat 26, Mohandeseen, Giza"
+},
+		{	"profileId":"164244",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/solik-real-estate-investment/164244?b=1&k=16034&l=search",
+	"arName":"40 ش كفر عبده, رشدى, الاسكندرية",
+	"enName":"40 Kafr Abdou St., Roushdy, Alexandria"
+},
+		{	"profileId":"322555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/solik-real-estate-investment/322555?b=3&k=16034&l=search",
+	"arName":"خدمة العملاء, رشدى, الاسكندرية",
+	"enName":"Customer Service, Roushdy, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,197 @@
+{"items":[{	"arName":"ال ريتروفو",
+	"enName":"Il Ritrovo",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم فرنسية",
+		"مطاعم ايطالية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"French Cuisine",
+		"Italian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"66277",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/il-ritrovo/66277?b=8&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"بلو نايل",
+	"enName":"Blue Nile",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"502247",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-nile/502247?b=3&k=16166&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"54138",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-nile/54138?b=2&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"مون دك",
+	"enName":"Moon Deck",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"60557",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/moon-deck/60557?b=10&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"بلو سى",
+	"enName":"Blue Sea",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"487749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-sea/487749?b=4&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"دار القمر",
+	"enName":"Dar El Amar",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم لبنانية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Lebanese Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"52960",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-amar/52960?b=6&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+},
+		{	"profileId":"137547",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-amar/137547?b=7&k=16166&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+}
+	]
+}, {	"arName":"لسه فاكر",
+	"enName":"Lessa Faker",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم عائمة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants - Floating",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"213727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lessa-faker/213727?b=9&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"اشيا بار",
+	"enName":"Asia Bar",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم عائمة",
+		"اماكن ليلية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Night Spots",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"130504",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asia-bar/130504?b=1&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"كزابلانكا",
+	"enName":"Casablanca",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم مغربية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Moroccan Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"52958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casablanca/52958?b=5&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"بيتزا يالا",
+	"enName":"Pizza Yalla",
+	"hotlone":"16166",
+	"arCategory":[
+		"مطاعم عائمة",
+		"مطاعم ايطالية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Restaurants - Floating",
+		"Italian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"246746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-yalla/246746?b=11&k=16166&l=search",
+	"arName":"9 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"9 A Saray El Gezirah St., Zamalek, Cairo"
+}
+	]
+}]}

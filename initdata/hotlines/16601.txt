@@ -1,0 +1,24 @@
+{"items":[{	"arName":"سيدرا",
+	"enName":"Sedra",
+	"hotlone":"16601",
+	"arCategory":[
+		"قرى سياحية",
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Villages - Touristic",
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"370307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedra/370307?b=2&k=16601&l=search",
+	"arName":"كم 35 - طريق اسكندرية مطروح الصحراوى, سيدى كرير, الساحل الشمالى",
+	"enName":"Km 35, Alex Matrouh Desert Rd., Sidi kreir, North coast"
+},
+		{	"profileId":"370308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedra/370308?b=1&k=16601&l=search",
+	"arName":"خدمة العملاء, سيدى كرير, الساحل الشمالى",
+	"enName":"Customer Service, Sidi kreir, North coast"
+}
+	]
+}]}

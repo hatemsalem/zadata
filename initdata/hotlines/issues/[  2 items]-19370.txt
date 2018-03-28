@@ -1,0 +1,33 @@
+{"items":[{	"arName":"هرم سيتى",
+	"enName":"Haram City",
+	"hotlone":"19370",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"387721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/haram-city/387721?b=1&k=19370&l=search",
+	"arName":"ش سوق الجملة, السادس من اكتوبر, الجيزة",
+	"enName":"Souk El Gomla St., 6th of october, Giza"
+}
+	]
+}, {	"arName":"هرم لايف",
+	"enName":"Haram Life",
+	"hotlone":"19370",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"387726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/haram-life/387726?b=2&k=19370&l=search",
+	"arName":"ش سوق الجملة, السادس من اكتوبر, الجيزة",
+	"enName":"Souk El Gomla St., 6th of october, Giza"
+}
+	]
+}]}

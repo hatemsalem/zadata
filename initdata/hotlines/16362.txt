@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مرسيدس - بنز ايجيبت",
+	"enName":"Mercedes - Benz Egypt",
+	"hotlone":"16362",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"255955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mercedes-_-benz-egypt/255955?b=2&k=16362&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"223491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mercedes-_-benz-egypt/223491?b=1&k=16362&l=search",
+	"arName":"ابراج سوفيتل - كورنيش النيل - الدور 28, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Sofitel Towers, Corniche El Nil, Floor 28, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

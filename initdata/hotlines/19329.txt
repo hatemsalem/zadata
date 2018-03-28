@@ -1,0 +1,22 @@
+{"items":[{	"arName":"صيدلية د. حازم نعيم",
+	"enName":"Dr. Hazem Naaim Pharmacy",
+	"hotlone":"19329",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"450598",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-hazem-naaim-pharmacy/450598?b=1&k=19329&l=search",
+	"arName":"302 أ ش الثروة المعدنية, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"302 A El Tharwa El Maadaneya St., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"466796",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-hazem-naaim-pharmacy/466796?b=2&k=19329&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"Home Delivery, Hadayek El Ahram, El haram, Giza"
+}
+	]
+}]}

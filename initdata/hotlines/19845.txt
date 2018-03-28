@@ -1,0 +1,22 @@
+{"items":[{	"arName":"التعمير والاسكان للاستثمار العقارى - اتش دى ار اى سى",
+	"enName":"Housing & Development Real Estate Investment - HDRIC",
+	"hotlone":"19845",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"142687",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/housing-&-development-real-estate-investment-_-hdric/142687?b=2&k=19845&l=search",
+	"arName":"1 ش انور المفتى متفرع من ش عباس العقاد - الدور 3, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"1 Anwar El Mofty St. Off Abbas El Akkad St., Floor 3, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"257342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/housing-&-development-real-estate-investment-_-hdric/257342?b=1&k=19845&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

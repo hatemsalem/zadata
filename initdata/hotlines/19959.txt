@@ -1,0 +1,17 @@
+{"items":[{	"arName":"وزارة التموين والتجارة الداخلية",
+	"enName":"Ministry Of Supply & Internal Trading",
+	"hotlone":"19959",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"353663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-supply-&-internal-trading/353663?b=1&k=19959&l=search",
+	"arName":"خدمة العملاء, قصر العينى, القاهرة",
+	"enName":"Customer Service, Kasr el ainy, Cairo"
+}
+	]
+}]}

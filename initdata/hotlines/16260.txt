@@ -1,0 +1,17 @@
+{"items":[{	"arName":"راية للنظم",
+	"enName":"Raya Integration",
+	"hotlone":"16260",
+	"arCategory":[
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"256606",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/raya-integration/256606?b=1&k=16260&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"customer Service, 6th of october, Giza"
+}
+	]
+}]}

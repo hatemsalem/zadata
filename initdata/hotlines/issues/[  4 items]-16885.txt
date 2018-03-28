@@ -1,0 +1,273 @@
+{"items":[{	"arName":"مورى سوشى",
+	"enName":"Mori Sushi",
+	"hotlone":"16885",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"270816",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/270816?b=24&k=16885&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"502405",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/502405?b=21&k=16885&l=search",
+	"arName":"22 أ - ذا ووتر واى كومبوند, المستثمرين الشمالية, القاهرة الجديدة, القاهرة",
+	"enName":"22 A , The Waterway Compound, North Investors, New cairo, Cairo"
+},
+		{	"profileId":"177818",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/177818?b=26&k=16885&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"468577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/468577?b=29&k=16885&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى - قرية مراسى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Marassi Village, Sidi abdel rahman, North coast"
+},
+		{	"profileId":"230477",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/230477?b=28&k=16885&l=search",
+	"arName":"كم 126 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 126,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"171978",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/171978?b=25&k=16885&l=search",
+	"arName":"30 ش جزيرة العرب, المهندسين, الجيزة",
+	"enName":"30 Geziret El Arab St., Mohandeseen, Giza"
+},
+		{	"profileId":"337485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/337485?b=30&k=16885&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"254603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/254603?b=16&k=16885&l=search",
+	"arName":"70 ش عمر بن الخطاب ميدان الماظة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"70 Omar Ibn El Khattab St. Almaza Sq., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"396485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/396485?b=31&k=16885&l=search",
+	"arName":"52 ش فؤاد, محطة الرمل, الاسكندرية",
+	"enName":"52 Fouad St., Raml station, Alexandria"
+},
+		{	"profileId":"228929",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/228929?b=19&k=16885&l=search",
+	"arName":"76 ش 9, ثكنات المعادى, المعادى, القاهرة",
+	"enName":"76 Rd. 9, Thakanat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"331600",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/331600?b=15&k=16885&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"463765",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/463765?b=20&k=16885&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"559510",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/559510?b=18&k=16885&l=search",
+	"arName":"70 ش عمر بن الخطاب ميدان الماظة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"70 Omar Ibn El Khattab St. Almaza Sq., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"468579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/468579?b=33&k=16885&l=search",
+	"arName":"كم 124 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 124, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"289929",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/289929?b=27&k=16885&l=search",
+	"arName":"مبنى 17A6 - - مارينا الجديدة, ابو تيج مارينا, الجونة",
+	"enName":"Bldg. 17A6, , New Marina, Abou tig marina, El gouna"
+},
+		{	"profileId":"230721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/230721?b=32&k=16885&l=search",
+	"arName":"كم 105 - طريق مطروح اسكندرية الصحراوى - مارينا 5, مارينا, الساحل الشمالى",
+	"enName":"Km 105, Matrouh Alex Desert Rd., Marina 5, Marina, North coast"
+},
+		{	"profileId":"254613",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/254613?b=23&k=16885&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"334041",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/334041?b=14&k=16885&l=search",
+	"arName":"19 ش الجبلايا, الزمالك, القاهرة",
+	"enName":"19 El Gabalaya St., Zamalek, Cairo"
+},
+		{	"profileId":"474530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/474530?b=17&k=16885&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"135581",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/135581?b=22&k=16885&l=search",
+	"arName":"24 ش عبد المنعم حافظ, الماظة, مصر الجديدة, القاهرة",
+	"enName":"24 Abdel Moniem Hafez St., Almaza, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"تمارا",
+	"enName":"Tamara",
+	"hotlone":"16885",
+	"arCategory":[
+		"مطاعم لبنانية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Lebanese Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"373013",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/373013?b=35&k=16885&l=search",
+	"arName":"ش عمر بن الخطاب, مدينة نصر, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Nasr city, Cairo"
+},
+		{	"profileId":"424671",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/424671?b=34&k=16885&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"enName":"Home Delivery, Nasr city, Cairo"
+},
+		{	"profileId":"501288",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/501288?b=36&k=16885&l=search",
+	"arName":"22 أ - ذا ووتر واى كومبوند, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"22 A , The Waterway Compound, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"468573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/468573?b=38&k=16885&l=search",
+	"arName":"كم 124 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 124, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"468572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/468572?b=39&k=16885&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى - قرية مراسى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Marassi Village, Sidi abdel rahman, North coast"
+},
+		{	"profileId":"551814",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/551814?b=41&k=16885&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"399518",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/399518?b=40&k=16885&l=search",
+	"arName":"المجاورة الثالثة - الحى الثانى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"3rd Neighbourhood, 2nd District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"456221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/456221?b=37&k=16885&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"مينس",
+	"enName":"Mince",
+	"hotlone":"16885",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"فنادق ومطاعم شركات ادارة",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Hotel & Restaurant Management",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"544325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/544325?b=13&k=16885&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"441106",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/441106?b=1&k=16885&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"448169",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/448169?b=9&k=16885&l=search",
+	"arName":"كم 124 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 124, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"567775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/567775?b=8&k=16885&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"388529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/388529?b=2&k=16885&l=search",
+	"arName":"13 ش احمد حشمت, الزمالك, القاهرة",
+	"enName":"13 Ahmed Heshmat St., Zamalek, Cairo"
+},
+		{	"profileId":"452890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/452890?b=12&k=16885&l=search",
+	"arName":"52 ش فؤاد, محطة الرمل, الاسكندرية",
+	"enName":"52 Fouad St., Raml station, Alexandria"
+},
+		{	"profileId":"461982",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/461982?b=11&k=16885&l=search",
+	"arName":"القطعة 31 -, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"501508",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/501508?b=4&k=16885&l=search",
+	"arName":"22 أ - ذا ووتر واى كومبوند, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"22 A , The Waterway Compound, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"530684",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/530684?b=3&k=16885&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"503971",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/503971?b=5&k=16885&l=search",
+	"arName":"18 ش المرعشلى, الزمالك, القاهرة",
+	"enName":"18 El Maraashly St., Zamalek, Cairo"
+},
+		{	"profileId":"452868",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/452868?b=6&k=16885&l=search",
+	"arName":"4 ش الشهيد عبد المنعم حافظ, الماظة, مصر الجديدة, القاهرة",
+	"enName":"4 El Shaheed Abdel Moneim Hafez St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"468580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/468580?b=10&k=16885&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى - قرية مراسى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Marassi Village, Sidi abdel rahman, North coast"
+},
+		{	"profileId":"524294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/524294?b=7&k=16885&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"تيدز",
+	"enName":"Ted's",
+	"hotlone":"16885",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"470151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ted's/470151?b=42&k=16885&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

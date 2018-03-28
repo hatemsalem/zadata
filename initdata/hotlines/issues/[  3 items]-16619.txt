@@ -1,0 +1,61 @@
+{"items":[{	"arName":"مجموعة مصر ايطاليا",
+	"enName":"Misr Italia Group",
+	"hotlone":"16619",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"160812",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-italia-group/160812?b=3&k=16619&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"3392",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-italia-group/3392?b=2&k=16619&l=search",
+	"arName":"98 ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"98 Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"موسى كوست",
+	"enName":"Mousa Coast",
+	"hotlone":"16619",
+	"arCategory":[
+		"قرى سياحية",
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Villages - Touristic",
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"234294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mousa-coast/234294?b=5&k=16619&l=search",
+	"arName":"كم 30 - طريق شرم الشيخ الصحراوى, رأس سدر, جنوب سيناء",
+	"enName":"Km 30, Sharm El Sheikh Desert Rd., RAS SIDR, Ras sidr, South sinai"
+},
+		{	"profileId":"385343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mousa-coast/385343?b=4&k=16619&l=search",
+	"arName":"98 ش حسن المأمون, مدينة نصر, القاهرة",
+	"enName":"98 Hassan El Maamoun St., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"الحى الايطالى",
+	"enName":"Italian Square",
+	"hotlone":"16619",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"365895",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/italian-square/365895?b=1&k=16619&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}]}

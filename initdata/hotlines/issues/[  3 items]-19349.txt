@@ -1,0 +1,54 @@
+{"items":[{	"arName":"الشركة المصرية لاغاثة الطرق",
+	"enName":"SOS",
+	"hotlone":"19349",
+	"arCategory":[
+		"اوناش انقاذ"
+	],
+	"enCategories":[
+		"Towing"
+	],
+	"contacts":[
+		{	"profileId":"258127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sos/258127?b=4&k=19349&l=search",
+	"arName":"خدمة طوارئ, ابى العباس, الاسكندرية",
+	"enName":"Emergency Service, Abi al abbas, Alexandria"
+},
+		{	"profileId":"258123",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sos/258123?b=3&k=19349&l=search",
+	"arName":"3 عمارات ابى العباس - ش السيد محمد كريم - الدور 4, ابى العباس, الاسكندرية",
+	"enName":"3 Abi El Abbas Bldgs., El Sayed Mohamed Korayem St., Floor 4, Abi al abbas, Alexandria"
+}
+	]
+}, {	"arName":"اصول البحر الاحمر للاستثمار العقارى وادارة المشروعات",
+	"enName":"Osool Red Sea For Real Estate Investment & Project Management",
+	"hotlone":"19349",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"483257",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-red-sea-for-real-estate-investment-&-project-management/483257?b=2&k=19349&l=search",
+	"arName":"مبنى 272 و 273 - ش التسعين الشمالى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Bldg. 272 & 273, El Tesaeen El Shamaly St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"مجموعة ليلة للتنمية العقارية",
+	"enName":"Leila Group For Real Estate Development",
+	"hotlone":"19349",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"427972",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/leila-group-for-real-estate-development/427972?b=1&k=19349&l=search",
+	"arName":"فيلا 155 - ش التسعين - الدور 2, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 155, El Tesaeen St., Floor 2, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

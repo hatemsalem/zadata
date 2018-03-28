@@ -1,0 +1,87 @@
+{"items":[{	"arName":"صيدليات ابو على",
+	"enName":"Abo Ali Pharmacies",
+	"hotlone":"19141",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"564544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564544?b=10&k=19141&l=search",
+	"arName":"المجاورة الاولى - الحى الاول, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"1St Neighbourhood, 1St District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"189828",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/189828?b=8&k=19141&l=search",
+	"arName":"ش كان كان المجاورة الخامسة, الحى 12, السادس من اكتوبر, الجيزة",
+	"enName":"Kan Kan St. 5th Neighbourhood, 12th District, 6th of october, Giza"
+},
+		{	"profileId":"564542",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564542?b=2&k=19141&l=search",
+	"arName":"المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 1st District, 6th of october, Giza"
+},
+		{	"profileId":"564531",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564531?b=15&k=19141&l=search",
+	"arName":"الحى الثالث, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"3rd District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"189825",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/189825?b=1&k=19141&l=search",
+	"arName":"66 اسكان الشباب 100 متر - - المنطقة 13, الحى 11, السادس من اكتوبر, الجيزة",
+	"enName":"66 Youth Housing 100 Meter, , Zone 13, 11th District, 6th of october, Giza"
+},
+		{	"profileId":"564537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564537?b=9&k=19141&l=search",
+	"arName":"عمارة 6ب, الفردوس, السادس من اكتوبر, الجيزة",
+	"enName":"Bldg. 6B, El Fardous, 6th of october, Giza"
+},
+		{	"profileId":"564527",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564527?b=3&k=19141&l=search",
+	"arName":"15 ط , حدائق الاهرام, الهرم, الجيزة",
+	"enName":"15 T , Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"564615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564615?b=7&k=19141&l=search",
+	"arName":"208 ش المعهد, الحى الاول, السادس من اكتوبر, الجيزة",
+	"enName":"208 El Maahad St., 1st District, 6th of october, Giza"
+},
+		{	"profileId":"396600",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/396600?b=13&k=19141&l=search",
+	"arName":"ش مكة المكرمة المجاورة الاولى, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"Mekka El Mokarrama St. 1St Neighbourhood, 7th District, 6th of october, Giza"
+},
+		{	"profileId":"564602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564602?b=11&k=19141&l=search",
+	"arName":"ش الخزان - عمارة 1361, الحى الرابع, السادس من اكتوبر, الجيزة",
+	"enName":"El Khazzan St., Bldg. 1361, 4th District, 6th of october, Giza"
+},
+		{	"profileId":"130779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/130779?b=5&k=19141&l=search",
+	"arName":"المجاورة الرابعة - الحى الاول - السوق القديم, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"4th Neighbourhood, 1St District, El Souk El Qadim, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"189831",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/189831?b=12&k=19141&l=search",
+	"arName":"المجاورة الثالثة, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"enName":"3rd Neighbourhood, 8th District, 6th of october, Giza"
+},
+		{	"profileId":"564529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564529?b=14&k=19141&l=search",
+	"arName":"الحى الثالث, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"3rd District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"189841",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/189841?b=4&k=19141&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى 11, السادس من اكتوبر, الجيزة",
+	"enName":"Home Delivery, 11th District, 6th of october, Giza"
+},
+		{	"profileId":"564540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-ali-pharmacies/564540?b=6&k=19141&l=search",
+	"arName":"المجاورة الاولى, الحى 11, السادس من اكتوبر, الجيزة",
+	"enName":"1St Neighbourhood, 11th District, 6th of october, Giza"
+}
+	]
+}]}

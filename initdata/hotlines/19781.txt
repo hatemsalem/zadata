@@ -1,0 +1,207 @@
+{"items":[{	"arName":"داتا نت",
+	"enName":"Data Net",
+	"hotlone":"19781",
+	"arCategory":[
+		"انترنت شركات ومصممون مواقع"
+	],
+	"enCategories":[
+		"Internet Companies & Website Design"
+	],
+	"contacts":[
+		{	"profileId":"457534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457534?b=34&k=19781&l=search",
+	"arName":"ش الجلاء, اجا, الدقهلية",
+	"enName":"El Galaa St., Aga, El dakahleya"
+},
+		{	"profileId":"457634",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457634?b=17&k=19781&l=search",
+	"arName":"ش اديب معقد, السيوف, الاسكندرية",
+	"enName":"Adib Moaqad St., El seyouf, Alexandria"
+},
+		{	"profileId":"457514",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457514?b=1&k=19781&l=search",
+	"arName":"84 ش الخليفة المأمون ميدان روكسى, روكسى, مصر الجديدة, القاهرة",
+	"enName":"84 El Khalifa El Maamoun St. Roxy Sq., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"457536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457536?b=9&k=19781&l=search",
+	"arName":"., عين شمس, القاهرة",
+	"enName":"., Ain shams, Cairo"
+},
+		{	"profileId":"457538",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457538?b=3&k=19781&l=search",
+	"arName":"ميدان رمسيس, وسط البلد, القاهرة",
+	"enName":"Ramsis Sq., Downtown, Cairo"
+},
+		{	"profileId":"457638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457638?b=6&k=19781&l=search",
+	"arName":"138 المجاورة الاولى, الفسطاط, القاهرة",
+	"enName":"138 1St Neighbourhood, El fustat, Cairo"
+},
+		{	"profileId":"457519",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457519?b=2&k=19781&l=search",
+	"arName":"42 ش القصر العينى, قصر العينى, القاهرة",
+	"enName":"42 El Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"166301",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/166301?b=21&k=19781&l=search",
+	"arName":"ش البحر - برج الصفوة, طنطا, الغربية",
+	"enName":"El Bahr St., El Safwa Tower, Tanta, El gharbeya"
+},
+		{	"profileId":"166393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/166393?b=18&k=19781&l=search",
+	"arName":"63 ش الجلاء البحرى, شبين الكوم, المنوفية",
+	"enName":"63 El Galaa El Bahary St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"166370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/166370?b=22&k=19781&l=search",
+	"arName":"31 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"31 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"323949",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/323949?b=32&k=19781&l=search",
+	"arName":"خدمة العملاء, طنطا, الغربية",
+	"enName":"Customer Service, Tanta, El gharbeya"
+},
+		{	"profileId":"472320",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472320?b=11&k=19781&l=search",
+	"arName":"ش شبرا, روض الفرج, القاهرة",
+	"enName":"Shoubra St., Road el farag, Cairo"
+},
+		{	"profileId":"472321",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472321?b=8&k=19781&l=search",
+	"arName":"ش المحطة, المرج, القاهرة",
+	"enName":"El Mahatta St., El marg, Cairo"
+},
+		{	"profileId":"457540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457540?b=4&k=19781&l=search",
+	"arName":"ميدان الاوبرا, العتبة, القاهرة",
+	"enName":"Opera Sq., Ataba, Cairo"
+},
+		{	"profileId":"472324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472324?b=13&k=19781&l=search",
+	"arName":"ش المحطة, حدائق الزيتون, القاهرة",
+	"enName":"El Mahatta St., Hadayek el zaitoun, Cairo"
+},
+		{	"profileId":"457541",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457541?b=35&k=19781&l=search",
+	"arName":"ش الشعراوى متفرع من طريق الجيش, لوران, الاسكندرية",
+	"enName":"El Shaarawy St. Off El Guish Rd., Loran, Alexandria"
+},
+		{	"profileId":"345950",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/345950?b=39&k=19781&l=search",
+	"arName":"ميدان النحاس, سمنود, الغربية",
+	"enName":"El Nahhas Sq., Samannoud, El gharbeya"
+},
+		{	"profileId":"457542",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457542?b=31&k=19781&l=search",
+	"arName":"219 طريق الحرية, الابراهيمية, الاسكندرية",
+	"enName":"219 El Horreya Rd., El ibrahimeya, Alexandria"
+},
+		{	"profileId":"472322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472322?b=5&k=19781&l=search",
+	"arName":"ش 9, حدائق المعادى, المعادى, القاهرة",
+	"enName":"Rd. 9, Hadayek El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"457543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457543?b=26&k=19781&l=search",
+	"arName":"ش 45, العصافرة قبلى, الاسكندرية",
+	"enName":"Rd. 45, El asafra kebly, Alexandria"
+},
+		{	"profileId":"457522",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457522?b=14&k=19781&l=search",
+	"arName":"92 ش جمال عبد الناصر, حدائق حلوان, القاهرة",
+	"enName":"92 Gamal Abdel Nasser St., Hadayek helwan, Cairo"
+},
+		{	"profileId":"472323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472323?b=38&k=19781&l=search",
+	"arName":"ش التحرير, الدقى, الجيزة",
+	"enName":"El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"457545",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457545?b=15&k=19781&l=search",
+	"arName":"ش البحر, المحلة الكبرى, الغربية",
+	"enName":"El Bahr St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"408952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/408952?b=23&k=19781&l=search",
+	"arName":"22 ش شامبليون, الازاريطة, الاسكندرية",
+	"enName":"22 Champillion St., Azarita, Alexandria"
+},
+		{	"profileId":"457644",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457644?b=28&k=19781&l=search",
+	"arName":"., طنطا, الغربية",
+	"enName":"., Tanta, El gharbeya"
+},
+		{	"profileId":"457546",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457546?b=36&k=19781&l=search",
+	"arName":"برج الشرقاوى -, كفر الزيات, الغربية",
+	"enName":"El Sharqawy Tower,, Kafr el zayat, El gharbeya"
+},
+		{	"profileId":"457549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457549?b=20&k=19781&l=search",
+	"arName":"ش مدارس, قطور, الغربية",
+	"enName":"El Madares St., Kutour, El gharbeya"
+},
+		{	"profileId":"457527",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457527?b=33&k=19781&l=search",
+	"arName":"ش التحرير, بولاق الدكرور, الجيزة",
+	"enName":"El Tahrir St., Boulak el dakrour, Giza"
+},
+		{	"profileId":"457528",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457528?b=30&k=19781&l=search",
+	"arName":"271 د امتداد ش جاردنيا, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"271 D Extension Of Gardenia St., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"457529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457529?b=24&k=19781&l=search",
+	"arName":"ش المدرسة, المنيب, الجيزة",
+	"enName":"El Madrasa St., El moneeb, Giza"
+},
+		{	"profileId":"166333",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/166333?b=29&k=19781&l=search",
+	"arName":"ش البحر ميدان الشون - برج همام - الدور 1, المحلة الكبرى, الغربية",
+	"enName":"El Bahr St. El Shoun Sq., Hammam Tower, Floor 1, El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"472317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472317?b=12&k=19781&l=search",
+	"arName":"ميدان محمد فريد, عابدين, القاهرة",
+	"enName":"Mohamed Farid Sq., Abdin, Cairo"
+},
+		{	"profileId":"472318",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472318?b=10&k=19781&l=search",
+	"arName":"ش حلوان, السيدة زينب, القاهرة",
+	"enName":"Helwan St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"472316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472316?b=37&k=19781&l=search",
+	"arName":"طريق اسكندرية القاهرة الزراعى, شبرا الخيمة, القليوبية",
+	"enName":"Alex Cairo Agricultural Rd., Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"472319",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/472319?b=7&k=19781&l=search",
+	"arName":"طريق مصر حلوان الزراعى, دار السلام, القاهرة",
+	"enName":"Misr Helwan Agricultural Rd., Dar el salam, Cairo"
+},
+		{	"profileId":"457550",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457550?b=27&k=19781&l=search",
+	"arName":"ش 23 يوليو, بسيون, الغربية",
+	"enName":"23th Of July St., Bassioun, El gharbeya"
+},
+		{	"profileId":"457552",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457552?b=16&k=19781&l=search",
+	"arName":"ش بورسعيد, السنطة, الغربية",
+	"enName":"Port Said St., As-santah, El gharbeya"
+},
+		{	"profileId":"457531",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457531?b=25&k=19781&l=search",
+	"arName":"ش عثمان محرم, الطالبية, الهرم, الجيزة",
+	"enName":"Othman Moharram St., El Talbeya, El haram, Giza"
+},
+		{	"profileId":"457532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/data-net/457532?b=19&k=19781&l=search",
+	"arName":"., الوراق, الجيزة",
+	"enName":"., El warak, Giza"
+}
+	]
+}]}

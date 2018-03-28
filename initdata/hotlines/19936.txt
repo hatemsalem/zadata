@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الصباح للصناعات الغذائية",
+	"enName":"El Sabah For Food Industries",
+	"hotlone":"19936",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"455157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sabah-for-food-industries/455157?b=1&k=19936&l=search",
+	"arName":"خدمة العملاء, برج العرب, الاسكندرية",
+	"enName":"Customer Service, Borg el arab, Alexandria"
+},
+		{	"profileId":"455101",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sabah-for-food-industries/455101?b=2&k=19936&l=search",
+	"arName":"بلوك 15 - - المنطقة الصناعية الرابعة, برج العرب, الاسكندرية",
+	"enName":"Block 15, , 4th Industrial Zone, Borg el arab, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,27 @@
+{"items":[{	"arName":"الاتحاد للطيران",
+	"enName":"Etihad Airways",
+	"hotlone":"16918",
+	"arCategory":[
+		"خطوط جوية"
+	],
+	"enCategories":[
+		"Airlines"
+	],
+	"contacts":[
+		{	"profileId":"540425",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etihad-airways/540425?b=2&k=16918&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"249881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etihad-airways/249881?b=3&k=16918&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"475672",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etihad-airways/475672?b=1&k=16918&l=search",
+	"arName":"8 ابراج سيتى ستارز - ش عمر بن الخطاب - وحدة 3, مصر الجديدة, القاهرة",
+	"enName":"8 City Stars Towers, Omar Ibn El Khattab St., Unit 3, Heliopolis, Cairo"
+}
+	]
+}]}

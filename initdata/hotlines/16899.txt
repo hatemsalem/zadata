@@ -1,0 +1,17 @@
+{"items":[{	"arName":"دار المغربى للبناء والتجارة",
+	"enName":"Dar Al Maghraby For Construction & Trade",
+	"hotlone":"16899",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"127621",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-maghraby-for-construction-&-trade/127621?b=1&k=16899&l=search",
+	"arName":"94 برج المغربى بلازا - ش التحرير - الدور 10, الدقى, الجيزة",
+	"enName":"94 El Maghraby Plaza Tower, El Tahrir St., Floor 10, Dokki, Giza"
+}
+	]
+}]}

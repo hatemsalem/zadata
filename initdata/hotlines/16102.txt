@@ -1,0 +1,31 @@
+{"items":[{	"arName":"كبابجى الازهر فرحات",
+	"enName":"Kababgy El Azhar Farahat",
+	"hotlone":"16102",
+	"arCategory":[
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"322990",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kababgy-el-azhar-farahat/322990?b=1&k=16102&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"10959",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kababgy-el-azhar-farahat/10959?b=3&k=16102&l=search",
+	"arName":"27 أ ش الحجاز, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"27 A El Hegaz St., El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"188068",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kababgy-el-azhar-farahat/188068?b=2&k=16102&l=search",
+	"arName":"21 ش الطاقة, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"21 El Taqqa St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

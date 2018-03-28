@@ -1,0 +1,22 @@
+{"items":[{	"arName":"اوتو لايف",
+	"enName":"Auto Life",
+	"hotlone":"19418",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"176593",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-life/176593?b=1&k=19418&l=search",
+	"arName":"94 ش ثروت, الدقى, الجيزة",
+	"enName":"94 Tharwat St., Dokki, Giza"
+},
+		{	"profileId":"176595",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-life/176595?b=2&k=19418&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

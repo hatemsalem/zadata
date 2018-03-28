@@ -1,0 +1,17 @@
+{"items":[{	"arName":"اريكسون مصر",
+	"enName":"Ericsson Egypt",
+	"hotlone":"16727",
+	"arCategory":[
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"255911",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ericsson-egypt/255911?b=1&k=16727&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+}
+	]
+}]}

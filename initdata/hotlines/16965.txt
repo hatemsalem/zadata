@@ -1,0 +1,42 @@
+{"items":[{	"arName":"بيتنا",
+	"enName":"Betna",
+	"hotlone":"16965",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"539622",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/betna/539622?b=1&k=16965&l=search",
+	"arName":"خدمة العملاء, مدينتى, القاهرة",
+	"enName":"Customer Service, Madinty, Cairo"
+},
+		{	"profileId":"458857",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/betna/458857?b=2&k=16965&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"505820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/betna/505820?b=6&k=16965&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"298904",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/betna/298904?b=3&k=16965&l=search",
+	"arName":"كم 33 - طريق القاهرة السويس, مدينتى, القاهرة",
+	"enName":"Km 33, Cairo Suez Rd., Madinty, Cairo"
+},
+		{	"profileId":"298903",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/betna/298903?b=4&k=16965&l=search",
+	"arName":"المرحلة الثالثة, مدينة الرحاب, القاهرة",
+	"enName":"Phase 3, Al rehab city, Cairo"
+},
+		{	"profileId":"539617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/betna/539617?b=5&k=16965&l=search",
+	"arName":"., مدينتى, القاهرة",
+	"enName":"., Madinty, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,432 @@
+{"items":[{	"arName":"اوراسكوم للفنادق والتنمية",
+	"enName":"Orascom Hotels & Development",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"159038",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orascom-hotels-&-development/159038?b=26&k=16444&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+},
+		{	"profileId":"129415",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orascom-hotels-&-development/129415?b=25&k=16444&l=search",
+	"arName":"2005 كورنيش النيل - ابراج نايل سيتى - البرج الجنوبى - الدور 9, رملة بولاق, القاهرة",
+	"enName":"2005 Corniche El Nil, Nile City Towers, South Tower, Floor 9, Ramlet boulak, Cairo"
+},
+		{	"profileId":"4961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orascom-hotels-&-development/4961?b=27&k=16444&l=search",
+	"arName":"160 ش 26 يوليو, العجوزة, الجيزة",
+	"enName":"160 26th Of July St., Agouza, Giza"
+}
+	]
+}, {	"arName":"سوفيتل طابا هايتس",
+	"enName":"Sofitel Taba Heights",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"68432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sofitel-taba-heights/68432?b=29&k=16444&l=search",
+	"arName":"كم 42 - طريق نويبع طابا, مرتفعات طابا, طابا",
+	"enName":"Km 42, Nuweibaa Taba Rd., Taba heights, Taba"
+},
+		{	"profileId":"542101",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sofitel-taba-heights/542101?b=28&k=16444&l=search",
+	"arName":"خدمة العملاء, مرتفعات طابا, طابا",
+	"enName":"Customer Service, Taba heights, Taba"
+}
+	]
+}, {	"arName":"ستراند بيتش اند جولف ريزورت طابا هايتس",
+	"enName":"Strand Beach & Golf Resort Taba Heights",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"542125",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/strand-beach-&-golf-resort-taba-heights/542125?b=32&k=16444&l=search",
+	"arName":"خدمة العملاء, مرتفعات طابا, طابا",
+	"enName":"Customer Service, Taba heights, Taba"
+},
+		{	"profileId":"461401",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/strand-beach-&-golf-resort-taba-heights/461401?b=33&k=16444&l=search",
+	"arName":"كم 42 - طريق نويبع طابا, مرتفعات طابا, طابا",
+	"enName":"Km 42, Nuweibaa Taba Rd., Taba heights, Taba"
+}
+	]
+}, {	"arName":"ارينا ان",
+	"enName":"Arena Inn",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"511144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arena-inn/511144?b=5&k=16444&l=search",
+	"arName":"خدمة العملاء, وسط البلد, الجونة",
+	"enName":"Customer Service, Downtown, El gouna"
+},
+		{	"profileId":"92235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arena-inn/92235?b=6&k=16444&l=search",
+	"arName":"., وسط البلد, الجونة",
+	"enName":"., Downtown, El gouna"
+}
+	]
+}, {	"arName":"مرتفعات طابا",
+	"enName":"Taba Heights",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"126157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taba-heights/126157?b=35&k=16444&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+},
+		{	"profileId":"120415",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taba-heights/120415?b=36&k=16444&l=search",
+	"arName":"2005 كورنيش النيل - ابراج نايل سيتى - البرج الجنوبى - الدور 9, رملة بولاق, القاهرة",
+	"enName":"2005 Corniche El Nil, Nile City Towers, South Tower, Floor 9, Ramlet boulak, Cairo"
+}
+	]
+}, {	"arName":"فندق بيوم ليك سايد",
+	"enName":"Byoum Lakeside Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"531330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/byoum-lakeside-hotel/531330?b=10&k=16444&l=search",
+	"arName":"خدمة العملاء, ابشواى, الفيوم",
+	"enName":"Customer Service, Ibshaway, El fayoum"
+},
+		{	"profileId":"531325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/byoum-lakeside-hotel/531325?b=9&k=16444&l=search",
+	"arName":"طريق بحيرة قارون, ابشواى, الفيوم",
+	"enName":"Qaroun Lake Rd., Ibshaway, El fayoum"
+}
+	]
+}, {	"arName":"شتيجنبرجر جولف ريزورت الجونة",
+	"enName":"Steigenberger Golf Resort El Gouna",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"482232",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/steigenberger-golf-resort-el-gouna/482232?b=30&k=16444&l=search",
+	"arName":"خدمة العملاء, وسط البلد, الجونة",
+	"enName":"Customer Service, Downtown, El gouna"
+},
+		{	"profileId":"42514",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/steigenberger-golf-resort-el-gouna/42514?b=31&k=16444&l=search",
+	"arName":"الجولف, وسط البلد, الجونة",
+	"enName":"El Golf, Downtown, El gouna"
+}
+	]
+}, {	"arName":"فندق على باشا",
+	"enName":"Ali Pasha Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"107130",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-pasha-hotel/107130?b=2&k=16444&l=search",
+	"arName":"مارينا 2, ابو تيج مارينا, الجونة",
+	"enName":"Marina 2, Abou tig marina, El gouna"
+},
+		{	"profileId":"511959",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-pasha-hotel/511959?b=1&k=16444&l=search",
+	"arName":"خدمة العملاء, ابو تيج مارينا, الجونة",
+	"enName":"Customer Service, Abou tig marina, El gouna"
+}
+	]
+}, {	"arName":"منتجع الجونة",
+	"enName":"El Gouna Resort",
+	"hotlone":"16444",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"126153",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-gouna-resort/126153?b=16&k=16444&l=search",
+	"arName":"خدمة العملاء, وسط البلد, الجونة",
+	"enName":"Customer Service, Downtown, El gouna"
+},
+		{	"profileId":"140200",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-gouna-resort/140200?b=17&k=16444&l=search",
+	"arName":"كم 17 -, وسط البلد, الجونة",
+	"enName":"Km 17,, Downtown, El gouna"
+}
+	]
+}, {	"arName":"ترتلز ان",
+	"enName":"Turtle's Inn",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"511161",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/turtle's-inn/511161?b=40&k=16444&l=search",
+	"arName":"خدمة العملاء, ابو تيج مارينا, الجونة",
+	"enName":"Customer Service, Abou tig marina, El gouna"
+},
+		{	"profileId":"108737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/turtle's-inn/108737?b=39&k=16444&l=search",
+	"arName":"., ابو تيج مارينا, الجونة",
+	"enName":"., Abou tig marina, El gouna"
+}
+	]
+}, {	"arName":"فندق كابتينز ان",
+	"enName":"Captain's Inn Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"507249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/captain's-inn-hotel/507249?b=11&k=16444&l=search",
+	"arName":"خدمة العملاء, ابو تيج مارينا, الجونة",
+	"enName":"Customer Service, Abou tig marina, El gouna"
+},
+		{	"profileId":"92250",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/captain's-inn-hotel/92250?b=12&k=16444&l=search",
+	"arName":"., ابو تيج مارينا, الجونة",
+	"enName":"., Abou tig marina, El gouna"
+}
+	]
+}, {	"arName":"فندق موزايك",
+	"enName":"Mosaique Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"278910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mosaique-hotel/278910?b=23&k=16444&l=search",
+	"arName":"مارينا الجديدة, ابو تيج مارينا, الجونة",
+	"enName":"New Marina, Abou tig marina, El gouna"
+},
+		{	"profileId":"509026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mosaique-hotel/509026?b=24&k=16444&l=search",
+	"arName":"خدمة العملاء, ابو تيج مارينا, الجونة",
+	"enName":"Customer Service, Abou tig marina, El gouna"
+}
+	]
+}, {	"arName":"فندق لابراندا كلوب باردايسيو الجونة",
+	"enName":"Labranda Club Paradisio El Gouna Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"438104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/labranda-club-paradisio-el-gouna-hotel/438104?b=22&k=16444&l=search",
+	"arName":"., ابيدوس, الجونة",
+	"enName":"., Abydos, El gouna"
+}
+	]
+}, {	"arName":"الوكالة اكوا بارك ريزورت",
+	"enName":"El Wekala Aqua Park Resort",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"542097",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wekala-aqua-park-resort/542097?b=19&k=16444&l=search",
+	"arName":"خدمة العملاء, مرتفعات طابا, طابا",
+	"enName":"Customer Service, Taba heights, Taba"
+},
+		{	"profileId":"119086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wekala-aqua-park-resort/119086?b=18&k=16444&l=search",
+	"arName":"كم 42 - طريق نويبع طابا, مرتفعات طابا, طابا",
+	"enName":"Km 42, Nuweibaa Taba Rd., Taba heights, Taba"
+}
+	]
+}, {	"arName":"باى فيو ريزورت طابا هايتس",
+	"enName":"The BayView Resort Taba Heights",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"542130",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bayview-resort-taba-heights/542130?b=37&k=16444&l=search",
+	"arName":"كم 42 - طريق نويبع طابا, مرتفعات طابا, طابا",
+	"enName":"Km 42, Nuweibaa Taba Rd., Taba heights, Taba"
+},
+		{	"profileId":"542139",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bayview-resort-taba-heights/542139?b=38&k=16444&l=search",
+	"arName":"خدمة العملاء, مرتفعات طابا, طابا",
+	"enName":"Customer Service, Taba heights, Taba"
+}
+	]
+}, {	"arName":"فندق لا ميزون بلو",
+	"enName":"La Maison Bleue Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"562142",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-maison-bleue-hotel/562142?b=20&k=16444&l=search",
+	"arName":"خدمة العملاء, شاطئ منجروفى, الجونة",
+	"enName":"Customer Service, Mangroovy beach, El gouna"
+},
+		{	"profileId":"562126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-maison-bleue-hotel/562126?b=21&k=16444&l=search",
+	"arName":"طريق مانجروفى, شاطئ منجروفى, الجونة",
+	"enName":"Mangroovy Rd., Mangroovy beach, El gouna"
+}
+	]
+}, {	"arName":"فندق سلطان بيه",
+	"enName":"Sultan Bey Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"42493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sultan-bey-hotel/42493?b=34&k=16444&l=search",
+	"arName":"., وسط البلد, الجونة",
+	"enName":"., Downtown, El gouna"
+}
+	]
+}, {	"arName":"كلوب ميد سيناى باى ريزورت",
+	"enName":"Club Med Sinai Bay Resort",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"542135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/club-med-sinai-bay-resort/542135?b=13&k=16444&l=search",
+	"arName":"خدمة العملاء, مرتفعات طابا, طابا",
+	"enName":"Customer Service, Taba heights, Taba"
+},
+		{	"profileId":"542121",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/club-med-sinai-bay-resort/542121?b=14&k=16444&l=search",
+	"arName":"كم 42 - طريق نوبيع طابا, مرتفعات طابا, طابا",
+	"enName":"Km 42, Nuweibaa Taba Rd., Taba heights, Taba"
+}
+	]
+}, {	"arName":"فندق بيل فيو بيتش",
+	"enName":"Bellevue Beach Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"562008",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bellevue-beach-hotel/562008?b=8&k=16444&l=search",
+	"arName":"خدمة العملاء, وسط البلد, الجونة",
+	"enName":"Customer Service, Downtown, El gouna"
+},
+		{	"profileId":"561997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bellevue-beach-hotel/561997?b=7&k=16444&l=search",
+	"arName":"التبة, وسط البلد, الجونة",
+	"enName":"El Tabba, Downtown, El gouna"
+}
+	]
+}, {	"arName":"انشنت ساندز جولف ريزورت",
+	"enName":"Ancient Sands Golf Resort",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"561832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ancient-sands-golf-resort/561832?b=3&k=16444&l=search",
+	"arName":"خدمة العملاء, ابو تيج مارينا, الجونة",
+	"enName":"Customer Service, Abou tig marina, El gouna"
+},
+		{	"profileId":"561812",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ancient-sands-golf-resort/561812?b=4&k=16444&l=search",
+	"arName":"مارينا بيتش, ابو تيج مارينا, الجونة",
+	"enName":"Marina Beach, Abou tig marina, El gouna"
+}
+	]
+}, {	"arName":"فندق دوار العمدة بوتيك",
+	"enName":"Dawar El Omda Boutique Hotel",
+	"hotlone":"16444",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"110681",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawar-el-omda-boutique-hotel/110681?b=15&k=16444&l=search",
+	"arName":"., وسط البلد, الجونة",
+	"enName":"., Downtown, El gouna"
+}
+	]
+}]}

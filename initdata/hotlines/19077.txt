@@ -1,0 +1,17 @@
+{"items":[{	"arName":"كريدى اجريكول مصر",
+	"enName":"Credit Agricole Egypt",
+	"hotlone":"19077",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"169053",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/credit-agricole-egypt/169053?b=1&k=19077&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"enName":"Customer Service, Zamalek, Cairo"
+}
+	]
+}]}

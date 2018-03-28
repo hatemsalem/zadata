@@ -1,0 +1,82 @@
+{"items":[{	"arName":"المصرية للسيارات",
+	"enName":"El Masria Auto",
+	"hotlone":"19095",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"428270",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/428270?b=13&k=19095&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"121494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/121494?b=8&k=19095&l=search",
+	"arName":"ش الجيش, طنطا, الغربية",
+	"enName":"El Guish St., Tanta, El gharbeya"
+},
+		{	"profileId":"99322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/99322?b=10&k=19095&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"125703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/125703?b=5&k=19095&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"551531",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551531?b=7&k=19095&l=search",
+	"arName":"ش عدلى, اسيوط, اسيوط",
+	"enName":"Adly St., Assyout, Assyout"
+},
+		{	"profileId":"277696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/277696?b=11&k=19095&l=search",
+	"arName":"ش سعد زغلول - توريل الجديدة, المنصورة, الدقهلية",
+	"enName":"Saad Zaghloul St., Toril El Gadida, El mansoura, El dakahleya"
+},
+		{	"profileId":"551540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551540?b=14&k=19095&l=search",
+	"arName":"عمارة الاوقاف, دمياط, دمياط",
+	"enName":"El Awqaf Bldg., Damietta, Damietta"
+},
+		{	"profileId":"443701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/443701?b=4&k=19095&l=search",
+	"arName":"18 ش طلعت حرب, وسط البلد, القاهرة",
+	"enName":"18 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"551547",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551547?b=9&k=19095&l=search",
+	"arName":"52 ش النصر, الدهار, الغردقة",
+	"enName":"52 El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"247202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/247202?b=12&k=19095&l=search",
+	"arName":"ش النصر, الدهار, الغردقة",
+	"enName":"El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"551517",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551517?b=2&k=19095&l=search",
+	"arName":"ش 9, المقطم, القاهرة",
+	"enName":"Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"551506",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551506?b=6&k=19095&l=search",
+	"arName":"ش زمزم متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"Zamzam St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"12105",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/12105?b=1&k=19095&l=search",
+	"arName":"كورنيش النيل - برج سراى المعادى, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Corniche El Nil, Saray El Maadi Tower, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"113085",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/113085?b=3&k=19095&l=search",
+	"arName":"2 عمارات المروة - ش احمد تيسير, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"2 El Marwa Bldgs., Ahmed Tayseer St., koleyet El Banat, Heliopolis, Cairo"
+}
+	]
+}]}

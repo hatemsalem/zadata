@@ -1,0 +1,82 @@
+{"items":[{	"arName":"النصر",
+	"enName":"Al Nasser",
+	"hotlone":"19785",
+	"arCategory":[
+		"مراكز تسوق"
+	],
+	"enCategories":[
+		"Shopping Centers"
+	],
+	"contacts":[
+		{	"profileId":"578094",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/578094?b=5&k=19785&l=search",
+	"arName":"ش 257 تقاطع ش 276, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Rd. 257 Intersection Of Rd. 276, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"519377",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/519377?b=14&k=19785&l=search",
+	"arName":"ش البوسطة - ش سعد زغلول سابقا, وسط البلد, الفيوم",
+	"enName":"El Bosta St. - Saad Zaghloul St. Previously, Downtown, El fayoum"
+},
+		{	"profileId":"519378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/519378?b=12&k=19785&l=search",
+	"arName":"ش مدرسة الاقباط, سمالوط, المنيا",
+	"enName":"Madraset El Aqbat St., Samalut, El menia"
+},
+		{	"profileId":"519375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/519375?b=8&k=19785&l=search",
+	"arName":"ش الجامعة - نايلة خاتون, حى غرب, اسيوط",
+	"enName":"El Gamaa St., Nayla Khatoun, Gharb district, Assyout"
+},
+		{	"profileId":"519374",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/519374?b=11&k=19785&l=search",
+	"arName":"591 طريق الحرية, زيزينيا, الاسكندرية",
+	"enName":"591 El Horreya Rd., Zezenia, Alexandria"
+},
+		{	"profileId":"519385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/519385?b=13&k=19785&l=search",
+	"arName":"المحور المركزى الثانى, الحى العاشر, السادس من اكتوبر, الجيزة",
+	"enName":"2nd Central Spine, 10th District, 6th of october, Giza"
+},
+		{	"profileId":"519382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/519382?b=9&k=19785&l=search",
+	"arName":"30 ش كورنيش النيل, الكورنيش, اسوان",
+	"enName":"30 Corniche El Nil St., El corniche, Aswan"
+},
+		{	"profileId":"519383",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/519383?b=7&k=19785&l=search",
+	"arName":"ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"352611",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/352611?b=10&k=19785&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"519380",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/519380?b=3&k=19785&l=search",
+	"arName":"ش 9, المقطم, القاهرة",
+	"enName":"Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"570272",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/570272?b=1&k=19785&l=search",
+	"arName":"القطعة 54 - محور الخدمات - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 54, Services Spine, 1St District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"340428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/340428?b=6&k=19785&l=search",
+	"arName":"30 ش هارون ميدان المساحة, الدقى, الجيزة",
+	"enName":"30 Haroun St. El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"442556",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/442556?b=2&k=19785&l=search",
+	"arName":"4 أ كورنيش النيل, رملة بولاق, القاهرة",
+	"enName":"4 A Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"436994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nasser/436994?b=4&k=19785&l=search",
+	"arName":"مساكن صقر قريش - ش رايل تقاطع ش محمد سيد احمد, حلوان, القاهرة",
+	"enName":"Saqr Qoraish Bldgs., Rayel St. Intersection Of Mohamed Sayed Ahmed St., Helwan, Cairo"
+}
+	]
+}]}

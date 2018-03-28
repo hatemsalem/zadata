@@ -1,0 +1,27 @@
+{"items":[{	"arName":"الهيئة العربية للتصنيع",
+	"enName":"Arab Organization For Industrialization",
+	"hotlone":"19201",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"141141",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-organization-for-industrialization/141141?b=2&k=19201&l=search",
+	"arName":"2 أ ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"2 A Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"141242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-organization-for-industrialization/141242?b=3&k=19201&l=search",
+	"arName":"11 ش سيزوستريس, العطارين, الاسكندرية",
+	"enName":"11 Sizostris St., El attarin, Alexandria"
+},
+		{	"profileId":"141140",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-organization-for-industrialization/141140?b=1&k=19201&l=search",
+	"arName":"2 ش الطيران, مدينة نصر, القاهرة",
+	"enName":"2 El Tayaran St., Nasr city, Cairo"
+}
+	]
+}]}

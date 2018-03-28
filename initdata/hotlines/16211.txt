@@ -1,0 +1,17 @@
+{"items":[{	"arName":"ون كارد",
+	"enName":"One Card",
+	"hotlone":"16211",
+	"arCategory":[
+		"كروت ذكية"
+	],
+	"enCategories":[
+		"Smart Card"
+	],
+	"contacts":[
+		{	"profileId":"256428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/one-card/256428?b=1&k=16211&l=search",
+	"arName":"22 أ ش انور المفتى, مدينة نصر, القاهرة",
+	"enName":"22 A Anwar El Mofty St., Nasr city, Cairo"
+}
+	]
+}]}

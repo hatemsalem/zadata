@@ -1,0 +1,22 @@
+{"items":[{	"arName":"فيرست سيرفيس",
+	"enName":"First Service",
+	"hotlone":"16055",
+	"arCategory":[
+		"تحصيل وكالات"
+	],
+	"enCategories":[
+		"Collection Agencies"
+	],
+	"contacts":[
+		{	"profileId":"322627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/first-service/322627?b=2&k=16055&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"322630",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/first-service/322630?b=1&k=16055&l=search",
+	"arName":"12 /13 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"12 /13 El Laselky St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

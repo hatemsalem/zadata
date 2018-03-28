@@ -1,0 +1,48 @@
+{"items":[{	"arName":"دايت هاوس",
+	"enName":"Diet House",
+	"hotlone":"16513",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم عالمية"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"International Cuisine"
+	],
+	"contacts":[
+		{	"profileId":"490197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diet-house/490197?b=6&k=16513&l=search",
+	"arName":"66 ش الحسين متفرع من ش محى الدين ابو العز, الدقى, الجيزة",
+	"enName":"66 El Hussein St. Off Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"533657",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diet-house/533657?b=4&k=16513&l=search",
+	"arName":"101 ش شهاب الدين خفاجة, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"101 Shehab El Din Khafaga St., El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"540807",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diet-house/540807?b=3&k=16513&l=search",
+	"arName":"4 أ كورنيش النيل, رملة بولاق, القاهرة",
+	"enName":"4 A Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"325641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diet-house/325641?b=1&k=16513&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المريلاند, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"469557",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diet-house/469557?b=2&k=16513&l=search",
+	"arName":"15 ش 231, دجلة, المعادى, القاهرة",
+	"enName":"15 Rd. 231, Degla, Maadi, Cairo"
+},
+		{	"profileId":"465544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diet-house/465544?b=5&k=16513&l=search",
+	"arName":"المرحلة الاولى, مدينة الرحاب, القاهرة",
+	"enName":"Phase 1, Al rehab city, Cairo"
+}
+	]
+}]}

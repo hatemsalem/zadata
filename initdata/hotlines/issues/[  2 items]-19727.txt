@@ -1,0 +1,58 @@
+{"items":[{	"arName":"مجموعة ابو سيف للالكترونيات",
+	"enName":"Abou Seif Group For Electronics",
+	"hotlone":"19727",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"117992",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-seif-group-for-electronics/117992?b=4&k=19727&l=search",
+	"arName":"167 ش التحرير, باب اللوق, القاهرة",
+	"enName":"167 El Tahrir St., Bab el louk, Cairo"
+},
+		{	"profileId":"117991",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-seif-group-for-electronics/117991?b=2&k=19727&l=search",
+	"arName":"4 ش المرجان, العتبة, القاهرة",
+	"enName":"4 El Morgan St., Ataba, Cairo"
+},
+		{	"profileId":"117993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-seif-group-for-electronics/117993?b=6&k=19727&l=search",
+	"arName":"ش ملك حفنى, فيكتوريا, الاسكندرية",
+	"enName":"Malak Hefny St., Victoria, Alexandria"
+},
+		{	"profileId":"117989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-seif-group-for-electronics/117989?b=1&k=19727&l=search",
+	"arName":"2 ش الامير قدادار متفرع من ش التحرير, باب اللوق, القاهرة",
+	"enName":"2 El Amir Qadadar St. Off El Tahrir St., Bab el louk, Cairo"
+},
+		{	"profileId":"117988",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-seif-group-for-electronics/117988?b=5&k=19727&l=search",
+	"arName":"23 ش عبد السلام عارف, باب اللوق, القاهرة",
+	"enName":"23 Abdel Salam Aref St., Bab el louk, Cairo"
+},
+		{	"profileId":"200665",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-seif-group-for-electronics/200665?b=3&k=19727&l=search",
+	"arName":"خدمة العملاء, باب اللوق, القاهرة",
+	"enName":"Customer Service, Bab el louk, Cairo"
+}
+	]
+}, {	"arName":"الشركة الدولية للاستيراد والتصدير",
+	"enName":"Al Dawlia Co. For Import & Export",
+	"hotlone":"19727",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"134723",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-dawlia-co.-for-import-&-export/134723?b=7&k=19727&l=search",
+	"arName":"7 عمارات عثمان - ش السعادة, روكسى, مصر الجديدة, القاهرة",
+	"enName":"7 Othman Bldgs., El Saada St., Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

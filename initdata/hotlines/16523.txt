@@ -1,0 +1,57 @@
+{"items":[{	"arName":"ابو غالى اوتوموتيف جروب - ايه ايه جى",
+	"enName":"Abou Ghali Automotive Group - AAG",
+	"hotlone":"16523",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"187382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/187382?b=2&k=16523&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"customer service, Heliopolis, Cairo"
+},
+		{	"profileId":"74027",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/74027?b=4&k=16523&l=search",
+	"arName":"جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Golf city , Obour city, Kaliobeya"
+},
+		{	"profileId":"74026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/74026?b=3&k=16523&l=search",
+	"arName":"53 ش الظاهر, الظاهر, القاهرة",
+	"enName":"53 El Zaher St., El zaher, Cairo"
+},
+		{	"profileId":"159022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/159022?b=7&k=16523&l=search",
+	"arName":"كم 25 - طريق مصر اسماعيلية الصحراوى, مدينة العبور, القليوبية",
+	"enName":"Km 25, Misr Ismaileya Desert Rd., Obour city, Kaliobeya"
+},
+		{	"profileId":"215030",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/215030?b=8&k=16523&l=search",
+	"arName":"كم 7 - طريق اسيوط القاهرة الزراعى - منقباد, حى غرب, اسيوط",
+	"enName":"Km 7, Assyout Cairo Agriculture Rd., Manqabad, Gharb district, Assyout"
+},
+		{	"profileId":"233699",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/233699?b=9&k=16523&l=search",
+	"arName":"برج الامراء - ش الترعة, المنصورة, الدقهلية",
+	"enName":"El Omaraa Tower, El Teraa St., El mansoura, El dakahleya"
+},
+		{	"profileId":"162915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/162915?b=5&k=16523&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"10445",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/10445?b=1&k=16523&l=search",
+	"arName":"68 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"68 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"397727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/397727?b=6&k=16523&l=search",
+	"arName":"ش وادى الملوك, السيوف, الاسكندرية",
+	"enName":"Wadi El Melouk St., El seyouf, Alexandria"
+}
+	]
+}]}

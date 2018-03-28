@@ -1,0 +1,42 @@
+{"items":[{	"arName":"مستشفيات ومراكز مغربى للعيون",
+	"enName":"Magrabi Eye Hospitals & Centers",
+	"hotlone":"19505",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"79159",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/79159?b=4&k=19505&l=search",
+	"arName":"51 ش الجيش - الدور 2, طنطا, الغربية",
+	"enName":"51 El Guish St., Floor 2, Tanta, El gharbeya"
+},
+		{	"profileId":"166838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/166838?b=6&k=19505&l=search",
+	"arName":"112 ش محيى الدين ابو العز - الدور 3, المهندسين, الجيزة",
+	"enName":"112 Mohy El Din Abou El Ezz St., Floor 3, Mohandeseen, Giza"
+},
+		{	"profileId":"512026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/512026?b=5&k=19505&l=search",
+	"arName":"ش بطرس تقاطع ش الحلو, طنطا, الغربية",
+	"enName":"Botros St. Intersection Of El Helw St., Tanta, El gharbeya"
+},
+		{	"profileId":"44032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/44032?b=2&k=19505&l=search",
+	"arName":"ميدان السيدة نفيسة, السيدة نفيسة, القاهرة",
+	"enName":"El Sayeda Nafeesa Sq., El sayeda nafissa, Cairo"
+},
+		{	"profileId":"79162",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/79162?b=3&k=19505&l=search",
+	"arName":"خدمة العملاء, السيدة نفيسة, القاهرة",
+	"enName":"Customer Service, El sayeda nafissa, Cairo"
+},
+		{	"profileId":"79161",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/79161?b=1&k=19505&l=search",
+	"arName":"39 ش عباس العقاد - الدور 2, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"39 Abbas El Akkad St., Floor 2, 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

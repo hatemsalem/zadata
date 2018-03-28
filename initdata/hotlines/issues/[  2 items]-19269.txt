@@ -1,0 +1,84 @@
+{"items":[{	"arName":"المجموعة البافارية للسيارات",
+	"enName":"Bavarian Auto Group",
+	"hotlone":"19269",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة",
+		"سيارات - مراكز اصلاح وخدمات ومعدات",
+		"سيارات - مصنعون ومجمعون",
+		"سيارات - قطع غيار وكماليات"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars",
+		"Cars - Repairing & Servicing Equipment",
+		"Cars - Manufacturers & Assemblers",
+		"Cars - Parts & Accessories"
+	],
+	"contacts":[
+		{	"profileId":"136758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/136758?b=6&k=19269&l=search",
+	"arName":"37 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"37 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"212094",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/212094?b=1&k=19269&l=search",
+	"arName":"القطعة 258 - - حى الملتقى العربى, الماظة, مصر الجديدة, القاهرة",
+	"enName":"Plot 258, , El Moltaqa El Araby District, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"179728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/179728?b=10&k=19269&l=search",
+	"arName":"كم 3 - القطعة 31 -, ابو رواش, الجيزة",
+	"enName":"Km 3, Plot 31,, Abou rawash, Giza"
+},
+		{	"profileId":"513146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/513146?b=4&k=19269&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"226760",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/226760?b=7&k=19269&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28 , Cairo Alex Desert Rd., Cairo alex desert rd., Giza"
+},
+		{	"profileId":"352166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/352166?b=8&k=19269&l=search",
+	"arName":"سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"El Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"187016",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/187016?b=2&k=19269&l=search",
+	"arName":"خدمة العملاء, القطامية, القاهرة",
+	"enName":"customer service, El katameya, Cairo"
+},
+		{	"profileId":"126233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/126233?b=5&k=19269&l=search",
+	"arName":"كم 1 -, ابيس, الاسكندرية",
+	"enName":"Km 1,, Abbis, Alexandria"
+},
+		{	"profileId":"120581",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/120581?b=9&k=19269&l=search",
+	"arName":"القطعة 10/1 - - المنطقة الصناعية الرابعة, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 1/10, , 4th Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"425928",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/425928?b=3&k=19269&l=search",
+	"arName":"7 ش دمشق, روكسى, مصر الجديدة, القاهرة",
+	"enName":"7 Demascus St., Roxy, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"خدمة موبايل بى ام دبليو",
+	"enName":"BMW Mobile Services",
+	"hotlone":"19269",
+	"arCategory":[
+		"اوناش انقاذ"
+	],
+	"enCategories":[
+		"Towing"
+	],
+	"contacts":[
+		{	"profileId":"164900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bmw-mobile-services/164900?b=11&k=19269&l=search",
+	"arName":"خدمة طوارئ, القطامية, القاهرة",
+	"enName":"Emergency Service, El katameya, Cairo"
+}
+	]
+}]}

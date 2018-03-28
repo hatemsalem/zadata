@@ -1,0 +1,32 @@
+{"items":[{	"arName":"الليثى اوتو جروب",
+	"enName":"El Laithy Auto Group",
+	"hotlone":"16227",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"192614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-laithy-auto-group/192614?b=1&k=16227&l=search",
+	"arName":"15 ش احمد فؤاد ميدان سانت فاتيما, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"15 Ahmed Fouad St. Saint Fatima Sq., Saint Fatima, Heliopolis, Cairo"
+},
+		{	"profileId":"401951",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-laithy-auto-group/401951?b=3&k=16227&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"563428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-laithy-auto-group/563428?b=2&k=16227&l=search",
+	"arName":"4 /2 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"4 /2 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"401385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-laithy-auto-group/401385?b=4&k=16227&l=search",
+	"arName":"9 ش اسماعيل القبانى متفرع من ش الطيران, مدينة نصر, القاهرة",
+	"enName":"9 Ismail El Qabbany St. Off El Tayaran St., Nasr city, Cairo"
+}
+	]
+}]}

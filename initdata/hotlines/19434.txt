@@ -1,0 +1,22 @@
+{"items":[{	"arName":"جنرال اليكتريك للاجهزة الطبية",
+	"enName":"General Electric For Medical Equipment",
+	"hotlone":"19434",
+	"arCategory":[
+		"طب معدات"
+	],
+	"enCategories":[
+		"Medical Equipment"
+	],
+	"contacts":[
+		{	"profileId":"153917",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-electric-for-medical-equipment/153917?b=1&k=19434&l=search",
+	"arName":"14 ش الماظة متفرع من ش الثورة, الماظة, مصر الجديدة, القاهرة",
+	"enName":"14 Almaza St. Off El Thawra St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"187323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-electric-for-medical-equipment/187323?b=2&k=19434&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,26 @@
+{"items":[{	"arName":"بسمتيو بروست",
+	"enName":"Basmatio Broast",
+	"hotlone":"16400",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"378271",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/basmatio-broast/378271?b=2&k=16400&l=search",
+	"arName":"ش النصر متفرع من ش الثورة, اسيوط, اسيوط",
+	"enName":"El Nasr St. Off El Thawra St., Assyout, Assyout"
+},
+		{	"profileId":"254684",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/basmatio-broast/254684?b=1&k=16400&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+}
+	]
+}]}

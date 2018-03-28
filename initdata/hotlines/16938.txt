@@ -1,0 +1,22 @@
+{"items":[{	"arName":"سكر مكة لماكينات الخياطة",
+	"enName":"Sokkar Mecca For Sewing Machines",
+	"hotlone":"16938",
+	"arCategory":[
+		"خياطة ماكينات"
+	],
+	"enCategories":[
+		"Sewing Machines"
+	],
+	"contacts":[
+		{	"profileId":"489828",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sokkar-mecca-for-sewing-machines/489828?b=2&k=16938&l=search",
+	"arName":"خدمة العملاء, جسر السويس, القاهرة",
+	"enName":"Customer Service, Gesr el suez, Cairo"
+},
+		{	"profileId":"96606",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sokkar-mecca-for-sewing-machines/96606?b=1&k=16938&l=search",
+	"arName":"54 ش جسر السويس - المنطقة الصناعية, جسر السويس, القاهرة",
+	"enName":"54 Gesr El Suez St., Industrial Zone, Gesr el suez, Cairo"
+}
+	]
+}]}

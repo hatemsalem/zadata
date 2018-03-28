@@ -1,0 +1,52 @@
+{"items":[{	"arName":"قبنورى",
+	"enName":"Kabnoury",
+	"hotlone":"19088",
+	"arCategory":[
+		"الومنيوم"
+	],
+	"enCategories":[
+		"Aluminum"
+	],
+	"contacts":[
+		{	"profileId":"76660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabnoury/76660?b=3&k=19088&l=search",
+	"arName":"25 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"enName":"25 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"76661",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabnoury/76661?b=6&k=19088&l=search",
+	"arName":"70 ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"70 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"76662",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabnoury/76662?b=1&k=19088&l=search",
+	"arName":"47 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"47 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"76673",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabnoury/76673?b=8&k=19088&l=search",
+	"arName":"36 ش شهاب, المهندسين, الجيزة",
+	"enName":"36 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"76663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabnoury/76663?b=2&k=19088&l=search",
+	"arName":"37 ش 105 ميدان الاتحاد, المعادى, القاهرة",
+	"enName":"37 Rd. 105 El Ethad Sq., Maadi, Cairo"
+},
+		{	"profileId":"76666",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabnoury/76666?b=7&k=19088&l=search",
+	"arName":"3 ميدان مدكور, مدكور, الهرم, الجيزة",
+	"enName":"3 madkour sq., Madkour, El haram, Giza"
+},
+		{	"profileId":"166613",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabnoury/166613?b=5&k=19088&l=search",
+	"arName":"خدمة العملاء, الهرم, الجيزة",
+	"enName":"Customer Service, El haram, Giza"
+},
+		{	"profileId":"76679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabnoury/76679?b=4&k=19088&l=search",
+	"arName":"456 طريق الحرية, رشدى, الاسكندرية",
+	"enName":"456 El Horreya Rd., Roushdy, Alexandria"
+}
+	]
+}]}

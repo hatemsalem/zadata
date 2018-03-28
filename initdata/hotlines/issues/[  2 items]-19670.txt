@@ -1,0 +1,60 @@
+{"items":[{	"arName":"سيكست",
+	"enName":"Sixt",
+	"hotlone":"19670",
+	"arCategory":[
+		"سيارات - تأجير وليموزين",
+		"تاكسى"
+	],
+	"enCategories":[
+		"Cars - Rentals, Leasing & Limousines",
+		"Taxies"
+	],
+	"contacts":[
+		{	"profileId":"214990",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sixt/214990?b=2&k=19670&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"471099",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sixt/471099?b=4&k=19670&l=search",
+	"arName":"كم 28 -, طريق مصر الاسماعيلية الصحراوى, القاهرة",
+	"enName":"Km 28,, Cairo ism. desert rd., Cairo"
+},
+		{	"profileId":"471132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sixt/471132?b=7&k=19670&l=search",
+	"arName":"ش الشيراتون, سقالة, الغردقة",
+	"enName":"Sheraton Rd., Sekala, Hurghada"
+},
+		{	"profileId":"458663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sixt/458663?b=3&k=19670&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"60282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sixt/60282?b=5&k=19670&l=search",
+	"arName":"41 ش 270, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"41 Rd. 270, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"147232",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sixt/147232?b=6&k=19670&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"لندن كاب",
+	"enName":"London Cab",
+	"hotlone":"19670",
+	"arCategory":[
+		"سيارات - تأجير وليموزين"
+	],
+	"enCategories":[
+		"Cars - Rentals, Leasing & Limousines"
+	],
+	"contacts":[
+		{	"profileId":"553749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/london-cab/553749?b=1&k=19670&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

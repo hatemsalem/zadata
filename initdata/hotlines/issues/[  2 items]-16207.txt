@@ -1,0 +1,52 @@
+{"items":[{	"arName":"صيدلية الحسين",
+	"enName":"El Hussein Pharmacy",
+	"hotlone":"16207",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"256329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hussein-pharmacy/256329?b=2&k=16207&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"38053",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hussein-pharmacy/38053?b=3&k=16207&l=search",
+	"arName":"7 ش الجرجاوى متفرع من ش المساحة, الدقى, الجيزة",
+	"enName":"7 El Gergawy St. Off El Messaha St., Dokki, Giza"
+},
+		{	"profileId":"274613",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hussein-pharmacy/274613?b=1&k=16207&l=search",
+	"arName":"عمارة 53أ, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"Bldg. 53A, Hadayek El Ahram, El haram, Giza"
+}
+	]
+}, {	"arName":"فيش هاوس",
+	"enName":"Fish House",
+	"hotlone":"16207",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"580667",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fish-house/580667?b=4&k=16207&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"Home Delivery, Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"531384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fish-house/531384?b=5&k=16207&l=search",
+	"arName":"53 أ ش 5 - برج الحسين, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"53 A Rd. 5, El Hussein Tower, Hadayek El Ahram, El haram, Giza"
+}
+	]
+}]}

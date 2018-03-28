@@ -1,0 +1,87 @@
+{"items":[{	"arName":"قنديل مصر",
+	"enName":"Kandil Egypt",
+	"hotlone":"16608",
+	"arCategory":[
+		"اضاءة انظمة ولمبات ونجف"
+	],
+	"enCategories":[
+		"Lighting Systems, Lamps, Chandeliers & Bulbs"
+	],
+	"contacts":[
+		{	"profileId":"48968",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/48968?b=7&k=16608&l=search",
+	"arName":"كم 18 - ش ثلاجة الزهراء متفرع من طريق مصر اسماعيلية الصحراوى - تقسيم عمر بن الخطاب, جسر السويس, القاهرة",
+	"enName":"Km 18, Thalaget El Zahraa St. Off Misr Ismaileya Desert Rd., Omar Ibn El Khattab Division, Gesr el suez, Cairo"
+},
+		{	"profileId":"198193",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/198193?b=1&k=16608&l=search",
+	"arName":"9810 ش 9, المقطم, القاهرة",
+	"enName":"9810 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"405256",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/405256?b=13&k=16608&l=search",
+	"arName":"القطعة 11 - بلوك 13007 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"enName":"Plot 11, Block 13007, , 1St Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"448597",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/448597?b=5&k=16608&l=search",
+	"arName":"311 امتداد ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"311 Extension Of El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"448652",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/448652?b=8&k=16608&l=search",
+	"arName":"الكوبرى العلوى - كورنيش النيل, دمياط, دمياط",
+	"enName":"El Kobry El Elwey, Corniche El Nil, Damietta, Damietta"
+},
+		{	"profileId":"460078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/460078?b=10&k=16608&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"558423",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/558423?b=14&k=16608&l=search",
+	"arName":"ش الشباب, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"El Shabab St., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"405260",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/405260?b=2&k=16608&l=search",
+	"arName":"1 طريق النصر عمارات رامو, مدينة نصر, القاهرة",
+	"enName":"1 El Nasr Rd. Ramo Bldgs., Nasr city, Cairo"
+},
+		{	"profileId":"116946",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/116946?b=6&k=16608&l=search",
+	"arName":"28 ش مصطفى النحاس - الدور 2, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"28 Mostafa El Nahhas St., Floor 2, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"405273",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/405273?b=15&k=16608&l=search",
+	"arName":"729 طريق الحرية امتداد ش الاقبال, لوران, الاسكندرية",
+	"enName":"729 El Horreya Rd. Extension Of El Eqbal St., Loran, Alexandria"
+},
+		{	"profileId":"10306",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/10306?b=3&k=16608&l=search",
+	"arName":"29 ش النزهة عمارات رابعة الاستثمارى, مدينة نصر, القاهرة",
+	"enName":"29 El Nozha St. Rabaa Investment Bldgs., Nasr city, Cairo"
+},
+		{	"profileId":"558429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/558429?b=4&k=16608&l=search",
+	"arName":"القطعة 2/1 - تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Plot 2/1, El Laselky Division, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"452835",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/452835?b=9&k=16608&l=search",
+	"arName":"المحور المركزى, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, 6th of october, Giza"
+},
+		{	"profileId":"58357",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/58357?b=11&k=16608&l=search",
+	"arName":"27 ش سيدى المتولى, العطارين, الاسكندرية",
+	"enName":"27 Sidi El Metwally St., El attarin, Alexandria"
+},
+		{	"profileId":"178546",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/178546?b=12&k=16608&l=search",
+	"arName":"44 ش المشاية السفلية - ش حسنى مبارك سابقا - برج الاندلس, المنصورة, الدقهلية",
+	"enName":"44 El Mashaya El Soflya St. - Hosny Mubarak St. Previously, El Andalus Tower, El mansoura, El dakahleya"
+}
+	]
+}]}

@@ -1,0 +1,22 @@
+{"items":[{	"arName":"اى سكور - الشركة المصرية للاستعلام الائتمانى",
+	"enName":"I Score - The Egyptian Credit Bureau",
+	"hotlone":"16262",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"187163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i-score-_-the-egyptian-credit-bureau/187163?b=1&k=16262&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"372904",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i-score-_-the-egyptian-credit-bureau/372904?b=2&k=16262&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

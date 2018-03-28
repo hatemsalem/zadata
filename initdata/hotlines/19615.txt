@@ -1,0 +1,27 @@
+{"items":[{	"arName":"الندى بلازا للسياحة",
+	"enName":"El Nada Plaza Tourism",
+	"hotlone":"19615",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"453668",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nada-plaza-tourism/453668?b=2&k=19615&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"453658",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nada-plaza-tourism/453658?b=3&k=19615&l=search",
+	"arName":"6 ش الدقى, الدقى, الجيزة",
+	"enName":"6 Dokki St., Dokki, Giza"
+},
+		{	"profileId":"453663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nada-plaza-tourism/453663?b=1&k=19615&l=search",
+	"arName":"13 عمارات العبور - طريق صلاح سالم, مصر الجديدة, القاهرة",
+	"enName":"13 El Obour Bldgs., Salah Salem Rd., Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,38 @@
+{"items":[{	"arName":"مستشفى سرطان الاطفال مصر",
+	"enName":"Children's Cancer Hospital Egypt",
+	"hotlone":"19057",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"141039",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/children's-cancer-hospital-egypt/141039?b=2&k=19057&l=search",
+	"arName":"1 ش سكة الامام - ارض المدبح القديم, السيدة زينب, القاهرة",
+	"enName":"1 Sekket El Emam St., Ard El Madbah El Qadim, El sayeda zeinab, Cairo"
+},
+		{	"profileId":"563927",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/children's-cancer-hospital-egypt/563927?b=3&k=19057&l=search",
+	"arName":"الخط الساخن, السيدة زينب, القاهرة",
+	"enName":"Hot Line, El sayeda zeinab, Cairo"
+}
+	]
+}, {	"arName":"مؤسسة مستشفى اورام الاطفال",
+	"enName":"Children's Cancer Hospital Foundation",
+	"hotlone":"19057",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"130527",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/children's-cancer-hospital-foundation/130527?b=1&k=19057&l=search",
+	"arName":"1 ش الفسطاط, السيدة زينب, القاهرة",
+	"enName":"1 El Fostat St., El sayeda zeinab, Cairo"
+}
+	]
+}]}

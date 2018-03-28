@@ -1,0 +1,140 @@
+{"items":[{	"arName":"سى اى بى - البنك التجارى الدولى - ماكينة الصراف الالى",
+	"enName":"CIB - Commercial International Bank - ATM",
+	"hotlone":"16644",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"171060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank-_-atm/171060?b=23&k=16644&l=search",
+	"arName":"24 ش شهاب, المهندسين, الجيزة",
+	"enName":"24 Shehab St., Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"سى اى بى - البنك التجارى الدولى",
+	"enName":"CIB - Commercial International Bank",
+	"hotlone":"16644",
+	"arCategory":[
+		"بنوك",
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"Banks",
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"74662",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/74662?b=14&k=16644&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"489963",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/489963?b=21&k=16644&l=search",
+	"arName":"3 ميدان المساحة, الدقى, الجيزة",
+	"enName":"3 El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"79010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/79010?b=11&k=16644&l=search",
+	"arName":"27 ش محيى الدين ابو العز تقاطع ش مصدق, الدقى, الجيزة",
+	"enName":"27 Mohy El Din Abou El Ezz St. Intersection Of Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"489968",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/489968?b=9&k=16644&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"79001",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/79001?b=6&k=16644&l=search",
+	"arName":"166 ش الحجاز, مصر الجديدة, القاهرة",
+	"enName":"166 El Hegaz St., Heliopolis, Cairo"
+},
+		{	"profileId":"79012",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/79012?b=19&k=16644&l=search",
+	"arName":"95 برج السلسلة - طريق الجيش, الازاريطة, الاسكندرية",
+	"enName":"95 El Selsela Tower, El Guish Rd., Azarita, Alexandria"
+},
+		{	"profileId":"79003",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/79003?b=1&k=16644&l=search",
+	"arName":"4 أ ش سراى الجزيرة, الزمالك, القاهرة",
+	"enName":"4 A Saray El Gezirah St., Zamalek, Cairo"
+},
+		{	"profileId":"490032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/490032?b=4&k=16644&l=search",
+	"arName":"26 ش د. احمد مصطفى, النزهة الجديدة, القاهرة",
+	"enName":"26 Dr. Ahmed Mostafa St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"79013",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/79013?b=7&k=16644&l=search",
+	"arName":"2 ش عبد الحكيم الرفاعى امتداد ش عباس العقاد, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"2 Abdel Hakim El Refaey St. Extension Of Abbas El Akkad St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"490034",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/490034?b=10&k=16644&l=search",
+	"arName":"9 ش اللاسلكى تقاطع ش احمد كامل, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"9 El Laselky St. Intersection Of Ahmed Kamel St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"79018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/79018?b=8&k=16644&l=search",
+	"arName":"8 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"8 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"489961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/489961?b=12&k=16644&l=search",
+	"arName":"بالم هيلز, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Palm Hills, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"495738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/495738?b=20&k=16644&l=search",
+	"arName":"عمارات عملاء السفن - - ميناء بدر الجاف, ميناء ادبية, السويس",
+	"enName":"Shipping Agencies Bldgs., , Badr Dry Port, Adabeya port, Suez"
+},
+		{	"profileId":"495739",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/495739?b=16&k=16644&l=search",
+	"arName":"كورنيش النيل - برج الصفا, بنى سويف, بنى سويف",
+	"enName":"Corniche El Nil, El Safa Tower, Benisuef, Benisuef"
+},
+		{	"profileId":"79009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/79009?b=3&k=16644&l=search",
+	"arName":"1 أ ابراج الجزيرة -, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"1 A El Gezirah Towers,, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"78999",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/78999?b=18&k=16644&l=search",
+	"arName":"41 ش جزيرة العرب تقاطع ش وادى النيل, المهندسين, الجيزة",
+	"enName":"41 Geziret El Arab St. Intersection Of Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"542153",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/542153?b=22&k=16644&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"493979",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/493979?b=13&k=16644&l=search",
+	"arName":"المنطقة التجارية - عمارة 6أ, الطور, جنوب سيناء",
+	"enName":"Commercial Zone, Bldg. 6A, EL TUR, El tur, South sinai"
+},
+		{	"profileId":"111184",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/111184?b=15&k=16644&l=search",
+	"arName":"457 طريق الحرية, رشدى, الاسكندرية",
+	"enName":"457 El Horreya Rd., Roushdy, Alexandria"
+},
+		{	"profileId":"490026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/490026?b=2&k=16644&l=search",
+	"arName":"كم 8 - طريق القاهرة السويس الصحراوى - الحى الخامس, مدينة الشروق, القاهرة",
+	"enName":"Km 8, Cairo Suez Desert Rd., 5th District, El sherouk city, Cairo"
+},
+		{	"profileId":"12447",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/12447?b=17&k=16644&l=search",
+	"arName":"21 / 23 برج النيل الادارى - ش شارل ديجول - ش الجيزة سابقا, الجيزة, الجيزة",
+	"enName":"21 /23 El Nil Administrative Tower, Charles De Gaulle St. - Giza St. Previously, Giza, Giza"
+},
+		{	"profileId":"493965",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/493965?b=5&k=16644&l=search",
+	"arName":"18 ش نزيه خليفة, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"18 Nazih Khalifa St., El Korba, Heliopolis, Cairo"
+}
+	]
+}]}

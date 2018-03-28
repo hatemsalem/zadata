@@ -1,0 +1,17 @@
+{"items":[{	"arName":"سوبريمو للمطابخ",
+	"enName":"Superemo Kitchens",
+	"hotlone":"16081",
+	"arCategory":[
+		"مطابخ"
+	],
+	"enCategories":[
+		"Kitchens"
+	],
+	"contacts":[
+		{	"profileId":"531873",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/superemo-kitchens/531873?b=1&k=16081&l=search",
+	"arName":"25 ب ش الثروة المعدنية, حدائق الاهرام, الهرم, الجيزة",
+	"enName":"25 B El Tharwa El Maadaneya St., Hadayek El Ahram, El haram, Giza"
+}
+	]
+}]}

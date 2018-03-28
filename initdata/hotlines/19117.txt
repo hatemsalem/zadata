@@ -1,0 +1,22 @@
+{"items":[{	"arName":"اتكو للاستثمار والتنمية",
+	"enName":"Etco For Investment & Development",
+	"hotlone":"19117",
+	"arCategory":[
+		"الومنيوم"
+	],
+	"enCategories":[
+		"Aluminum"
+	],
+	"contacts":[
+		{	"profileId":"576865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etco-for-investment-&-development/576865?b=2&k=19117&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"517276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etco-for-investment-&-development/517276?b=1&k=19117&l=search",
+	"arName":"القطعة 33 - المجاورة السادسة - الحى الرابع, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 33, 6th Neighbourhood, 4th District, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

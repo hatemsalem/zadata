@@ -1,0 +1,66 @@
+{"items":[{	"arName":"جورميه ايجيبت",
+	"enName":"Gourmet Egypt",
+	"hotlone":"19339",
+	"arCategory":[
+		"مأكولات راقية",
+		"اغذية منتجون ومعالجة ومعدات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Gourmet Foods",
+		"Food Producers, Processors & Equipment",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"130210",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/130210?b=1&k=19339&l=search",
+	"arName":"3 ابراج بدر - الطريق الدائرى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"3 Badr Towers, Ring Rd., Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"428485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/428485?b=7&k=19339&l=search",
+	"arName":"3 ش د. طه حسين, الزمالك, القاهرة",
+	"enName":"3 Dr. Taha Hussein St., Zamalek, Cairo"
+},
+		{	"profileId":"428584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/428584?b=10&k=19339&l=search",
+	"arName":"القطعة 33 - المجاورة السادسة - الحى الرابع, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 33, 6th Neighbourhood, 4th District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"509313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/509313?b=6&k=19339&l=search",
+	"arName":"2 ش 218, دجلة, المعادى, القاهرة",
+	"enName":"2 Rd. 218, Degla, Maadi, Cairo"
+},
+		{	"profileId":"453339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/453339?b=2&k=19339&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"509312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/509312?b=8&k=19339&l=search",
+	"arName":"القطعة 13، 14 - ش 17 - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 13, 14, Rd. 17, 1st District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"178886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/178886?b=4&k=19339&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"509311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/509311?b=9&k=19339&l=search",
+	"arName":"فيلا 4 - ش 21, المعادى, القاهرة",
+	"enName":"Villa 4, Rd. 21, Maadi, Cairo"
+},
+		{	"profileId":"428588",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/428588?b=5&k=19339&l=search",
+	"arName":"3 ش البرازيل متفرع من ش 26 يوليو, الزمالك, القاهرة",
+	"enName":"3 Brazil St. Off 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"130209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gourmet-egypt/130209?b=3&k=19339&l=search",
+	"arName":"3 ابراج بدر - الطريق الدائرى, زهراء المعادى, المعادى, القاهرة",
+	"enName":"3 Badr Towers, Ring Rd., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}]}

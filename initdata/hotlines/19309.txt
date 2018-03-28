@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ايس هارد وير ايجيبت",
+	"enName":"ACE Hardware Egypt",
+	"hotlone":"19309",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"538994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ace-hardware-egypt/538994?b=2&k=19309&l=search",
+	"arName":"كم 38 - طريق مصر اسماعيلية الصحراوى, مدينة الشروق, القاهرة",
+	"enName":"Km 38, Misr Ismaileya Desert Rd., El sherouk city, Cairo"
+},
+		{	"profileId":"466239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ace-hardware-egypt/466239?b=1&k=19309&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

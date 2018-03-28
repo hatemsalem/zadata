@@ -1,0 +1,252 @@
+{"items":[{	"arName":"جمعية رسالة للاعمال الخيرية",
+	"enName":"Resala Charity Organization",
+	"hotlone":"19450",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"535198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/535198?b=18&k=19450&l=search",
+	"arName":"ش القليوبية, قنطرة غرب, الاسماعيلية",
+	"enName":"El Qalioubeya St., EL QANTARAH GHARB, Qantarah gharb, Ismaileya"
+},
+		{	"profileId":"432278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432278?b=26&k=19450&l=search",
+	"arName":"1 ش الفلكى, طوخ, القليوبية",
+	"enName":"1 El Falaky St., Tukh, Kaliobeya"
+},
+		{	"profileId":"432234",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432234?b=33&k=19450&l=search",
+	"arName":"ش مسجد التوحيد تقسيم العطار, بلقاس, الدقهلية",
+	"enName":"Masged El Tawhid St. El Attar Division, Belqas, El dakahleya"
+},
+		{	"profileId":"572219",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/572219?b=29&k=19450&l=search",
+	"arName":"ش زاهر جلال, وسط البلد, مرسى مطروح",
+	"enName":"Zaher Galal St., Downtown, Marsa matrouh"
+},
+		{	"profileId":"432219",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432219?b=44&k=19450&l=search",
+	"arName":"ش سعد زغلول - عمارة د. مصطفى حزين - الدور 2, وسط البلد, اسوان",
+	"enName":"Saad Zaghloul St., Dr. Mosatafa Hozayen Bldg., Floor 2, Downtown, Aswan"
+},
+		{	"profileId":"572238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/572238?b=30&k=19450&l=search",
+	"arName":"الوادى, رأس غارب, البحر الاحمر",
+	"enName":"El Wadi, RAS GHAREB, Ras ghareb, Red sea"
+},
+		{	"profileId":"446463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/446463?b=34&k=19450&l=search",
+	"arName":"3 ش صلاح سالم امتداد ش بورسعيد, قويسنا, المنوفية",
+	"enName":"3 Salah Salem St. Extension Of Port Said St., Quwasnah, El monofeya"
+},
+		{	"profileId":"447533",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/447533?b=14&k=19450&l=search",
+	"arName":"ش الرحمن متفرع من ش احمد ماهر, المنصورة, الدقهلية",
+	"enName":"El Rahman St. Off Ahmed Maher St., El mansoura, El dakahleya"
+},
+		{	"profileId":"446521",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/446521?b=35&k=19450&l=search",
+	"arName":"ش الجيش - عمارة احمد طلبة - الدور 3, الصف, الجيزة",
+	"enName":"El Guish St., Ahmed Tolba Bldg., Floor 3, El saff, Giza"
+},
+		{	"profileId":"143073",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/143073?b=2&k=19450&l=search",
+	"arName":"3 ش زكى رستم متفرع من ش محمد حسنين هيكل, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"3 Zaky Rostom St. Off Mohamed Hassanein Heikal St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"129240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/129240?b=12&k=19450&l=search",
+	"arName":"13 ش الحرية - برج القدس - الدور 1 شقة 2, 4, الملاحة, السويس",
+	"enName":"13 El Horreya St., El Qods Tower, Floor 1 Flat 2, 4, El malaha, Suez"
+},
+		{	"profileId":"99058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/99058?b=19&k=19450&l=search",
+	"arName":"44 ش توت عنخ امون, سموحة, الاسكندرية",
+	"enName":"44 Tut Ankh Amoun St., Semouha, Alexandria"
+},
+		{	"profileId":"143074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/143074?b=3&k=19450&l=search",
+	"arName":"16 أ ش يوسف زكى, حلوان, القاهرة",
+	"enName":"16 A Youssef Zaky St., Helwan, Cairo"
+},
+		{	"profileId":"467026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/467026?b=42&k=19450&l=search",
+	"arName":"المجاورة الثالثة - مركز الحى الاول, العاشر من رمضان, الشرقية",
+	"enName":"3rd Neighbourhood, 1St District Center, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"544056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/544056?b=11&k=19450&l=search",
+	"arName":"ش النصر, الدهار, الغردقة",
+	"enName":"El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"432282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432282?b=8&k=19450&l=search",
+	"arName":"1 ش السينما القديمة متفرع من ش سعد زغلول, الحوامدية, الجيزة",
+	"enName":"1 El Cinema El Qadima St. Off Saad Zaghloul St., El hawamdeya, Giza"
+},
+		{	"profileId":"172581",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/172581?b=20&k=19450&l=search",
+	"arName":"قرية الغار, الزقازيق, الشرقية",
+	"enName":"El Ghar Village, El zagazig, El sharkeya"
+},
+		{	"profileId":"432461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432461?b=47&k=19450&l=search",
+	"arName":"ميدان ماجدة, الحى السابع, السادس من اكتوبر, الجيزة",
+	"enName":"Magda Sq., 7th District, 6th of october, Giza"
+},
+		{	"profileId":"329920",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/329920?b=24&k=19450&l=search",
+	"arName":"ش التحرير, ابو كبير, الشرقية",
+	"enName":"El Tahrir St., Abou kebeir, El sharkeya"
+},
+		{	"profileId":"432269",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432269?b=45&k=19450&l=search",
+	"arName":"5 ش الحجاز - منشية المصرى, مغاغة, المنيا",
+	"enName":"5 El Hegaz St., Mansheyet El Masry, Magaghah, El menia"
+},
+		{	"profileId":"89384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/89384?b=1&k=19450&l=search",
+	"arName":"5 ش منسى ياسين, الطوابق, فيصل, الجيزة",
+	"enName":"5 Mansy Yassin St., El Tawabeq, Faisal, Giza"
+},
+		{	"profileId":"432301",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432301?b=15&k=19450&l=search",
+	"arName":"ش عبد الحليم محمود متفرع من ش الجمهورية, سوهاج, سوهاج",
+	"enName":"Abdel Halim Mahmoud St. Off El Gomhoureya St., Sohag, Sohag"
+},
+		{	"profileId":"129234",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/129234?b=21&k=19450&l=search",
+	"arName":"2 ش عثمان الصاوى متفرع من ش النبوى المهندس, المسلة, الفيوم",
+	"enName":"2 Othman El Sawy St. Off El Nabawy El Mohandes St., El massalah, El fayoum"
+},
+		{	"profileId":"432246",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432246?b=36&k=19450&l=search",
+	"arName":"29 ش محمد فريد - برج المودة - الدور 2, زفتى, الغربية",
+	"enName":"29 Mohamed Farid St., El Mawadda Tower, Floor 2, Zefta, El gharbeya"
+},
+		{	"profileId":"511851",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/511851?b=28&k=19450&l=search",
+	"arName":"ش الحلو تقاطع ش حسن رضوان - برج جوهرة الحلو, طنطا, الغربية",
+	"enName":"El Helw St. Intersection Of Hassan Radwan St., Gawharet El Helw Tower, Tanta, El gharbeya"
+},
+		{	"profileId":"432469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432469?b=16&k=19450&l=search",
+	"arName":"ش فريد متفرع من ش مقبل, مقبل, بنى سويف",
+	"enName":"Farid St. Off Moqbel St., Mokbel, Benisuef"
+},
+		{	"profileId":"298439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/298439?b=31&k=19450&l=search",
+	"arName":"21 طريق القاهرة اسكندرية الزراعى, شبرا الخيمة, القليوبية",
+	"enName":"21 Cairo Alex Agricultural Rd., Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"343691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/343691?b=23&k=19450&l=search",
+	"arName":"ش عبد العال متفرع من ش المركز, دسوق, كفر الشيخ",
+	"enName":"Abdel Aal St. Off El Markaz St., Disuq, Kafr el sheikh"
+},
+		{	"profileId":"369344",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/369344?b=25&k=19450&l=search",
+	"arName":"11 ش مصدق, الدقى, الجيزة",
+	"enName":"11 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"66426",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/66426?b=5&k=19450&l=search",
+	"arName":"8 /3د تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"8 /3D El Laselky Division, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"441358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/441358?b=10&k=19450&l=search",
+	"arName":"ش الثورة - عمارة د. طلعت مطاوع - الدور 3, بلقاس, الدقهلية",
+	"enName":"El Thawra St., Dr. Talaat Motawea Bldg., Floor 3, Belqas, El dakahleya"
+},
+		{	"profileId":"186027",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/186027?b=41&k=19450&l=search",
+	"arName":"4 ش النادى الرياضى تقسيم ابو عياد, بنها, القليوبية",
+	"enName":"4 El Nady El Riady St. Abou Ayyad Division, Banha, Kaliobeya"
+},
+		{	"profileId":"298651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/298651?b=22&k=19450&l=search",
+	"arName":"ش الجلاء البحرى, شبين الكوم, المنوفية",
+	"enName":"El Galaa El Bahary St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"99360",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/99360?b=40&k=19450&l=search",
+	"arName":"45 ش مجمع المصالح الحكومية متفرع من ش المحافظة, الزقازيق, الشرقية",
+	"enName":"45 Mogamaa El Masaleh El Hokoumeya St. Off El Mohafza St., El zagazig, El sharkeya"
+},
+		{	"profileId":"172559",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/172559?b=13&k=19450&l=search",
+	"arName":"امتداد ش فلسطين, بيلا, كفر الشيخ",
+	"enName":"Extension Of Palestine St., Beilla, Kafr el sheikh"
+},
+		{	"profileId":"359488",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/359488?b=32&k=19450&l=search",
+	"arName":"ش احمد عرابى, ههيا, الشرقية",
+	"enName":"Ahmed Orabi St., Hehia, El sharkeya"
+},
+		{	"profileId":"447535",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/447535?b=48&k=19450&l=search",
+	"arName":"فيلا 15 - - الهلال, الدهار, الغردقة",
+	"enName":"Villa 15, , El Helal, Dahar, Hurghada"
+},
+		{	"profileId":"172539",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/172539?b=7&k=19450&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"447539",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/447539?b=9&k=19450&l=search",
+	"arName":"ش بورسعيد, كوم امبو, اسوان",
+	"enName":"Port Said St., Kom ombo, Aswan"
+},
+		{	"profileId":"432470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432470?b=27&k=19450&l=search",
+	"arName":"ش التكوين المهنى متفرع من ش التليفزيون, الاقصر, الاقصر",
+	"enName":"El Takween El Mehany St. Off Television St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"432471",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432471?b=17&k=19450&l=search",
+	"arName":"ش فندق المصطفى متفرع من ش التليفزيون, الاقصر, الاقصر",
+	"enName":"Fondoq El Mostafa St. Off Television St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"432493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432493?b=38&k=19450&l=search",
+	"arName":"ش منير واصف, ارمنت, الاقصر",
+	"enName":"Monir Wasef St., Arment, Luxor"
+},
+		{	"profileId":"129229",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/129229?b=39&k=19450&l=search",
+	"arName":"33 ش الجلاء امتداد ش المعهد الدينى - التقسيم السياحى, القناطر الخيرية, القليوبية",
+	"enName":"33 El Galaa St. Extension Of El Maahad El Diny St., Touristic Division, El qanatir el khayriyah, Kaliobeya"
+},
+		{	"profileId":"511847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/511847?b=43&k=19450&l=search",
+	"arName":"تقسيم جورجينا, اجا, الدقهلية",
+	"enName":"Georgina Division, Aga, El dakahleya"
+},
+		{	"profileId":"432276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432276?b=46&k=19450&l=search",
+	"arName":"31 ش الشعراوى - عمارة خالد بن الوليد - الدور 1 شقة 3, بور فؤاد, بور سعيد",
+	"enName":"31 El Shaarawy St., Khaled Ibn El Walid Bldg., Floor 1 Flat 3, Port fouad, Port said"
+},
+		{	"profileId":"109616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/109616?b=4&k=19450&l=search",
+	"arName":"9 ش احمد عبد الخالق متفرع من ش الحجاز, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"enName":"9 Ahmed Abdel Khaleq St. Off El Hegaz St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"89386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/89386?b=6&k=19450&l=search",
+	"arName":"24 ش المدينة المنورة متفرع من ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"enName":"24 El Madina El Monawara St. Off Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+},
+		{	"profileId":"432330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/resala-charity-organization/432330?b=37&k=19450&l=search",
+	"arName":"6 ش السادات متفرع من ش ابو دهشان, فاقوس, الشرقية",
+	"enName":"6 El Sadat St. Off Abou Dahshan St., Faqus, El sharkeya"
+}
+	]
+}]}

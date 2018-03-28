@@ -1,0 +1,94 @@
+{"items":[{	"arName":"شطا لاقمشة الستائر والمفروشات",
+	"enName":"Shatta Fabrics & Curtains",
+	"hotlone":"19116",
+	"arCategory":[
+		"منسوجات",
+		"مفروشات"
+	],
+	"enCategories":[
+		"Textiles",
+		"Bedding"
+	],
+	"contacts":[
+		{	"profileId":"568726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/568726?b=14&k=19116&l=search",
+	"arName":"49 ش الحسين متفرع من ش محيى الدين ابو العز, الدقى, الجيزة",
+	"enName":"49 El Hussein St. Off Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"397810",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/397810?b=13&k=19116&l=search",
+	"arName":"72 ش محمد عبده - باب الحرس, دمياط, دمياط",
+	"enName":"72 Mohamed Abdou St., Bab El Haras, Damietta, Damietta"
+},
+		{	"profileId":"46403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/46403?b=15&k=19116&l=search",
+	"arName":"8 طريق القاهرة اسكندرية الزراعى - ميت حلفا, قليوب, القليوبية",
+	"enName":"8 Cairo Alex Agricultural Rd., Meet Halfa, Qalyub, Kaliobeya"
+},
+		{	"profileId":"568722",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/568722?b=3&k=19116&l=search",
+	"arName":"91 ش الازهر, الازهر, القاهرة",
+	"enName":"91 El Azhar St., Azhar, Cairo"
+},
+		{	"profileId":"568734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/568734?b=4&k=19116&l=search",
+	"arName":"سوق القنال الدولى, جسر السويس, القاهرة",
+	"enName":"Souk El Qanal El Dawly, Gesr el suez, Cairo"
+},
+		{	"profileId":"568723",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/568723?b=16&k=19116&l=search",
+	"arName":"مجمع البنوك, مدينة العبور, القليوبية",
+	"enName":"Banks Complex, Obour city, Kaliobeya"
+},
+		{	"profileId":"568725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/568725?b=10&k=19116&l=search",
+	"arName":"13 عمارات ابو غزالة - ش جسر السويس, جسر السويس, القاهرة",
+	"enName":"13 Abou Ghazala Bldgs., Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"397805",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/397805?b=12&k=19116&l=search",
+	"arName":"95 ب ابراج الشمس - ش الميرغنى متفرع من ش الحرية, مصر الجديدة, القاهرة",
+	"enName":"95 B El Shams Towers, El Merghany St. Off El Horreya St., Heliopolis, Cairo"
+},
+		{	"profileId":"538591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/538591?b=6&k=19116&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"397807",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/397807?b=9&k=19116&l=search",
+	"arName":"261 ش احمد زكى, دار السلام, القاهرة",
+	"enName":"261 Ahmed Zaky St., Dar el salam, Cairo"
+},
+		{	"profileId":"441863",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/441863?b=1&k=19116&l=search",
+	"arName":"4 عمارات الشركة السعودية - ش النزهة, مصر الجديدة, القاهرة",
+	"enName":"4 Al Saudia Co. Bldgs., El Nozha St., Heliopolis, Cairo"
+},
+		{	"profileId":"397802",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/397802?b=8&k=19116&l=search",
+	"arName":"27 ش نصر احمد زكى متفرع من ش البطراوى, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"27 Nasr Ahmed Zaky St. Off El Batrawy St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"571197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/571197?b=7&k=19116&l=search",
+	"arName":"امتداد ش جسر السويس - سوق القنال الدولى, جسر السويس, القاهرة",
+	"enName":"Extension Of Gesr El Suez St., Souk El Canal El Dawly, Gesr el suez, Cairo"
+},
+		{	"profileId":"397809",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/397809?b=2&k=19116&l=search",
+	"arName":"70 ش احمد عرابى متفرع من ش احمد عصمت, عين شمس الشرقية, القاهرة",
+	"enName":"70 Ahmed Orabi St. Off Ahmed Essmat St., Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"146417",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/146417?b=11&k=19116&l=search",
+	"arName":"91 ش الازهر, الازهر, القاهرة",
+	"enName":"91 Azhar St., Azhar, Cairo"
+},
+		{	"profileId":"146415",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/146415?b=5&k=19116&l=search",
+	"arName":"امتداد ش جسر السويس - سوق القنال الدولى, جسر السويس, القاهرة",
+	"enName":"Extension Of Gesr El Suez St., Souk El Canal El Dawly, Gesr el suez, Cairo"
+}
+	]
+}]}

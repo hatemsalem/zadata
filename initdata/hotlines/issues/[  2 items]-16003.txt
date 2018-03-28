@@ -1,0 +1,43 @@
+{"items":[{	"arName":"ميرميد للقرى السياحية",
+	"enName":"Mermaid Resorts",
+	"hotlone":"16003",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"232649",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mermaid-resorts/232649?b=1&k=16003&l=search",
+	"arName":"110 ش الميرغنى تقاطع ش الثورة, مصر الجديدة, القاهرة",
+	"enName":"110 El Merghany St. Intersection Of El Thawra St., Heliopolis, Cairo"
+},
+		{	"profileId":"232656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mermaid-resorts/232656?b=2&k=16003&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"سانتا كلوز",
+	"enName":"Santa Claus",
+	"hotlone":"16003",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"455254",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/santa-claus/455254?b=4&k=16003&l=search",
+	"arName":"110 ش الميرغنى تقاطع ش الثورة - الدور 1 شقة 12, مصر الجديدة, القاهرة",
+	"enName":"110 El Merghany St. Intersection Of El Thawra St., Floor 1 Flat 12, Heliopolis, Cairo"
+},
+		{	"profileId":"455263",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/santa-claus/455263?b=3&k=16003&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

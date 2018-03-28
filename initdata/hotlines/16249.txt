@@ -1,0 +1,24 @@
+{"items":[{	"arName":"ايه اند ام للتطوير",
+	"enName":"A & M Investment",
+	"hotlone":"16249",
+	"arCategory":[
+		"انشاءات ومقاولات",
+		"عقارات"
+	],
+	"enCategories":[
+		"Construction",
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"551650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/a-&-m-investment/551650?b=1&k=16249&l=search",
+	"arName":"1 برج الجزيرة - ش 153, المعادى, القاهرة",
+	"enName":"1 El Gezirah Bldg., 153 St., Maadi, Cairo"
+},
+		{	"profileId":"559689",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/a-&-m-investment/559689?b=2&k=16249&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}]}

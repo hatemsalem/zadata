@@ -1,0 +1,89 @@
+{"items":[{	"arName":"ان بى جى - البنك الاهلى اليونانى",
+	"enName":"NBG - National Bank Of Greece",
+	"hotlone":"16272",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"161048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/161048?b=13&k=16272&l=search",
+	"arName":"32 ش هارون ميدان المساحة, الدقى, الجيزة",
+	"enName":"32 Haroun St. El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"218361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/218361?b=14&k=16272&l=search",
+	"arName":"ميدان النجدة, الحى الرابع, السادس من اكتوبر, الجيزة",
+	"enName":"El Nagdah Sq., 4th District, 6th of october, Giza"
+},
+		{	"profileId":"486641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/486641?b=15&k=16272&l=search",
+	"arName":"20 ش وادى النيل, المهندسين, الجيزة",
+	"enName":"20 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"187430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/187430?b=10&k=16272&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"customer service, Dokki, Giza"
+},
+		{	"profileId":"307384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307384?b=3&k=16272&l=search",
+	"arName":"103 ش البنوك, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"103 El Bonouk St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"203048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/203048?b=8&k=16272&l=search",
+	"arName":"132 ش الهرم, الكوم الاخضر, الهرم, الجيزة",
+	"enName":"132 Haram St., El Koum El Akhdar, El haram, Giza"
+},
+		{	"profileId":"307141",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307141?b=11&k=16272&l=search",
+	"arName":"5 ش فوزى معاذ, سموحة, الاسكندرية",
+	"enName":"5 Fawzy Moaz St., Semouha, Alexandria"
+},
+		{	"profileId":"307199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307199?b=1&k=16272&l=search",
+	"arName":"30 ش عبد الخالق ثروت, وسط البلد, القاهرة",
+	"enName":"30 Abdel Khaleq Tharwat St., Downtown, Cairo"
+},
+		{	"profileId":"307160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307160?b=12&k=16272&l=search",
+	"arName":"125 طريق الحرية, باب شرق, الاسكندرية",
+	"enName":"125 El Horreya Rd., Bab shark, Alexandria"
+},
+		{	"profileId":"220670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/220670?b=5&k=16272&l=search",
+	"arName":"2 ش العزيز عثمان, الزمالك, القاهرة",
+	"enName":"2 El Aziz Othman St., Zamalek, Cairo"
+},
+		{	"profileId":"307151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307151?b=7&k=16272&l=search",
+	"arName":"543 طريق الحرية, جليم, الاسكندرية",
+	"enName":"543 El Horreya Rd., Glim, Alexandria"
+},
+		{	"profileId":"307238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307238?b=2&k=16272&l=search",
+	"arName":"24 ش عمر بن الخطاب ميدان الاسماعيلية, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"enName":"24 Omar Ibn El Khattab St. El Ismaileya Sq., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"307403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307403?b=9&k=16272&l=search",
+	"arName":"8 ش البنوك متفرع من طريق المطار - تقسيم الكوثر - مبارك 2, الكوثر, الغردقة",
+	"enName":"8 El Bonouk St. Off Airport Rd., El Kawthar Division, Mubarak 2, El kawther, Hurghada"
+},
+		{	"profileId":"307423",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307423?b=4&k=16272&l=search",
+	"arName":"1 برج المعادى بالاس - ش 9 ميدان المحطة, المعادى, القاهرة",
+	"enName":"1 Maadi Palace Tower, Rd. 9 El Mahatta Sq., Maadi, Cairo"
+},
+		{	"profileId":"307213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307213?b=6&k=16272&l=search",
+	"arName":"43 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"enName":"43 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"باتشى اى لوتشى",
+	"enName":"Pace e Luce",
+	"hotlone":"16507",
+	"arCategory":[
+		"مراكز تجميل"
+	],
+	"enCategories":[
+		"Beauty Salons"
+	],
+	"contacts":[
+		{	"profileId":"393994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pace-e-luce/393994?b=1&k=16507&l=search",
+	"arName":"40 ش الثورة, ارض الجولف, مصر الجديدة, القاهرة",
+	"enName":"40 El Thawra St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

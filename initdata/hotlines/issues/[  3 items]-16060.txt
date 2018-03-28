@@ -1,0 +1,64 @@
+{"items":[{	"arName":"بنك الشفاء المصرى",
+	"enName":"Egyptian Cure Bank",
+	"hotlone":"16060",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"325955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-cure-bank/325955?b=3&k=16060&l=search",
+	"arName":"القطعة 44 - محور جمال عبد الناصر, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 44, Gamal Abdel Nasser Spine, 3rd Compound, New cairo, Cairo"
+},
+		{	"profileId":"511228",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-cure-bank/511228?b=4&k=16060&l=search",
+	"arName":"خدمة العملاء, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 3rd Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بنك الطعام المصرى",
+	"enName":"Egyptian Food Bank",
+	"hotlone":"16060",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"113644",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-food-bank/113644?b=6&k=16060&l=search",
+	"arName":"خدمة العملاء, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 3rd Compound, New cairo, Cairo"
+},
+		{	"profileId":"140994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-food-bank/140994?b=5&k=16060&l=search",
+	"arName":"القطعة 44 - محور جمال عبد الناصر, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 44, Gamal Abdel Nasser Spine, 3rd Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بنك الكساء المصرى",
+	"enName":"Egyptian Clothing Bank",
+	"hotlone":"16060",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"471846",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-clothing-bank/471846?b=2&k=16060&l=search",
+	"arName":"القطعة 44 - محور جمال عبد الناصر, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 44, Gamal Abdel Nasser Spine, 3rd Compound, New cairo, Cairo"
+},
+		{	"profileId":"471850",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-clothing-bank/471850?b=1&k=16060&l=search",
+	"arName":"خدمة العملاء, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 3rd Compound, New cairo, Cairo"
+}
+	]
+}]}

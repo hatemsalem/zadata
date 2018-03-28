@@ -1,0 +1,62 @@
+{"items":[{	"arName":"يونيفرسال جروب",
+	"enName":"Universal Group Co.",
+	"hotlone":"19933",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"461847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./461847?b=9&k=19933&l=search",
+	"arName":"16 ش النيل الابيض ميدان لبنان - برج مكة, المهندسين, الجيزة",
+	"enName":"16 El Nil El Abyad St. Lebanon Sq., Mekka Tower, Mohandeseen, Giza"
+},
+		{	"profileId":"167852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./167852?b=3&k=19933&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"126070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./126070?b=6&k=19933&l=search",
+	"arName":"10 ش البستان, وسط البلد, قنا",
+	"enName":"10 El Bostan St., Downtown, Qena"
+},
+		{	"profileId":"379908",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./379908?b=4&k=19933&l=search",
+	"arName":"61 ش سوريا, المهندسين, الجيزة",
+	"enName":"61 Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"391452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./391452?b=2&k=19933&l=search",
+	"arName":"27 ش محمد حسن الجمل متفرع من ش عباس العقاد, مدينة نصر, القاهرة",
+	"enName":"27 Mohamed Hassan El Gamal St. Off Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"5896",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./5896?b=1&k=19933&l=search",
+	"arName":"20 ش سوريا, المهندسين, الجيزة",
+	"enName":"20 Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"126069",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./126069?b=8&k=19933&l=search",
+	"arName":"23 ش عمر بن عبد العزيز, حى شرق, اسيوط",
+	"enName":"23 Omar Ibn Abdel Aziz St., Shark district, Assyout"
+},
+		{	"profileId":"449596",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./449596?b=7&k=19933&l=search",
+	"arName":"الحى الثالث, الشيخ زايد, الاسماعيلية",
+	"enName":"3rd District, El sheikh zayed, Ismaileya"
+},
+		{	"profileId":"108561",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./108561?b=5&k=19933&l=search",
+	"arName":"القطعة 147، 148، 149 - ش البرنس - المنطقة الصناعية الثانية, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 147, 148, 149, El Prince St., 2nd Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"153608",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./153608?b=10&k=19933&l=search",
+	"arName":"1 ش عمر بن الخطاب - ارض الحرية, بنى سويف, بنى سويف",
+	"enName":"1 Omar Ibn El Khattab St., Ard El Horreya, Benisuef, Benisuef"
+}
+	]
+}]}

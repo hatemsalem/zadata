@@ -1,0 +1,52 @@
+{"items":[{	"arName":"هاى بوينت للاثاث",
+	"enName":"High Point Furniture",
+	"hotlone":"19026",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"370045",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/370045?b=4&k=19026&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"509307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/509307?b=2&k=19026&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"544516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/544516?b=5&k=19026&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"133840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/133840?b=8&k=19026&l=search",
+	"arName":"131 ش البرت الاول - الدور 1, سموحة, الاسكندرية",
+	"enName":"131 Albert El Awal St., Floor 1, Semouha, Alexandria"
+},
+		{	"profileId":"133838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/133838?b=7&k=19026&l=search",
+	"arName":"77 ش شهاب, المهندسين, الجيزة",
+	"enName":"77 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"88567",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/88567?b=1&k=19026&l=search",
+	"arName":"1 عمارات المروة - ش احمد تيسير متفرع من ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"1 El Marwa Bldgs., Ahmed Tayseer St. Off El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"182062",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/182062?b=3&k=19026&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"392116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/392116?b=6&k=19026&l=search",
+	"arName":"39 ش سوريا - عمارة رجال الاعمال, رشدى, الاسكندرية",
+	"enName":"39 Syria St., Regal El Aamal Bldg., Roushdy, Alexandria"
+}
+	]
+}]}

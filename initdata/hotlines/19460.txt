@@ -1,0 +1,58 @@
+{"items":[{	"arName":"ام تى اى",
+	"enName":"MTI",
+	"hotlone":"19460",
+	"arCategory":[
+		"تليفونات محمولة",
+		"سيارات - مراكز اصلاح وخدمات ومعدات",
+		"سيارات - قطع غيار وكماليات",
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Mobile Telephones",
+		"Cars - Repairing & Servicing Equipment",
+		"Cars - Parts & Accessories",
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"43731",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti/43731?b=1&k=19460&l=search",
+	"arName":"18 عمارات العبور - طريق صلاح سالم - الدور 2, مدينة نصر, القاهرة",
+	"enName":"18 El Obour Bldgs., Salah Salem Rd., Floor 2, Nasr city, Cairo"
+},
+		{	"profileId":"462801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti/462801?b=5&k=19460&l=search",
+	"arName":"16 ش جوزيف تيتو, النزهة الجديدة, القاهرة",
+	"enName":"16 Joseph Tito St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"73556",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti/73556?b=7&k=19460&l=search",
+	"arName":"القطعة أ - - المنطقة الصناعية A3, العاشر من رمضان, الشرقية",
+	"enName":"Plot A, , industrial Zone A3, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"9005",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti/9005?b=4&k=19460&l=search",
+	"arName":"9 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"enName":"9 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"474371",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti/474371?b=8&k=19460&l=search",
+	"arName":"القطعة 12 - - السوق التجارى القديم, السوق القديم, شرم الشيخ",
+	"enName":"Plot 12, , Old Commercial Market, El souk el kadim, Sharm el sheikh"
+},
+		{	"profileId":"474444",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti/474444?b=6&k=19460&l=search",
+	"arName":"33 ش احمد انسى, حلوان, القاهرة",
+	"enName":"33 Ahmed Onsy St., Helwan, Cairo"
+},
+		{	"profileId":"569775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti/569775?b=2&k=19460&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"101721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mti/101721?b=3&k=19460&l=search",
+	"arName":"116 ش جوزيف تيتو, النزهة الجديدة, القاهرة",
+	"enName":"116 Joseph Tito St., El nozha el gadida, Cairo"
+}
+	]
+}]}

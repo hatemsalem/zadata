@@ -1,0 +1,67 @@
+{"items":[{	"arName":"سكيب للدهانات",
+	"enName":"Scib Paints",
+	"hotlone":"16815",
+	"arCategory":[
+		"دهان وطلاء"
+	],
+	"enCategories":[
+		"Paints & Coatings"
+	],
+	"contacts":[
+		{	"profileId":"214585",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/214585?b=4&k=16815&l=search",
+	"arName":"السوق التجارى - محل 114, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Shop 114, Al rehab city, Cairo"
+},
+		{	"profileId":"373787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/373787?b=6&k=16815&l=search",
+	"arName":"1 /أ ابراج النصر - ش جامعة الازهر - الدور 1 شقة 104, اسيوط, اسيوط",
+	"enName":"1 /A El Nasr Towers, Gamaet El Azhar St., Floor 1 Flat 104, Assyout, Assyout"
+},
+		{	"profileId":"113757",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/113757?b=8&k=16815&l=search",
+	"arName":"ش الزهراء, حى شرق, سوهاج",
+	"enName":"El Zahraa St., Shark district, Sohag"
+},
+		{	"profileId":"60238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/60238?b=3&k=16815&l=search",
+	"arName":"17 ش بهجت على, الزمالك, القاهرة",
+	"enName":"17 Bahgat Aly St., Zamalek, Cairo"
+},
+		{	"profileId":"60237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/60237?b=2&k=16815&l=search",
+	"arName":"10 ش على الروبى متفرع من ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"enName":"10 Aly El Rouby St. Off El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"192720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/192720?b=7&k=16815&l=search",
+	"arName":"31 ميدان فيكتور عمانويل, سموحة, الاسكندرية",
+	"enName":"31 Victor Emanuel Sq., Semouha, Alexandria"
+},
+		{	"profileId":"373782",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/373782?b=5&k=16815&l=search",
+	"arName":"ش دير مارمينا متفرع من ش الحجاز, الدهار, الغردقة",
+	"enName":"Deir Mar Mena St. Off El Hegaz St., Dahar, Hurghada"
+},
+		{	"profileId":"373818",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/373818?b=10&k=16815&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"373729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/373729?b=9&k=16815&l=search",
+	"arName":"طريق القاهرة اسكندرية الزراعى - ميت حلفا, قليوب, القليوبية",
+	"enName":"Cairo Alex Agricultural Rd., Meet Halfa, Qalyub, Kaliobeya"
+},
+		{	"profileId":"85494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/85494?b=1&k=16815&l=search",
+	"arName":"القطعة 3/1/ب - ب - - المنطقة الصناعية الرابعة, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 1/3/ B - B, , 4Th Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"373843",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scib-paints/373843?b=11&k=16815&l=search",
+	"arName":"القطعة 17 - - المنطقة الصناعية الرابعة - منطقة التوسعات الشمالية - منطقة المطورون - مجمع بولاريس, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"enName":"Plot 17, , 4th Industrial, Northern Extentions Area, Developers Area, Bolares Complex, Industrial Zone, 6th of october, Giza"
+}
+	]
+}]}

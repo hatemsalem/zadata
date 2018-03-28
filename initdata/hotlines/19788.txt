@@ -1,0 +1,22 @@
+{"items":[{	"arName":"ابو حته للسيارات",
+	"enName":"Abu Hetta Automotive",
+	"hotlone":"19788",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"179144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-hetta-automotive/179144?b=2&k=19788&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"175921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-hetta-automotive/175921?b=1&k=19788&l=search",
+	"arName":"73 طريق النصر, مدينة نصر, القاهرة",
+	"enName":"73 El Nasr Rd., Nasr city, Cairo"
+}
+	]
+}]}

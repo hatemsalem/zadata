@@ -1,0 +1,22 @@
+{"items":[{	"arName":"معالم جروب للتنمية والتعمير",
+	"enName":"Maalem Group For Development & Construction",
+	"hotlone":"16660",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"577057",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maalem-group-for-development-&-construction/577057?b=1&k=16660&l=search",
+	"arName":"فيلا 277 - ش التسعين الجنوبى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 277, El Tesaeen El Ganouby St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"577059",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maalem-group-for-development-&-construction/577059?b=2&k=16660&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

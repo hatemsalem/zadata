@@ -1,0 +1,22 @@
+{"items":[{	"arName":"دار العمران للتنمية وادارة المشروعات",
+	"enName":"Dar El Omran For Development & Projects Management",
+	"hotlone":"16051",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"254701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-omran-for-development-&-projects-management/254701?b=1&k=16051&l=search",
+	"arName":"69 ش حسن الشريف امتداد ش النادى الاهلى, مدينة نصر, القاهرة",
+	"enName":"69 Hassan El Sherif St. Extension Of El Ahly Club St., Nasr city, Cairo"
+},
+		{	"profileId":"254702",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-omran-for-development-&-projects-management/254702?b=2&k=16051&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"customer Service, Nasr city, Cairo"
+}
+	]
+}]}

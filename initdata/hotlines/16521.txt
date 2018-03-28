@@ -1,0 +1,17 @@
+{"items":[{	"arName":"الاسراء للاستثمار العقارى",
+	"enName":"El Esraa For Real Estate Investment",
+	"hotlone":"16521",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"383656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-esraa-for-real-estate-investment/383656?b=1&k=16521&l=search",
+	"arName":"10 ش احمد فخرى - الدور 1, مدينة نصر, القاهرة",
+	"enName":"10 Ahmed Fakhry St., Floor 1, Nasr city, Cairo"
+}
+	]
+}]}

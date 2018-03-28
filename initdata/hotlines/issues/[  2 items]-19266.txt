@@ -1,0 +1,95 @@
+{"items":[{	"arName":"مانتراك",
+	"enName":"Mantrac",
+	"hotlone":"19266",
+	"arCategory":[
+		"اوناش ورافعات",
+		"مولدات"
+	],
+	"enCategories":[
+		"Forklifts, Cranes & Hoists",
+		"Generators"
+	],
+	"contacts":[
+		{	"profileId":"161746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/161746?b=3&k=19266&l=search",
+	"arName":"25 الممر التجارى - سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"25 Commercial Passage, Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"135956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/135956?b=4&k=19266&l=search",
+	"arName":"طريق سوهاج اخميم, سوهاج, سوهاج",
+	"enName":"Sohag Akhmim Rd., Sohag, Sohag"
+},
+		{	"profileId":"164921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/164921?b=7&k=19266&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"28205",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/28205?b=10&k=19266&l=search",
+	"arName":"كم 28 - طريق اسكندرية القاهرة الصحراوى, العامرية, الاسكندرية",
+	"enName":"Km 28, Alex Cairo Desert Rd., Amreya, Alexandria"
+},
+		{	"profileId":"123713",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123713?b=8&k=19266&l=search",
+	"arName":"2 برج الجاسر - ش سعد زغلول, حى السويس, السويس",
+	"enName":"2 El Gasser Tower, Saad Zaghloul St., Suez district, Suez"
+},
+		{	"profileId":"123721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123721?b=12&k=19266&l=search",
+	"arName":"ش النصر, الدهار, الغردقة",
+	"enName":"El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"123731",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123731?b=6&k=19266&l=search",
+	"arName":"ش الخزان, حى الشروق, اسوان",
+	"enName":"El Khazzan St., El sherouk district, Aswan"
+},
+		{	"profileId":"123727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123727?b=2&k=19266&l=search",
+	"arName":"ش التليفزيون, الاقصر, الاقصر",
+	"enName":"Television St. , Luxor, Luxor"
+},
+		{	"profileId":"123716",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123716?b=5&k=19266&l=search",
+	"arName":"2 ش عبد اللطيف الدسوقى, طلخا, الدقهلية",
+	"enName":"2 Abdel Latif El Desouqy St., Talkha, El dakahleya"
+},
+		{	"profileId":"4757",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/4757?b=9&k=19266&l=search",
+	"arName":"30 ش لبنان تقاطع ش شهاب, المهندسين, الجيزة",
+	"enName":"30 Lebanon St. Intersection Of Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"123714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123714?b=11&k=19266&l=search",
+	"arName":"30 ش بطرس, طنطا, الغربية",
+	"enName":"30 Botros St., Tanta, El gharbeya"
+},
+		{	"profileId":"123715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123715?b=1&k=19266&l=search",
+	"arName":"ش البحر متفرع من ش فؤاد ذكرى, العريش, شمال سيناء",
+	"enName":"El Bahr St. off Fouad Zekry st., Arish, North sinai"
+}
+	]
+}, {	"arName":"مانتراك للتوزيع",
+	"enName":"Mantrac Distribution",
+	"hotlone":"19266",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"390685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac-distribution/390685?b=14&k=19266&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"253472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac-distribution/253472?b=13&k=19266&l=search",
+	"arName":"13 ش 294, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"13 Rd. 294, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

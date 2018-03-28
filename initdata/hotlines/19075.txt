@@ -1,0 +1,42 @@
+{"items":[{	"arName":"احمد السلاب مول",
+	"enName":"Ahmed El Sallab Mall",
+	"hotlone":"19075",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"322693",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-el-sallab-mall/322693?b=4&k=19075&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"enName":"Customer Service, Mokattam, Cairo"
+},
+		{	"profileId":"169886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-el-sallab-mall/169886?b=1&k=19075&l=search",
+	"arName":"طريق الاوتوستراد تقاطع الطريق الدائرى, المقطم, القاهرة",
+	"enName":"Autostrad Rd. Intersection Of Ring Rd., Mokattam, Cairo"
+},
+		{	"profileId":"397353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-el-sallab-mall/397353?b=5&k=19075&l=search",
+	"arName":"المحور المركزى - تقاطع محور 26 يوليو, السادس من اكتوبر, الجيزة",
+	"enName":"Central Spine, Intersection Of 26th Of July Spine, 6th of october, Giza"
+},
+		{	"profileId":"466670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-el-sallab-mall/466670?b=6&k=19075&l=search",
+	"arName":"30 ش شهاب متفرع من ش سوريا, المهندسين, الجيزة",
+	"enName":"30 Shehab St. Off Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"205394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-el-sallab-mall/205394?b=3&k=19075&l=search",
+	"arName":"30 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"30 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"443408",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-el-sallab-mall/443408?b=2&k=19075&l=search",
+	"arName":"ش مصطفى النحاس تقاطع ش يوسف عباس - برج البدر بلازا, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"Mostafa El Nahhas St. Intersection Of Youssef Abbas St., El Badr Plaza Tower, 7th District, Nasr city, Cairo"
+}
+	]
+}]}

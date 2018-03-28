@@ -1,0 +1,17 @@
+{"items":[{	"arName":"نيو تاورز لللاستثمار والتطوير العقارى",
+	"enName":"New Towers For Real Estate Investment & Development",
+	"hotlone":"16463",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"580148",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-towers-for-real-estate-investment-&-development/580148?b=1&k=16463&l=search",
+	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
+}
+	]
+}]}

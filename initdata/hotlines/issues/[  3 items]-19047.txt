@@ -1,0 +1,54 @@
+{"items":[{	"arName":"الحلوانى للاستثمار العقارى",
+	"enName":"Al Halawani For Real Estate Investment",
+	"hotlone":"19047",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"552762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-halawani-for-real-estate-investment/552762?b=1&k=19047&l=search",
+	"arName":"35 ش عمر بن الخطاب, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"enName":"35 Omar Ibn El Khattab St., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"257276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-halawani-for-real-estate-investment/257276?b=2&k=19047&l=search",
+	"arName":"خدمة العملاء, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"enName":"customer Service, Ismaileya Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"رويال مول",
+	"enName":"Royal Mall",
+	"hotlone":"19047",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"384679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-mall/384679?b=3&k=19047&l=search",
+	"arName":"ش ملك حفنى, المنتزة, المنتزه, الاسكندرية",
+	"enName":"Malak Hefny St., EL MONTAZA, El montazah, Alexandria"
+}
+	]
+}, {	"arName":"رويال بلازا",
+	"enName":"Royal Plaza",
+	"hotlone":"19047",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"372954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-plaza/372954?b=4&k=19047&l=search",
+	"arName":"ش ملك حفنى, المنتزة, المنتزه, الاسكندرية",
+	"enName":"Malak Hefny St., EL MONTAZA, El montazah, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,27 @@
+{"items":[{	"arName":"مصر الجديدة للسياحة",
+	"enName":"Masr El Gdeda Travel",
+	"hotlone":"16817",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"394463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-gdeda-travel/394463?b=3&k=16817&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"394461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-gdeda-travel/394461?b=1&k=16817&l=search",
+	"arName":"10 ش النزهة, مدينة نصر, القاهرة",
+	"enName":"10 El Nozha St., Nasr city, Cairo"
+},
+		{	"profileId":"394456",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masr-el-gdeda-travel/394456?b=2&k=16817&l=search",
+	"arName":"20 ش شهاب - الدور 2 شقة 12, المهندسين, الجيزة",
+	"enName":"20 Shehab St., Floor 2 Flat 12, Mohandeseen, Giza"
+}
+	]
+}]}

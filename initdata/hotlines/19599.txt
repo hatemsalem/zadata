@@ -1,0 +1,27 @@
+{"items":[{	"arName":"الاسكا",
+	"enName":"Alaska",
+	"hotlone":"19599",
+	"arCategory":[
+		"ثلاجات ومجمدات ومخازن تبريد"
+	],
+	"enCategories":[
+		"Refrigerators, Freezers & Cold Storage"
+	],
+	"contacts":[
+		{	"profileId":"542",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alaska/542?b=3&k=19599&l=search",
+	"arName":"المنطقة الصناعية B2, العاشر من رمضان, الشرقية",
+	"enName":"Industrial Zone B2, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"176998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alaska/176998?b=1&k=19599&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"4334",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alaska/4334?b=2&k=19599&l=search",
+	"arName":"69 ش جسر السويس, جسر السويس, القاهرة",
+	"enName":"69 Gesr El Suez St., Gesr el suez, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,17 @@
+{"items":[{	"arName":"صيانة زانوسى",
+	"enName":"Zanussi Service",
+	"hotlone":"16092",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"316111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi-service/316111?b=1&k=16092&l=search",
+	"arName":"86 ش العشرين, فيصل, الجيزة",
+	"enName":"86 El Eshreen St., Faisal, Giza"
+}
+	]
+}]}

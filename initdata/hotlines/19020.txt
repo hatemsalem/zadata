@@ -1,0 +1,22 @@
+{"items":[{	"arName":"البرماوى للسيارات",
+	"enName":"El Birmawy For Cars",
+	"hotlone":"19020",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"514584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-birmawy-for-cars/514584?b=1&k=19020&l=search",
+	"arName":"خدمة العملاء, المنصورة, الدقهلية",
+	"enName":"Customer Service, El mansoura, El dakahleya"
+},
+		{	"profileId":"514583",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-birmawy-for-cars/514583?b=2&k=19020&l=search",
+	"arName":"ش احمد ماهر - برج الكرنك, المنصورة, الدقهلية",
+	"enName":"Ahmed Maher St., El Karnak Tower, El mansoura, El dakahleya"
+}
+	]
+}]}

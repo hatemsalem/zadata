@@ -1,0 +1,22 @@
+{"items":[{	"arName":"تكوين للاستثمار العقارى",
+	"enName":"Takween Real Estate",
+	"hotlone":"19796",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"444115",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/takween-real-estate/444115?b=2&k=19796&l=search",
+	"arName":"72 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"72 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"444116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/takween-real-estate/444116?b=1&k=19796&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

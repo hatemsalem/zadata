@@ -1,0 +1,17 @@
+{"items":[{	"arName":"ستار هاوس للاستثمار العقارى",
+	"enName":"Star House Real Estate Investment",
+	"hotlone":"16107",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"471787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/star-house-real-estate-investment/471787?b=1&k=16107&l=search",
+	"arName":"21 ش كليوباترا تقاطع ش الثورة, مصر الجديدة, القاهرة",
+	"enName":"21 Cleopatra St. Intersection Of El Thawra St., Heliopolis, Cairo"
+}
+	]
+}]}

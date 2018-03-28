@@ -1,0 +1,22 @@
+{"items":[{	"arName":"لايف بارك",
+	"enName":"Life Park",
+	"hotlone":"19210",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"479157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-park/479157?b=1&k=19210&l=search",
+	"arName":"., الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"495605",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-park/495605?b=2&k=19210&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

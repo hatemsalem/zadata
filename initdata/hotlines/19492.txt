@@ -1,0 +1,47 @@
+{"items":[{	"arName":"بوتاجاسكو - الشركة المصرية لنقل وتوصيل الغاز",
+	"enName":"Butagasco - Egyptian Co. For Gas Transferring & Deliverance",
+	"hotlone":"19492",
+	"arCategory":[
+		"غازات وبروبان"
+	],
+	"enCategories":[
+		"Gases & Propane"
+	],
+	"contacts":[
+		{	"profileId":"195877",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/195877?b=1&k=19492&l=search",
+	"arName":"51 ش المنيل , المنيل, القاهرة",
+	"enName":"51 Manial St., El manyal, Cairo"
+},
+		{	"profileId":"148862",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/148862?b=3&k=19492&l=search",
+	"arName":"3 ش انور المفتى متفرع من ش عباس العقاد - الدور 9, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"3 Anwar El Mofty St. Off Abbas El Akkad St., Floor 9, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"146981",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/146981?b=5&k=19492&l=search",
+	"arName":"61 تقسيم سموحة, سموحة, الاسكندرية",
+	"enName":"61 Semouha Division, Semouha, Alexandria"
+},
+		{	"profileId":"258283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/258283?b=2&k=19492&l=search",
+	"arName":"161 ش طومانباى, حلمية الزيتون, القاهرة",
+	"enName":"161 Tomanbay St., Helmeyet el zaitoun, Cairo"
+},
+		{	"profileId":"576970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/576970?b=4&k=19492&l=search",
+	"arName":"خدمة العملاء, سموحة, الاسكندرية",
+	"enName":"Customer Service, Semouha, Alexandria"
+},
+		{	"profileId":"164495",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/164495?b=6&k=19492&l=search",
+	"arName":"69 ش سعد زغلول, وسط البلد, المنيا",
+	"enName":"69 Saad Zaghloul St., Downtown, El menia"
+},
+		{	"profileId":"444354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/444354?b=7&k=19492&l=search",
+	"arName":"كم 34 - طريق اسكندرية مطروح الصحراوى, سيدى كرير, الساحل الشمالى",
+	"enName":"Km 34, Alex Matrouh Desert Rd., Sidi kreir, North coast"
+}
+	]
+}]}

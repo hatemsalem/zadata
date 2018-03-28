@@ -1,0 +1,22 @@
+{"items":[{	"arName":"الفا كير للخدمات الطبية",
+	"enName":"Alfa Care Medical Services",
+	"hotlone":"16321",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"261267",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-care-medical-services/261267?b=1&k=16321&l=search",
+	"arName":"2 ابراج المهندسين - كورنيش النيل - الدور 4, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"2 El Mohandeseen Towers, Corniche El Nil, Floor 4, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"580855",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-care-medical-services/580855?b=2&k=16321&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

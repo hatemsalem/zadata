@@ -1,0 +1,112 @@
+{"items":[{	"arName":"كمبيوتر شوب",
+	"enName":"Computer Shop",
+	"hotlone":"16419",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"241456",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/241456?b=6&k=16419&l=search",
+	"arName":"5 ش الاهرام, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"5 El Ahram St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"545914",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/545914?b=12&k=16419&l=search",
+	"arName":"37 ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"37 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"241424",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/241424?b=8&k=16419&l=search",
+	"arName":"9 ش شهاب, المهندسين, الجيزة",
+	"enName":"9 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"373872",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/373872?b=11&k=16419&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+},
+		{	"profileId":"241452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/241452?b=3&k=16419&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"315057",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/315057?b=9&k=16419&l=search",
+	"arName":"26 ش شكرى القواتلى, المحلة الكبرى, الغربية",
+	"enName":"26 Shokry El Qawatly St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"313283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/313283?b=15&k=16419&l=search",
+	"arName":"مبنى رقم A6 - ش شرم ليزيه, هضبة ام السيد, شرم الشيخ",
+	"enName":"Bldg. No. A6, Sharm Elysees St., Umm el sid hill, Sharm el sheikh"
+},
+		{	"profileId":"373869",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/373869?b=16&k=16419&l=search",
+	"arName":"300 ش الهرم, الطالبية, الهرم, الجيزة",
+	"enName":"300 Haram St., El Talbeya, El haram, Giza"
+},
+		{	"profileId":"315670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/315670?b=17&k=16419&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"241418",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/241418?b=19&k=16419&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"241408",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/241408?b=13&k=16419&l=search",
+	"arName":"43 ش محيى الدين ابو العز, الدقى, الجيزة",
+	"enName":"43 Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"427300",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/427300?b=5&k=16419&l=search",
+	"arName":"4 ش الحجاز, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"enName":"4 El Hegaz St., El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"241658",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/241658?b=7&k=16419&l=search",
+	"arName":"6 ش خالد بن الوليد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"6 Khaled Ibn El Walid St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"373867",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/373867?b=20&k=16419&l=search",
+	"arName":"70 ش صفية زغلول تقاطع ش سعد زغلول, محطة الرمل, الاسكندرية",
+	"enName":"70 Safeya Zaghloul St. Intersection Of Saad Zaghloul St., Raml station, Alexandria"
+},
+		{	"profileId":"241505",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/241505?b=10&k=16419&l=search",
+	"arName":"98 ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"enName":"98 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+},
+		{	"profileId":"313276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/313276?b=14&k=16419&l=search",
+	"arName":"23 برج قصر العروبة - ش فوزى معاذ, سموحة, الاسكندرية",
+	"enName":"23 Kasr El Orouba Tower, Fawzy Moaz St., Semouha, Alexandria"
+},
+		{	"profileId":"313202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/313202?b=2&k=16419&l=search",
+	"arName":"41 برج الاصيل - كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"enName":"41 El Aseel Tower, Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"241469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/241469?b=4&k=16419&l=search",
+	"arName":"السوق التجارى - محل 233, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Shop 233, Al rehab city, Cairo"
+},
+		{	"profileId":"466115",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/466115?b=1&k=16419&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"374791",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/computer-shop/374791?b=18&k=16419&l=search",
+	"arName":"4 برج الحرية - ش الجمهورية, اسيوط, اسيوط",
+	"enName":"4 El Horreya Tower, El Gomhoureya St., Assyout, Assyout"
+}
+	]
+}]}

@@ -1,0 +1,96 @@
+{"items":[{	"arName":"بيتر هوم",
+	"enName":"Better Home",
+	"hotlone":"19636",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"146842",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/better-home/146842?b=1&k=19636&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"577686",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/better-home/577686?b=2&k=19636&l=search",
+	"arName":"القطعة 424 - ش التسعين الشمالى قطاع 3 - مبنى كايرو بيزنس بلازا الادارى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 424, El Tesaeen El Shamaly St. Sector 3, Cairo Business Plaza Administrative Bldg., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"كايرو بيزنس جات",
+	"enName":"Cairo Business Gate",
+	"hotlone":"19636",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"399898",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-business-gate/399898?b=4&k=19636&l=search",
+	"arName":"القطاع الثانى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"2nd Sector, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بيتر مول",
+	"enName":"Better Mall",
+	"hotlone":"19636",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"512345",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/better-mall/512345?b=3&k=19636&l=search",
+	"arName":"33 - المحور المركزى, السادس من اكتوبر, الجيزة",
+	"enName":"33 , Central Spine, 6th of october, Giza"
+}
+	]
+}, {	"arName":"هاى لاند بارك",
+	"enName":"Highland Park",
+	"hotlone":"19636",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"370241",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/highland-park/370241?b=6&k=19636&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"370239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/highland-park/370239?b=5&k=19636&l=search",
+	"arName":"., المستثمرين الجنوبية, القاهرة الجديدة, القاهرة",
+	"enName":"., South Investors, New cairo, Cairo"
+},
+		{	"profileId":"370236",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/highland-park/370236?b=7&k=19636&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+}
+	]
+}, {	"arName":"ميد تاون",
+	"enName":"Midtown",
+	"hotlone":"19636",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"460231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/midtown/460231?b=8&k=19636&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,38 @@
+{"items":[{	"arName":"جراند هايتس",
+	"enName":"Grand Heights",
+	"hotlone":"19814",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"386624",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/grand-heights/386624?b=1&k=19814&l=search",
+	"arName":"طريق وصلة دهشور - الحزام الاخضر, السادس من اكتوبر, الجيزة",
+	"enName":"Waslet Dahshour Rd., El Hezam El Akhdar, 6th of october, Giza"
+}
+	]
+}, {	"arName":"كواديكو العقارية",
+	"enName":"Kuwadico Real Estate",
+	"hotlone":"19814",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"430652",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kuwadico-real-estate/430652?b=2&k=19814&l=search",
+	"arName":"26 ش لبنان - الدور 7, المهندسين, الجيزة",
+	"enName":"26 Lebanon St., Floor 7, Mohandeseen, Giza"
+},
+		{	"profileId":"323956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kuwadico-real-estate/323956?b=3&k=19814&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

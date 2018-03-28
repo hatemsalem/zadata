@@ -1,0 +1,17 @@
+{"items":[{	"arName":"ووتر ايجيبت - جلوب ويل د. شريف المدنى وشركاه",
+	"enName":"Water Egypt - Glob Well, Dr. Sherif El Madany & Partners",
+	"hotlone":"16604",
+	"arCategory":[
+		"مياه معالجة"
+	],
+	"enCategories":[
+		"Water Treatment"
+	],
+	"contacts":[
+		{	"profileId":"55778",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/water-egypt-_-glob-well,-dr.-sherif-el-madany-&-partners/55778?b=1&k=16604&l=search",
+	"arName":"26 ش الطيران ميدان رابعة العدوية, مدينة نصر, القاهرة",
+	"enName":"26 El Tayaran St. Rabaa El Adaweya Sq., Nasr city, Cairo"
+}
+	]
+}]}

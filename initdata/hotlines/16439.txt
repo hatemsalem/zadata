@@ -1,0 +1,22 @@
+{"items":[{	"arName":"وزارة التضامن الاجتماعى",
+	"enName":"Ministry Of Social Solidarity",
+	"hotlone":"16439",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"353617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-social-solidarity/353617?b=2&k=16439&l=search",
+	"arName":"خدمة العملاء, العجوزة, الجيزة",
+	"enName":"Customer Service, Agouza, Giza"
+},
+		{	"profileId":"353615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-social-solidarity/353615?b=1&k=16439&l=search",
+	"arName":"19 ش المراغى, العجوزة, الجيزة",
+	"enName":"19 El Maraghy St., Agouza, Giza"
+}
+	]
+}]}

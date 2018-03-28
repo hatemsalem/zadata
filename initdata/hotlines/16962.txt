@@ -1,0 +1,22 @@
+{"items":[{	"arName":"نوك مارت",
+	"enName":"Knock Mart",
+	"hotlone":"16962",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"472801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/knock-mart/472801?b=2&k=16962&l=search",
+	"arName":"فيلا 157 - ش 33 متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Villa 157, Rd. 33 Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"472802",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/knock-mart/472802?b=1&k=16962&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

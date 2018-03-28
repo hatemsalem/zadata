@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مكة للتنمية السياحية والمشروعات العمرانية",
+	"enName":"Makka For Tourism Development & Urban Projects",
+	"hotlone":"16670",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"577346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/makka-for-tourism-development-&-urban-projects/577346?b=2&k=16670&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"348964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/makka-for-tourism-development-&-urban-projects/348964?b=1&k=16670&l=search",
+	"arName":"كم 26 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"enName":"Km 26, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

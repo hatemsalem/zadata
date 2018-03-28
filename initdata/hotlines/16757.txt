@@ -1,0 +1,47 @@
+{"items":[{	"arName":"الجوهرة للسيراميك والبورسلين",
+	"enName":"Gemma For Ceramic & Porcelain Tiles",
+	"hotlone":"16757",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"72711",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/72711?b=1&k=16757&l=search",
+	"arName":"10 ش مصطفى النحاس تقاطع ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"10 Mostafa El Nahhas St. Intersection Of Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"7673",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/7673?b=5&k=16757&l=search",
+	"arName":"25 طريق القاهرة اسكندرية الصحراوى ميدان الرماية, الجيزة, الجيزة",
+	"enName":"25 Cairo Alex Desert Rd. El Remaya Sq., Giza, Giza"
+},
+		{	"profileId":"395719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/395719?b=2&k=16757&l=search",
+	"arName":"كم 37 - , طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 37, , Cairo alex desert rd., Giza"
+},
+		{	"profileId":"21168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/21168?b=3&k=16757&l=search",
+	"arName":"القطعة الاولى - - المنطقة الصناعية الاولى, مدينة السادات, المنوفية",
+	"enName":"1st Plot, , 1st Industrial Zone, Sadat city, El monofeya"
+},
+		{	"profileId":"174337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/174337?b=6&k=16757&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"72710",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/72710?b=7&k=16757&l=search",
+	"arName":"35 ش لبنان, المهندسين, الجيزة",
+	"enName":"35 Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"162656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/162656?b=4&k=16757&l=search",
+	"arName":"397 طريق الحرية, مصطفى كامل, الاسكندرية",
+	"enName":"397 El Horreya Rd., Mostafa kamel, Alexandria"
+}
+	]
+}]}

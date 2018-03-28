@@ -1,0 +1,22 @@
+{"items":[{	"arName":"رواد مصر",
+	"enName":"Rowad Masr",
+	"hotlone":"16986",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"430336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rowad-masr/430336?b=1&k=16986&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"430327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rowad-masr/430327?b=2&k=16986&l=search",
+	"arName":"15 عمارات العبور - طريق صلاح سالم - الدور 9 شقة 8, مدينة نصر, القاهرة",
+	"enName":"15 El Obour Bldgs., Salah Salem Rd., Floor 9 Flat 8, Nasr city, Cairo"
+}
+	]
+}]}

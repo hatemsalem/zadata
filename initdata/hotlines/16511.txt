@@ -1,0 +1,24 @@
+{"items":[{	"arName":"اتصالات",
+	"enName":"Etisalat",
+	"hotlone":"16511",
+	"arCategory":[
+		"تليفونات محمولة",
+		"تليفونات محمولة مشغلوا خطوط"
+	],
+	"enCategories":[
+		"Mobile Telephones",
+		"Mobile Line Operators"
+	],
+	"contacts":[
+		{	"profileId":"570336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etisalat/570336?b=2&k=16511&l=search",
+	"arName":"7 ش بورسعيد, منوف, المنوفية",
+	"enName":"7 Port Said St., Minuf, El monofeya"
+},
+		{	"profileId":"227219",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etisalat/227219?b=1&k=16511&l=search",
+	"arName":"خدمة انترنت سمارت ايه دى اس ال, ابو رواش, الجيزة",
+	"enName":"Smart ADSL Internet Service, Abou rawash, Giza"
+}
+	]
+}]}

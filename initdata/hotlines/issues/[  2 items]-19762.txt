@@ -1,0 +1,58 @@
+{"items":[{	"arName":"بدجت",
+	"enName":"Budget",
+	"hotlone":"19762",
+	"arCategory":[
+		"سيارات - تأجير وليموزين"
+	],
+	"enCategories":[
+		"Cars - Rentals, Leasing & Limousines"
+	],
+	"contacts":[
+		{	"profileId":"79669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/79669?b=2&k=19762&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"45388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/45388?b=4&k=19762&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"438579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/438579?b=1&k=19762&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"79670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/79670?b=6&k=19762&l=search",
+	"arName":"22 ش المتحف الزراعى, العجوزة, الجيزة",
+	"enName":"22 El Mathaf El Zeraey St., Agouza, Giza"
+},
+		{	"profileId":"79671",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/79671?b=3&k=19762&l=search",
+	"arName":"الطريق الدائرى تقاطع طريق القاهرة السويس - ميراج سيتى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd. Intersection Of Cairo Suez Rd., Mirage City, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"476677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/476677?b=5&k=19762&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+}
+	]
+}, {	"arName":"بادجت",
+	"enName":"Budget",
+	"hotlone":"19762",
+	"arCategory":[
+		"اسمنت وخرسانة وجبس وطوب ومعدات"
+	],
+	"enCategories":[
+		"Cement & Concrete, Gypsum, Brick & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"451057",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/451057?b=7&k=19762&l=search",
+	"arName":"5 ش جامعة الدول العربية - الدور 7 شقة 703, المهندسين, الجيزة",
+	"enName":"5 Gamaet El Dewal El Arabeya St., Floor 7 Flat 703, Mohandeseen, Giza"
+}
+	]
+}]}

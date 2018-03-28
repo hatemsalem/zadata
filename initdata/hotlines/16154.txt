@@ -1,0 +1,92 @@
+{"items":[{	"arName":"الدلتا للتأمين",
+	"enName":"Delta Insurance",
+	"hotlone":"16154",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"154981",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/154981?b=4&k=16154&l=search",
+	"arName":"26 ش الثورة - ش السلطان حسين سابقا - برج الحرمين, حى الافرنج, الاسماعيلية",
+	"enName":"26 El Thawra St. - El Sultan Hussein St. Previously, El Haramain Tower, El afrang district, Ismaileya"
+},
+		{	"profileId":"304997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/304997?b=1&k=16154&l=search",
+	"arName":"15 أ ش الاهرام - الدور 11, الكوربة, مصر الجديدة, القاهرة",
+	"enName":"15 A El Ahram St., Floor 11, El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"304999",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/304999?b=13&k=16154&l=search",
+	"arName":"38 ش خالد باشا, وسط البلد, الفيوم",
+	"enName":"38 Khaled Pasha St., Downtown, El fayoum"
+},
+		{	"profileId":"128192",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/128192?b=9&k=16154&l=search",
+	"arName":"26 ش البطل احمد عبد العزيز - الدور 2, المهندسين, الجيزة",
+	"enName":"26 El Batal Ahmed Abdel Aziz St., Floor 2, Mohandeseen, Giza"
+},
+		{	"profileId":"31740",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/31740?b=8&k=16154&l=search",
+	"arName":"10 ش نوح افندى متفرع من ش السلطان حسين, الشلالات, الاسكندرية",
+	"enName":"10 Nouh Afandi St. Off El Sultan Hussein St., El shalalat, Alexandria"
+},
+		{	"profileId":"255833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/255833?b=11&k=16154&l=search",
+	"arName":"خدمة العملاء, العجوزة, الجيزة",
+	"enName":"Customer Service, Agouza, Giza"
+},
+		{	"profileId":"199713",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/199713?b=2&k=16154&l=search",
+	"arName":"10 ش طلعت حرب - عمارة ايفر جرين - الدور 10, وسط البلد, القاهرة",
+	"enName":"10 Talaat Harb St., Ever Green Bldg., Floor 10, Downtown, Cairo"
+},
+		{	"profileId":"305093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/305093?b=15&k=16154&l=search",
+	"arName":"20 ش قناة السويس - برج النور, المنصورة, الدقهلية",
+	"enName":"20 Suez Canal St., El Nour Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"304993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/304993?b=5&k=16154&l=search",
+	"arName":"ميدان المديرية - برج المديرية, وسط البلد, قنا",
+	"enName":"El Modereya Sq., El Modereya Tower, Downtown, Qena"
+},
+		{	"profileId":"60033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/60033?b=3&k=16154&l=search",
+	"arName":"14 ش حسن محمد الرزاز - ش نوال سابقا - الدور 5, العجوزة, الجيزة",
+	"enName":"14 Hassan Mohamed El Razaz St. - Nawal St. Previously, Floor 5, Agouza, Giza"
+},
+		{	"profileId":"305005",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/305005?b=14&k=16154&l=search",
+	"arName":"14 ش المديرية ميدان الساعة, طنطا, الغربية",
+	"enName":"14 El Modereya St. El Saah Sq., Tanta, El gharbeya"
+},
+		{	"profileId":"305106",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/305106?b=16&k=16154&l=search",
+	"arName":"58 ش الجمهورية تقاطع ش صفية زغلول - برج صفوة كلاس, حى الشرق, بور سعيد",
+	"enName":"58 El Gomhoureya St. Intersection Of Safeya Zaghloul St., Safwa Class Tower, El shark district, Port said"
+},
+		{	"profileId":"305099",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/305099?b=12&k=16154&l=search",
+	"arName":"48 ش بنك مصر تقاطع ش الملجأ, حى السويس, السويس",
+	"enName":"48 Bank Misr St. Intersection Of El Malgaa St., Suez district, Suez"
+},
+		{	"profileId":"305111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/305111?b=7&k=16154&l=search",
+	"arName":"42 ش الجلاء - عمارة الاوقاف - الدور 1, دمياط, دمياط",
+	"enName":"42 El Galaa St., El Awqaf Bldg., Floor 1, Damietta, Damietta"
+},
+		{	"profileId":"305002",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/305002?b=10&k=16154&l=search",
+	"arName":"24 ش احمد عرابى - الدور 6 شقة 605, دمنهور, البحيرة",
+	"enName":"24 Ahmed Orabi St., Floor 6 Flat 605, Damanhour, El beheira"
+},
+		{	"profileId":"305124",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-insurance/305124?b=6&k=16154&l=search",
+	"arName":"9 ش يوسف بكر متفرع من ش الجلاء, الزقازيق, الشرقية",
+	"enName":"9 youssef bakr st. off el galaa st., El zagazig, El sharkeya"
+}
+	]
+}]}

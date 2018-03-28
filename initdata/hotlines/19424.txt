@@ -1,0 +1,22 @@
+{"items":[{	"arName":"بتر بزنس",
+	"enName":"Better Business",
+	"hotlone":"19424",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"81791",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/better-business/81791?b=2&k=19424&l=search",
+	"arName":"5 ش سهل حمزة, الكوم الاخضر, الهرم, الجيزة",
+	"enName":"5 Sahl Hamza St., El Koum El Akhdar, El haram, Giza"
+},
+		{	"profileId":"146473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/better-business/146473?b=1&k=19424&l=search",
+	"arName":"خدمة العملاء, الكوم الاخضر, الهرم, الجيزة",
+	"enName":"Customer Service, El Koum El Akhdar, El haram, Giza"
+}
+	]
+}]}

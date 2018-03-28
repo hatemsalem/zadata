@@ -1,0 +1,44 @@
+{"items":[{	"arName":"الماسة للتأجير ومعالجة المياه",
+	"enName":"El Masa For Rent & Water Treatment",
+	"hotlone":"16151",
+	"arCategory":[
+		"مياه معبئة (معدنية)",
+		"مياه معالجة"
+	],
+	"enCategories":[
+		"Water Bottled & Bulk",
+		"Water Treatment"
+	],
+	"contacts":[
+		{	"profileId":"26186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masa-for-rent-&-water-treatment/26186?b=2&k=16151&l=search",
+	"arName":"129 عمارات تعاونيات سموحة -, سموحة, الاسكندرية",
+	"enName":"129 Taawoneyat Semouha Bldgs.,, Semouha, Alexandria"
+},
+		{	"profileId":"202441",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masa-for-rent-&-water-treatment/202441?b=5&k=16151&l=search",
+	"arName":"178 طريق سقارة السياحى - الحرانية, المريوطية, الهرم, الجيزة",
+	"enName":"178 Saqqara Touristic Rd., El Harraneya, El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"187400",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masa-for-rent-&-water-treatment/187400?b=6&k=16151&l=search",
+	"arName":"خدمة العملاء, الهرم, الجيزة",
+	"enName":"customer service, El haram, Giza"
+},
+		{	"profileId":"339354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masa-for-rent-&-water-treatment/339354?b=3&k=16151&l=search",
+	"arName":"مبنى 51 -, الرويسات, شرم الشيخ",
+	"enName":"Bldg. 51,, El ruwaisat, Sharm el sheikh"
+},
+		{	"profileId":"339346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masa-for-rent-&-water-treatment/339346?b=4&k=16151&l=search",
+	"arName":"مساكن ابو عشرة - ش الحجاز - الدور 2 شقة 2, سقالة, الغردقة",
+	"enName":"Abou Ashra Bldgs., El Hegaz St., Floor 2 Flat 2, Sekala, Hurghada"
+},
+		{	"profileId":"117619",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masa-for-rent-&-water-treatment/117619?b=1&k=16151&l=search",
+	"arName":"10 عمارات الشرارة - ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"10 El Sharara Bldgs., Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

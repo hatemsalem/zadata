@@ -1,0 +1,17 @@
+{"items":[{	"arName":"وزارة التجارة والصناعة",
+	"enName":"Ministry Of Trade & Industry",
+	"hotlone":"19805",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"187211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-trade-&-industry/187211?b=1&k=19805&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"enName":"customer service, Garden city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,59 @@
+{"items":[{	"arName":"فلاش تور",
+	"enName":"Flash Tour",
+	"hotlone":"16771",
+	"arCategory":[
+		"اتوبيسات شارتر ومحطات",
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Bus Charters & Stations",
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"182754",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/182754?b=1&k=16771&l=search",
+	"arName":"4 ش جوزيف تيتو, النزهة الجديدة, القاهرة",
+	"enName":"4 Joseph Tito St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"135180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/135180?b=6&k=16771&l=search",
+	"arName":"مبنى صحارى اكسبريس - ش السفارى - مرتفعات نعمة, خليج نعمة, شرم الشيخ",
+	"enName":"Sahara Express Bldg., Safari St., Naama Heights, Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"10715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/10715?b=3&k=16771&l=search",
+	"arName":"2 ش الحجاز, روكسى, مصر الجديدة, القاهرة",
+	"enName":"2 El Hegaz St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"74116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/74116?b=5&k=16771&l=search",
+	"arName":"97 ش التخطيط الاقليمى, الاقصر, الاقصر",
+	"enName":"97 El Takhteet El Eqlimy St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"170283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/170283?b=8&k=16771&l=search",
+	"arName":"طريق القصير مرسى علم, وسط البلد, مرسى علم",
+	"enName":"Quseir Marsa Alam Rd., Downtown, Marsa alam"
+},
+		{	"profileId":"74114",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/74114?b=9&k=16771&l=search",
+	"arName":"97 ش كورنيش النيل, وسط البلد, اسوان",
+	"enName":"97 Corniche El Nil St., Downtown, Aswan"
+},
+		{	"profileId":"453425",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/453425?b=2&k=16771&l=search",
+	"arName":"43 ش محمد فريد, مصر الجديدة, القاهرة",
+	"enName":"43 Mohamed Farid St., Heliopolis, Cairo"
+},
+		{	"profileId":"392996",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/392996?b=7&k=16771&l=search",
+	"arName":"الممشى السياحى, طريق القرى, الغردقة",
+	"enName":"Touristic Passage, Villages rd., Hurghada"
+},
+		{	"profileId":"170284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/flash-tour/170284?b=4&k=16771&l=search",
+	"arName":"خدمة العملاء, روكسى, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

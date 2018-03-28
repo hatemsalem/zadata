@@ -1,0 +1,32 @@
+{"items":[{	"arName":"دى اتش ال جلوبال فورواردنج",
+	"enName":"DHL Global Forwarding",
+	"hotlone":"19633",
+	"arCategory":[
+		"شحن جوى وبحرى وبرى"
+	],
+	"enCategories":[
+		"Shipping, Air Cargo & Freight"
+	],
+	"contacts":[
+		{	"profileId":"187150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-global-forwarding/187150?b=2&k=19633&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"407823",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-global-forwarding/407823?b=1&k=19633&l=search",
+	"arName":"1 طريق المطار - الدور 3, منطقة المطار, مصر الجديدة, القاهرة",
+	"enName":"1 Airport Rd., Floor 3, Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"3875",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-global-forwarding/3875?b=3&k=19633&l=search",
+	"arName":"19 ش الاخبار - المنطقة السابعة, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"19 El Akhbar St., 7th Zone, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"71094",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dhl-global-forwarding/71094?b=4&k=19633&l=search",
+	"arName":"18 ش الفراعنة, الشلالات, الاسكندرية",
+	"enName":"18 El Pharaena St., El shalalat, Alexandria"
+}
+	]
+}]}

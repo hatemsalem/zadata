@@ -1,0 +1,38 @@
+{"items":[{	"arName":"منازل للتطوير العقارى",
+	"enName":"Manazel For Real Estate Development",
+	"hotlone":"16767",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"477177",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manazel-for-real-estate-development/477177?b=3&k=16767&l=search",
+	"arName":"القطعة 289 - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 289, El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"200922",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manazel-for-real-estate-development/200922?b=2&k=16767&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"لايان ايجيبت",
+	"enName":"Layan Egypt",
+	"hotlone":"16767",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"261568",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/layan-egypt/261568?b=1&k=16767&l=search",
+	"arName":"القطعة السادسة -, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"6th Plot,, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

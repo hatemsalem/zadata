@@ -1,0 +1,32 @@
+{"items":[{	"arName":"اوتو ايجيبت للتجارة",
+	"enName":"Auto Egypt For Trade",
+	"hotlone":"16666",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"92870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-egypt-for-trade/92870?b=4&k=16666&l=search",
+	"arName":"58 ش سوريا تقاطع ش السودان, المهندسين, الجيزة",
+	"enName":"58 Syria St. Intersection Of Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"133389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-egypt-for-trade/133389?b=3&k=16666&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"393711",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-egypt-for-trade/393711?b=2&k=16666&l=search",
+	"arName":"12 ش حسن الشريف امتداد ش حسن المأمون, الحى الثامن, مدينة نصر, القاهرة",
+	"enName":"12 Hassan El Sherif St. Extension Of Hassan El Maamoun St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"452514",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-egypt-for-trade/452514?b=1&k=16666&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

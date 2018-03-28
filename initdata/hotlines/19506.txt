@@ -1,0 +1,46 @@
+{"items":[{	"arName":"كشرينا",
+	"enName":"Kosharina",
+	"hotlone":"19506",
+	"arCategory":[
+		"كشرى",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Koshari",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"580416",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kosharina/580416?b=5&k=19506&l=search",
+	"arName":"114 ش طلعت حرب, امبابة, الجيزة",
+	"enName":"114 Talaat Harb St., Imbaba, Giza"
+},
+		{	"profileId":"535264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kosharina/535264?b=2&k=19506&l=search",
+	"arName":"58 ش الفيوم, دار السلام, القاهرة",
+	"enName":"58 El Fayoum St., Dar el salam, Cairo"
+},
+		{	"profileId":"561287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kosharina/561287?b=6&k=19506&l=search",
+	"arName":"ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"457449",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kosharina/457449?b=1&k=19506&l=search",
+	"arName":"8 ش احمد زكى, حدائق المعادى, المعادى, القاهرة",
+	"enName":"8 Ahmed Zaky St., Hadayek El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"535215",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kosharina/535215?b=3&k=19506&l=search",
+	"arName":"القطعة 81 - - منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 81, , 1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"561284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kosharina/561284?b=4&k=19506&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق المعادى, المعادى, القاهرة",
+	"enName":"Home Delivery, Hadayek El Maadi, Maadi, Cairo"
+}
+	]
+}]}

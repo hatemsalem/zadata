@@ -1,0 +1,27 @@
+{"items":[{	"arName":"الاسكندرية الوطنية للسيارات - ايه ان ايه",
+	"enName":"Alexandria National Automotive - ANA",
+	"hotlone":"16284",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"27185",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alexandria-national-automotive-_-ana/27185?b=1&k=16284&l=search",
+	"arName":"14 طريق مايو, سموحة, الاسكندرية",
+	"enName":"14 May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"125573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alexandria-national-automotive-_-ana/125573?b=3&k=16284&l=search",
+	"arName":"91 ش 26 يوليو, الازاريطة, الاسكندرية",
+	"enName":"91 Rd. 26th Of July, Azarita, Alexandria"
+},
+		{	"profileId":"445354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alexandria-national-automotive-_-ana/445354?b=2&k=16284&l=search",
+	"arName":"كم 124 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 124,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

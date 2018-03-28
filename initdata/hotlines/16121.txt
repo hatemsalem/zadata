@@ -1,0 +1,136 @@
+{"items":[{	"arName":"بريجو",
+	"enName":"Prego",
+	"hotlone":"16121",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"373199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/373199?b=6&k=16121&l=search",
+	"arName":"62 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"enName":"62 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"207482",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/207482?b=5&k=16121&l=search",
+	"arName":"45 ش النصر ميدان الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"45 El Nasr St. El Gazaer Sq., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"325979",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/325979?b=18&k=16121&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"188308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/188308?b=1&k=16121&l=search",
+	"arName":"23 عمارات صقر قريش - ش الحسن, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"23 Saqr Qoraish Bldgs., El Hassan St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"513378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/513378?b=17&k=16121&l=search",
+	"arName":"104 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"104 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"545699",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/545699?b=24&k=16121&l=search",
+	"arName":"42 ش الهرم, الهرم, الجيزة",
+	"enName":"42 Haram St., El haram, Giza"
+},
+		{	"profileId":"464925",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/464925?b=15&k=16121&l=search",
+	"arName":"24 ش الجمهورية, المنصورة, الدقهلية",
+	"enName":"24 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"441469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/441469?b=11&k=16121&l=search",
+	"arName":"123 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"enName":"123 Abdel Aziz Al Saoud St., El manyal, Cairo"
+},
+		{	"profileId":"188304",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/188304?b=4&k=16121&l=search",
+	"arName":"423 ش رمسيس, عباسية, القاهرة",
+	"enName":"423 Ramsis St., Abbasseya, Cairo"
+},
+		{	"profileId":"422893",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/422893?b=20&k=16121&l=search",
+	"arName":"ميدان الحصرى, السادس من اكتوبر, الجيزة",
+	"enName":"El Hosary Sq., 6th of october, Giza"
+},
+		{	"profileId":"401441",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/401441?b=3&k=16121&l=search",
+	"arName":"القطعة 82 - ش اخناتون - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot 82, Ekhnatoun St., 1St District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"188305",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/188305?b=9&k=16121&l=search",
+	"arName":"ش عباس العقاد, الحى السابع, مدينة نصر, القاهرة",
+	"enName":"Abbas El Akkad St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"422894",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/422894?b=10&k=16121&l=search",
+	"arName":"ش 9, المقطم, القاهرة",
+	"enName":"Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"446475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/446475?b=21&k=16121&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"468302",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/468302?b=16&k=16121&l=search",
+	"arName":"مارينا 4, مارينا, الساحل الشمالى",
+	"enName":"Marina 4, Marina, North coast"
+},
+		{	"profileId":"148208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/148208?b=8&k=16121&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"401436",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/401436?b=12&k=16121&l=search",
+	"arName":"السوق التجارى, مدينة الرحاب, القاهرة",
+	"enName":"Commercial Market, Al rehab city, Cairo"
+},
+		{	"profileId":"148248",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/148248?b=13&k=16121&l=search",
+	"arName":"106 ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"106 El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"60761",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/60761?b=2&k=16121&l=search",
+	"arName":"7 عمارات المروة - ش نبيل الوقاد, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"7 El Marwa Bldgs., Nabil El Waqqad St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"545687",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/545687?b=23&k=16121&l=search",
+	"arName":"41 ش فيصل - عزبة جبريل, المريوطية, فيصل, الجيزة",
+	"enName":"41 Faisal St., Ezbet Jebril, El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"85881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/85881?b=7&k=16121&l=search",
+	"arName":"13 ش افريقيا متفرع من ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"enName":"13 Africa St. Off Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"431360",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/431360?b=19&k=16121&l=search",
+	"arName":"كم 82.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"enName":"Km 82.5,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"253944",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/253944?b=22&k=16121&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"325982",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prego/325982?b=14&k=16121&l=search",
+	"arName":"المجاورة التاسعة, العاشر من رمضان, الشرقية",
+	"enName":"9th Neighbourhood, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

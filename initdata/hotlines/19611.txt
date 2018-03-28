@@ -1,0 +1,24 @@
+{"items":[{	"arName":"زيروكس",
+	"enName":"Xerox",
+	"hotlone":"19611",
+	"arCategory":[
+		"كمبيوتر طابعات",
+		"مكاتب معدات"
+	],
+	"enCategories":[
+		"Computer Printers & Parts",
+		"Office Equipment"
+	],
+	"contacts":[
+		{	"profileId":"133739",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/xerox/133739?b=2&k=19611&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"enName":"customer Service, Ramlet boulak, Cairo"
+},
+		{	"profileId":"45290",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/xerox/45290?b=1&k=19611&l=search",
+	"arName":"كورنيش النيل - ابراج النايل سيتى - البرج الشمالى 2005ج - الدور 26, رملة بولاق, القاهرة",
+	"enName":"Corniche El Nil, Nile City Towers, North Tower 2005c, Floor 26, Ramlet boulak, Cairo"
+}
+	]
+}]}

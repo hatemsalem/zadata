@@ -1,0 +1,27 @@
+{"items":[{	"arName":"سيارات القرش",
+	"enName":"El Kersh Cars",
+	"hotlone":"16916",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"312356",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kersh-cars/312356?b=1&k=16916&l=search",
+	"arName":"263 ش جسر السويس, الالف مسكن, مصر الجديدة, القاهرة",
+	"enName":"263 Gesr El Suez St., El Alf Maskan, Heliopolis, Cairo"
+},
+		{	"profileId":"311745",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kersh-cars/311745?b=2&k=16916&l=search",
+	"arName":"57 ش الميرغنى, مصر الجديدة, القاهرة",
+	"enName":"57 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"455147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kersh-cars/455147?b=3&k=16916&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,32 @@
+{"items":[{	"arName":"انشور للخدمات",
+	"enName":"Ensure Services",
+	"hotlone":"19375",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"508726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ensure-services/508726?b=3&k=19375&l=search",
+	"arName":"21 ش مصطفى كامل متفرع من ش فوزى معاذ, سموحة, الاسكندرية",
+	"enName":"21 Mostafa Kamel St. Off Fawzy Moaz St., Semouha, Alexandria"
+},
+		{	"profileId":"508720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ensure-services/508720?b=4&k=19375&l=search",
+	"arName":"6 ش خان يونس متفرع من ش شهاب, المهندسين, الجيزة",
+	"enName":"6 Khan Younes St. Off Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"137470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ensure-services/137470?b=1&k=19375&l=search",
+	"arName":"12 ب ش محمد كامل الحارونى متفرع من ش احمد فخرى, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"12 B Mohamed Kamel El Harouny St. Off Ahmed Fakhry St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"508718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ensure-services/508718?b=2&k=19375&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

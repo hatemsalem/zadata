@@ -1,0 +1,37 @@
+{"items":[{	"arName":"العالمية للادوات الصحية - جواد",
+	"enName":"El Alameya For Sanitaryware - Gawad",
+	"hotlone":"16273",
+	"arCategory":[
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"80667",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alameya-for-sanitaryware-_-gawad/80667?b=3&k=16273&l=search",
+	"arName":"10 ش المساواة, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"10 El Mosawah St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"548601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alameya-for-sanitaryware-_-gawad/548601?b=2&k=16273&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"48928",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alameya-for-sanitaryware-_-gawad/48928?b=5&k=16273&l=search",
+	"arName":"المنطقة الصناعية الاولى, العاشر من رمضان, الشرقية",
+	"enName":"1St Industrial Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"139596",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alameya-for-sanitaryware-_-gawad/139596?b=1&k=16273&l=search",
+	"arName":"1 ش يوسف باشا سليمان, الفجالة, القاهرة",
+	"enName":"1 Youssef Pasha Soliman St., Faggala, Cairo"
+},
+		{	"profileId":"196247",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alameya-for-sanitaryware-_-gawad/196247?b=4&k=16273&l=search",
+	"arName":"16 ش الصايغ, السبتية, القاهرة",
+	"enName":"16 El Sayegh St., El sabteya, Cairo"
+}
+	]
+}]}

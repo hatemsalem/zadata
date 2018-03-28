@@ -1,0 +1,27 @@
+{"items":[{	"arName":"الجيزة الوطنية للسيارات - جى ان ايه",
+	"enName":"Giza National Automotive - GNA",
+	"hotlone":"16890",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"54200",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/giza-national-automotive-_-gna/54200?b=3&k=16890&l=search",
+	"arName":"1 ش التحرير, الدقى, الجيزة",
+	"enName":"1 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"421324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/giza-national-automotive-_-gna/421324?b=1&k=16890&l=search",
+	"arName":"كم 22 - - مرتفعات الاهرام, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"enName":"Km 22, , El Ahram Heights, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"421238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/giza-national-automotive-_-gna/421238?b=2&k=16890&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

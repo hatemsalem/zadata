@@ -1,0 +1,48 @@
+{"items":[{	"arName":"دلتا ماركت",
+	"enName":"Delta Market",
+	"hotlone":"19408",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"232715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-market/232715?b=3&k=19408&l=search",
+	"arName":"., مدينة بدر, البحيرة",
+	"enName":"., Badr city, El beheira"
+},
+		{	"profileId":"232740",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-market/232740?b=1&k=19408&l=search",
+	"arName":"., رأس سدر, جنوب سيناء",
+	"enName":"., RAS SIDR, Ras sidr, South sinai"
+},
+		{	"profileId":"232899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-market/232899?b=2&k=19408&l=search",
+	"arName":"ش عبد الخالق ثروت, حى السويس, السويس",
+	"enName":"Abdel Khaleq Tharwat St., Suez district, Suez"
+}
+	]
+}, {	"arName":"الشركة العامة لتجارة السلع الغذائية",
+	"enName":"General Co. For Food Product Trade",
+	"hotlone":"19408",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"187064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-co.-for-food-product-trade/187064?b=4&k=19408&l=search",
+	"arName":"16 ب ش 26 يوليو, وسط البلد, القاهرة",
+	"enName":"16 B 26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"187067",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-co.-for-food-product-trade/187067?b=5&k=19408&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,74 @@
+{"items":[{	"arName":"لا نوازيت",
+	"enName":"La Noisette",
+	"hotlone":"16353",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"146036",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-noisette/146036?b=4&k=16353&l=search",
+	"arName":"1 عمارة ازهار السرايا - ش فوزى معاذ ميدان على بن ابى طالب, سموحة, الاسكندرية",
+	"enName":"1 Azhar El Saraya Bldg., Fawzy Moaz St. Aly Ibn Abi Taleb Sq., Semouha, Alexandria"
+},
+		{	"profileId":"535237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-noisette/535237?b=3&k=16353&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, سموحة, الاسكندرية",
+	"enName":"Home Delivery, Semouha, Alexandria"
+}
+	]
+}, {	"arName":"كوكى مان",
+	"enName":"Cookie Man",
+	"hotlone":"16353",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"401346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cookie-man/401346?b=2&k=16353&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ميامى, الاسكندرية",
+	"enName":"Home Delivery, Miami, Alexandria"
+},
+		{	"profileId":"146034",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cookie-man/146034?b=1&k=16353&l=search",
+	"arName":"1 عمارة ازهار السرايا - ش فوزى معاذ ميدان على بن ابى طالب, سموحة, الاسكندرية",
+	"enName":"1 Azhar El Saraya Bldg., Fawzy Moaz St. Aly Ibn Abi Taleb Sq., Semouha, Alexandria"
+}
+	]
+}, {	"arName":"مطعم رافيولى الايطالى",
+	"enName":"Ravioli Italian Restaurant",
+	"hotlone":"16353",
+	"arCategory":[
+		"مطاعم ايطالية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Italian Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"146035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ravioli-italian-restaurant/146035?b=5&k=16353&l=search",
+	"arName":"1 ش فوزى معاذ ميدان على بن ابى طالب - عمارة ازهار السرايا, سموحة, الاسكندرية",
+	"enName":"1 Fawzy Moaz St. Aly Ibn Abi Taleb Sq., Azhar El Saraya Bldg., Semouha, Alexandria"
+},
+		{	"profileId":"435246",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ravioli-italian-restaurant/435246?b=6&k=16353&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, سموحة, الاسكندرية",
+	"enName":"Home Delivery, Semouha, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,164 @@
+{"items":[{	"arName":"موفنبيك",
+	"enName":"Movenpick",
+	"hotlone":"19467",
+	"arCategory":[
+		"ايس كريم والبان"
+	],
+	"enCategories":[
+		"Ice Cream & Dairy"
+	],
+	"contacts":[
+		{	"profileId":"451087",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/movenpick/451087?b=7&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ال سى واى كى كى",
+	"enName":"LC Waikiki",
+	"hotlone":"19467",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"347389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lc-waikiki/347389?b=6&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"سينمات صن سيتى",
+	"enName":"Sun City Cinemas",
+	"hotlone":"19467",
+	"arCategory":[
+		"سينما ومسارح"
+	],
+	"enCategories":[
+		"Cinemas & Theaters"
+	],
+	"contacts":[
+		{	"profileId":"514524",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sun-city-cinemas/514524?b=9&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"الدو اكسسوريز",
+	"enName":"Aldo Accessories",
+	"hotlone":"19467",
+	"arCategory":[
+		"اكسسوارات حريمى"
+	],
+	"enCategories":[
+		"Women Accessories"
+	],
+	"contacts":[
+		{	"profileId":"356365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aldo-accessories/356365?b=1&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258 F, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"اتش ان اس جروب",
+	"enName":"HNS Group",
+	"hotlone":"19467",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"127778",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hns-group/127778?b=5&k=19467&l=search",
+	"arName":"199 ش العروبة, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"199 El Orouba St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"257696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hns-group/257696?b=4&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد - الدور 1, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258F, Autostrad Rd., Floor 1, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"257705",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hns-group/257705?b=3&k=19467&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بسكوينى كافيه",
+	"enName":"PaSquini Cafe",
+	"hotlone":"19467",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"356233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pasquini-cafe/356233?b=8&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد - الدور 2, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258 F, Autostrad Rd., Floor 2, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"صن سيتى مول",
+	"enName":"Sun City Mall",
+	"hotlone":"19467",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"342169",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sun-city-mall/342169?b=10&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"429999",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sun-city-mall/429999?b=11&k=19467&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"الجباس",
+	"enName":"El Gabbas",
+	"hotlone":"19467",
+	"arCategory":[
+		"احذية وشنط محلات"
+	],
+	"enCategories":[
+		"Shoes & Bags Retail"
+	],
+	"contacts":[
+		{	"profileId":"451105",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-gabbas/451105?b=2&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"تابالوى",
+	"enName":"Tapealoeil",
+	"hotlone":"19467",
+	"arCategory":[
+		"اطفال - ملابس ومستلزمات"
+	],
+	"enCategories":[
+		"Kids Clothing & Accessories"
+	],
+	"contacts":[
+		{	"profileId":"341364",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tapealoeil/341364?b=12&k=19467&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مصر الجديدة, القاهرة",
+	"enName":"Square 1258f, Autostrad Rd., Heliopolis, Cairo"
+}
+	]
+}]}

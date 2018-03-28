@@ -1,0 +1,186 @@
+{"items":[{	"arName":"ابو شقرة",
+	"enName":"Abou Shakra",
+	"hotlone":"19090",
+	"arCategory":[
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"74539",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/74539?b=8&k=19090&l=search",
+	"arName":"17 ش جامعة الدول العربية ميدان مصطفى محمود, المهندسين, الجيزة",
+	"enName":"17 Gamaet El Dewal El Arabeya St. Mostafa Mahmoud Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"74538",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/74538?b=6&k=19090&l=search",
+	"arName":"82 ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"82 El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"74537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/74537?b=3&k=19090&l=search",
+	"arName":"ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"enName":"Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"12130",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/12130?b=1&k=19090&l=search",
+	"arName":"69 ش قصر العينى, قصر العينى, القاهرة",
+	"enName":"69 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"439947",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/439947?b=10&k=19090&l=search",
+	"arName":"ميدان ابو الهول, الهرم, الجيزة",
+	"enName":"Abou El Houl Sq., El haram, Giza"
+},
+		{	"profileId":"439953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/439953?b=12&k=19090&l=search",
+	"arName":"مارينا 4, مارينا, الساحل الشمالى",
+	"enName":"Marina 4, Marina, North coast"
+},
+		{	"profileId":"98359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/98359?b=4&k=19090&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, كلية البنات, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"74543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/74543?b=2&k=19090&l=search",
+	"arName":"74 ش النصر تقاطع ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"74 El Nasr St. Intersection Of El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"555177",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/555177?b=13&k=19090&l=search",
+	"arName":"ش الشباب, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"enName":"El Shabab St., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"74541",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/74541?b=9&k=19090&l=search",
+	"arName":"425 طريق الجيش متفرع من ش الشعراوى, لوران, الاسكندرية",
+	"enName":"425 El Guish Rd. Off El Shaarawy St., Loran, Alexandria"
+},
+		{	"profileId":"521117",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/521117?b=11&k=19090&l=search",
+	"arName":"ابراج نايل بلازا - ش احمد على علوبة, اسيوط, اسيوط",
+	"enName":"Nile Plaza Towers, Ahmed Aly Alouba St., Assyout, Assyout"
+},
+		{	"profileId":"370313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/370313?b=7&k=19090&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"535634",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-shakra/535634?b=5&k=19090&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"شقرة تو جو",
+	"enName":"Shakra 2 Go",
+	"hotlone":"19090",
+	"arCategory":[
+		"مشويات",
+		"مطاعم",
+		"وجبات سريعة",
+		"مطاعم صالات طعام",
+		"ماكولات شرقية"
+	],
+	"enCategories":[
+		"B. B. Q.",
+		"Restaurants",
+		"Fast Food",
+		"Restaurants Eat Out",
+		"Oriental Food"
+	],
+	"contacts":[
+		{	"profileId":"449179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shakra-2-go/449179?b=22&k=19090&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"409675",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shakra-2-go/409675?b=25&k=19090&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"439952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shakra-2-go/439952?b=24&k=19090&l=search",
+	"arName":"ميدان ابو الهول, الهرم, الجيزة",
+	"enName":"Abou El Houl Sq., El haram, Giza"
+},
+		{	"profileId":"439951",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shakra-2-go/439951?b=20&k=19090&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"542295",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shakra-2-go/542295?b=23&k=19090&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"370316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shakra-2-go/370316?b=19&k=19090&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"439962",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shakra-2-go/439962?b=21&k=19090&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"الشركة السباعية للمشروعات السياحية",
+	"enName":"Sevenfold Co. For Touristic Projects",
+	"hotlone":"19090",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"129714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sevenfold-co.-for-touristic-projects/129714?b=18&k=19090&l=search",
+	"arName":"16 ب ش مصطفى الديوان - ش معمل السكر سابقا - الدور 6, جاردن سيتى, القاهرة",
+	"enName":"16 B Mostafa El Diwan St. - Maamal El Soukar St. Previously, Floor 6, Garden city, Cairo"
+}
+	]
+}, {	"arName":"فيش اند فيشر",
+	"enName":"Fish & Fisher",
+	"hotlone":"19090",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"439954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fish-&-fisher/439954?b=16&k=19090&l=search",
+	"arName":"مارينا 4, مارينا, الساحل الشمالى",
+	"enName":"Marina 4, Marina, North coast"
+},
+		{	"profileId":"327885",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fish-&-fisher/327885?b=14&k=19090&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المعادى, القاهرة",
+	"enName":"Home Delivery, Maadi, Cairo"
+},
+		{	"profileId":"327872",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fish-&-fisher/327872?b=15&k=19090&l=search",
+	"arName":"74 ش النصر تقاطع ش اللاسلكى - الدور 3, المعادى الجديدة, المعادى, القاهرة",
+	"enName":"74 El Nasr St. Intersection Of El Laselky St., Floor 3, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"416787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fish-&-fisher/416787?b=17&k=19090&l=search",
+	"arName":"طريق الجيش, لوران, الاسكندرية",
+	"enName":"El Guish Rd., Loran, Alexandria"
+}
+	]
+}]}

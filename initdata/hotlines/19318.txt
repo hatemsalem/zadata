@@ -1,0 +1,47 @@
+{"items":[{	"arName":"المهندس للتأمين - ام اى سى",
+	"enName":"Mohandes Insurance - MIC",
+	"hotlone":"19318",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"71844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/71844?b=1&k=19318&l=search",
+	"arName":"217 ش رمسيس, غمره, القاهرة",
+	"enName":"217 Ramsis St., Ghamrah, Cairo"
+},
+		{	"profileId":"254424",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/254424?b=7&k=19318&l=search",
+	"arName":"2 ش قناة السويس متفرع من ش عبد العزيز محمود, المنصورة, الدقهلية",
+	"enName":"2 Suez Canal St. Off Abdel Aziz Mahmoud St., El mansoura, El dakahleya"
+},
+		{	"profileId":"254700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/254700?b=4&k=19318&l=search",
+	"arName":"ش النهضة تقاطع ش ممفيس - عمارة المساجيرية - الدور 3, حى الشرق, بور سعيد",
+	"enName":"El Nahda St. Intersection Of Memphis St., El Masagerya Bldg., Floor 3, El shark district, Port said"
+},
+		{	"profileId":"71840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/71840?b=2&k=19318&l=search",
+	"arName":"36 ش البطل احمد عبد العزيز متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"enName":"36 El Batal Ahmed Abdel Aziz St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"254470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/254470?b=5&k=19318&l=search",
+	"arName":"22 ش الشهيد عطا الله على حسن - عمارة الصفا - الدور 1, منشأة لطف الله, الفيوم",
+	"enName":"22 El Shaheed Atallah Aly Hassan St., El Safa Bldg., Floor 1, Manshaat lotfallah, El fayoum"
+},
+		{	"profileId":"5549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/5549?b=3&k=19318&l=search",
+	"arName":"3 ميدان المساحة, الدقى, الجيزة",
+	"enName":"3 El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"157065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/157065?b=6&k=19318&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

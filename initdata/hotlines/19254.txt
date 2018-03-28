@@ -1,0 +1,22 @@
+{"items":[{	"arName":"مجموعة ازميل العقارية",
+	"enName":"Azmeel Group Real Estate",
+	"hotlone":"19254",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"401403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/azmeel-group-real-estate/401403?b=1&k=19254&l=search",
+	"arName":"القطعة A - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"enName":"Plot A, El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"561500",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/azmeel-group-real-estate/561500?b=2&k=19254&l=search",
+	"arName":"78 ش عبد العزيز فهمى متفرع من ميدان سانت فاتيما, سانت فاتيما, مصر الجديدة, القاهرة",
+	"enName":"78 Abdel Aziz Fahmy St. Off Saint Fatima St., Saint Fatima, Heliopolis, Cairo"
+}
+	]
+}]}

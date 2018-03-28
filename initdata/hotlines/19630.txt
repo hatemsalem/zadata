@@ -1,0 +1,22 @@
+{"items":[{	"arName":"المصريين للتوزيع والخدمات",
+	"enName":"El Masryeen For Distribution & Services",
+	"hotlone":"19630",
+	"arCategory":[
+		"مخابز وحلوانية معدات ولوازم"
+	],
+	"enCategories":[
+		"Bakery & Pastry Equipment & Supplies"
+	],
+	"contacts":[
+		{	"profileId":"162292",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masryeen-for-distribution-&-services/162292?b=2&k=19630&l=search",
+	"arName":"4 ش مكرم عبيد تقاطع طريق النصر, مدينة نصر, القاهرة",
+	"enName":"4 Makram Ebaid St. Intersection Of El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"187149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masryeen-for-distribution-&-services/187149?b=1&k=19630&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}
