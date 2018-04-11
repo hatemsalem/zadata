@@ -6,6 +6,10 @@ Id,arName,enName,arDesc,enDesc,keywords,rank,status,type
 ,الخط الساخن,Hotline,,Favorite,,1,PUBLISHED,2000
 ,العروض,offers,,Favorite,,1,PUBLISHED,2000
 ,الاتصال,Contact,,Favorite,,1,PUBLISHED,2000
+,عروض سوبر ماركت,Super Markets offers,,Offers,,1,PUBLISHED,3001
+,عروض إلكترونيات,Electronics offers,,Offers,,1,PUBLISHED,3001
+,عروض أثاث,Furniture offers,,Offers,,1,PUBLISHED,3001
+,عروض الصيدليات,Pharmacies offers,,Offers,,1,PUBLISHED,3001
 ,هاتف,Phone,,,,1,PUBLISHED,4001
 ,عنوان,Address,,,,2,PUBLISHED,4001
 ,ابواب وشبابيك - اكسسوار,Doors & Windows - Hardware,,,,1,PUBLISHED,1001
