@@ -1,0 +1,128 @@
+{"items":[{	"arName":"تاون جاس - الشركة المصرية لتوزيع الغاز الطبيعى للمدن",
+	"enName":"Town Gas - Egyptian Co. For Natural Gas Distribution In Cities",
+	"hotline":"19129",
+	"facebook":"http://www.facebook.com/TownGasCo",
+	"web":"http://www.towngas.com.eg/",
+	"arCategory":[
+		"غازات وبروبان",
+		"ارقام طوارئ"
+	],
+	"enCategories":[
+		"Gases & Propane",
+		"Emergency Numbers"
+	],
+	"contacts":[
+		{	"profileId":"128730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/128730?b=4&k=19129&l=search",
+	"arName":"3 ش محمود كامل, المنيل, القاهرة",
+	"lat":"30.022400000000001",
+	"lng":"31.224900000000002",
+	"enName":"3 Mahmoud Kamel St., El manyal, Cairo"
+},
+		{	"profileId":"132759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/132759?b=12&k=19129&l=search",
+	"arName":"طريق جزيرة محمد متفرع من كورنيش النيل, الوراق, الجيزة",
+	"lat":"30.10773",
+	"lng":"31.209389999999999",
+	"enName":"Geziret Mohamed Rd. Off Corniche El Nil, El warak, Giza"
+},
+		{	"profileId":"45906",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/45906?b=15&k=19129&l=search",
+	"arName":"185 ش السودان, المهندسين, الجيزة",
+	"lat":"30.054026",
+	"lng":"31.191414000000002",
+	"enName":"185 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"557684",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/557684?b=7&k=19129&l=search",
+	"arName":"منطقة خدمات الياسمين 2, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.049965",
+	"lng":"31.450939000000002",
+	"enName":"El Yasmeen 2 Services Zone, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"145053",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/145053?b=16&k=19129&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"1579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/1579?b=5&k=19129&l=search",
+	"arName":"37 ش المفتشين, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.082720999999999",
+	"lng":"31.352101999999999",
+	"enName":"37 el mofatesheen st., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"79830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79830?b=9&k=19129&l=search",
+	"arName":"1 ش النادى الجديد تقاطع ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.967763999999999",
+	"lng":"31.278362000000001",
+	"enName":"1 El Nady El Gadid St. Intersection Of El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"79832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79832?b=2&k=19129&l=search",
+	"arName":"140 ش طومانباى, الزيتون, القاهرة",
+	"lat":"30.1069",
+	"lng":"31.317699999999999",
+	"enName":"140 Tomanbay St., El zaytoun, Cairo"
+},
+		{	"profileId":"79831",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79831?b=11&k=19129&l=search",
+	"arName":"3 أ ش عبد الله تقاطع ش مصطفى المراغى, حلوان, القاهرة",
+	"lat":"29.848025",
+	"lng":"31.329996999999999",
+	"enName":"3 A Abdullah St. Intersection Of Mostafa El Maraghy St., Helwan, Cairo"
+},
+		{	"profileId":"79834",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79834?b=6&k=19129&l=search",
+	"arName":"25 ش المبتديان, قصر العينى, القاهرة",
+	"lat":"30.0349",
+	"lng":"31.237400000000001",
+	"enName":"25 El Mobtadaian St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"79833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79833?b=3&k=19129&l=search",
+	"arName":"8 ش احمد سعيد, عباسية, القاهرة",
+	"lat":"30.063600000000001",
+	"lng":"31.273",
+	"enName":"8 Ahmed Said St., Abbasseya, Cairo"
+},
+		{	"profileId":"79825",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79825?b=1&k=19129&l=search",
+	"arName":"امتداد ش حسن المأمون, مدينة نصر, القاهرة",
+	"lat":"30.038697200000001",
+	"lng":"31.355854900000001",
+	"enName":"Extension Of Hassan El Maamoun St., Nasr city, Cairo"
+},
+		{	"profileId":"79827",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79827?b=14&k=19129&l=search",
+	"arName":"4, 6 مساكن بنك الاسكان والتعمير - - ارض الجولف, حى الشرق, بور سعيد",
+	"lat":"31.2504411",
+	"lng":"32.281881599999998",
+	"enName":"4, 6 Bank El Iskan & El Taamir Bldgs., , Ard El Golf, El shark district, Port said"
+},
+		{	"profileId":"79826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79826?b=13&k=19129&l=search",
+	"arName":"ش 9 - الجامعة القديمة, منطقة البلاح, الاسماعيلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Rd. 9, El Gamaa El Qadima, El blah area, Ismaileya"
+},
+		{	"profileId":"79829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79829?b=10&k=19129&l=search",
+	"arName":"54 برج الاشراف - ش على باشا متفرع من ش سليم الاول, عين شمس الشرقية, القاهرة",
+	"lat":"30.118169000000002",
+	"lng":"31.320595000000001",
+	"enName":"54 El Ashraf Tower, Aly Pasha St. Off Selim El Awal St., Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"79828",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/town-gas-_-egyptian-co.-for-natural-gas-distribution-in-cities/79828?b=8&k=19129&l=search",
+	"arName":"7 ش احمد حلمى, شبرا, القاهرة",
+	"lat":"30.065000000000001",
+	"lng":"31.2454",
+	"enName":"7 Ahmed Helmy St., Shoubra, Cairo"
+}
+	]
+}]}

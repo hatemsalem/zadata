@@ -1,0 +1,95 @@
+{"items":[{	"arName":"بوابة الحكومة المصرية",
+	"enName":"Egyptian Government Portal",
+	"hotline":"19468",
+	"facebook":"http://www.facebook.com/egyptgovportal/",
+	"web":"http://www.egypt.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"514574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-government-portal/514574?b=1&k=19468&l=search",
+	"arName":"خدمة العملاء, العجوزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Agouza, Giza"
+}
+	]
+}, {	"arName":"وزارة التخطيط والمتابعة والاصلاح الادارى",
+	"enName":"Ministry Of Planning, Monitoring & Administrative Perform",
+	"hotline":"19468",
+	"facebook":"http://www.facebook.com/ad.gov.eg",
+	"web":"http://www.ad.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"475281",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-planning,-monitoring-&-administrative-perform/475281?b=3&k=19468&l=search",
+	"arName":"32 ش محمود خيرى متفرع من ش عباس العقاد, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"30.062799999999999",
+	"lng":"31.335100000000001",
+	"enName":"32 Mahmoud Khairy St. Off Abbas El Akkad St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"58816",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-planning,-monitoring-&-administrative-perform/58816?b=4&k=19468&l=search",
+	"arName":"13 طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.079868000000001",
+	"lng":"31.316693000000001",
+	"enName":"13 Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"وزارة التموين والتجارة الداخلية",
+	"enName":"Ministry Of Supply & Internal Trading",
+	"hotline":"19468",
+	"facebook":"",
+	"web":"http://www.mss.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"353660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-supply-&-internal-trading/353660?b=5&k=19468&l=search",
+	"arName":"99 ش قصر العينى, قصر العينى, القاهرة",
+	"lat":"30.036933000000001",
+	"lng":"31.234446999999999",
+	"enName":"99 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"353663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-supply-&-internal-trading/353663?b=6&k=19468&l=search",
+	"arName":"خدمة العملاء, قصر العينى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Kasr el ainy, Cairo"
+}
+	]
+}, {	"arName":"مديرية القوى العاملة والهجرة - القليوبية",
+	"enName":"Manpower & Immigration Directorate - El Qaliobeya",
+	"hotline":"19468",
+	"facebook":"",
+	"web":"http://www.manpower.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"223147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manpower-&-immigration-directorate-_-el-qaliobeya/223147?b=2&k=19468&l=search",
+	"arName":"مجمع المصالح الحكومية, بنها, القليوبية",
+	"lat":"30.472477999999999",
+	"lng":"31.177543",
+	"enName":"Governmental Affairs Complex, Banha, Kaliobeya"
+}
+	]
+}]}

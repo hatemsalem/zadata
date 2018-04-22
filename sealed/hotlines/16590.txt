@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الشركة المصرية للاسكان والتعمير",
+	"enName":"Egyptian Co. For Housing & Building",
+	"hotline":"16590",
+	"facebook":"",
+	"web":"http://www.elmsrya.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"140564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-housing-&-building/140564?b=1&k=16590&l=search",
+	"arName":"1 ش محى الدين عبد الحميد امتداد ش عباس العقاد - الدور 8, مدينة نصر, القاهرة",
+	"lat":"30.0474",
+	"lng":"31.339700000000001",
+	"enName":"1 Mohy El Din Abdel Hamid St. Extension Of Abbas El Akkad St., Floor 8, Nasr city, Cairo"
+}
+	]
+}]}

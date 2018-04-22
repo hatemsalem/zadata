@@ -1,0 +1,44 @@
+{"items":[{	"arName":"ناسيتا لوجستكس",
+	"enName":"Nacita Logistics",
+	"hotline":"19725",
+	"facebook":"",
+	"web":"http://www.nacita.com/Logistic/en/landing/page/349/division_id/4",
+	"arCategory":[
+		"اطارات",
+		"تخليص جمركى"
+	],
+	"enCategories":[
+		"Tires",
+		"Customs Clearing"
+	],
+	"contacts":[
+		{	"profileId":"75058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nacita-logistics/75058?b=4&k=19725&l=search",
+	"arName":"273 طريق الحرية, سبورتنج, الاسكندرية",
+	"lat":"31.213051",
+	"lng":"29.935172000000001",
+	"enName":"273 El Horreya Rd., Sporting, Alexandria"
+},
+		{	"profileId":"75055",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nacita-logistics/75055?b=3&k=19725&l=search",
+	"arName":"158 ش جسر البحر, شبرا, القاهرة",
+	"lat":"30.093699999999998",
+	"lng":"31.243300000000001",
+	"enName":"158 Gesr El Bahr St., Shoubra, Cairo"
+},
+		{	"profileId":"13754",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nacita-logistics/13754?b=1&k=19725&l=search",
+	"arName":"15 أ ش 26 يوليو - الدور 1, وسط البلد, القاهرة",
+	"lat":"30.052731999999999",
+	"lng":"31.242654999999999",
+	"enName":"15 A 26th Of July St., Floor 1, Downtown, Cairo"
+},
+		{	"profileId":"75054",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nacita-logistics/75054?b=2&k=19725&l=search",
+	"arName":"29 ش عماد الدين, وسط البلد, القاهرة",
+	"lat":"30.058067000000001",
+	"lng":"31.244772000000001",
+	"enName":"29 Emad El Din St., Downtown, Cairo"
+}
+	]
+}]}

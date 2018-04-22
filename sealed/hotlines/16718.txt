@@ -1,0 +1,49 @@
+{"items":[{	"arName":"النورس للسياحة والنقل",
+	"enName":"Al Nawras Tourism & Transport",
+	"hotline":"16718",
+	"facebook":"http://www.facebook.com/alnawrastourism",
+	"web":"http://www.alnawrastours.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"466681",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nawras-tourism-&-transport/466681?b=2&k=16718&l=search",
+	"arName":"خدمة العملاء, منيل الروضة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Manial el roda, Cairo"
+},
+		{	"profileId":"7080",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nawras-tourism-&-transport/7080?b=1&k=16718&l=search",
+	"arName":"31 ش الاخشيد - الدور 1 شقة 1, منيل الروضة, القاهرة",
+	"lat":"30.012816999999998",
+	"lng":"31.223486000000001",
+	"enName":"31 El Ekhshid St., Floor 1 Flat 1, Manial el roda, Cairo"
+},
+		{	"profileId":"466614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nawras-tourism-&-transport/466614?b=3&k=16718&l=search",
+	"arName":"ش السوق, بئر العبد, شمال سيناء",
+	"lat":"",
+	"lng":"",
+	"enName":"El Souq St., Bear el abd, North sinai"
+},
+		{	"profileId":"237018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nawras-tourism-&-transport/237018?b=4&k=16718&l=search",
+	"arName":"107 ش تبوك متفرع من ش المشير احمد اسماعيل, سيدى جابر الشيخ, الاسكندرية",
+	"lat":"31.223516",
+	"lng":"29.942271000000002",
+	"enName":"107 tabouk st. off el moushir ahmed ismail st., Sidi gaber el sheikh, Alexandria"
+},
+		{	"profileId":"295650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nawras-tourism-&-transport/295650?b=5&k=16718&l=search",
+	"arName":"ش على باشا مبارك - برج توريل, المنصورة, الدقهلية",
+	"lat":"31.054258699999998",
+	"lng":"31.399116200000002",
+	"enName":"Aly Pasha Mubarak St., Toril Tower, El mansoura, El dakahleya"
+}
+	]
+}]}

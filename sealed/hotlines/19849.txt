@@ -1,0 +1,35 @@
+{"items":[{	"arName":"دريا ترافيل",
+	"enName":"Derya Travel",
+	"hotline":"19849",
+	"facebook":"http://www.facebook.com/deryathy",
+	"web":"http://www.deryatravel.com.eg/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"429691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/derya-travel/429691?b=2&k=19849&l=search",
+	"arName":"19 ش عبد السلام عارف متفرع من ش طلعت حرب - الدور 3 شقة 34, وسط البلد, القاهرة",
+	"lat":"30.045189000000001",
+	"lng":"31.238617999999999",
+	"enName":"19 Abdel Salam Aref St. Off Talaat Harb St., Floor 3 Flat 34, Downtown, Cairo"
+},
+		{	"profileId":"475144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/derya-travel/475144?b=3&k=19849&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"475152",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/derya-travel/475152?b=1&k=19849&l=search",
+	"arName":"6 أ ش السباق, مصر الجديدة, القاهرة",
+	"lat":"30.102399999999999",
+	"lng":"31.322600000000001",
+	"enName":"6 A El Sebaq St., Heliopolis, Cairo"
+}
+	]
+}]}

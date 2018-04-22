@@ -1,0 +1,21 @@
+{"items":[{	"arName":"تارجت ايجيبت جروب لخدمات الحراسة ونقل الاموال ش. م. م",
+	"enName":"Target Egypt Group For Security Services & Money Transfer S.A.E",
+	"hotline":"16746",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"انظمة امنية و كاميرات مراقبة"
+	],
+	"enCategories":[
+		"Security Cameras & Systems"
+	],
+	"contacts":[
+		{	"profileId":"150132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/target-egypt-group-for-security-services-&-money-transfer-s.a.e/150132?b=1&k=16746&l=search",
+	"arName":"11 عمارات الشركة السعودية - تقسيم الاوقاف - ميدان السواح, سراى القبة, القاهرة",
+	"lat":"30.102937000000001",
+	"lng":"31.298769",
+	"enName":"11 Secon Bldgs., El Awqaf Division - El Sawah Sq., Saray el koba, Cairo"
+}
+	]
+}]}

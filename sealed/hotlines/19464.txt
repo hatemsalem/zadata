@@ -1,0 +1,28 @@
+{"items":[{	"arName":"لافيدا للتسويق العقارى",
+	"enName":"Lavida For Real Estate Marketing",
+	"hotline":"19464",
+	"facebook":"http://www.facebook.com/LavidaRealEstateEgypt",
+	"web":"http://www.lavidarealestate.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"577509",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lavida-for-real-estate-marketing/577509?b=1&k=19464&l=search",
+	"arName":"خدمة العملاء, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"577508",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lavida-for-real-estate-marketing/577508?b=2&k=19464&l=search",
+	"arName":"محور السادات, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.053051",
+	"lng":"31.488731999999999",
+	"enName":"El Sadat Spine, 1st Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,55 @@
+{"items":[{	"arName":"وين وين",
+	"enName":"Win Win",
+	"hotline":"16795",
+	"facebook":"",
+	"web":"http://www.winwin-me.com/",
+	"arCategory":[
+		"تسويق استشاريون"
+	],
+	"enCategories":[
+		"Marketing Consultants"
+	],
+	"contacts":[
+		{	"profileId":"457820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/win-win/457820?b=3&k=16795&l=search",
+	"arName":"خدمة العملاء, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"431449",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/win-win/431449?b=4&k=16795&l=search",
+	"arName":"29 ش اسماعيل صبرى متفرع من ش النزهة, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.075344999999999",
+	"lng":"31.339817",
+	"enName":"29 Ismail Sabry St. Off El Nozha St., Hegaz Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بوجو بلس",
+	"enName":"BOGO Plus",
+	"hotline":"16795",
+	"facebook":"",
+	"web":"http://www.bogo-plus.com/",
+	"arCategory":[
+		"كروت تخفيض"
+	],
+	"enCategories":[
+		"Discount Cards"
+	],
+	"contacts":[
+		{	"profileId":"457821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bogo-plus/457821?b=2&k=16795&l=search",
+	"arName":"29 ش اسماعيل صبرى متفرع من ش النزهة, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.109407999999998",
+	"lng":"31.343686000000002",
+	"enName":"29 Ismail Sabry St. Off El Nozha St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"457823",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bogo-plus/457823?b=1&k=16795&l=search",
+	"arName":"خدمة العملاء, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Hegaz Square, Heliopolis, Cairo"
+}
+	]
+}]}

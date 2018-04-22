@@ -1,0 +1,42 @@
+{"items":[{	"arName":"جمعية المصباح المضئ الخيرية",
+	"enName":"El Mesbah El Modea Charitable Association",
+	"hotline":"16093",
+	"facebook":"http://www.facebook.com/ElMesbah.ElModea",
+	"web":"http://www.misbahelmudii.org/",
+	"arCategory":[
+		"جمعيات ومنظمات"
+	],
+	"enCategories":[
+		"Associations"
+	],
+	"contacts":[
+		{	"profileId":"563502",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mesbah-el-modea-charitable-association/563502?b=4&k=16093&l=search",
+	"arName":"حى المستثمرين الجانوبية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Mostathmereen El Ganoubia District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"322935",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mesbah-el-modea-charitable-association/322935?b=3&k=16093&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"135153",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mesbah-el-modea-charitable-association/135153?b=1&k=16093&l=search",
+	"arName":"6 ب عمارات اطلس - ش د. احمد فخرى, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.066351999999998",
+	"lng":"31.348427999999998",
+	"enName":"6 B Atlas Bldgs., Dr. Ahmed Fakhry St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"563516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mesbah-el-modea-charitable-association/563516?b=2&k=16093&l=search",
+	"arName":"داخل المبنى الادارى - محل 14, مدينة الرحاب, القاهرة",
+	"lat":"30.059270000000001",
+	"lng":"31.491644000000001",
+	"enName":"Inside Administrative Bldg., Shop 14, Al rehab city, Cairo"
+}
+	]
+}]}

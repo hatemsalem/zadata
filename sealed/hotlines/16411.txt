@@ -1,0 +1,21 @@
+{"items":[{	"arName":"اتصالات",
+	"enName":"Etisalat",
+	"hotline":"16411",
+	"facebook":"http://www.facebook.com/etisalatmisr",
+	"web":"http://www.etisalat.com.eg/",
+	"arCategory":[
+		"تليفونات محمولة مشغلوا خطوط"
+	],
+	"enCategories":[
+		"Mobile Line Operators"
+	],
+	"contacts":[
+		{	"profileId":"468810",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etisalat/468810?b=1&k=16411&l=search",
+	"arName":"خدمة المبيعات, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Sales Service, Abou rawash, Giza"
+}
+	]
+}]}

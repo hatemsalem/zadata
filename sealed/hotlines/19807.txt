@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ماسترز اوتوموتيف",
+	"enName":"Masters Automotive Co. - MAC",
+	"hotline":"19807",
+	"facebook":"http://www.facebook.com/mastersautomotiveco",
+	"web":"http://www.mastersautomotiveco.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"54121",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masters-automotive-co.-_-mac/54121?b=1&k=19807&l=search",
+	"arName":"28 ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.063276999999999",
+	"lng":"31.325879",
+	"enName":"28 El Tayaran St., 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

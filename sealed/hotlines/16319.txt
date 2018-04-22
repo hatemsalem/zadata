@@ -1,0 +1,35 @@
+{"items":[{	"arName":"تميمة للسياحة",
+	"enName":"Tamima Tours",
+	"hotline":"16319",
+	"facebook":"http://www.facebook.com/Tamima-Tours-Co-426099977472111",
+	"web":"http://www.tamimatours.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"489387",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamima-tours/489387?b=3&k=16319&l=search",
+	"arName":"2 ش عدلى يكن متفرع من ش الجيش, قويسنا, المنوفية",
+	"lat":"30.548110999999999",
+	"lng":"31.13524",
+	"enName":"2 Adly Yakan St. Off El Guish St., Quwasnah, El monofeya"
+},
+		{	"profileId":"441853",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamima-tours/441853?b=2&k=16319&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"49284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamima-tours/49284?b=1&k=16319&l=search",
+	"arName":"10 ش محمود بسيونى متفرع من ميدان عبد المنعم رياض, وسط البلد, القاهرة",
+	"lat":"30.048776",
+	"lng":"31.235053000000001",
+	"enName":"10 Mahmoud Basiony St. Off Abdel Moneim Riad Sq., Downtown, Cairo"
+}
+	]
+}]}

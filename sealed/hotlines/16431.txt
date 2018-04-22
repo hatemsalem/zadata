@@ -1,0 +1,28 @@
+{"items":[{	"arName":"البارون للتعمير",
+	"enName":"El Baron For Construction",
+	"hotline":"16431",
+	"facebook":"",
+	"web":"http://www.elbaronconst.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"435800",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baron-for-construction/435800?b=1&k=16431&l=search",
+	"arName":"خدمة العملاء, سموحة, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Semouha, Alexandria"
+},
+		{	"profileId":"195160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baron-for-construction/195160?b=2&k=16431&l=search",
+	"arName":"74 عمارات سموحة بارونز - ش البرت الاول, سموحة, الاسكندرية",
+	"lat":"31.212897999999999",
+	"lng":"29.939487",
+	"enName":"74 Semouha Baronz Bldgs., Albert El Awal St., Semouha, Alexandria"
+}
+	]
+}]}

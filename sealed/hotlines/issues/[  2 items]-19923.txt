@@ -1,0 +1,41 @@
+{"items":[{	"arName":"الحياة للاستثمارات العقارية",
+	"enName":"El Hayah For Real Estate Investments",
+	"hotline":"19923",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"235762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hayah-for-real-estate-investments/235762?b=1&k=19923&l=search",
+	"arName":"2 /4 ش انور المفتى متفرع من ش عباس العقاد - الدور 7, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.067162",
+	"lng":"31.333653999999999",
+	"enName":"2 /4 Anwar El Mofty St. Off Abbas El Akkad St., Floor 7, 1st Zone, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"الحياة للاستثمارات العقارية",
+	"enName":"El Hayah Real Estate Investments",
+	"hotline":"19923",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"428148",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hayah-real-estate-investments/428148?b=2&k=19923&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

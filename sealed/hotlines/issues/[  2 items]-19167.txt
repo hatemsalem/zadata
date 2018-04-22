@@ -1,0 +1,64 @@
+{"items":[{	"arName":"البلاج للتنمية العقارية",
+	"enName":"Al Plage For Real Estate Development",
+	"hotline":"19167",
+	"facebook":"http://www.facebook.com/AlplageCo",
+	"web":"http://www.alplage.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"230610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-plage-for-real-estate-development/230610?b=3&k=19167&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"454263",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-plage-for-real-estate-development/454263?b=4&k=19167&l=search",
+	"arName":"10 ابراج الصيادلة, سموحة, الاسكندرية",
+	"lat":"31.212566299999999",
+	"lng":"29.951072799999999",
+	"enName":"10 El Sayadla Towers, Semouha, Alexandria"
+},
+		{	"profileId":"223576",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-plage-for-real-estate-development/223576?b=2&k=19167&l=search",
+	"arName":"1 ش احمد عرابى ميدان سفنكس, المهندسين, الجيزة",
+	"lat":"30.061976999999999",
+	"lng":"31.208188",
+	"enName":"1 Ahmed Orabi St. Sphinx Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"230603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-plage-for-real-estate-development/230603?b=1&k=19167&l=search",
+	"arName":"1 ش محمد فهمى المحضر متفرع من ش الطيران - الدور 5, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.056011000000002",
+	"lng":"31.327192",
+	"enName":"1 Mohamed Fahmy El Mohdar St. Off El Tayaran St., Floor 5, 1st Zone, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"الجزار للسيراميك",
+	"enName":"El Gazzar For Ceramic",
+	"hotline":"19167",
+	"facebook":"http://www.facebook.com/Ceramica.Elgazzar",
+	"web":"",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات",
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain",
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"447337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-gazzar-for-ceramic/447337?b=5&k=19167&l=search",
+	"arName":"., بنها الجديدة, القليوبية",
+	"lat":"30.471853",
+	"lng":"31.185446",
+	"enName":"., Banha el gadida, Kaliobeya"
+}
+	]
+}]}

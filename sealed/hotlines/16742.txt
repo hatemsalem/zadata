@@ -1,0 +1,28 @@
+{"items":[{	"arName":"فيتال اير",
+	"enName":"Vital Aire",
+	"hotline":"16742",
+	"facebook":"",
+	"web":"http://www.vitalaire.com.eg/",
+	"arCategory":[
+		"طب معدات"
+	],
+	"enCategories":[
+		"Medical Equipment"
+	],
+	"contacts":[
+		{	"profileId":"552102",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vital-aire/552102?b=2&k=16742&l=search",
+	"arName":"خدمة العملاء, دجلة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Degla, Maadi, Cairo"
+},
+		{	"profileId":"552068",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vital-aire/552068?b=1&k=16742&l=search",
+	"arName":"فيلا 10 - ش 206 تقاطع ش 208, دجلة, المعادى, القاهرة",
+	"lat":"29.955973",
+	"lng":"31.273403999999999",
+	"enName":"Villa 10, Rd. 206 Intersection Of Rd. 208, Degla, Maadi, Cairo"
+}
+	]
+}]}

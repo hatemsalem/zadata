@@ -1,0 +1,28 @@
+{"items":[{	"arName":"دانا جروب للتسويق العقارى",
+	"enName":"Dana Group Real Estate",
+	"hotline":"19197",
+	"facebook":"",
+	"web":"http://www.danagroupegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"136991",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dana-group-real-estate/136991?b=1&k=19197&l=search",
+	"arName":"بفرلى هيلز, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.059581000000001",
+	"lng":"30.957884",
+	"enName":"Beverly Hills, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"548403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dana-group-real-estate/548403?b=2&k=19197&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

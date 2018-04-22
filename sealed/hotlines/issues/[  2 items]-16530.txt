@@ -1,0 +1,48 @@
+{"items":[{	"arName":"البيت للتنمية العقارية",
+	"enName":"El Bait For Real Estate Development",
+	"hotline":"16530",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"447544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bait-for-real-estate-development/447544?b=2&k=16530&l=search",
+	"arName":"خدمة العملاء, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"366865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bait-for-real-estate-development/366865?b=1&k=16530&l=search",
+	"arName":"19 ش عبد الله العربى امتداد ش الطيران, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"30.048522999999999",
+	"lng":"31.327662",
+	"enName":"19 Abdullah El Araby St. Extension Of El Tayaran St., 7th District, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"كومباوند حياة",
+	"enName":"Hayat Compound",
+	"hotline":"16530",
+	"facebook":"",
+	"web":"http://www.hayatcompound.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"447545",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hayat-compound/447545?b=3&k=16530&l=search",
+	"arName":"الهضبة الوسطى - الحى الثالث, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Middle Hill, 3rd District, Mokattam, Cairo"
+}
+	]
+}]}

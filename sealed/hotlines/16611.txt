@@ -1,0 +1,46 @@
+{"items":[{	"arName":"دونر كونر",
+	"enName":"Doner Konner",
+	"hotline":"16611",
+	"facebook":"http://www.facebook.com/DONERKONNER/",
+	"web":"http://www.donerkonner.com/",
+	"arCategory":[
+		"مطاعم المانية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"German Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"581935",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/doner-konner/581935?b=3&k=16611&l=search",
+	"arName":"ش سراى الجزيرة, الزمالك, القاهرة",
+	"lat":"30.054608000000002",
+	"lng":"31.221717999999999",
+	"enName":"Saray El Gezirah St., Zamalek, Cairo"
+},
+		{	"profileId":"535011",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/doner-konner/535011?b=2&k=16611&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"535009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/doner-konner/535009?b=1&k=16611&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.024961999999999",
+	"lng":"31.489155",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"544075",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/doner-konner/544075?b=4&k=16611&l=search",
+	"arName":"كم 28 - , طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28, , Cairo alex desert rd., Giza"
+}
+	]
+}]}

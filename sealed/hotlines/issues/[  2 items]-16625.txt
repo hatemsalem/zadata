@@ -1,0 +1,62 @@
+{"items":[{	"arName":"الحكيم للتعمير",
+	"enName":"El Hakeem For Construction",
+	"hotline":"16625",
+	"facebook":"",
+	"web":"http://www.el-hakeem.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"227532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hakeem-for-construction/227532?b=4&k=16625&l=search",
+	"arName":"242 طريق الجيش, رشدى, الاسكندرية",
+	"lat":"31.233388000000001",
+	"lng":"29.947071999999999",
+	"enName":"242 El Guish Rd., Roushdy, Alexandria"
+},
+		{	"profileId":"142741",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hakeem-for-construction/142741?b=2&k=16625&l=search",
+	"arName":"3 ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.051200000000001",
+	"lng":"31.209700000000002",
+	"enName":"3 El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"187437",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hakeem-for-construction/187437?b=3&k=16625&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"227525",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hakeem-for-construction/227525?b=1&k=16625&l=search",
+	"arName":"49 ش النزهة, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.085839",
+	"lng":"31.341244",
+	"enName":"49 El Nozha St., Almaza, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"لييندا تاون هاوس",
+	"enName":"Leyenda Town House",
+	"hotline":"16625",
+	"facebook":"",
+	"web":"http://www.leyenda.me/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"386667",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/leyenda-town-house/386667?b=5&k=16625&l=search",
+	"arName":"3 ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.050999999999998",
+	"lng":"31.209900000000001",
+	"enName":"3 El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,81 @@
+{"items":[{	"arName":"مطعم ام حسن",
+	"enName":"Umm Hassan",
+	"hotline":"19500",
+	"facebook":"http://www.facebook.com/OmHassan.Egypt",
+	"web":"http://www.omhassan.com/",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"373214",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/373214?b=1&k=19500&l=search",
+	"arName":"46 ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.061451999999999",
+	"lng":"31.337630000000001",
+	"enName":"46 Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"452923",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/452923?b=2&k=19500&l=search",
+	"arName":"17 أ/1 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974314",
+	"lng":"31.277899000000001",
+	"enName":"17 A/1 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"426307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/426307?b=7&k=19500&l=search",
+	"arName":"1 ش الجلاء, الزقازيق, الشرقية",
+	"lat":"30.587765000000001",
+	"lng":"31.502735999999999",
+	"enName":"1 El Galaa St., El zagazig, El sharkeya"
+},
+		{	"profileId":"464358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/464358?b=3&k=19500&l=search",
+	"arName":"105 ش التسعين الجنوبى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.018822",
+	"lng":"31.421026999999999",
+	"enName":"105 El Tesaeen El Ganouby St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"574737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/574737?b=9&k=19500&l=search",
+	"arName":"138 ش الجمهورية, اسيوط, اسيوط",
+	"lat":"27.189810999999999",
+	"lng":"31.186333999999999",
+	"enName":"138 El Gomhoureya St., Assyout, Assyout"
+},
+		{	"profileId":"525977",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/525977?b=6&k=19500&l=search",
+	"arName":"مجمع البنوك, العاشر من رمضان, الشرقية",
+	"lat":"30.281389000000001",
+	"lng":"31.751657999999999",
+	"enName":"Banks Complex, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"443561",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/443561?b=5&k=19500&l=search",
+	"arName":"42 ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.053581999999999",
+	"lng":"31.205307000000001",
+	"enName":"42 El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"462343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/462343?b=8&k=19500&l=search",
+	"arName":"ش جمال عبد الناصر - المنطقة المركزية, دمياط الجديدة, دمياط",
+	"lat":"31.43655",
+	"lng":"31.678398999999999",
+	"enName":"Gamal Abdel Nasser St., Central Zone, New damietta, Damietta"
+},
+		{	"profileId":"373217",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/umm-hassan/373217?b=4&k=19500&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+}
+	]
+}]}

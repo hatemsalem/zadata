@@ -1,0 +1,28 @@
+{"items":[{	"arName":"دانون ايجيبت",
+	"enName":"Danone Egypt",
+	"hotline":"16146",
+	"facebook":"http://www.facebook.com/DanoneEgypt",
+	"web":"",
+	"arCategory":[
+		"البان منتجات - مصنعون"
+	],
+	"enCategories":[
+		"Dairy Industry"
+	],
+	"contacts":[
+		{	"profileId":"477695",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/danone-egypt/477695?b=2&k=16146&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"137121",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/danone-egypt/137121?b=1&k=16146&l=search",
+	"arName":"القطعة 22000 - محور مبارك - المنطقة الصناعية الثانية, مدينة العبور, القليوبية",
+	"lat":"30.253543000000001",
+	"lng":"31.454592999999999",
+	"enName":"Plot 22000, Mubarak Spine, 2nd Industrial Zone, Obour city, Kaliobeya"
+}
+	]
+}]}

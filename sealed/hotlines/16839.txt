@@ -1,0 +1,21 @@
+{"items":[{	"arName":"صورة بوك",
+	"enName":"Soora Book",
+	"hotline":"16839",
+	"facebook":"http://www.facebook.com/SooraBook",
+	"web":"http://www.soorabook.com/",
+	"arCategory":[
+		"تصوير وتحميض ستوديوهات"
+	],
+	"enCategories":[
+		"Photo Shops"
+	],
+	"contacts":[
+		{	"profileId":"477171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soora-book/477171?b=1&k=16839&l=search",
+	"arName":"اعمال حرة, مدينة 15 مايو, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Freelance Business, 15th of may city, Cairo"
+}
+	]
+}]}

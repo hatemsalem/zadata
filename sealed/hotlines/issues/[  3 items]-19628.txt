@@ -1,0 +1,137 @@
+{"items":[{	"arName":"الصالحية للصناعات المعدنية - ام اى اس",
+	"enName":"Metal Industries Salheya - MIS",
+	"hotline":"19628",
+	"facebook":"",
+	"web":"http://www.mis-eg.com/",
+	"arCategory":[
+		"اوناش ورافعات"
+	],
+	"enCategories":[
+		"Forklifts, Cranes & Hoists"
+	],
+	"contacts":[
+		{	"profileId":"543878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metal-industries-salheya-_-mis/543878?b=2&k=19628&l=search",
+	"arName":"كم 24 - طريق القاهرة الاسماعيلية الصحراوى, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 24, Cairo Ismaileya Desert Rd., Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"ام سى فى - شركة صناعة وسائل النقل ش.م.م",
+	"enName":"MCV - Manufacturing Commercial Vehicles Co. S.A.E",
+	"hotline":"19628",
+	"facebook":"http://www.facebook.com/%D8%B4%D8%B1%D9%83%D8%A9-mcv%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA-544798135540757/",
+	"web":"http://www.mcv-eg.com/",
+	"arCategory":[
+		"شاحنات واتوبيسات",
+		"اوناش ورافعات",
+		"مولدات"
+	],
+	"enCategories":[
+		"Trucks & Buses",
+		"Forklifts, Cranes & Hoists",
+		"Generators"
+	],
+	"contacts":[
+		{	"profileId":"466707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/466707?b=10&k=19628&l=search",
+	"arName":"القطعة 3/65 - المحور المركزى, السادس من اكتوبر, الجيزة",
+	"lat":"29.949435999999999",
+	"lng":"30.908450999999999",
+	"enName":"Plot 3/65, Central Spine, 6th of october, Giza"
+},
+		{	"profileId":"440109",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/440109?b=13&k=19628&l=search",
+	"arName":"القطعة 30 - - منطقة الحرفيين الصناعية, الكوثر, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"Plot 30, , El Herafeen Industrial Zone, El kawther, Hurghada"
+},
+		{	"profileId":"37343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/37343?b=5&k=19628&l=search",
+	"arName":"كم 26 - طريق اسكندرية القاهرة الصحراوى, مرغم, الاسكندرية",
+	"lat":"31.056913000000002",
+	"lng":"29.804072999999999",
+	"enName":"Km 26, Alex Cairo Desert Rd., Mirghem, Alexandria"
+},
+		{	"profileId":"230493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/230493?b=3&k=19628&l=search",
+	"arName":"1 ش معمل الالبان ميدان المماليك - الخلفاوى, شبرا, القاهرة",
+	"lat":"30.097667000000001",
+	"lng":"31.249300999999999",
+	"enName":"1 Maamal El Alban St. El Mamalik Sq., El Khalafawy, Shoubra, Cairo"
+},
+		{	"profileId":"187147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/187147?b=6&k=19628&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"446785",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/446785?b=9&k=19628&l=search",
+	"arName":"القطعة الاولى - - المنطقة الصناعية 2B, الصالحية الجديدة, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"1st Plot, , Industrial Zone 2b, El salheya el gadida, El sharkeya"
+},
+		{	"profileId":"143680",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/143680?b=12&k=19628&l=search",
+	"arName":"كم 58 - طريق بنها المنصورة, اجا, الدقهلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 58, Banha El Mansoura Rd., Aga, El dakahleya"
+},
+		{	"profileId":"446775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/446775?b=7&k=19628&l=search",
+	"arName":"القطعة 144 - - المنطقة الصناعية, الرويسات, شرم الشيخ",
+	"lat":"",
+	"lng":"",
+	"enName":"Plot 144, , Industrial Zone, El ruwaisat, Sharm el sheikh"
+},
+		{	"profileId":"440110",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/440110?b=4&k=19628&l=search",
+	"arName":"طريق قفط القصير - قرية الكلاحين, قفط, قنا",
+	"lat":"",
+	"lng":"",
+	"enName":"Qift El Quseir Rd., El Kalaheen Village, Qift, Qena"
+},
+		{	"profileId":"446728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/446728?b=8&k=19628&l=search",
+	"arName":"المنطقة الصناعية - الحبيل, الاقصر, الاقصر",
+	"lat":"",
+	"lng":"",
+	"enName":"Industrial Zone, El Hebeil, LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"78317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/78317?b=1&k=19628&l=search",
+	"arName":"كم 24 - طريق القاهرة اسماعيلية الصحراوى, مدينة العبور, القليوبية",
+	"lat":"30.160267000000001",
+	"lng":"31.457376",
+	"enName":"Km 24, Cairo Ismaileya Desert Rd., Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"ام سى فى - شركة صناعة وسائل النقل ش.م.م",
+	"enName":"Mcv - Manufacturing Commercial Vehicles Co. S.a.e",
+	"hotline":"19628",
+	"facebook":"http://www.facebook.com/pages/%D8%B4%D8%B1%D9%83%D8%A9-mcv%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%86%D9%82%D9%84-%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%84%D8%A7%D8%AA/544798135540757",
+	"web":"http://www.mcv-eg.com/",
+	"arCategory":[
+		"اوناش ورافعات",
+		"مولدات"
+	],
+	"enCategories":[
+		"Forklifts, Cranes & Hoists",
+		"Generators"
+	],
+	"contacts":[
+		{	"profileId":"467072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/467072?b=11&k=19628&l=search",
+	"arName":"., دمياط, دمياط",
+	"lat":"31.444068000000001",
+	"lng":"31.766632000000001",
+	"enName":"., Damietta, Damietta"
+}
+	]
+}]}

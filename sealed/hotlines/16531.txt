@@ -1,0 +1,30 @@
+{"items":[{	"arName":"دارنا للاستثمار العقارى والمقاولات",
+	"enName":"Darna For Real Estate Investment & Contracting",
+	"hotline":"16531",
+	"facebook":"http://www.facebook.com/darnaegypt",
+	"web":"http://www.darna-eg.com/",
+	"arCategory":[
+		"عقارات",
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Real Estate",
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"562694",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/darna-for-real-estate-investment-&-contracting/562694?b=2&k=16531&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"192104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/darna-for-real-estate-investment-&-contracting/192104?b=1&k=16531&l=search",
+	"arName":"123 ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.069476000000002",
+	"lng":"31.355505000000001",
+	"enName":"123 Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

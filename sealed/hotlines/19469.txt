@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الهاشمية للتنمية والتعمير",
+	"enName":"El Hashemia For Development & Construction",
+	"hotline":"19469",
+	"facebook":"http://www.facebook.com/Elhashemia-%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AA%D8%B9%D9%85%D9%8A%D8%B1-851089884909138",
+	"web":"http://www.elhashemia.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"518636",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hashemia-for-development-&-construction/518636?b=1&k=19469&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"518635",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hashemia-for-development-&-construction/518635?b=2&k=19469&l=search",
+	"arName":"4 أ ابراج المعادى ستارز - كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.972746000000001",
+	"lng":"31.235348999999999",
+	"enName":"4 A Maadi Stars Towers, Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

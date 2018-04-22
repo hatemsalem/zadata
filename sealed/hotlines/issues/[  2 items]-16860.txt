@@ -1,0 +1,107 @@
+{"items":[{	"arName":"مطعم ابن البلد",
+	"enName":"Ibn El Balad Restaurant",
+	"hotline":"16860",
+	"facebook":"http://www.facebook.com/%D9%85%D8%B7%D8%B9%D9%85-%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%B3%D9%8A%D8%AA%D9%89-%D8%B3%D9%86%D8%AA%D8%B1-%D8%A7%D9%84%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D9%87-1692500687647102",
+	"web":"",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"333330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-el-balad-restaurant/333330?b=6&k=16860&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصطفى كامل, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"home Delivery, Mostafa kamel, Alexandria"
+},
+		{	"profileId":"568081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-el-balad-restaurant/568081?b=3&k=16860&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"387883",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-el-balad-restaurant/387883?b=1&k=16860&l=search",
+	"arName":"22 ش الصومال, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.091449999999998",
+	"lng":"31.323276",
+	"enName":"22 El Soumal St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"386388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-el-balad-restaurant/386388?b=2&k=16860&l=search",
+	"arName":"طريق الحرية, سبورتنج, الاسكندرية",
+	"lat":"31.218214",
+	"lng":"29.933236999999998",
+	"enName":"El Horreya Rd., Sporting, Alexandria"
+},
+		{	"profileId":"579970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-el-balad-restaurant/579970?b=4&k=16860&l=search",
+	"arName":"طريق الجيش - طابية سيدى بشر, سيدى بشر بحرى, الاسكندرية",
+	"lat":"31.254113",
+	"lng":"29.973946000000002",
+	"enName":"El Guish Rd., Tabyet Sidi Beshr, Sidi beshr bahary, Alexandria"
+},
+		{	"profileId":"579960",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-el-balad-restaurant/579960?b=7&k=16860&l=search",
+	"arName":"كم 6 - , طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.167404000000001",
+	"lng":"29.933047999999999",
+	"enName":"Km 6, , Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"579961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-el-balad-restaurant/579961?b=5&k=16860&l=search",
+	"arName":"كم 129 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 129, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"579972",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-el-balad-restaurant/579972?b=8&k=16860&l=search",
+	"arName":"طريق الجيش, جليم, الاسكندرية",
+	"lat":"31.241398",
+	"lng":"29.956009999999999",
+	"enName":"El Guish Rd., Glim, Alexandria"
+}
+	]
+}, {	"arName":"ابن حميدو",
+	"enName":"Ibn Hamido",
+	"hotline":"16860",
+	"facebook":"http://www.facebook.com/EbnHamidoEgypt/",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"568082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-hamido/568082?b=9&k=16860&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, جليم, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Glim, Alexandria"
+},
+		{	"profileId":"579980",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-hamido/579980?b=10&k=16860&l=search",
+	"arName":"طريق الجيش, جليم, الاسكندرية",
+	"lat":"31.241398",
+	"lng":"29.956009999999999",
+	"enName":"El Guish Rd., Glim, Alexandria"
+}
+	]
+}]}

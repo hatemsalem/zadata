@@ -1,0 +1,62 @@
+{"items":[{	"arName":"المجموعة الهندسية - اى جى",
+	"enName":"Engineering Group - EG",
+	"hotline":"19596",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"257953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/engineering-group-_-eg/257953?b=4&k=19596&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"74674",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/engineering-group-_-eg/74674?b=5&k=19596&l=search",
+	"arName":"المنطقة الصناعية B4, العاشر من رمضان, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"Industrial Zone B4, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"473594",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/engineering-group-_-eg/473594?b=3&k=19596&l=search",
+	"arName":"109 ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.054869",
+	"lng":"31.352557000000001",
+	"enName":"109 Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"اى جى ستورز",
+	"enName":"EG Stores",
+	"hotline":"19596",
+	"facebook":"http://www.facebook.com/EGStores.Egypt",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"386494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eg-stores/386494?b=1&k=19596&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"323158",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eg-stores/323158?b=2&k=19596&l=search",
+	"arName":"109 عمارة الفايد - ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"lat":"30.054869",
+	"lng":"31.352557000000001",
+	"enName":"109 El Fayed Bldg., Mostafa El Nahhas St., Nasr city, Cairo"
+}
+	]
+}]}

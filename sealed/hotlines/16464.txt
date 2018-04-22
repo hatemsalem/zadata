@@ -1,0 +1,21 @@
+{"items":[{	"arName":"سيراميك جلوريا",
+	"enName":"Gloria Ceramic",
+	"hotline":"16464",
+	"facebook":"http://www.facebook.com/GloriaCeramic",
+	"web":"http://www.gloriaceramic.com/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"257378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gloria-ceramic/257378?b=1&k=16464&l=search",
+	"arName":"15 ش تحسين فرغلى, مدينة نصر, القاهرة",
+	"lat":"30.063835000000001",
+	"lng":"31.331403000000002",
+	"enName":"15 Tahseen Farghaly St., Nasr city, Cairo"
+}
+	]
+}]}

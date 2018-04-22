@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الاسكندرية للسمسرة فى الاوراق المالية",
+	"enName":"Alex Securities Brokerage",
+	"hotline":"19353",
+	"facebook":"",
+	"web":"http://www.alex-stocks.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"169567",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-securities-brokerage/169567?b=1&k=19353&l=search",
+	"arName":"17 ش ابراهيم نصير, لوران, الاسكندرية",
+	"lat":"31.246511999999999",
+	"lng":"29.971878",
+	"enName":"17 Ibrahim Nosair St., Loran, Alexandria"
+},
+		{	"profileId":"178836",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-securities-brokerage/178836?b=2&k=19353&l=search",
+	"arName":"خدمة العملاء, لوران, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Loran, Alexandria"
+}
+	]
+}]}

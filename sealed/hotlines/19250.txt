@@ -1,0 +1,105 @@
+{"items":[{	"arName":"دار الكتاب المقدس",
+	"enName":"The Bible Society Of Egypt",
+	"hotline":"19250",
+	"facebook":"http://www.facebook.com/BSEgypt/",
+	"web":"http://www.darelketab.org/",
+	"arCategory":[
+		"ناشرون"
+	],
+	"enCategories":[
+		"Publishers"
+	],
+	"contacts":[
+		{	"profileId":"108589",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108589?b=7&k=19250&l=search",
+	"arName":"27 ش المختلط, المنصورة, الدقهلية",
+	"lat":"31.050789999999999",
+	"lng":"31.393630999999999",
+	"enName":"27 El Mokhtalat St., El mansoura, El dakahleya"
+},
+		{	"profileId":"108655",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108655?b=9&k=19250&l=search",
+	"arName":"1 ش النبوى المهندس تقاطع ش 15, حى شرق, سوهاج",
+	"lat":"26.562101999999999",
+	"lng":"31.688670999999999",
+	"enName":"1 El Nabawy El Mohandes St. Intersection Of Rd. 15, Shark district, Sohag"
+},
+		{	"profileId":"108567",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108567?b=10&k=19250&l=search",
+	"arName":"2 ش البوسطة متفرع من ش صلاح سالم, المنشية, الاسكندرية",
+	"lat":"31.197621000000002",
+	"lng":"29.893722",
+	"enName":"2 El Bosta St. Off Salah Salem St., El mansheya, Alexandria"
+},
+		{	"profileId":"108645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108645?b=11&k=19250&l=search",
+	"arName":"27 ش كليوباترا, الاقصر, الاقصر",
+	"lat":"25.699110999999998",
+	"lng":"32.643718",
+	"enName":"27 Cleopatra St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"108562",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108562?b=3&k=19250&l=search",
+	"arName":"138 ش الترعة البولاقية متفرع من ش احمد بدوى, شبرا, القاهرة",
+	"lat":"30.0764",
+	"lng":"31.2485",
+	"enName":"138 El Teraa El Boulaqeya St. Off Ahmed Badawy St., Shoubra, Cairo"
+},
+		{	"profileId":"108653",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108653?b=13&k=19250&l=search",
+	"arName":"15 ش الجمهورية, حى شرق, اسيوط",
+	"lat":"27.186375999999999",
+	"lng":"31.186381999999998",
+	"enName":"15 El Gomhoureya St., Shark district, Assyout"
+},
+		{	"profileId":"108591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108591?b=8&k=19250&l=search",
+	"arName":"17 ش ابن خصيب - برج القصر, وسط البلد, المنيا",
+	"lat":"",
+	"lng":"",
+	"enName":"17 Ibn Khasib St., El Kasr Tower, Downtown, El menia"
+},
+		{	"profileId":"108572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108572?b=6&k=19250&l=search",
+	"arName":"240 ش خالد بن الوليد, ميامى, الاسكندرية",
+	"lat":"31.269317999999998",
+	"lng":"29.991194",
+	"enName":"240 Khaled Ibn El Walid St., Miami, Alexandria"
+},
+		{	"profileId":"108583",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108583?b=12&k=19250&l=search",
+	"arName":"ش احمد ماهر, طنطا, الغربية",
+	"lat":"30.786715300000001",
+	"lng":"30.998061499999999",
+	"enName":"Ahmed Maher St., Tanta, El gharbeya"
+},
+		{	"profileId":"85766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/85766?b=2&k=19250&l=search",
+	"arName":"1 ش على فهمى الزناتى, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"lat":"30.104800000000001",
+	"lng":"31.335100000000001",
+	"enName":"1 Aly Fahmy El Zanaty St., Heliopolis Square, Heliopolis, Cairo"
+},
+		{	"profileId":"174112",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/174112?b=1&k=19250&l=search",
+	"arName":"9 ش المسعودى متفرع من ش عبده باشا, عباسية, القاهرة",
+	"lat":"30.066151000000001",
+	"lng":"31.274084999999999",
+	"enName":"9 El Masoudi St. Off Abdou Pasha St., Abbasseya, Cairo"
+},
+		{	"profileId":"60562",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/60562?b=4&k=19250&l=search",
+	"arName":"74 ش الجمهورية, وسط البلد, القاهرة",
+	"lat":"30.058",
+	"lng":"31.246200000000002",
+	"enName":"74 El Gomhoureya St., Downtown, Cairo"
+},
+		{	"profileId":"176464",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/176464?b=5&k=19250&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

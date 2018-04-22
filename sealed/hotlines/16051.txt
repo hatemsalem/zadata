@@ -1,0 +1,28 @@
+{"items":[{	"arName":"دار العمران للتنمية وادارة المشروعات",
+	"enName":"Dar El Omran For Development & Projects Management",
+	"hotline":"16051",
+	"facebook":"http://www.facebook.com/DarElOmran16051",
+	"web":"http://www.darelomran.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"254701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-omran-for-development-&-projects-management/254701?b=1&k=16051&l=search",
+	"arName":"69 ش حسن الشريف امتداد ش النادى الاهلى, مدينة نصر, القاهرة",
+	"lat":"30.048266999999999",
+	"lng":"31.356299",
+	"enName":"69 Hassan El Sherif St. Extension Of El Ahly Club St., Nasr city, Cairo"
+},
+		{	"profileId":"254702",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-omran-for-development-&-projects-management/254702?b=2&k=16051&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Nasr city, Cairo"
+}
+	]
+}]}

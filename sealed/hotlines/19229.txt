@@ -1,0 +1,63 @@
+{"items":[{	"arName":"جى ام سى",
+	"enName":"GMC",
+	"hotline":"19229",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"393054",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/393054?b=5&k=19229&l=search",
+	"arName":"7 ش محمد النجار متفرع من الشارع الجديد - ارض مصطفى حسن, وسط البلد, الفيوم",
+	"lat":"",
+	"lng":"",
+	"enName":"7 Mohamed El Naggar St. Off El Gadid St., Ard Mostafa Hassan, Downtown, El fayoum"
+},
+		{	"profileId":"102083",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/102083?b=2&k=19229&l=search",
+	"arName":"1 ش احمد سعيد, عباسية, القاهرة",
+	"lat":"30.0626",
+	"lng":"31.273700000000002",
+	"enName":"1 Ahmed Said St., Abbasseya, Cairo"
+},
+		{	"profileId":"131198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/131198?b=4&k=19229&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"59524",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/59524?b=3&k=19229&l=search",
+	"arName":"3 ش شهاب متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.049554000000001",
+	"lng":"31.197337999999998",
+	"enName":"3 Shehab St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"116921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/116921?b=6&k=19229&l=search",
+	"arName":"30 ش احمد عرابى, المهندسين, الجيزة",
+	"lat":"30.066500000000001",
+	"lng":"31.200299999999999",
+	"enName":"30 Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"211855",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/211855?b=7&k=19229&l=search",
+	"arName":"21 عمارات الضباط - ش احمد شوقى, مصطفى كامل, الاسكندرية",
+	"lat":"31.227029000000002",
+	"lng":"29.948305999999999",
+	"enName":"21 El Dobbat Bldgs., Ahmed Shawky St., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"102081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gmc/102081?b=1&k=19229&l=search",
+	"arName":"1 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.080774999999999",
+	"lng":"31.316044000000002",
+	"enName":"1 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}]}

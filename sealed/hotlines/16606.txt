@@ -1,0 +1,46 @@
+{"items":[{	"arName":"دايموند موتورز",
+	"enName":"Diamond Motors",
+	"hotline":"16606",
+	"facebook":"",
+	"web":"http://www.mitsubishimotors-eg.com/",
+	"arCategory":[
+		"سيارات - قطع غيار وكماليات",
+		"سيارات - وكلاء حصريون - سيارات جديدة",
+		"سيارات - مراكز اصلاح وخدمات ومعدات"
+	],
+	"enCategories":[
+		"Cars - Parts & Accessories",
+		"Cars - Sole Agents, New Cars",
+		"Cars - Repairing & Servicing Equipment"
+	],
+	"contacts":[
+		{	"profileId":"447359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diamond-motors/447359?b=2&k=16606&l=search",
+	"arName":"53 ش زاكر حسين امتداد ش الطيران, مدينة نصر, القاهرة",
+	"lat":"30.0441",
+	"lng":"31.336134000000001",
+	"enName":"53 Zaker Hussein St. Extension Of El Tayaran St., Nasr city, Cairo"
+},
+		{	"profileId":"306998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diamond-motors/306998?b=4&k=16606&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"447413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diamond-motors/447413?b=1&k=16606&l=search",
+	"arName":"5 طريق الاوتوستراد, المعادى, القاهرة",
+	"lat":"29.956054000000002",
+	"lng":"31.287877000000002",
+	"enName":"5 Autostrad Rd., Maadi, Cairo"
+},
+		{	"profileId":"306993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diamond-motors/306993?b=3&k=16606&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"30.060328999999999",
+	"lng":"31.030111000000002",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

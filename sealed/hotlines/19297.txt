@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الشركة العقارية للتنمية والاستثمار",
+	"enName":"El Akareya Co. For Development & Investment",
+	"hotline":"19297",
+	"facebook":"http://www.facebook.com/ElAkareya",
+	"web":"http://www.elakareya.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"140945",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-akareya-co.-for-development-&-investment/140945?b=1&k=19297&l=search",
+	"arName":"50 ش ابو العتاهية امتداد ش عباس العقاد, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.046893000000001",
+	"lng":"31.339808999999999",
+	"enName":"50 Abou El Ataheya St. Extension Of Abbas El Akkad St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

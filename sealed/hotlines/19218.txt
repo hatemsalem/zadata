@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المجمع الطبى للقوات المسلحة بالجلاء",
+	"enName":"Galaa Military Medical Complex",
+	"hotline":"19218",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"133521",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/galaa-military-medical-complex/133521?b=2&k=19218&l=search",
+	"arName":"3 ش العروبة متفرع من طريق صلاح سالم, مصر الجديدة, القاهرة",
+	"lat":"30.099086",
+	"lng":"31.349996999999998",
+	"enName":"3 El Orouba St. Off Salah Salem Rd., Heliopolis, Cairo"
+},
+		{	"profileId":"464468",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/galaa-military-medical-complex/464468?b=1&k=19218&l=search",
+	"arName":"خدمة طوارئ, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Heliopolis, Cairo"
+}
+	]
+}]}

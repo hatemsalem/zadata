@@ -1,0 +1,204 @@
+{"items":[{	"arName":"بنك الاستثمار العربى",
+	"enName":"AIBK - Arab Investment Bank",
+	"hotline":"16697",
+	"facebook":"http://www.facebook.com/AIBKEgypt",
+	"web":"",
+	"arCategory":[
+		"بنوك",
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"Banks",
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"406145",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/406145?b=8&k=16697&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"562632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/562632?b=19&k=16697&l=search",
+	"arName":"107 ش البرت الاول متفرع من ميدان على بن ابى طالب, سموحة, الاسكندرية",
+	"lat":"31.212063000000001",
+	"lng":"29.939107",
+	"enName":"107 Albert El Awal St. Off Aly Ibn Abi Taleb Sq., Semouha, Alexandria"
+},
+		{	"profileId":"406142",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/406142?b=12&k=16697&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"449413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/449413?b=6&k=16697&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.024815700000001",
+	"lng":"31.4828735",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"85458",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85458?b=9&k=16697&l=search",
+	"arName":"1 ابراج اغاخان - كورنيش النيل, شبرا, القاهرة",
+	"lat":"30.102657000000001",
+	"lng":"31.243271",
+	"enName":"1 Aghakhan Towers, Corniche El Nil, Shoubra, Cairo"
+},
+		{	"profileId":"60213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/60213?b=4&k=16697&l=search",
+	"arName":"8 ش عبد الخالق ثروت, وسط البلد, القاهرة",
+	"lat":"30.051483000000001",
+	"lng":"31.239377000000001",
+	"enName":"8 Abdel Khaleq Tharwat St., Downtown, Cairo"
+},
+		{	"profileId":"513119",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/513119?b=1&k=16697&l=search",
+	"arName":"40 ش نهرو, المريلاند, مصر الجديدة, القاهرة",
+	"lat":"30.100017000000001",
+	"lng":"31.318957999999999",
+	"enName":"40 Nehro St., El Merryland, Heliopolis, Cairo"
+},
+		{	"profileId":"437654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/437654?b=13&k=16697&l=search",
+	"arName":"236 ش كورنيش النيل, وسط البلد, المنيا",
+	"lat":"28.100712999999999",
+	"lng":"30.758054999999999",
+	"enName":"236 Corniche El Nil St., Downtown, El menia"
+},
+		{	"profileId":"85474",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85474?b=3&k=16697&l=search",
+	"arName":"8 ش المنصور محمد, الزمالك, القاهرة",
+	"lat":"30.061299999999999",
+	"lng":"31.217600000000001",
+	"enName":"8 El Mansour Mohamed St., Zamalek, Cairo"
+},
+		{	"profileId":"437655",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/437655?b=11&k=16697&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - كومبوند جولف سيتى - مجمع البنوك - القطعة 17/18, مدينة العبور, القليوبية",
+	"lat":"30.173908000000001",
+	"lng":"31.475528000000001",
+	"enName":"Misr Ismaileya Desert Rd., Golf City Compound, Banks Complex, Plot 17/18, Obour city, Kaliobeya"
+},
+		{	"profileId":"410232",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/410232?b=14&k=16697&l=search",
+	"arName":"16 سور نادى الزمالك - ش 26 يوليو, المهندسين, الجيزة",
+	"lat":"30.060416",
+	"lng":"31.203294",
+	"enName":"16 Zamalek Club Wall, 26th Of July St., Mohandeseen, Giza"
+},
+		{	"profileId":"85473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85473?b=10&k=16697&l=search",
+	"arName":"59 ش مصدق, الدقى, الجيزة",
+	"lat":"30.039304999999999",
+	"lng":"31.203949000000001",
+	"enName":"59 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"85471",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85471?b=7&k=16697&l=search",
+	"arName":"29 ش اسماء فهمى تفرع من ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.079436000000001",
+	"lng":"31.335757999999998",
+	"enName":"29 Asmaa Fahmy St. Off El Nozha St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"111046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/111046?b=16&k=16697&l=search",
+	"arName":"68 طريق الحرية - ش فؤاد سابقا, باب شرق, الاسكندرية",
+	"lat":"31.199036",
+	"lng":"29.908846",
+	"enName":"68 El Horreya Rd. - Fouad St. Previously, Bab shark, Alexandria"
+},
+		{	"profileId":"524447",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/524447?b=18&k=16697&l=search",
+	"arName":"65 ش لبنان, المهندسين, الجيزة",
+	"lat":"30.059289",
+	"lng":"31.193138999999999",
+	"enName":"65 Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"429997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/429997?b=15&k=16697&l=search",
+	"arName":"القطعة 1/4د - المرحلة الثانية - مركز المدينة - مجمع البنوك, العاشر من رمضان, الشرقية",
+	"lat":"30.2769133",
+	"lng":"31.751384000000002",
+	"enName":"Plot 1/4D, Phase 2, City Center, Banks Complex, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"85467",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85467?b=2&k=16697&l=search",
+	"arName":"ش عباس العقاد تقاطع ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"lat":"30.053595999999999",
+	"lng":"31.338737999999999",
+	"enName":"Abbas El Akkad St. Intersection Of Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"85468",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85468?b=5&k=16697&l=search",
+	"arName":"27 ش 206 ميدان المعادى جراند مول - عمارة شركة زهراء المعادى, دجلة, المعادى, القاهرة",
+	"lat":"29.956406000000001",
+	"lng":"31.275575",
+	"enName":"27 Rd. 206 Maadi Grand Mall Sq., Zahraa El Maadi Co. Bldg., Degla, Maadi, Cairo"
+},
+		{	"profileId":"85465",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85465?b=21&k=16697&l=search",
+	"arName":"ش النهضة تقاطع ش ممفيس - عمارة الفريبور, حى الشرق, بور سعيد",
+	"lat":"31.260328999999999",
+	"lng":"32.310068999999999",
+	"enName":"El Nahda St. Intersection Of Memphis St., Freepor Bldg., El shark district, Port said"
+},
+		{	"profileId":"85464",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85464?b=17&k=16697&l=search",
+	"arName":"28 ش مراد - مبنى سكاى سنتر, الجيزة, الجيزة",
+	"lat":"30.019608000000002",
+	"lng":"31.215544000000001",
+	"enName":"28 Mourad St., Sky Center Bldg., Giza, Giza"
+},
+		{	"profileId":"85460",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank/85460?b=20&k=16697&l=search",
+	"arName":"48 ش فيصل, فيصل, الجيزة",
+	"lat":"29.992100000000001",
+	"lng":"31.140000000000001",
+	"enName":"48 Faisal St., Faisal, Giza"
+}
+	]
+}, {	"arName":"بنك الاستثمار العربى - ماكينة الصراف الالى",
+	"enName":"AIBK - Arab Investment Bank - ATM",
+	"hotline":"16697",
+	"facebook":"",
+	"web":"http://www.aibegypt.com/",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"438482",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank-_-atm/438482?b=24&k=16697&l=search",
+	"arName":"القطعة 31 -, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.0207306",
+	"lng":"31.0032785",
+	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"438484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank-_-atm/438484?b=23&k=16697&l=search",
+	"arName":"1 ش فلسطين, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.977571999999999",
+	"lng":"31.284123999999998",
+	"enName":"1 Palestine St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"438485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank-_-atm/438485?b=25&k=16697&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.027032999999999",
+	"lng":"31.013698999999999",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"438486",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aibk-_-arab-investment-bank-_-atm/438486?b=22&k=16697&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

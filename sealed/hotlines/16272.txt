@@ -1,0 +1,121 @@
+{"items":[{	"arName":"ان بى جى - البنك الاهلى اليونانى",
+	"enName":"NBG - National Bank Of Greece",
+	"hotline":"16272",
+	"facebook":"http://www.facebook.com/NBG.Egypt/",
+	"web":"http://www.nbg.com.eg/",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"161048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/161048?b=13&k=16272&l=search",
+	"arName":"32 ش هارون ميدان المساحة, الدقى, الجيزة",
+	"lat":"30.037203000000002",
+	"lng":"31.216974",
+	"enName":"32 Haroun St. El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"218361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/218361?b=14&k=16272&l=search",
+	"arName":"ميدان النجدة, الحى الرابع, السادس من اكتوبر, الجيزة",
+	"lat":"29.960414",
+	"lng":"30.929075999999998",
+	"enName":"El Nagdah Sq., 4th District, 6th of october, Giza"
+},
+		{	"profileId":"486641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/486641?b=15&k=16272&l=search",
+	"arName":"20 ش وادى النيل, المهندسين, الجيزة",
+	"lat":"30.056477000000001",
+	"lng":"31.201145",
+	"enName":"20 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"187430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/187430?b=10&k=16272&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Dokki, Giza"
+},
+		{	"profileId":"307384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307384?b=4&k=16272&l=search",
+	"arName":"103 ش البنوك, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.018710200000001",
+	"lng":"31.420388800000001",
+	"enName":"103 El Bonouk St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"203048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/203048?b=8&k=16272&l=search",
+	"arName":"132 ش الهرم, الكوم الاخضر, الهرم, الجيزة",
+	"lat":"29.992951000000001",
+	"lng":"31.157066",
+	"enName":"132 Haram St., El Koum El Akhdar, El haram, Giza"
+},
+		{	"profileId":"307141",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307141?b=11&k=16272&l=search",
+	"arName":"5 ش فوزى معاذ, سموحة, الاسكندرية",
+	"lat":"31.209385999999999",
+	"lng":"29.935447",
+	"enName":"5 Fawzy Moaz St., Semouha, Alexandria"
+},
+		{	"profileId":"307199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307199?b=2&k=16272&l=search",
+	"arName":"30 ش عبد الخالق ثروت, وسط البلد, القاهرة",
+	"lat":"30.050553000000001",
+	"lng":"31.242649",
+	"enName":"30 Abdel Khaleq Tharwat St., Downtown, Cairo"
+},
+		{	"profileId":"307160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307160?b=12&k=16272&l=search",
+	"arName":"125 طريق الحرية, باب شرق, الاسكندرية",
+	"lat":"31.200823",
+	"lng":"29.913754999999998",
+	"enName":"125 El Horreya Rd., Bab shark, Alexandria"
+},
+		{	"profileId":"220670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/220670?b=1&k=16272&l=search",
+	"arName":"2 ش العزيز عثمان, الزمالك, القاهرة",
+	"lat":"30.057385",
+	"lng":"31.219405999999999",
+	"enName":"2 El Aziz Othman St., Zamalek, Cairo"
+},
+		{	"profileId":"307151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307151?b=7&k=16272&l=search",
+	"arName":"543 طريق الحرية, جليم, الاسكندرية",
+	"lat":"31.236616000000001",
+	"lng":"29.961193999999999",
+	"enName":"543 El Horreya Rd., Glim, Alexandria"
+},
+		{	"profileId":"307238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307238?b=3&k=16272&l=search",
+	"arName":"24 ش عمر بن الخطاب ميدان الاسماعيلية, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"lat":"30.097166000000001",
+	"lng":"31.334589000000001",
+	"enName":"24 Omar Ibn El Khattab St. El Ismaileya Sq., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"307403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307403?b=9&k=16272&l=search",
+	"arName":"8 ش البنوك متفرع من طريق المطار - تقسيم الكوثر - مبارك 2, الكوثر, الغردقة",
+	"lat":"27.198076",
+	"lng":"33.825944",
+	"enName":"8 El Bonouk St. Off Airport Rd., El Kawthar Division, Mubarak 2, El kawther, Hurghada"
+},
+		{	"profileId":"307423",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307423?b=5&k=16272&l=search",
+	"arName":"1 برج المعادى بالاس - ش 9 ميدان المحطة, المعادى, القاهرة",
+	"lat":"29.959987999999999",
+	"lng":"31.259482999999999",
+	"enName":"1 Maadi Palace Tower, Rd. 9 El Mahatta Sq., Maadi, Cairo"
+},
+		{	"profileId":"307213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbg-_-national-bank-of-greece/307213?b=6&k=16272&l=search",
+	"arName":"43 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.091716000000002",
+	"lng":"31.314066",
+	"enName":"43 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

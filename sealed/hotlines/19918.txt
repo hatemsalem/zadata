@@ -1,0 +1,97 @@
+{"items":[{	"arName":"تسيباس ام جى",
+	"enName":"Tseppas MG",
+	"hotline":"19918",
+	"facebook":"http://www.facebook.com/TseppasMGEgypt",
+	"web":"http://www.tseppas.com/",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم",
+		"وجبات سريعة",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants",
+		"Fast Food",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"64372",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/64372?b=1&k=19918&l=search",
+	"arName":"ش 30 - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"lat":"30.174272999999999",
+	"lng":"31.459136000000001",
+	"enName":"Rd. 30, 1St Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"423649",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/423649?b=5&k=19918&l=search",
+	"arName":"16 ش شمس الدين الذهبى متفرع من ش الميرغنى, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.083078",
+	"lng":"31.332025999999999",
+	"enName":"16 Shams El Din El Zahaby St. Off El Merghany St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"189045",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/189045?b=7&k=19918&l=search",
+	"arName":"السوق التجارى - محل 243, مدينة الرحاب, القاهرة",
+	"lat":"30.056567000000001",
+	"lng":"31.491710999999999",
+	"enName":"Commercial Market, Shop 243, Al rehab city, Cairo"
+},
+		{	"profileId":"435413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/435413?b=3&k=19918&l=search",
+	"arName":"66 أ ش شبرا, شبرا, القاهرة",
+	"lat":"30.075310000000002",
+	"lng":"31.244806000000001",
+	"enName":"66 A Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"75569",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/75569?b=8&k=19918&l=search",
+	"arName":"20 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.045919000000001",
+	"lng":"31.195558999999999",
+	"enName":"20 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"126886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/126886?b=9&k=19918&l=search",
+	"arName":"459 ب ش الهرم, العمرانية الغربية, الهرم, الجيزة",
+	"lat":"30.010021999999999",
+	"lng":"31.203676000000002",
+	"enName":"459 B Haram St., El Omraneya El Gharbeya, El haram, Giza"
+},
+		{	"profileId":"16111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/16111?b=4&k=19918&l=search",
+	"arName":"45 ش ابو بكر الصديق تقاطع ش هارون, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"30.100850999999999",
+	"lng":"31.332307",
+	"enName":"45 Abou Bakr El Seddik St. Intersection Of Haroun St., El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"75567",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/75567?b=6&k=19918&l=search",
+	"arName":"575 ش بورسعيد, باب الشعرية, القاهرة",
+	"lat":"30.059536999999999",
+	"lng":"31.260262000000001",
+	"enName":"575 Port Said St., Bab el shaareya, Cairo"
+},
+		{	"profileId":"116913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/116913?b=2&k=19918&l=search",
+	"arName":"9 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.061188000000001",
+	"lng":"31.332156000000001",
+	"enName":"9 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"534054",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/534054?b=10&k=19918&l=search",
+	"arName":"38 ش هالومى, خليج نعمة, شرم الشيخ",
+	"lat":"27.908442999999998",
+	"lng":"34.320323000000002",
+	"enName":"38 Haloumy St., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"174231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/174231?b=11&k=19918&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Obour city, Kaliobeya"
+}
+	]
+}]}

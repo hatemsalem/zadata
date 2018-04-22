@@ -1,0 +1,30 @@
+{"items":[{	"arName":"برايم للتصنيع",
+	"enName":"Prime Industrial",
+	"hotline":"16574",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية",
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances",
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"325717",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prime-industrial/325717?b=2&k=16574&l=search",
+	"arName":"خدمة العملاء, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"325709",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prime-industrial/325709?b=1&k=16574&l=search",
+	"arName":"7 عمارات ميلسا - - الدور 6 شقة 61, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.077044999999998",
+	"lng":"31.346381000000001",
+	"enName":"7 Melsa Bldgs., , Floor 6 Flat 61, Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

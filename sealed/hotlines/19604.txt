@@ -1,0 +1,86 @@
+{"items":[{	"arName":"المصرف العربى الدولى - ايه اى بى",
+	"enName":"Arab International Bank - AIB",
+	"hotline":"19604",
+	"facebook":"http://www.facebook.com/ArabInternationalBank",
+	"web":"http://www.aib.com.eg/",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"163802",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/163802?b=4&k=19604&l=search",
+	"arName":"77 ب طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.067689000000001",
+	"lng":"31.330712999999999",
+	"enName":"77 B El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"167357",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/167357?b=1&k=19604&l=search",
+	"arName":"21 ش الالفى, وسط البلد, القاهرة",
+	"lat":"30.0535",
+	"lng":"31.246500000000001",
+	"enName":"21 El Alfy St., Downtown, Cairo"
+},
+		{	"profileId":"94070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/94070?b=3&k=19604&l=search",
+	"arName":"95 أ ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.087516000000001",
+	"lng":"31.336521000000001",
+	"enName":"95 A El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"489685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/489685?b=5&k=19604&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"72972",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/72972?b=9&k=19604&l=search",
+	"arName":"2 طريق الحرية, العطارين, الاسكندرية",
+	"lat":"31.195713000000001",
+	"lng":"29.900209",
+	"enName":"2 El Horreya Rd., El attarin, Alexandria"
+},
+		{	"profileId":"94392",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/94392?b=6&k=19604&l=search",
+	"arName":"60 ش جزيرة العرب تقاطع ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.055766999999999",
+	"lng":"31.202776",
+	"enName":"60 Geziret El Arab St. Intersection Of Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"382260",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/382260?b=8&k=19604&l=search",
+	"arName":"5 ش ويصا واصف متفرع من ش النيل - برج الرياض, الجيزة, الجيزة",
+	"lat":"30.027895000000001",
+	"lng":"31.217714999999998",
+	"enName":"5 Wissa Wasef St. Off El Nil St., El Riad Tower, Giza, Giza"
+},
+		{	"profileId":"7924",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/7924?b=2&k=19604&l=search",
+	"arName":"35 ش عبد الخالق ثروت ميدان مصطفى كامل, وسط البلد, القاهرة",
+	"lat":"30.050267999999999",
+	"lng":"31.244657",
+	"enName":"35 Abdel Khaleq Tharwat St. Mostafa Kamel Sq., Downtown, Cairo"
+},
+		{	"profileId":"144198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/144198?b=10&k=19604&l=search",
+	"arName":"ش صلاح الدين تقاطع ش 23 يوليو - برج الكيلانى, حى الشرق, بور سعيد",
+	"lat":"31.267403999999999",
+	"lng":"32.310082000000001",
+	"enName":"Salah El Din St. Intersection Of 23rd Of July St., EL Kelany Tower, El shark district, Port said"
+},
+		{	"profileId":"468249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-bank-_-aib/468249?b=7&k=19604&l=search",
+	"arName":"القطعة 1/1 - المحور المركزى, السادس من اكتوبر, الجيزة",
+	"lat":"29.976396000000001",
+	"lng":"30.947821000000001",
+	"enName":"Plot 1/1, Central Spine, 6th of october, Giza"
+}
+	]
+}]}

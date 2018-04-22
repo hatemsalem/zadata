@@ -1,0 +1,91 @@
+{"items":[{	"arName":"معامل الانصارى",
+	"enName":"Ansary Laboratories",
+	"hotline":"19324",
+	"facebook":"http://www.facebook.com/Ansary.Labs",
+	"web":"http://www.ansarylabs.com/",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"84922",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/84922?b=7&k=19324&l=search",
+	"arName":"6 ش المريس, السيدة زينب, القاهرة",
+	"lat":"30.029285000000002",
+	"lng":"31.234442999999999",
+	"enName":"6 El Maris St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"84921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/84921?b=4&k=19324&l=search",
+	"arName":"41 ش نوبار - الدور 7, باب اللوق, القاهرة",
+	"lat":"30.041505999999998",
+	"lng":"31.241135",
+	"enName":"41 Noubar St., Floor 7, Bab el louk, Cairo"
+},
+		{	"profileId":"537595",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/537595?b=11&k=19324&l=search",
+	"arName":"8 ش كلية الطب - البرج الطبى, محطة الرمل, الاسكندرية",
+	"lat":"31.190408999999999",
+	"lng":"29.894172999999999",
+	"enName":"8 Koleyet El Teb St., Medical Tower, Raml station, Alexandria"
+},
+		{	"profileId":"111555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/111555?b=10&k=19324&l=search",
+	"arName":"20 ش البطل احمد عبد العزيز - برج الحكمة الطبى, المهندسين, الجيزة",
+	"lat":"30.052318",
+	"lng":"31.207585000000002",
+	"enName":"20 El Batal Ahmed Abdel Aziz St., El Hekma Medical Tower, Mohandeseen, Giza"
+},
+		{	"profileId":"469189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/469189?b=2&k=19324&l=search",
+	"arName":"5 ش مسرة متفرع من ش شبرا, شبرا, القاهرة",
+	"lat":"30.073342",
+	"lng":"31.243980000000001",
+	"enName":"5 Masarra St. Off Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"59324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/59324?b=6&k=19324&l=search",
+	"arName":"69 ش 9 - الدور 3, المعادى, القاهرة",
+	"lat":"29.956968",
+	"lng":"31.260977",
+	"enName":"69 Rd. 9, Floor 3, Maadi, Cairo"
+},
+		{	"profileId":"469188",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/469188?b=5&k=19324&l=search",
+	"arName":"27 أ ش بغداد, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.091502999999999",
+	"lng":"31.325151999999999",
+	"enName":"27 A Baghdad St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"469186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/469186?b=8&k=19324&l=search",
+	"arName":"13 ش مصطفى النحاس - الدور 3 شقة 13, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.053761000000002",
+	"lng":"31.340302999999999",
+	"enName":"13 Mostafa El Nahhas St., Floor 3 Flat 13, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"412375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/412375?b=9&k=19324&l=search",
+	"arName":"30 ش مراد - برج الاطباء - الدور 5 شقة 403, الجيزة, الجيزة",
+	"lat":"30.019822000000001",
+	"lng":"31.215695",
+	"enName":"30 Mourad St., El Atebaa Tower, Floor 5 Flat 403, Giza, Giza"
+},
+		{	"profileId":"381213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/381213?b=1&k=19324&l=search",
+	"arName":"7 ميدان تريومف - عمارة اسيا, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.100342000000001",
+	"lng":"31.343916",
+	"enName":"7 Triumph Sq., Asia Bldg., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"469191",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/469191?b=3&k=19324&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}]}

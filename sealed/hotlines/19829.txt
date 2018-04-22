@@ -1,0 +1,65 @@
+{"items":[{	"arName":"شبانة ستورز",
+	"enName":"Shabana Stores",
+	"hotline":"19829",
+	"facebook":"http://www.facebook.com/Shabanastores",
+	"web":"http://www.shabanastores.net/",
+	"arCategory":[
+		"ديكور داخلى ومصممون",
+		""
+	],
+	"enCategories":[
+		"Interior Decorators & Designers",
+		""
+	],
+	"contacts":[
+		{	"profileId":"86778",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/86778?b=6&k=19829&l=search",
+	"arName":"6 ش المشروع, عين شمس الغربية, القاهرة",
+	"lat":"30.132408999999999",
+	"lng":"31.317523000000001",
+	"enName":"6 El Mashroua St., Ain shams el gharbeya, Cairo"
+},
+		{	"profileId":"388941",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/388941?b=1&k=19829&l=search",
+	"arName":"خدمة العملاء, الحى العاشر, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"86776",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/86776?b=3&k=19829&l=search",
+	"arName":"38 ش هارون الرشيد, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.0991",
+	"lng":"31.3306",
+	"enName":"38 Haroun El Rashid St., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"313738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/313738?b=4&k=19829&l=search",
+	"arName":"5 ش احمد الزمر امتداد ش زاكر حسين, الحى العاشر, مدينة نصر, القاهرة",
+	"lat":"30.048026",
+	"lng":"31.367623999999999",
+	"enName":"5 Ahmed El Zomor St. Extension Of Zaker Hussein St., 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"62202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/62202?b=2&k=19829&l=search",
+	"arName":"6 ش افريقيا امتداد ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.056514",
+	"lng":"31.361222000000001",
+	"enName":"6 Africa St. Extension Of Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"511678",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/511678?b=5&k=19829&l=search",
+	"arName":"القطعة 9112 - ش 9, المقطم, القاهرة",
+	"lat":"30.013237",
+	"lng":"31.324604999999998",
+	"enName":"Plot 9112, Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"388936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shabana-stores/388936?b=7&k=19829&l=search",
+	"arName":"المحور المركزى - ميدان فودافون, الحى 11, السادس من اكتوبر, الجيزة",
+	"lat":"29.949766",
+	"lng":"30.909465999999998",
+	"enName":"Central Spine, Vodafone Sq., 11th District, 6th of october, Giza"
+}
+	]
+}]}

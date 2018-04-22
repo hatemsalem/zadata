@@ -1,0 +1,42 @@
+{"items":[{	"arName":"صيدليات سالم",
+	"enName":"Salem Pharmacies",
+	"hotline":"19620",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"151370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salem-pharmacies/151370?b=3&k=19620&l=search",
+	"arName":"4 ش محمد ذو الفقار, منيل الروضة, القاهرة",
+	"lat":"30.016728000000001",
+	"lng":"31.225489",
+	"enName":"4 Mohamed Zou El Foqqar St., Manial el roda, Cairo"
+},
+		{	"profileId":"167435",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salem-pharmacies/167435?b=1&k=19620&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, عابدين, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Abdin, Cairo"
+},
+		{	"profileId":"151368",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salem-pharmacies/151368?b=2&k=19620&l=search",
+	"arName":"52 ش محمد فريد تقاطع ش التحرير - ميدان الجمهورية, عابدين, القاهرة",
+	"lat":"30.044001000000002",
+	"lng":"31.243842000000001",
+	"enName":"52 Mohamed Farid St. Intersection Of El Tahrir St., El Gomhoureya Sq., Abdin, Cairo"
+},
+		{	"profileId":"390831",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salem-pharmacies/390831?b=4&k=19620&l=search",
+	"arName":"118 ش النيل, الدقى, الجيزة",
+	"lat":"30.044867",
+	"lng":"31.218515",
+	"enName":"118 El Nil St., Dokki, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"انفوميد سيرفيسز",
+	"enName":"Infomed Services",
+	"hotline":"16467",
+	"facebook":"http://www.facebook.com/infomedme",
+	"web":"http://www.infomed-me.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"480993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/infomed-services/480993?b=2&k=16467&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"479842",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/infomed-services/479842?b=1&k=16467&l=search",
+	"arName":"93 ش فريد سميكة, مصر الجديدة, القاهرة",
+	"lat":"30.107199999999999",
+	"lng":"31.348700000000001",
+	"enName":"93 Farid Semeika St., Heliopolis, Cairo"
+}
+	]
+}]}

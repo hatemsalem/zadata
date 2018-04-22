@@ -1,0 +1,98 @@
+{"items":[{	"arName":"صيدليات كير",
+	"enName":"Care Pharmacies",
+	"hotline":"19757",
+	"facebook":"http://www.facebook.com/Care-Pharmacies-224179897765843/",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"436518",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/436518?b=2&k=19757&l=search",
+	"arName":"ش مكرم عبيد تقاطع ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"lat":"30.054563999999999",
+	"lng":"31.345939000000001",
+	"enName":"Makram Ebaid St. Intersection Of Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"168736",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/168736?b=3&k=19757&l=search",
+	"arName":"26 ش بيروت, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.0959",
+	"lng":"31.325215",
+	"enName":"26 Beirut St., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"436516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/436516?b=7&k=19757&l=search",
+	"arName":"22 ش موسى بن نصير تقاطع ش موسى الكاظم, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"30.046081000000001",
+	"lng":"31.329698",
+	"enName":"22 Mousa Ibn Nossair St. Intersection Of Mousa El Kazem St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"463518",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/463518?b=8&k=19757&l=search",
+	"arName":"32 أ ش شبرا, شبرا, القاهرة",
+	"lat":"30.068677000000001",
+	"lng":"31.244859000000002",
+	"enName":"32 A Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"190006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/190006?b=4&k=19757&l=search",
+	"arName":"56 طريق مصر حلوان الزراعى - برج بدر, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.958466000000001",
+	"lng":"31.251356000000001",
+	"enName":"56 Misr Helwan Agricultural Rd., Badr Tower, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"337292",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/337292?b=1&k=19757&l=search",
+	"arName":"230 ش بورسعيد, السيدة زينب, القاهرة",
+	"lat":"30.037020999999999",
+	"lng":"31.248553000000001",
+	"enName":"230 Port Said St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"162739",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/162739?b=6&k=19757&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنيل, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El manyal, Cairo"
+},
+		{	"profileId":"85283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/85283?b=10&k=19757&l=search",
+	"arName":"59 ش شهاب, المهندسين, الجيزة",
+	"lat":"30.056165",
+	"lng":"31.196294999999999",
+	"enName":"59 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"436386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/436386?b=9&k=19757&l=search",
+	"arName":"10 ش سمير السيد احمد, المنيل, القاهرة",
+	"lat":"30.020135799999998",
+	"lng":"31.225176099999999",
+	"enName":"10 Samir El Sayed Ahmed St., El manyal, Cairo"
+},
+		{	"profileId":"262549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/262549?b=11&k=19757&l=search",
+	"arName":"26 ش الفالوجا, العجوزة, الجيزة",
+	"lat":"30.056106",
+	"lng":"31.213158",
+	"enName":"26 El Falouga St., Agouza, Giza"
+},
+		{	"profileId":"59949",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/59949?b=5&k=19757&l=search",
+	"arName":"90 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"lat":"30.096063000000001",
+	"lng":"31.341901",
+	"enName":"90 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"419860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/care-pharmacies/419860?b=12&k=19757&l=search",
+	"arName":"المحور المركزى - تقاطع محور 26 يوليو, السادس من اكتوبر, الجيزة",
+	"lat":"29.977455299999999",
+	"lng":"30.955127399999999",
+	"enName":"Central Spine, Intersection Of 26th Of July Spine, 6th of october, Giza"
+}
+	]
+}]}

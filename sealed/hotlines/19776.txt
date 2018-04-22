@@ -1,0 +1,21 @@
+{"items":[{	"arName":"تى اى داتا - الشركة المصرية لنقل البيانات",
+	"enName":"TE Data",
+	"hotline":"19776",
+	"facebook":"",
+	"web":"http://www.tedata.net/",
+	"arCategory":[
+		"انترنت شركات ومصممون مواقع"
+	],
+	"enCategories":[
+		"Internet Companies & Website Design"
+	],
+	"contacts":[
+		{	"profileId":"71658",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/te-data/71658?b=1&k=19776&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اكوا تركس لانظمة معالجة المياه",
+	"enName":"Aqua Trex For Water Treatment Systems",
+	"hotline":"16721",
+	"facebook":"http://www.facebook.com/AquaTrex?ref=br_rs",
+	"web":"http://www.aquatrx.com/",
+	"arCategory":[
+		"مياه معالجة"
+	],
+	"enCategories":[
+		"Water Treatment"
+	],
+	"contacts":[
+		{	"profileId":"68066",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aqua-trex-for-water-treatment-systems/68066?b=1&k=16721&l=search",
+	"arName":"5 ش التحرير, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.103171",
+	"lng":"31.373709999999999",
+	"enName":"5 El Tahrir St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"489779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aqua-trex-for-water-treatment-systems/489779?b=2&k=16721&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

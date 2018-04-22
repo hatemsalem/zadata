@@ -1,0 +1,175 @@
+{"items":[{	"arName":"المركز الاقليمى لنقل الدم بالاسكندرية",
+	"enName":"Alexandria Regional Blood Transfusion Center",
+	"hotline":"19447",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AF%D9%85-196544867060389",
+	"web":"http://www.nbts.gov.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"133216",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alexandria-regional-blood-transfusion-center/133216?b=1&k=19447&l=search",
+	"arName":"ش عبد القادر ابو عقدة, كوم الدكة, الاسكندرية",
+	"lat":"31.195906999999998",
+	"lng":"29.910028000000001",
+	"enName":"Abdel Qader Abou Oqda St., Kom el dekka, Alexandria"
+}
+	]
+}, {	"arName":"المركز الاقليمى لنقل الدم بالاسماعيلية",
+	"enName":"Ismaileya Regional Blood Transfusion Center",
+	"hotline":"19447",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AF%D9%85-196544867060389",
+	"web":"http://www.nbts.gov.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"133227",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ismaileya-regional-blood-transfusion-center/133227?b=4&k=19447&l=search",
+	"arName":"ميدان المطافى, عرايشية مصر, الاسماعيلية",
+	"lat":"30.596176",
+	"lng":"32.273271000000001",
+	"enName":"EL Matafy Sq., Araisheyat misr, Ismaileya"
+}
+	]
+}, {	"arName":"المركز الاقليمى لنقل الدم بدار السلام",
+	"enName":"Regional Center For Blood Transfusion In Dar El Salam",
+	"hotline":"19447",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AF%D9%85-196544867060389",
+	"web":"http://www.nbts.gov.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"473668",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/regional-center-for-blood-transfusion-in-dar-el-salam/473668?b=9&k=19447&l=search",
+	"arName":"خدمة العملاء, عباسية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abbasseya, Cairo"
+},
+		{	"profileId":"473650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/regional-center-for-blood-transfusion-in-dar-el-salam/473650?b=10&k=19447&l=search",
+	"arName":"987 كورنيش النيل, الملك الصالح, القاهرة",
+	"lat":"30.014544000000001",
+	"lng":"31.228563000000001",
+	"enName":"987 Corniche El Nil, El malek el saleh, Cairo"
+}
+	]
+}, {	"arName":"المركز الاقليمى لنقل الدم بالمنصورة",
+	"enName":"El Mansoura Regional Blood Transfusion Center",
+	"hotline":"19447",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AF%D9%85-196544867060389",
+	"web":"http://www.nbts.gov.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"133223",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mansoura-regional-blood-transfusion-center/133223?b=3&k=19447&l=search",
+	"arName":"ميدان الشيخ حسنين, المنصورة, الدقهلية",
+	"lat":"31.041235",
+	"lng":"31.378736",
+	"enName":"El Sheikh Hassanein Sq., El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"المركز الاقليمى لنقل الدم بدمنهور",
+	"enName":"Damanhour Regional Blood Transfusion Center",
+	"hotline":"19447",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AF%D9%85-196544867060389",
+	"web":"http://www.nbts.gov.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"133235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/damanhour-regional-blood-transfusion-center/133235?b=2&k=19447&l=search",
+	"arName":"ش الجمهورية, دمنهور, البحيرة",
+	"lat":"31.053477000000001",
+	"lng":"30.461797000000001",
+	"enName":"El Gomhoureya St., Damanhour, El beheira"
+}
+	]
+}, {	"arName":"المركز الاقليمى لنقل الدم باسوان",
+	"enName":"Regional Center For Blood Transfusion In Aswan",
+	"hotline":"19447",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AF%D9%85-196544867060389",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"215082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/regional-center-for-blood-transfusion-in-aswan/215082?b=8&k=19447&l=search",
+	"arName":"طريق الخزان, وسط البلد, اسوان",
+	"lat":"24.057431999999999",
+	"lng":"32.882187000000002",
+	"enName":"El Khazzan Rd., Downtown, Aswan"
+}
+	]
+}, {	"arName":"المركز الاقليمى لنقل الدم بالمنيا",
+	"enName":"Minia Regional Blood Transfusion Center",
+	"hotline":"19447",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AF%D9%85-196544867060389",
+	"web":"http://www.nbts.gov.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"133218",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/minia-regional-blood-transfusion-center/133218?b=5&k=19447&l=search",
+	"arName":"ش كورنيش النيل, الكورنيش, المنيا",
+	"lat":"28.091238000000001",
+	"lng":"30.764073",
+	"enName":"Corniche El Nil St., El corniche, El menia"
+}
+	]
+}, {	"arName":"المركز القومى لنقل الدم",
+	"enName":"NBTC - National Blood Transfusion Center",
+	"hotline":"19447",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%89-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%AF%D9%85-196544867060389",
+	"web":"http://www.nbts.gov.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"133208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbtc-_-national-blood-transfusion-center/133208?b=6&k=19447&l=search",
+	"arName":"51 ش وزارة الزراعة, العجوزة, الجيزة",
+	"lat":"30.050761999999999",
+	"lng":"31.210286",
+	"enName":"51 Wezaret El Zeraa St., Agouza, Giza"
+},
+		{	"profileId":"187102",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nbtc-_-national-blood-transfusion-center/187102?b=7&k=19447&l=search",
+	"arName":"خدمة الطوارىء, العجوزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Agouza, Giza"
+}
+	]
+}]}

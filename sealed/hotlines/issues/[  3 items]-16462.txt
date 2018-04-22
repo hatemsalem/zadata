@@ -1,0 +1,82 @@
+{"items":[{	"arName":"مينا للمقاولات والتجارة",
+	"enName":"Mena For Contracting & Trading",
+	"hotline":"16462",
+	"facebook":"http://www.facebook.com/menarealestate",
+	"web":"http://www.mena-eg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"251079",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-contracting-&-trading/251079?b=2&k=16462&l=search",
+	"arName":"3 ب ش النزهة تقسيم اسماء فهمى, مصر الجديدة, القاهرة",
+	"lat":"30.080507000000001",
+	"lng":"31.332298000000002",
+	"enName":"3 B El Nozha St. Asmaa Fahmy Division, Heliopolis, Cairo"
+},
+		{	"profileId":"385953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-contracting-&-trading/385953?b=4&k=16462&l=search",
+	"arName":"خدمة العملاء, زيزينيا, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zezenia, Alexandria"
+},
+		{	"profileId":"96204",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-contracting-&-trading/96204?b=3&k=16462&l=search",
+	"arName":"388 طريق الكورنيش, زيزينيا, الاسكندرية",
+	"lat":"31.243444",
+	"lng":"29.963622000000001",
+	"enName":"388 El Corniche Rd., Zezenia, Alexandria"
+},
+		{	"profileId":"392963",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-contracting-&-trading/392963?b=5&k=16462&l=search",
+	"arName":"150 ش كورنيش النيل, العجوزة, الجيزة",
+	"lat":"30.048622999999999",
+	"lng":"31.217355999999999",
+	"enName":"150 Corniche El Nil St., Agouza, Giza"
+}
+	]
+}, {	"arName":"مينا فلاورز",
+	"enName":"Mena Flowers",
+	"hotline":"16462",
+	"facebook":"",
+	"web":"http://www.menaegypt.com/english/flowers.php",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"385950",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-flowers/385950?b=1&k=16462&l=search",
+	"arName":"ش حورس متفرع من ش النبوى المهندس, المنتزة, المنتزه, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Horus St. Off El Nabarawy El Mohandes St., EL MONTAZA, El montazah, Alexandria"
+}
+	]
+}, {	"arName":"مينا سمارت لايف",
+	"enName":"Mena Smart Life",
+	"hotline":"16462",
+	"facebook":"",
+	"web":"http://www.menaegypt.com/english/smart-life.php",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"385925",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-smart-life/385925?b=6&k=16462&l=search",
+	"arName":"ش السودان, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Sudan St., Dokki, Giza"
+}
+	]
+}]}

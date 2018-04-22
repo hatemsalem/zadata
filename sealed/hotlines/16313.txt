@@ -1,0 +1,35 @@
+{"items":[{	"arName":"ثمار العقارية",
+	"enName":"Themar For Real Estate",
+	"hotline":"16313",
+	"facebook":"http://www.facebook.com/themarforrealstatedevelopoment/inf",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"449070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/themar-for-real-estate/449070?b=2&k=16313&l=search",
+	"arName":"1 ش وادى النيل متفرع من ش جامعة الدول العربية - ميدان مصطفى محمود - الدور 5, المهندسين, الجيزة",
+	"lat":"30.054216",
+	"lng":"31.201764000000001",
+	"enName":"1 Wadi El Nil St. Off Gamaet El Dewal El Arabeya St. - Mostafa Mahmoud Sq., Floor 5, Mohandeseen, Giza"
+},
+		{	"profileId":"449136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/themar-for-real-estate/449136?b=1&k=16313&l=search",
+	"arName":"32 ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.081530999999998",
+	"lng":"31.339879",
+	"enName":"32 El Nozha St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"449137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/themar-for-real-estate/449137?b=3&k=16313&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

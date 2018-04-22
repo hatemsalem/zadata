@@ -1,0 +1,42 @@
+{"items":[{	"arName":"العربية للطيران",
+	"enName":"Air Arabia",
+	"hotline":"16278",
+	"facebook":"http://www.facebook.com/airarabiagroup",
+	"web":"http://www.airarabia.com/",
+	"arCategory":[
+		"خطوط جوية"
+	],
+	"enCategories":[
+		"Airlines"
+	],
+	"contacts":[
+		{	"profileId":"132931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-arabia/132931?b=4&k=16278&l=search",
+	"arName":"16 ميدان لبنان - امتداد محور 26 يوليو, المهندسين, الجيزة",
+	"lat":"30.059799999999999",
+	"lng":"31.191700000000001",
+	"enName":"16 Lebanon Sq., Extension Of 26th of July Spine, Mohandeseen, Giza"
+},
+		{	"profileId":"192910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-arabia/192910?b=1&k=16278&l=search",
+	"arName":"16 ش محمود بسيونى متفرع من ميدان طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.048593",
+	"lng":"31.235617999999999",
+	"enName":"16 Mahmoud Basiony St. Off Talaat Harb Sq., Downtown, Cairo"
+},
+		{	"profileId":"68380",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-arabia/68380?b=3&k=16278&l=search",
+	"arName":"10 ش احمد يحيى متفرع من ش ابو قير, جليم, الاسكندرية",
+	"lat":"31.239353000000001",
+	"lng":"29.962506000000001",
+	"enName":"10 Ahmed Yehia St. Off Abou Qir St., Glim, Alexandria"
+},
+		{	"profileId":"187432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-arabia/187432?b=2&k=16278&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,49 @@
+{"items":[{	"arName":"فارماسى وان",
+	"enName":"Pharmacy 1",
+	"hotline":"19771",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"184478",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharmacy-1/184478?b=1&k=19771&l=search",
+	"arName":"1 ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.110571",
+	"lng":"31.345860999999999",
+	"enName":"1 El Hegaz Sq., Heliopolis, Cairo"
+},
+		{	"profileId":"168628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharmacy-1/168628?b=4&k=19771&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"236803",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharmacy-1/236803?b=2&k=19771&l=search",
+	"arName":"1 ش عبد الحميد لطفى, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.049606000000001",
+	"lng":"31.349974",
+	"enName":"1 Abdel Hamid Lotfy St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"155231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharmacy-1/155231?b=3&k=19771&l=search",
+	"arName":"49 ش قصر العينى, قصر العينى, القاهرة",
+	"lat":"30.030137",
+	"lng":"31.232574",
+	"enName":"49 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"155230",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharmacy-1/155230?b=5&k=19771&l=search",
+	"arName":"14 ش سوريا, المهندسين, الجيزة",
+	"lat":"30.052817000000001",
+	"lng":"31.198169",
+	"enName":"14 Syria St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,35 @@
+{"items":[{	"arName":"ركائز العقارية",
+	"enName":"Rakaez Real Estate",
+	"hotline":"16423",
+	"facebook":"http://www.facebook.com/RakaezGroupOfficial/timeline",
+	"web":"http://www.rakaezgroup.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"437040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rakaez-real-estate/437040?b=1&k=16423&l=search",
+	"arName":"9 برج عمر المختار - ش الجلاء - الدور 3, وسط البلد, مرسى مطروح",
+	"lat":"",
+	"lng":"",
+	"enName":"9 Omar El Mokhtar Tower, El Galaa St., Floor 3, Downtown, Marsa matrouh"
+},
+		{	"profileId":"321760",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rakaez-real-estate/321760?b=3&k=16423&l=search",
+	"arName":"13 ش 26 يوليو ميدان سفنكس, المهندسين, الجيزة",
+	"lat":"30.060455999999999",
+	"lng":"31.208894000000001",
+	"enName":"13 26th Of July St. Sphinx Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"437006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rakaez-real-estate/437006?b=2&k=16423&l=search",
+	"arName":"4 ابراج المنار - ش محمد متولى الشعراوى - الدور 5, فيصل, الجيزة",
+	"lat":"29.992087000000001",
+	"lng":"31.204516000000002",
+	"enName":"4 El Manar Towers, Mohamed Metwally El Shaarawy St., Floor 5, Faisal, Giza"
+}
+	]
+}]}

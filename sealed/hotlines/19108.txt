@@ -1,0 +1,55 @@
+{"items":[{	"arName":"السلاب للتجارة والتوزيع",
+	"enName":"El Sallab For Trade & Distribution",
+	"hotline":"19108",
+	"facebook":"http://www.facebook.com/ElsallabForTrading/?hc_ref=SEARCH",
+	"web":"http://www.tarekelsallab.com/",
+	"arCategory":[
+		"دهان وطلاء",
+		"اسقف",
+		"ارضيات",
+		"ديكور داخلى ومصممون"
+	],
+	"enCategories":[
+		"Paints & Coatings",
+		"Ceilings",
+		"Flooring",
+		"Interior Decorators & Designers"
+	],
+	"contacts":[
+		{	"profileId":"218135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sallab-for-trade-&-distribution/218135?b=5&k=19108&l=search",
+	"arName":"ش عبد السلام عارف, المنصورة, الدقهلية",
+	"lat":"31.0294025",
+	"lng":"31.371596700000001",
+	"enName":"Abdel Salam Aref St., El mansoura, El dakahleya"
+},
+		{	"profileId":"558767",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sallab-for-trade-&-distribution/558767?b=2&k=19108&l=search",
+	"arName":"72 ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.063272000000001",
+	"lng":"31.344809999999999",
+	"enName":"72 Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"155669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sallab-for-trade-&-distribution/155669?b=1&k=19108&l=search",
+	"arName":"56 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.055053999999998",
+	"lng":"31.347684000000001",
+	"enName":"56 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"155671",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sallab-for-trade-&-distribution/155671?b=4&k=19108&l=search",
+	"arName":"ش عاطف عبد المنجى - جزيرة الورد, المنصورة, الدقهلية",
+	"lat":"31.045408999999999",
+	"lng":"31.365414999999999",
+	"enName":"Atef Abdel Mongy St., Geziret El Ward, El mansoura, El dakahleya"
+},
+		{	"profileId":"574364",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sallab-for-trade-&-distribution/574364?b=3&k=19108&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

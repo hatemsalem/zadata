@@ -1,0 +1,36 @@
+{"items":[{	"arName":"شيخ البلد",
+	"enName":"Sheikh El Balad",
+	"hotline":"16748",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"فطير",
+		"كشرى",
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Feteer",
+		"Koshari",
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"2305",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sheikh-el-balad/2305?b=1&k=16748&l=search",
+	"arName":"35 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.062836999999998",
+	"lng":"31.336798999999999",
+	"enName":"35 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"461707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sheikh-el-balad/461707?b=2&k=16748&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

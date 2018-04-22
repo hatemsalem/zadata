@@ -1,0 +1,77 @@
+{"items":[{	"arName":"عبد العزيز السلاب للتجارة والاستيراد",
+	"enName":"Abd El Aziz El Sallab For Trade & Import",
+	"hotline":"19601",
+	"facebook":"http://www.facebook.com/pg/elsallab",
+	"web":"http://www.azizsallab.com/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"188959",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/188959?b=1&k=19601&l=search",
+	"arName":"56 ش حبيب شلبى متفرع من ش الظاهر, الظاهر, القاهرة",
+	"lat":"30.060644",
+	"lng":"31.252431000000001",
+	"enName":"56 Habib Shalaby St. Off El Zaher St., El zaher, Cairo"
+},
+		{	"profileId":"55179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/55179?b=2&k=19601&l=search",
+	"arName":"168 ش جوزيف تيتو متفرع من طريق السندباد, النزهة الجديدة, القاهرة",
+	"lat":"30.137915",
+	"lng":"31.394223",
+	"enName":"168 Joseph Tito St. Off El Sendbad Rd., El nozha el gadida, Cairo"
+},
+		{	"profileId":"114086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/114086?b=4&k=19601&l=search",
+	"arName":"ش عبد السلام عارف تقسيم سامية الجمل - حى غرب, المنصورة, الدقهلية",
+	"lat":"31.0294025",
+	"lng":"31.371596700000001",
+	"enName":"Abdel Salam Aref St. Samia El Gamal Division, Gharb District, El mansoura, El dakahleya"
+},
+		{	"profileId":"527024",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/527024?b=3&k=19601&l=search",
+	"arName":"ش التسعين الجنوبى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.028631000000001",
+	"lng":"31.488489999999999",
+	"enName":"El Tesaeen El Ganouby St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"142078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/142078?b=8&k=19601&l=search",
+	"arName":"42 ش الثورة, المنصورة, الدقهلية",
+	"lat":"31.0176409",
+	"lng":"31.388454500000002",
+	"enName":"42 El Thawra St., El mansoura, El dakahleya"
+},
+		{	"profileId":"397651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/397651?b=5&k=19601&l=search",
+	"arName":"146 ش البحر الاعظم, الجيزة, الجيزة",
+	"lat":"30.012685999999999",
+	"lng":"31.217140000000001",
+	"enName":"146 El Bahr El Aazam St., Giza, Giza"
+},
+		{	"profileId":"130217",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/130217?b=7&k=19601&l=search",
+	"arName":"ش سيدى عمر متفرع من ش البحر, شربين, الدقهلية",
+	"lat":"31.188162299999998",
+	"lng":"31.5292596",
+	"enName":"Sidi Omar St. Off El Bahr St., Sherbin, El dakahleya"
+},
+		{	"profileId":"83022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/83022?b=9&k=19601&l=search",
+	"arName":"ش د. عاطف المنجى متفرع من ش الجمهورية, المنصورة, الدقهلية",
+	"lat":"31.045878299999998",
+	"lng":"31.364990500000001",
+	"enName":"Dr. Atef El Mongy St. Off El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"148929",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abd-el-aziz-el-sallab-for-trade-&-import/148929?b=6&k=19601&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}]}

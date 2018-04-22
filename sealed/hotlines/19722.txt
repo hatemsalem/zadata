@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شركة اسمنت سينا",
+	"enName":"Sinai Cement Co.",
+	"hotline":"19722",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اسمنت وخرسانة وجبس وطوب ومعدات"
+	],
+	"enCategories":[
+		"Cement & Concrete, Gypsum, Brick & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"181938",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sinai-cement-co./181938?b=1&k=19722&l=search",
+	"arName":"خدمة العملاء, القطامية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El katameya, Cairo"
+}
+	]
+}]}

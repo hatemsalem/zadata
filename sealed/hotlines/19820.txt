@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الاهرام للتجارة والتوكيلات",
+	"enName":"Pyramids Telecom",
+	"hotline":"19820",
+	"facebook":"",
+	"web":"http://www.pyramidstelecom.com/",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"130918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-telecom/130918?b=3&k=19820&l=search",
+	"arName":"5 ابراج سيدى جابر - , سموحة, الاسكندرية",
+	"lat":"31.217887000000001",
+	"lng":"29.941652999999999",
+	"enName":"5 Sidi Gaber Towers,, Semouha, Alexandria"
+},
+		{	"profileId":"97901",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-telecom/97901?b=1&k=19820&l=search",
+	"arName":"32 ش طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.050384000000001",
+	"lng":"31.240241999999999",
+	"enName":"32 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"135461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-telecom/135461?b=2&k=19820&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

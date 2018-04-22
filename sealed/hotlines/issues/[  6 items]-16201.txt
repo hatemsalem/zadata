@@ -1,0 +1,135 @@
+{"items":[{	"arName":"ماونتين فيو تشيل اوت بارك",
+	"enName":"Mountain View Chillout Park",
+	"hotline":"16201",
+	"facebook":"http://www.facebook.com/MountainViewEgypt%20",
+	"web":"http://www.mountainviewegypt.com/projects/west-cairo/Chillout-Park/#media",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"468597",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mountain-view-chillout-park/468597?b=5&k=16201&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"29.984520700000001",
+	"lng":"31.0780007",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}, {	"arName":"ماونتين فيو هايد بارك",
+	"enName":"Mountain View Hyde Park",
+	"hotline":"16201",
+	"facebook":"",
+	"web":"http://www.dmg.com.eg/HydePark/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"365571",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mountain-view-hyde-park/365571?b=6&k=16201&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.980186100000001",
+	"lng":"31.541662200000001",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ماونتين فيو الساحل الشمالى",
+	"enName":"Mountain View North Coast",
+	"hotline":"16201",
+	"facebook":"",
+	"web":"http://www.mountainviewegypt.com/projects/north-coast/ras-el-hikma/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"445390",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mountain-view-north-coast/445390?b=7&k=16201&l=search",
+	"arName":"كم 85 -, طريق مطروح اسكندرية الصحراوى, الساحل الشمالى",
+	"lat":"31.082046999999999",
+	"lng":"28.029426999999998",
+	"enName":"Km 85,, Matrouh alex. desert rd., North coast"
+}
+	]
+}, {	"arName":"ماونتين فيو",
+	"enName":"Mountain View",
+	"hotline":"16201",
+	"facebook":"http://www.facebook.com/MountainViewEgypt",
+	"web":"http://www.mountainviewegypt.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"573935",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mountain-view/573935?b=4&k=16201&l=search",
+	"arName":"القطعة 31 - , الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.0207306",
+	"lng":"31.0032785",
+	"enName":"Plot 31, , El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"123485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mountain-view/123485?b=3&k=16201&l=search",
+	"arName":"ش عمر بن الخطاب - ستار كابيتال 8, مصر الجديدة, القاهرة",
+	"lat":"30.072458000000001",
+	"lng":"31.347916999999999",
+	"enName":"Omar Ibn El Khattab St., Star Capital 8, Heliopolis, Cairo"
+},
+		{	"profileId":"148682",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mountain-view/148682?b=2&k=16201&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ماونتين فيو اكتوبر بارك",
+	"enName":"Mountain View October Park",
+	"hotline":"16201",
+	"facebook":"",
+	"web":"http://www.mountainviewegypt.com/projects/west-cairo/october-park/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"386672",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mountain-view-october-park/386672?b=8&k=16201&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.986650999999998",
+	"lng":"31.078562000000002",
+	"enName":"Oasis Rd., 6th of october, Giza"
+}
+	]
+}, {	"arName":"دبلوماتس",
+	"enName":"Diplomats",
+	"hotline":"16201",
+	"facebook":"",
+	"web":"http://www.mountainviewegypt.com/projects/north-coast/diplomats-ras-el-hikma",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"445394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diplomats/445394?b=1&k=16201&l=search",
+	"arName":"كم 195 - طريق العلمين, رأس الحكمة, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 195, El Alamain Rd., Ras el hekma, North coast"
+}
+	]
+}]}

@@ -1,0 +1,48 @@
+{"items":[{	"arName":"بداية",
+	"enName":"Bedaya",
+	"hotline":"16094",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"387688",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bedaya/387688?b=1&k=16094&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}, {	"arName":"تطوير مصر",
+	"enName":"Tatweer Misr",
+	"hotline":"16094",
+	"facebook":"http://www.facebook.com/Tatweer-Misr-1710101395887774",
+	"web":"http://www.tatweermisr.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"474082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tatweer-misr/474082?b=2&k=16094&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Garden city, Cairo"
+},
+		{	"profileId":"474081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tatweer-misr/474081?b=3&k=16094&l=search",
+	"arName":"20 ش عائشة التيمورية - الدور 1, جاردن سيتى, القاهرة",
+	"lat":"30.035208000000001",
+	"lng":"31.229664",
+	"enName":"20 Aaesha El Taimoureya St., Floor 1, Garden city, Cairo"
+}
+	]
+}]}

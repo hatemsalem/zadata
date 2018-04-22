@@ -1,0 +1,48 @@
+{"items":[{	"arName":"داندى ميجا مول",
+	"enName":"Dandy Mega Mall",
+	"hotline":"19553",
+	"facebook":"http://www.facebook.com/DandyMegaMallEg",
+	"web":"http://www.dandymegamall.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"125459",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dandy-mega-mall/125459?b=2&k=19553&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"159692",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dandy-mega-mall/159692?b=1&k=19553&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+}
+	]
+}, {	"arName":"ال سى واى كى كى",
+	"enName":"LC Waikiki",
+	"hotline":"19553",
+	"facebook":"http://www.facebook.com/LCWaikikiEgypt",
+	"web":"corporate.lcwaikiki.com",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"395126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lc-waikiki/395126?b=3&k=19553&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+}
+	]
+}]}

@@ -1,0 +1,55 @@
+{"items":[{	"arName":"لوتس القابضة",
+	"enName":"Lotus Holding",
+	"hotline":"16011",
+	"facebook":"http://www.facebook.com/SafwaMallEgypt",
+	"web":"http://www.safwamall.com/",
+	"arCategory":[
+		"ادارة مشروعات"
+	],
+	"enCategories":[
+		"Project Management"
+	],
+	"contacts":[
+		{	"profileId":"567449",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lotus-holding/567449?b=1&k=16011&l=search",
+	"arName":"1085 كورنيش النيل, جاردن سيتى, القاهرة",
+	"lat":"30.034419",
+	"lng":"31.229447",
+	"enName":"1085 Corniche El Nil, Garden city, Cairo"
+},
+		{	"profileId":"567454",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lotus-holding/567454?b=2&k=16011&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Garden city, Cairo"
+}
+	]
+}, {	"arName":"صفوة مول",
+	"enName":"Safwa Mall",
+	"hotline":"16011",
+	"facebook":"http://www.facebook.com/SafwaMallEgypt",
+	"web":"http://www.safwamall.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"567452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/safwa-mall/567452?b=4&k=16011&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"567433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/safwa-mall/567433?b=3&k=16011&l=search",
+	"arName":"محور 26 يوليو - صفوة سيتى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.014538999999999",
+	"lng":"31.004491000000002",
+	"enName":"26th Of July Spine, Safwa City, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

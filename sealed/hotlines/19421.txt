@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الامير للتنمية العقارية",
+	"enName":"Al Amir For Real Estate Development",
+	"hotline":"19421",
+	"facebook":"http://www.facebook.com/amirnewheliopolis",
+	"web":"http://www.alamironline.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"430369",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-amir-for-real-estate-development/430369?b=2&k=19421&l=search",
+	"arName":"38 ش على امين امتداد ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"lat":"30.053488999999999",
+	"lng":"31.334064999999999",
+	"enName":"38 Aly Amin St. Extension Of Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"547364",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-amir-for-real-estate-development/547364?b=1&k=19421&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

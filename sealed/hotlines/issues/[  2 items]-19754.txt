@@ -1,0 +1,48 @@
+{"items":[{	"arName":"مستشفى د. عثمان",
+	"enName":"Dr. Osman Hospital",
+	"hotline":"19754",
+	"facebook":"",
+	"web":"http://www.drosmanhospital.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"543900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osman-hospital/543900?b=2&k=19754&l=search",
+	"arName":"خدمة العملاء, حدائق المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Hadayek El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"55737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osman-hospital/55737?b=1&k=19754&l=search",
+	"arName":"16 ش 107, حدائق المعادى, المعادى, القاهرة",
+	"lat":"29.966815",
+	"lng":"31.252075000000001",
+	"enName":"16 Rd. 107, Hadayek El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"مركز اوبتمم لصحة المرأة",
+	"enName":"Optimum Women's Health Center",
+	"hotline":"19754",
+	"facebook":"http://www.facebook.com/optimumhealthcare",
+	"web":"http://www.optimumwomenshealth.com/",
+	"arCategory":[
+		"اطباء"
+	],
+	"enCategories":[
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"335998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/optimum-women's-health-center/335998?b=3&k=19754&l=search",
+	"arName":"16 ش 107 - الدور 6, 7, حدائق المعادى, المعادى, القاهرة",
+	"lat":"29.966815",
+	"lng":"31.252075000000001",
+	"enName":"16 Rd. 107, Floor 6, 7, Hadayek El Maadi, Maadi, Cairo"
+}
+	]
+}]}

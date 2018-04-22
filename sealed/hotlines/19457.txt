@@ -1,0 +1,28 @@
+{"items":[{	"arName":"فور ويلز اوتو",
+	"enName":"Four Whales Auto",
+	"hotline":"19457",
+	"facebook":"http://www.facebook.com/fourwhalesauto",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"503676",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/four-whales-auto/503676?b=1&k=19457&l=search",
+	"arName":"خدمة العملاء, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"503536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/four-whales-auto/503536?b=2&k=19457&l=search",
+	"arName":"4 ش عاطف بركات متفرع من ميدان المحكمة, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"30.102774",
+	"lng":"31.325545999999999",
+	"enName":"4 Atef Barakat St. Off El Mahkama Sq., El Mahkama Square, Heliopolis, Cairo"
+}
+	]
+}]}

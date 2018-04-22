@@ -1,0 +1,90 @@
+{"items":[{	"arName":"سلسلة مطاعم ماجيستي للفطائر والبيتزا والمعجنات",
+	"enName":"Majesty Restaurants",
+	"hotline":"19915",
+	"facebook":"http://www.facebook.com/Majesty.19915eg?ref=br_rs",
+	"web":"http://www.majesty.com.eg/",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"فطير"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Feteer"
+	],
+	"contacts":[
+		{	"profileId":"110545",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/110545?b=7&k=19915&l=search",
+	"arName":"1 ش 270 متفرع من ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975705000000001",
+	"lng":"31.280332999999999",
+	"enName":"1 Rd. 270 Off El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"195007",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/195007?b=1&k=19915&l=search",
+	"arName":"14 ش البراد متفرع من ش احمد سعيد - ميدان الفرنساوى, عباسية, القاهرة",
+	"lat":"30.062387000000001",
+	"lng":"31.272759000000001",
+	"enName":"14 El Barad St. Off Ahmed Said St., El Faransawy Sq., Abbasseya, Cairo"
+},
+		{	"profileId":"114176",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/114176?b=4&k=19915&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, عباسية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Abbasseya, Cairo"
+},
+		{	"profileId":"125403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/125403?b=6&k=19915&l=search",
+	"arName":"25 ش 9 ميدان النافورة, المقطم, القاهرة",
+	"lat":"30.013943999999999",
+	"lng":"31.284945",
+	"enName":"25 Rd. 9 El Nafoura Sq., Mokattam, Cairo"
+},
+		{	"profileId":"431468",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/431468?b=8&k=19915&l=search",
+	"arName":"76 ش الخليفة المأمون, مصر الجديدة, القاهرة",
+	"lat":"30.091667000000001",
+	"lng":"31.312906999999999",
+	"enName":"76 El Khalifa El Maamoun St., Heliopolis, Cairo"
+},
+		{	"profileId":"63696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/63696?b=3&k=19915&l=search",
+	"arName":"7 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.066951",
+	"lng":"31.336333",
+	"enName":"7 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"145886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/145886?b=5&k=19915&l=search",
+	"arName":"138 ش النزهة, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.102309999999999",
+	"lng":"31.343156",
+	"enName":"138 El Nozha St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"125401",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/125401?b=9&k=19915&l=search",
+	"arName":"عمارات الكوثر - ش النصر, المعمورة, الاسكندرية",
+	"lat":"31.287545999999999",
+	"lng":"30.0322",
+	"enName":"El Kawthar Bldgs., El Nasr St., El mamorah, Alexandria"
+},
+		{	"profileId":"567159",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/567159?b=2&k=19915&l=search",
+	"arName":"القطعة 65 ب - ش التسعين - منطقة المستثمرين الجنوبية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.004104999999999",
+	"lng":"31.421327000000002",
+	"enName":"Plot 65 B, El Tesaeen St., Southern Investors Area, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"145890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/145890?b=10&k=19915&l=search",
+	"arName":"31 أ ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.056353000000001",
+	"lng":"31.205075999999998",
+	"enName":"31 A Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+}
+	]
+}]}

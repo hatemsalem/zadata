@@ -1,0 +1,35 @@
+{"items":[{	"arName":"تريدكو للصناعات الهندسية - باساب",
+	"enName":"Tredco For Engineering Industries - PASSAP",
+	"hotline":"16898",
+	"facebook":"http://www.facebook.com/passapeg",
+	"web":"http://www.passap.com.eg/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"458407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tredco-for-engineering-industries-_-passap/458407?b=3&k=16898&l=search",
+	"arName":"خدمة العملاء, العاشر من رمضان, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"573835",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tredco-for-engineering-industries-_-passap/573835?b=2&k=16898&l=search",
+	"arName":"الطريق الدائرى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.985251999999999",
+	"lng":"31.401178999999999",
+	"enName":"Ring Rd., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"254859",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tredco-for-engineering-industries-_-passap/254859?b=1&k=16898&l=search",
+	"arName":"المنطقة الصناعية الثالثة A2, العاشر من رمضان, الشرقية",
+	"lat":"30.265066000000001",
+	"lng":"31.772448000000001",
+	"enName":"3rd Industrial Zone A2, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

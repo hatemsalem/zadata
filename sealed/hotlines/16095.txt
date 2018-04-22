@@ -1,0 +1,28 @@
+{"items":[{	"arName":"النيل العقارية",
+	"enName":"Nile Real Estate",
+	"hotline":"16095",
+	"facebook":"http://www.facebook.com/nilerealestates",
+	"web":"http://www.nileestates.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"559566",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-real-estate/559566?b=1&k=16095&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"559564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-real-estate/559564?b=2&k=16095&l=search",
+	"arName":"فيلا 153 - ش التسعين - النرجس 1, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.022772",
+	"lng":"31.454335",
+	"enName":"Villa 153, El Tesaeen St., El Narges 1, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

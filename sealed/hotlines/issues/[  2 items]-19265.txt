@@ -1,0 +1,83 @@
+{"items":[{	"arName":"الكترونيك هاوس",
+	"enName":"Electronic House",
+	"hotline":"19265",
+	"facebook":"",
+	"web":"http://www.electronichouse.org/",
+	"arCategory":[
+		"اقمار صناعية وريسيفر معدات"
+	],
+	"enCategories":[
+		"Satellite & Receiving Equipment"
+	],
+	"contacts":[
+		{	"profileId":"322981",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electronic-house/322981?b=3&k=19265&l=search",
+	"arName":"خدمة العملاء, باب اللوق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Bab el louk, Cairo"
+},
+		{	"profileId":"46489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electronic-house/46489?b=2&k=19265&l=search",
+	"arName":"162 ش التحرير, باب اللوق, القاهرة",
+	"lat":"30.044699999999999",
+	"lng":"31.236799999999999",
+	"enName":"162 El Tahrir St., Bab el louk, Cairo"
+},
+		{	"profileId":"298737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electronic-house/298737?b=4&k=19265&l=search",
+	"arName":"162 ش التحرير, باب اللوق, القاهرة",
+	"lat":"30.045691999999999",
+	"lng":"31.239543000000001",
+	"enName":"162 El Tahrir St., Bab el louk, Cairo"
+},
+		{	"profileId":"298736",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electronic-house/298736?b=7&k=19265&l=search",
+	"arName":"15 ش يوسف الجندى, باب اللوق, القاهرة",
+	"lat":"30.045475",
+	"lng":"31.239094999999999",
+	"enName":"15 Youssef El Gendy St., Bab el louk, Cairo"
+},
+		{	"profileId":"298735",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electronic-house/298735?b=1&k=19265&l=search",
+	"arName":"12 ش يوسف الجندى, باب اللوق, القاهرة",
+	"lat":"30.044502000000001",
+	"lng":"31.238448000000002",
+	"enName":"12 Youssef El Gendy St., Bab el louk, Cairo"
+},
+		{	"profileId":"68853",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electronic-house/68853?b=5&k=19265&l=search",
+	"arName":"10 ش عبد العزيز, وسط البلد, القاهرة",
+	"lat":"30.046800000000001",
+	"lng":"31.247599999999998",
+	"enName":"10 Abdel Aziz St., Downtown, Cairo"
+},
+		{	"profileId":"187246",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electronic-house/187246?b=6&k=19265&l=search",
+	"arName":"44 ش المرجان - سوق الخضار, العتبة, القاهرة",
+	"lat":"30.049223999999999",
+	"lng":"31.250872999999999",
+	"enName":"44 El Morgan St., Souk El Khodar, Ataba, Cairo"
+}
+	]
+}, {	"arName":"اليكترونيك هاوس",
+	"enName":"Electronic House",
+	"hotline":"19265",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اقمار صناعية وريسيفر معدات"
+	],
+	"enCategories":[
+		"Satellite & Receiving Equipment"
+	],
+	"contacts":[
+		{	"profileId":"22317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electronic-house/22317?b=8&k=19265&l=search",
+	"arName":"68 برج زهراء - ش الملك حفنى, فيكتوريا, الاسكندرية",
+	"lat":"31.251821",
+	"lng":"29.984736000000002",
+	"enName":"68 Zahraa Tower, El Malak Hefny St., Victoria, Alexandria"
+}
+	]
+}]}

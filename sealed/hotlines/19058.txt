@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الشركة الدولية لصيانة الاجهزة المنزلية",
+	"enName":"International Co. For Appliances Maintenance",
+	"hotline":"19058",
+	"facebook":"http://www.facebook.com/eldawliagroup/timeline",
+	"web":"http://www.eldawlia-egy.blogspot.com/",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"142780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/142780?b=2&k=19058&l=search",
+	"arName":"10 ش عمر طوسون متفرع من ش احمد عرابى, المهندسين, الجيزة",
+	"lat":"30.063700000000001",
+	"lng":"31.207899999999999",
+	"enName":"10 Omar Toson St. Off Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"146729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/146729?b=1&k=19058&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"406407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/406407?b=4&k=19058&l=search",
+	"arName":"1 ش عامر امين - مدينة السادات, امبابة, الجيزة",
+	"lat":"30.095095000000001",
+	"lng":"31.203099999999999",
+	"enName":"1 Amer Amin St., El Sadat City, Imbaba, Giza"
+},
+		{	"profileId":"144065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/144065?b=3&k=19058&l=search",
+	"arName":"3 ش على باشا فهمى, جليم, الاسكندرية",
+	"lat":"31.241168999999999",
+	"lng":"29.962222000000001",
+	"enName":"3 Aly Basha Fahmy St., Glim, Alexandria"
+}
+	]
+}]}

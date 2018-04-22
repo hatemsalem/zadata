@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اروب للتأمين مصر",
+	"enName":"Arope Insurance Egypt",
+	"hotline":"19243",
+	"facebook":"http://www.facebook.com/AropeInsuranceEgypt",
+	"web":"http://www.aropeegypt.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"466421",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arope-insurance-egypt/466421?b=2&k=19243&l=search",
+	"arName":"30 ش مصدق متفرع من ش محيى الدين ابو العز, الدقى, الجيزة",
+	"lat":"30.039771999999999",
+	"lng":"31.207459",
+	"enName":"30 Mossadak St. Off Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"187002",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arope-insurance-egypt/187002?b=1&k=19243&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Dokki, Giza"
+}
+	]
+}]}

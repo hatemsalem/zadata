@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ماريا جروب",
+	"enName":"Maria Group",
+	"hotline":"19124",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"61115",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maria-group/61115?b=1&k=19124&l=search",
+	"arName":"5 عمارات الفتح - ش نبوى المهندس امتداد ش عباس العقاد, حى السفارات, مدينة نصر, القاهرة",
+	"lat":"30.041052000000001",
+	"lng":"31.338322999999999",
+	"enName":"5 El Fath Bldgs., Nabawy El Mohandes St. Extension Of Abbas El Akkad St., El Sefarat District, Nasr city, Cairo"
+}
+	]
+}]}

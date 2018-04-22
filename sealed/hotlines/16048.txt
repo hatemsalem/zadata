@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المصرية لادارة وتشغيل المترو",
+	"enName":"Egyptian Co. For Metro Management & Operation",
+	"hotline":"16048",
+	"facebook":"http://www.facebook.com/CairoMetropage",
+	"web":"http://www.cairometro.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"350028",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-metro-management-&-operation/350028?b=1&k=16048&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"30.062757000000001",
+	"lng":"31.249310999999999",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"350027",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-metro-management-&-operation/350027?b=2&k=16048&l=search",
+	"arName":"ميدان رمسيس, وسط البلد, القاهرة",
+	"lat":"30.062757000000001",
+	"lng":"31.249310999999999",
+	"enName":"Ramsis Sq., Downtown, Cairo"
+}
+	]
+}]}

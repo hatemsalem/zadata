@@ -1,0 +1,28 @@
+{"items":[{	"arName":"وزارة التضامن الاجتماعى",
+	"enName":"Ministry Of Social Solidarity",
+	"hotline":"16439",
+	"facebook":"http://www.facebook.com/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B6%D8%A7%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%89-%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B4%D8%A6%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-300230063420035/",
+	"web":"http://www.moss.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"353617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-social-solidarity/353617?b=2&k=16439&l=search",
+	"arName":"خدمة العملاء, العجوزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Agouza, Giza"
+},
+		{	"profileId":"353615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-social-solidarity/353615?b=1&k=16439&l=search",
+	"arName":"19 ش المراغى, العجوزة, الجيزة",
+	"lat":"30.049686000000001",
+	"lng":"31.212088000000001",
+	"enName":"19 El Maraghy St., Agouza, Giza"
+}
+	]
+}]}

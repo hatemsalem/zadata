@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شكاوى الاسعاف",
+	"enName":"Ambulance Complaints",
+	"hotline":"16474",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ارقام طوارئ"
+	],
+	"enCategories":[
+		"Emergency Numbers"
+	],
+	"contacts":[
+		{	"profileId":"187260",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ambulance-complaints/187260?b=1&k=16474&l=search",
+	"arName":"32 أ ش قصر العينى, قصر العينى, القاهرة",
+	"lat":"30.031255999999999",
+	"lng":"31.232438999999999",
+	"enName":"32 A Kasr El Ainy st., Kasr el ainy, Cairo"
+}
+	]
+}]}

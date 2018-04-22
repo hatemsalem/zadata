@@ -1,0 +1,49 @@
+{"items":[{	"arName":"مودرن موتورز",
+	"enName":"Modern Motors",
+	"hotline":"16680",
+	"facebook":"http://www.facebook.com/pages/Modern-Motors-Suzuki-/262486527110561",
+	"web":"",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"134017",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors/134017?b=3&k=16680&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"30.065516800000001",
+	"lng":"31.032541299999998",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"454816",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors/454816?b=5&k=16680&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"174900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors/174900?b=4&k=16680&l=search",
+	"arName":"طريق بور سعيد - تقسيم المعلمين, دمياط, دمياط",
+	"lat":"31.428385299999999",
+	"lng":"31.814064500000001",
+	"enName":"Port Said Rd., Taqseem EL Moalemeen, Damietta, Damietta"
+},
+		{	"profileId":"517407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors/517407?b=1&k=16680&l=search",
+	"arName":"طريق رأس البر - السنانية, دمياط, دمياط",
+	"lat":"31.426576000000001",
+	"lng":"31.801182000000001",
+	"enName":"Ras El Bar Rd., El Sananeya, Damietta, Damietta"
+},
+		{	"profileId":"134706",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors/134706?b=2&k=16680&l=search",
+	"arName":"40 ش المساحة, الدقى, الجيزة",
+	"lat":"30.039000000000001",
+	"lng":"31.2182",
+	"enName":"40 El Messaha St., Dokki, Giza"
+}
+	]
+}]}

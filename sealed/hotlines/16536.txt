@@ -1,0 +1,64 @@
+{"items":[{	"arName":"سلسلة مطاعم جاد",
+	"enName":"Gad Restaurants",
+	"hotline":"16536",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"فول وطعمية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم مصرية"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Foul & Ta'mya",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Egyptian Cuisine"
+	],
+	"contacts":[
+		{	"profileId":"77970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/77970?b=1&k=16536&l=search",
+	"arName":"63 ش فريد سميكة, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.112352999999999",
+	"lng":"31.344778000000002",
+	"enName":"63 Farid Semeika St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"547294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/547294?b=3&k=16536&l=search",
+	"arName":"88 ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.084914000000001",
+	"lng":"31.328482999999999",
+	"enName":"88 El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"175493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/175493?b=4&k=16536&l=search",
+	"arName":"7 ش هارون الرشيد, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.095119",
+	"lng":"31.326868000000001",
+	"enName":"7 Haroun El Rashid St., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"355244",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/355244?b=2&k=16536&l=search",
+	"arName":"60 ش نخلة المطيعى ميدان تريومف, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.100898000000001",
+	"lng":"31.342300999999999",
+	"enName":"60 Nakhla El Motaey St. Triumph Sq., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"580633",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/580633?b=5&k=16536&l=search",
+	"arName":"57 أ ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.092513",
+	"lng":"31.315909999999999",
+	"enName":"57 A El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"174777",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/174777?b=6&k=16536&l=search",
+	"arName":"97 ش التحرير, الدقى, الجيزة",
+	"lat":"30.037583000000001",
+	"lng":"31.209211",
+	"enName":"97 El Tahrir St., Dokki, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المؤسسة المصرية لمكافحة سرطان الثدى - بى سى اف اى",
+	"enName":"Breast Cancer Foundation Of Egypt - BCFE",
+	"hotline":"19417",
+	"facebook":"http://www.facebook.com/BCFEgypt",
+	"web":"http://www.bcfe.org/",
+	"arCategory":[
+		"جمعيات ومنظمات"
+	],
+	"enCategories":[
+		"Associations"
+	],
+	"contacts":[
+		{	"profileId":"257679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/breast-cancer-foundation-of-egypt-_-bcfe/257679?b=2&k=19417&l=search",
+	"arName":"الخط الساخن, قصر العينى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hotline, Kasr el ainy, Cairo"
+},
+		{	"profileId":"18446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/breast-cancer-foundation-of-egypt-_-bcfe/18446?b=1&k=19417&l=search",
+	"arName":"33 ش قصر العينى - الدور 7, 9 شقة 25, 35, فم الخليج, القاهرة",
+	"lat":"30.027000000000001",
+	"lng":"31.232299999999999",
+	"enName":"33 Kasr El Ainy St., Floor 7, 9 Flat 25, 35, Fom el khalig, Cairo"
+}
+	]
+}]}

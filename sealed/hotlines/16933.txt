@@ -1,0 +1,28 @@
+{"items":[{	"arName":"وادى صن ست للاستثمار العقارى",
+	"enName":"Sun Set Valley For Real Estate Investment",
+	"hotline":"16933",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"256632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sun-set-valley-for-real-estate-investment/256632?b=1&k=16933&l=search",
+	"arName":"3 ش شجرة الدر, الزمالك, القاهرة",
+	"lat":"30.058803999999999",
+	"lng":"31.217434000000001",
+	"enName":"3 Shagaret El Dor St., Zamalek, Cairo"
+},
+		{	"profileId":"256641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sun-set-valley-for-real-estate-investment/256641?b=2&k=16933&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zamalek, Cairo"
+}
+	]
+}]}

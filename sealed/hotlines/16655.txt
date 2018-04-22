@@ -1,0 +1,56 @@
+{"items":[{	"arName":"بى اوتو لتجارة السيارات",
+	"enName":"B Auto For Cars Trade",
+	"hotline":"16655",
+	"facebook":"http://www.facebook.com/Bautoegypt",
+	"web":"http://www.bauto.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"335056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b-auto-for-cars-trade/335056?b=1&k=16655&l=search",
+	"arName":"1 / 4 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.970344999999998",
+	"lng":"31.279040999999999",
+	"enName":"1 / 4 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"465194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b-auto-for-cars-trade/465194?b=2&k=16655&l=search",
+	"arName":"40 ش 9 متفرع من ميدان النافورة, المقطم, القاهرة",
+	"lat":"30.013536999999999",
+	"lng":"31.287133000000001",
+	"enName":"40 Rd. 9 Off El Nafoura Sq., Mokattam, Cairo"
+},
+		{	"profileId":"160136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b-auto-for-cars-trade/160136?b=4&k=16655&l=search",
+	"arName":"2 /2 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.972995000000001",
+	"lng":"31.280284999999999",
+	"enName":"2 /2 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"471827",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b-auto-for-cars-trade/471827?b=5&k=16655&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"495250",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b-auto-for-cars-trade/495250?b=6&k=16655&l=search",
+	"arName":"2 ش الحياة متفرع من ش الجيش, طنطا, الغربية",
+	"lat":"30.811260000000001",
+	"lng":"30.995470000000001",
+	"enName":"2 El Hayah St. Off El Guish St., Tanta, El gharbeya"
+},
+		{	"profileId":"426982",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b-auto-for-cars-trade/426982?b=3&k=16655&l=search",
+	"arName":"القطعة 25 - - حى الملتقى العربى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.091799000000002",
+	"lng":"31.378363",
+	"enName":"Plot 25, , El Moltaqa El Araby District, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

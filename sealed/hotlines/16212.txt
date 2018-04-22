@@ -1,0 +1,28 @@
+{"items":[{	"arName":"برايم لتداول الاوراق المالية",
+	"enName":"Prime Securities",
+	"hotline":"16212",
+	"facebook":"http://www.facebook.com/PrimeHolding",
+	"web":"http://www.primegroup.org/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"133304",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prime-securities/133304?b=1&k=16212&l=search",
+	"arName":"2 برج الحرية - ش وادى النيل ميدان مصطفى محمود - الدور 8, المهندسين, الجيزة",
+	"lat":"30.054003999999999",
+	"lng":"31.201516000000002",
+	"enName":"2 el horreya tower, wadi El Nil st. mostafa mahmoud sq., Floor 8, Mohandeseen, Giza"
+},
+		{	"profileId":"149237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prime-securities/149237?b=2&k=16212&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

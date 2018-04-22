@@ -1,0 +1,58 @@
+{"items":[{	"arName":"اسكان للتأمين - شركة تأمين مساهمة مصرية",
+	"enName":"Iskan Insurance",
+	"hotline":"19459",
+	"facebook":"http://www.facebook.com/IskanInsurancecompany",
+	"web":"http://www.iskaninsurance.com/",
+	"arCategory":[
+		"بنوك",
+		"تأمين"
+	],
+	"enCategories":[
+		"Banks",
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"462048",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iskan-insurance/462048?b=2&k=19459&l=search",
+	"arName":"49 ش نوبار متفرع من ش محمد محمود - الدور 6, وسط البلد, القاهرة",
+	"lat":"30.042508999999999",
+	"lng":"31.241416999999998",
+	"enName":"49 Noubar St. Off Mohamed Mahmoud St., Floor 6, Downtown, Cairo"
+},
+		{	"profileId":"448486",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iskan-insurance/448486?b=5&k=19459&l=search",
+	"arName":"127 طريق الحرية تقاطع ش باتريس لومومبا - عمارة الشلالات - الدور 3, باب شرق, الاسكندرية",
+	"lat":"31.200894999999999",
+	"lng":"29.914162000000001",
+	"enName":"127 El Horreya Rd. Intersection Of Patrice Lumumba St., El Shalalat Bldg., Floor 3, Bab shark, Alexandria"
+},
+		{	"profileId":"401442",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iskan-insurance/401442?b=4&k=19459&l=search",
+	"arName":"39 ش كابول متفرع من ش مكرم عبيد - الدور 1, مدينة نصر, القاهرة",
+	"lat":"30.059211000000001",
+	"lng":"31.344728",
+	"enName":"39 Kabol St. Off Makram Ebaid St., Floor 1, Nasr city, Cairo"
+},
+		{	"profileId":"218095",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iskan-insurance/218095?b=3&k=19459&l=search",
+	"arName":"67 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"lat":"30.017727000000001",
+	"lng":"31.222740999999999",
+	"enName":"67 Abdel Aziz Al Saoud St., El manyal, Cairo"
+},
+		{	"profileId":"323402",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iskan-insurance/323402?b=6&k=19459&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"191343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iskan-insurance/191343?b=1&k=19459&l=search",
+	"arName":"21 / 23 برج النيل الادارى - ش مراد, الجيزة, الجيزة",
+	"lat":"30.021809000000001",
+	"lng":"31.216569",
+	"enName":"21 /23 El Nile Adminstrative Tower, Mourad St., Giza, Giza"
+}
+	]
+}]}

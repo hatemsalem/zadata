@@ -1,0 +1,48 @@
+{"items":[{	"arName":"قرطاج للتنمية العقارية والسياحية",
+	"enName":"Cartage For Real Estate & Tourism Development",
+	"hotline":"19147",
+	"facebook":"",
+	"web":"http://www.moharampasha.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"186936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cartage-for-real-estate-&-tourism-development/186936?b=1&k=19147&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"تاكسى بلس",
+	"enName":"Taxi Plus",
+	"hotline":"19147",
+	"facebook":"",
+	"web":"http://www.taxiplus.co/",
+	"arCategory":[
+		"تاكسى"
+	],
+	"enCategories":[
+		"Taxies"
+	],
+	"contacts":[
+		{	"profileId":"531390",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taxi-plus/531390?b=3&k=19147&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"531388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taxi-plus/531388?b=2&k=19147&l=search",
+	"arName":"3 ش 284 متفرع من ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.973611999999999",
+	"lng":"31.279664",
+	"enName":"3 Rd. 284 Off El Laselky St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

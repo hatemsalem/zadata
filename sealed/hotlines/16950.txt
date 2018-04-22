@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الاولى للخدمات الطبية",
+	"enName":"Prime Health",
+	"hotline":"16950",
+	"facebook":"http://www.facebook.com/primehealthegypt/",
+	"web":"http://www.phmedicalinsurance.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"326812",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prime-health/326812?b=2&k=16950&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"572758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prime-health/572758?b=3&k=16950&l=search",
+	"arName":"14 ش بطليموس الفلكى متفرع من طريق الجيش, سابا باشا, الاسكندرية",
+	"lat":"31.239008999999999",
+	"lng":"29.955628999999998",
+	"enName":"14 Batlaimous El Falaky St. Off El Guish Rd., Saba pasha, Alexandria"
+},
+		{	"profileId":"326751",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/prime-health/326751?b=1&k=16950&l=search",
+	"arName":"6 د/5 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974754000000001",
+	"lng":"31.281721000000001",
+	"enName":"6 D/5 El Laselky St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

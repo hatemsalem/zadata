@@ -1,0 +1,28 @@
+{"items":[{	"arName":"قنصلية الولايات المتحدة الامريكية",
+	"enName":"United States Of America Consulate",
+	"hotline":"16872",
+	"facebook":"http://www.facebook.com/USEmbassyCairo",
+	"web":"egypt.usembassy.gov",
+	"arCategory":[
+		"سفارات و قنصليات"
+	],
+	"enCategories":[
+		"Embassies & Consulates"
+	],
+	"contacts":[
+		{	"profileId":"128922",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-states-of-america-consulate/128922?b=2&k=16872&l=search",
+	"arName":"5 ش توفيق دياب, جاردن سيتى, القاهرة",
+	"lat":"30.041408000000001",
+	"lng":"31.232811999999999",
+	"enName":"5 Tawfiq Diab St., Garden city, Cairo"
+},
+		{	"profileId":"458674",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-states-of-america-consulate/458674?b=1&k=16872&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Garden city, Cairo"
+}
+	]
+}]}

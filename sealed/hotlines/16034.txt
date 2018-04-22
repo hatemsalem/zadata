@@ -1,0 +1,30 @@
+{"items":[{	"arName":"سوليك للاستثمار العقارى",
+	"enName":"Solik Real Estate Investment",
+	"hotline":"16034",
+	"facebook":"http://www.facebook.com/terracesmouhaalex",
+	"web":"http://www.solikgroup.com/",
+	"arCategory":[
+		"انشاءات ومقاولات",
+		"عقارات"
+	],
+	"enCategories":[
+		"Construction",
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"164244",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/solik-real-estate-investment/164244?b=1&k=16034&l=search",
+	"arName":"40 ش كفر عبده, رشدى, الاسكندرية",
+	"lat":"31.226628000000002",
+	"lng":"29.951917000000002",
+	"enName":"40 Kafr Abdou St., Roushdy, Alexandria"
+},
+		{	"profileId":"322555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/solik-real-estate-investment/322555?b=2&k=16034&l=search",
+	"arName":"خدمة العملاء, رشدى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roushdy, Alexandria"
+}
+	]
+}]}

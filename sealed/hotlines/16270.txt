@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مركز جنين",
+	"enName":"Ganin Center",
+	"hotline":"16270",
+	"facebook":"http://www.facebook.com/Ganin.Center",
+	"web":"http://www.ganin.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"47197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ganin-center/47197?b=2&k=16270&l=search",
+	"arName":"كورنيش النيل - برج السلام, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.983166000000001",
+	"lng":"31.230633000000001",
+	"enName":"Corniche El Nil, El Salam Tower, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"559542",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ganin-center/559542?b=1&k=16270&l=search",
+	"arName":"خدمة طوارئ, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

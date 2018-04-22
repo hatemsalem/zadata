@@ -1,0 +1,49 @@
+{"items":[{	"arName":"محجوب للسيراميك والبورسلين",
+	"enName":"Mahgoub For Ceramic & Porcelain",
+	"hotline":"19948",
+	"facebook":"http://www.facebook.com/mahgoubceramic?fref=ts",
+	"web":"http://www.mahgoub.com/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"167420",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/167420?b=3&k=19948&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"167149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/167149?b=1&k=19948&l=search",
+	"arName":"1 ش مكرم عبيد تقاطع ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.055237000000002",
+	"lng":"31.346456",
+	"enName":"1 Makram Ebaid St. Intersection Of Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"200845",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/200845?b=4&k=19948&l=search",
+	"arName":"435 ش فيصل, مدكور, فيصل, الجيزة",
+	"lat":"30.008078999999999",
+	"lng":"31.185426",
+	"enName":"435 Faisal St., Madkour, Faisal, Giza"
+},
+		{	"profileId":"200844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/200844?b=5&k=19948&l=search",
+	"arName":"150 ش البحر الاعظم, الجيزة, الجيزة",
+	"lat":"30.012955000000002",
+	"lng":"31.217141999999999",
+	"enName":"150 El Bahr El Aazam St., Giza, Giza"
+},
+		{	"profileId":"524075",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mahgoub-for-ceramic-&-porcelain/524075?b=2&k=19948&l=search",
+	"arName":"القطعة 319 - ش التسعين القطاع الثانى - مركز المدينة التجارى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.025993",
+	"lng":"31.463379",
+	"enName":"Plot 319, El Tesaeen St. Sector 2, City Commercial Center, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

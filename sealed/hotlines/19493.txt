@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مشيخة الازهر الشريف",
+	"enName":"Al Azhar Al Sharif",
+	"hotline":"19493",
+	"facebook":"http://www.facebook.com/pg/OfficialAzharEg",
+	"web":"http://www.azhar.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"530826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-azhar-al-sharif/530826?b=2&k=19493&l=search",
+	"arName":"الخط الساخن, الدراسة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hotline, El darrasa, Cairo"
+},
+		{	"profileId":"349638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-azhar-al-sharif/349638?b=1&k=19493&l=search",
+	"arName":"طريق صلاح سالم, الدراسة, القاهرة",
+	"lat":"30.045414000000001",
+	"lng":"31.270146",
+	"enName":"Salah Salem Rd., El darrasa, Cairo"
+}
+	]
+}]}

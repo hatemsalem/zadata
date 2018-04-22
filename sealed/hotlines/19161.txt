@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدلية د. رانية",
+	"enName":"Dr. Rania Pharmacy",
+	"hotline":"19161",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"168554",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-rania-pharmacy/168554?b=2&k=19161&l=search",
+	"arName":"المرحلة الاولى, مدينة الرحاب, القاهرة",
+	"lat":"30.058744000000001",
+	"lng":"31.495933000000001",
+	"enName":"Phase 1, Al rehab city, Cairo"
+},
+		{	"profileId":"168557",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-rania-pharmacy/168557?b=1&k=19161&l=search",
+	"arName":"السوق التجارى, مدينة الرحاب, القاهرة",
+	"lat":"30.056567000000001",
+	"lng":"31.491710999999999",
+	"enName":"Commercial Market, Al rehab city, Cairo"
+},
+		{	"profileId":"264853",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-rania-pharmacy/264853?b=3&k=19161&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة الرحاب, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Al rehab city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,264 @@
+{"items":[{	"arName":"سيلنترو",
+	"enName":"Cilantro",
+	"hotline":"16551",
+	"facebook":"http://www.facebook.com/CilantroCafee",
+	"web":"http://www.cilantrocafe.net/",
+	"arCategory":[
+		"مقاهى",
+		"وجبات سريعة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Fast Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"581040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cilantro/581040?b=4&k=16551&l=search",
+	"arName":"المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.976365000000001",
+	"lng":"30.954042000000001",
+	"enName":"Central Spine, 1st District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"رحاب اكتوبر للاستثمار العقارى",
+	"enName":"Rehab October For Real Estate Investment",
+	"hotline":"16551",
+	"facebook":"",
+	"web":"http://www.rehaboctober.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"187415",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rehab-october-for-real-estate-investment/187415?b=12&k=16551&l=search",
+	"arName":"القطعة 2/27 - المحور المركزى, السادس من اكتوبر, الجيزة",
+	"lat":"29.963673",
+	"lng":"30.930847",
+	"enName":"Plot 2/27, Central Spine, 6th of october, Giza"
+},
+		{	"profileId":"187418",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rehab-october-for-real-estate-investment/187418?b=11&k=16551&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}, {	"arName":"رحاب اكتوبر مول",
+	"enName":"Rehab October Mall",
+	"hotline":"16551",
+	"facebook":"",
+	"web":"http://www.rehaboctober.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"418190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rehab-october-mall/418190?b=13&k=16551&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.929774900000002",
+	"lng":"31.0772215",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}, {	"arName":"رحاب اكتوبر سيتى",
+	"enName":"Rehab October City",
+	"hotline":"16551",
+	"facebook":"",
+	"web":"http://www.rehaboctober.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"365540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rehab-october-city/365540?b=10&k=16551&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.929012499999999",
+	"lng":"31.079710599999999",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}, {	"arName":"فاميلى مول",
+	"enName":"Family Mall",
+	"hotline":"16551",
+	"facebook":"http://www.facebook.com/familymall.eg",
+	"web":"http://www.familymalleg.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"418192",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/family-mall/418192?b=7&k=16551&l=search",
+	"arName":"المحور المركزى, السادس من اكتوبر, الجيزة",
+	"lat":"29.974903099999999",
+	"lng":"30.949511999999999",
+	"enName":"Central Spine, 6th of october, Giza"
+}
+	]
+}, {	"arName":"بوما",
+	"enName":"Puma",
+	"hotline":"16551",
+	"facebook":"http://www.facebook.com/PUMA-Egypt-233644906767301",
+	"web":"http://www.puma.com/",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"581249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/puma/581249?b=9&k=16551&l=search",
+	"arName":"المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.976365000000001",
+	"lng":"30.954042000000001",
+	"enName":"Central Spine, 1st District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"كافيه باسكوتشى",
+	"enName":"Caffe Pascucci",
+	"hotline":"16551",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مقاهى",
+		"وجبات سريعة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Fast Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"581339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/caffe-pascucci/581339?b=3&k=16551&l=search",
+	"arName":"المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.976365000000001",
+	"lng":"30.954042000000001",
+	"enName":"Central Spine, 1st District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"لاند مول",
+	"enName":"Land Mall",
+	"hotline":"16551",
+	"facebook":"",
+	"web":"http://www.rehaboctober.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"418194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/land-mall/418194?b=8&k=16551&l=search",
+	"arName":"محور جمال عبد الناصر - التوسعات الشمالية, السادس من اكتوبر, الجيزة",
+	"lat":"29.977152",
+	"lng":"30.927158599999999",
+	"enName":"Gamal Abdel Nasser Spine, Northern Extensions, 6th of october, Giza"
+}
+	]
+}, {	"arName":"اوتو شوب كومبانى",
+	"enName":"Auto Shop Company",
+	"hotline":"16551",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"581049",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-shop-company/581049?b=1&k=16551&l=search",
+	"arName":"المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.976365000000001",
+	"lng":"30.954042000000001",
+	"enName":"Central Spine, 1st District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"اينشتاين كافيه",
+	"enName":"Einstein Kaffee",
+	"hotline":"16551",
+	"facebook":"",
+	"web":"http://www.einstein-kaffee.de/",
+	"arCategory":[
+		"مقاهى",
+		"وجبات سريعة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Fast Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"581042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/einstein-kaffee/581042?b=5&k=16551&l=search",
+	"arName":"المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.976365000000001",
+	"lng":"30.954042000000001",
+	"enName":"Central Spine, 1st District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"فاميلى لاند",
+	"enName":"Family Land",
+	"hotline":"16551",
+	"facebook":"",
+	"web":"http://www.rehaboctober.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"418197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/family-land/418197?b=6&k=16551&l=search",
+	"arName":"التوسعات الشمالية, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"lat":"29.977836",
+	"lng":"30.926943000000001",
+	"enName":"Northern Extensions, 8th District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"مطعم سيزر",
+	"enName":"Caesar Restaurant",
+	"hotline":"16551",
+	"facebook":"http://www.facebook.com/caesarfamilymall/",
+	"web":"",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"581044",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/caesar-restaurant/581044?b=2&k=16551&l=search",
+	"arName":"المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.976365000000001",
+	"lng":"30.954042000000001",
+	"enName":"Central Spine, 1st District, 6th of october, Giza"
+}
+	]
+}]}

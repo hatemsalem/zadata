@@ -1,0 +1,21 @@
+{"items":[{	"arName":"هاموك تورز",
+	"enName":"Hammock Tours",
+	"hotline":"19876",
+	"facebook":"",
+	"web":"http://www.hammocktours.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"445397",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hammock-tours/445397?b=1&k=19876&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 8th District, Nasr city, Cairo"
+}
+	]
+}]}

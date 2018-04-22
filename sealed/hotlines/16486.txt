@@ -1,0 +1,49 @@
+{"items":[{	"arName":"ادخنة النخلة",
+	"enName":"Nakhla Tobacco",
+	"hotline":"16486",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تبغ"
+	],
+	"enCategories":[
+		"Tobacco"
+	],
+	"contacts":[
+		{	"profileId":"512908",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nakhla-tobacco/512908?b=3&k=16486&l=search",
+	"arName":"خدمة العملاء, عباسية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abbasseya, Cairo"
+},
+		{	"profileId":"15221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nakhla-tobacco/15221?b=1&k=16486&l=search",
+	"arName":"224 ش الجيش - الدور 1, عباسية, القاهرة",
+	"lat":"30.061800000000002",
+	"lng":"31.2668",
+	"enName":"224 El Guish St. , Floor 1, Abbasseya, Cairo"
+},
+		{	"profileId":"75377",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nakhla-tobacco/75377?b=5&k=16486&l=search",
+	"arName":"33 ش مصطفى كامل, شبين الكوم, المنوفية",
+	"lat":"30.560205",
+	"lng":"31.012594",
+	"enName":"33 Mostafa Kamel St., Shebein el kawm, El monofeya"
+},
+		{	"profileId":"75376",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nakhla-tobacco/75376?b=2&k=16486&l=search",
+	"arName":"3 أ ش سليمان الحلبى متفرع من ش رمسيس, وسط البلد, القاهرة",
+	"lat":"30.055700000000002",
+	"lng":"31.241700000000002",
+	"enName":"3 A Soliman El Halaby St. Off Ramsis St., Downtown, Cairo"
+},
+		{	"profileId":"75375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nakhla-tobacco/75375?b=4&k=16486&l=search",
+	"arName":"43 ش مسجد سلطان, العطارين, الاسكندرية",
+	"lat":"31.187853",
+	"lng":"29.901579000000002",
+	"enName":"43 Masged Sultan St., El attarin, Alexandria"
+}
+	]
+}]}

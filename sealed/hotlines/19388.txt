@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اعطال",
+	"enName":"Aatal",
+	"hotline":"19388",
+	"facebook":"http://www.facebook.com/A3tal",
+	"web":"http://www.a3tal.com/",
+	"arCategory":[
+		"سيارات - مراكز اصلاح وخدمات ومعدات"
+	],
+	"enCategories":[
+		"Cars - Repairing & Servicing Equipment"
+	],
+	"contacts":[
+		{	"profileId":"511910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aatal/511910?b=1&k=19388&l=search",
+	"arName":"3 ش بابا شارو متفرع من ش 26 يوليو, الزمالك, القاهرة",
+	"lat":"30.0608",
+	"lng":"31.221896999999998",
+	"enName":"3 Papa Sharo St. Off 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"511912",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aatal/511912?b=2&k=19388&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zamalek, Cairo"
+}
+	]
+}]}

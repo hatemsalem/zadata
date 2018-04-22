@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ناشيونال موتورز",
+	"enName":"National Motors",
+	"hotline":"16302",
+	"facebook":"https://ar-ar.facebook.com/nationalmotors42",
+	"web":"http://www.nationalmotorsco.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"54150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-motors/54150?b=1&k=16302&l=search",
+	"arName":"42 ش الطيران, مدينة نصر, القاهرة",
+	"lat":"30.061181000000001",
+	"lng":"31.325977000000002",
+	"enName":"42 El Tayaran St., Nasr city, Cairo"
+}
+	]
+}]}

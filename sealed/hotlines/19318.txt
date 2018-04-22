@@ -1,0 +1,63 @@
+{"items":[{	"arName":"المهندس للتأمين - ام اى سى",
+	"enName":"Mohandes Insurance - MIC",
+	"hotline":"19318",
+	"facebook":"http://www.facebook.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D9%86%D8%AF%D8%B3-%D9%84%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-1422097064752830",
+	"web":"http://www.mohins.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"71844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/71844?b=1&k=19318&l=search",
+	"arName":"217 ش رمسيس, غمره, القاهرة",
+	"lat":"30.065638",
+	"lng":"31.258447",
+	"enName":"217 Ramsis St., Ghamrah, Cairo"
+},
+		{	"profileId":"254424",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/254424?b=7&k=19318&l=search",
+	"arName":"2 ش قناة السويس متفرع من ش عبد العزيز محمود, المنصورة, الدقهلية",
+	"lat":"31.0498789",
+	"lng":"31.396112200000001",
+	"enName":"2 Suez Canal St. Off Abdel Aziz Mahmoud St., El mansoura, El dakahleya"
+},
+		{	"profileId":"254700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/254700?b=4&k=19318&l=search",
+	"arName":"ش النهضة تقاطع ش ممفيس - عمارة المساجيرية - الدور 3, حى الشرق, بور سعيد",
+	"lat":"31.260466999999998",
+	"lng":"32.310130000000001",
+	"enName":"El Nahda St. Intersection Of Memphis St., El Masagerya Bldg., Floor 3, El shark district, Port said"
+},
+		{	"profileId":"71840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/71840?b=2&k=19318&l=search",
+	"arName":"36 ش البطل احمد عبد العزيز متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.053422999999999",
+	"lng":"31.205732000000001",
+	"enName":"36 El Batal Ahmed Abdel Aziz St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"254470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/254470?b=5&k=19318&l=search",
+	"arName":"22 ش الشهيد عطا الله على حسن - عمارة الصفا - الدور 1, منشأة لطف الله, الفيوم",
+	"lat":"29.313227999999999",
+	"lng":"30.841315000000002",
+	"enName":"22 El Shaheed Atallah Aly Hassan St., El Safa Bldg., Floor 1, Manshaat lotfallah, El fayoum"
+},
+		{	"profileId":"5549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/5549?b=3&k=19318&l=search",
+	"arName":"3 ميدان المساحة, الدقى, الجيزة",
+	"lat":"30.034839000000002",
+	"lng":"31.214403000000001",
+	"enName":"3 El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"157065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mohandes-insurance-_-mic/157065?b=6&k=19318&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

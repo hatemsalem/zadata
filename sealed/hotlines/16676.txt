@@ -1,0 +1,21 @@
+{"items":[{	"arName":"فيزيتا",
+	"enName":"Vezeeta",
+	"hotline":"16676",
+	"facebook":"http://www.facebook.com/Vezeeta",
+	"web":"http://www.vezeeta.com/",
+	"arCategory":[
+		"خدمات واستشارات طبية"
+	],
+	"enCategories":[
+		"Healthcare Services & Consultancy"
+	],
+	"contacts":[
+		{	"profileId":"423807",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vezeeta/423807?b=1&k=16676&l=search",
+	"arName":"خدمات طبية اون لاين, مصر الجديدة, القاهرة",
+	"lat":"30.104206999999999",
+	"lng":"31.349145",
+	"enName":"Online Medical Services, Heliopolis, Cairo"
+}
+	]
+}]}

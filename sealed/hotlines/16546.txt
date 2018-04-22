@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ادفعلى دوت كوم",
+	"enName":"Edfa3ly Dot Com",
+	"hotline":"16546",
+	"facebook":"",
+	"web":"http://www.edfa3ly.com.eg/",
+	"arCategory":[
+		"تسويق عبر الانترنت"
+	],
+	"enCategories":[
+		"Internet Marketing"
+	],
+	"contacts":[
+		{	"profileId":"343302",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edfa3ly-dot-com/343302?b=1&k=16546&l=search",
+	"arName":"11 ش مصطفى رفعت - الدور 3 شقة 302, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.102105999999999",
+	"lng":"31.378132000000001",
+	"enName":"11 Mostafa Refaat St., Floor 3 Flat 302, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

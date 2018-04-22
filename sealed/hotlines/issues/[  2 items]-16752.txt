@@ -1,0 +1,48 @@
+{"items":[{	"arName":"جبال ريزورت",
+	"enName":"Jebal Resort",
+	"hotline":"16752",
+	"facebook":"http://www.facebook.com/jebalresorteg",
+	"web":"http://www.jebalresort.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"460865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jebal-resort/460865?b=1&k=16752&l=search",
+	"arName":"كم 50 - طريق الزعفرانة, العين السخنة, العين السخنة",
+	"lat":"29.464448000000001",
+	"lng":"32.46181",
+	"enName":"Km 50, El Zaafarana Rd., El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"460869",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jebal-resort/460869?b=2&k=16752&l=search",
+	"arName":"خدمة العملاء, العين السخنة, العين السخنة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"سكاى بريدج للتنمية السياحية",
+	"enName":"Sky Bridge For Development",
+	"hotline":"16752",
+	"facebook":"http://www.facebook.com/jebalresorteg",
+	"web":"http://www.jebalresort.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"467010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sky-bridge-for-development/467010?b=3&k=16752&l=search",
+	"arName":"1 ش حافظ رمضان متفرع من ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.068165",
+	"lng":"31.347535000000001",
+	"enName":"1 Hafez Ramadan St. Off Makram Ebaid St., Nasr city, Cairo"
+}
+	]
+}]}

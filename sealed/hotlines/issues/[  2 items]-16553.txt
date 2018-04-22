@@ -1,0 +1,63 @@
+{"items":[{	"arName":"وان اوك - نكست دوور",
+	"enName":"One Oak - Next Door",
+	"hotline":"16553",
+	"facebook":"http://www.facebook.com/1oaknd",
+	"web":"http://www.1oakeg.com/",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"557227",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/one-oak-_-next-door/557227?b=1&k=16553&l=search",
+	"arName":"6 ش الجزيرة الوسطى متفرع من ش اسماعيل محمد, الزمالك, القاهرة",
+	"lat":"30.066284",
+	"lng":"31.216577000000001",
+	"enName":"6 El Gezirah El Wosta St. Off Ismail Mohamed St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"مطعم وان اوك",
+	"enName":"One Oak Restaurant",
+	"hotline":"16553",
+	"facebook":"http://www.facebook.com/1oakeg",
+	"web":"http://www.1oakeg.com/",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"سوشى"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Sushi"
+	],
+	"contacts":[
+		{	"profileId":"448167",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/one-oak-restaurant/448167?b=3&k=16553&l=search",
+	"arName":"المجاورة الثالثة - الحى الثانى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.027321799999999",
+	"lng":"31.0109326",
+	"enName":"3rd Neighbourhood, 2nd District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"475354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/one-oak-restaurant/475354?b=2&k=16553&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.020237000000002",
+	"lng":"31.494927000000001",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"513319",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/one-oak-restaurant/513319?b=4&k=16553&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"خط صحة المصريين",
+	"enName":"Egyptians Health Line",
+	"hotline":"19790",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"جمعيات ومنظمات"
+	],
+	"enCategories":[
+		"Associations"
+	],
+	"contacts":[
+		{	"profileId":"257199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptians-health-line/257199?b=1&k=19790&l=search",
+	"arName":"الخط الساخن, لاظوغلى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hot Line, Lazoughly, Cairo"
+}
+	]
+}]}

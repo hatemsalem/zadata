@@ -1,0 +1,49 @@
+{"items":[{	"arName":"صيدليات حمدون",
+	"enName":"Hamdoun Pharmacies",
+	"hotline":"16240",
+	"facebook":"http://www.facebook.com/hamdounpharmacies",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"256559",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hamdoun-pharmacies/256559?b=3&k=16240&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"170975",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hamdoun-pharmacies/170975?b=1&k=16240&l=search",
+	"arName":"36 ش 276 متفرع من ش 263, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.969930000000002",
+	"lng":"31.276828999999999",
+	"enName":"36 Rd. 276 Off Rd. 263, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"339233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hamdoun-pharmacies/339233?b=4&k=16240&l=search",
+	"arName":"99 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.976611999999999",
+	"lng":"31.287123999999999",
+	"enName":"99 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"339236",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hamdoun-pharmacies/339236?b=2&k=16240&l=search",
+	"arName":"99 ابراج امتداد الامل - طريق الاوتوستراد, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.954518",
+	"lng":"31.286628",
+	"enName":"99 Emtedad El Amal Towers, Autostrad Rd., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"157760",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hamdoun-pharmacies/157760?b=5&k=16240&l=search",
+	"arName":"5 أ ش محمد رشدى متفرع من ش النيل, العجوزة, الجيزة",
+	"lat":"30.064563",
+	"lng":"31.210905",
+	"enName":"5 A Mohamed Roshdy St. Off El Nil St., Agouza, Giza"
+}
+	]
+}]}

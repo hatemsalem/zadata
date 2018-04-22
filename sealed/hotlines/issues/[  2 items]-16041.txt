@@ -1,0 +1,62 @@
+{"items":[{	"arName":"كونتشتال جروب",
+	"enName":"Contistahl Group",
+	"hotline":"16041",
+	"facebook":"http://www.facebook.com/ContistahlGroup",
+	"web":"http://www.contistahlgroup.com/",
+	"arCategory":[
+		"مطابخ"
+	],
+	"enCategories":[
+		"Kitchens"
+	],
+	"contacts":[
+		{	"profileId":"436734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/contistahl-group/436734?b=4&k=16041&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"436742",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/contistahl-group/436742?b=2&k=16041&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"121933",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/contistahl-group/121933?b=5&k=16041&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"59815",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/contistahl-group/59815?b=3&k=16041&l=search",
+	"arName":"17 ش عادل حسين رستم, الدقى, الجيزة",
+	"lat":"30.043500000000002",
+	"lng":"31.2178",
+	"enName":"17 Adel Hussein Rostom St., Dokki, Giza"
+}
+	]
+}, {	"arName":"تكنو ستيل - احدى مجموعة شركات كونتشتال جروب",
+	"enName":"Techno Steel",
+	"hotline":"16041",
+	"facebook":"",
+	"web":"http://www.technosteel-eg.com/",
+	"arCategory":[
+		"مواسير وانابيب وخطوط انابيب"
+	],
+	"enCategories":[
+		"Pipes, Tubes & Pipelines"
+	],
+	"contacts":[
+		{	"profileId":"262238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-steel/262238?b=1&k=16041&l=search",
+	"arName":"17 ش عادل حسين رستم, الدقى, الجيزة",
+	"lat":"30.043436",
+	"lng":"31.217838",
+	"enName":"17 Adel Hussein Rostom St., Dokki, Giza"
+}
+	]
+}]}

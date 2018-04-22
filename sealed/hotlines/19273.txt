@@ -1,0 +1,49 @@
+{"items":[{	"arName":"تشب",
+	"enName":"Chubb",
+	"hotline":"19273",
+	"facebook":"http://www.facebook.com/ChubbInsurance/?fref=ts",
+	"web":"http://www.chubb.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"59962",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chubb/59962?b=2&k=19273&l=search",
+	"arName":"3 ش ابو الفدا - الدور 5, الزمالك, القاهرة",
+	"lat":"30.063642999999999",
+	"lng":"31.215947",
+	"enName":"3 Abou El Feda St., Floor 5, Zamalek, Cairo"
+},
+		{	"profileId":"180544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chubb/180544?b=1&k=19273&l=search",
+	"arName":"3 ش مكرم عبيد - عمارة سيتى سنتر - الدور 8,9, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.068242999999999",
+	"lng":"31.344439000000001",
+	"enName":"3 Makram Ebaid St., City Center Bldg., Floor 8,9, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"555331",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chubb/555331?b=5&k=19273&l=search",
+	"arName":"ش د. عاطف المنجى متفرع من ش الجمهورية, المنصورة, الدقهلية",
+	"lat":"31.045365",
+	"lng":"31.365452000000001",
+	"enName":"Dr. Atef El Mongy St. Off El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"258167",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chubb/258167?b=3&k=19273&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zamalek, Cairo"
+},
+		{	"profileId":"60570",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chubb/60570?b=4&k=19273&l=search",
+	"arName":"27 ش 10 - الدور 3, المعادى, القاهرة",
+	"lat":"29.959119000000001",
+	"lng":"31.260144",
+	"enName":"27 Rd. 10 , Floor 3, Maadi, Cairo"
+}
+	]
+}]}

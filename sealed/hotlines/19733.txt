@@ -1,0 +1,35 @@
+{"items":[{	"arName":"بلييزا للادوات الصحية",
+	"enName":"Bellezza For Sanitary Ware",
+	"hotline":"19733",
+	"facebook":"http://www.facebook.com/BellezzaEg",
+	"web":"http://www.bellezza.com.eg/",
+	"arCategory":[
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"581811",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bellezza-for-sanitary-ware/581811?b=3&k=19733&l=search",
+	"arName":"خدمة العملاء, دمياط الجديدة, دمياط",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New damietta, Damietta"
+},
+		{	"profileId":"454489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bellezza-for-sanitary-ware/454489?b=1&k=19733&l=search",
+	"arName":"القطعة التاسعة - بلوك ب - - المنطقة الصناعية الاولى, دمياط الجديدة, دمياط",
+	"lat":"31.422190000000001",
+	"lng":"31.679227000000001",
+	"enName":"9th Plot, Block B, , 1St Industrial Zone, New damietta, Damietta"
+},
+		{	"profileId":"581806",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bellezza-for-sanitary-ware/581806?b=2&k=19733&l=search",
+	"arName":"76 ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.055261999999999",
+	"lng":"31.349743",
+	"enName":"76 Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

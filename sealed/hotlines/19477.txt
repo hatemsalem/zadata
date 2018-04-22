@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مركز اسكندرية للعيون",
+	"enName":"Alex Eye Center",
+	"hotline":"19477",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"26096",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-eye-center/26096?b=1&k=19477&l=search",
+	"arName":"64 ش اسماعيل مصطفى سرى, سموحة, الاسكندرية",
+	"lat":"31.210236999999999",
+	"lng":"29.943801000000001",
+	"enName":"64 Ismail Mostafa Serry St., Semouha, Alexandria"
+},
+		{	"profileId":"162243",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-eye-center/162243?b=2&k=19477&l=search",
+	"arName":"خدمة العملاء, سموحة, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Semouha, Alexandria"
+}
+	]
+}]}

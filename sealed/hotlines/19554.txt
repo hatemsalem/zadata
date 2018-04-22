@@ -1,0 +1,55 @@
+{"items":[{	"arName":"مطاعم الدهان",
+	"enName":"El Dahan Restaurants",
+	"hotline":"19554",
+	"facebook":"http://www.facebook.com/El-Dahan-%D8%A7%D9%84%D8%AF%D9%87%D8%A7%D9%86-%D8%A7%D9%84%D8%A3%D8%B5%D9%84-%D8%A8%D8%AA%D8%A7%D8%B9-%D8%B2%D9%85%D8%A7%D9%86-259540044246323",
+	"web":"",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"504765",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurants/504765?b=5&k=19554&l=search",
+	"arName":"المحور المركزى, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"lat":"29.969213",
+	"lng":"30.938936000000002",
+	"enName":"Central Spine, 8th District, 6th of october, Giza"
+},
+		{	"profileId":"504797",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurants/504797?b=2&k=19554&l=search",
+	"arName":"سور دار الحرب الالكترونية - ش عمر بن الخطاب متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.07058",
+	"lng":"31.348243",
+	"enName":"Electronic War House Wall, Omar Ibn El Khattab St. Off El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"504788",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurants/504788?b=1&k=19554&l=search",
+	"arName":"183 ش النزهة, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.109456000000002",
+	"lng":"31.345457",
+	"enName":"183 El Nozha St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"504783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurants/504783?b=3&k=19554&l=search",
+	"arName":"3 ش مكة, الدقى, الجيزة",
+	"lat":"30.048549000000001",
+	"lng":"31.202586",
+	"enName":"3 Mekka St., Dokki, Giza"
+},
+		{	"profileId":"406040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurants/406040?b=4&k=19554&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 8th District, 6th of october, Giza"
+}
+	]
+}]}

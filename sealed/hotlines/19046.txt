@@ -1,0 +1,21 @@
+{"items":[{	"arName":"معمار الاشراف",
+	"enName":"Memaar Al Ashraaf",
+	"hotline":"19046",
+	"facebook":"http://www.facebook.com/memaar.alashraaf",
+	"web":"http://www.memaaralashraaf.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"553189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/memaar-al-ashraaf/553189?b=1&k=19046&l=search",
+	"arName":"فيلا 196 - - النرجس 4, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.006298",
+	"lng":"31.448418",
+	"enName":"Villa 196, , El Narges 4, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سيتى ابو سمبل ليك ريزورت",
+	"enName":"Seti Abu Simbel Lake Resort",
+	"hotline":"19780",
+	"facebook":"http://www.facebook.com/Seti-Abu-Simbel-Hotel-987961224551134",
+	"web":"http://www.setifirst.com/ShowItem.aspx?itemID=3",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"142224",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seti-abu-simbel-lake-resort/142224?b=1&k=19780&l=search",
+	"arName":"قرية ابو سمبل السياحية, ابو سمبل, اسوان",
+	"lat":"22.338331",
+	"lng":"31.614373000000001",
+	"enName":"Abou Simbel Touristic Village, Abou simbel, Aswan"
+},
+		{	"profileId":"509463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seti-abu-simbel-lake-resort/509463?b=2&k=19780&l=search",
+	"arName":"خدمة العملاء, ابو سمبل, اسوان",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou simbel, Aswan"
+}
+	]
+}]}

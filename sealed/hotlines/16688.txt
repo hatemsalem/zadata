@@ -1,0 +1,30 @@
+{"items":[{	"arName":"الالمانية لخدمة السيارات - جاز",
+	"enName":"German Auto Service - GAS",
+	"hotline":"16688",
+	"facebook":"http://www.facebook.com/MercedesBenzEgypt/timeline",
+	"web":"http://www.mercedes-benz.com.eg/",
+	"arCategory":[
+		"سيارات - مراكز اصلاح وخدمات ومعدات",
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Repairing & Servicing Equipment",
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"139696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/german-auto-service-_-gas/139696?b=2&k=16688&l=search",
+	"arName":"خدمة العملاء, جسر السويس, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Gesr el suez, Cairo"
+},
+		{	"profileId":"58519",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/german-auto-service-_-gas/58519?b=1&k=16688&l=search",
+	"arName":"ش جامع الانصار - المنطقة الصناعية الثانية, جسر السويس, القاهرة",
+	"lat":"30.140895",
+	"lng":"31.38862",
+	"enName":"Gamea El Ansar St., 2nd Industrial Zone, Gesr el suez, Cairo"
+}
+	]
+}]}

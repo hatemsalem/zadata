@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الليثى للاستيراد والتصدير",
+	"enName":"El Lithy Co. For Import & Export",
+	"hotline":"19383",
+	"facebook":"http://www.facebook.com/pages/Ellithy-company/162995333763021?ref=hl",
+	"web":"http://www.ellithy-co.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"424848",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-lithy-co.-for-import-&-export/424848?b=2&k=19383&l=search",
+	"arName":"خدمة العملاء, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"424839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-lithy-co.-for-import-&-export/424839?b=1&k=19383&l=search",
+	"arName":"17 ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.080983",
+	"lng":"31.340413000000002",
+	"enName":"17 El Nozha St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

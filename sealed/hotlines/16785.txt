@@ -1,0 +1,35 @@
+{"items":[{	"arName":"ميجا ماركت",
+	"enName":"Mega Market",
+	"hotline":"16785",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"326192",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-market/326192?b=1&k=16785&l=search",
+	"arName":"4 أ ابراج المعادى ستارز - كورنيش النيل - الدور 19, المعادى, القاهرة",
+	"lat":"29.972746000000001",
+	"lng":"31.235348999999999",
+	"enName":"4 A Maadi Stars Towers, Corniche El Nil, Floor 19, Maadi, Cairo"
+},
+		{	"profileId":"326195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-market/326195?b=3&k=16785&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"326189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-market/326189?b=2&k=16785&l=search",
+	"arName":"101 ش عين شمس, عين شمس الشرقية, القاهرة",
+	"lat":"30.132235000000001",
+	"lng":"31.323217",
+	"enName":"101 Ain Shams St., Ain shams el sharkeya, Cairo"
+}
+	]
+}]}

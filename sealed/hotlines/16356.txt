@@ -1,0 +1,21 @@
+{"items":[{	"arName":"صيدليتك",
+	"enName":"Saydaletk",
+	"hotline":"16356",
+	"facebook":"",
+	"web":"http://www.saydaletk.com/",
+	"arCategory":[
+		"تسويق عبر الانترنت"
+	],
+	"enCategories":[
+		"Internet Marketing"
+	],
+	"contacts":[
+		{	"profileId":"439438",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saydaletk/439438?b=1&k=16356&l=search",
+	"arName":"8 د مربع 1186 - ش المشير احمد اسماعيل, مصر الجديدة, القاهرة",
+	"lat":"30.093302999999999",
+	"lng":"31.372527000000002",
+	"enName":"8 D Square 1186, El Moushir Ahmed Ismail St., Heliopolis, Cairo"
+}
+	]
+}]}

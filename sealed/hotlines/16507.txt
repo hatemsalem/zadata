@@ -1,0 +1,21 @@
+{"items":[{	"arName":"باتشى اى لوتشى",
+	"enName":"Pace e Luce",
+	"hotline":"16507",
+	"facebook":"http://www.facebook.com/pages/Pace-e-Luce/268070629998920",
+	"web":"http://www.paceeluce-egypt.com/",
+	"arCategory":[
+		"مراكز تجميل"
+	],
+	"enCategories":[
+		"Beauty Salons"
+	],
+	"contacts":[
+		{	"profileId":"393994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pace-e-luce/393994?b=1&k=16507&l=search",
+	"arName":"40 ش الثورة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.086459999999999",
+	"lng":"31.335661999999999",
+	"enName":"40 El Thawra St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,82 @@
+{"items":[{	"arName":"الجيزة الجديدة للتنمية والتطوير العقارى",
+	"enName":"New Giza For Real Estate & Development",
+	"hotline":"16656",
+	"facebook":"http://www.facebook.com/NEWGIZAegy",
+	"web":"http://www.newgiza.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"129541",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-giza-for-real-estate-&-development/129541?b=4&k=16656&l=search",
+	"arName":"4 ش شجرة الدر, الزمالك, القاهرة",
+	"lat":"30.059525000000001",
+	"lng":"31.217386000000001",
+	"enName":"4 Shagaret El Dor St., Zamalek, Cairo"
+},
+		{	"profileId":"385606",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-giza-for-real-estate-&-development/385606?b=5&k=16656&l=search",
+	"arName":"30 ش قرداحى, كفر عبده, الاسكندرية",
+	"lat":"31.225985999999999",
+	"lng":"29.954357000000002",
+	"enName":"30 Qerdahy St., Kafr abdou, Alexandria"
+},
+		{	"profileId":"187545",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-giza-for-real-estate-&-development/187545?b=2&k=16656&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zamalek, Cairo"
+},
+		{	"profileId":"187550",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-giza-for-real-estate-&-development/187550?b=3&k=16656&l=search",
+	"arName":"3 ش المنصور محمد, الزمالك, القاهرة",
+	"lat":"30.060426",
+	"lng":"31.217355000000001",
+	"enName":"3 El Mansour Mohamed St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"نيو جيزة",
+	"enName":"New Giza",
+	"hotline":"16656",
+	"facebook":"",
+	"web":"http://www.newgiza.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"385609",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-giza/385609?b=1&k=16656&l=search",
+	"arName":"., طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"., Cairo alex desert rd., Giza"
+}
+	]
+}, {	"arName":"قرية سى شيل",
+	"enName":"Seashell Village",
+	"hotline":"16656",
+	"facebook":"http://www.facebook.com/Seashell-North-Coast-436370289870828",
+	"web":"http://www.seashellbeats.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"471422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seashell-village/471422?b=6&k=16656&l=search",
+	"arName":"كم 134 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"lat":"30.996115",
+	"lng":"28.693542000000001",
+	"enName":"Km 134, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+}
+	]
+}]}

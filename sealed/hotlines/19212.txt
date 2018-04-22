@@ -1,0 +1,28 @@
+{"items":[{	"arName":"نيو افنيو",
+	"enName":"New Avenue",
+	"hotline":"19212",
+	"facebook":"http://www.facebook.com/newavenuerealestate",
+	"web":"http://www.newavenue-egypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"521641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-avenue/521641?b=1&k=19212&l=search",
+	"arName":"7 ش نزيه خليفة, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.090637000000001",
+	"lng":"31.327311000000002",
+	"enName":"7 Nazih Khalifa St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"576739",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-avenue/576739?b=2&k=19212&l=search",
+	"arName":"خدمة العملاء, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Korba, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,42 @@
+{"items":[{	"arName":"نوارة مصر",
+	"enName":"Nawara Egypt",
+	"hotline":"16127",
+	"facebook":"http://www.facebook.com/NawaraEgypt",
+	"web":"http://www.nawaraegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"252795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nawara-egypt/252795?b=3&k=16127&l=search",
+	"arName":"الحى الرابع - عمارة 207 - مدخل أ, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.995429000000001",
+	"lng":"31.420961999999999",
+	"enName":"4th District, Bldg. 207 - Entrance A, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"449615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nawara-egypt/449615?b=2&k=16127&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"238713",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nawara-egypt/238713?b=4&k=16127&l=search",
+	"arName":"فيلا 9 - ش التسعين الشطر السابع - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.015608",
+	"lng":"31.420662",
+	"enName":"Villa 9, El Tesaeen St. 7th Sector, 1st District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"161014",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nawara-egypt/161014?b=1&k=16127&l=search",
+	"arName":"الحى الرابع - عمارة 106 - مدخل ب, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.995661999999999",
+	"lng":"31.419487",
+	"enName":"4th District, Bldg. 106, Entrance B, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

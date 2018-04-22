@@ -1,0 +1,21 @@
+{"items":[{	"arName":"وى - المصرية للاتصالات",
+	"enName":"We - Telecom Egypt",
+	"hotline":"19004",
+	"facebook":"http://www.facebook.com/TelecomEgypt",
+	"web":"http://www.telecomegypt.com.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"449460",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/we-_-telecom-egypt/449460?b=1&k=19004&l=search",
+	"arName":"55 ب ش الزهراء الرئيسى, زهراء المعادى, المعادى, القاهرة",
+	"lat":"29.962506600000001",
+	"lng":"31.3167106",
+	"enName":"55 B El Zahraa Main St., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}]}

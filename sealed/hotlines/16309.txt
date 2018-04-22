@@ -1,0 +1,63 @@
+{"items":[{	"arName":"حزب العدل",
+	"enName":"El Adl Party",
+	"hotline":"16309",
+	"facebook":"http://www.facebook.com/eladlparty",
+	"web":"",
+	"arCategory":[
+		""
+	],
+	"enCategories":[
+		""
+	],
+	"contacts":[
+		{	"profileId":"295229",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-adl-party/295229?b=2&k=16309&l=search",
+	"arName":"52 فيلا احمد عبد المنعم - كورنيش النيل, بنى سويف, بنى سويف",
+	"lat":"",
+	"lng":"",
+	"enName":"52 Ahmed Abdel Moneim Villa, corniche El Nil, Benisuef, Benisuef"
+},
+		{	"profileId":"295227",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-adl-party/295227?b=5&k=16309&l=search",
+	"arName":"ش النصر - الدور 2, الدهار, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Nasr St., Floor 2, Dahar, Hurghada"
+},
+		{	"profileId":"295225",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-adl-party/295225?b=7&k=16309&l=search",
+	"arName":"برج سحيلة - ش الجمهورية - ش الجميل سابقا - الدور 5, وسط البلد, قنا",
+	"lat":"",
+	"lng":"",
+	"enName":"Sehaila Tower, El Gomhoureya St., El Gamil St. Previously, Floor 5, Downtown, Qena"
+},
+		{	"profileId":"295222",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-adl-party/295222?b=4&k=16309&l=search",
+	"arName":"1 ش عبد السلام الشاذلى - الدور 1, دمنهور, البحيرة",
+	"lat":"31.039731",
+	"lng":"30.4574167",
+	"enName":"1 Abdel Salam El Shazly St., Floor 1, Damanhour, El beheira"
+},
+		{	"profileId":"295223",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-adl-party/295223?b=3&k=16309&l=search",
+	"arName":"18 ش عمرو بن العاص - الدور 2, الزقازيق, الشرقية",
+	"lat":"30.587503999999999",
+	"lng":"31.504505000000002",
+	"enName":"18 Amr Ibn El Aas St., Floor 2, El zagazig, El sharkeya"
+},
+		{	"profileId":"295220",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-adl-party/295220?b=1&k=16309&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Garden city, Cairo"
+},
+		{	"profileId":"295221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-adl-party/295221?b=6&k=16309&l=search",
+	"arName":"330 عمارة رقم 1 - عمارات الشروق - ش فيصل حسن محمد - الدور 5 شقة 2, فيصل, الجيزة",
+	"lat":"30.003813000000001",
+	"lng":"31.173327",
+	"enName":"330 Bldg. No. 1, El Shorouq Bldgs., Faisal St. Hassan Mohamed, Floor 5 Flat 2, Faisal, Giza"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"مجموعة املاك الاستثمارية للمقاولات والتوريدات العامة",
+	"enName":"Amlaak Investment Group For General Contracting & Supplies",
+	"hotline":"16376",
+	"facebook":"",
+	"web":"http://www.amlaakgroup.co/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"472987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amlaak-investment-group-for-general-contracting-&-supplies/472987?b=1&k=16376&l=search",
+	"arName":"فيلا 304 - ش التسعين - الحى الثانى - المنطقة الاولى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.014900999999998",
+	"lng":"31.445150999999999",
+	"enName":"Villa 304, El Tesaeen St., 2nd District, 1st Area, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

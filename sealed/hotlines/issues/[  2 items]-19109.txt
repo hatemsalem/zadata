@@ -1,0 +1,69 @@
+{"items":[{	"arName":"صيدلية د. ياسر حفنى",
+	"enName":"Dr. Yasser Hefny Pharmacy",
+	"hotline":"19109",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"143058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-yasser-hefny-pharmacy/143058?b=4&k=19109&l=search",
+	"arName":"38 ش قصر العينى, قصر العينى, القاهرة",
+	"lat":"30.031700000000001",
+	"lng":"31.232800000000001",
+	"enName":"38 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"287026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-yasser-hefny-pharmacy/287026?b=3&k=19109&l=search",
+	"arName":"11 ش عبد الحكيم الرفاعى متفرع من ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.052813",
+	"lng":"31.340423000000001",
+	"enName":"11 Abdel Hakim El Refaey St. Off Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"53698",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-yasser-hefny-pharmacy/53698?b=2&k=19109&l=search",
+	"arName":"11 ش سمير عبد الرؤوف امتداد ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.052994000000002",
+	"lng":"31.346094999999998",
+	"enName":"11 Samir Abdel Raouf St. Extension Of Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"143060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-yasser-hefny-pharmacy/143060?b=5&k=19109&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+},
+		{	"profileId":"224747",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-yasser-hefny-pharmacy/224747?b=1&k=19109&l=search",
+	"arName":"9 ش 302 متفرع من ش 306, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.981235000000002",
+	"lng":"31.283992000000001",
+	"enName":"9 Rd. 302 Off Rd. 306, New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"صيدلية جهينة",
+	"enName":"Juhaina Pharmacy",
+	"hotline":"19109",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"156239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhaina-pharmacy/156239?b=6&k=19109&l=search",
+	"arName":"12 ش بطرس غالى متفرع من ش ابراهيم اللقانى, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.093015999999999",
+	"lng":"31.320325",
+	"enName":"12 Botros Ghaly St. Off Ibrahim El Laqqany St., Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

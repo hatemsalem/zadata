@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ايجيبت ان اوت",
+	"enName":"Egypt In Out",
+	"hotline":"19237",
+	"facebook":"http://www.facebook.com/Egyptinout",
+	"web":"http://www.egyptinout.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"478571",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-in-out/478571?b=1&k=19237&l=search",
+	"arName":"خدمة العملاء, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"421252",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-in-out/421252?b=2&k=19237&l=search",
+	"arName":"102 ب ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.085227",
+	"lng":"31.331315",
+	"enName":"102 B El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+}
+	]
+}]}

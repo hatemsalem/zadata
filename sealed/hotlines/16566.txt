@@ -1,0 +1,34 @@
+{"items":[{	"arName":"ميلت بايتس ديلى",
+	"enName":"Melt Bites Deli",
+	"hotline":"16566",
+	"facebook":"http://www.facebook.com/MeltBitesDeli",
+	"web":"http://www.meltbites.com/",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"488776",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/melt-bites-deli/488776?b=1&k=16566&l=search",
+	"arName":"بفرلى هيلز, السادس من اكتوبر, الجيزة",
+	"lat":"30.073081999999999",
+	"lng":"30.946187999999999",
+	"enName":"Beverly Hills, 6th of october, Giza"
+},
+		{	"profileId":"488779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/melt-bites-deli/488779?b=2&k=16566&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 6th of october, Giza"
+}
+	]
+}]}

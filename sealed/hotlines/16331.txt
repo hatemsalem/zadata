@@ -1,0 +1,35 @@
+{"items":[{	"arName":"شعاع سيكيورتيز ايجبت",
+	"enName":"Shuaa Securities Egypt",
+	"hotline":"16331",
+	"facebook":"http://www.facebook.com/shuaasecurities",
+	"web":"http://www.shuaasecurities.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"582528",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shuaa-securities-egypt/582528?b=2&k=16331&l=search",
+	"arName":"143 - منطقة البنوك - مبنى بنك ابو ظبى الوطنى - الدور 6, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"143 , El Bonouk Zone, National Bank Of Abu Dhabi Bldg., Floor 6, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"582544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shuaa-securities-egypt/582544?b=1&k=16331&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"582533",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shuaa-securities-egypt/582533?b=3&k=16331&l=search",
+	"arName":"4 ش سوريا - الدور 4, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"4 Syria St., Floor 4, Mohandeseen, Giza"
+}
+	]
+}]}

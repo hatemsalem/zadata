@@ -1,0 +1,34 @@
+{"items":[{	"arName":"تشيك شاك",
+	"enName":"Chick Shake",
+	"hotline":"19253",
+	"facebook":"http://www.facebook.com/chickshackeg/timeline",
+	"web":"",
+	"arCategory":[
+		"مطاعم امريكية",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"American Cuisine",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"507823",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chick-shake/507823?b=2&k=19253&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Zamalek, Cairo"
+},
+		{	"profileId":"507818",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chick-shake/507818?b=1&k=19253&l=search",
+	"arName":"ش 26 يوليو, الزمالك, القاهرة",
+	"lat":"30.061540000000001",
+	"lng":"31.218767",
+	"enName":"26th Of July St., Zamalek, Cairo"
+}
+	]
+}]}

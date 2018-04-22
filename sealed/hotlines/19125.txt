@@ -1,0 +1,28 @@
+{"items":[{	"arName":"فالخدمة",
+	"enName":"Filkhedma",
+	"hotline":"19125",
+	"facebook":"http://www.facebook.com/FilKhedma",
+	"web":"http://www.filkhedma.com/",
+	"arCategory":[
+		"توريد عمالة وخدمات"
+	],
+	"enCategories":[
+		"Labour Supply & Services"
+	],
+	"contacts":[
+		{	"profileId":"578065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/filkhedma/578065?b=2&k=19125&l=search",
+	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"578005",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/filkhedma/578005?b=1&k=19125&l=search",
+	"arName":"97 ش عمر بن الخطاب متفرع من ميدان السبع عمارات, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.088346999999999",
+	"lng":"31.344483",
+	"enName":"97 Omar Ibn El Khattab St. Off Sabaa Emarat Sq., Almaza, Heliopolis, Cairo"
+}
+	]
+}]}

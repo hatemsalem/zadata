@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ماك للاستثمار العقارى",
+	"enName":"Mak For Real Estate Investment",
+	"hotline":"16867",
+	"facebook":"http://www.facebook.com/Mak.real.estate/",
+	"web":"http://www.mak-eg.net/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"474935",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mak-for-real-estate-investment/474935?b=1&k=16867&l=search",
+	"arName":"خدمة العملاء, لوران, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Loran, Alexandria"
+}
+	]
+}]}

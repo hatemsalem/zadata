@@ -1,0 +1,48 @@
+{"items":[{	"arName":"ترافيستا",
+	"enName":"Travista",
+	"hotline":"19294",
+	"facebook":"",
+	"web":"http://www.travistaegypt.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"581050",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/travista/581050?b=3&k=19294&l=search",
+	"arName":"خدمة العملاء, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"434240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/travista/434240?b=2&k=19294&l=search",
+	"arName":"47 أ برج رامو - ش احمد تيسير, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.078880999999999",
+	"lng":"31.326308999999998",
+	"enName":"47 A Ramo Tower, Ahmed Tayseer St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"وحدة المرصد المركزى لمراقبة المنتجات الصناعية",
+	"enName":"Observatory Central Unit For Industrial Products Control",
+	"hotline":"19294",
+	"facebook":"",
+	"web":"http://www.ica.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"257256",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/observatory-central-unit-for-industrial-products-control/257256?b=1&k=19294&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

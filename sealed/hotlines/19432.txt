@@ -1,0 +1,35 @@
+{"items":[{	"arName":"اى اتش اف سى - الشركة المصرية للتمويل العقارى",
+	"enName":"EHFC - Egyptian Housing Finance Co.",
+	"hotline":"19432",
+	"facebook":"",
+	"web":"http://www.ehfc.com.eg/",
+	"arCategory":[
+		"تأجير تمويلى"
+	],
+	"enCategories":[
+		"Leasing & Financing"
+	],
+	"contacts":[
+		{	"profileId":"100058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ehfc-_-egyptian-housing-finance-co./100058?b=1&k=19432&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.025963999999998",
+	"lng":"31.461371",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"267783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ehfc-_-egyptian-housing-finance-co./267783?b=3&k=19432&l=search",
+	"arName":"26 ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.052451000000001",
+	"lng":"31.207098999999999",
+	"enName":"26 El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"126353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ehfc-_-egyptian-housing-finance-co./126353?b=2&k=19432&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

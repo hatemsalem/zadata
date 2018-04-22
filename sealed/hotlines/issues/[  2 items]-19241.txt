@@ -1,0 +1,55 @@
+{"items":[{	"arName":"جو جرين ايجيبت لادارة المشروعات",
+	"enName":"Go Green Egypt For Projects Management",
+	"hotline":"19241",
+	"facebook":"http://www.facebook.com/go.green.egypt",
+	"web":"http://www.gogreen.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"257037",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-green-egypt-for-projects-management/257037?b=2&k=19241&l=search",
+	"arName":"18 ش مصدق - الدور 3 شقة 30, الدقى, الجيزة",
+	"lat":"30.040126000000001",
+	"lng":"31.209012000000001",
+	"enName":"18 mossadak st., Floor 3 Flat 30, Dokki, Giza"
+},
+		{	"profileId":"257059",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-green-egypt-for-projects-management/257059?b=3&k=19241&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"449311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-green-egypt-for-projects-management/449311?b=1&k=19241&l=search",
+	"arName":"31 ش عمر بكير متفرع من ميدان عثمان بن عفان, مصر الجديدة, القاهرة",
+	"lat":"30.103988000000001",
+	"lng":"31.348604000000002",
+	"enName":"31 Omar Bekir St. Off Othman Ibn Affan Sq., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"لو جاردان",
+	"enName":"Le Jardin",
+	"hotline":"19241",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"365534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/le-jardin/365534?b=4&k=19241&l=search",
+	"arName":"كم 24 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.036387000000001",
+	"lng":"31.063972",
+	"enName":"Km 24,, Cairo alex desert rd., Giza"
+}
+	]
+}]}

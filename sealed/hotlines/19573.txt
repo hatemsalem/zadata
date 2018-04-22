@@ -1,0 +1,21 @@
+{"items":[{	"arName":"صيدلية د. فادى عبد الملك",
+	"enName":"Dr. Fady Abd El Malek Pharmacy",
+	"hotline":"19573",
+	"facebook":"http://www.facebook.com/abdelmalekpharmacy",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"444382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-fady-abd-el-malek-pharmacy/444382?b=1&k=19573&l=search",
+	"arName":"247 ش الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.117028000000001",
+	"lng":"31.355083",
+	"enName":"247 El Hegaz St., Heliopolis, Cairo"
+}
+	]
+}]}

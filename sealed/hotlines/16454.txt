@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الحقونا",
+	"enName":"El7a2ouna",
+	"hotline":"16454",
+	"facebook":"http://www.facebook.com/el7a2ouna",
+	"web":"http://www.el7a2ouna.com/",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"552614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el7a2ouna/552614?b=1&k=16454&l=search",
+	"arName":"101 عمارات البنفسج - ش التسعين الشمالى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.034938",
+	"lng":"31.460145000000001",
+	"enName":"101 El Banafseg Bldgs., El Tesaeen El Shamaly St., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"552619",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el7a2ouna/552619?b=2&k=16454&l=search",
+	"arName":"خدمة العملاء, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Compound, New cairo, Cairo"
+}
+	]
+}]}

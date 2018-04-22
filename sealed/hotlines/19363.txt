@@ -1,0 +1,28 @@
+{"items":[{	"arName":"البستانى للاستثمار العقارى",
+	"enName":"El Bostany For Real Estate",
+	"hotline":"19363",
+	"facebook":"http://www.facebook.com/Albostany",
+	"web":"http://www.albostany.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"475073",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bostany-for-real-estate/475073?b=1&k=19363&l=search",
+	"arName":"فيلا 163 - ش شمال الشويفات, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.00864",
+	"lng":"31.409526",
+	"enName":"Vila 163, Shamal El Showaifat St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"537377",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bostany-for-real-estate/537377?b=2&k=19363&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,49 @@
+{"items":[{	"arName":"اتش بى ايه - هايلى بروفيشنال ادفيزرس",
+	"enName":"HPA - Highly Professional Advisors",
+	"hotline":"19472",
+	"facebook":"http://www.facebook.com/hpa.eg",
+	"web":"http://www.hpaconsultant.com/",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"370266",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hpa-_-highly-professional-advisors/370266?b=3&k=19472&l=search",
+	"arName":"2 ش محيى الدين ابو العز متفرع من ش التحرير, الدقى, الجيزة",
+	"lat":"30.035406999999999",
+	"lng":"31.201740000000001",
+	"enName":"2 Mohy El Din Abou El Ezz St. Off El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"142661",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hpa-_-highly-professional-advisors/142661?b=4&k=19472&l=search",
+	"arName":"11 ش لقمان الحكيم متفرع من ش عمر بن عبد العزيز, طنطا, الغربية",
+	"lat":"30.8024731",
+	"lng":"30.998719099999999",
+	"enName":"11 Loqman El Hakim St. Off Omar Ibn Abdel Aziz St., Tanta, El gharbeya"
+},
+		{	"profileId":"133565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hpa-_-highly-professional-advisors/133565?b=1&k=19472&l=search",
+	"arName":"8 ش محمد انيس متفرع من ش احمد تيسير, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.083200000000001",
+	"lng":"31.327300000000001",
+	"enName":"8 Mohamed Anis St. Off Ahmed Tayseer St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"370279",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hpa-_-highly-professional-advisors/370279?b=2&k=19472&l=search",
+	"arName":"خدمة العملاء, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"454985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hpa-_-highly-professional-advisors/454985?b=5&k=19472&l=search",
+	"arName":"ميدان فودافون, الحى الخامس, السادس من اكتوبر, الجيزة",
+	"lat":"29.952866199999999",
+	"lng":"30.913537099999999",
+	"enName":"Vodafone Sq., 5th District, 6th of october, Giza"
+}
+	]
+}]}

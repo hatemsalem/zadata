@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الخليج الناصرى",
+	"enName":"El Khalig El Nasery",
+	"hotline":"16575",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"54886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-khalig-el-nasery/54886?b=1&k=16575&l=search",
+	"arName":"25 ش موسى الكاظم, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"30.046500000000002",
+	"lng":"31.332799999999999",
+	"enName":"25 Mousa El Kazem St., 7th District, Nasr city, Cairo"
+}
+	]
+}]}

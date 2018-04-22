@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ان جى اس ايجيبت",
+	"enName":"NGS Egypt",
+	"hotline":"16497",
+	"facebook":"http://www.facebook.com/NGSEgypt/",
+	"web":"http://www.ngs-egypt.com/",
+	"arCategory":[
+		"فاكهة وخضروات محلات"
+	],
+	"enCategories":[
+		"Fruits & Vegetables Shops"
+	],
+	"contacts":[
+		{	"profileId":"493565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ngs-egypt/493565?b=1&k=16497&l=search",
+	"arName":"خدمة العملاء, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis Square, Heliopolis, Cairo"
+},
+		{	"profileId":"493564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ngs-egypt/493564?b=2&k=16497&l=search",
+	"arName":"11 ش اسحاق يعقوب متفرع من ش النزهة, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"lat":"30.085587",
+	"lng":"31.342658",
+	"enName":"11 Ishaq Yaaqub St. Off El Nozha St., Heliopolis Square, Heliopolis, Cairo"
+}
+	]
+}]}

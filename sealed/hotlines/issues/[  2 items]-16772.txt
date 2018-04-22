@@ -1,0 +1,69 @@
+{"items":[{	"arName":"مرابحات للحلول العقارية",
+	"enName":"Murabahat Real Estate Solutions",
+	"hotline":"16772",
+	"facebook":"http://www.facebook.com/murabahatgroup",
+	"web":"http://www.mresco.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"161207",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/murabahat-real-estate-solutions/161207?b=3&k=16772&l=search",
+	"arName":"9 ش ابراهيم شريف - ابراج كيروسيز - برج 3 - مدخل 5, مصطفى كامل, الاسكندرية",
+	"lat":"31.223101",
+	"lng":"29.948366",
+	"enName":"9 Ibrahim Sherif St., Cairoseiz Towers, Tower 3, Entrance 5, Mostafa kamel, Alexandria"
+},
+		{	"profileId":"517259",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/murabahat-real-estate-solutions/517259?b=1&k=16772&l=search",
+	"arName":"10 ش 23, العرب, المعادى, القاهرة",
+	"lat":"29.965754",
+	"lng":"31.268554000000002",
+	"enName":"10 Rd. 23, El Arab, Maadi, Cairo"
+},
+		{	"profileId":"518283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/murabahat-real-estate-solutions/518283?b=2&k=16772&l=search",
+	"arName":"5 ش حسنى مبارك - المشاية السفلية - برج شجرة الدر - الدور 1 شقة 1, المنصورة, الدقهلية",
+	"lat":"31.045449999999999",
+	"lng":"31.367134",
+	"enName":"5 Hosny Mubarak St., El Mashaya El Soflya, Shagaret El Dor Tower, Floor 1 Flat 1, El mansoura, El dakahleya"
+},
+		{	"profileId":"255969",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/murabahat-real-estate-solutions/255969?b=4&k=16772&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"فيجن للتسويق العقارى والمبيعات",
+	"enName":"Vision For Real Estate Marketing & Sales",
+	"hotline":"16772",
+	"facebook":"http://www.facebook.com/visionrescom",
+	"web":"http://www.vision-res.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"413436",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vision-for-real-estate-marketing-&-sales/413436?b=6&k=16772&l=search",
+	"arName":"27 ش عبد الحميد لطفى - الدور 2 شقة 7, المهندسين, الجيزة",
+	"lat":"30.049800000000001",
+	"lng":"31.202000000000002",
+	"enName":"27 Abdel Hamid Lotfy St., Floor 2 Flat 7, Mohandeseen, Giza"
+},
+		{	"profileId":"498520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vision-for-real-estate-marketing-&-sales/498520?b=5&k=16772&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

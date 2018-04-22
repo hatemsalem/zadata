@@ -1,0 +1,28 @@
+{"items":[{	"arName":"فارما كول للخدمات الطبية",
+	"enName":"Pharma Call For Medical Services",
+	"hotline":"16961",
+	"facebook":"http://www.facebook.com/PharmaCallEgypt",
+	"web":"http://www.pharmacalleg.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"468389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharma-call-for-medical-services/468389?b=2&k=16961&l=search",
+	"arName":"خدمة العملاء, حى الشرق, بور سعيد",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El shark district, Port said"
+},
+		{	"profileId":"468388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharma-call-for-medical-services/468388?b=1&k=16961&l=search",
+	"arName":"ش العجرودى متفرع من ش صلاح سالم, حى الشرق, بور سعيد",
+	"lat":"31.265832",
+	"lng":"32.306637000000002",
+	"enName":"El Agrody St. Off Salah Salem St., El shark district, Port said"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المستشفى الجوى التخصصى",
+	"enName":"Air Specialized Hospital",
+	"hotline":"19448",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"441075",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-specialized-hospital/441075?b=2&k=19448&l=search",
+	"arName":"ش التسعين - مجمع البنوك, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.017613999999998",
+	"lng":"31.434604",
+	"enName":"El Tesaeen St., Banks Complex, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"456704",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-specialized-hospital/456704?b=1&k=19448&l=search",
+	"arName":"خدمة طوارئ, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,35 @@
+{"items":[{	"arName":"شاى العروسة - الفتح للصناعات الغذائية",
+	"enName":"El Arosa Tea - El Fath For Food Stuff",
+	"hotline":"19504",
+	"facebook":"http://www.facebook.com/El-Arosa-Tea-328535347226222",
+	"web":"",
+	"arCategory":[
+		"شاى وبن"
+	],
+	"enCategories":[
+		"Tea & Coffee"
+	],
+	"contacts":[
+		{	"profileId":"431459",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-arosa-tea-_-el-fath-for-food-stuff/431459?b=1&k=19504&l=search",
+	"arName":"مربع 1157 - - عمارة 3 شقة 1, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.098402",
+	"lng":"31.375226000000001",
+	"enName":"Square 1157, , Bldg. 3 Flat 1, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"187104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-arosa-tea-_-el-fath-for-food-stuff/187104?b=3&k=19504&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"4305",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-arosa-tea-_-el-fath-for-food-stuff/4305?b=2&k=19504&l=search",
+	"arName":"القطعة 7. 8 - بلوك 13018 - ش ابو غالى - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"lat":"30.176666999999998",
+	"lng":"31.460827999999999",
+	"enName":"Plot 7, 8 - Block 13018, Abou Ghaly St., 1st Industrial Zone, Obour city, Kaliobeya"
+}
+	]
+}]}

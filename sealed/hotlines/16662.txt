@@ -1,0 +1,56 @@
+{"items":[{	"arName":"صيدليات د. نبيل الطرشوبى",
+	"enName":"Dr. Nabil El Tarshouby Pharmacies",
+	"hotline":"16662",
+	"facebook":"http://www.facebook.com/DrnabilEltarshoubyPharmacyGroup",
+	"web":"http://www.eltarshouby-eg.com/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"266677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-nabil-el-tarshouby-pharmacies/266677?b=4&k=16662&l=search",
+	"arName":"ش صلاح سالم, طلخا, الدقهلية",
+	"lat":"31.050630999999999",
+	"lng":"31.379957000000001",
+	"enName":"Salah Salem St., Talkha, El dakahleya"
+},
+		{	"profileId":"309245",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-nabil-el-tarshouby-pharmacies/309245?b=3&k=16662&l=search",
+	"arName":"ش شكرى القواتلى, المحلة الكبرى, الغربية",
+	"lat":"30.979081000000001",
+	"lng":"31.171748000000001",
+	"enName":"Shokry El Qawatly St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"454958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-nabil-el-tarshouby-pharmacies/454958?b=6&k=16662&l=search",
+	"arName":"ش البحر, المحلة الكبرى, الغربية",
+	"lat":"30.968869999999999",
+	"lng":"31.166609000000001",
+	"enName":"El Bahr St., El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"366544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-nabil-el-tarshouby-pharmacies/366544?b=1&k=16662&l=search",
+	"arName":"ش البحر - عمارات الاوقاف - عمارة ب, المحلة الكبرى, الغربية",
+	"lat":"30.975207099999999",
+	"lng":"31.1721383",
+	"enName":"El Bahr St., El Awqaf Bldgs., Bldg. B, El mahalla el kobra, El gharbeya"
+},
+		{	"profileId":"454964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-nabil-el-tarshouby-pharmacies/454964?b=2&k=16662&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, طلخا, الدقهلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Talkha, El dakahleya"
+},
+		{	"profileId":"454961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-nabil-el-tarshouby-pharmacies/454961?b=5&k=16662&l=search",
+	"arName":"ش صلاح سالم - الدور 4, طلخا, الدقهلية",
+	"lat":"31.050677",
+	"lng":"31.380155999999999",
+	"enName":"Salah Salem St., Floor 4, Talkha, El dakahleya"
+}
+	]
+}]}

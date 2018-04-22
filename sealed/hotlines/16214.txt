@@ -1,0 +1,28 @@
+{"items":[{	"arName":"هاجر ترافيل",
+	"enName":"Hajjar Travel",
+	"hotline":"16214",
+	"facebook":"http://www.facebook.com/Hajjartrvl",
+	"web":"",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"458150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hajjar-travel/458150?b=1&k=16214&l=search",
+	"arName":"7 ش ابو الهول, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.090634999999999",
+	"lng":"31.324382",
+	"enName":"7 Abou El Houl St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"458162",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hajjar-travel/458162?b=2&k=16214&l=search",
+	"arName":"خدمة العملاء, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Korba, Heliopolis, Cairo"
+}
+	]
+}]}

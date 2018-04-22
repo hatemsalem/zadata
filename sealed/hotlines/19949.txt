@@ -1,0 +1,56 @@
+{"items":[{	"arName":"الشركة المتحدة لتجارة السيارات - القصراوى",
+	"enName":"United Automotive Co. - El Qasrawy",
+	"hotline":"19949",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"114309",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-automotive-co.-_-el-qasrawy/114309?b=4&k=19949&l=search",
+	"arName":"12 ش الامين تقاطع ش حسان بن ثابت, طنطا, الغربية",
+	"lat":"30.799198799999999",
+	"lng":"30.9991345",
+	"enName":"12 El Amin St. Intersection Of Hassan Ibn Thabet St., Tanta, El gharbeya"
+},
+		{	"profileId":"448681",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-automotive-co.-_-el-qasrawy/448681?b=5&k=19949&l=search",
+	"arName":"طريق الاستاد, طنطا, الغربية",
+	"lat":"30.806238100000002",
+	"lng":"30.995484000000001",
+	"enName":"El Estad Rd., Tanta, El gharbeya"
+},
+		{	"profileId":"139999",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-automotive-co.-_-el-qasrawy/139999?b=6&k=19949&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"79072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-automotive-co.-_-el-qasrawy/79072?b=1&k=19949&l=search",
+	"arName":"12 ابراج عثمان -, المعادى, القاهرة",
+	"lat":"29.964428000000002",
+	"lng":"31.247377",
+	"enName":"12 Othman Towers,, Maadi, Cairo"
+},
+		{	"profileId":"43903",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-automotive-co.-_-el-qasrawy/43903?b=2&k=19949&l=search",
+	"arName":"88 سور نادى الترسانة -, المهندسين, الجيزة",
+	"lat":"30.063527000000001",
+	"lng":"31.202933000000002",
+	"enName":"88 Tersana Club Wall,, Mohandeseen, Giza"
+},
+		{	"profileId":"79073",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-automotive-co.-_-el-qasrawy/79073?b=3&k=19949&l=search",
+	"arName":"29 ش بورسعيد, حى السويس, السويس",
+	"lat":"29.962668000000001",
+	"lng":"32.560794000000001",
+	"enName":"29 Port Said St., Suez district, Suez"
+}
+	]
+}]}

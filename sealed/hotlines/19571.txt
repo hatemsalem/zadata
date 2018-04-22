@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الفتح جروب للتنمية العقارية",
+	"enName":"Alfth Group For Real Estate Development",
+	"hotline":"19571",
+	"facebook":"http://www.facebook.com/Alfth.19571",
+	"web":"http://www.alfthgroup.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"430886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfth-group-for-real-estate-development/430886?b=2&k=19571&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"430887",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfth-group-for-real-estate-development/430887?b=1&k=19571&l=search",
+	"arName":"37 ش مكرم عبيد - الدور 9, مدينة نصر, القاهرة",
+	"lat":"30.058911999999999",
+	"lng":"31.345943999999999",
+	"enName":"37 Makram Ebaid St., Floor 9, Nasr city, Cairo"
+},
+		{	"profileId":"430891",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfth-group-for-real-estate-development/430891?b=3&k=19571&l=search",
+	"arName":"ش التسعين - مبنى B303, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.028603",
+	"lng":"31.465316000000001",
+	"enName":"El Tesaeen St., Bldg. B303, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

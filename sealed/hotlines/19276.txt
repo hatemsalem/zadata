@@ -1,0 +1,49 @@
+{"items":[{	"arName":"صيدليات مؤنس",
+	"enName":"Mo'nes Pharmacies",
+	"hotline":"19276",
+	"facebook":"http://www.facebook.com/Mones.Pharmacy",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"580636",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mo'nes-pharmacies/580636?b=2&k=19276&l=search",
+	"arName":"61 ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.054492",
+	"lng":"31.346986999999999",
+	"enName":"61 Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"580638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mo'nes-pharmacies/580638?b=4&k=19276&l=search",
+	"arName":"منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.006160999999999",
+	"lng":"31.425509000000002",
+	"enName":"1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"580640",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mo'nes-pharmacies/580640?b=5&k=19276&l=search",
+	"arName":"2081 عمارات زهراء مدينة نصر - , زهراء مدينة نصر, مدينة نصر, القاهرة",
+	"lat":"30.042892999999999",
+	"lng":"31.396587",
+	"enName":"2081 Zahraa Nasr City Bldgs., , Zahraa Nasr City, Nasr city, Cairo"
+},
+		{	"profileId":"580630",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mo'nes-pharmacies/580630?b=3&k=19276&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى التاسع, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 9th District, Nasr city, Cairo"
+},
+		{	"profileId":"580629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mo'nes-pharmacies/580629?b=1&k=19276&l=search",
+	"arName":"2 ج ش احمد حسن متفرع من ش مصطفى النحاس, الحى التاسع, مدينة نصر, القاهرة",
+	"lat":"30.061018000000001",
+	"lng":"31.359209",
+	"enName":"2 C Ahmed Hassan St. Off Mostafa El Nahhas St., 9th District, Nasr city, Cairo"
+}
+	]
+}]}

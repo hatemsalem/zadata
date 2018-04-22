@@ -1,0 +1,21 @@
+{"items":[{	"arName":"صيدلية وتجميل قاسم",
+	"enName":"Pharmacy & Beauty Kassem",
+	"hotline":"16832",
+	"facebook":"http://www.facebook.com/kassempharmacyandbeauty",
+	"web":"",
+	"arCategory":[
+		"مستحضرات تجميل"
+	],
+	"enCategories":[
+		"Cosmetics & Toiletries"
+	],
+	"contacts":[
+		{	"profileId":"484078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharmacy-&-beauty-kassem/484078?b=1&k=16832&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.002804999999999",
+	"lng":"31.424143999999998",
+	"enName":"., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

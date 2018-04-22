@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الصفوة العقارية",
+	"enName":"El Safwa For Real Estate",
+	"hotline":"16737",
+	"facebook":"http://www.facebook.com/safwarealestate",
+	"web":"http://www.safwarealestate.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"503559",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-safwa-for-real-estate/503559?b=2&k=16737&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"231721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-safwa-for-real-estate/231721?b=1&k=16737&l=search",
+	"arName":"فيلا 220 - - منطقة أ - جنوب الاكاديمية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.021885999999999",
+	"lng":"31.420743000000002",
+	"enName":"Villa 220, , Zone A, South Of Academy, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

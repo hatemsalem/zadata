@@ -1,0 +1,21 @@
+{"items":[{	"arName":"سمارت فيرنيتشر",
+	"enName":"Smart Furniture",
+	"hotline":"19641",
+	"facebook":"http://www.facebook.com/smartfurnitureonline",
+	"web":"http://www.smartfurniture.com.eg/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"368440",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-furniture/368440?b=1&k=19641&l=search",
+	"arName":"القطعة 41 - - المنطقة الصناعية B3, العاشر من رمضان, الشرقية",
+	"lat":"30.298931",
+	"lng":"31.704236000000002",
+	"enName":"Plot No. 41, , Industrial Zone B3, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

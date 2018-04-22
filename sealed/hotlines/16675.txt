@@ -1,0 +1,35 @@
+{"items":[{	"arName":"سيجما كابيتال القابضة",
+	"enName":"Sigma Capital Holding",
+	"hotline":"16675",
+	"facebook":"http://www.facebook.com/SigmaCapital",
+	"web":"http://www.sigma-capital.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"256799",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sigma-capital-holding/256799?b=1&k=16675&l=search",
+	"arName":"55 برج زلط - ميدان القومية, الزقازيق, الشرقية",
+	"lat":"30.590453",
+	"lng":"31.495087999999999",
+	"enName":"55 Zalat Tower, El Qawmeya Sq., El zagazig, El sharkeya"
+},
+		{	"profileId":"255821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sigma-capital-holding/255821?b=2&k=16675&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"463183",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sigma-capital-holding/463183?b=3&k=16675&l=search",
+	"arName":"7 ش البرت الاول - الدور 1, سموحة, الاسكندرية",
+	"lat":"31.213740000000001",
+	"lng":"29.939465999999999",
+	"enName":"7 Albert El Awal St., Floor 1, Semouha, Alexandria"
+}
+	]
+}]}

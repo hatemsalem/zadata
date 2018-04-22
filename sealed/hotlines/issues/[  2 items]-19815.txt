@@ -1,0 +1,48 @@
+{"items":[{	"arName":"الجمان للانشاء والاستثمار العقارى",
+	"enName":"Al Joman For Construction & Real Estate Investment",
+	"hotline":"19815",
+	"facebook":"http://www.facebook.com/aljoman.realestate",
+	"web":"http://www.aljomanegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"468718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-joman-for-construction-&-real-estate-investment/468718?b=1&k=19815&l=search",
+	"arName":"43 ش مصطفى النحاس - الدور 2, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.054210999999999",
+	"lng":"31.344186000000001",
+	"enName":"43 Mostafa El Nahhas St., Floor 2, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"521499",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-joman-for-construction-&-real-estate-investment/521499?b=2&k=19815&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"سدره كمبوند",
+	"enName":"Sedrah Compound",
+	"hotline":"19815",
+	"facebook":"http://www.facebook.com/aljoman.realestate",
+	"web":"http://www.aljomanegypt.com/index.pl/about_sedra",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"521488",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedrah-compound/521488?b=3&k=19815&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.906846000000002",
+	"lng":"31.081159",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}]}

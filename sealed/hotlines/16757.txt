@@ -1,0 +1,63 @@
+{"items":[{	"arName":"الجوهرة للسيراميك والبورسلين",
+	"enName":"Gemma For Ceramic & Porcelain Tiles",
+	"hotline":"16757",
+	"facebook":"http://www.facebook.com/GemmaCeramics",
+	"web":"http://www.gemma.com.eg/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"72711",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/72711?b=1&k=16757&l=search",
+	"arName":"10 ش مصطفى النحاس تقاطع ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.054189000000001",
+	"lng":"31.339687000000001",
+	"enName":"10 Mostafa El Nahhas St. Intersection Of Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"7673",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/7673?b=5&k=16757&l=search",
+	"arName":"25 طريق القاهرة اسكندرية الصحراوى ميدان الرماية, الجيزة, الجيزة",
+	"lat":"29.987984000000001",
+	"lng":"31.131112999999999",
+	"enName":"25 Cairo Alex Desert Rd. El Remaya Sq., Giza, Giza"
+},
+		{	"profileId":"395719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/395719?b=2&k=16757&l=search",
+	"arName":"كم 37 - , طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 37, , Cairo alex desert rd., Giza"
+},
+		{	"profileId":"21168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/21168?b=4&k=16757&l=search",
+	"arName":"القطعة الاولى - - المنطقة الصناعية الاولى, مدينة السادات, المنوفية",
+	"lat":"30.360323999999999",
+	"lng":"30.536655",
+	"enName":"1st Plot, , 1st Industrial Zone, Sadat city, El monofeya"
+},
+		{	"profileId":"174337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/174337?b=6&k=16757&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"72710",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/72710?b=7&k=16757&l=search",
+	"arName":"35 ش لبنان, المهندسين, الجيزة",
+	"lat":"30.057369000000001",
+	"lng":"31.196041000000001",
+	"enName":"35 Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"162656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gemma-for-ceramic-&-porcelain-tiles/162656?b=3&k=16757&l=search",
+	"arName":"397 طريق الحرية, مصطفى كامل, الاسكندرية",
+	"lat":"31.224504",
+	"lng":"29.947092000000001",
+	"enName":"397 El Horreya Rd., Mostafa kamel, Alexandria"
+}
+	]
+}]}

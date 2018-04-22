@@ -1,0 +1,46 @@
+{"items":[{	"arName":"لورد اوف ذا وينجز",
+	"enName":"Lord Of The Wings",
+	"hotline":"16195",
+	"facebook":"http://www.facebook.com/lordofthewingsegypt",
+	"web":"http://www.lordofthewings-eg.com/",
+	"arCategory":[
+		"مطاعم امريكية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"American Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"514597",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lord-of-the-wings/514597?b=4&k=16195&l=search",
+	"arName":"كم 105 - طريق مطروح الاسكندرية الصحراوى - مارينا 5, مارينا, الساحل الشمالى",
+	"lat":"30.952290999999999",
+	"lng":"28.790873999999999",
+	"enName":"Km 105, Matrouh Alex Desert Rd., Marina 5, Marina, North coast"
+},
+		{	"profileId":"442887",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lord-of-the-wings/442887?b=2&k=16195&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"474065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lord-of-the-wings/474065?b=3&k=16195&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"438278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lord-of-the-wings/438278?b=1&k=16195&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073718",
+	"lng":"31.346333000000001",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

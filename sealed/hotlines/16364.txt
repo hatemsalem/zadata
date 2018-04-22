@@ -1,0 +1,35 @@
+{"items":[{	"arName":"القاهرة الوطنية للسيارات - سى ان ايه",
+	"enName":"Cairo National Automotive - CNA",
+	"hotline":"16364",
+	"facebook":"http://www.facebook.com/MercedesBenzEgypt",
+	"web":"http://www.mercedes-benz.com.eg/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"449757",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-national-automotive-_-cna/449757?b=3&k=16364&l=search",
+	"arName":"خدمة العملاء, فم الخليج, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Fom el khalig, Cairo"
+},
+		{	"profileId":"46562",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-national-automotive-_-cna/46562?b=1&k=16364&l=search",
+	"arName":"1025 كورنيش النيل, فم الخليج, القاهرة",
+	"lat":"30.019500000000001",
+	"lng":"31.229700000000001",
+	"enName":"1025 Corniche El Nil, Fom el khalig, Cairo"
+},
+		{	"profileId":"100743",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-national-automotive-_-cna/100743?b=2&k=16364&l=search",
+	"arName":"القطعة السابعة - الطريق الدائرى, القطامية, القاهرة",
+	"lat":"29.992152000000001",
+	"lng":"31.382811100000001",
+	"enName":"7th Plot, Ring Rd., El katameya, Cairo"
+}
+	]
+}]}

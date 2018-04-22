@@ -1,0 +1,35 @@
+{"items":[{	"arName":"العصرية للتنمية العقارية والمقاولات",
+	"enName":"El Asreya For Real Estate Development",
+	"hotline":"19526",
+	"facebook":"http://www.facebook.com/Elasreyarealestate?ref=bookmarks",
+	"web":"http://www.elasreya.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"521693",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-asreya-for-real-estate-development/521693?b=1&k=19526&l=search",
+	"arName":"خدمة العملاء, تريومف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"521701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-asreya-for-real-estate-development/521701?b=2&k=19526&l=search",
+	"arName":"121 ش الثورة - الدور 1, مصر الجديدة, القاهرة",
+	"lat":"30.081600000000002",
+	"lng":"31.3476",
+	"enName":"121 El Thawra St., Floor 1, Heliopolis, Cairo"
+},
+		{	"profileId":"150095",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-asreya-for-real-estate-development/150095?b=3&k=19526&l=search",
+	"arName":"138 ش النزهة, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.102309999999999",
+	"lng":"31.343156",
+	"enName":"138 El Nozha St., Triumph Square, Heliopolis, Cairo"
+}
+	]
+}]}

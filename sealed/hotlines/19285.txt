@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مروج للاستثمار الصناعى",
+	"enName":"Moroog For Investment & Industries",
+	"hotline":"19285",
+	"facebook":"",
+	"web":"http://www.dolostone.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"350590",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/moroog-for-investment-&-industries/350590?b=2&k=19285&l=search",
+	"arName":"9113 ش 9, المقطم, القاهرة",
+	"lat":"30.013262000000001",
+	"lng":"31.325465000000001",
+	"enName":"9113 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"350596",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/moroog-for-investment-&-industries/350596?b=1&k=19285&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mokattam, Cairo"
+}
+	]
+}]}

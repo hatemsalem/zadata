@@ -1,0 +1,204 @@
+{"items":[{	"arName":"مؤسسة الاخوة للتجارة والتوكيلات",
+	"enName":"El Ekhwa For Trading & Agencies",
+	"hotline":"19834",
+	"facebook":"http://www.facebook.com/%D9%85%D9%85%D8%AF%D9%88%D8%AD-%D9%85%D8%A8%D8%B1%D9%88%D9%83-%D8%B9%D8%A8%D8%AF-%D8%B1%D8%A8%D8%A9-%D8%BA%D8%B7%D8%A7%D8%B7%D9%89-192289037618084",
+	"web":"http://www.ghataty.com/",
+	"arCategory":[
+		"اطارات",
+		"بطاريات"
+	],
+	"enCategories":[
+		"Tires",
+		"Batteries"
+	],
+	"contacts":[
+		{	"profileId":"158600",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/158600?b=2&k=19834&l=search",
+	"arName":"212 ش السودان ميدان لبنان, المهندسين, الجيزة",
+	"lat":"30.057797000000001",
+	"lng":"31.190276999999998",
+	"enName":"212 Sudan St. Lebanon Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"470091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/470091?b=7&k=19834&l=search",
+	"arName":"19 ب عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.076018999999999",
+	"lng":"31.307113999999999",
+	"enName":"19 B El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"137403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/137403?b=13&k=19834&l=search",
+	"arName":"المنطقة الرابعة, مدينة السادات, المنوفية",
+	"lat":"30.374078999999998",
+	"lng":"30.554093999999999",
+	"enName":"4th Zone, Sadat city, El monofeya"
+},
+		{	"profileId":"518055",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/518055?b=6&k=19834&l=search",
+	"arName":"طريق المطار, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.109549999999999",
+	"lng":"31.372865000000001",
+	"enName":"Airport Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"518077",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/518077?b=16&k=19834&l=search",
+	"arName":"كم 21 - طريق اسكندرية القاهرة الصحراوى, مرغم, الاسكندرية",
+	"lat":"31.081973999999999",
+	"lng":"29.740473000000001",
+	"enName":"Km 21, Alex Cairo Desert Rd., Mirghem, Alexandria"
+},
+		{	"profileId":"517084",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/517084?b=4&k=19834&l=search",
+	"arName":"91 ابراج الامل - طريق الاوتوستراد, المعادى, القاهرة",
+	"lat":"29.957491000000001",
+	"lng":"31.286579",
+	"enName":"91 El Amal Towers, Autostrad Rd., Maadi, Cairo"
+},
+		{	"profileId":"429861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/429861?b=3&k=19834&l=search",
+	"arName":"30 عمارات الشرارة - ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.064896999999998",
+	"lng":"31.358091999999999",
+	"enName":"30 El Sharara Bldgs., Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"517162",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/517162?b=9&k=19834&l=search",
+	"arName":"11 ش الرياضة متفرع من ش البطراوى, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.060075000000001",
+	"lng":"31.330007999999999",
+	"enName":"11 El Riada St. Off El Batrawy St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"518091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/518091?b=17&k=19834&l=search",
+	"arName":"ش شانزليزيه - مارينا 2, مارينا, الساحل الشمالى",
+	"lat":"30.817143999999999",
+	"lng":"29.034559000000002",
+	"enName":"Champs Elysees St., Marina 2, Marina, North coast"
+},
+		{	"profileId":"438263",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/438263?b=8&k=19834&l=search",
+	"arName":"10 ابراج بدر - الطريق الدائرى, زهراء المعادى, المعادى, القاهرة",
+	"lat":"29.982292399999999",
+	"lng":"31.320901299999999",
+	"enName":"10 Badr Towers, Ring Rd., Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"137398",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/137398?b=10&k=19834&l=search",
+	"arName":"القطعة 14/1ب - بلوك 2 - المحور المركزى - عمارة 3, السادس من اكتوبر, الجيزة",
+	"lat":"29.97072",
+	"lng":"30.941386000000001",
+	"enName":"Plot 1/14b, Block 2, Central Spine, Bldg. 3, 6th of october, Giza"
+},
+		{	"profileId":"137397",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/137397?b=21&k=19834&l=search",
+	"arName":"383 أ ش فيصل, المساحة, فيصل, الجيزة",
+	"lat":"30.0045",
+	"lng":"31.176300000000001",
+	"enName":"383 A Faisal St., El Messaha, Faisal, Giza"
+},
+		{	"profileId":"438249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/438249?b=19&k=19834&l=search",
+	"arName":"1 عمارات الابنية التعليمية - المجاورة الثالثة - الحى الثالث - تجمع 6ب, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.036404999999998",
+	"lng":"31.00065",
+	"enName":"1 El Abnaeya El Taalemeya Bldgs., 3rd Neighbourhood, 3rd District, Compound 6b, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"7416",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/7416?b=20&k=19834&l=search",
+	"arName":"77 ش فيصل, المريوطية, فيصل, الجيزة",
+	"lat":"29.992940000000001",
+	"lng":"31.145382000000001",
+	"enName":"77 Faisal St., El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"369307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/369307?b=5&k=19834&l=search",
+	"arName":"34 ش 9, المقطم, القاهرة",
+	"lat":"30.013883",
+	"lng":"31.286242000000001",
+	"enName":"34 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"237967",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/237967?b=23&k=19834&l=search",
+	"arName":"6 طريق النصر, الدهار, الغردقة",
+	"lat":"27.242850000000001",
+	"lng":"33.827548",
+	"enName":"6 El Nasr Rd., Dahar, Hurghada"
+},
+		{	"profileId":"407389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/407389?b=14&k=19834&l=search",
+	"arName":"23 سور نادى الترسانة الرياضى - ش 26 يوليو, المهندسين, الجيزة",
+	"lat":"30.061150000000001",
+	"lng":"31.202746000000001",
+	"enName":"23 El Tersana Sporting Club Wall, 26th Of July St., Mohandeseen, Giza"
+},
+		{	"profileId":"438309",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/438309?b=12&k=19834&l=search",
+	"arName":"القطعة 19 - محور خدمات الحى الثانى - محل 3, مدينة السادات, المنوفية",
+	"lat":"30.362852",
+	"lng":"30.510745",
+	"enName":"Plot 19, 2nd District Services Spine, Shop 3, Sadat city, El monofeya"
+},
+		{	"profileId":"517176",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/517176?b=15&k=19834&l=search",
+	"arName":"77 طريق كفر داوود - المنطقة الصناعية الرابعة, مدينة السادات, المنوفية",
+	"lat":"30.384074999999999",
+	"lng":"30.562978000000001",
+	"enName":"77 Kafr Dawoud Rd., 4th Industrial Zone, Sadat city, El monofeya"
+},
+		{	"profileId":"517134",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/517134?b=11&k=19834&l=search",
+	"arName":"طريق المطار, سقالة, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"Airport Rd., Sekala, Hurghada"
+},
+		{	"profileId":"518064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/518064?b=25&k=19834&l=search",
+	"arName":"50 ش كمال الدين صلاح تقاطع ش البرت الاول, سموحة, الاسكندرية",
+	"lat":"31.21115",
+	"lng":"29.939831000000002",
+	"enName":"50 Kamal El Din Salah St. Intersection Of Albert St., Semouha, Alexandria"
+},
+		{	"profileId":"440274",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/440274?b=24&k=19834&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.168714000000001",
+	"lng":"29.935544",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"438237",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/438237?b=18&k=19834&l=search",
+	"arName":"39 ش ترسا تقاطع ش سينا, التعاون, الهرم, الجيزة",
+	"lat":"29.996500000000001",
+	"lng":"31.1816",
+	"enName":"39 Tersa St. Intersection Of Sinaa St., El Taawon, El haram, Giza"
+},
+		{	"profileId":"137400",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ekhwa-for-trading-&-agencies/137400?b=22&k=19834&l=search",
+	"arName":"27 ش جمال عبد الناصر ميدان فيكتوريا, فيكتوريا, الاسكندرية",
+	"lat":"31.250416999999999",
+	"lng":"29.981667999999999",
+	"enName":"27 Gamal Abdel Nasser St. Victoria Sq., Victoria, Alexandria"
+}
+	]
+}, {	"arName":"غطاطى للاطارات والبطاريات",
+	"enName":"Ghataty For Tires & Batteries",
+	"hotline":"19834",
+	"facebook":"http://www.facebook.com/GhatatyEgypt/",
+	"web":"http://www.ghataty.com/",
+	"arCategory":[
+		"اطارات"
+	],
+	"enCategories":[
+		"Tires"
+	],
+	"contacts":[
+		{	"profileId":"518818",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ghataty-for-tires-&-batteries/518818?b=1&k=19834&l=search",
+	"arName":"75 ش الملك فيصل تقاطع فيصل و المريوطية, الجيزة, الجيزة",
+	"lat":"29.993599",
+	"lng":"31.147114999999999",
+	"enName":"75 -77 - 88 El Malek Faisal St. Intersection Off Faisal & El Mariouteya, Giza, Giza"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"فيوتشر للاستثمار العقارى",
+	"enName":"Future For Real Estate",
+	"hotline":"19704",
+	"facebook":"http://www.facebook.com/pages/Future-of-Real-Estate-Investment/223105967868420?fref=photo",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"463285",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/future-for-real-estate/463285?b=1&k=19704&l=search",
+	"arName":"59 ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.055866999999999",
+	"lng":"31.337868",
+	"enName":"59 Abbas El Akkad St., Nasr city, Cairo"
+}
+	]
+}]}

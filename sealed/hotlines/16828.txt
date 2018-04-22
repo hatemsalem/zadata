@@ -1,0 +1,35 @@
+{"items":[{	"arName":"فرانكى كيتشن سيستمز ايجيبت",
+	"enName":"Franke Kitchen Systems Egypt",
+	"hotline":"16828",
+	"facebook":"",
+	"web":"http://www.franke.com/",
+	"arCategory":[
+		"مطابخ"
+	],
+	"enCategories":[
+		"Kitchens"
+	],
+	"contacts":[
+		{	"profileId":"140131",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/franke-kitchen-systems-egypt/140131?b=3&k=16828&l=search",
+	"arName":"المنطقة الصناعية الاولى, السادس من اكتوبر, الجيزة",
+	"lat":"29.918917",
+	"lng":"30.919408000000001",
+	"enName":"1st industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"458958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/franke-kitchen-systems-egypt/458958?b=1&k=16828&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.024871399999999",
+	"lng":"31.482787699999999",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"149361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/franke-kitchen-systems-egypt/149361?b=2&k=16828&l=search",
+	"arName":"خدمة العملاء, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Industrial Zone, 6th of october, Giza"
+}
+	]
+}]}

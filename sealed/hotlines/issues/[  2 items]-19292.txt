@@ -1,0 +1,48 @@
+{"items":[{	"arName":"المجموعة العربية للتجارة والتوزيع",
+	"enName":"Arabian Group For Trading & Distribution",
+	"hotline":"19292",
+	"facebook":"http://www.facebook.com/ArabianGroupForTradingDistribution/?fref=ts",
+	"web":"http://www.arabian-gr.com.eg/home.html",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"44883",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabian-group-for-trading-&-distribution/44883?b=2&k=19292&l=search",
+	"arName":"11 ش دمشق متفرع من ش سوريا, المهندسين, الجيزة",
+	"lat":"30.054409",
+	"lng":"31.192775999999999",
+	"enName":"11 Demascus St. Off Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"142191",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabian-group-for-trading-&-distribution/142191?b=1&k=19292&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"القصراوى جروب",
+	"enName":"El Kasrawy Group",
+	"hotline":"19292",
+	"facebook":"http://www.facebook.com/JACMotorsEgypt",
+	"web":"jacen.jac.com.cn",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"116545",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kasrawy-group/116545?b=3&k=19292&l=search",
+	"arName":"337 ش السودان, المهندسين, الجيزة",
+	"lat":"30.068804",
+	"lng":"31.195322000000001",
+	"enName":"337 Sudan St., Mohandeseen, Giza"
+}
+	]
+}]}

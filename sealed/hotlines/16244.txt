@@ -1,0 +1,28 @@
+{"items":[{	"arName":"نيسان موتور ايجيبت",
+	"enName":"Nissan Motor Egypt",
+	"hotline":"16244",
+	"facebook":"",
+	"web":"http://www.nissan.com.eg/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"109190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nissan-motor-egypt/109190?b=1&k=16244&l=search",
+	"arName":"القطعة السادسة , السابعة - - المنطقة الصناعية الثالثة, السادس من اكتوبر, الجيزة",
+	"lat":"29.927997999999999",
+	"lng":"30.880364",
+	"enName":"6th, 7th Plot, , 3rd Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"233821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nissan-motor-egypt/233821?b=2&k=16244&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}]}

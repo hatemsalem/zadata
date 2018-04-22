@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدلية كايرو",
+	"enName":"Cairo Pharmacy",
+	"hotline":"19458",
+	"facebook":"http://www.facebook.com/pages/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9-%D9%83%D8%A7%D9%8A%D8%B1%D9%88/673993872656592",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"466805",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-pharmacy/466805?b=1&k=19458&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق الاهرام, الهرم, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"450732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-pharmacy/450732?b=2&k=19458&l=search",
+	"arName":"30 د ش الضغط العالى, حدائق الاهرام, الهرم, الجيزة",
+	"lat":"29.978628",
+	"lng":"31.100691000000001",
+	"enName":"30 D El Daght El Aaly St., Hadayek El Ahram, El haram, Giza"
+}
+	]
+}]}

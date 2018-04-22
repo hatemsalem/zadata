@@ -1,0 +1,56 @@
+{"items":[{	"arName":"الجزيرة العربية للسياحة",
+	"enName":"GAT Tours",
+	"hotline":"16857",
+	"facebook":"http://www.facebook.com/gattours",
+	"web":"http://www.gattours.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"472436",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gat-tours/472436?b=5&k=16857&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"472437",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gat-tours/472437?b=3&k=16857&l=search",
+	"arName":"ميدان المالح, العريش, شمال سيناء",
+	"lat":"31.127604000000002",
+	"lng":"33.805498999999998",
+	"enName":"El Maleh Sq., Arish, North sinai"
+},
+		{	"profileId":"472474",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gat-tours/472474?b=6&k=16857&l=search",
+	"arName":"37 ش عبد الحميد العمدة, الاقصر, الاقصر",
+	"lat":"25.689133000000002",
+	"lng":"32.638416999999997",
+	"enName":"37 Abdel Hameid El Omda St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"472475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gat-tours/472475?b=4&k=16857&l=search",
+	"arName":"2 ش احمد عرابى البحرى, منوف, المنوفية",
+	"lat":"30.466460000000001",
+	"lng":"30.931253000000002",
+	"enName":"2 Ahmed Orabi El Bahary St., Minuf, El monofeya"
+},
+		{	"profileId":"472472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gat-tours/472472?b=2&k=16857&l=search",
+	"arName":"180 أ فيلا 34 - شقة 1, حى النور, شرم الشيخ",
+	"lat":"",
+	"lng":"",
+	"enName":"180 A Villa 34, Flat 1, El nour district, Sharm el sheikh"
+},
+		{	"profileId":"95839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gat-tours/95839?b=1&k=16857&l=search",
+	"arName":"5 ش محمد ابراهيم متفرع من ش نوال, الدقى, الجيزة",
+	"lat":"30.045262000000001",
+	"lng":"31.213678999999999",
+	"enName":"5 Mohamed Ibrahim St. off nawal st., Dokki, Giza"
+}
+	]
+}]}

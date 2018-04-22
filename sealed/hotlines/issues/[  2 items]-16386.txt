@@ -1,0 +1,41 @@
+{"items":[{	"arName":"رينى للهندسة المعمارية والديكور",
+	"enName":"Reny For Engineering",
+	"hotline":"16386",
+	"facebook":"",
+	"web":"http://www.renyfrance.com/",
+	"arCategory":[
+		"ديكور داخلى ومصممون"
+	],
+	"enCategories":[
+		"Interior Decorators & Designers"
+	],
+	"contacts":[
+		{	"profileId":"459943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/reny-for-engineering/459943?b=2&k=16386&l=search",
+	"arName":"155, 156 ش 27 - المنطقة الخامسة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.995511",
+	"lng":"31.412358000000001",
+	"enName":"155, 156 Rd. 27, 5th Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"الشمس للتسويق العقارى",
+	"enName":"El Shams Real Estate",
+	"hotline":"16386",
+	"facebook":"http://www.facebook.com/elshams/timeline",
+	"web":"http://www.elshams.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"460043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-shams-real-estate/460043?b=1&k=16386&l=search",
+	"arName":"155, 156 ش 27 - المنطقة الخامسة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.995501999999998",
+	"lng":"31.412424999999999",
+	"enName":"155, 156 Rd. 27, 5th Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

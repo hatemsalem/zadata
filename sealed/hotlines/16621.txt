@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى نيوروسباين",
+	"enName":"Neuro Spine Hospital",
+	"hotline":"16621",
+	"facebook":"http://www.facebook.com/NeuroSpinehospital",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"405691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/neuro-spine-hospital/405691?b=2&k=16621&l=search",
+	"arName":"خدمة طوارئ, الحى السابع, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, 7th District, 6th of october, Giza"
+},
+		{	"profileId":"405690",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/neuro-spine-hospital/405690?b=1&k=16621&l=search",
+	"arName":"ميدان الحصرى - المحور المركزى, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"lat":"29.972640999999999",
+	"lng":"30.939184000000001",
+	"enName":"El Hosary Sq., Central Spine, 8th District, 6th of october, Giza"
+}
+	]
+}]}

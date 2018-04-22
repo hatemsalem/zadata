@@ -1,0 +1,35 @@
+{"items":[{	"arName":"تيسن كروب للمصاعد مصر",
+	"enName":"Thyssen Krupp Elevator Egypt",
+	"hotline":"16934",
+	"facebook":"http://www.facebook.com/thyssenkrupp",
+	"web":"http://www.thyssenkrupp.com/",
+	"arCategory":[
+		"مصاعد وسلالم متحركة"
+	],
+	"enCategories":[
+		"Elevators & Escalators"
+	],
+	"contacts":[
+		{	"profileId":"144354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/thyssen-krupp-elevator-egypt/144354?b=2&k=16934&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"144357",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/thyssen-krupp-elevator-egypt/144357?b=3&k=16934&l=search",
+	"arName":"398 طريق الحرية, مصطفى كامل, الاسكندرية",
+	"lat":"31.224544999999999",
+	"lng":"29.946746000000001",
+	"enName":"398 El Horreya Rd., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"44846",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/thyssen-krupp-elevator-egypt/44846?b=1&k=16934&l=search",
+	"arName":"6 أ ش مصطفى رفعت, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.102626000000001",
+	"lng":"31.378689999999999",
+	"enName":"6 A Mostafa Refaat St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

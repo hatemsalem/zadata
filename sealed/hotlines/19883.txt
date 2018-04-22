@@ -1,0 +1,42 @@
+{"items":[{	"arName":"ليسيكو مصر",
+	"enName":"Lecico Egypt",
+	"hotline":"19883",
+	"facebook":"",
+	"web":"http://www.lecicoegypt.com/",
+	"arCategory":[
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"135515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lecico-egypt/135515?b=2&k=19883&l=search",
+	"arName":"المنطقة الصناعية الثالثة, برج العرب الجديدة, الاسكندرية",
+	"lat":"30.844418999999998",
+	"lng":"29.596627999999999",
+	"enName":"3rd Industrial Zone, New borg el arab, Alexandria"
+},
+		{	"profileId":"91687",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lecico-egypt/91687?b=1&k=19883&l=search",
+	"arName":"106 ش محمد فريد ميدان مصطفى كامل, وسط البلد, القاهرة",
+	"lat":"30.048767000000002",
+	"lng":"31.244076",
+	"enName":"106 Mohamed Farid St. Mostafa Kamel Sq., Downtown, Cairo"
+},
+		{	"profileId":"20838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lecico-egypt/20838?b=3&k=19883&l=search",
+	"arName":"طريق القاهرة اسكندرية الزراعى, خورشيد, الاسكندرية",
+	"lat":"31.202477999999999",
+	"lng":"30.028542000000002",
+	"enName":"Cairo Alex Agricultural Rd., Khorshid, Alexandria"
+},
+		{	"profileId":"128093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lecico-egypt/128093?b=4&k=19883&l=search",
+	"arName":"خدمة العملاء, خورشيد, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Khorshid, Alexandria"
+}
+	]
+}]}

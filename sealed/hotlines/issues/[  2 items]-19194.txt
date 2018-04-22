@@ -1,0 +1,48 @@
+{"items":[{	"arName":"صيدلية وى كير د. امجد مكرم",
+	"enName":"We Care Dr. Amgad Makram Pharmacy",
+	"hotline":"19194",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"449709",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/we-care-dr.-amgad-makram-pharmacy/449709?b=2&k=19194&l=search",
+	"arName":"88 ش احمد عصمت متفرع من ش عين شمس, عين شمس, القاهرة",
+	"lat":"30.126625000000001",
+	"lng":"31.329816000000001",
+	"enName":"88 Ahmed Esmat St. Off Ain Shams St., Ain shams, Cairo"
+},
+		{	"profileId":"449744",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/we-care-dr.-amgad-makram-pharmacy/449744?b=1&k=19194&l=search",
+	"arName":"خدمة العملاء, عين شمس, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ain shams, Cairo"
+}
+	]
+}, {	"arName":"صيدليات ياسر نوارة",
+	"enName":"Yasser Nawara Pharmacies",
+	"hotline":"19194",
+	"facebook":"http://www.facebook.com/pages/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A7%D8%AA-%D9%8A%D8%A7%D8%B3%D8%B1-%D9%86%D9%88%D8%A7%D8%B1%D9%87/326707264131428",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"467781",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yasser-nawara-pharmacies/467781?b=3&k=19194&l=search",
+	"arName":"27 ش روض الفرج, شبرا, القاهرة",
+	"lat":"30.080881000000002",
+	"lng":"31.239215999999999",
+	"enName":"27 Road El Farag St., Shoubra, Cairo"
+}
+	]
+}]}

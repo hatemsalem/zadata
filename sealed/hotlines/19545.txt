@@ -1,0 +1,21 @@
+{"items":[{	"arName":"رعاية سنتر",
+	"enName":"Reaya Center",
+	"hotline":"19545",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"444240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/reaya-center/444240?b=1&k=19545&l=search",
+	"arName":"5 ش طنطا, العجوزة, الجيزة",
+	"lat":"30.054099999999998",
+	"lng":"31.208200000000001",
+	"enName":"5 Tanta St., Agouza, Giza"
+}
+	]
+}]}

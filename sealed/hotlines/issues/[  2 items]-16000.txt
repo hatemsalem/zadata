@@ -1,0 +1,48 @@
+{"items":[{	"arName":"المجلس القومى للطفولة والامومة",
+	"enName":"The National Council For Childhood & Motherhood",
+	"hotline":"16000",
+	"facebook":"http://www.facebook.com/NCCMEgypt",
+	"web":"http://www.nccm-egypt.org/",
+	"arCategory":[
+		"جمعيات ومنظمات"
+	],
+	"enCategories":[
+		"Associations"
+	],
+	"contacts":[
+		{	"profileId":"109337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-national-council-for-childhood-&-motherhood/109337?b=3&k=16000&l=search",
+	"arName":"الخط الساخن, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hotline, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"99400",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-national-council-for-childhood-&-motherhood/99400?b=2&k=16000&l=search",
+	"arName":"كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.988468000000001",
+	"lng":"31.229801999999999",
+	"enName":"Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"خط نجدة الطفل",
+	"enName":"Child Help Line",
+	"hotline":"16000",
+	"facebook":"http://www.facebook.com/Child.Help.line.Egypt/",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"528718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/child-help-line/528718?b=1&k=16000&l=search",
+	"arName":"الخط الساخن, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hotline, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

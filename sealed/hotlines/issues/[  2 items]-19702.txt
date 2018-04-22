@@ -1,0 +1,48 @@
+{"items":[{	"arName":"الافق للاستثمار العقارى",
+	"enName":"Al Ofouk Real Estate Investment",
+	"hotline":"19702",
+	"facebook":"http://www.facebook.com/ZayedDunes/",
+	"web":"http://www.zayeddunes.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"226053",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ofouk-real-estate-investment/226053?b=1&k=19702&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"531652",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ofouk-real-estate-investment/531652?b=2&k=19702&l=search",
+	"arName":"5 ش 26 يوليو ميدان لبنان, المهندسين, الجيزة",
+	"lat":"30.059232999999999",
+	"lng":"31.190919999999998",
+	"enName":"5 26th Of July St. Lebanon Sq., Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"زايد ديونز",
+	"enName":"Zayed Dunes",
+	"hotline":"19702",
+	"facebook":"http://www.facebook.com/ZayedDunes",
+	"web":"http://www.zayeddunes.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"396864",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zayed-dunes/396864?b=3&k=19702&l=search",
+	"arName":"., الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.036424",
+	"lng":"30.982989",
+	"enName":"., El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

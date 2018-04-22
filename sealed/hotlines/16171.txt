@@ -1,0 +1,56 @@
+{"items":[{	"arName":"الفا سكان",
+	"enName":"Alfa Scan",
+	"hotline":"16171",
+	"facebook":"http://www.facebook.com/Alfa-Scan-Radiology-Center-117514388275385",
+	"web":"http://www.alfascan.com.eg/",
+	"arCategory":[
+		"اشعة مراكز"
+	],
+	"enCategories":[
+		"Radiology"
+	],
+	"contacts":[
+		{	"profileId":"498606",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-scan/498606?b=2&k=16171&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.024871399999999",
+	"lng":"31.482787699999999",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"71778",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-scan/71778?b=3&k=16171&l=search",
+	"arName":"73 ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.084087",
+	"lng":"31.327940999999999",
+	"enName":"73 El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"125224",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-scan/125224?b=1&k=16171&l=search",
+	"arName":"150 كورنيش النيل - برج السلام, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.985312",
+	"lng":"31.229956999999999",
+	"enName":"150 Corniche El Nil, El Salam Tower, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"435474",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-scan/435474?b=6&k=16171&l=search",
+	"arName":"القطعة 31 -, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.0207306",
+	"lng":"31.0032785",
+	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"148362",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-scan/148362?b=4&k=16171&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"5429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfa-scan/5429?b=5&k=16171&l=search",
+	"arName":"1 ميدان الحجاز - برج الصفا الطبى - الدور 2, المهندسين, الجيزة",
+	"lat":"30.051932999999998",
+	"lng":"31.19763",
+	"enName":"1 El Hegaz Sq., El Safa Medical Tower, Floor 2, Mohandeseen, Giza"
+}
+	]
+}]}

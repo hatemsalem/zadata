@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بروفيت العقارية",
+	"enName":"Profit Real Estate",
+	"hotline":"19998",
+	"facebook":"http://www.facebook.com/100profitt",
+	"web":"http://www.100profit.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"548945",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/profit-real-estate/548945?b=1&k=19998&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"548943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/profit-real-estate/548943?b=2&k=19998&l=search",
+	"arName":"فيلا 63 - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.016862",
+	"lng":"31.419053000000002",
+	"enName":"Villa 63, El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

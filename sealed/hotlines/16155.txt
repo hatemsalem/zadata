@@ -1,0 +1,28 @@
+{"items":[{	"arName":"دامسون",
+	"enName":"Damson",
+	"hotline":"16155",
+	"facebook":"http://www.facebook.com/Damson.Furniture",
+	"web":"",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"323274",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/damson/323274?b=2&k=16155&l=search",
+	"arName":"3 ش احمد رمزى كساب, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"30.107958",
+	"lng":"31.329169",
+	"enName":"3 Ahmed Ramzy Kassab St., El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"323283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/damson/323283?b=1&k=16155&l=search",
+	"arName":"خدمة العملاء, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ismaileya Square, Heliopolis, Cairo"
+}
+	]
+}]}

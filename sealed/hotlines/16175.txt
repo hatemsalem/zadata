@@ -1,0 +1,28 @@
+{"items":[{	"arName":"جبال للانشاء والاستثمار العقارى",
+	"enName":"Jebal Real Estate Development",
+	"hotline":"16175",
+	"facebook":"http://www.facebook.com/JEBALDevelopment",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"545658",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jebal-real-estate-development/545658?b=1&k=16175&l=search",
+	"arName":"245 عمارات النرجس - ش 79, النرجس, القاهرة الجديدة, القاهرة",
+	"lat":"30.003990000000002",
+	"lng":"31.458030999999998",
+	"enName":"245 El Narges Bldgs., Rd. 79, Narges, New cairo, Cairo"
+},
+		{	"profileId":"545660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jebal-real-estate-development/545660?b=2&k=16175&l=search",
+	"arName":"خدمة العملاء, النرجس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Narges, New cairo, Cairo"
+}
+	]
+}]}

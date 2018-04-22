@@ -1,0 +1,55 @@
+{"items":[{	"arName":"ادراك لتطوير المشروعات التعليمية والترفيهية",
+	"enName":"Edrak For Edutainment Projects Development",
+	"hotline":"16593",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وسائل تعليمية وايضاح ولوازم"
+	],
+	"enCategories":[
+		"Educational & Teaching Aids"
+	],
+	"contacts":[
+		{	"profileId":"290200",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edrak-for-edutainment-projects-development/290200?b=1&k=16593&l=search",
+	"arName":"214 المبنى الادارى - قطاع 2 - مركز المدينة - الدور 6, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.027752",
+	"lng":"31.465271999999999",
+	"enName":"214 Administration Bldg., Sector 2, City Center, Floor 6, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"441229",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edrak-for-edutainment-projects-development/441229?b=3&k=16593&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"441232",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edrak-for-edutainment-projects-development/441232?b=2&k=16593&l=search",
+	"arName":"فيلا 14 - المجاورة العاشرة - المنطقة 12, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.052859999999999",
+	"lng":"31.442527999999999",
+	"enName":"Villa 14, 10th Neighbourhood, Zone 12, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"كيدزانيا كايرو",
+	"enName":"Kidzania Cairo",
+	"hotline":"16593",
+	"facebook":"",
+	"web":"http://www.kidzania.com.eg/",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"414437",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kidzania-cairo/414437?b=4&k=16593&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.031320000000001",
+	"lng":"31.405701000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

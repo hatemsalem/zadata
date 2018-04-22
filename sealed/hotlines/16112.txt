@@ -1,0 +1,74 @@
+{"items":[{	"arName":"دجاج البيك",
+	"enName":"Chicken Al Baik",
+	"hotline":"16112",
+	"facebook":"http://www.facebook.com/albaikchicken",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"535740",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-al-baik/535740?b=1&k=16112&l=search",
+	"arName":"8 ش جسر السويس تقاطع ش منشية التحرير, جسر السويس, القاهرة",
+	"lat":"30.116050999999999",
+	"lng":"31.335705999999998",
+	"enName":"8 Gesr El Suez St. Intersection Of Mansheyet El Tahrir St., Gesr el suez, Cairo"
+},
+		{	"profileId":"535751",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-al-baik/535751?b=5&k=16112&l=search",
+	"arName":"ش البحر, طنطا, الغربية",
+	"lat":"30.787873000000001",
+	"lng":"31.000215000000001",
+	"enName":"El Bahr St., Tanta, El gharbeya"
+},
+		{	"profileId":"535743",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-al-baik/535743?b=2&k=16112&l=search",
+	"arName":"45 ش طلعت حرب ميدان الالفى, وسط البلد, القاهرة",
+	"lat":"30.053197999999998",
+	"lng":"31.242439000000001",
+	"enName":"45 Talaat Harb St. El Alfy Sq., Downtown, Cairo"
+},
+		{	"profileId":"535734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-al-baik/535734?b=8&k=16112&l=search",
+	"arName":"طريق كفر طهرمس, الطالبية, فيصل, الجيزة",
+	"lat":"30.006447000000001",
+	"lng":"31.178024000000001",
+	"enName":"Kafr Tohormos Rd., El Talbeya, Faisal, Giza"
+},
+		{	"profileId":"535747",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-al-baik/535747?b=6&k=16112&l=search",
+	"arName":"ش الجلاء البحرى, شبين الكوم, المنوفية",
+	"lat":"30.560874999999999",
+	"lng":"31.008005000000001",
+	"enName":"El Galaa El Bahry St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"535737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-al-baik/535737?b=3&k=16112&l=search",
+	"arName":"ش فيصل - العريش, فيصل, الجيزة",
+	"lat":"29.997893999999999",
+	"lng":"31.157889000000001",
+	"enName":"Faisal St., El Arish, Faisal, Giza"
+},
+		{	"profileId":"535759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-al-baik/535759?b=7&k=16112&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الطالبية, فيصل, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El Talbeya, Faisal, Giza"
+},
+		{	"profileId":"535749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-al-baik/535749?b=4&k=16112&l=search",
+	"arName":"11 ش الزراعة, منوف, المنوفية",
+	"lat":"",
+	"lng":"",
+	"enName":"11 El Zeraah St., Minuf, El monofeya"
+}
+	]
+}]}

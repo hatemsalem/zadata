@@ -1,0 +1,21 @@
+{"items":[{	"arName":"وزارة التموين والتجارة الداخلية",
+	"enName":"Ministry Of Supply & Internal Trading",
+	"hotline":"19959",
+	"facebook":"",
+	"web":"http://www.mss.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"353663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-supply-&-internal-trading/353663?b=1&k=19959&l=search",
+	"arName":"خدمة العملاء, قصر العينى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Kasr el ainy, Cairo"
+}
+	]
+}]}

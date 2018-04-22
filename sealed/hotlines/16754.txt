@@ -1,0 +1,32 @@
+{"items":[{	"arName":"سلسلة مطاعم حضرموت",
+	"enName":"Hadramoot Restaurants",
+	"hotline":"16754",
+	"facebook":"http://www.facebook.com/HadraMowtt",
+	"web":"http://www.hadramoot.com/",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"474738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/474738?b=1&k=16754&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة 15 مايو, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 15th of may city, Cairo"
+},
+		{	"profileId":"170875",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/170875?b=2&k=16754&l=search",
+	"arName":"432 ش جمال عبد الناصر, المندرة, الاسكندرية",
+	"lat":"31.278171",
+	"lng":"30.009927000000001",
+	"enName":"432 Gamal Abdel Nasser St., El mandara, Alexandria"
+}
+	]
+}]}

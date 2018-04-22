@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدلية الحكمة",
+	"enName":"El Hekma Pharmacy",
+	"hotline":"19170",
+	"facebook":"http://www.facebook.com/Al-Hekma-Pharmacy-%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-207821402596429",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"186958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hekma-pharmacy/186958?b=1&k=19170&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنيل, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El manyal, Cairo"
+},
+		{	"profileId":"65690",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hekma-pharmacy/65690?b=2&k=19170&l=search",
+	"arName":"9 ش سعيد ذو الفقار ميدان الباشا, المنيل, القاهرة",
+	"lat":"30.020882",
+	"lng":"31.225883",
+	"enName":"9 Said Zou El Foqqar St. El Pasha Sq., El manyal, Cairo"
+}
+	]
+}]}

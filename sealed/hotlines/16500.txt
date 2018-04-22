@@ -1,0 +1,42 @@
+{"items":[{	"arName":"بيبسى كولا مصر",
+	"enName":"Pepsi Cola Egypt",
+	"hotline":"16500",
+	"facebook":"http://www.facebook.com/PepsiArabia",
+	"web":"",
+	"arCategory":[
+		"مشروبات مصنعون"
+	],
+	"enCategories":[
+		"Beverage Industry"
+	],
+	"contacts":[
+		{	"profileId":"136561",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pepsi-cola-egypt/136561?b=1&k=16500&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"124484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pepsi-cola-egypt/124484?b=3&k=16500&l=search",
+	"arName":"القطعة 70 - - المنطقة الصناعية, بنى سويف الجديدة, بنى سويف",
+	"lat":"",
+	"lng":"",
+	"enName":"Plot 70, , Industrial Zone, Benisuef al gadida, Benisuef"
+},
+		{	"profileId":"121811",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pepsi-cola-egypt/121811?b=4&k=16500&l=search",
+	"arName":"كم 25 - , طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.068714",
+	"lng":"29.821905000000001",
+	"enName":"Km 25, , Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"3194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pepsi-cola-egypt/3194?b=2&k=16500&l=search",
+	"arName":"4 ش قرية الاطفال - مدينة الوفاء والامل, الحى العاشر, مدينة نصر, القاهرة",
+	"lat":"30.040139",
+	"lng":"31.346771",
+	"enName":"4 Qaryet el atfal st., el wafaa & el amal city, 10th District, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,83 @@
+{"items":[{	"arName":"كورتيجيانو",
+	"enName":"Cortigiano",
+	"hotline":"19181",
+	"facebook":"http://www.facebook.com/CortigianoRestaurants",
+	"web":"http://www.cortigianorestaurants.com/",
+	"arCategory":[
+		"مطاعم ايطالية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Italian Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"244327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/244327?b=8&k=19181&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"home Delivery, Dokki, Giza"
+},
+		{	"profileId":"431169",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/431169?b=2&k=19181&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.053452400000001",
+	"lng":"31.430732500000001",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"395862",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/395862?b=5&k=19181&l=search",
+	"arName":"29 ش ابو داوود الظاهرى متفرع من ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.061637999999999",
+	"lng":"31.354790000000001",
+	"enName":"29 Abou Dawoud El Zahery St. Off Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"441878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/441878?b=6&k=19181&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.091630500000001",
+	"lng":"31.384119800000001",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"43969",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/43969?b=1&k=19181&l=search",
+	"arName":"14 ش سمير مختار متفرع من ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.082587",
+	"lng":"31.336513",
+	"enName":"14 Samir Mokhtar St. Off Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"487259",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/487259?b=4&k=19181&l=search",
+	"arName":"كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.9742885",
+	"lng":"31.234383000000001",
+	"enName":"Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"457134",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/457134?b=3&k=19181&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.016922000000001",
+	"lng":"31.412593999999999",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"79111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/79111?b=7&k=19181&l=search",
+	"arName":"44 ش ميشيل باخوم متفرع من ش عمان, الدقى, الجيزة",
+	"lat":"30.041573",
+	"lng":"31.204991",
+	"enName":"44 Micheal Bakhoum St. Off Oman St., Dokki, Giza"
+},
+		{	"profileId":"177156",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cortigiano/177156?b=9&k=19181&l=search",
+	"arName":"53 ش عمان متفرع من ش ميشيل باخوم - الدور 12, الدقى, الجيزة",
+	"lat":"30.041298999999999",
+	"lng":"31.204684",
+	"enName":"53 Oman St. Off Micheal Bakhoum St., Floor 12, Dokki, Giza"
+}
+	]
+}]}

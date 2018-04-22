@@ -1,0 +1,21 @@
+{"items":[{	"arName":"اكسكلوسيفز كارد",
+	"enName":"Xclusives Card",
+	"hotline":"16025",
+	"facebook":"http://www.facebook.com/Xclusivescard/",
+	"web":"http://www.xclusivescard.com/",
+	"arCategory":[
+		"كروت تخفيض"
+	],
+	"enCategories":[
+		"Discount Cards"
+	],
+	"contacts":[
+		{	"profileId":"219464",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/xclusives-card/219464?b=1&k=16025&l=search",
+	"arName":"42 ش معز الدولة متفرع من ش مكرم, مدينة نصر, القاهرة",
+	"lat":"30.060251000000001",
+	"lng":"31.351289000000001",
+	"enName":"42 Moaz El Dawla St. Off Makram Ebaid St., Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,96 @@
+{"items":[{	"arName":"صيدليات الرزيقى",
+	"enName":"El Rezeiqy Pharmacies",
+	"hotline":"19763",
+	"facebook":"http://www.facebook.com/El-Rezeiky-Pharmacy-169164600084039",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"158228",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rezeiqy-pharmacies/158228?b=8&k=19763&l=search",
+	"arName":"33 ش احمد عصمت, عين شمس الشرقية, القاهرة",
+	"lat":"30.128204",
+	"lng":"31.324097999999999",
+	"enName":"33 Ahmed Essmat St., Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"547139",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rezeiqy-pharmacies/547139?b=7&k=19763&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, عين شمس الشرقية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"547144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rezeiqy-pharmacies/547144?b=5&k=19763&l=search",
+	"arName":"4 ش الاديب محمد السباعى تقاطع يوسف السبكى, النزهة الجديدة, القاهرة",
+	"lat":"30.128",
+	"lng":"31.373100000000001",
+	"enName":"4 El Adib Mohamed El Sebaey St. Intersection Of Youssef El Sobky, El nozha el gadida, Cairo"
+},
+		{	"profileId":"547143",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rezeiqy-pharmacies/547143?b=6&k=19763&l=search",
+	"arName":"7 ش طه حسين, النزهة الجديدة, القاهرة",
+	"lat":"30.125927000000001",
+	"lng":"31.364321",
+	"enName":"7 Taha Hussein St., El nozha el gadida, Cairo"
+}
+	]
+}, {	"arName":"صيدلية باب الحديد",
+	"enName":"Bab El Hadid Pharmacy",
+	"hotline":"19763",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"280088",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bab-el-hadid-pharmacy/280088?b=1&k=19763&l=search",
+	"arName":"35 ش الجلاء متفرع من ش رمسيس, وسط البلد, القاهرة",
+	"lat":"30.060711999999999",
+	"lng":"31.245149000000001",
+	"enName":"35 El Galaa St. Off Ramsis St., Downtown, Cairo"
+},
+		{	"profileId":"547147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bab-el-hadid-pharmacy/547147?b=2&k=19763&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Downtown, Cairo"
+}
+	]
+}, {	"arName":"مكيفات دايا",
+	"enName":"Daya Air Condition",
+	"hotline":"19763",
+	"facebook":"http://www.facebook.com/DAYA1.DAYA",
+	"web":"http://www.daya-air.com/",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"464227",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/daya-air-condition/464227?b=3&k=19763&l=search",
+	"arName":"خدمة العملاء, رشدى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roushdy, Alexandria"
+},
+		{	"profileId":"407806",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/daya-air-condition/407806?b=4&k=19763&l=search",
+	"arName":"242 طريق الجيش, رشدى, الاسكندرية",
+	"lat":"31.233388000000001",
+	"lng":"29.947071999999999",
+	"enName":"242 El Guish Rd., Roushdy, Alexandria"
+}
+	]
+}]}

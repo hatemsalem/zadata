@@ -1,0 +1,58 @@
+{"items":[{	"arName":"ابو العزم للالكترونيات - برفكس",
+	"enName":"Abo El Azm Electronics - Prifix",
+	"hotline":"16167",
+	"facebook":"http://www.facebook.com/prifix.egypt",
+	"web":"http://www.prifix.com/",
+	"arCategory":[
+		"اقمار صناعية وريسيفر معدات",
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Satellite & Receiving Equipment",
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"88957",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-el-azm-electronics-_-prifix/88957?b=6&k=16167&l=search",
+	"arName":"المنطقة الصناعية الثالثة, برج العرب, الاسكندرية",
+	"lat":"30.848979",
+	"lng":"29.601147999999998",
+	"enName":"3rd Industrial Zone, Borg el arab, Alexandria"
+},
+		{	"profileId":"88956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-el-azm-electronics-_-prifix/88956?b=2&k=16167&l=search",
+	"arName":"2 ش مرجان, العتبة, القاهرة",
+	"lat":"30.048200000000001",
+	"lng":"31.249700000000001",
+	"enName":"2 Morgan St., Ataba, Cairo"
+},
+		{	"profileId":"88955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-el-azm-electronics-_-prifix/88955?b=1&k=16167&l=search",
+	"arName":"32 ش الفلكى, باب اللوق, القاهرة",
+	"lat":"30.044744999999999",
+	"lng":"31.239366",
+	"enName":"32 El Falaky St., Bab el louk, Cairo"
+},
+		{	"profileId":"88954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-el-azm-electronics-_-prifix/88954?b=3&k=16167&l=search",
+	"arName":"38 ش ملك حفنى, فيكتوريا, الاسكندرية",
+	"lat":"31.250678000000001",
+	"lng":"29.982900999999998",
+	"enName":"38 Malak Hefny St., Victoria, Alexandria"
+},
+		{	"profileId":"65714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-el-azm-electronics-_-prifix/65714?b=5&k=16167&l=search",
+	"arName":"35 ش سوريا, رشدى, الاسكندرية",
+	"lat":"31.232355999999999",
+	"lng":"29.947483999999999",
+	"enName":"35 Syria St., Roushdy, Alexandria"
+},
+		{	"profileId":"255846",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abo-el-azm-electronics-_-prifix/255846?b=4&k=16167&l=search",
+	"arName":"خدمة العملاء, رشدى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Roushdy, Alexandria"
+}
+	]
+}]}

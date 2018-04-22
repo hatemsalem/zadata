@@ -1,0 +1,75 @@
+{"items":[{	"arName":"بلوز تيفانى",
+	"enName":"Blues Tiffany",
+	"hotline":"16382",
+	"facebook":"http://www.facebook.com/BluesTiffanyNorthCoast",
+	"web":"",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"564388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blues-tiffany/564388?b=2&k=16382&l=search",
+	"arName":"خدمة العملاء, رأس الحكمة, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ras el hekma, North coast"
+},
+		{	"profileId":"564387",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blues-tiffany/564387?b=3&k=16382&l=search",
+	"arName":"كم 204 - طريق اسكندرية مطروح الصحراوى, رأس الحكمة, الساحل الشمالى",
+	"lat":"31.081790000000002",
+	"lng":"27.988486000000002",
+	"enName":"Km 204, Alex Matrouh Desert Rd., Ras el hekma, North coast"
+}
+	]
+}, {	"arName":"بروجيكتز",
+	"enName":"Projects",
+	"hotline":"16382",
+	"facebook":"",
+	"web":"http://www.projects-eg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"521005",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/projects/521005?b=5&k=16382&l=search",
+	"arName":"27 ش حسن صادق, مصر الجديدة, القاهرة",
+	"lat":"30.085374999999999",
+	"lng":"31.329979999999999",
+	"enName":"27 Hassan Sadeq St., Heliopolis, Cairo"
+},
+		{	"profileId":"521006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/projects/521006?b=4&k=16382&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بلوز",
+	"enName":"Blues",
+	"hotline":"16382",
+	"facebook":"http://www.facebook.com/BluesNorthcoast",
+	"web":"",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"521008",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blues/521008?b=1&k=16382&l=search",
+	"arName":"كم 208 - , طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"31.09243",
+	"lng":"27.939862999999999",
+	"enName":"Km 208, , Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

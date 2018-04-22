@@ -1,0 +1,35 @@
+{"items":[{	"arName":"مجموعة عقارى المصرية للتنمية وادارة المشروعات",
+	"enName":"Akari El Masria Group For Development & Project Management",
+	"hotline":"16570",
+	"facebook":"http://www.facebook.com/Akariealmasria",
+	"web":"http://www.akarielmasria.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"259195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akari-el-masria-group-for-development-&-project-management/259195?b=3&k=16570&l=search",
+	"arName":"21 د - حى المصراوية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.024211000000001",
+	"lng":"31.475398999999999",
+	"enName":"21 D , El Masraweya District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"472155",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akari-el-masria-group-for-development-&-project-management/472155?b=2&k=16570&l=search",
+	"arName":"4 عمارات العبور - طريق صلاح سالم - الدور 6 شقة 1, مدينة نصر, القاهرة",
+	"lat":"30.079875999999999",
+	"lng":"31.314928999999999",
+	"enName":"4 El Obour Bldgs., Salah Salem Rd., Floor 6 Flat 1, Nasr city, Cairo"
+},
+		{	"profileId":"541615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akari-el-masria-group-for-development-&-project-management/541615?b=1&k=16570&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

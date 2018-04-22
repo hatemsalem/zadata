@@ -1,0 +1,42 @@
+{"items":[{	"arName":"مركز شاينى وايت للاسنان - د. شادى على حسين",
+	"enName":"Shiny White Dental Center - Dr. Shady Ali Hussein",
+	"hotline":"19416",
+	"facebook":"http://www.facebook.com/Shiny.White.Dental.Center/",
+	"web":"http://www.shinywhite-eg.com/",
+	"arCategory":[
+		"طب اسنان عيادات"
+	],
+	"enCategories":[
+		"Dentist Clinics"
+	],
+	"contacts":[
+		{	"profileId":"462163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shiny-white-dental-center-_-dr.-shady-ali-hussein/462163?b=1&k=19416&l=search",
+	"arName":"17 ش ابو داوود الظاهرى متفرع من ش مكرم عبيد - الدور 2, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.060423",
+	"lng":"31.347899000000002",
+	"enName":"17 Abou Dawoud El Zahery St. Off Makram Ebaid St., Floor 2, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"581271",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shiny-white-dental-center-_-dr.-shady-ali-hussein/581271?b=4&k=19416&l=search",
+	"arName":"4 ش 21 متفرع من ش 250, دجلة, المعادى, القاهرة",
+	"lat":"29.961492",
+	"lng":"31.269587000000001",
+	"enName":"4 Rd. 21 Off Rd. 250, Degla, Maadi, Cairo"
+},
+		{	"profileId":"581235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shiny-white-dental-center-_-dr.-shady-ali-hussein/581235?b=3&k=19416&l=search",
+	"arName":"ش التسعين الشمالى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Tesaeen El Shamaly St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"558431",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shiny-white-dental-center-_-dr.-shady-ali-hussein/558431?b=2&k=19416&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

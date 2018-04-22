@@ -1,0 +1,55 @@
+{"items":[{	"arName":"هارفست فوودز",
+	"enName":"Harvest Foods",
+	"hotline":"19301",
+	"facebook":"http://www.facebook.com/Harvest-Foods-384249411672820/timeline?ref=page_internal",
+	"web":"http://www.harvestfoodsegypt.com/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"257348",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/harvest-foods/257348?b=4&k=19301&l=search",
+	"arName":"ش السادات متفرع من ش ترعة المنصورية, الهرم, الجيزة",
+	"lat":"29.951121199999999",
+	"lng":"31.160270499999999",
+	"enName":"El Sadat St. Off Teraet El Mansoureya St., El haram, Giza"
+},
+		{	"profileId":"315",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/harvest-foods/315?b=3&k=19301&l=search",
+	"arName":"القطعة 65 - - المنطقة الصناعية الثالثة , السادس من اكتوبر, الجيزة",
+	"lat":"29.922716999999999",
+	"lng":"30.884021000000001",
+	"enName":"Plot 65, , 3Rd Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"125809",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/harvest-foods/125809?b=2&k=19301&l=search",
+	"arName":"23 ش طلعت حرب - الدور 9, وسط البلد, القاهرة",
+	"lat":"30.049212000000001",
+	"lng":"31.239666",
+	"enName":"23 Talaat Harb St., Floor 9, Downtown, Cairo"
+}
+	]
+}, {	"arName":"البوادى",
+	"enName":"El Bawadi",
+	"hotline":"19301",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"260759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bawadi/260759?b=1&k=19301&l=search",
+	"arName":"خدمة العملاء, برج العرب الجديدة, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New borg el arab, Alexandria"
+}
+	]
+}]}

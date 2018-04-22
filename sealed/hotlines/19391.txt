@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدلية الدمرداش",
+	"enName":"El Demerdash Pharmacy",
+	"hotline":"19391",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"144623",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-demerdash-pharmacy/144623?b=1&k=19391&l=search",
+	"arName":"18 عمارات كلية البنات - , كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.076091999999999",
+	"lng":"31.335733999999999",
+	"enName":"18 Koleyet El Banat Bldgs., , koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"144624",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-demerdash-pharmacy/144624?b=2&k=19391&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, koleyet El Banat, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,63 @@
+{"items":[{	"arName":"مؤسسة مصر الخير",
+	"enName":"Misr El Kheir Foundation",
+	"hotline":"16140",
+	"facebook":"http://www.facebook.com/MisrElKheir.Org/timeline",
+	"web":"http://www.misrelkheir.org/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"509480",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-el-kheir-foundation/509480?b=4&k=16140&l=search",
+	"arName":"12 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.077663999999999",
+	"lng":"31.311095000000002",
+	"enName":"12 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"141673",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-el-kheir-foundation/141673?b=1&k=16140&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"468263",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-el-kheir-foundation/468263?b=2&k=16140&l=search",
+	"arName":"76 ش 9, المعادى, القاهرة",
+	"lat":"29.957774000000001",
+	"lng":"31.259929",
+	"enName":"76 Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"509488",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-el-kheir-foundation/509488?b=7&k=16140&l=search",
+	"arName":"198 طريق الحرية, الابراهيمية, الاسكندرية",
+	"lat":"31.208649000000001",
+	"lng":"29.929987000000001",
+	"enName":"198 El Horreya Rd., El ibrahimeya, Alexandria"
+},
+		{	"profileId":"509473",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-el-kheir-foundation/509473?b=3&k=16140&l=search",
+	"arName":"9 ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"lat":"30.053723000000002",
+	"lng":"31.339997",
+	"enName":"9 Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"509484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-el-kheir-foundation/509484?b=6&k=16140&l=search",
+	"arName":"7 ش وادى النيل, المهندسين, الجيزة",
+	"lat":"30.054994000000001",
+	"lng":"31.201720999999999",
+	"enName":"7 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"509471",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-el-kheir-foundation/509471?b=5&k=16140&l=search",
+	"arName":"4 ش الاهرام ميدان النافورة, المقطم, القاهرة",
+	"lat":"30.016886",
+	"lng":"31.280763",
+	"enName":"4 El Ahram St. El Nafoura Sq., Mokattam, Cairo"
+}
+	]
+}]}

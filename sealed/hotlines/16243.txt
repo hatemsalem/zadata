@@ -1,0 +1,28 @@
+{"items":[{	"arName":"كرايسلر جروب ايجيبت",
+	"enName":"Chrysler Group Egypt",
+	"hotline":"16243",
+	"facebook":"",
+	"web":"http://www.chrysleregyptcare.com.eg/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"256583",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chrysler-group-egypt/256583?b=1&k=16243&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"189437",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chrysler-group-egypt/189437?b=2&k=16243&l=search",
+	"arName":"القطعة 211 - - القطاع الثانى - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.028503300000001",
+	"lng":"31.4666435",
+	"enName":"Plot 211, , Second Sector, City Center, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"يونى واى",
+	"enName":"Uniway",
+	"hotline":"19587",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تسويق عبر الانترنت"
+	],
+	"enCategories":[
+		"Internet Marketing"
+	],
+	"contacts":[
+		{	"profileId":"451489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uniway/451489?b=2&k=19587&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"451446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uniway/451446?b=1&k=19587&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

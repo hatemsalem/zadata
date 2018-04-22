@@ -1,0 +1,88 @@
+{"items":[{	"arName":"الشركة المصرية للاتصالات والشبكات المتطورة",
+	"enName":"Egyptian Co. For Communication & Advanced Network",
+	"hotline":"19222",
+	"facebook":"",
+	"web":"http://www.ecan-egypt.com/",
+	"arCategory":[
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"46332",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-communication-&-advanced-network/46332?b=1&k=19222&l=search",
+	"arName":"4 عمارات مشروع الدمرداش - , عباسية, القاهرة",
+	"lat":"30.078661",
+	"lng":"31.282769999999999",
+	"enName":"4 El Demerdash Project Bldgs., , Abbasseya, Cairo"
+}
+	]
+}, {	"arName":"الشركة المصرية للاتصالات ونظم المعلومات",
+	"enName":"Xceed Contact Center",
+	"hotline":"19222",
+	"facebook":"",
+	"web":"http://www.xceedcc.com/",
+	"arCategory":[
+		"مراكز اتصال تسويق عبر الهاتف والتليفزيون"
+	],
+	"enCategories":[
+		"Call Centers, Telemarketing & Teleseen"
+	],
+	"contacts":[
+		{	"profileId":"63520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/xceed-contact-center/63520?b=5&k=19222&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"30.068591999999999",
+	"lng":"31.021055",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}, {	"arName":"وى - المصرية للاتصالات",
+	"enName":"We - Telecom Egypt",
+	"hotline":"19222",
+	"facebook":"http://www.facebook.com/TelecomEgypt",
+	"web":"http://www.telecomegypt.com.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"136572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/we-_-telecom-egypt/136572?b=4&k=19222&l=search",
+	"arName":"خدمات التليفونات اللاسلكية, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Wireless Telephones Services, Downtown, Cairo"
+},
+		{	"profileId":"121966",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/we-_-telecom-egypt/121966?b=3&k=19222&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}, {	"arName":"الشركة المصرية للاتصالات والبرمجيات -ايجيتل",
+	"enName":"Egyptian Co. For Communications & Programs - Egytel",
+	"hotline":"19222",
+	"facebook":"",
+	"web":"http://www.egytelgroup.com/",
+	"arCategory":[
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"52346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-co.-for-communications-&-programs-_-egytel/52346?b=2&k=19222&l=search",
+	"arName":"40 ش مصدق, الدقى, الجيزة",
+	"lat":"30.039594999999998",
+	"lng":"31.206368000000001",
+	"enName":"40 Mossadak St., Dokki, Giza"
+}
+	]
+}]}

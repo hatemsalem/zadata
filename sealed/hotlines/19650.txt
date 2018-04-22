@@ -1,0 +1,63 @@
+{"items":[{	"arName":"مستشفى العيون الدولى",
+	"enName":"International Eye Hospital",
+	"hotline":"19650",
+	"facebook":"http://www.facebook.com/iehegypt",
+	"web":"http://www.iehegypt.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"5891",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-eye-hospital/5891?b=2&k=19650&l=search",
+	"arName":"14 ش عادل حسين رستم متفرع من ميدان فينى, الدقى, الجيزة",
+	"lat":"30.043441000000001",
+	"lng":"31.217034000000002",
+	"enName":"14 Adel Hussein Rostom St. Off Veiny Sq., Dokki, Giza"
+},
+		{	"profileId":"126852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-eye-hospital/126852?b=1&k=19650&l=search",
+	"arName":"21 ش الاندلس, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.098894999999999",
+	"lng":"31.317049000000001",
+	"enName":"21 El Andalus St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"233551",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-eye-hospital/233551?b=5&k=19650&l=search",
+	"arName":"19 ش عادل حسين رستم متفرع من ميدان فينى, الدقى, الجيزة",
+	"lat":"30.043420999999999",
+	"lng":"31.218142",
+	"enName":"19 Adel Hussein Rostom St. Off Veiny Sq., Dokki, Giza"
+},
+		{	"profileId":"511921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-eye-hospital/511921?b=6&k=19650&l=search",
+	"arName":"القطعة 1/13 - - المنطقة المركزية, دمياط الجديدة, دمياط",
+	"lat":"31.438880000000001",
+	"lng":"31.673220000000001",
+	"enName":"Plot 1/13, , Central Zone, New damietta, Damietta"
+},
+		{	"profileId":"136493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-eye-hospital/136493?b=3&k=19650&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"303563",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-eye-hospital/303563?b=4&k=19650&l=search",
+	"arName":"16 ش العمدة متفرع من ش الحرية - الدور 2, وسط البلد, الفيوم",
+	"lat":"29.308104",
+	"lng":"30.842075000000001",
+	"enName":"16 El Omda St. Off El Horreya St., Floor 2, Downtown, El fayoum"
+},
+		{	"profileId":"429487",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-eye-hospital/429487?b=7&k=19650&l=search",
+	"arName":"ش شجرة الدر متفرع من ش خالد بن الوليد - العوامية, الاقصر, الاقصر",
+	"lat":"25.691364",
+	"lng":"32.636220999999999",
+	"enName":"Shagaret El Dor St. Off Khaled Ibn El Walid St., El Awwameya, LUXOR, Luxor, Luxor"
+}
+	]
+}]}

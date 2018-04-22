@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ذا بروكرز للعقارات",
+	"enName":"The Brokers For Real Estate",
+	"hotline":"19709",
+	"facebook":"",
+	"web":"http://www.brokers-eg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"520887",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-brokers-for-real-estate/520887?b=1&k=19709&l=search",
+	"arName":"25 ش عبد المنعم رياض, المهندسين, الجيزة",
+	"lat":"30.050823999999999",
+	"lng":"31.206377",
+	"enName":"25 Abdel Moneim Riad St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,68 @@
+{"items":[{	"arName":"مجموعة طيبة",
+	"enName":"Tiba Group",
+	"hotline":"16063",
+	"facebook":"http://www.facebook.com/LaVistaDev",
+	"web":"http://www.tiba-eg.net/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"230046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tiba-group/230046?b=3&k=16063&l=search",
+	"arName":"12 ش النويرى متفرع من ش عمار بن ياسر, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.114090999999998",
+	"lng":"31.355392999999999",
+	"enName":"12 El Newairy St. Off Ammar Ibn Yasser St., Hegaz Square, Heliopolis, Cairo"
+},
+		{	"profileId":"230062",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tiba-group/230062?b=4&k=16063&l=search",
+	"arName":"خدمة العملاء, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Hegaz Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"لافيستا للتطوير",
+	"enName":"LA VISTA Developments",
+	"hotline":"16063",
+	"facebook":"http://www.facebook.com/LaVistaDev/?fref=ts",
+	"web":"http://www.lavista.com.eg/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"487879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-vista-developments/487879?b=1&k=16063&l=search",
+	"arName":"12 ش النويرى متفرع من ش عمار بن ياسر, مصر الجديدة, القاهرة",
+	"lat":"30.114090999999998",
+	"lng":"31.355392999999999",
+	"enName":"12 El Newairy St. Off Ammar Ibn Yasser St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"لا فيستا",
+	"enName":"La Vista",
+	"hotline":"16063",
+	"facebook":"http://www.facebook.com/LaVistaDev",
+	"web":"http://www.tiba-group.net/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"455347",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-vista/455347?b=2&k=16063&l=search",
+	"arName":"كم 170 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 170,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

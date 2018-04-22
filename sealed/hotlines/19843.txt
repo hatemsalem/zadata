@@ -1,0 +1,49 @@
+{"items":[{	"arName":"تكنوجاز - الشرقية لصناعة الاجهزة المنزلية",
+	"enName":"Tecnogas",
+	"hotline":"19843",
+	"facebook":"http://www.facebook.com/TecnogasEgypt/",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"69765",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/69765?b=2&k=19843&l=search",
+	"arName":"3 ش الجامعة ميدان الجيزة, الجيزة, الجيزة",
+	"lat":"30.015889999999999",
+	"lng":"31.212347999999999",
+	"enName":"3 El Gamaa St. Giza Sq., Giza, Giza"
+},
+		{	"profileId":"453725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/453725?b=1&k=19843&l=search",
+	"arName":"1 ش القومية, الزقازيق, الشرقية",
+	"lat":"30.588214600000001",
+	"lng":"31.499174700000001",
+	"enName":"1 El Qawmeya St., El zagazig, El sharkeya"
+},
+		{	"profileId":"393766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/393766?b=3&k=19843&l=search",
+	"arName":"2 ش محمد عفيفى - الدور 2 شقة 2, بنها, القليوبية",
+	"lat":"30.460042000000001",
+	"lng":"31.179659099999999",
+	"enName":"2 Mohamed Afify St., Floor 2 Flat 2, Banha, Kaliobeya"
+},
+		{	"profileId":"453730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/453730?b=4&k=19843&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"557120",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tecnogas/557120?b=5&k=19843&l=search",
+	"arName":"الشئون, حى غرب, قنا",
+	"lat":"26.157494",
+	"lng":"32.708187000000002",
+	"enName":"El Shoaoun, Gharb district, Qena"
+}
+	]
+}]}

@@ -1,0 +1,68 @@
+{"items":[{	"arName":"سوديك",
+	"enName":"SODIC",
+	"hotline":"16220",
+	"facebook":"http://www.facebook.com/SODICRealEstate/timeline",
+	"web":"http://www.sodic.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"4860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sodic/4860?b=2&k=16220&l=search",
+	"arName":"كم 38 - - كمباوند سوديك ويست, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.076179",
+	"lng":"30.949627",
+	"enName":"Km 38, , Sodic West Compound, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"180502",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sodic/180502?b=1&k=16220&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+}
+	]
+}, {	"arName":"ذا ستريب مول",
+	"enName":"The Strip Mall",
+	"hotline":"16220",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"466635",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-strip-mall/466635?b=3&k=16220&l=search",
+	"arName":"كم 38 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.059493",
+	"lng":"30.939209000000002",
+	"enName":"Km 38,, Cairo alex desert rd., Giza"
+}
+	]
+}, {	"arName":"ويست تاون هاب مول",
+	"enName":"Westown Hub Mall",
+	"hotline":"16220",
+	"facebook":"http://www.facebook.com/WestownHub",
+	"web":"",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"465972",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/westown-hub-mall/465972?b=4&k=16220&l=search",
+	"arName":"بفرلى هيلز, السادس من اكتوبر, الجيزة",
+	"lat":"30.073081999999999",
+	"lng":"30.946187999999999",
+	"enName":"Beverly Hills, 6th of october, Giza"
+}
+	]
+}]}

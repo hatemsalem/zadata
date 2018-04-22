@@ -1,0 +1,68 @@
+{"items":[{	"arName":"الشركة المصرية الاوروبية للاستثمارات العقارية - عقارات مصر",
+	"enName":"Egyptian European Co. For Real Estate Investments - Iqarat Misr",
+	"hotline":"16126",
+	"facebook":"",
+	"web":"http://www.iqaratmisr.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"113108",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-european-co.-for-real-estate-investments-_-iqarat-misr/113108?b=2&k=16126&l=search",
+	"arName":"56 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.051608999999999",
+	"lng":"31.200749999999999",
+	"enName":"56 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"187390",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-european-co.-for-real-estate-investments-_-iqarat-misr/187390?b=3&k=16126&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"ريحانا",
+	"enName":"Rayhana",
+	"hotline":"16126",
+	"facebook":"",
+	"web":"http://www.rayhanacompound.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"374672",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rayhana/374672?b=4&k=16126&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971136000000001",
+	"lng":"30.999603",
+	"enName":"Oasis Rd., 6th of october, Giza"
+}
+	]
+}, {	"arName":"اكنان للاستثمار العقارى - الشواف جروب - ش.م.م",
+	"enName":"Aknan For Real Estate Investment - El Shawaf Group",
+	"hotline":"16126",
+	"facebook":"http://www.facebook.com/aknaneg/?fref=ts",
+	"web":"http://www.aknanegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"378092",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aknan-for-real-estate-investment-_-el-shawaf-group/378092?b=1&k=16126&l=search",
+	"arName":"36 برج كنانة الشواف - ش الجيش, المنصورة, الدقهلية",
+	"lat":"31.045144199999999",
+	"lng":"31.391201899999999",
+	"enName":"36 Kanana El Shawaf Tower, El Guish St., El mansoura, El dakahleya"
+}
+	]
+}]}

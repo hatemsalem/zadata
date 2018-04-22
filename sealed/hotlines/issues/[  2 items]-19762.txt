@@ -1,0 +1,76 @@
+{"items":[{	"arName":"بدجت",
+	"enName":"Budget",
+	"hotline":"19762",
+	"facebook":"",
+	"web":"http://www.budget-egypt.com/",
+	"arCategory":[
+		"سيارات - تأجير وليموزين"
+	],
+	"enCategories":[
+		"Cars - Rentals, Leasing & Limousines"
+	],
+	"contacts":[
+		{	"profileId":"79669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/79669?b=2&k=19762&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"lat":"30.111986000000002",
+	"lng":"31.399467000000001",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"45388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/45388?b=4&k=19762&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.059289",
+	"lng":"31.033501999999999",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"438579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/438579?b=1&k=19762&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"79670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/79670?b=6&k=19762&l=search",
+	"arName":"22 ش المتحف الزراعى, العجوزة, الجيزة",
+	"lat":"30.048002",
+	"lng":"31.214887999999998",
+	"enName":"22 El Mathaf El Zeraey St., Agouza, Giza"
+},
+		{	"profileId":"79671",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/79671?b=3&k=19762&l=search",
+	"arName":"الطريق الدائرى تقاطع طريق القاهرة السويس - ميراج سيتى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.072648000000001",
+	"lng":"31.431097000000001",
+	"enName":"Ring Rd. Intersection Of Cairo Suez Rd., Mirage City, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"476677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/476677?b=5&k=19762&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+}
+	]
+}, {	"arName":"بادجت",
+	"enName":"Budget",
+	"hotline":"19762",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اسمنت وخرسانة وجبس وطوب ومعدات"
+	],
+	"enCategories":[
+		"Cement & Concrete, Gypsum, Brick & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"451057",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/budget/451057?b=7&k=19762&l=search",
+	"arName":"5 ش جامعة الدول العربية - الدور 7 شقة 703, المهندسين, الجيزة",
+	"lat":"30.056052000000001",
+	"lng":"31.203472999999999",
+	"enName":"5 Gamaet El Dewal El Arabeya St., Floor 7 Flat 703, Mohandeseen, Giza"
+}
+	]
+}]}

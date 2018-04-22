@@ -1,0 +1,21 @@
+{"items":[{	"arName":"خدمة الاستعلام عن فيروس سى",
+	"enName":"Query Service For C Virus",
+	"hotline":"19428",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"جمعيات ومنظمات"
+	],
+	"enCategories":[
+		"Associations"
+	],
+	"contacts":[
+		{	"profileId":"258137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/query-service-for-c-virus/258137?b=1&k=19428&l=search",
+	"arName":"الخط الساخن, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hot Line, Heliopolis, Cairo"
+}
+	]
+}]}

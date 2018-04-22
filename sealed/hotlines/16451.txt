@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سمارت هاوس للاستثمار العقارى",
+	"enName":"Smart House Real Estate",
+	"hotline":"16451",
+	"facebook":"http://www.facebook.com/SHEgypt",
+	"web":"http://www.smarthouseegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"397575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-house-real-estate/397575?b=1&k=16451&l=search",
+	"arName":"46 ش مصطفى النحاس - الدور 5, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.054745",
+	"lng":"31.344650999999999",
+	"enName":"46 Mostafa El Nahhas St., Floor 5, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"460059",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-house-real-estate/460059?b=2&k=16451&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

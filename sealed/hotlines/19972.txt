@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدليات وائل",
+	"enName":"Wael Pharmacies",
+	"hotline":"19972",
+	"facebook":"http://www.facebook.com/waelpharmaciesegypt",
+	"web":"http://www.waelpharmacies.com/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"324787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wael-pharmacies/324787?b=1&k=19972&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"417622",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wael-pharmacies/417622?b=3&k=19972&l=search",
+	"arName":"ش المحكمة - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.003319000000001",
+	"lng":"31.424734999999998",
+	"enName":"El Mahkama St., 1st District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"418041",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wael-pharmacies/418041?b=2&k=19972&l=search",
+	"arName":"24 محلية 7 -, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"29.985481",
+	"lng":"31.423214000000002",
+	"enName":"24 Mahaleya 7,, 3rd Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,48 @@
+{"items":[{	"arName":"مباشر مصر",
+	"enName":"Mubasher Misr",
+	"hotline":"16717",
+	"facebook":"",
+	"web":"http://www.mubasher.info/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"122984",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mubasher-misr/122984?b=3&k=16717&l=search",
+	"arName":"36 ش سعد زغلول, محطة الرمل, الاسكندرية",
+	"lat":"31.199062999999999",
+	"lng":"29.898731000000002",
+	"enName":"36 Saad Zaghloul St., Raml station, Alexandria"
+}
+	]
+}, {	"arName":"ديريكت اف ان",
+	"enName":"Direct FN",
+	"hotline":"16717",
+	"facebook":"",
+	"web":"http://www.mubashereg.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"124004",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/direct-fn/124004?b=1&k=16717&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"403128",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/direct-fn/403128?b=2&k=16717&l=search",
+	"arName":"3 ش حسن ابراهيم حسن متفرع من ش محمد حسنين هيكل, مدينة نصر, القاهرة",
+	"lat":"30.065681999999999",
+	"lng":"31.338801",
+	"enName":"3 Hassan Ibrahim Hassan St. Off Mohamed Hassanein Haikal St., Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,93 @@
+{"items":[{	"arName":"جولدى",
+	"enName":"Goldi",
+	"hotline":"19819",
+	"facebook":"",
+	"web":"http://www.bahgat.com/",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار",
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts",
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"580557",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/580557?b=8&k=19819&l=search",
+	"arName":"القطعة 258 - - المنطقة الصناعية الاولى, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.917971000000001",
+	"lng":"30.914666",
+	"enName":"Plot 258, , 1St Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"214120",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/214120?b=1&k=19819&l=search",
+	"arName":"115 عمارات منارات الزيتون - ش سليم الاول, الزيتون, القاهرة",
+	"lat":"30.118649000000001",
+	"lng":"31.320651000000002",
+	"enName":"115 Manarat El Zaitoun Bldgs., Selim El Awal St., El zaytoun, Cairo"
+},
+		{	"profileId":"182734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/182734?b=9&k=19819&l=search",
+	"arName":"20 ش شانزليزيه, مارينا, الساحل الشمالى",
+	"lat":"30.815967000000001",
+	"lng":"29.040845000000001",
+	"enName":"20 Champs Elysees St., Marina, North coast"
+},
+		{	"profileId":"285149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/285149?b=10&k=19819&l=search",
+	"arName":"خدمة العملاء, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"214170",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/214170?b=7&k=19819&l=search",
+	"arName":"22 أ ش السوق التجارى, سموحة, الاسكندرية",
+	"lat":"31.215122000000001",
+	"lng":"29.945149000000001",
+	"enName":"22 A El Souk El Togary St., Semouha, Alexandria"
+},
+		{	"profileId":"580563",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/580563?b=11&k=19819&l=search",
+	"arName":"21 ش عمر بن الخطاب - برج حبش, المنصورة, الدقهلية",
+	"lat":"31.037303000000001",
+	"lng":"31.396925",
+	"enName":"21 Omar Ibn El Khattab St., Habash Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"284673",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/284673?b=2&k=19819&l=search",
+	"arName":"13 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.087074000000001",
+	"lng":"31.309055000000001",
+	"enName":"13 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"166962",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/166962?b=3&k=19819&l=search",
+	"arName":"ش شرف متفرع من ش مولد النبى, الزقازيق, الشرقية",
+	"lat":"30.585645",
+	"lng":"31.504966899999999",
+	"enName":"Sharaf St. Off Mawled El Nabi St., El zagazig, El sharkeya"
+},
+		{	"profileId":"96136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/96136?b=5&k=19819&l=search",
+	"arName":"103 ش الهرم, الكوم الاخضر, الهرم, الجيزة",
+	"lat":"29.991499999999998",
+	"lng":"31.154299999999999",
+	"enName":"103 Haram St., El Koum El Akhdar, El haram, Giza"
+},
+		{	"profileId":"580565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/580565?b=6&k=19819&l=search",
+	"arName":"63 عمارات فيوتشر هوم - ش النادى, طنطا, الغربية",
+	"lat":"30.795529999999999",
+	"lng":"30.990122",
+	"enName":"63 Future Home Bldgs., El Nady St., Tanta, El gharbeya"
+},
+		{	"profileId":"214159",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/goldi/214159?b=4&k=19819&l=search",
+	"arName":"122 ش الجيش, حى الافرنج, الاسماعيلية",
+	"lat":"30.593802499999999",
+	"lng":"32.276983000000001",
+	"enName":"122 El Guish St., El afrang district, Ismaileya"
+}
+	]
+}]}

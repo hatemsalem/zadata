@@ -1,0 +1,21 @@
+{"items":[{	"arName":"معادى جاردنز",
+	"enName":"Maadi Gardens",
+	"hotline":"16385",
+	"facebook":"http://www.facebook.com/maadigardens.egypt",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"380154",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maadi-gardens/380154?b=1&k=16385&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"lat":"29.983291999999999",
+	"lng":"31.334540000000001",
+	"enName":"Ring Rd., El katameya, Cairo"
+}
+	]
+}]}

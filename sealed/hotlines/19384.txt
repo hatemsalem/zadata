@@ -1,0 +1,30 @@
+{"items":[{	"arName":"كنوز",
+	"enName":"Konoz",
+	"hotline":"19384",
+	"facebook":"http://www.facebook.com/KONOZ.of.gulf/?fref=nf",
+	"web":"http://konozeg.com/?menu_cat=catalogue-honeyproducts&lang=ar",
+	"arCategory":[
+		"مناحل ولوازم المناحل",
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Beekeepers & Supplies",
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"485977",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/konoz/485977?b=2&k=19384&l=search",
+	"arName":"1 عمارات جابكو للبترول - ش 500 - الدور 3 شقة 33, المعادى, القاهرة",
+	"lat":"29.989080999999999",
+	"lng":"31.279320999999999",
+	"enName":"1 Gupco For Petroleum Bldgs., Rd. 500, Floor 3 Flat 33, Maadi, Cairo"
+},
+		{	"profileId":"509233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/konoz/509233?b=1&k=19384&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}]}

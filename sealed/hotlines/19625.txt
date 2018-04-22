@@ -1,0 +1,21 @@
+{"items":[{	"arName":"نوفا استنزا",
+	"enName":"Novus Stanza",
+	"hotline":"19625",
+	"facebook":"http://www.facebook.com/novusstanza",
+	"web":"http://www.novusstanza.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"574259",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/novus-stanza/574259?b=1&k=19625&l=search",
+	"arName":"119 ش الثورة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.081619",
+	"lng":"31.344546999999999",
+	"enName":"119 El Thawra St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

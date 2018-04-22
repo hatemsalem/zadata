@@ -1,0 +1,35 @@
+{"items":[{	"arName":"بنيان للتشييد وادارة المشروعات",
+	"enName":"Bonyan For Construction & Projects Management",
+	"hotline":"19084",
+	"facebook":"http://www.facebook.com/Bonyanegy",
+	"web":"http://www.bonyaneg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"563909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bonyan-for-construction-&-projects-management/563909?b=1&k=19084&l=search",
+	"arName":"فيلا 127 - ش الشويفات تقاطع ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.014099999999999",
+	"lng":"31.416474999999998",
+	"enName":"Villa 127, El Showaifat St. Intersection Of El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"563910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bonyan-for-construction-&-projects-management/563910?b=3&k=19084&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"563908",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bonyan-for-construction-&-projects-management/563908?b=2&k=19084&l=search",
+	"arName":"19 ش اخناتون متفرع من ش الشويفات, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.003084000000001",
+	"lng":"31.420211999999999",
+	"enName":"19 Ekhnatoun St. Off El Showaifat St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

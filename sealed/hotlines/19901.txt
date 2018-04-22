@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ابنى للاستثمار العقارى",
+	"enName":"Ebny For Real Estate Development",
+	"hotline":"19901",
+	"facebook":"http://www.facebook.com/ebnyrealestate",
+	"web":"http://www.ebny.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"458106",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ebny-for-real-estate-development/458106?b=1&k=19901&l=search",
+	"arName":"38 ش الطيران - الدور 7, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"30.061646",
+	"lng":"31.326108999999999",
+	"enName":"38 El Tayaran St., Floor 7, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"581795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ebny-for-real-estate-development/581795?b=2&k=19901&l=search",
+	"arName":"خدمة العملاء, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 7th District, Nasr city, Cairo"
+}
+	]
+}]}

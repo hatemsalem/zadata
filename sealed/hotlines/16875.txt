@@ -1,0 +1,35 @@
+{"items":[{	"arName":"رويال جاز - الشركة الهندسية لانتاج الاجهزة الكهربائية والمنزلية",
+	"enName":"Royal Gas - The Engineering Co. For Electrical & Home Appliances",
+	"hotline":"16875",
+	"facebook":"http://www.facebook.com/RoyalGas.egypt",
+	"web":"http://www.royalgas-eg.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"570270",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-gas-_-the-engineering-co.-for-electrical-&-home-appliances/570270?b=1&k=16875&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"70909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-gas-_-the-engineering-co.-for-electrical-&-home-appliances/70909?b=3&k=16875&l=search",
+	"arName":"القطعة 41 - قطاع ج - المنطقة الصناعية الاولى, الصالحية الجديدة, الشرقية",
+	"lat":"30.624677999999999",
+	"lng":"31.942198000000001",
+	"enName":"Plot 41, Sector C, 1St Industrial Zone, El salheya el gadida, El sharkeya"
+},
+		{	"profileId":"3255",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-gas-_-the-engineering-co.-for-electrical-&-home-appliances/3255?b=2&k=16875&l=search",
+	"arName":"82 ش حسن المامون, مدينة نصر, القاهرة",
+	"lat":"30.06287",
+	"lng":"31.356203499999999",
+	"enName":"82 Hassan El Mamoun St., Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,55 @@
+{"items":[{	"arName":"د. يحيى توفيق الرخاوى",
+	"enName":"Dr. Yehia Tawfiq El Rakhawy",
+	"hotline":"19369",
+	"facebook":"",
+	"web":"http://www.rakhawyhospital.org/",
+	"arCategory":[
+		"اطباء"
+	],
+	"enCategories":[
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"513127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-yehia-tawfiq-el-rakhawy/513127?b=4&k=19369&l=search",
+	"arName":"خدمة طوارئ, باب اللوق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Bab el louk, Cairo"
+},
+		{	"profileId":"438532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-yehia-tawfiq-el-rakhawy/438532?b=3&k=19369&l=search",
+	"arName":"47 ش الفلكى - الدور 1, باب اللوق, القاهرة",
+	"lat":"30.043099999999999",
+	"lng":"31.2392",
+	"enName":"47 El Falaky St., Floor 1, Bab el louk, Cairo"
+}
+	]
+}, {	"arName":"دار المقطم للصحة النفسية",
+	"enName":"Dar El Moqattam For Mental Health",
+	"hotline":"19369",
+	"facebook":"http://www.facebook.com/rakhawyhospital",
+	"web":"http://www.rakhawyhospital.org/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"465482",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-moqattam-for-mental-health/465482?b=2&k=19369&l=search",
+	"arName":"خدمة طوارئ, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Mokattam, Cairo"
+},
+		{	"profileId":"66508",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-moqattam-for-mental-health/66508?b=1&k=19369&l=search",
+	"arName":"ش 12 متفرع من ش 10, المقطم, القاهرة",
+	"lat":"30.011023000000002",
+	"lng":"31.285934999999998",
+	"enName":"Rd. 12 Off Rd. 10, Mokattam, Cairo"
+}
+	]
+}]}

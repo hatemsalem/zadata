@@ -1,0 +1,21 @@
+{"items":[{	"arName":"المركز الالمانى لابادة الحشرات والقوارض",
+	"enName":"German Center For Insect Control",
+	"hotline":"19758",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%A7%D9%84%D8%A7%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D9%84%D8%A7%D8%A8%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%AD%D8%B4%D8%B1%D8%A7%D8%AA-227242647317085/?fref=nf",
+	"web":"http://www.elalmany.net/",
+	"arCategory":[
+		"مكافحة وابادة حشرات ومبيدات حشرية"
+	],
+	"enCategories":[
+		"Pest Control, Pesticides & Insecticides"
+	],
+	"contacts":[
+		{	"profileId":"174255",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/german-center-for-insect-control/174255?b=1&k=19758&l=search",
+	"arName":"برج الفاروق - حى الواحة - المنطقة 12, مدينة نصر, القاهرة",
+	"lat":"30.038347000000002",
+	"lng":"31.376121999999999",
+	"enName":"El Farouq Tower, El Waha District, Zone 12, Nasr city, Cairo"
+}
+	]
+}]}

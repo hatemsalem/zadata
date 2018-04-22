@@ -1,0 +1,28 @@
+{"items":[{	"arName":"وزارة التربية والتعليم",
+	"enName":"Ministry Of Education",
+	"hotline":"19151",
+	"facebook":"",
+	"web":"http://www.emoe.org/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"136578",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-education/136578?b=1&k=19151&l=search",
+	"arName":"خدمة العملاء, باب اللوق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Bab el louk, Cairo"
+},
+		{	"profileId":"14146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-education/14146?b=2&k=19151&l=search",
+	"arName":"12 ش الفلكى, باب اللوق, القاهرة",
+	"lat":"30.036608000000001",
+	"lng":"31.236585999999999",
+	"enName":"12 El Falaky St., Bab el louk, Cairo"
+}
+	]
+}]}

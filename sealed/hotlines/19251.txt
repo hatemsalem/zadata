@@ -1,0 +1,49 @@
+{"items":[{	"arName":"عيادات لايف",
+	"enName":"Life Clinics",
+	"hotline":"19251",
+	"facebook":"http://www.facebook.com/lifeclinicsegypt",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"562881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-clinics/562881?b=2&k=19251&l=search",
+	"arName":"1 /2 ش اللاسلكى تقاطع ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975224999999998",
+	"lng":"31.281869",
+	"enName":"1 /2 El Laselky St. Intersection Of El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"562892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-clinics/562892?b=4&k=19251&l=search",
+	"arName":"82 ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.064902",
+	"lng":"31.344535",
+	"enName":"82 Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"462042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-clinics/462042?b=3&k=19251&l=search",
+	"arName":"43 ميدان الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.9754",
+	"lng":"31.280899999999999",
+	"enName":"43 El Gazaer Sq., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"562896",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-clinics/562896?b=5&k=19251&l=search",
+	"arName":"4 ش عبد الحميد بدوى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.105159",
+	"lng":"31.376925",
+	"enName":"4 Abdel Hamid Badawy St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"562879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-clinics/562879?b=1&k=19251&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

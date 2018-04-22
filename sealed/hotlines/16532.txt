@@ -1,0 +1,63 @@
+{"items":[{	"arName":"اكسون موبيل مصر",
+	"enName":"Exxon Mobil Egypt",
+	"hotline":"16532",
+	"facebook":"",
+	"web":"http://www.exxonmobilegypt.com/",
+	"arCategory":[
+		"بترول وغاز شركات - خدمات وخدمات داخل البحر شركات"
+	],
+	"enCategories":[
+		"Oil & Gas Companies, Services & Offshore Services"
+	],
+	"contacts":[
+		{	"profileId":"174428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exxon-mobil-egypt/174428?b=3&k=16532&l=search",
+	"arName":"53 ش جسر السويس, جسر السويس, القاهرة",
+	"lat":"30.095192000000001",
+	"lng":"31.310373999999999",
+	"enName":"53 Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"77484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exxon-mobil-egypt/77484?b=5&k=16532&l=search",
+	"arName":"25 ش عدلى, وسط البلد, القاهرة",
+	"lat":"30.05133",
+	"lng":"31.241978",
+	"enName":"25 Adly St., Downtown, Cairo"
+},
+		{	"profileId":"531128",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exxon-mobil-egypt/531128?b=2&k=16532&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Garden city, Cairo"
+},
+		{	"profileId":"179483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exxon-mobil-egypt/179483?b=6&k=16532&l=search",
+	"arName":"89 - حى الزهور, الحرفيين, القاهرة",
+	"lat":"30.153341999999999",
+	"lng":"31.40119",
+	"enName":"89 , El Zohour District, El herafeyeen, Cairo"
+},
+		{	"profileId":"174422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exxon-mobil-egypt/174422?b=1&k=16532&l=search",
+	"arName":"48 أ ش العروبة, مصر الجديدة, القاهرة",
+	"lat":"30.091543999999999",
+	"lng":"31.334866999999999",
+	"enName":"48 A El Orouba St., Heliopolis, Cairo"
+},
+		{	"profileId":"174412",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exxon-mobil-egypt/174412?b=4&k=16532&l=search",
+	"arName":"ش شركات, غمره, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Sharekat St., Ghamrah, Cairo"
+},
+		{	"profileId":"93956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/exxon-mobil-egypt/93956?b=7&k=16532&l=search",
+	"arName":"1097 كورنيش النيل, جاردن سيتى, القاهرة",
+	"lat":"30.038364000000001",
+	"lng":"31.230194999999998",
+	"enName":"1097 Corniche El Nil, Garden city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,69 @@
+{"items":[{	"arName":"الرواد للتنمية وادارة المشروعات",
+	"enName":"Al Rowad For Development & Projects Management",
+	"hotline":"19607",
+	"facebook":"http://www.facebook.com/alrowadgroup1",
+	"web":"http://www.alrwadgroup.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"513396",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-for-development-&-projects-management/513396?b=3&k=19607&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"121562",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-for-development-&-projects-management/121562?b=1&k=19607&l=search",
+	"arName":"1 بلوك 6 -, حى السفارات, مدينة نصر, القاهرة",
+	"lat":"30.037312",
+	"lng":"31.341746000000001",
+	"enName":"1 Block 6,, El Sefarat District, Nasr city, Cairo"
+},
+		{	"profileId":"121561",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-for-development-&-projects-management/121561?b=5&k=19607&l=search",
+	"arName":"199 د ش جاردنيا, حدائق الاهرام, الهرم, الجيزة",
+	"lat":"29.975847000000002",
+	"lng":"31.106344",
+	"enName":"199 D Gardenia St., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"260651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-for-development-&-projects-management/260651?b=2&k=19607&l=search",
+	"arName":"14 ش عبد المنعم رياض, المهندسين, الجيزة",
+	"lat":"30.049918999999999",
+	"lng":"31.205304999999999",
+	"enName":"14 Abdel Moneim Riad St., Mohandeseen, Giza"
+},
+		{	"profileId":"149241",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-for-development-&-projects-management/149241?b=4&k=19607&l=search",
+	"arName":"64 المجاورة الثالثة - الحى الثالث, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.033085",
+	"lng":"31.00337",
+	"enName":"64 3rd Neighbourhood, 3rd District, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"باب البحر",
+	"enName":"Bab El Bahr",
+	"hotline":"19607",
+	"facebook":"http://www.facebook.com/babelbahrr",
+	"web":"http://www.bablbahr.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"379429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bab-el-bahr/379429?b=6&k=19607&l=search",
+	"arName":"كم 114 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.882821",
+	"lng":"28.861083000000001",
+	"enName":"Km 114,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

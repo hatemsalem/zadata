@@ -1,0 +1,28 @@
+{"items":[{	"arName":"زانوسى",
+	"enName":"Zanussi",
+	"hotline":"19160",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"168649",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/168649?b=1&k=19160&l=search",
+	"arName":"1 برج الرحمه - - اللبينى, فيصل, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"1 El Rahma Tower, , El Lebbiny, Faisal, Giza"
+},
+		{	"profileId":"168808",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/168808?b=2&k=19160&l=search",
+	"arName":"خدمة العملاء, فيصل, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Faisal, Giza"
+}
+	]
+}]}

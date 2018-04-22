@@ -1,0 +1,133 @@
+{"items":[{	"arName":"ماستربد",
+	"enName":"Masterbed",
+	"hotline":"16468",
+	"facebook":"http://www.facebook.com/masterbedsae",
+	"web":"http://www.masterbedsae.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"128386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/128386?b=8&k=16468&l=search",
+	"arName":"7 ش فهمى ويصا متفرع من ش ابراهيم نصير, لوران, الاسكندرية",
+	"lat":"31.246447",
+	"lng":"29.971344999999999",
+	"enName":"7 Fahmy Wissa St. Off Ibrahim Nossair St., Loran, Alexandria"
+},
+		{	"profileId":"128410",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/128410?b=4&k=16468&l=search",
+	"arName":"88 عمارات صقر قريش - , مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.105656",
+	"lng":"31.370304999999998",
+	"enName":"88 Saqr Qoraish Bldgs., , Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"128388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/128388?b=11&k=16468&l=search",
+	"arName":"600 طريق الحرية, زيزينيا, الاسكندرية",
+	"lat":"31.240414999999999",
+	"lng":"29.965468000000001",
+	"enName":"600 El Horreya Rd., Zezenia, Alexandria"
+},
+		{	"profileId":"390589",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/390589?b=3&k=16468&l=search",
+	"arName":"74 ش بيروت, مصر الجديدة, القاهرة",
+	"lat":"30.091512000000002",
+	"lng":"31.331054999999999",
+	"enName":"74 Beirut St., Heliopolis, Cairo"
+},
+		{	"profileId":"147144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/147144?b=7&k=16468&l=search",
+	"arName":"79 طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.067805",
+	"lng":"31.331866000000002",
+	"enName":"79 El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"147139",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/147139?b=10&k=16468&l=search",
+	"arName":"14 ش الاسكندر الاكبر, محطة الرمل, الاسكندرية",
+	"lat":"31.203576000000002",
+	"lng":"29.904951000000001",
+	"enName":"14 El Iskandar El Akbar St., Raml station, Alexandria"
+},
+		{	"profileId":"55266",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/55266?b=14&k=16468&l=search",
+	"arName":"45 ش شهاب - الدور 2, المهندسين, الجيزة",
+	"lat":"30.055012000000001",
+	"lng":"31.195557000000001",
+	"enName":"45 Shehab St., Floor 2, Mohandeseen, Giza"
+},
+		{	"profileId":"122987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/122987?b=15&k=16468&l=search",
+	"arName":"المنطقة الصناعية الثالثة, السادس من اكتوبر, الجيزة",
+	"lat":"29.908676",
+	"lng":"30.909185000000001",
+	"enName":"3rd Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"144513",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/144513?b=13&k=16468&l=search",
+	"arName":"427 طريق الجيش, لوران, الاسكندرية",
+	"lat":"31.250606000000001",
+	"lng":"29.970193999999999",
+	"enName":"427 El Guish Rd. , Loran, Alexandria"
+},
+		{	"profileId":"551611",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/551611?b=12&k=16468&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"128425",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/128425?b=9&k=16468&l=search",
+	"arName":"سوق الخضار القديم, دمياط, دمياط",
+	"lat":"31.417960999999998",
+	"lng":"31.812498000000001",
+	"enName":"el khodar el qadim market , Damietta, Damietta"
+},
+		{	"profileId":"551627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/551627?b=17&k=16468&l=search",
+	"arName":"كورنيش النيل, دمياط, دمياط",
+	"lat":"",
+	"lng":"",
+	"enName":"Corniche El Nil, Damietta, Damietta"
+},
+		{	"profileId":"128406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/128406?b=1&k=16468&l=search",
+	"arName":"56 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.057746999999999",
+	"lng":"31.346036000000002",
+	"enName":"56 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"128407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/128407?b=2&k=16468&l=search",
+	"arName":"5 ش المماليك متفرع من ش ابراهيم اللقانى, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.090347000000001",
+	"lng":"31.317682999999999",
+	"enName":"5 El Mamalik St. Off Ibrahim El Laqqany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"101404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/101404?b=5&k=16468&l=search",
+	"arName":"61 ش القنال, المعادى, القاهرة",
+	"lat":"29.963153999999999",
+	"lng":"31.261393999999999",
+	"enName":"61 Canal St., Maadi, Cairo"
+},
+		{	"profileId":"128409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/128409?b=6&k=16468&l=search",
+	"arName":"8 ش بهجت على, الزمالك, القاهرة",
+	"lat":"30.066500000000001",
+	"lng":"31.217600000000001",
+	"enName":"8 Bahgat Aly St., Zamalek, Cairo"
+},
+		{	"profileId":"453640",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masterbed/453640?b=16&k=16468&l=search",
+	"arName":"49 ش لبنان, المهندسين, الجيزة",
+	"lat":"30.058222000000001",
+	"lng":"31.194770999999999",
+	"enName":"49 Lebanon St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,35 @@
+{"items":[{	"arName":"مجموعة المدائن القابضة",
+	"enName":"El Madain Holding Group",
+	"hotline":"19166",
+	"facebook":"",
+	"web":"http://www.elmadain.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"139766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-madain-holding-group/139766?b=3&k=19166&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"455150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-madain-holding-group/455150?b=1&k=19166&l=search",
+	"arName":"12 ش احمد فخرى, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.067375999999999",
+	"lng":"31.349281999999999",
+	"enName":"12 Ahmed Fakhry St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"139765",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-madain-holding-group/139765?b=2&k=19166&l=search",
+	"arName":"ش عطية الصوالحى امتداد ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.051110999999999",
+	"lng":"31.349364000000001",
+	"enName":"Atteya El Sawalhy St. Extension Of Makram Ebaid St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

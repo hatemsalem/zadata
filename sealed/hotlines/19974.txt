@@ -1,0 +1,32 @@
+{"items":[{	"arName":"اسماك وادى النيل",
+	"enName":"Asmak Wadi El Nil",
+	"hotline":"19974",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"257751",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asmak-wadi-el-nil/257751?b=2&k=19974&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"103447",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asmak-wadi-el-nil/103447?b=1&k=19974&l=search",
+	"arName":"82 ش وادى النيل, المهندسين, الجيزة",
+	"lat":"30.062669",
+	"lng":"31.200284",
+	"enName":"82 Wadi El Nil St., Mohandeseen, Giza"
+}
+	]
+}]}

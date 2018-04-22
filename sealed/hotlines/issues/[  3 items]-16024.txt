@@ -1,0 +1,75 @@
+{"items":[{	"arName":"الشركة الوطنية للاستثمارات العقارية",
+	"enName":"El Wataneya Co. For Real Estate Investment",
+	"hotline":"16024",
+	"facebook":"http://www.facebook.com/evergreen6ofoctober",
+	"web":"http://www.evergreen6ofoctober.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"187480",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wataneya-co.-for-real-estate-investment/187480?b=2&k=16024&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"157987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-wataneya-co.-for-real-estate-investment/157987?b=1&k=16024&l=search",
+	"arName":"22 برج فؤاد الادارى - ش انس بن مالك متفرع من ش عمر بن عبد العزيز - الدور 2, المهندسين, الجيزة",
+	"lat":"30.048791999999999",
+	"lng":"31.195128",
+	"enName":"22 Fouad Administrative Tower, Anas Ibn Malek St. Off Omar Ibn Abdel Aziz st., Floor 2, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"ايفر جرين",
+	"enName":"Ever Green",
+	"hotline":"16024",
+	"facebook":"http://www.facebook.com/evergreen6ofoctober",
+	"web":"http://www.evergreen6ofoctober.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"374721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ever-green/374721?b=3&k=16024&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.938313000000001",
+	"lng":"31.059329999999999",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}, {	"arName":"مودكو - الشركة الحديثة للاستثمار والتنمية العقارية",
+	"enName":"Modco Investment & Real Estate Development",
+	"hotline":"16024",
+	"facebook":"http://www.facebook.com/evergreen6ofoctober",
+	"web":"http://www.evergreen6ofoctober.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"306109",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modco-investment-&-real-estate-development/306109?b=5&k=16024&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"306104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modco-investment-&-real-estate-development/306104?b=4&k=16024&l=search",
+	"arName":"22 ش انس بن مالك متفرع من ش عمر بن عبد العزيز - برج فؤاد الادارى - الدور 2, المهندسين, الجيزة",
+	"lat":"30.049655999999999",
+	"lng":"31.195611",
+	"enName":"22 Anas Ibn Malek St. Off Omar Ibn Abdel Aziz St., Fouad Administrative Tower, Floor 2, Mohandeseen, Giza"
+}
+	]
+}]}

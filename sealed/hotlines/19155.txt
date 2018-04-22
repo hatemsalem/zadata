@@ -1,0 +1,28 @@
+{"items":[{	"arName":"كايرو انترناشيونال تاكسى - سى اى تى",
+	"enName":"Cairo International Taxi - CIT",
+	"hotline":"19155",
+	"facebook":"",
+	"web":"http://www.citaxi.com/",
+	"arCategory":[
+		"تاكسى"
+	],
+	"enCategories":[
+		"Taxies"
+	],
+	"contacts":[
+		{	"profileId":"119678",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-international-taxi-_-cit/119678?b=2&k=19155&l=search",
+	"arName":"3 ش محمد كريم متفرع من ش احمد فخرى, الحى السادس, مدينة نصر, القاهرة",
+	"lat":"30.066936999999999",
+	"lng":"31.350784999999998",
+	"enName":"3 Mohamed Korayem St. Off Ahmed Fakhry St., 6th District, Nasr city, Cairo"
+},
+		{	"profileId":"125994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-international-taxi-_-cit/125994?b=1&k=19155&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

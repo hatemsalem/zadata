@@ -1,0 +1,21 @@
+{"items":[{	"arName":"امان",
+	"enName":"Aman",
+	"hotline":"16374",
+	"facebook":"http://www.facebook.com/AMAN.epayments",
+	"web":"http://www.aman.network/",
+	"arCategory":[
+		"تحصيل وكالات"
+	],
+	"enCategories":[
+		"Collection Agencies"
+	],
+	"contacts":[
+		{	"profileId":"569155",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569155?b=1&k=16374&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}]}

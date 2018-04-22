@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سابر ترافل نتورك",
+	"enName":"Sabre Travel Network",
+	"hotline":"16778",
+	"facebook":"http://www.facebook.com/SabreTravel",
+	"web":"http://www.sabretravelnetwork.com/",
+	"arCategory":[
+		"كمبيوتر انظمة متكاملة وحلول"
+	],
+	"enCategories":[
+		"Computer Integrated Systems & Solutions"
+	],
+	"contacts":[
+		{	"profileId":"231923",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sabre-travel-network/231923?b=1&k=16778&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"456317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sabre-travel-network/456317?b=2&k=16778&l=search",
+	"arName":"ستار كابيتال 8 - ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073443699999999",
+	"lng":"31.345967900000002",
+	"enName":"Star Capital 8, Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

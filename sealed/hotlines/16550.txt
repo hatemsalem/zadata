@@ -1,0 +1,86 @@
+{"items":[{	"arName":"تويوتا مصر",
+	"enName":"Toyota Misr",
+	"hotline":"16550",
+	"facebook":"http://www.facebook.com/toyotaegypt",
+	"web":"http://www.toyotaegypt.com.eg/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة",
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars",
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"111987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/111987?b=1&k=16550&l=search",
+	"arName":"13 ابراج اغاخان -, شبرا, القاهرة",
+	"lat":"30.103337",
+	"lng":"31.244130999999999",
+	"enName":"13 Aghakhan Towers,, Shoubra, Cairo"
+},
+		{	"profileId":"149733",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/149733?b=8&k=16550&l=search",
+	"arName":"ش السلطان حسين, حى الشرق, بور سعيد",
+	"lat":"31.268319999999999",
+	"lng":"32.316414000000002",
+	"enName":"El Sultan Hussein St., El shark district, Port said"
+},
+		{	"profileId":"110330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/110330?b=9&k=16550&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.168714000000001",
+	"lng":"29.935544",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"141238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/141238?b=3&k=16550&l=search",
+	"arName":"خدمة العملاء, عباسية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Abbasseya, Cairo"
+},
+		{	"profileId":"127136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/127136?b=7&k=16550&l=search",
+	"arName":"المنطقة الصناعية, محرم بك, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Industrial Zone, Moharram bey, Alexandria"
+},
+		{	"profileId":"127135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/127135?b=5&k=16550&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى - المنطقة الصناعية, ابو رواش, الجيزة",
+	"lat":"30.078541000000001",
+	"lng":"31.049835999999999",
+	"enName":"Km 28, Cairo Alex Desert Rd., Industrial Zone, Abou rawash, Giza"
+},
+		{	"profileId":"46959",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/46959?b=4&k=16550&l=search",
+	"arName":"10 ش المستشفى اليونانى, عباسية, القاهرة",
+	"lat":"30.0639",
+	"lng":"31.281300000000002",
+	"enName":"10 El Mostashfa El Younany St., Abbasseya, Cairo"
+},
+		{	"profileId":"440541",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/440541?b=10&k=16550&l=search",
+	"arName":"امتداد ش محمد على, نفيشة, الاسماعيلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Extension Of Mohamed Aly St., Nefesha, Ismaileya"
+},
+		{	"profileId":"287352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/287352?b=2&k=16550&l=search",
+	"arName":"الطريق الدائرى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.029337000000002",
+	"lng":"31.4049017",
+	"enName":"Ring Rd., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"460233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/toyota-misr/460233?b=6&k=16550&l=search",
+	"arName":"الطريق الاقليمى - المنطقة الصناعية السابعة, مدينة السادات, المنوفية",
+	"lat":"",
+	"lng":"",
+	"enName":"Regional Rd., 7th Industrial Zone, Sadat city, El monofeya"
+}
+	]
+}]}

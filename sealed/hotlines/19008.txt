@@ -1,0 +1,56 @@
+{"items":[{	"arName":"صيدليات الليثى",
+	"enName":"Lithy Pharmacies",
+	"hotline":"19008",
+	"facebook":"http://www.facebook.com/elleithy.pharma",
+	"web":"http://www.lithypharmacy.com/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"189584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lithy-pharmacies/189584?b=1&k=19008&l=search",
+	"arName":"9 ش الخليفة, السيدة زينب, القاهرة",
+	"lat":"30.025953999999999",
+	"lng":"31.251954000000001",
+	"enName":"9 El Khalifa St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"167589",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lithy-pharmacies/167589?b=3&k=19008&l=search",
+	"arName":"127 ش محمد فريد - برج البستان, عابدين, القاهرة",
+	"lat":"30.045642000000001",
+	"lng":"31.244150999999999",
+	"enName":"127 Mohamed Farid St., El Bostan Tower, Abdin, Cairo"
+},
+		{	"profileId":"389931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lithy-pharmacies/389931?b=5&k=19008&l=search",
+	"arName":"2 ش التحرير تقاطع ش السودان, الدقى, الجيزة",
+	"lat":"30.035630000000001",
+	"lng":"31.198387",
+	"enName":"2 El Tahrir St. Intersection Of Sudan St., Dokki, Giza"
+},
+		{	"profileId":"75940",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lithy-pharmacies/75940?b=4&k=19008&l=search",
+	"arName":"131 ش التحرير, الدقى, الجيزة",
+	"lat":"30.038979000000001",
+	"lng":"31.215461000000001",
+	"enName":"131 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"17524",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lithy-pharmacies/17524?b=2&k=19008&l=search",
+	"arName":"28 ش محمد مظهر, الزمالك, القاهرة",
+	"lat":"30.066875",
+	"lng":"31.222232999999999",
+	"enName":"28 Mohamed Mazhar St., Zamalek, Cairo"
+},
+		{	"profileId":"107838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lithy-pharmacies/107838?b=6&k=19008&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Dokki, Giza"
+}
+	]
+}]}

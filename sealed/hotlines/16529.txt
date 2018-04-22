@@ -1,0 +1,28 @@
+{"items":[{	"arName":"عكاظ للوساطة المالية والاستثمار",
+	"enName":"Okaz Stockbrokers & Investment Consultants",
+	"hotline":"16529",
+	"facebook":"",
+	"web":"http://www.okazinvest.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"22098",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/okaz-stockbrokers-&-investment-consultants/22098?b=2&k=16529&l=search",
+	"arName":"35 ش عماد الدين - الدور 1, وسط البلد, القاهرة",
+	"lat":"30.058931000000001",
+	"lng":"31.244962999999998",
+	"enName":"35 Emad El Din St., Floor 1, Downtown, Cairo"
+},
+		{	"profileId":"187542",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/okaz-stockbrokers-&-investment-consultants/187542?b=1&k=16529&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

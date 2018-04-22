@@ -1,0 +1,88 @@
+{"items":[{	"arName":"شاورمة ابو مازن السورية الاصلى",
+	"enName":"Shawerma Abou Mazen El Soureya El Asly",
+	"hotline":"19675",
+	"facebook":"http://www.facebook.com/AbouMazenRestaurant",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"454909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/454909?b=8&k=19675&l=search",
+	"arName":"2 عمارات شباب المهندسين - طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.069785",
+	"lng":"31.343313999999999",
+	"enName":"2 Shabab El Mohandeseen Bldgs., El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"578889",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/578889?b=1&k=19675&l=search",
+	"arName":"السوق القديم, مدينة الرحاب, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Old Market, Al rehab city, Cairo"
+},
+		{	"profileId":"578887",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/578887?b=7&k=19675&l=search",
+	"arName":"القطعة 82 - ش اخناتون - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.003406999999999",
+	"lng":"31.421278000000001",
+	"enName":"Plot 82, Ekhnatoun St., 1St District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"454915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/454915?b=10&k=19675&l=search",
+	"arName":"120 ش مصر والسودان, حدائق القبة, القاهرة",
+	"lat":"30.084499999999998",
+	"lng":"31.2822",
+	"enName":"120 Misr & Sudan St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"94228",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/94228?b=2&k=19675&l=search",
+	"arName":"16 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.054244000000001",
+	"lng":"31.340541000000002",
+	"enName":"16 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"520310",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/520310?b=4&k=19675&l=search",
+	"arName":"227 ش شبرا, شبرا, القاهرة",
+	"lat":"30.091161",
+	"lng":"31.245387000000001",
+	"enName":"227 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"289817",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/289817?b=9&k=19675&l=search",
+	"arName":"3 أ ش دمشق متفرع من ش ابراهيم اللقانى, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.092525999999999",
+	"lng":"31.318805000000001",
+	"enName":"3 A Demascus St. Off Ibrahim El Laqqany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"578890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/578890?b=5&k=19675&l=search",
+	"arName":"386 ش احمد الزمر, الحى العاشر, مدينة نصر, القاهرة",
+	"lat":"30.048559999999998",
+	"lng":"31.3766",
+	"enName":"386 Ahmed El Zomor St., 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"444166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/444166?b=3&k=19675&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+},
+		{	"profileId":"415870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawerma-abou-mazen-el-soureya-el-asly/415870?b=6&k=19675&l=search",
+	"arName":"420 ش 9, المقطم, القاهرة",
+	"lat":"30.013983",
+	"lng":"31.286579",
+	"enName":"420 Rd. 9, Mokattam, Cairo"
+}
+	]
+}]}

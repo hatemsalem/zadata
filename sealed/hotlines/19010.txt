@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الاطباء المتضامنون لادارة النظم الطبية",
+	"enName":"Allied Doctors Medical System Administrators",
+	"hotline":"19010",
+	"facebook":"",
+	"web":"http://www.allied-doctors.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"132220",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/allied-doctors-medical-system-administrators/132220?b=2&k=19010&l=search",
+	"arName":"132 ش النيل, العجوزة, الجيزة",
+	"lat":"30.0472",
+	"lng":"31.2179",
+	"enName":"132 El Nil St., Agouza, Giza"
+},
+		{	"profileId":"98728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/allied-doctors-medical-system-administrators/98728?b=3&k=19010&l=search",
+	"arName":"15 / 6 المجاورة 14, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"29.990725000000001",
+	"lng":"30.962971",
+	"enName":"15 / 6 Neighbourhood 14, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"180621",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/allied-doctors-medical-system-administrators/180621?b=1&k=19010&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}]}

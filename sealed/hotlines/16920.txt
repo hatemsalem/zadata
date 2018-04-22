@@ -1,0 +1,123 @@
+{"items":[{	"arName":"كشرى سيد حنفى",
+	"enName":"Koshary Sayed Hanafy",
+	"hotline":"16920",
+	"facebook":"http://www.facebook.com/kosharysayedhanafy",
+	"web":"http://www.sayedhanafy.com/",
+	"arCategory":[
+		"كشرى",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Koshari",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"463901",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/463901?b=10&k=16920&l=search",
+	"arName":"ش 26 يوليو, وسط البلد, القاهرة",
+	"lat":"30.053163999999999",
+	"lng":"31.239967",
+	"enName":"26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"463900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/463900?b=12&k=16920&l=search",
+	"arName":"السوق التجارى - محل 63, مدينة الرحاب, القاهرة",
+	"lat":"30.056317",
+	"lng":"31.491783999999999",
+	"enName":"Commercial Market, Shop 63, Al rehab city, Cairo"
+},
+		{	"profileId":"270163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/270163?b=2&k=16920&l=search",
+	"arName":"63 ش صعب صالح متفرع من ش ابراهيم عبد الرازق, عين شمس, القاهرة",
+	"lat":"30.122091000000001",
+	"lng":"31.331437999999999",
+	"enName":"63 Saab Saleh St. Off Ibrahim Abdel Razeq St., Ain shams, Cairo"
+},
+		{	"profileId":"256834",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/256834?b=3&k=16920&l=search",
+	"arName":"26 ش شركات البترول متفرع من ش بورسعيد, الوايلى, القاهرة",
+	"lat":"30.096875000000001",
+	"lng":"31.276668000000001",
+	"enName":"26 Sharekat El Petrol St. Off Port Said St., Wayli, Cairo"
+},
+		{	"profileId":"382132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/382132?b=9&k=16920&l=search",
+	"arName":"3 ش السواح, الاميرية, القاهرة",
+	"lat":"30.105443000000001",
+	"lng":"31.291015000000002",
+	"enName":"3 El Sawah St., El amireya, Cairo"
+},
+		{	"profileId":"581538",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/581538?b=8&k=16920&l=search",
+	"arName":"., مدينتى, القاهرة",
+	"lat":"30.083938",
+	"lng":"31.639177",
+	"enName":"., Madinty, Cairo"
+},
+		{	"profileId":"256833",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/256833?b=5&k=16920&l=search",
+	"arName":"3 ش ولى العهد, حدائق القبة, القاهرة",
+	"lat":"30.087160999999998",
+	"lng":"31.283749",
+	"enName":"3 Walley El Ahd St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"256830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/256830?b=14&k=16920&l=search",
+	"arName":"3 مساكن الوايلى الكبير - بلوك 18 - ش داير الناحية متفرع من ش بورسعيد, الوايلى, القاهرة",
+	"lat":"30.092939000000001",
+	"lng":"31.276990999999999",
+	"enName":"3 El Waily El Kabir Bldgs., Block 18, Dayer El Nahya St. Off Port Said St., Wayli, Cairo"
+},
+		{	"profileId":"495619",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/495619?b=7&k=16920&l=search",
+	"arName":"القطعة 37 -, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"29.979446500000002",
+	"lng":"31.434062699999998",
+	"enName":"Plot 37,, 3rd Compound, New cairo, Cairo"
+},
+		{	"profileId":"382123",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/382123?b=15&k=16920&l=search",
+	"arName":"القطعة 36 - - منطقة خدمات التجمع الخامس, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.007548",
+	"lng":"31.426846999999999",
+	"enName":"Plot 36, , 5th Compound Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"454759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/454759?b=6&k=16920&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Downtown, Cairo"
+},
+		{	"profileId":"581541",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/581541?b=4&k=16920&l=search",
+	"arName":"19 عمارات اسكان شباب المهندسين - امتداد ش مكرم عبيد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.070876999999999",
+	"lng":"31.343629",
+	"enName":"19 Iskan Shabab El Mohandeseen Bldgs., Extension Of Makram Ebaid St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"256829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/256829?b=11&k=16920&l=search",
+	"arName":"1 ش الخليج المصرى تقاطع ش سكة الويلى, حدائق القبة, القاهرة",
+	"lat":"30.092600999999998",
+	"lng":"31.277604",
+	"enName":"1 El Khalig El Masry St. Intersection Of Sekket El Waily St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"534802",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/534802?b=13&k=16920&l=search",
+	"arName":"42 ش محمود سلامة تقاطع ش الجزائر, الزاوية الحمراء, القاهرة",
+	"lat":"30.097455",
+	"lng":"31.270482999999999",
+	"enName":"42 Mahmoud Salama St. Intersection Of El Gazaer St., El zawia el hamra, Cairo"
+},
+		{	"profileId":"256828",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/koshary-sayed-hanafy/256828?b=1&k=16920&l=search",
+	"arName":"5 ميدان عرابى - التوفيقية, وسط البلد, القاهرة",
+	"lat":"30.054001",
+	"lng":"31.242637999999999",
+	"enName":"5 Orabi Sq., El Tawfiqeya, Downtown, Cairo"
+}
+	]
+}]}

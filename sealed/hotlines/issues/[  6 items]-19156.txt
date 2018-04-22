@@ -1,0 +1,135 @@
+{"items":[{	"arName":"بورتو مارينا ريزورت اند سبا",
+	"enName":"Porto Marina Resort & Spa",
+	"hotline":"19156",
+	"facebook":"",
+	"web":"pw.gorife.com/Pages/HotelDetails.aspx?HotelID=11",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"172106",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-marina-resort-&-spa/172106?b=3&k=19156&l=search",
+	"arName":"خدمة العملاء, مارينا, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Marina, North coast"
+},
+		{	"profileId":"105429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-marina-resort-&-spa/105429?b=4&k=19156&l=search",
+	"arName":"كم 105 - طريق اسكندرية مطروح الصحراوى - مارينا 3, مارينا, الساحل الشمالى",
+	"lat":"30.825776000000001",
+	"lng":"29.001836999999998",
+	"enName":"Km 105, Alex Matrouh Desert Rd., Marina 3, Marina, North coast"
+}
+	]
+}, {	"arName":"بورتو السخنة بيتش ريزورت اند سبا",
+	"enName":"Porto Sokhna Beach Resort & Spa",
+	"hotline":"19156",
+	"facebook":"http://www.facebook.com/PortoWorld",
+	"web":"http://www.portoworldhotels.com/Pages/HotelDetails.aspx?HotelID=12",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"129475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-sokhna-beach-resort-&-spa/129475?b=6&k=19156&l=search",
+	"arName":"كم 48 - طريق السويس الغردقة - الزعفرانة, العين السخنة, العين السخنة",
+	"lat":"29.445827000000001",
+	"lng":"32.479039",
+	"enName":"Km 48, Suez Hurghada Rd., El Zaafarana, El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"129476",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-sokhna-beach-resort-&-spa/129476?b=7&k=19156&l=search",
+	"arName":"خدمة العملاء, العين السخنة, العين السخنة",
+	"lat":"29.439336000000001",
+	"lng":"32.479019000000001",
+	"enName":"Customer Service, El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"كانكون ريزورت اند سبا",
+	"enName":"Cancun Resort & Spa",
+	"hotline":"19156",
+	"facebook":"http://www.facebook.com/PortoWorld",
+	"web":"http://www.portoworldhotels.com/HotelInner.aspx?HID=6&HLID=71",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"230430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cancun-resort-&-spa/230430?b=1&k=19156&l=search",
+	"arName":"كم 102 - طريق الزعفرانة, العين السخنة, العين السخنة",
+	"lat":"29.283740999999999",
+	"lng":"32.601843000000002",
+	"enName":"Km 102 , El Zaafarana Rd., El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"سكاى مول",
+	"enName":"Sky Mall",
+	"hotline":"19156",
+	"facebook":"",
+	"web":"http://www.amer-group.com/business-segments/malls/sky-mall/aboutmeetingpoint/36",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"466934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sky-mall/466934?b=8&k=19156&l=search",
+	"arName":"كم 48 - طريق السويس الغردقة - الزعفرانة, العين السخنة, العين السخنة",
+	"lat":"29.444386000000002",
+	"lng":"32.480291000000001",
+	"enName":"Km 48, Suez Hurghada Rd., El Zaafarana, El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"بورتو مارينا مول",
+	"enName":"Porto Marina Mall",
+	"hotline":"19156",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"501380",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-marina-mall/501380?b=2&k=19156&l=search",
+	"arName":"كم 105 - طريق اسكندرية مطروح الصحراوى - مارينا 3, مارينا, الساحل الشمالى",
+	"lat":"30.825233000000001",
+	"lng":"29.003799000000001",
+	"enName":"Km 105, Alex Matrouh Desert Rd., Marina 3, Marina, North coast"
+}
+	]
+}, {	"arName":"بورتو مطروح",
+	"enName":"Porto Matrouh",
+	"hotline":"19156",
+	"facebook":"",
+	"web":"http://www.amer-group.com/business-segments/real-estate/porto-matrouh/mainpage/61",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"369854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/porto-matrouh/369854?b=5&k=19156&l=search",
+	"arName":"., حمامات كليوباترا, مرسى مطروح",
+	"lat":"31.3729017",
+	"lng":"27.184377399999999",
+	"enName":"., Hamamat cleopatra, Marsa matrouh"
+}
+	]
+}]}

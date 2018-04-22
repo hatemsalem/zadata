@@ -1,0 +1,21 @@
+{"items":[{	"arName":"اراب جروب",
+	"enName":"Arab Group",
+	"hotline":"19168",
+	"facebook":"http://www.facebook.com/pages/Arab-Group-Co/510754115638812",
+	"web":"http://www.arabgroupms.com/",
+	"arCategory":[
+		"ادوات مكتبية"
+	],
+	"enCategories":[
+		"Stationery"
+	],
+	"contacts":[
+		{	"profileId":"58938",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-group/58938?b=1&k=19168&l=search",
+	"arName":"13 ش 298, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.979500000000002",
+	"lng":"31.280899999999999",
+	"enName":"13 Rd. 298, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

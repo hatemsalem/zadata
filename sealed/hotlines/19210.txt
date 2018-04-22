@@ -1,0 +1,28 @@
+{"items":[{	"arName":"لايف بارك",
+	"enName":"Life Park",
+	"hotline":"19210",
+	"facebook":"http://www.facebook.com/Lifeparkegypt/?fref=ts",
+	"web":"http://www.lifeparkegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"479157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-park/479157?b=1&k=19210&l=search",
+	"arName":"., الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.053574999999999",
+	"lng":"31.028452000000001",
+	"enName":"., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"495605",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-park/495605?b=2&k=19210&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

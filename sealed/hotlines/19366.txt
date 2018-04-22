@@ -1,0 +1,21 @@
+{"items":[{	"arName":"يا دكتورى",
+	"enName":"Ya Doctory",
+	"hotline":"19366",
+	"facebook":"http://www.facebook.com/YaDoctory-1828342220785782",
+	"web":"http://www.yadoctory.com/",
+	"arCategory":[
+		"خدمات واستشارات طبية"
+	],
+	"enCategories":[
+		"Healthcare Services & Consultancy"
+	],
+	"contacts":[
+		{	"profileId":"563331",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ya-doctory/563331?b=1&k=19366&l=search",
+	"arName":"خدمات طبية اون لاين, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Online Medical Services, Heliopolis, Cairo"
+}
+	]
+}]}

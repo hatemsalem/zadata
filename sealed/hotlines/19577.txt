@@ -1,0 +1,53 @@
+{"items":[{	"arName":"بيتزا ماستر",
+	"enName":"Pizza Master",
+	"hotline":"19577",
+	"facebook":"http://www.facebook.com/pizza.master.Official",
+	"web":"",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"250780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-master/250780?b=5&k=19577&l=search",
+	"arName":"192 ش فيصل, الطوابق, فيصل, الجيزة",
+	"lat":"29.998107999999998",
+	"lng":"31.158501000000001",
+	"enName":"192 Faisal St., El Tawabeq, Faisal, Giza"
+},
+		{	"profileId":"250795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-master/250795?b=2&k=19577&l=search",
+	"arName":"4 ش غرناطة متفرع من ش الحجاز, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.093371000000001",
+	"lng":"31.317256",
+	"enName":"4 Ghernata St. Off El Hegaz St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"407251",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-master/407251?b=4&k=19577&l=search",
+	"arName":"59 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"lat":"30.118682",
+	"lng":"31.350349999999999",
+	"enName":"59 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"250775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-master/250775?b=3&k=19577&l=search",
+	"arName":"4 ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.067326999999999",
+	"lng":"31.336701999999999",
+	"enName":"4 Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"193032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-master/193032?b=1&k=19577&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+}
+	]
+}]}

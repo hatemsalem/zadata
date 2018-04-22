@@ -1,0 +1,63 @@
+{"items":[{	"arName":"ايه ام جى - الغلبان جروب",
+	"enName":"AMG - El Ghalban Group",
+	"hotline":"19025",
+	"facebook":"http://www.facebook.com/pages/AMG-Auto-Market-Group/796339490460882",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"461060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/461060?b=5&k=19025&l=search",
+	"arName":"امتداد ش جيهان - حى الجامعة, المنصورة, الدقهلية",
+	"lat":"31.035834000000001",
+	"lng":"31.359296000000001",
+	"enName":"Extension Of Gihan St., El Gamaa District, El mansoura, El dakahleya"
+},
+		{	"profileId":"461075",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/461075?b=4&k=19025&l=search",
+	"arName":"خدمة العملاء, الهايكستب, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Highkestep, Cairo"
+},
+		{	"profileId":"447309",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/447309?b=2&k=19025&l=search",
+	"arName":"كم 19 - طريق مصر اسماعيلية الصحراوى, الهايكستب, القاهرة",
+	"lat":"30.145305",
+	"lng":"31.412299000000001",
+	"enName":"Km 19, Misr Ismaileya Desert Rd., Highkestep, Cairo"
+},
+		{	"profileId":"461050",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/461050?b=7&k=19025&l=search",
+	"arName":"129 ش الجمهورية, المنصورة, الدقهلية",
+	"lat":"31.046847",
+	"lng":"31.377908000000001",
+	"enName":"129 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"133173",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/133173?b=6&k=19025&l=search",
+	"arName":"42 ش عبد السلام عارف, المنصورة, الدقهلية",
+	"lat":"31.031029",
+	"lng":"31.377851",
+	"enName":"42 Abdel Salam Aref St., El mansoura, El dakahleya"
+},
+		{	"profileId":"45294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/45294?b=1&k=19025&l=search",
+	"arName":"1377 ابراج اغاخان - كورنيش النيل, شبرا, القاهرة",
+	"lat":"30.103354",
+	"lng":"31.244087",
+	"enName":"1377 Aghakhan Towers, Corniche El Nil, Shoubra, Cairo"
+},
+		{	"profileId":"461044",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amg-_-el-ghalban-group/461044?b=3&k=19025&l=search",
+	"arName":"74 ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.084705",
+	"lng":"31.326898",
+	"enName":"74 El Merghany St., Heliopolis, Cairo"
+}
+	]
+}]}

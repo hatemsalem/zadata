@@ -1,0 +1,35 @@
+{"items":[{	"arName":"املاك للاستثمار العقارى",
+	"enName":"Amlak For Real Estate Investment",
+	"hotline":"16647",
+	"facebook":"",
+	"web":"http://www.amlakegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"130274",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amlak-for-real-estate-investment/130274?b=3&k=16647&l=search",
+	"arName":"محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.0249956",
+	"lng":"31.013203900000001",
+	"enName":"26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"480107",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amlak-for-real-estate-investment/480107?b=1&k=16647&l=search",
+	"arName":"فيلا 230 - ش التسعين - جنوب الاكاديمية أ - الدور 2, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.021916999999998",
+	"lng":"31.419640000000001",
+	"enName":"Villa 230, EL Tesaeen St., South Academy A, Floor 2, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"392966",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amlak-for-real-estate-investment/392966?b=2&k=16647&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

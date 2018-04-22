@@ -1,0 +1,236 @@
+{"items":[{	"arName":"مظلوم هوم",
+	"enName":"Mazloum Home",
+	"hotline":"19744",
+	"facebook":"http://www.facebook.com/mazloumhome",
+	"web":"http://www.mazloumhome.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"479520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/479520?b=19&k=19744&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"431565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/431565?b=23&k=19744&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"lat":"29.982722299999999",
+	"lng":"31.339874300000002",
+	"enName":"Ring Rd., El katameya, Cairo"
+},
+		{	"profileId":"431701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/431701?b=22&k=19744&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"443149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/443149?b=20&k=19744&l=search",
+	"arName":"1 ش محمد تيمور, سانت فاتيما, مصر الجديدة, القاهرة",
+	"lat":"30.106317000000001",
+	"lng":"31.345236",
+	"enName":"1 Mohamed Taimour St., Saint Fatima, Heliopolis, Cairo"
+},
+		{	"profileId":"451729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/451729?b=21&k=19744&l=search",
+	"arName":"21 ش المنصور محمد, الزمالك, القاهرة",
+	"lat":"30.063700000000001",
+	"lng":"31.218299999999999",
+	"enName":"21 El Mansour Mohamed St., Zamalek, Cairo"
+},
+		{	"profileId":"492250",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/492250?b=26&k=19744&l=search",
+	"arName":"17 ش مصدق, الدقى, الجيزة",
+	"lat":"30.040395",
+	"lng":"31.208725000000001",
+	"enName":"17 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"473534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/473534?b=25&k=19744&l=search",
+	"arName":"40 محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.016601000000001",
+	"lng":"31.001058",
+	"enName":"40 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"431574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/431574?b=27&k=19744&l=search",
+	"arName":"75 ش اسماعيل سرى ميدان عزبة سعد, سموحة, الاسكندرية",
+	"lat":"31.208276000000001",
+	"lng":"29.941298",
+	"enName":"75 Ismail Serry St. Ezbet Saad Sq., Semouha, Alexandria"
+},
+		{	"profileId":"431577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/431577?b=28&k=19744&l=search",
+	"arName":"242 ش عبد السلام عارف, لوران, الاسكندرية",
+	"lat":"31.251050500000002",
+	"lng":"29.973251000000001",
+	"enName":"242 Abdel Salam Aref St., Loran, Alexandria"
+},
+		{	"profileId":"431583",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum-home/431583?b=24&k=19744&l=search",
+	"arName":"خدمة العملاء, القطامية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El katameya, Cairo"
+}
+	]
+}, {	"arName":"مظلوم",
+	"enName":"Mazloum",
+	"hotline":"19744",
+	"facebook":"http://www.facebook.com/MazloumGroup",
+	"web":"http://www.mazloumtiles.com/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"483128",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/483128?b=17&k=19744&l=search",
+	"arName":"طريق بنها المنصورة - كفر شكر, بنها, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Banha El Mansoura Rd., Kafr Shokr, Banha, Kaliobeya"
+},
+		{	"profileId":"116427",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/116427?b=12&k=19744&l=search",
+	"arName":"183 ش احمد شوقى, رشدى, الاسكندرية",
+	"lat":"31.230008999999999",
+	"lng":"29.953564",
+	"enName":"183 Ahmed Shawky St., Roushdy, Alexandria"
+},
+		{	"profileId":"465537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/465537?b=15&k=19744&l=search",
+	"arName":"17 ش مصدق, الدقى, الجيزة",
+	"lat":"30.040395",
+	"lng":"31.208725000000001",
+	"enName":"17 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"116429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/116429?b=7&k=19744&l=search",
+	"arName":"242 ش عبد السلام عارف, لوران, الاسكندرية",
+	"lat":"31.250695",
+	"lng":"29.972633999999999",
+	"enName":"242 Abdel Salam Aref St., Loran, Alexandria"
+},
+		{	"profileId":"388741",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/388741?b=14&k=19744&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"140733",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/140733?b=6&k=19744&l=search",
+	"arName":"طريق المحمودية, خورشيد, الاسكندرية",
+	"lat":"31.203797000000002",
+	"lng":"30.024370999999999",
+	"enName":"El Mahmoudeya Rd., Khorshid, Alexandria"
+},
+		{	"profileId":"140735",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/140735?b=4&k=19744&l=search",
+	"arName":"خدمة العملاء, عين شمس الشرقية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"564168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/564168?b=18&k=19744&l=search",
+	"arName":"محور 26 يوليو - صفوة سيتى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.014538999999999",
+	"lng":"31.004491000000002",
+	"enName":"26th Of July Spine, Safwa City, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"429492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/429492?b=3&k=19744&l=search",
+	"arName":"سوق المهاجرين, عين شمس الشرقية, القاهرة",
+	"lat":"30.138052999999999",
+	"lng":"31.338039999999999",
+	"enName":"EL Mohagreen Market, Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"573933",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/573933?b=10&k=19744&l=search",
+	"arName":"طريق القاهرة بلبيس الصحراوى, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Cairo Belbais Desert Rd., Obour city, Kaliobeya"
+},
+		{	"profileId":"501506",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/501506?b=8&k=19744&l=search",
+	"arName":"كم 23 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 23,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"421250",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/421250?b=16&k=19744&l=search",
+	"arName":"طريق القاهرة اسكندرية الزراعى - دفره, طنطا, الغربية",
+	"lat":"30.728003000000001",
+	"lng":"31.029741000000001",
+	"enName":"Cairo Alex Agricultural Rd., Defra, Tanta, El gharbeya"
+},
+		{	"profileId":"205304",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/205304?b=9&k=19744&l=search",
+	"arName":"75 ش اسماعيل سرى ميدان عزبة سعد, سموحة, الاسكندرية",
+	"lat":"31.208276000000001",
+	"lng":"29.941298",
+	"enName":"75 Ismail Serry St. Ezbet Saad Sq., Semouha, Alexandria"
+},
+		{	"profileId":"205310",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/205310?b=5&k=19744&l=search",
+	"arName":"6 ش منظرة اللؤلؤة متفرع من ش الظاهر, الفجالة, القاهرة",
+	"lat":"30.060556999999999",
+	"lng":"31.252659000000001",
+	"enName":"6 Manzaret El Loualoaa St. Off El Zaher St., Faggala, Cairo"
+},
+		{	"profileId":"116422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/116422?b=11&k=19744&l=search",
+	"arName":"34 ش جلال حماد متفرع من ش جمال عبد الناصر, ميامى, الاسكندرية",
+	"lat":"31.262219000000002",
+	"lng":"29.994446",
+	"enName":"34 Galal Hammad St. Off Gamal Abdel Nasser St., Miami, Alexandria"
+},
+		{	"profileId":"138212",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/138212?b=13&k=19744&l=search",
+	"arName":"5 ش الشيخ على يوسف متفرع من ش ابى الدرداء, اللبان, الاسكندرية",
+	"lat":"31.192229000000001",
+	"lng":"29.895861",
+	"enName":"5 El Sheikh Aly Youssef St. Off Abi El Dardaa St., Al laban, Alexandria"
+},
+		{	"profileId":"198125",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mazloum/198125?b=2&k=19744&l=search",
+	"arName":"54 ش حبيب شلبى, الظاهر, القاهرة",
+	"lat":"30.060407000000001",
+	"lng":"31.252680999999999",
+	"enName":"54 Habib Shalaby St., El zaher, Cairo"
+}
+	]
+}, {	"arName":"المظلوم للتجارة والتوكيلات",
+	"enName":"El Mazloum For Trade & Agencies",
+	"hotline":"19744",
+	"facebook":"",
+	"web":"http://www.mazloumhome.com/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"116425",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mazloum-for-trade-&-agencies/116425?b=1&k=19744&l=search",
+	"arName":"ش عطية الصوالحى امتداد ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.051110999999999",
+	"lng":"31.349364000000001",
+	"enName":"Atteya El Sawalhy St. Extension Of Makram Ebaid St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

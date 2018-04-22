@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بروجيت للحلول العقارية المتكاملة",
+	"enName":"Progate Integrated Property Solutions",
+	"hotline":"16571",
+	"facebook":"http://www.facebook.com/progate",
+	"web":"http://www.progate.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"467221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/progate-integrated-property-solutions/467221?b=2&k=16571&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"263601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/progate-integrated-property-solutions/263601?b=1&k=16571&l=search",
+	"arName":"5 ش عمر بن الخطاب, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.100086999999998",
+	"lng":"31.332763",
+	"enName":"5 Omar Ibn El Khattab St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

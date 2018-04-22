@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شركة صحارى للمشروبات - اكوا سكاى",
+	"enName":"Sahara Beverages Co . - Aqua Sky",
+	"hotline":"19536",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مياه معبئة (معدنية)"
+	],
+	"enCategories":[
+		"Water Bottled & Bulk"
+	],
+	"contacts":[
+		{	"profileId":"417257",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sahara-beverages-co-.-_-aqua-sky/417257?b=1&k=19536&l=search",
+	"arName":"227 ِش الحجاز, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.115864999999999",
+	"lng":"31.352979000000001",
+	"enName":"227 El Hegaz St., Hegaz Square, Heliopolis, Cairo"
+}
+	]
+}]}

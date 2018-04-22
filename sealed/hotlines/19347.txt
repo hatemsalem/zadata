@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الاهرام للمشروبات",
+	"enName":"Al Ahram Beverages",
+	"hotline":"19347",
+	"facebook":"",
+	"web":"http://www.alahrambeverages.com/",
+	"arCategory":[
+		"مشروبات مصنعون"
+	],
+	"enCategories":[
+		"Beverage Industry"
+	],
+	"contacts":[
+		{	"profileId":"577448",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-beverages/577448?b=2&k=19347&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"5093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-beverages/5093?b=1&k=19347&l=search",
+	"arName":"القطعة 11 - بلوك 12003 - - المنطقة الصناعية أ, مدينة العبور, القليوبية",
+	"lat":"30.201025000000001",
+	"lng":"31.440137",
+	"enName":"Plot 11, Block 12003, , Industrial Zone A, Obour city, Kaliobeya"
+}
+	]
+}]}

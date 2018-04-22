@@ -1,0 +1,41 @@
+{"items":[{	"arName":"حضرموت والسمار",
+	"enName":"Hadramawt & Al Sammar",
+	"hotline":"19179",
+	"facebook":"http://www.facebook.com/pages/%D8%AD%D8%B6%D8%B1-%D9%85%D9%88%D8%AA-%D9%88%D8%A7%D9%84%D8%B3%D9%85%D8%A7%D8%B1/201520933371788",
+	"web":"",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم خليجية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Gulf Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"94466",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramawt-&-al-sammar/94466?b=3&k=19179&l=search",
+	"arName":"18 مساكن جامعة الدول العربية - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.046319",
+	"lng":"31.195865000000001",
+	"enName":"18 Gamaet El Dewal El Arabeya Bldgs., Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"465672",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramawt-&-al-sammar/465672?b=2&k=19179&l=search",
+	"arName":"المحور المركزى - المجاورة الاولى - عمارة 93, الحى الثانى, السادس من اكتوبر, الجيزة",
+	"lat":"29.969550999999999",
+	"lng":"30.940912000000001",
+	"enName":"Central Spine, 1St Neighbourhood, Bldg. 93, 2nd District, 6th of october, Giza"
+},
+		{	"profileId":"392869",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramawt-&-al-sammar/392869?b=1&k=19179&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+}
+	]
+}]}

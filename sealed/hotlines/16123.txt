@@ -1,0 +1,42 @@
+{"items":[{	"arName":"كامينا برودكتس كوربوريشن",
+	"enName":"Kamena Products Corporation",
+	"hotline":"16123",
+	"facebook":"",
+	"web":"http://www.kamena.com/",
+	"arCategory":[
+		"مكسبات طعم ورائحة ولون وزيوت عطرية"
+	],
+	"enCategories":[
+		"Flavors, Fragrances, Coloring Extracts & Essential Oils"
+	],
+	"contacts":[
+		{	"profileId":"217090",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kamena-products-corporation/217090?b=3&k=16123&l=search",
+	"arName":"7 ش مقبل باشا - الدور 1, جليم, الاسكندرية",
+	"lat":"31.239702000000001",
+	"lng":"29.957792999999999",
+	"enName":"7 Moqbel Pasha St., Floor 1, Glim, Alexandria"
+},
+		{	"profileId":"49464",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kamena-products-corporation/49464?b=1&k=16123&l=search",
+	"arName":"طريق كفر طهرمس, الطالبية, فيصل, الجيزة",
+	"lat":"30.016663999999999",
+	"lng":"31.174185000000001",
+	"enName":"Kafr Tohormos Rd., El Talbeya, Faisal, Giza"
+},
+		{	"profileId":"187386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kamena-products-corporation/187386?b=2&k=16123&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, فيصل, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Faisal, Giza"
+},
+		{	"profileId":"393071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kamena-products-corporation/393071?b=4&k=16123&l=search",
+	"arName":"24 ش ابن الفارض تقاطع ش غياث الدين, طنطا, الغربية",
+	"lat":"30.789925700000001",
+	"lng":"30.984605200000001",
+	"enName":"24 Ibn El Fared St. Intersection Of Ghayath El Din St., Tanta, El gharbeya"
+}
+	]
+}]}

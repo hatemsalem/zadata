@@ -1,0 +1,110 @@
+{"items":[{	"arName":"المجموعة البافارية للسيارات",
+	"enName":"Bavarian Auto Group",
+	"hotline":"19269",
+	"facebook":"",
+	"web":"http://www.bmw-eg.com/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة",
+		"سيارات - مراكز اصلاح وخدمات ومعدات",
+		"سيارات - مصنعون ومجمعون",
+		"سيارات - قطع غيار وكماليات"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars",
+		"Cars - Repairing & Servicing Equipment",
+		"Cars - Manufacturers & Assemblers",
+		"Cars - Parts & Accessories"
+	],
+	"contacts":[
+		{	"profileId":"136758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/136758?b=6&k=19269&l=search",
+	"arName":"37 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.050825",
+	"lng":"31.199007000000002",
+	"enName":"37 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"212094",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/212094?b=1&k=19269&l=search",
+	"arName":"القطعة 258 - - حى الملتقى العربى, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.083449000000002",
+	"lng":"31.364163000000001",
+	"enName":"Plot 258, , El Moltaqa El Araby District, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"179728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/179728?b=9&k=19269&l=search",
+	"arName":"كم 3 - القطعة 31 -, ابو رواش, الجيزة",
+	"lat":"30.064261999999999",
+	"lng":"31.029413999999999",
+	"enName":"Km 3, Plot 31,, Abou rawash, Giza"
+},
+		{	"profileId":"513146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/513146?b=4&k=19269&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.016341000000001",
+	"lng":"31.425457999999999",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"226760",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/226760?b=7&k=19269&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.059446000000001",
+	"lng":"31.033566",
+	"enName":"Km 28 , Cairo Alex Desert Rd., Cairo alex desert rd., Giza"
+},
+		{	"profileId":"352166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/352166?b=8&k=19269&l=search",
+	"arName":"سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.058038",
+	"lng":"31.204944999999999",
+	"enName":"El Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"187016",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/187016?b=2&k=19269&l=search",
+	"arName":"خدمة العملاء, القطامية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, El katameya, Cairo"
+},
+		{	"profileId":"126233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/126233?b=5&k=19269&l=search",
+	"arName":"كم 1 -, ابيس, الاسكندرية",
+	"lat":"31.203468999999998",
+	"lng":"29.982782",
+	"enName":"Km 1,, Abbis, Alexandria"
+},
+		{	"profileId":"120581",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/120581?b=10&k=19269&l=search",
+	"arName":"القطعة 10/1 - - المنطقة الصناعية الرابعة, السادس من اكتوبر, الجيزة",
+	"lat":"29.950407999999999",
+	"lng":"30.890096",
+	"enName":"Plot 1/10, , 4th Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"425928",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/425928?b=3&k=19269&l=search",
+	"arName":"7 ش دمشق, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.092957999999999",
+	"lng":"31.319379000000001",
+	"enName":"7 Demascus St., Roxy, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"خدمة موبايل بى ام دبليو",
+	"enName":"BMW Mobile Services",
+	"hotline":"19269",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اوناش انقاذ"
+	],
+	"enCategories":[
+		"Towing"
+	],
+	"contacts":[
+		{	"profileId":"164900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bmw-mobile-services/164900?b=11&k=19269&l=search",
+	"arName":"خدمة طوارئ, القطامية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, El katameya, Cairo"
+}
+	]
+}]}

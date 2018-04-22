@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الالفى للتكييف",
+	"enName":"Alalfy for Air Condition",
+	"hotline":"19239",
+	"facebook":"http://www.facebook.com/pages/%D8%A7%D9%84%D8%A7%D9%84%D9%81%D9%8A-%D9%84%D9%84%D8%AA%D9%83%D9%8A%D9%81/1598930167042301",
+	"web":"",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"160840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alalfy-for-air-condition/160840?b=1&k=19239&l=search",
+	"arName":"96 ش جسر السويس, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.098465000000001",
+	"lng":"31.314018000000001",
+	"enName":"96 Gesr El Suez St., Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

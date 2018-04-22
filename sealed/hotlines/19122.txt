@@ -1,0 +1,53 @@
+{"items":[{	"arName":"التابعى الدمياطى",
+	"enName":"El Tabei El Domyati",
+	"hotline":"19122",
+	"facebook":"http://www.facebook.com/ElTabei.eg/?fref=ts",
+	"web":"",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"97703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/97703?b=1&k=19122&l=search",
+	"arName":"17 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.054431999999998",
+	"lng":"31.202321000000001",
+	"enName":"17 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"426807",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/426807?b=2&k=19122&l=search",
+	"arName":"طريق الزهراء الرئيسى, زهراء المعادى, المعادى, القاهرة",
+	"lat":"29.960316599999999",
+	"lng":"31.289966400000001",
+	"enName":"El Zahraa Main Rd., Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"83214",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/83214?b=3&k=19122&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"373000",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/373000?b=4&k=19122&l=search",
+	"arName":"مارينا 4, مارينا, الساحل الشمالى",
+	"lat":"30.826829199999999",
+	"lng":"28.983022600000002",
+	"enName":"Marina 4, Marina, North coast"
+},
+		{	"profileId":"190220",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tabei-el-domyati/190220?b=5&k=19122&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+}
+	]
+}]}

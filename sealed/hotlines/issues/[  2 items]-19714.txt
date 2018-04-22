@@ -1,0 +1,48 @@
+{"items":[{	"arName":"نادى القطامية الرياضى",
+	"enName":"Katameya Sporting Club",
+	"hotline":"19714",
+	"facebook":"",
+	"web":"http://www.ksc-club.com/",
+	"arCategory":[
+		"نوادى"
+	],
+	"enCategories":[
+		"Clubs"
+	],
+	"contacts":[
+		{	"profileId":"281698",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/katameya-sporting-club/281698?b=2&k=19714&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"112082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/katameya-sporting-club/112082?b=1&k=19714&l=search",
+	"arName":"القطعة 171 - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.025586000000001",
+	"lng":"31.44885",
+	"enName":"Plot 171, El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ستاد بتروسبورت",
+	"enName":"Petrosport Stadium",
+	"hotline":"19714",
+	"facebook":"",
+	"web":"http://www.petrosport.com/",
+	"arCategory":[
+		"ستاد ومدرجات وصالات مكشوفة"
+	],
+	"enCategories":[
+		"Stadiums, Grandstands & Bleachers"
+	],
+	"contacts":[
+		{	"profileId":"531841",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petrosport-stadium/531841?b=3&k=19714&l=search",
+	"arName":"القطعة 171 - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.027190999999998",
+	"lng":"31.445875000000001",
+	"enName":"Plot 171, El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

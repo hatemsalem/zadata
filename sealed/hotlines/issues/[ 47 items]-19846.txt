@@ -1,0 +1,1039 @@
+{"items":[{	"arName":"مطعم مرجانة",
+	"enName":"Morgana Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink.php",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"43577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/morgana-restaurant/43577?b=24&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"القهوة",
+	"enName":"El Kahwa",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/el-kahwa",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"408768",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kahwa/408768?b=11&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961808000000001",
+	"lng":"34.393090999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سييرا ريزورت شرم الشيخ",
+	"enName":"Sierra Resort Sharm El Sheikh",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/SavoySharmGroup",
+	"web":"http://www.sierra-sharm.com/sierra/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"138832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sierra-resort-sharm-el-sheikh/138832?b=41&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.9644206",
+	"lng":"34.392764399999997",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم زين",
+	"enName":"Zen Restaurant",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/Zen-Chinese-Cuisine-356674667771752",
+	"web":"http://www.soho-sharm.com/sharm-restaurants/zen",
+	"arCategory":[
+		"مطاعم صينية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Chinese Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"196718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zen-restaurant/196718?b=49&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"كيتانو توب بار",
+	"enName":"Kitano Top Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/kitano-top-bar",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"555163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kitano-top-bar/555163?b=17&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.963023",
+	"lng":"34.394311999999999",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"بومباى",
+	"enName":"Bombay",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/Bombay-Indian-Cuisine-562262587128087",
+	"web":"http://www.soho-sharm.com/sharm-restaurants/bombay",
+	"arCategory":[
+		"مطاعم هندية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Indian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"196677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bombay/196677?b=3&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"ايس بار",
+	"enName":"Ice Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/ice-bar",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"215759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ice-bar/215759?b=14&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سوشى بار اند تيبانياكى",
+	"enName":"Sushi Bar & Tepanyaki",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/taste/bars-and-lounges",
+	"arCategory":[
+		"مطاعم يابانية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Japanese Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"215758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sushi-bar-&-tepanyaki/215758?b=46&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"كافيه تشينو",
+	"enName":"Cafe Chino",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/nightlife",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"196670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cafe-chino/196670?b=5&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"لو بالكونى بار",
+	"enName":"Le Balcony Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-bars-savoy.php",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"215755",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/le-balcony-bar/215755?b=20&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"روكى",
+	"enName":"Rocky",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-bars-savoy.php",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"215754",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rocky/215754?b=31&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم ماى تاى",
+	"enName":"Mai Thai Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/taste/bars-and-lounges",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"215757",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mai-thai-restaurant/215757?b=22&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"اواسيز بار",
+	"enName":"Oasis Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/sierra/eat-drink-bars-sierra.php",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"244854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oasis-bar/244854?b=26&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.964846000000001",
+	"lng":"34.392049999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"ماندرين بار",
+	"enName":"Mandarin Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/mandarin-bar",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"408759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mandarin-bar/408759?b=23&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961808000000001",
+	"lng":"34.393090999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"قاعة اجتماعات بريتيش هاوس",
+	"enName":"British House Meeting Room",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.royalsavoy-sharm.com/savoy/meetings-events-wedding-rooms.php",
+	"arCategory":[
+		"مؤتمرات قاعات ومراكز وخدمات المؤتمرات"
+	],
+	"enCategories":[
+		"Convention Centers & Conference Services"
+	],
+	"contacts":[
+		{	"profileId":"555195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/british-house-meeting-room/555195?b=4&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.9613418",
+	"lng":"34.395974000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"قاعة اجتماعات اجيت اند جايد",
+	"enName":"Agate & Jade Meeting Room",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.royalsavoy-sharm.com/savoy/meetings-events-wedding-rooms.php",
+	"arCategory":[
+		"مؤتمرات قاعات ومراكز وخدمات المؤتمرات"
+	],
+	"enCategories":[
+		"Convention Centers & Conference Services"
+	],
+	"contacts":[
+		{	"profileId":"555198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/agate-&-jade-meeting-room/555198?b=1&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.9613418",
+	"lng":"34.395974000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم ماونتن فيو",
+	"enName":"Mountain View Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.sierra-sharm.com/sierra/eat-drink-restaurants-sierra.php",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"143992",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mountain-view-restaurant/143992?b=25&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.964846000000001",
+	"lng":"34.392049999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم ايست",
+	"enName":"East Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-restaurants-savoy.php",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"سوشى"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Sushi"
+	],
+	"contacts":[
+		{	"profileId":"117571",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/east-restaurant/117571?b=9&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سييرا لوبى بار",
+	"enName":"Sierra Lobby Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.sierra-sharm.com/sierra/eat-drink-bars-sierra.php",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"143993",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sierra-lobby-bar/143993?b=40&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.964846000000001",
+	"lng":"34.392049999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سافرون",
+	"enName":"Saffron",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/nightlife",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"196684",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saffron/196684?b=35&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سوهو سكوير",
+	"enName":"Soho Square",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/SOHO.Square.Sharm",
+	"web":"http://www.soho-sharm.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"453157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soho-square/453157?b=45&k=19846&l=search",
+	"arName":"خدمة العملاء, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, White knight bay, Sharm el sheikh"
+},
+		{	"profileId":"165909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soho-square/165909?b=44&k=19846&l=search",
+	"arName":"., خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"., White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"اوكسجين اند اليكتريك بار",
+	"enName":"Oxygen & Electric Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-club-bars-lounges/bars-and-lounges/oxygen-bar",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"408864",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oxygen-&-electric-bar/408864?b=28&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961808000000001",
+	"lng":"34.393090999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"جو اند كو",
+	"enName":"Ju & Co",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/Ju%20&%20Co",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"408865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ju-&-co/408865?b=16&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961808000000001",
+	"lng":"34.393090999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"اكونا ماتاتا",
+	"enName":"Akuna Matata",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/SOHOAkunaMatata",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-restaurants-soho-square.php",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"408866",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akuna-matata/408866?b=2&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961808000000001",
+	"lng":"34.393090999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم الاقصر",
+	"enName":"Luxor Restaurant",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/Luxor-Egyptian-Restaurant-363782267074064",
+	"web":"http://www.soho-sharm.com/sharm-restaurants/luxor",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مشويات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"B. B. Q.",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"408746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/luxor-restaurant/408746?b=21&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961808000000001",
+	"lng":"34.393090999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"فندق رويال سافوى شرم الشيخ",
+	"enName":"Royal Savoy Sharm El Sheikh Hotel",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/SavoySharmGroup",
+	"web":"http://www.royalsavoy-sharm.com/royal-savoy/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"256174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-savoy-sharm-el-sheikh-hotel/256174?b=33&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.9613418",
+	"lng":"34.395974000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سوهو هينكن بار",
+	"enName":"Soho Heineken Bar",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/SOHO-Heineken-Bar-1093374637343683",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/soho-heineken-bar",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"555187",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soho-heineken-bar/555187?b=43&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.963023",
+	"lng":"34.394311999999999",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"قاعة ايجيبت",
+	"enName":"Egypt Ballroom",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.royalsavoy-sharm.com/savoy/meetings-events-wedding-rooms.php",
+	"arCategory":[
+		"قاعات افراح"
+	],
+	"enCategories":[
+		"Wedding Halls"
+	],
+	"contacts":[
+		{	"profileId":"391308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-ballroom/391308?b=10&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"فيوجن 21",
+	"enName":"Fusion 21",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-restaurants",
+	"arCategory":[
+		"ماكولات البحر المتوسط",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Mediterranean Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"388128",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fusion-21/388128?b=13&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962447000000001",
+	"lng":"34.393697000000003",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم لانتركوت ستيك هاوس",
+	"enName":"L' Entrecote Steak House Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.sierra-sharm.com/villas/eat-drink-restaurants-soho-square.php",
+	"arCategory":[
+		"مطاعم استرالية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Australian Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"196655",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/l'-entrecote-steak-house-restaurant/196655?b=19&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سينما كالتراما",
+	"enName":"Cultrama Cinema",
+	"hotline":"19846",
+	"facebook":"http://www.facebook.com/SOHO.Culturama",
+	"web":"http://www.soho-sharm.com/sharm-entertainment/culturama",
+	"arCategory":[
+		"سينما ومسارح"
+	],
+	"enCategories":[
+		"Cinemas & Theaters"
+	],
+	"contacts":[
+		{	"profileId":"196612",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cultrama-cinema/196612?b=8&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"بانجاى كلوب",
+	"enName":"Pangaea Club",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/pangaea-club",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"196738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pangaea-club/196738?b=29&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"اورينتال كيف بار",
+	"enName":"Oriental Cave Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-bars-savoy.php",
+	"arCategory":[
+		"مقاهى",
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"109208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oriental-cave-bar/109208?b=27&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم تيرانا",
+	"enName":"Tirana Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-restaurants-savoy.php",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"55708",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tirana-restaurant/55708?b=47&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"فندق سافوى شرم الشيخ",
+	"enName":"Savoy Sharm El Sheikh Hotel",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/index.php",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"55707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/savoy-sharm-el-sheikh-hotel/55707?b=38&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+},
+		{	"profileId":"553708",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/savoy-sharm-el-sheikh-hotel/553708?b=37&k=19846&l=search",
+	"arName":"خدمة العملاء, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم كاليجولا هوت روك",
+	"enName":"Caligula Hot Rock Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-restaurants-savoy.php",
+	"arCategory":[
+		"مطاعم استرالية",
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Australian Cuisine",
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"109468",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/caligula-hot-rock-restaurant/109468?b=6&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"كروم اوف ذا نايل",
+	"enName":"Kouroum Of The Nile",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/kouroum-nile",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"555171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kouroum-of-the-nile/555171?b=18&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.963023",
+	"lng":"34.394311999999999",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سفارى بار",
+	"enName":"Safari Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-bars-savoy.php",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"215753",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/safari-bar/215753?b=34&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"وايت نايت بار",
+	"enName":"White Knight Bar",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-bars-savoy.php",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"109426",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/white-knight-bar/109426?b=48&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم روزمارينو",
+	"enName":"Rosmarino Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-restaurants-savoy.php",
+	"arCategory":[
+		"مطاعم ايطالية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Italian Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"55709",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rosmarino-restaurant/55709?b=32&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"كريستال لونج",
+	"enName":"Crystal Lounge",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-club-bars-lounges/lounge/crystal-live-lounge",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"388122",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/crystal-lounge/388122?b=7&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"قاعة اجتماعات فيروز",
+	"enName":"Fayrouz Meeting Room",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.royalsavoy-sharm.com/savoy/meetings-events-wedding-rooms.php",
+	"arCategory":[
+		"مؤتمرات قاعات ومراكز وخدمات المؤتمرات"
+	],
+	"enCategories":[
+		"Convention Centers & Conference Services"
+	],
+	"contacts":[
+		{	"profileId":"391311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fayrouz-meeting-room/391311?b=12&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962669999999999",
+	"lng":"34.39425",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"صالون دو تيه",
+	"enName":"Salon De The",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/salon-de-th%C3%A9",
+	"arCategory":[
+		"مقاهى",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Cafes and Coffee Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"408772",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salon-de-the/408772?b=36&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961808000000001",
+	"lng":"34.393090999999998",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"مطعم سى فود ايلاند",
+	"enName":"Seafood Island Restaurant",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.savoy-sharm.com/savoy/eat-drink-restaurants-savoy.php",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"117825",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seafood-island-restaurant/117825?b=39&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.961462999999998",
+	"lng":"34.394841",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"كوين فيك بريتيش بوب",
+	"enName":"Queen Vic British Pub",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-nightclub-bar-cafe/Queen%20Vic%20British%20Pub",
+	"arCategory":[
+		"اماكن ليلية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Night Spots",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"196660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/queen-vic-british-pub/196660?b=30&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"ايس رينك",
+	"enName":"Ice Rink",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-entertainment/ice-rink",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"196665",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ice-rink/196665?b=15&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}, {	"arName":"سوهو بولينج",
+	"enName":"Soho Bowling",
+	"hotline":"19846",
+	"facebook":"",
+	"web":"http://www.soho-sharm.com/sharm-entertainment/soho-bowling",
+	"arCategory":[
+		"بولينج صالات ومعدات"
+	],
+	"enCategories":[
+		"Bowling & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"196662",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soho-bowling/196662?b=42&k=19846&l=search",
+	"arName":"سوهو سكوير, خليج الفارس الابيض, شرم الشيخ",
+	"lat":"27.962553",
+	"lng":"34.393675000000002",
+	"enName":"Soho Square, White knight bay, Sharm el sheikh"
+}
+	]
+}]}

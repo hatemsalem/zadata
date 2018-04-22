@@ -1,0 +1,228 @@
+{"items":[{	"arName":"ستيلا دى مارى سيدى عبد الرحمن ريزورت",
+	"enName":"Stella Di Mare Sidi Abdel Rahman Resort",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"361379",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stella-di-mare-sidi-abdel-rahman-resort/361379?b=10&k=19565&l=search",
+	"arName":"كم 128 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"lat":"30.954345",
+	"lng":"28.770125",
+	"enName":"Km 128, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+}
+	]
+}, {	"arName":"ستيلا هليوبوليس",
+	"enName":"Stella Heliopolis",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"360620",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stella-heliopolis/360620?b=11&k=19565&l=search",
+	"arName":"كم 123 -, طريق مصر الاسماعيلية الصحراوى, القاهرة",
+	"lat":"30.213587",
+	"lng":"31.682677000000002",
+	"enName":"Km 123,, Cairo ism. desert rd., Cairo"
+}
+	]
+}, {	"arName":"رمكو جروب",
+	"enName":"Remco Group",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"385832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/remco-group/385832?b=8&k=19565&l=search",
+	"arName":"خدمة العملاء, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"389570",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/remco-group/389570?b=7&k=19565&l=search",
+	"arName":"ش الثورة, مصر الجديدة, القاهرة",
+	"lat":"30.081752000000002",
+	"lng":"31.345676000000001",
+	"enName":"El Thawra St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"رمكو العقارية",
+	"enName":"Remco For Real Estate",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"389577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/remco-for-real-estate/389577?b=6&k=19565&l=search",
+	"arName":"القطعة 9 - ش محمد نجيب - منطقة المستثمرين الشمالية, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.027971999999998",
+	"lng":"31.486234",
+	"enName":"Plot 9, Mohamed Naguib St., Northern Investors Area, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"اورينت تورز",
+	"enName":"Orient Tours",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"389576",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orient-tours/389576?b=4&k=19565&l=search",
+	"arName":"القطعة 9 - ش محمد نجيب - منطقة المستثمرين الشمالية, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.027971999999998",
+	"lng":"31.486234",
+	"enName":"Plot 9, Mohamed Naguib St., Northern Investors Area, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"الفرعونية للتجارة والمقاولات",
+	"enName":"Pharaonic For Trade & Contracting",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"389575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pharaonic-for-trade-&-contracting/389575?b=5&k=19565&l=search",
+	"arName":"القطعة 9 - ش محمد نجيب - منطقة المستثمرين الشمالية, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.027971999999998",
+	"lng":"31.486234",
+	"enName":"Plot 9, Mohamed Naguib St., Northern Investors Area, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"امبان للاستثمارات",
+	"enName":"Empain Investments",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"389574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/empain-investments/389574?b=2&k=19565&l=search",
+	"arName":"القطعة 9 - ش محمد نجيب - منطقة المستثمرين الشمالية, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.027971999999998",
+	"lng":"31.486234",
+	"enName":"Plot 9, Mohamed Naguib St., Northern Investors Area, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"الاسكندنافية للاستثمارات والتنمية السياحية",
+	"enName":"Scandinavian Investments & Tourism Development",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"389573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scandinavian-investments-&-tourism-development/389573?b=9&k=19565&l=search",
+	"arName":"القطعة 9 - ش محمد نجيب - منطقة المستثمرين الشمالية, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.027971999999998",
+	"lng":"31.486234",
+	"enName":"Plot 9, Mohamed Naguib St., Northern Investors Area, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"الشركة العالمية للسياحة",
+	"enName":"International Co. For Tourism",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"389572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-tourism/389572?b=3&k=19565&l=search",
+	"arName":"القطعة 9 - ش محمد نجيب - منطقة المستثمرين الشمالية, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.027971999999998",
+	"lng":"31.486234",
+	"enName":"Plot 9, Mohamed Naguib St., Northern Investors Area, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"المصرية لانشاء القرى السياحية",
+	"enName":"Egyptian Tourism Village Construction",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"389571",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-tourism-village-construction/389571?b=1&k=19565&l=search",
+	"arName":"القطعة 9 - ش محمد نجيب - منطقة المستثمرين الشمالية, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.027971999999998",
+	"lng":"31.486234",
+	"enName":"Plot 9, Mohamed Naguib St., Northern Investors Area, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ستيلا مارينا مول",
+	"enName":"Stella Marina Mall",
+	"hotline":"19565",
+	"facebook":"",
+	"web":"http://www.remcogroup.net/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"372964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stella-marina-mall/372964?b=12&k=19565&l=search",
+	"arName":"كم 107 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.844062999999998",
+	"lng":"28.934404900000001",
+	"enName":"Km 107,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

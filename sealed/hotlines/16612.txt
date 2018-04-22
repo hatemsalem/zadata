@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الربيع للسياحة",
+	"enName":"El Rabie Tours",
+	"hotline":"16612",
+	"facebook":"http://www.facebook.com/RabieTours",
+	"web":"http://www.rabietours.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"47624",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabie-tours/47624?b=4&k=16612&l=search",
+	"arName":"37 ش احمد عرابى - الدور 1, المهندسين, الجيزة",
+	"lat":"30.064599999999999",
+	"lng":"31.2044",
+	"enName":"37 Ahmed Orabi St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"501593",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabie-tours/501593?b=1&k=16612&l=search",
+	"arName":"عمارة 129, الحى السابع, السادس من اكتوبر, الجيزة",
+	"lat":"29.982771",
+	"lng":"30.947375999999998",
+	"enName":"Bldg. 129, 7th District, 6th of october, Giza"
+},
+		{	"profileId":"495152",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabie-tours/495152?b=2&k=16612&l=search",
+	"arName":"39 ش بهاء الدين الغتورى, سموحة, الاسكندرية",
+	"lat":"31.217870999999999",
+	"lng":"29.943086999999998",
+	"enName":"39 Bahaa El Din El Ghatwary St., Semouha, Alexandria"
+},
+		{	"profileId":"205382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabie-tours/205382?b=3&k=16612&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Mohandeseen, Giza"
+}
+	]
+}]}

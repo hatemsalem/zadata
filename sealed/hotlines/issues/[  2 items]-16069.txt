@@ -1,0 +1,74 @@
+{"items":[{	"arName":"سفن دايز",
+	"enName":"7 Days",
+	"hotline":"16069",
+	"facebook":"http://www.facebook.com/7dayspizza",
+	"web":"",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"وجبات سريعة"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Fast Food"
+	],
+	"contacts":[
+		{	"profileId":"324924",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7-days/324924?b=2&k=16069&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"324919",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7-days/324919?b=1&k=16069&l=search",
+	"arName":"17 ش ابو داوود الظاهرى متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.060423",
+	"lng":"31.347899000000002",
+	"enName":"17 Abou Dawoud El Zahery St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"429885",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7-days/429885?b=3&k=16069&l=search",
+	"arName":"25 ش الامن الغذائى ميدان القومية, الزقازيق, الشرقية",
+	"lat":"30.591370999999999",
+	"lng":"31.494475999999999",
+	"enName":"25 El Amn El Ghezaay St. El Qawmeya Sq., El zagazig, El sharkeya"
+}
+	]
+}, {	"arName":"اورينتال",
+	"enName":"Oriental",
+	"hotline":"16069",
+	"facebook":"http://www.facebook.com/Oriental.Grills",
+	"web":"",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"187358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oriental/187358?b=5&k=16069&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"187355",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oriental/187355?b=4&k=16069&l=search",
+	"arName":"17 ش ابو داوود الظاهرى متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.060423",
+	"lng":"31.347899000000002",
+	"enName":"17 Abou Dawoud El Zahery St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

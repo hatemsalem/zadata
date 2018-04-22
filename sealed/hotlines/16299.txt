@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سكن للتمويل العقارى",
+	"enName":"Sakan Finance",
+	"hotline":"16299",
+	"facebook":"",
+	"web":"http://www.sakanfinance.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"206432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sakan-finance/206432?b=1&k=16299&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"206424",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sakan-finance/206424?b=2&k=16299&l=search",
+	"arName":"106 ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"lat":"30.046426",
+	"lng":"31.199176999999999",
+	"enName":"106 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,49 @@
+{"items":[{	"arName":"دايفرسى",
+	"enName":"Diversey",
+	"hotline":"19302",
+	"facebook":"http://www.facebook.com/sealedairme",
+	"web":"http://www.sealedair.com/diversey-care/diversey-care-products",
+	"arCategory":[
+		"نظافة خدمات ومنتجات ومعدات"
+	],
+	"enCategories":[
+		"Cleaning Services, Products & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"234671",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diversey/234671?b=3&k=19302&l=search",
+	"arName":"العوامية - حى الفيروز, الاقصر, الاقصر",
+	"lat":"25.686281000000001",
+	"lng":"32.631197",
+	"enName":"El Awameya, El Fayrouz District, LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"196417",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diversey/196417?b=5&k=19302&l=search",
+	"arName":"ش الخزان, هضبة ام السيد, شرم الشيخ",
+	"lat":"",
+	"lng":"",
+	"enName":"El Khazzan St., Umm el sid hill, Sharm el sheikh"
+},
+		{	"profileId":"463628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diversey/463628?b=4&k=19302&l=search",
+	"arName":"حى مبارك 6, طريق القرى, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"Mubarak 6 District, Villages rd., Hurghada"
+},
+		{	"profileId":"10066",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diversey/10066?b=1&k=19302&l=search",
+	"arName":"مربع 1258د - القطعة الاولى - ش الاخبار, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.102806999999999",
+	"lng":"31.383465999999999",
+	"enName":"Square 1258d, 1st Plot, El Akhbar St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"272159",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diversey/272159?b=2&k=19302&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

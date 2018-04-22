@@ -1,0 +1,39 @@
+{"items":[{	"arName":"ابو عمار السورى",
+	"enName":"Abou Ammar Al Soury",
+	"hotline":"19296",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"517436",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ammar-al-soury/517436?b=3&k=19296&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"580566",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ammar-al-soury/580566?b=1&k=19296&l=search",
+	"arName":"10 ش الشريف متفرع من ش الاهرام, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.094373999999998",
+	"lng":"31.310496000000001",
+	"enName":"10 El Sherif St. Off El Ahram St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"66932",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ammar-al-soury/66932?b=2&k=19296&l=search",
+	"arName":"8 ش سوريا متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.052944",
+	"lng":"31.199838",
+	"enName":"8 Syria St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+}
+	]
+}]}

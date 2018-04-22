@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الماسيه لحلول البناء المتكاملة",
+	"enName":"El Massia For Integrated Building Solutions",
+	"hotline":"16150",
+	"facebook":"http://www.facebook.com/ElMassia",
+	"web":"http://www.elmassiagroup.com/",
+	"arCategory":[
+		"حديد وصلب"
+	],
+	"enCategories":[
+		"Steel & Iron"
+	],
+	"contacts":[
+		{	"profileId":"255823",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-massia-for-integrated-building-solutions/255823?b=1&k=16150&l=search",
+	"arName":"خدمة العملاء, القطامية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, El katameya, Cairo"
+},
+		{	"profileId":"472429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-massia-for-integrated-building-solutions/472429?b=2&k=16150&l=search",
+	"arName":"القطعة 17 - طريق العين السخنة القديم, القطامية, القاهرة",
+	"lat":"29.966498000000001",
+	"lng":"31.490183999999999",
+	"enName":"Plot 17, El Ain El Sokhna Old Rd., El katameya, Cairo"
+}
+	]
+}]}

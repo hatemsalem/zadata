@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بينشمارك للعقارات",
+	"enName":"Benchmark Real Estate Advisor",
+	"hotline":"16779",
+	"facebook":"http://www.facebook.com/BenchmarkRealEstateAdvisor",
+	"web":"http://www.benchmark.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"580978",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/benchmark-real-estate-advisor/580978?b=2&k=16779&l=search",
+	"arName":"جنوب الاكاديمية - فيلا 394أ, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.023007",
+	"lng":"31.411618000000001",
+	"enName":"South Academy, Villa 394A, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"462493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/benchmark-real-estate-advisor/462493?b=1&k=16779&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

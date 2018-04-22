@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اكسيل ترافيل",
+	"enName":"Excel Travel",
+	"hotline":"16241",
+	"facebook":"http://www.facebook.com/Exceltrvl/",
+	"web":"http://www.exceltrvl.net/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"97051",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/excel-travel/97051?b=1&k=16241&l=search",
+	"arName":"68 ش الميرغنى - الدور 3, مصر الجديدة, القاهرة",
+	"lat":"30.084596000000001",
+	"lng":"31.326062",
+	"enName":"68 El Merghany St., Floor 3, Heliopolis, Cairo"
+},
+		{	"profileId":"256569",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/excel-travel/256569?b=2&k=16241&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

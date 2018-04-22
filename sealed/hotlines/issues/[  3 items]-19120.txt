@@ -1,0 +1,75 @@
+{"items":[{	"arName":"مكادى",
+	"enName":"Makadi",
+	"hotline":"19120",
+	"facebook":"",
+	"web":"http://www.makadi-redsea.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"264126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/makadi/264126?b=1&k=19120&l=search",
+	"arName":"كم 30 - طريق الغردقة سفاجا, مكادى باى, الغردقة",
+	"lat":"26.988614999999999",
+	"lng":"33.896169",
+	"enName":"Km 30, Hurghada Safaga Rd., Makadi bay, Hurghada"
+},
+		{	"profileId":"431109",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/makadi/431109?b=2&k=19120&l=search",
+	"arName":"خدمة العملاء, مكادى باى, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Makadi bay, Hurghada"
+}
+	]
+}, {	"arName":"اوراسكوم للتنمية والادارة",
+	"enName":"Orascom Development & Management",
+	"hotline":"19120",
+	"facebook":"",
+	"web":"http://www.orascomdm.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"232104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orascom-development-&-management/232104?b=4&k=19120&l=search",
+	"arName":"2005 ج البرج الشمالى - ابراج نايل سيتى - كورنيش النيل - الدور 14, رملة بولاق, القاهرة",
+	"lat":"30.072222",
+	"lng":"31.228332999999999",
+	"enName":"2005 c north Tower, nile city towers, corniche El Nil, Floor 14, Ramlet boulak, Cairo"
+},
+		{	"profileId":"232115",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orascom-development-&-management/232115?b=5&k=19120&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+}
+	]
+}, {	"arName":"مكادى مول",
+	"enName":"Makadi Mall",
+	"hotline":"19120",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"431110",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/makadi-mall/431110?b=3&k=19120&l=search",
+	"arName":"كم 30 - طريق الغردقة سفاجا, مكادى باى, الغردقة",
+	"lat":"26.988614999999999",
+	"lng":"33.896169",
+	"enName":"Km 30, Hurghada Safaga Rd., Makadi bay, Hurghada"
+}
+	]
+}]}

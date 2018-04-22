@@ -1,0 +1,42 @@
+{"items":[{	"arName":"اوتو ايجيبت للتجارة",
+	"enName":"Auto Egypt For Trade",
+	"hotline":"16666",
+	"facebook":"http://www.facebook.com/NissanAutoEgypt",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"92870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-egypt-for-trade/92870?b=4&k=16666&l=search",
+	"arName":"58 ش سوريا تقاطع ش السودان, المهندسين, الجيزة",
+	"lat":"30.052209000000001",
+	"lng":"31.192156000000001",
+	"enName":"58 Syria St. Intersection Of Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"133389",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-egypt-for-trade/133389?b=3&k=16666&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"393711",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-egypt-for-trade/393711?b=2&k=16666&l=search",
+	"arName":"12 ش حسن الشريف امتداد ش حسن المأمون, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.054112",
+	"lng":"31.356954999999999",
+	"enName":"12 Hassan El Sherif St. Extension Of Hassan El Maamoun St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"452514",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-egypt-for-trade/452514?b=1&k=16666&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.017149499999999",
+	"lng":"31.432190500000001",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

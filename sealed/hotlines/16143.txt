@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المستشفى الايطالى - امبرتو الاول",
+	"enName":"Italian Hospital Umberto I - Cairo",
+	"hotline":"16143",
+	"facebook":"http://www.facebook.com/Italian-Hospital-Umberto-Primo%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D9%84%D8%A7%D9%8A%D8%B7%D8%A7%D9%84%D9%89-%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9-857202140979473",
+	"web":"http://www.italianhospital.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"16601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/italian-hospital-umberto-i-_-cairo/16601?b=1&k=16143&l=search",
+	"arName":"17 ش السرايات, عباسية, القاهرة",
+	"lat":"30.066848",
+	"lng":"31.281935000000001",
+	"enName":"17 El Sarayat St., Abbasseya, Cairo"
+},
+		{	"profileId":"388783",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/italian-hospital-umberto-i-_-cairo/388783?b=2&k=16143&l=search",
+	"arName":"خدمة طوارئ, عباسية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Abbasseya, Cairo"
+}
+	]
+}]}

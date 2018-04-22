@@ -1,0 +1,48 @@
+{"items":[{	"arName":"المصرية الهندسية للتنمية والاستثمار العقارى",
+	"enName":"Egyptian Engineering For Development & Real Estate Investment",
+	"hotline":"19474",
+	"facebook":"http://www.facebook.com/wahetelryhan",
+	"web":"http://www.wahetelryhan.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"62471",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-engineering-for-development-&-real-estate-investment/62471?b=1&k=19474&l=search",
+	"arName":"24 ش دجلة متفرع من ش شهاب - الدور 2, المهندسين, الجيزة",
+	"lat":"30.049616",
+	"lng":"31.196655",
+	"enName":"24 Degla St. Off Shehab St., Floor 2, Mohandeseen, Giza"
+},
+		{	"profileId":"190835",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-engineering-for-development-&-real-estate-investment/190835?b=2&k=19474&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"واحة الريحان",
+	"enName":"Wahet El Ryhan",
+	"hotline":"19474",
+	"facebook":"",
+	"web":"http://www.wahetelryhan.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"397725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wahet-el-ryhan/397725?b=3&k=19474&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.892616",
+	"lng":"31.075375000000001",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}]}

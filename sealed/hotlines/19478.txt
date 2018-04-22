@@ -1,0 +1,48 @@
+{"items":[{	"arName":"بيراميدز تيك اوى",
+	"enName":"Pyramids Take Away",
+	"hotline":"19478",
+	"facebook":"http://www.facebook.com/PyramidsRestaurant",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مشويات"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"B. B. Q."
+	],
+	"contacts":[
+		{	"profileId":"319890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-take-away/319890?b=1&k=19478&l=search",
+	"arName":"75 ش قصر العينى, وسط البلد, القاهرة",
+	"lat":"30.031853999999999",
+	"lng":"31.232977000000002",
+	"enName":"75 Kasr El Ainy St., Downtown, Cairo"
+},
+		{	"profileId":"319470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-take-away/319470?b=3&k=19478&l=search",
+	"arName":"8 عمارات المثلث - ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.058353",
+	"lng":"31.377393999999999",
+	"enName":"8 El Mothalath Bldgs., Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"451962",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-take-away/451962?b=4&k=19478&l=search",
+	"arName":"328 ش السودان, المهندسين, الجيزة",
+	"lat":"30.070927999999999",
+	"lng":"31.198786999999999",
+	"enName":"328 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"451971",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-take-away/451971?b=2&k=19478&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+}
+	]
+}]}

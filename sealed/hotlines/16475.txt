@@ -1,0 +1,85 @@
+{"items":[{	"arName":"سلسلة مطاعم جاد",
+	"enName":"Gad Restaurants",
+	"hotline":"16475",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"فول وطعمية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم مصرية"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Foul & Ta'mya",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Egyptian Cuisine"
+	],
+	"contacts":[
+		{	"profileId":"566091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/566091?b=7&k=16475&l=search",
+	"arName":"272 طريق الجيش, ستانلى, الاسكندرية",
+	"lat":"31.235202000000001",
+	"lng":"29.950607999999999",
+	"enName":"272 El Guish Rd., Stanly, Alexandria"
+},
+		{	"profileId":"432688",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/432688?b=2&k=16475&l=search",
+	"arName":"21 ش عبد الخالق ثروت, وسط البلد, القاهرة",
+	"lat":"30.050512999999999",
+	"lng":"31.241613999999998",
+	"enName":"21 Abdel Khaleq Tharwat St., Downtown, Cairo"
+},
+		{	"profileId":"569806",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/569806?b=5&k=16475&l=search",
+	"arName":"272 طريق الجيش, ستانلى, الاسكندرية",
+	"lat":"31.235202000000001",
+	"lng":"29.950607999999999",
+	"enName":"272 El Guish Rd., Stanly, Alexandria"
+},
+		{	"profileId":"77964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/77964?b=4&k=16475&l=search",
+	"arName":"47 أ ش جامعة الدول العربية تقاطع ش شهاب, المهندسين, الجيزة",
+	"lat":"30.049105999999998",
+	"lng":"31.197416",
+	"enName":"47 A Gamaet El Dewal El Arabeya St. Intersection Of Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"131300",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/131300?b=8&k=16475&l=search",
+	"arName":"683 طريق الجيش, ميامى, الاسكندرية",
+	"lat":"31.271526999999999",
+	"lng":"29.999065000000002",
+	"enName":"683 El Guish Rd., Miami, Alexandria"
+},
+		{	"profileId":"77965",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/77965?b=1&k=16475&l=search",
+	"arName":"104 ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.054948",
+	"lng":"31.338598999999999",
+	"enName":"104 Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"566076",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/566076?b=9&k=16475&l=search",
+	"arName":"24 ش الجمهورية, المنصورة, الدقهلية",
+	"lat":"31.045590000000001",
+	"lng":"31.357247000000001",
+	"enName":"24 El Gomhoureya St., El mansoura, El dakahleya"
+},
+		{	"profileId":"317475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/317475?b=6&k=16475&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, محطة الرمل, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Raml station, Alexandria"
+},
+		{	"profileId":"117382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gad-restaurants/117382?b=3&k=16475&l=search",
+	"arName":"7 /1 ش النصر تقاطع ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.9756",
+	"lng":"31.2818",
+	"enName":"7 /1 El Nasr St. Intersection Of El Laselky St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

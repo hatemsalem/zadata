@@ -1,0 +1,35 @@
+{"items":[{	"arName":"شركة الصناعات الغذائية العربية - دومتى",
+	"enName":"Arabian Food Industries Co. - Domty",
+	"hotline":"16484",
+	"facebook":"http://www.facebook.com/DomtyCheese",
+	"web":"http://www.domty.org/",
+	"arCategory":[
+		"البان منتجات - مصنعون"
+	],
+	"enCategories":[
+		"Dairy Industry"
+	],
+	"contacts":[
+		{	"profileId":"79511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabian-food-industries-co.-_-domty/79511?b=2&k=16484&l=search",
+	"arName":"القطعة 12 - - المنطقة الصناعية الثانية, السادس من اكتوبر, الجيزة",
+	"lat":"29.933817000000001",
+	"lng":"30.897476000000001",
+	"enName":"Plot 12, , 2nd Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"44964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabian-food-industries-co.-_-domty/44964?b=3&k=16484&l=search",
+	"arName":"32 ج ش مراد, الجيزة, الجيزة",
+	"lat":"30.019991000000001",
+	"lng":"31.215803000000001",
+	"enName":"32 C Mourad St., Giza, Giza"
+},
+		{	"profileId":"187533",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabian-food-industries-co.-_-domty/187533?b=1&k=16484&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}]}

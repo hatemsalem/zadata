@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المدارس المصرية الدولية",
+	"enName":"EIS - Egyptian International School",
+	"hotline":"16871",
+	"facebook":"http://www.facebook.com/The-Egyptian-International-School-315253015173096",
+	"web":"http://www.eisegypt.org/",
+	"arCategory":[
+		"مراكز تعليم لغات"
+	],
+	"enCategories":[
+		"Language Educational Centers"
+	],
+	"contacts":[
+		{	"profileId":"153399",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eis-_-egyptian-international-school/153399?b=1&k=16871&l=search",
+	"arName":"6 ش المدارس المصرية الدولية متفرع من طريق سقارة, المريوطية, الهرم, الجيزة",
+	"lat":"29.969906999999999",
+	"lng":"31.159212",
+	"enName":"6 The Egyptian International School St. Off Saqqara Rd., El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"521369",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eis-_-egyptian-international-school/521369?b=2&k=16871&l=search",
+	"arName":"خدمة العملاء, المريوطية, الهرم, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Mariouteya, El haram, Giza"
+}
+	]
+}]}

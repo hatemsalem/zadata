@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الفيصل للصناعات الغذائية - نيو برنش تايم",
+	"enName":"Al Faysal For Food Industries - New Brunch Time",
+	"hotline":"16820",
+	"facebook":"http://www.facebook.com/BrunchEgypt",
+	"web":"",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"129732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-faysal-for-food-industries-_-new-brunch-time/129732?b=1&k=16820&l=search",
+	"arName":"القطعة الخامسة - بلوك 13003 - - المنطقة الصناعية, مدينة العبور, القليوبية",
+	"lat":"30.173241999999998",
+	"lng":"31.467965",
+	"enName":"5th Plot, Block 13003, , Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"527065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-faysal-for-food-industries-_-new-brunch-time/527065?b=2&k=16820&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+}
+	]
+}]}

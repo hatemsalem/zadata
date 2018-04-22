@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مجموعة مطورى هليوبوليس - اتش دى جى",
+	"enName":"HDG - Heliopolis Developers Group",
+	"hotline":"16470",
+	"facebook":"http://www.facebook.com/heliopolisDG",
+	"web":"http://www.hdg.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"427916",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hdg-_-heliopolis-developers-group/427916?b=2&k=16470&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"427914",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hdg-_-heliopolis-developers-group/427914?b=1&k=16470&l=search",
+	"arName":"68 ش مكرم عبيد - الدور 6, مدينة نصر, القاهرة",
+	"lat":"30.060886",
+	"lng":"31.344985999999999",
+	"enName":"68 Makram Ebaid St., Floor 6, Nasr city, Cairo"
+}
+	]
+}]}

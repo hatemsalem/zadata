@@ -1,0 +1,48 @@
+{"items":[{	"arName":"الشركة العربية للتنمية العقارية- اركو",
+	"enName":"Al Arabia Co. For Real Estate Development - ARCO",
+	"hotline":"16229",
+	"facebook":"http://www.facebook.com/alarabiarealestate",
+	"web":"http://www.alarabiarealestate.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"256458",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-arabia-co.-for-real-estate-development-_-arco/256458?b=1&k=16229&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"164698",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-arabia-co.-for-real-estate-development-_-arco/164698?b=2&k=16229&l=search",
+	"arName":"101 أ - المنطقة الصناعية, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"101 A , Industrial Zone, Abou rawash, Giza"
+}
+	]
+}, {	"arName":"ستارز سنتر",
+	"enName":"Stars Centre",
+	"hotline":"16229",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"517477",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stars-centre/517477?b=3&k=16229&l=search",
+	"arName":"طريق مطروح اسكندرية الصحراوى - الفوكا, رأس الحكمة, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Matrouh Alex Desert Rd., El Foka, Ras el hekma, North coast"
+}
+	]
+}]}

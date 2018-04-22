@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مؤسسة عمار الارض",
+	"enName":"Ommar El Ard Establishment",
+	"hotline":"19054",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"425730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ommar-el-ard-establishment/425730?b=2&k=19054&l=search",
+	"arName":"78 ش عمار بن ياسر - الدور 4, مصر الجديدة, القاهرة",
+	"lat":"30.114008999999999",
+	"lng":"31.357973000000001",
+	"enName":"78 Ammar Ibn Yasser St., Floor 4, Heliopolis, Cairo"
+},
+		{	"profileId":"467359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ommar-el-ard-establishment/467359?b=1&k=19054&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,81 @@
+{"items":[{	"arName":"بلو للتسويق العقارى",
+	"enName":"Blu For Real Estate Marketing",
+	"hotline":"19260",
+	"facebook":"http://www.facebook.com/blurealestate19260",
+	"web":"http://www.blurealestate.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"358444",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blu-for-real-estate-marketing/358444?b=1&k=19260&l=search",
+	"arName":"145 ش عمر بن الخطاب, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.082111000000001",
+	"lng":"31.347522999999999",
+	"enName":"145 Omar Ibn El Khattab St., Almaza, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بلو للعقارات",
+	"enName":"Blu Real Estate",
+	"hotline":"19260",
+	"facebook":"http://www.facebook.com/blurealestate19260",
+	"web":"http://www.blurealestate.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"377580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blu-real-estate/377580?b=2&k=19260&l=search",
+	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"الحياة 2",
+	"enName":"El Hayah 2",
+	"hotline":"19260",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"379434",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-hayah-2/379434?b=3&k=19260&l=search",
+	"arName":"كم 45 - طريق شرم الشيخ الطور السياحى, رأس سدر, جنوب سيناء",
+	"lat":"29.727675999999999",
+	"lng":"32.697733999999997",
+	"enName":"Km 45, Sharm El Sheikh El Tor Touristic Rd., RAS SIDR, Ras sidr, South sinai"
+}
+	]
+}, {	"arName":"ماليبو العين السخنة",
+	"enName":"Malibu El Ain El Sokhna",
+	"hotline":"19260",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"377586",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/malibu-el-ain-el-sokhna/377586?b=4&k=19260&l=search",
+	"arName":"كم 160 - طريق القاهرة الغردقة, العين السخنة, العين السخنة",
+	"lat":"29.240030999999998",
+	"lng":"32.625596999999999",
+	"enName":"Km 160, Cairo Hurghada Rd., El ain el sokhna, El ain el sokhna"
+}
+	]
+}]}

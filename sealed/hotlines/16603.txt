@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ام بى جى للاستثمار العقارى",
+	"enName":"MBG Development",
+	"hotline":"16603",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"580837",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mbg-development/580837?b=2&k=16603&l=search",
+	"arName":"107 ش الثورة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.082668000000002",
+	"lng":"31.342078999999998",
+	"enName":"107 El Thawra St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"580840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mbg-development/580840?b=1&k=16603&l=search",
+	"arName":"خدمة العملاء, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

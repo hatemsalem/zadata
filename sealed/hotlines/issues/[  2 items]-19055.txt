@@ -1,0 +1,122 @@
+{"items":[{	"arName":"مودرن موتورز - نيسان",
+	"enName":"Modern Motors - Nissan",
+	"hotline":"19055",
+	"facebook":"http://www.facebook.com/NissanModernMotors",
+	"web":"",
+	"arCategory":[
+		"سيارات - قطع غيار وكماليات",
+		"سيارات - تجار - سيارات جديدة",
+		"سيارات - مراكز اصلاح وخدمات ومعدات"
+	],
+	"enCategories":[
+		"Cars - Parts & Accessories",
+		"Cars - Dealers, New Cars",
+		"Cars - Repairing & Servicing Equipment"
+	],
+	"contacts":[
+		{	"profileId":"395650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/395650?b=1&k=19055&l=search",
+	"arName":"239 ش الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.116564",
+	"lng":"31.354087",
+	"enName":"239 El Hegaz St., Heliopolis, Cairo"
+},
+		{	"profileId":"134696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/134696?b=3&k=19055&l=search",
+	"arName":"237 ش الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.116233000000001",
+	"lng":"31.353708999999998",
+	"enName":"237 El Hegaz St., Heliopolis, Cairo"
+},
+		{	"profileId":"124474",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/124474?b=5&k=19055&l=search",
+	"arName":"28 ش المساحة, الدقى, الجيزة",
+	"lat":"30.037700000000001",
+	"lng":"31.2163",
+	"enName":"28 El Messaha St., Dokki, Giza"
+},
+		{	"profileId":"124494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/124494?b=7&k=19055&l=search",
+	"arName":"18 ش حسين كمال تقاطع ش محيى الدين ابو العز, الدقى, الجيزة",
+	"lat":"30.035299999999999",
+	"lng":"31.201799999999999",
+	"enName":"18 Hussein Kamal St. Intersection Of Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"166358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/166358?b=10&k=19055&l=search",
+	"arName":"خدمة طوارئ, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Abou rawash, Giza"
+},
+		{	"profileId":"124495",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/124495?b=11&k=19055&l=search",
+	"arName":"3 ش النقيب شريف رمزى, باب شرق, الاسكندرية",
+	"lat":"31.205693",
+	"lng":"29.931645",
+	"enName":"3 El Naqib Sherif Ramzy St., Bab shark, Alexandria"
+},
+		{	"profileId":"139075",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/139075?b=9&k=19055&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"144761",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/144761?b=4&k=19055&l=search",
+	"arName":"1 عمارات الزراعيين - ش جمال عبد الناصر, شبين الكوم, المنوفية",
+	"lat":"30.581288900000001",
+	"lng":"31.007964300000001",
+	"enName":"1 El Zeraeyeen Bldgs., Gamal Abdel Nasser St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"124501",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/124501?b=2&k=19055&l=search",
+	"arName":"216 ش جوزيف تيتو - طريق الهايكستب, النزهة الجديدة, القاهرة",
+	"lat":"30.139144999999999",
+	"lng":"31.396399200000001",
+	"enName":"216 Joseph Tito St., El Highkestep Rd., El nozha el gadida, Cairo"
+},
+		{	"profileId":"124499",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/124499?b=8&k=19055&l=search",
+	"arName":"335 طريق الحرية, سيدى جابر, الاسكندرية",
+	"lat":"31.217991000000001",
+	"lng":"29.940358",
+	"enName":"335 El Horreya Rd., Sidi gaber, Alexandria"
+},
+		{	"profileId":"61089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/61089?b=6&k=19055&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"30.065909000000001",
+	"lng":"31.031853000000002",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"452325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-motors-_-nissan/452325?b=12&k=19055&l=search",
+	"arName":"كم 10 - طريق القاهرة اسكندرية الزراعى, شبرا الخيمة, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 10, Cairo Alex Agricultural Rd., Shoubra el khaymah, Kaliobeya"
+}
+	]
+}, {	"arName":"نيسان - فوركليفت",
+	"enName":"Nissan - Forklift",
+	"hotline":"19055",
+	"facebook":"",
+	"web":"http://www.nissanforkliftegypt.com/",
+	"arCategory":[
+		"اوناش ورافعات"
+	],
+	"enCategories":[
+		"Forklifts, Cranes & Hoists"
+	],
+	"contacts":[
+		{	"profileId":"208448",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nissan-_-forklift/208448?b=13&k=19055&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"30.065946",
+	"lng":"31.031987999999998",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

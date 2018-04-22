@@ -1,0 +1,32 @@
+{"items":[{	"arName":"شركة العلا لتجارة الحديد والاسمنت",
+	"enName":"El Ola Co. For Trading Steel & Cement",
+	"hotline":"16200",
+	"facebook":"http://www.facebook.com/elolasteel",
+	"web":"http://www.elolasteel.com/",
+	"arCategory":[
+		"اسمنت وخرسانة وجبس وطوب ومعدات",
+		"انشاءات ومقاولات",
+		"حديد وصلب"
+	],
+	"enCategories":[
+		"Cement & Concrete, Gypsum, Brick & Equipment",
+		"Construction",
+		"Steel & Iron"
+	],
+	"contacts":[
+		{	"profileId":"142991",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ola-co.-for-trading-steel-&-cement/142991?b=1&k=16200&l=search",
+	"arName":"الطريق الدائرى نهاية كوبرى ابيس العلوى, ابيس, الاسكندرية",
+	"lat":"31.197692",
+	"lng":"29.995094999999999",
+	"enName":"Ring Rd. End Of Upper Abbis Bridge, Abbis, Alexandria"
+},
+		{	"profileId":"188869",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-ola-co.-for-trading-steel-&-cement/188869?b=2&k=16200&l=search",
+	"arName":"كم 30 - طريق اسكندرية القاهرة الصحراوى, العامرية, الاسكندرية",
+	"lat":"30.989512000000001",
+	"lng":"29.790751",
+	"enName":"Km 30, Alex Cairo Desert Rd., Amreya, Alexandria"
+}
+	]
+}]}

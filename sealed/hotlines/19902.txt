@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الفرعونية لوساطة التأمين",
+	"enName":"El Pharaonia Insurance Brokerage",
+	"hotline":"19902",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"296309",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-pharaonia-insurance-brokerage/296309?b=2&k=19902&l=search",
+	"arName":"14 ش عماد الدين - الدور 2, وسط البلد, القاهرة",
+	"lat":"30.055223999999999",
+	"lng":"31.244263",
+	"enName":"14 Emad El Din St., Floor 2, Downtown, Cairo"
+},
+		{	"profileId":"91920",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-pharaonia-insurance-brokerage/91920?b=1&k=19902&l=search",
+	"arName":"18 ب عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.076215000000001",
+	"lng":"31.307442000000002",
+	"enName":"18 B El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"433333",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-pharaonia-insurance-brokerage/433333?b=3&k=19902&l=search",
+	"arName":"2 ش طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.044861999999998",
+	"lng":"31.236469",
+	"enName":"2 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"433330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-pharaonia-insurance-brokerage/433330?b=4&k=19902&l=search",
+	"arName":"5 ش ويصا واصف - برج الرياض, الجيزة, الجيزة",
+	"lat":"30.027773",
+	"lng":"31.217509",
+	"enName":"5 Wissa Wasef St., El Riad Tower, Giza, Giza"
+}
+	]
+}]}

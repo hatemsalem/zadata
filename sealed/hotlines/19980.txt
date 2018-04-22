@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اى اس سى - المركز التخصصى للعيون",
+	"enName":"ESC - Eye Subspeciality Center",
+	"hotline":"19980",
+	"facebook":"http://www.facebook.com/EyeSubspecialtyCenter",
+	"web":"http://www.eyeesc.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"128107",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esc-_-eye-subspeciality-center/128107?b=1&k=19980&l=search",
+	"arName":"خدمة العملاء, روكسى, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"10961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esc-_-eye-subspeciality-center/10961?b=2&k=19980&l=search",
+	"arName":"18 ش الخليفة المأمون - الدور 1, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.086948",
+	"lng":"31.303319999999999",
+	"enName":"18 El Khalifa El Maamoun St., Floor 1, Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

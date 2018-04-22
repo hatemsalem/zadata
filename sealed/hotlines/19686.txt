@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سما لانقاذ السيارات",
+	"enName":"Sama Car Towing",
+	"hotline":"19686",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اوناش انقاذ"
+	],
+	"enCategories":[
+		"Towing"
+	],
+	"contacts":[
+		{	"profileId":"187356",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sama-car-towing/187356?b=1&k=19686&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"258212",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sama-car-towing/258212?b=2&k=19686&l=search",
+	"arName":"146 أ ش النصر ميدان الجزائر - الدور 6, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974803999999999",
+	"lng":"31.277756",
+	"enName":"146 A El Nasr St. El Gazaer Sq., Floor 6, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

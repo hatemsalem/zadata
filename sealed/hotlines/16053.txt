@@ -1,0 +1,39 @@
+{"items":[{	"arName":"مطعم الطيبات",
+	"enName":"El Tayebat Restaurant",
+	"hotline":"16053",
+	"facebook":"http://www.facebook.com/AltaibatRestaurants",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"322616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tayebat-restaurant/322616?b=1&k=16053&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, شبين الكوم, المنوفية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"322615",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tayebat-restaurant/322615?b=2&k=16053&l=search",
+	"arName":"ش عمر بن عبد العزيز متفرع من ش البحر, طنطا, الغربية",
+	"lat":"30.8015741",
+	"lng":"30.997417899999999",
+	"enName":"Omar Ibn Abdel Aziz St. Off El Bahr St., Tanta, El gharbeya"
+},
+		{	"profileId":"322614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tayebat-restaurant/322614?b=3&k=16053&l=search",
+	"arName":"ش جمال عبد الناصر, شبين الكوم, المنوفية",
+	"lat":"30.5745471",
+	"lng":"31.0102039",
+	"enName":"Gamal Abdel Nasser St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+}
+	]
+}]}

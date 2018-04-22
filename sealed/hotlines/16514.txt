@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الهيئة المصرية العامة للمواصفات والجودة",
+	"enName":"Egyptian Organization For Standardization & Quality - EOS",
+	"hotline":"16514",
+	"facebook":"",
+	"web":"http://www.eos.org.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"61178",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-organization-for-standardization-&-quality-_-eos/61178?b=2&k=16514&l=search",
+	"arName":"16 ش تدريب المدربين, الاميرية, القاهرة",
+	"lat":"30.110015000000001",
+	"lng":"31.297823999999999",
+	"enName":"16 Tadrib El Modarbin St., El amireya, Cairo"
+},
+		{	"profileId":"311395",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-organization-for-standardization-&-quality-_-eos/311395?b=1&k=16514&l=search",
+	"arName":"خدمة العملاء, الاميرية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El amireya, Cairo"
+}
+	]
+}]}

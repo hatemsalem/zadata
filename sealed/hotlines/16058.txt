@@ -1,0 +1,49 @@
+{"items":[{	"arName":"الشركة الاسماعيلية للاستثمار الزراعى والصناعى - فرات",
+	"enName":"Esmaileya Investment For Agricultural & Industrial - Forat",
+	"hotline":"16058",
+	"facebook":"http://www.facebook.com/Atyab.Food",
+	"web":"",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"202749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/202749?b=4&k=16058&l=search",
+	"arName":"كم 21 - - ارض جمعية السلام, طريق اسماعيلية مصر الصحراوى, الاسماعيلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 21, , Ard Gamaeyet El Salam, Ism. cairo desert road, Ismaileya"
+},
+		{	"profileId":"530880",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/530880?b=5&k=16058&l=search",
+	"arName":"الطريق الزراعى - عزبة ابو هلال, الزقازيق, الشرقية",
+	"lat":"30.570768999999999",
+	"lng":"31.471485000000001",
+	"enName":"Agricultural Rd., Ezbet Abou Helal, El zagazig, El sharkeya"
+},
+		{	"profileId":"439404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/439404?b=1&k=16058&l=search",
+	"arName":"1 عمارات الشركة السعودية - ش النزهة متفرع من ميدان الساعة - الدور 4 شقة 4, مصر الجديدة, القاهرة",
+	"lat":"30.076775000000001",
+	"lng":"31.340751000000001",
+	"enName":"1 Secon Bldgs., EL Nozha St. Off El Saah Sq., Floor 4 Flat 4, Heliopolis, Cairo"
+},
+		{	"profileId":"353355",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/353355?b=2&k=16058&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"202743",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/esmaileya-investment-for-agricultural-&-industrial-_-forat/202743?b=3&k=16058&l=search",
+	"arName":"37 ميدان فيكتور عمانويل - الدور 2 شقة 2, سموحة, الاسكندرية",
+	"lat":"31.214611999999999",
+	"lng":"29.944633",
+	"enName":"37 Victor Emanuel Sq., Floor 2 Flat 2, Semouha, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,35 @@
+{"items":[{	"arName":"شركة البحر الاحمر لصناعة المواسير ولوازمها",
+	"enName":"Red Sea Co. For Pipes Manufacturing & Supplies",
+	"hotline":"19886",
+	"facebook":"http://www.facebook.com/%D8%B4%D8%B1%D9%83%D9%87-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D9%85%D8%B1-%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%87-%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B3%D9%8A%D8%B1-%D9%88-%D9%84%D9%88%D8%A7%D8%B2%D9%85%D9%87%D8%A7-439783069502363",
+	"web":"http://www.redseapipes.com/",
+	"arCategory":[
+		"مواسير وانابيب وخطوط انابيب"
+	],
+	"enCategories":[
+		"Pipes, Tubes & Pipelines"
+	],
+	"contacts":[
+		{	"profileId":"59327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/red-sea-co.-for-pipes-manufacturing-&-supplies/59327?b=1&k=19886&l=search",
+	"arName":"1 برج مكة 2 - ش عباس انور, المريوطية, فيصل, الجيزة",
+	"lat":"30.004671999999999",
+	"lng":"31.139298",
+	"enName":"1 Mekka Tower 2, Abbas Anwar St., El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"227962",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/red-sea-co.-for-pipes-manufacturing-&-supplies/227962?b=2&k=19886&l=search",
+	"arName":"خدمة العملاء, المريوطية, فيصل, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Mariouteya, Faisal, Giza"
+},
+		{	"profileId":"200316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/red-sea-co.-for-pipes-manufacturing-&-supplies/200316?b=3&k=19886&l=search",
+	"arName":"القطعة 27أ - - المنطقة الصناعية السادسة, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.923770999999999",
+	"lng":"30.876315999999999",
+	"enName":"Plot 27a, , 6th Industrial Zone, Industrial Zone, 6th of october, Giza"
+}
+	]
+}]}

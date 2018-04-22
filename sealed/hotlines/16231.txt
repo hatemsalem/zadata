@@ -1,0 +1,21 @@
+{"items":[{	"arName":"أ. بى إس كوريير اند فريت سيستمز",
+	"enName":"A.B.S Courier & Freight Systems",
+	"hotline":"16231",
+	"facebook":"http://www.facebook.com/ABS-Courier-Freight-Systems-Egypt-1456150147976677/",
+	"web":"http://www.absegy.com/",
+	"arCategory":[
+		"بريد سريع خدمات"
+	],
+	"enCategories":[
+		"Courier Services"
+	],
+	"contacts":[
+		{	"profileId":"112235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/a.b.s-courier-&-freight-systems/112235?b=1&k=16231&l=search",
+	"arName":"59 طريق مصر حلوان الزراعي, المعادى, القاهرة",
+	"lat":"29.961835000000001",
+	"lng":"31.249953000000001",
+	"enName":"59 Misr Helwan Agricultural Rd., Maadi, Cairo"
+}
+	]
+}]}

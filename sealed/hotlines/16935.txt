@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الجمعية الشرعية الرئيسية",
+	"enName":"Legislation Association",
+	"hotline":"16935",
+	"facebook":"http://www.facebook.com/alshareyah",
+	"web":"http://www.alshareyah.com/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"468276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/legislation-association/468276?b=3&k=16935&l=search",
+	"arName":"ش مصطفى كامل - البر الشرقى, شبين الكوم, المنوفية",
+	"lat":"30.554296999999998",
+	"lng":"31.012484000000001",
+	"enName":"Mostafa Kamel St., Eastern Bank, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"468281",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/legislation-association/468281?b=1&k=16935&l=search",
+	"arName":"ش عمر المختار, الاميرية, القاهرة",
+	"lat":"30.112435999999999",
+	"lng":"31.294340999999999",
+	"enName":"Omar El Mokhtar St., El amireya, Cairo"
+},
+		{	"profileId":"559378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/legislation-association/559378?b=2&k=16935&l=search",
+	"arName":"خدمة العملاء, الاميرية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El amireya, Cairo"
+}
+	]
+}]}

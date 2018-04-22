@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الهيئة العامة للطرق والكبارى والنقل البرى",
+	"enName":"General Authority For Roads, Bridges & Land Transport - GARBLT",
+	"hotline":"19487",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"101836",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-authority-for-roads,-bridges-&-land-transport-_-garblt/101836?b=2&k=19487&l=search",
+	"arName":"105 ش قصر العينى, قصر العينى, القاهرة",
+	"lat":"30.040600000000001",
+	"lng":"31.235499999999998",
+	"enName":"105 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"350668",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-authority-for-roads,-bridges-&-land-transport-_-garblt/350668?b=4&k=19487&l=search",
+	"arName":"ش الطرق والكبارى - منطقة الوليدية, اسيوط, اسيوط",
+	"lat":"27.200891800000001",
+	"lng":"31.184542100000002",
+	"enName":"El Toroq & El Kabary St., El Walideya Zone, Assyout, Assyout"
+},
+		{	"profileId":"101831",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-authority-for-roads,-bridges-&-land-transport-_-garblt/101831?b=1&k=19487&l=search",
+	"arName":"طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.059054",
+	"lng":"31.305174000000001",
+	"enName":"El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"491931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-authority-for-roads,-bridges-&-land-transport-_-garblt/491931?b=3&k=19487&l=search",
+	"arName":"خدمة طوارئ, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Nasr city, Cairo"
+}
+	]
+}]}

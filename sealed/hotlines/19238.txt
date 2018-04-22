@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المازن",
+	"enName":"El Mazen",
+	"hotline":"19238",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"101230",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mazen/101230?b=1&k=19238&l=search",
+	"arName":"42 ش الطيران - الدور 2, مدينة نصر, القاهرة",
+	"lat":"30.061181000000001",
+	"lng":"31.325977000000002",
+	"enName":"42 El Tayaran St., Floor 2, Nasr city, Cairo"
+},
+		{	"profileId":"463634",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mazen/463634?b=2&k=19238&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

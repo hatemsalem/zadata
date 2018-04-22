@@ -1,0 +1,35 @@
+{"items":[{	"arName":"ميدمارك",
+	"enName":"Medmark",
+	"hotline":"19247",
+	"facebook":"http://www.facebook.com/medmarkegypt",
+	"web":"http://www.medmark-online.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"142970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medmark/142970?b=1&k=19247&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"45474",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medmark/45474?b=2&k=19247&l=search",
+	"arName":"44 ش عبد المنعم رياض متفرع من ش البطل احمد عبد العزيز - برج الاطباء, المهندسين, الجيزة",
+	"lat":"30.053231",
+	"lng":"31.208311999999999",
+	"enName":"44 Abdel Moneim Riad St. Off El Batal Ahmed Abdel Aziz St., El Atebaa Tower, Mohandeseen, Giza"
+},
+		{	"profileId":"400394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medmark/400394?b=3&k=19247&l=search",
+	"arName":"401 طريق الحرية - الدور 3, مصطفى كامل, الاسكندرية",
+	"lat":"31.225034000000001",
+	"lng":"29.947576000000002",
+	"enName":"401 El Horreya Rd., Floor 3, Mostafa kamel, Alexandria"
+}
+	]
+}]}

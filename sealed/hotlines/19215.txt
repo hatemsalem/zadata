@@ -1,0 +1,21 @@
+{"items":[{	"arName":"كارافان للتسويق",
+	"enName":"Caravan Marketing",
+	"hotline":"19215",
+	"facebook":"http://www.facebook.com/BonjornoCafe",
+	"web":"http://www.bonjornocafe.com/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"64568",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/caravan-marketing/64568?b=1&k=19215&l=search",
+	"arName":"فيلا 278 - - القرية السياحية الاولى, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"29.988054000000002",
+	"lng":"30.991992",
+	"enName":"Villa 278, , 1St Touristic Village, El Motamayez District, 6th of october, Giza"
+}
+	]
+}]}

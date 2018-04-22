@@ -1,0 +1,55 @@
+{"items":[{	"arName":"تكييفات انلجا",
+	"enName":"Anlage Air Condition",
+	"hotline":"19006",
+	"facebook":"http://www.facebook.com/AnlageEgypt/",
+	"web":"http://www.anlage-eg.com/",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"538762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/anlage-air-condition/538762?b=1&k=19006&l=search",
+	"arName":"22 ش عبد العزيز, العتبة, القاهرة",
+	"lat":"30.048052999999999",
+	"lng":"31.248839",
+	"enName":"22 Abdel Aziz St., Ataba, Cairo"
+}
+	]
+}, {	"arName":"تليمصر - العربية للراديو الترانزستور والاجهزة الالكترونية",
+	"enName":"Telemisr - The Arab For Transistor Radio & Electronic Appliances",
+	"hotline":"19006",
+	"facebook":"http://www.facebook.com/TelemisrGroup",
+	"web":"http://www.telemisr.net/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"138515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/telemisr-_-the-arab-for-transistor-radio-&-electronic-appliances/138515?b=3&k=19006&l=search",
+	"arName":"496 طريق الحرية, بولكلى, الاسكندرية",
+	"lat":"31.232053000000001",
+	"lng":"29.956274000000001",
+	"enName":"496 El Horreya Rd., Bolkeley, Alexandria"
+},
+		{	"profileId":"138511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/telemisr-_-the-arab-for-transistor-radio-&-electronic-appliances/138511?b=4&k=19006&l=search",
+	"arName":"خدمة العملاء, العمرانية الغربية, الهرم, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Omraneya El Gharbeya, El haram, Giza"
+},
+		{	"profileId":"14405",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/telemisr-_-the-arab-for-transistor-radio-&-electronic-appliances/14405?b=2&k=19006&l=search",
+	"arName":"55 ش خاتم المرسلين, العمرانية الغربية, الهرم, الجيزة",
+	"lat":"30.004300000000001",
+	"lng":"31.200399999999998",
+	"enName":"55 Khatam El Morsaleen St., El Omraneya El Gharbeya, El haram, Giza"
+}
+	]
+}]}

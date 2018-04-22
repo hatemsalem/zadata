@@ -1,0 +1,49 @@
+{"items":[{	"arName":"صيدليات الالفى",
+	"enName":"El Alfy Pharmacies",
+	"hotline":"16706",
+	"facebook":"http://www.facebook.com/Elalfypharmacies",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"187826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alfy-pharmacies/187826?b=4&k=16706&l=search",
+	"arName":"16 ش مؤسسة الزكاة متفرع من ش الاربعين, المرج, القاهرة",
+	"lat":"30.142128",
+	"lng":"31.331398",
+	"enName":"16 Moassaset El Zakah St. Off El Arbaeen St., El marg, Cairo"
+},
+		{	"profileId":"187829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alfy-pharmacies/187829?b=2&k=16706&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"187825",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alfy-pharmacies/187825?b=1&k=16706&l=search",
+	"arName":"58 ش اسماء فهمى, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.079592000000002",
+	"lng":"31.335920999999999",
+	"enName":"58 Asmaa Fahmy St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"553931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alfy-pharmacies/553931?b=3&k=16706&l=search",
+	"arName":"18 ش محمد المهدى متفرع من ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.083100000000002",
+	"lng":"31.3367",
+	"enName":"18 Mohamed El Mahdy St. Off Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"563008",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-alfy-pharmacies/563008?b=5&k=16706&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.007152999999999",
+	"lng":"31.425882000000001",
+	"enName":"., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"داون تاون للسياحة",
+	"enName":"Down Town Travel",
+	"hotline":"19158",
+	"facebook":"http://www.facebook.com/downtowntravelegypt/timeline",
+	"web":"http://www.downtown-travelegy.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"472979",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/down-town-travel/472979?b=2&k=19158&l=search",
+	"arName":"4 ش شامبليون ميدان التحرير, وسط البلد, القاهرة",
+	"lat":"30.047121000000001",
+	"lng":"31.235265999999999",
+	"enName":"4 Champillion St. El Tahrir Sq., Downtown, Cairo"
+},
+		{	"profileId":"472980",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/down-town-travel/472980?b=1&k=19158&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

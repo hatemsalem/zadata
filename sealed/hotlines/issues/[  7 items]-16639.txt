@@ -1,0 +1,162 @@
+{"items":[{	"arName":"مجموعة المعز القابضة",
+	"enName":"Al Moez Holding Group",
+	"hotline":"16639",
+	"facebook":"http://www.facebook.com/almoezgroup",
+	"web":"http://www.almoez.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"474813",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-moez-holding-group/474813?b=2&k=16639&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"379578",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-moez-holding-group/379578?b=1&k=16639&l=search",
+	"arName":"25 ش وزارة الزراعة - برج المجموعة, الدقى, الجيزة",
+	"lat":"30.043403999999999",
+	"lng":"31.212001999999998",
+	"enName":"25 Wezaret El Zeraah St., El Maagmoua Tower, Dokki, Giza"
+},
+		{	"profileId":"141590",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-moez-holding-group/141590?b=3&k=16639&l=search",
+	"arName":"3 ش ابن شمر متفرع من ش شارل ديجول, الجيزة, الجيزة",
+	"lat":"30.0228",
+	"lng":"31.216999999999999",
+	"enName":"3 Ibn Shamar St. Off Charles De Gaulle St., Giza, Giza"
+}
+	]
+}, {	"arName":"المعز بلازا مول",
+	"enName":"Al Moez Plaza Mall",
+	"hotline":"16639",
+	"facebook":"http://www.facebook.com/almoezgroup",
+	"web":"http://www.almoez.com/ar/property/current-ar/administrative-current-ar/almoez-plaza-ar/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"577206",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-moez-plaza-mall/577206?b=4&k=16639&l=search",
+	"arName":"المجاورة الثانية - الحى 12, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.042161",
+	"lng":"30.982579999999999",
+	"enName":"2nd Neighbourhood, District 12, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"شركةالافق للتنمية العقارية والعمرانية",
+	"enName":"Al Offoq Co. For Real Estate & Urbanization Development",
+	"hotline":"16639",
+	"facebook":"http://www.facebook.com/offoqalmoez",
+	"web":"http://www.aloffoq.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"134668",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-offoq-co.-for-real-estate-&-urbanization-development/134668?b=6&k=16639&l=search",
+	"arName":"فيلا 66 - المجاورة الثانية - الحى 12, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.047041",
+	"lng":"30.987166999999999",
+	"enName":"Villa 66, 2Nd Neighbourhood, District 12, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"240141",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-offoq-co.-for-real-estate-&-urbanization-development/240141?b=5&k=16639&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"كونتننتال جاردنز",
+	"enName":"Continental Gardens",
+	"hotline":"16639",
+	"facebook":"http://www.facebook.com/almoezgroup",
+	"web":"http://www.almoez.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"377720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/continental-gardens/377720?b=7&k=16639&l=search",
+	"arName":"المجاورة الثانية - الحى 12, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.042721",
+	"lng":"30.989212999999999",
+	"enName":"2Nd Neighbourhood, District 12, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"روضة زايد",
+	"enName":"Rawdat Zayed",
+	"hotline":"16639",
+	"facebook":"http://www.facebook.com/almoezgroup",
+	"web":"http://www.almoez.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"377721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rawdat-zayed/377721?b=9&k=16639&l=search",
+	"arName":"المجاورة الثانية - الحى 12, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.045470000000002",
+	"lng":"30.987282",
+	"enName":"2nd Neighbourhood, District 12, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"سوق المعز",
+	"enName":"Souk Al Moez",
+	"hotline":"16639",
+	"facebook":"http://www.facebook.com/almoezgroup/photos/?tab=album&album_id=245287075494265",
+	"web":"http://www.almoez.com/ar",
+	"arCategory":[
+		"مراكز تسوق"
+	],
+	"enCategories":[
+		"Shopping Centers"
+	],
+	"contacts":[
+		{	"profileId":"377722",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/souk-al-moez/377722?b=10&k=16639&l=search",
+	"arName":"المجاورة الثانية - الحى 12, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.042299",
+	"lng":"30.982379000000002",
+	"enName":"2nd Neighbourhood, District 12, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"شركتى",
+	"enName":"My Company",
+	"hotline":"16639",
+	"facebook":"",
+	"web":"http://www.aloffoq.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"377723",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/my-company/377723?b=8&k=16639&l=search",
+	"arName":"المجاورة الثانية - الحى 12, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"2nd Neighbourhood, District 12, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,49 @@
+{"items":[{	"arName":"الايمان للسياحة",
+	"enName":"El Eman Tours",
+	"hotline":"16415",
+	"facebook":"http://www.facebook.com/ELEMANTOURS",
+	"web":"http://www.elemantours.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"513387",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-eman-tours/513387?b=4&k=16415&l=search",
+	"arName":"ش البحر تقاطع ش احمد ماهر, طنطا, الغربية",
+	"lat":"30.788871",
+	"lng":"30.999459000000002",
+	"enName":"El Bahr St. Intersection Of Ahmed Maher St., Tanta, El gharbeya"
+},
+		{	"profileId":"513386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-eman-tours/513386?b=1&k=16415&l=search",
+	"arName":"2 ش شامبليون ميدان التحرير, وسط البلد, القاهرة",
+	"lat":"30.046918999999999",
+	"lng":"31.235074999999998",
+	"enName":"2 Champillion St. El Tahrir Sq., Downtown, Cairo"
+},
+		{	"profileId":"513384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-eman-tours/513384?b=2&k=16415&l=search",
+	"arName":"خدمة العملاء, دمنهور, البحيرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Damanhour, El beheira"
+},
+		{	"profileId":"147170",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-eman-tours/147170?b=5&k=16415&l=search",
+	"arName":"10 مساكن الاستاد - ش عبد السلام الشاذلى, دمنهور, البحيرة",
+	"lat":"31.041025999999999",
+	"lng":"30.459112000000001",
+	"enName":"10 El Estad Bldgs., Abdel Salam El Shazly St., Damanhour, El beheira"
+},
+		{	"profileId":"513388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-eman-tours/513388?b=3&k=16415&l=search",
+	"arName":"3 ش الطيار محمود شكرى, سموحة, الاسكندرية",
+	"lat":"31.217998999999999",
+	"lng":"29.946283999999999",
+	"enName":"3 El Tayyar Mahmoud Shokry St., Semouha, Alexandria"
+}
+	]
+}]}

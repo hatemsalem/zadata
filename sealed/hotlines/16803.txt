@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الخبير للسيراميك والبورسلين",
+	"enName":"El Khabir For Ceramic & Porcelain",
+	"hotline":"16803",
+	"facebook":"http://www.facebook.com/AlKhabirCeramic/",
+	"web":"http://www.alkhabirceramic.com/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"52962",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-khabir-for-ceramic-&-porcelain/52962?b=1&k=16803&l=search",
+	"arName":"طريق الوراق تقاطع الطريق الدائرى - جزيرة محمد, الوراق, الجيزة",
+	"lat":"30.120059000000001",
+	"lng":"31.203436",
+	"enName":"El Warraq Rd. Intersection Of Ring Rd., Mohamed Island, El warak, Giza"
+}
+	]
+}]}

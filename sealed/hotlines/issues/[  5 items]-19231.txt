@@ -1,0 +1,115 @@
+{"items":[{	"arName":"جولف هاوس",
+	"enName":"Golf House",
+	"hotline":"19231",
+	"facebook":"",
+	"web":"http://www.betaegypt.com/2010/ar/projects/obour-projects/golf-house",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"371410",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-house/371410?b=5&k=19231&l=search",
+	"arName":"ميدان احمد عرابى - الحى الاول, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Ahmed Orabi Sq., 1St District, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"بيتا ايجيبت للتنمية العمرانية",
+	"enName":"Beta Egypt For Urban Development",
+	"hotline":"19231",
+	"facebook":"http://www.facebook.com/BetaEgypt",
+	"web":"http://www.betaegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"156600",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beta-egypt-for-urban-development/156600?b=2&k=19231&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"467900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beta-egypt-for-urban-development/467900?b=3&k=19231&l=search",
+	"arName":"52 ش مصدق متفرع من ش محيى الدين ابو العز - الدور 1 شقة 1, الدقى, الجيزة",
+	"lat":"30.039135999999999",
+	"lng":"31.204540999999999",
+	"enName":"52 Mossadak St. Off Mohy El Din Abou El Ezz St., Floor 1 Flat 1, Dokki, Giza"
+},
+		{	"profileId":"45726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beta-egypt-for-urban-development/45726?b=1&k=19231&l=search",
+	"arName":"4 عمارات العبور - طريق صلاح سالم - الدور 1 شقة 2, مدينة نصر, القاهرة",
+	"lat":"30.080190000000002",
+	"lng":"31.315300000000001",
+	"enName":"4 El Obour Bldgs., Salah Salem Rd., Floor 1 Flat 2, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"بيتا جاردنز",
+	"enName":"Beta Gardens",
+	"hotline":"19231",
+	"facebook":"",
+	"web":"http://www.betaegypt.com/projects/details/4",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"371406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beta-gardens/371406?b=4&k=19231&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.895368999999999",
+	"lng":"31.066134999999999",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}, {	"arName":"جولف بالاس",
+	"enName":"Golf Palace",
+	"hotline":"19231",
+	"facebook":"",
+	"web":"http://www.betaegypt.com/2010/ar/projects/obour-projects/golf-palace",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"371408",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-palace/371408?b=6&k=19231&l=search",
+	"arName":"ميدان احمد عرابى - الحى الاول, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Ahmed Orabi Sq., 1St District, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"جولف ريزيدنس",
+	"enName":"Golf Residence",
+	"hotline":"19231",
+	"facebook":"",
+	"web":"http://www.betaegypt.com/2010/ar/projects/october-projects/golf-residence",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"234445",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golf-residence/234445?b=7&k=19231&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.894606",
+	"lng":"31.063839000000002",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}]}

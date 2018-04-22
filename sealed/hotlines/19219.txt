@@ -1,0 +1,56 @@
+{"items":[{	"arName":"ديورافيت",
+	"enName":"Duravit",
+	"hotline":"19219",
+	"facebook":"http://www.facebook.com/duravit",
+	"web":"http://www.duravit.com.eg/",
+	"arCategory":[
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"136247",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/duravit/136247?b=2&k=19219&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"10209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/duravit/10209?b=1&k=19219&l=search",
+	"arName":"القطعة رقم 9 - مربع 1160 - مبنى ديورافيت - ش المشير احمد اسماعيل, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.096482000000002",
+	"lng":"31.372070999999998",
+	"enName":"Plot No. 9, Square No. 1160, Duravit Bldg., El Mosher Ahmed Ismail St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"394987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/duravit/394987?b=3&k=19219&l=search",
+	"arName":"طريق السلام - رأس كينيدى, السوق القديم, شرم الشيخ",
+	"lat":"27.865468",
+	"lng":"34.293652000000002",
+	"enName":"El Salam Rd., Ras Kennedy, El souk el kadim, Sharm el sheikh"
+},
+		{	"profileId":"394976",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/duravit/394976?b=6&k=19219&l=search",
+	"arName":"طريق النصر متفرع من ش الكهف, الدهار, الغردقة",
+	"lat":"27.239253999999999",
+	"lng":"33.830100999999999",
+	"enName":"El Nasr Rd. Off El Kahf St., Dahar, Hurghada"
+},
+		{	"profileId":"167072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/duravit/167072?b=5&k=19219&l=search",
+	"arName":"29 ش 45, ميامى, الاسكندرية",
+	"lat":"31.269293999999999",
+	"lng":"29.999048999999999",
+	"enName":"29 Rd. 45, Miami, Alexandria"
+},
+		{	"profileId":"394978",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/duravit/394978?b=4&k=19219&l=search",
+	"arName":"ش اسماعيل القبانى متفرع من ش الهلالى - برج مكة الزراعيين, اسيوط, اسيوط",
+	"lat":"27.181947000000001",
+	"lng":"31.190588000000002",
+	"enName":"Ismail El Qabbany St. Off El Helaly St., Mekka El Zeraeyeen Tower, Assyout, Assyout"
+}
+	]
+}]}

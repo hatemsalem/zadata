@@ -1,0 +1,110 @@
+{"items":[{	"arName":"بيرلتز ايجيبت",
+	"enName":"Berlitz Egypt",
+	"hotline":"16258",
+	"facebook":"http://www.facebook.com/BerlitzEgypt",
+	"web":"http://www.berlitzegypt.com/",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"313844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/313844?b=4&k=16258&l=search",
+	"arName":"42 ش طلعت مصطفى المرحلة الاولى, مدينة الرحاب, القاهرة",
+	"lat":"30.058799",
+	"lng":"31.494101000000001",
+	"enName":"42 Talaat Mostafa St. Phase 1, Al rehab city, Cairo"
+},
+		{	"profileId":"442004",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/442004?b=6&k=16258&l=search",
+	"arName":"410 ش الهرم - الدور 2, نصر الدين, الهرم, الجيزة",
+	"lat":"30.009024",
+	"lng":"31.199635000000001",
+	"enName":"410 Haram St., Floor 2, Nasr El Din, El haram, Giza"
+},
+		{	"profileId":"313834",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/313834?b=2&k=16258&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"388974",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/388974?b=5&k=16258&l=search",
+	"arName":"34 ش القدس الشريف متفرع من ش شهاب - الدور 4, المهندسين, الجيزة",
+	"lat":"30.057392",
+	"lng":"31.194023000000001",
+	"enName":"34 El Qods El Sharif St. Off Shehab St., Floor 4, Mohandeseen, Giza"
+},
+		{	"profileId":"313828",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/313828?b=1&k=16258&l=search",
+	"arName":"22 ش مكرم عبيد - الدور 2, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.057088",
+	"lng":"31.345561",
+	"enName":"22 Makram Ebaid St., Floor 2, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"452337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/452337?b=7&k=16258&l=search",
+	"arName":"فيلا 3 -, الحى السابع, السادس من اكتوبر, الجيزة",
+	"lat":"29.985683999999999",
+	"lng":"30.944510999999999",
+	"enName":"Villa 3,, 7th District, 6th of october, Giza"
+},
+		{	"profileId":"447587",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/447587?b=3&k=16258&l=search",
+	"arName":"18 ش مصطفى رفعت - الدور 2, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.101247999999998",
+	"lng":"31.377134999999999",
+	"enName":"18 Mostafa Refaat St., Floor 2, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"انجينيس",
+	"enName":"Engineeius",
+	"hotline":"16258",
+	"facebook":"http://www.facebook.com/engineeius",
+	"web":"egypt.engineeius.com",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"534388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/engineeius/534388?b=10&k=16258&l=search",
+	"arName":"فيلا 9 - ش 20 متفرع من ميدان فيكتوريا, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.961417999999998",
+	"lng":"31.268839",
+	"enName":"Villa 9, Rd. 20 Off Victoria Sq., New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"ديل كارنيجى للتدريب",
+	"enName":"Dale Carnegie Training",
+	"hotline":"16258",
+	"facebook":"http://www.facebook.com/DaleCarnegieEgypt",
+	"web":"http://www.egypt.dalecarnegie.com/",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"540385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dale-carnegie-training/540385?b=9&k=16258&l=search",
+	"arName":"خدمة العملاء, زهراء المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"315049",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dale-carnegie-training/315049?b=8&k=16258&l=search",
+	"arName":"59 أ ابراج زهراء المعادى - - الدور 1 شقة 14, زهراء المعادى, المعادى, القاهرة",
+	"lat":"29.962367",
+	"lng":"31.316322",
+	"enName":"59 A Zahraa El Maadi Towers, , Floor 1 Flat 14, Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بيتاثيرم - الشركة المتحدة للصناعة والتجارة",
+	"enName":"BetaTherm - United Co. For Manufacture & Trade",
+	"hotline":"16741",
+	"facebook":"http://www.facebook.com/betathermpvc",
+	"web":"http://www.betatherm-eg.com/",
+	"arCategory":[
+		"مواسير وانابيب وخطوط انابيب"
+	],
+	"enCategories":[
+		"Pipes, Tubes & Pipelines"
+	],
+	"contacts":[
+		{	"profileId":"498321",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/betatherm-_-united-co.-for-manufacture-&-trade/498321?b=1&k=16741&l=search",
+	"arName":"7 بلوك 35 - ش مصطفى النحاس - المنطقة التاسعة - الدور 4 شقة 404, مدينة نصر, القاهرة",
+	"lat":"30.056502999999999",
+	"lng":"31.364609999999999",
+	"enName":"7 Block 35, Mostafa El Nahhas St., 9th Zone, Floor 4 Flat 404, Nasr city, Cairo"
+},
+		{	"profileId":"498344",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/betatherm-_-united-co.-for-manufacture-&-trade/498344?b=2&k=16741&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

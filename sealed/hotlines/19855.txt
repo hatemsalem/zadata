@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدلية صلاح الدين",
+	"enName":"Salah El Deen Pharmacy",
+	"hotline":"19855",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"389538",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salah-el-deen-pharmacy/389538?b=2&k=19855&l=search",
+	"arName":"39 ش بابل متفرع من ش نادى الصيد, الدقى, الجيزة",
+	"lat":"30.042556000000001",
+	"lng":"31.202587999999999",
+	"enName":"39 Babel St. Off Nady El Seid St., Dokki, Giza"
+},
+		{	"profileId":"389532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salah-el-deen-pharmacy/389532?b=3&k=19855&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"106925",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salah-el-deen-pharmacy/106925?b=1&k=19855&l=search",
+	"arName":"1 امتداد ش 26 يوليو - ميدان لبنان, المهندسين, الجيزة",
+	"lat":"30.059100000000001",
+	"lng":"31.1904",
+	"enName":"1 Extension Of 26th Of July St., Lebanon Sq., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,102 @@
+{"items":[{	"arName":"ريزيدنس ايجيبت",
+	"enName":"Residence Egypt",
+	"hotline":"16638",
+	"facebook":"http://www.facebook.com/tulip.egypt",
+	"web":"http://www.residenceegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"397523",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/residence-egypt/397523?b=4&k=16638&l=search",
+	"arName":"91 ش الحجاز - الدور 10, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"30.105245",
+	"lng":"31.332778999999999",
+	"enName":"91 El Hegaz St., Floor 10, El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"503926",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/residence-egypt/503926?b=5&k=16638&l=search",
+	"arName":"خدمة العملاء, المريلاند, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Merryland, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"تيوليب ريزيدنس ريزورت",
+	"enName":"Tulip Residence Resort",
+	"hotline":"16638",
+	"facebook":"http://www.facebook.com/tulip.egypt",
+	"web":"",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"503996",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tulip-residence-resort/503996?b=7&k=16638&l=search",
+	"arName":"خدمة العملاء, العين السخنة, العين السخنة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"503989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tulip-residence-resort/503989?b=6&k=16638&l=search",
+	"arName":"كم 34 - طريق العين السخنة السويس, العين السخنة, العين السخنة",
+	"lat":"29.732595",
+	"lng":"32.390056000000001",
+	"enName":"Km 34, El Ain El Sokhna Suez Rd., El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"اروما بيتش كلوب",
+	"enName":"Aroma Beach Club",
+	"hotline":"16638",
+	"facebook":"http://www.facebook.com/aromabeachclub",
+	"web":"http://www.aroma-sokhna.com/",
+	"arCategory":[
+		"شواطىء"
+	],
+	"enCategories":[
+		"Beaches"
+	],
+	"contacts":[
+		{	"profileId":"503977",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aroma-beach-club/503977?b=2&k=16638&l=search",
+	"arName":"كم 34 - طريق العين السخنة السويس, العين السخنة, العين السخنة",
+	"lat":"29.734197000000002",
+	"lng":"32.394261",
+	"enName":"Km 34, El Ain El Sokhna Suez Rd., El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"503979",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aroma-beach-club/503979?b=1&k=16638&l=search",
+	"arName":"خدمة العملاء, العين السخنة, العين السخنة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"فندق ومنتجع اروما ريزيدنس",
+	"enName":"Aroma Residence Hotel & Resort",
+	"hotline":"16638",
+	"facebook":"http://www.facebook.com/AromaSokhna",
+	"web":"http://www.residenceegypt.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"397528",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aroma-residence-hotel-&-resort/397528?b=3&k=16638&l=search",
+	"arName":"كم 34 - طريق العين السخنة السويس, العين السخنة, العين السخنة",
+	"lat":"29.734197000000002",
+	"lng":"32.394261",
+	"enName":"Km 34, El Ain El Sokhna Suez Rd., El ain el sokhna, El ain el sokhna"
+}
+	]
+}]}

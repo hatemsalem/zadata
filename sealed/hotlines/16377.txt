@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدليات صحة",
+	"enName":"Sehha Pharmacies",
+	"hotline":"16377",
+	"facebook":"http://www.facebook.com/sehhapharmacies",
+	"web":"http://www.sehhapharmacies.com/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"465183",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sehha-pharmacies/465183?b=3&k=16377&l=search",
+	"arName":"مركز خدمات الاحياء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.005471",
+	"lng":"31.427432",
+	"enName":"Districts Services Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"465182",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sehha-pharmacies/465182?b=2&k=16377&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"368329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sehha-pharmacies/368329?b=1&k=16377&l=search",
+	"arName":"54 ش حسن المأمون, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.062819000000001",
+	"lng":"31.357887000000002",
+	"enName":"54 Hassan El Maamoun St., 8th District, Nasr city, Cairo"
+}
+	]
+}]}

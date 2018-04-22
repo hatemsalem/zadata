@@ -1,0 +1,55 @@
+{"items":[{	"arName":"مدينة الرباب",
+	"enName":"El Rabab City",
+	"hotline":"19262",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"370255",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabab-city/370255?b=4&k=19262&l=search",
+	"arName":"حدائق اكتوبر, الحى الخامس, السادس من اكتوبر, الجيزة",
+	"lat":"29.929535999999999",
+	"lng":"31.078040999999999",
+	"enName":"Hadaeq October, 5th District, 6th of october, Giza"
+},
+		{	"profileId":"370259",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabab-city/370259?b=3&k=19262&l=search",
+	"arName":"خدمة العملاء, الحى الخامس, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"الفرسان للادارة والتنمية السياحية",
+	"enName":"Al Fursan For Management & Touristic Development",
+	"hotline":"19262",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"142611",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fursan-for-management-&-touristic-development/142611?b=2&k=19262&l=search",
+	"arName":"خدمة العملاء, روكسى, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"52439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fursan-for-management-&-touristic-development/52439?b=1&k=19262&l=search",
+	"arName":"7 ش الميرغنى متفرع من ش عبد الله نور - الدور 1, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.090499999999999",
+	"lng":"31.3142",
+	"enName":"7 El Merghany St. Off Abdullah Nour St., Floor 1, Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

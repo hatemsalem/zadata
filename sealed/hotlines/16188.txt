@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اسيك المنيا للاسمنت",
+	"enName":"Asec Minya Cement",
+	"hotline":"16188",
+	"facebook":"",
+	"web":"http://www.asecement.com/",
+	"arCategory":[
+		"اسمنت وخرسانة وجبس وطوب ومعدات"
+	],
+	"enCategories":[
+		"Cement & Concrete, Gypsum, Brick & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"364177",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asec-minya-cement/364177?b=2&k=16188&l=search",
+	"arName":"80 ش 250, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.965805700000001",
+	"lng":"31.269127900000001",
+	"enName":"80 Rd. 250, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"464211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asec-minya-cement/464211?b=1&k=16188&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

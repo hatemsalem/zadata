@@ -1,0 +1,53 @@
+{"items":[{	"arName":"وايلز كيتشن",
+	"enName":"Willy's Kitchen",
+	"hotline":"19256",
+	"facebook":"http://www.facebook.com/WillysKitchen.eg",
+	"web":"http://www.willys-kitchen.com/",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"576854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/willy's-kitchen/576854?b=3&k=19256&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"541510",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/willy's-kitchen/541510?b=5&k=19256&l=search",
+	"arName":"ش النرجس متفرع من ش الثروة, المهندسين, الجيزة",
+	"lat":"30.047732",
+	"lng":"31.206",
+	"enName":"El Narges St. Off El Tharwa St., Mohandeseen, Giza"
+},
+		{	"profileId":"461544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/willy's-kitchen/461544?b=1&k=19256&l=search",
+	"arName":"9 ش حافظ رمضان, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.067765999999999",
+	"lng":"31.345523",
+	"enName":"9 Hafez Ramadan St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"577340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/willy's-kitchen/577340?b=4&k=19256&l=search",
+	"arName":"19 ش شمس الدين الذهبى, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.082568999999999",
+	"lng":"31.332428",
+	"enName":"19 Shams El Din El Zahaby St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"541516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/willy's-kitchen/541516?b=2&k=19256&l=search",
+	"arName":"القطعة 82 - ش اخناتون - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.003406999999999",
+	"lng":"31.421278000000001",
+	"enName":"Plot 82, Ekhnatoun St., 1St District, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

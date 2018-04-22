@@ -1,0 +1,70 @@
+{"items":[{	"arName":"هاى بوينت للاثاث",
+	"enName":"High Point Furniture",
+	"hotline":"19026",
+	"facebook":"http://www.facebook.com/pages/High-point-furniture-Heliopolis-branch/610809942357749",
+	"web":"http://www.highpointeg.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"370045",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/370045?b=4&k=19026&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"509307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/509307?b=2&k=19026&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.091630500000001",
+	"lng":"31.384119800000001",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"544516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/544516?b=5&k=19026&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"133840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/133840?b=8&k=19026&l=search",
+	"arName":"131 ش البرت الاول - الدور 1, سموحة, الاسكندرية",
+	"lat":"31.214843999999999",
+	"lng":"29.939070999999998",
+	"enName":"131 Albert El Awal St., Floor 1, Semouha, Alexandria"
+},
+		{	"profileId":"133838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/133838?b=7&k=19026&l=search",
+	"arName":"77 ش شهاب, المهندسين, الجيزة",
+	"lat":"30.058199999999999",
+	"lng":"31.199000000000002",
+	"enName":"77 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"88567",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/88567?b=1&k=19026&l=search",
+	"arName":"1 عمارات المروة - ش احمد تيسير متفرع من ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.079066999999998",
+	"lng":"31.327832999999998",
+	"enName":"1 El Marwa Bldgs., Ahmed Tayseer St. Off El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"182062",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/182062?b=3&k=19026&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"392116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-point-furniture/392116?b=6&k=19026&l=search",
+	"arName":"39 ش سوريا - عمارة رجال الاعمال, رشدى, الاسكندرية",
+	"lat":"31.232804000000002",
+	"lng":"29.946950999999999",
+	"enName":"39 Syria St., Regal El Aamal Bldg., Roushdy, Alexandria"
+}
+	]
+}]}

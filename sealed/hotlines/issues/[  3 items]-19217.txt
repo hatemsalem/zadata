@@ -1,0 +1,75 @@
+{"items":[{	"arName":"مجموعة عربية للاستثمار العقارى",
+	"enName":"Arabia Group For Real Estate Investment",
+	"hotline":"19217",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"42682",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabia-group-for-real-estate-investment/42682?b=1&k=19217&l=search",
+	"arName":"6 عمارات العبور - طريق صلاح سالم - الدور 6 شقة 4, مدينة نصر, القاهرة",
+	"lat":"30.079322999999999",
+	"lng":"31.314094000000001",
+	"enName":"6 El Obour Bldgs., Salah Salem Rd., Floor 6 Flat 4, Nasr city, Cairo"
+},
+		{	"profileId":"103399",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabia-group-for-real-estate-investment/103399?b=2&k=19217&l=search",
+	"arName":"153 ش الميرغنى ميدان السبع عمارات - الدور 2, مصر الجديدة, القاهرة",
+	"lat":"30.092085999999998",
+	"lng":"31.344777000000001",
+	"enName":"153 El Merghany St. El Sabaa Emarat Sq., Floor 2, Heliopolis, Cairo"
+},
+		{	"profileId":"138700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabia-group-for-real-estate-investment/138700?b=3&k=19217&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"جاليريا مون فالى مول",
+	"enName":"Galleria Moon Valley Mall",
+	"hotline":"19217",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"458471",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/galleria-moon-valley-mall/458471?b=5&k=19217&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.021273999999998",
+	"lng":"31.540284",
+	"enName":"., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"جاليريا مون فالى",
+	"enName":"Galleria Moon Valley",
+	"hotline":"19217",
+	"facebook":"http://www.facebook.com/GalleriaNewCairo",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"458470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/galleria-moon-valley/458470?b=4&k=19217&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.021208999999999",
+	"lng":"31.54016",
+	"enName":"., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

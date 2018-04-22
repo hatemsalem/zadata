@@ -1,0 +1,63 @@
+{"items":[{	"arName":"مركز النيل للاشعة",
+	"enName":"Nile Scan",
+	"hotline":"19656",
+	"facebook":"http://www.facebook.com/nilescanandlabs",
+	"web":"http://www.mynilescan.com/",
+	"arCategory":[
+		"اشعة مراكز"
+	],
+	"enCategories":[
+		"Radiology"
+	],
+	"contacts":[
+		{	"profileId":"7241",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-scan/7241?b=1&k=19656&l=search",
+	"arName":"1 ش 9 ميدان المحطة - عمارة معادى بالاس - الدور 2, المعادى, القاهرة",
+	"lat":"29.959987999999999",
+	"lng":"31.259482999999999",
+	"enName":"1 Rd. 9 El Mahatta Sq., Maadi Palace Bldg., Floor 2, Maadi, Cairo"
+},
+		{	"profileId":"563530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-scan/563530?b=3&k=19656&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.016922000000001",
+	"lng":"31.412593999999999",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"105026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-scan/105026?b=6&k=19656&l=search",
+	"arName":"59 ش مصدق - الدور 1, الدقى, الجيزة",
+	"lat":"30.039304999999999",
+	"lng":"31.203949000000001",
+	"enName":"59 Mossadak St., Floor 1, Dokki, Giza"
+},
+		{	"profileId":"99318",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-scan/99318?b=2&k=19656&l=search",
+	"arName":"8 ش احمد الرشيدى متفرع من ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.082784",
+	"lng":"31.339421999999999",
+	"enName":"8 Ahmed El Rashidy St. Off Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"162672",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-scan/162672?b=4&k=19656&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"271978",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-scan/271978?b=7&k=19656&l=search",
+	"arName":"المحور المركزى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.030890500000002",
+	"lng":"31.0035037",
+	"enName":"Central Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"96330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-scan/96330?b=5&k=19656&l=search",
+	"arName":"8 ش هدى شعراوى - الدور 1, باب اللوق, القاهرة",
+	"lat":"30.045643999999999",
+	"lng":"31.240655",
+	"enName":"8 Hoda Shaarawy St., Floor 1, Bab el louk, Cairo"
+}
+	]
+}]}

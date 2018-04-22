@@ -1,0 +1,75 @@
+{"items":[{	"arName":"ايزيس لتصنيع المواد الغذائية",
+	"enName":"Isis For Food Industries",
+	"hotline":"19792",
+	"facebook":"http://www.facebook.com/ISISOrganic",
+	"web":"http://www.isisorganic.com/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"174358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/isis-for-food-industries/174358?b=3&k=19792&l=search",
+	"arName":"طريق بلبيس, بلبيس, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"Belbeis Rd., Belbeis, El sharkeya"
+},
+		{	"profileId":"428516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/isis-for-food-industries/428516?b=2&k=19792&l=search",
+	"arName":"خدمة العملاء, مدينة السلام, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El salam city, Cairo"
+},
+		{	"profileId":"133461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/isis-for-food-industries/133461?b=1&k=19792&l=search",
+	"arName":"طريق بلبيس الصحراوى, مدينة السلام, القاهرة",
+	"lat":"30.152581999999999",
+	"lng":"31.429207999999999",
+	"enName":"Belbeis Desert Rd., El salam city, Cairo"
+}
+	]
+}, {	"arName":"اورجانيك اند مور",
+	"enName":"Organic & More",
+	"hotline":"19792",
+	"facebook":"",
+	"web":"http://www.isisorganic.com/",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"249987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/organic-&-more/249987?b=4&k=19792&l=search",
+	"arName":"3 طريق بلبيس الصحراوى, مدينة السلام, القاهرة",
+	"lat":"30.15241",
+	"lng":"31.429266999999999",
+	"enName":"3 Belbeis Desert Rd., El salam city, Cairo"
+}
+	]
+}, {	"arName":"سيكم",
+	"enName":"Sekem",
+	"hotline":"19792",
+	"facebook":"",
+	"web":"http://www.sekem.com/",
+	"arCategory":[
+		"توابل واعشاب"
+	],
+	"enCategories":[
+		"Spices & Herbs"
+	],
+	"contacts":[
+		{	"profileId":"469327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sekem/469327?b=5&k=19792&l=search",
+	"arName":"3 طريق بلبيس الصحراوى, مدينة السلام, القاهرة",
+	"lat":"30.153310000000001",
+	"lng":"31.429203000000001",
+	"enName":"3 Belbeis Desert Rd., El salam city, Cairo"
+}
+	]
+}]}

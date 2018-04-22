@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سوق دوت كوم",
+	"enName":"Souq.com",
+	"hotline":"19932",
+	"facebook":"http://www.facebook.com/SouqEgypt",
+	"web":"http://www.egypt.souq.com/",
+	"arCategory":[
+		"تسويق استشاريون"
+	],
+	"enCategories":[
+		"Marketing Consultants"
+	],
+	"contacts":[
+		{	"profileId":"230891",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/souq.com/230891?b=2&k=19932&l=search",
+	"arName":"28 كورنيش النيل, المعادى, القاهرة",
+	"lat":"29.961196999999999",
+	"lng":"31.247515",
+	"enName":"28 Corniche El Nil, Maadi, Cairo"
+},
+		{	"profileId":"473414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/souq.com/473414?b=1&k=19932&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,112 @@
+{"items":[{	"arName":"المصرية للسيارات",
+	"enName":"El Masria Auto",
+	"hotline":"19095",
+	"facebook":"http://www.facebook.com/ElMasria.Auto",
+	"web":"http://www.elmasria-auto.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"428270",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/428270?b=13&k=19095&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"121494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/121494?b=8&k=19095&l=search",
+	"arName":"ش الجيش, طنطا, الغربية",
+	"lat":"30.812645",
+	"lng":"30.993622999999999",
+	"enName":"El Guish St., Tanta, El gharbeya"
+},
+		{	"profileId":"99322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/99322?b=10&k=19095&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.206814000000001",
+	"lng":"29.964224999999999",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"125703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/125703?b=5&k=19095&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"551531",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551531?b=7&k=19095&l=search",
+	"arName":"ش عدلى, اسيوط, اسيوط",
+	"lat":"27.185627",
+	"lng":"31.181804",
+	"enName":"Adly St., Assyout, Assyout"
+},
+		{	"profileId":"277696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/277696?b=12&k=19095&l=search",
+	"arName":"ش سعد زغلول - توريل الجديدة, المنصورة, الدقهلية",
+	"lat":"31.058491100000001",
+	"lng":"31.4005793",
+	"enName":"Saad Zaghloul St., Toril El Gadida, El mansoura, El dakahleya"
+},
+		{	"profileId":"551540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551540?b=14&k=19095&l=search",
+	"arName":"عمارة الاوقاف, دمياط, دمياط",
+	"lat":"31.417320799999999",
+	"lng":"31.813285100000002",
+	"enName":"El Awqaf Bldg., Damietta, Damietta"
+},
+		{	"profileId":"443701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/443701?b=4&k=19095&l=search",
+	"arName":"18 ش طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.048078",
+	"lng":"31.238437999999999",
+	"enName":"18 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"551547",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551547?b=9&k=19095&l=search",
+	"arName":"52 ش النصر, الدهار, الغردقة",
+	"lat":"27.243283999999999",
+	"lng":"33.827773000000001",
+	"enName":"52 El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"247202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/247202?b=11&k=19095&l=search",
+	"arName":"ش النصر, الدهار, الغردقة",
+	"lat":"27.243321999999999",
+	"lng":"33.827877999999998",
+	"enName":"El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"551517",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551517?b=2&k=19095&l=search",
+	"arName":"ش 9, المقطم, القاهرة",
+	"lat":"30.013413",
+	"lng":"31.325676999999999",
+	"enName":"Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"551506",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/551506?b=6&k=19095&l=search",
+	"arName":"ش زمزم متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.046747",
+	"lng":"31.196408000000002",
+	"enName":"Zamzam St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"12105",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/12105?b=1&k=19095&l=search",
+	"arName":"كورنيش النيل - برج سراى المعادى, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.983166000000001",
+	"lng":"31.230633000000001",
+	"enName":"Corniche El Nil, Saray El Maadi Tower, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"113085",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masria-auto/113085?b=3&k=19095&l=search",
+	"arName":"2 عمارات المروة - ش احمد تيسير, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.078157999999998",
+	"lng":"31.328106999999999",
+	"enName":"2 El Marwa Bldgs., Ahmed Tayseer St., koleyet El Banat, Heliopolis, Cairo"
+}
+	]
+}]}

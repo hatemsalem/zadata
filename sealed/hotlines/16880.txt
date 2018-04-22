@@ -1,0 +1,35 @@
+{"items":[{	"arName":"مايكروسوفت ايجيبت",
+	"enName":"Microsoft Egypt",
+	"hotline":"16880",
+	"facebook":"",
+	"web":"http://www.microsoft.com/egypt",
+	"arCategory":[
+		"كمبيوتر برامج"
+	],
+	"enCategories":[
+		"Computer Software"
+	],
+	"contacts":[
+		{	"profileId":"446216",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/microsoft-egypt/446216?b=1&k=16880&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.017534900000001",
+	"lng":"31.425205999999999",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"63758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/microsoft-egypt/63758?b=2&k=16880&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.071089000000001",
+	"lng":"31.017225",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"124480",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/microsoft-egypt/124480?b=3&k=16880&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+}
+	]
+}]}

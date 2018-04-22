@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الفيمو",
+	"enName":"Alfemo",
+	"hotline":"16494",
+	"facebook":"http://www.facebook.com/Alfemo.Egypt",
+	"web":"http://www.alfemoegypt.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"431700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfemo/431700?b=3&k=16494&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"545466",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfemo/545466?b=4&k=16494&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.206571",
+	"lng":"29.96536",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"364202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfemo/364202?b=1&k=16494&l=search",
+	"arName":"ش عمر بن الخطاب - الدور 7, مدينة نصر, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Floor 7, Nasr city, Cairo"
+},
+		{	"profileId":"468648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alfemo/468648?b=2&k=16494&l=search",
+	"arName":"21 عمارات الشركة السعودية - ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.075980999999999",
+	"lng":"31.340589000000001",
+	"enName":"21 Secon Bldgs., El Nozha St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

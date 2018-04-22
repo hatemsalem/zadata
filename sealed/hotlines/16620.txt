@@ -1,0 +1,21 @@
+{"items":[{	"arName":"جهينة للصناعات الغذائية",
+	"enName":"Juhayna For Food Industries",
+	"hotline":"16620",
+	"facebook":"http://www.facebook.com/JuhaynaCorporate",
+	"web":"http://www.juhayna.com/",
+	"arCategory":[
+		"البان منتجات - مصنعون"
+	],
+	"enCategories":[
+		"Dairy Industry"
+	],
+	"contacts":[
+		{	"profileId":"71382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/71382?b=1&k=16620&l=search",
+	"arName":"القطعة 39 - - المنطقة الصناعية الاولى, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.932884000000001",
+	"lng":"30.900203999999999",
+	"enName":"Plot 39, , 1St Industrial Zone, Industrial Zone, 6th of october, Giza"
+}
+	]
+}]}

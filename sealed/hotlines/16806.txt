@@ -1,0 +1,63 @@
+{"items":[{	"arName":"ايفون كوزمتكس ايجيبت",
+	"enName":"Avon Cosmetics Egypt",
+	"hotline":"16806",
+	"facebook":"http://www.facebook.com/AvonEgypt",
+	"web":"http://www.avon.com.eg/",
+	"arCategory":[
+		"مستحضرات تجميل"
+	],
+	"enCategories":[
+		"Cosmetics & Toiletries"
+	],
+	"contacts":[
+		{	"profileId":"137019",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/avon-cosmetics-egypt/137019?b=2&k=16806&l=search",
+	"arName":"7 ش محمد متولى الشعراوى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.101777999999999",
+	"lng":"31.378336999999998",
+	"enName":"7 Mohamed Metwally El Shaarawy St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"92654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/avon-cosmetics-egypt/92654?b=3&k=16806&l=search",
+	"arName":"9 ابراج عثمان - ش الاثرى محمد بن نافع, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.096426000000001",
+	"lng":"31.313821000000001",
+	"enName":"9 Othman Towers, El Athary Mohamed Ibn Nafea St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"162574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/avon-cosmetics-egypt/162574?b=6&k=16806&l=search",
+	"arName":"كم 63 - ش عبد القوى احمد - المنطقة الصناعية الثالثة, العاشر من رمضان, الشرقية",
+	"lat":"30.271843000000001",
+	"lng":"31.767527999999999",
+	"enName":"Km 63, Abdel Qawy Ahmed St., 3rd Industrial Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"288714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/avon-cosmetics-egypt/288714?b=4&k=16806&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"162573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/avon-cosmetics-egypt/162573?b=5&k=16806&l=search",
+	"arName":"366 طريق الجيش, جليم, الاسكندرية",
+	"lat":"31.240476999999998",
+	"lng":"29.958393000000001",
+	"enName":"366 El Guish Rd., Glim, Alexandria"
+},
+		{	"profileId":"55438",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/avon-cosmetics-egypt/55438?b=1&k=16806&l=search",
+	"arName":"10 ابراج اغاخان -, اغاخان, القاهرة",
+	"lat":"30.102644999999999",
+	"lng":"31.243137999999998",
+	"enName":"10 Aghakhan Towers,, Aghakhan, Cairo"
+},
+		{	"profileId":"159894",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/avon-cosmetics-egypt/159894?b=7&k=16806&l=search",
+	"arName":"امتداد ش العشرين, حى السلام, الاسماعيلية",
+	"lat":"30.613478700000002",
+	"lng":"32.271306199999998",
+	"enName":"Extension Of El Eshreen St., El salam district, Ismaileya"
+}
+	]
+}]}

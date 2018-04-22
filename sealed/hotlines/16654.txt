@@ -1,0 +1,63 @@
+{"items":[{	"arName":"طوكيو مارين مصر",
+	"enName":"Tokio Marine Egypt",
+	"hotline":"16654",
+	"facebook":"http://www.facebook.com/TokioMarineTakaful",
+	"web":"http://www.tokiomarine.com.eg/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"424704",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tokio-marine-egypt/424704?b=3&k=16654&l=search",
+	"arName":"51 ش بيروت - الدور 5, مصر الجديدة, القاهرة",
+	"lat":"30.091000999999999",
+	"lng":"31.331446",
+	"enName":"51 Beirut St., Floor 5, Heliopolis, Cairo"
+},
+		{	"profileId":"424714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tokio-marine-egypt/424714?b=6&k=16654&l=search",
+	"arName":"13 ش عبد الحميد بدوى, الازاريطة, الاسكندرية",
+	"lat":"31.204397",
+	"lng":"29.905025999999999",
+	"enName":"13 Abdel Hamid Badawy St., Azarita, Alexandria"
+},
+		{	"profileId":"430850",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tokio-marine-egypt/430850?b=1&k=16654&l=search",
+	"arName":"1 ش مكرم عبيد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.069144000000001",
+	"lng":"31.344362",
+	"enName":"1 Makram Ebaid St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"430333",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tokio-marine-egypt/430333?b=7&k=16654&l=search",
+	"arName":"34 ش جامعة الدول العربية - الدور 1, المهندسين, الجيزة",
+	"lat":"30.056158",
+	"lng":"31.204709000000001",
+	"enName":"34 Gamaet El Dewal El Arabeya St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"424767",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tokio-marine-egypt/424767?b=2&k=16654&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"430832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tokio-marine-egypt/430832?b=5&k=16654&l=search",
+	"arName":"34 ش الجيش - الدور 3,4, طنطا, الغربية",
+	"lat":"30.791848000000002",
+	"lng":"30.998439000000001",
+	"enName":"34 El Guish St., Floor 3,4, Tanta, El gharbeya"
+},
+		{	"profileId":"430826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tokio-marine-egypt/430826?b=4&k=16654&l=search",
+	"arName":"28 ابراج سما المعادى - كورنيش النيل - الدور 3, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.960902000000001",
+	"lng":"31.247675999999998",
+	"enName":"28 Sama El Maadi Towers, Corniche El Nil, Floor 3, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

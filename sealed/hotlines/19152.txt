@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى لوران",
+	"enName":"Louran Hospital",
+	"hotline":"19152",
+	"facebook":"http://www.facebook.com/LouranHospital",
+	"web":"http://www.louranhospital.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"186636",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/louran-hospital/186636?b=1&k=19152&l=search",
+	"arName":"خدمة طوارئ, لوران, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Loran, Alexandria"
+},
+		{	"profileId":"186630",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/louran-hospital/186630?b=2&k=19152&l=search",
+	"arName":"13 ش الشعراوى, لوران, الاسكندرية",
+	"lat":"31.247171999999999",
+	"lng":"29.974146999999999",
+	"enName":"13 El Shaarawy St., Loran, Alexandria"
+}
+	]
+}]}

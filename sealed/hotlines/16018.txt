@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المجموعة الدولية للتجارة - برو اوفيس",
+	"enName":"International Trade Group - Pro Office",
+	"hotline":"16018",
+	"facebook":"http://www.facebook.com/Prooffice-furniture-in-Egypt-1439415109626715",
+	"web":"http://www.proofficeeg.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"429769",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-trade-group-_-pro-office/429769?b=1&k=16018&l=search",
+	"arName":"27 ش الجيزة - الدور 9, الجيزة, الجيزة",
+	"lat":"30.022635000000001",
+	"lng":"31.216653000000001",
+	"enName":"27 Giza St., Floor 9, Giza, Giza"
+},
+		{	"profileId":"430051",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-trade-group-_-pro-office/430051?b=2&k=16018&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}]}

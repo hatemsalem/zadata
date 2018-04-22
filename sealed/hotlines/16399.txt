@@ -1,0 +1,35 @@
+{"items":[{	"arName":"اسكيمو جروب",
+	"enName":"Eskimo Group",
+	"hotline":"16399",
+	"facebook":"",
+	"web":"http://www.eskimogroup.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"346045",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eskimo-group/346045?b=1&k=16399&l=search",
+	"arName":"فيلا 3/أ - ش شوقى عبد المنعم متفرع من ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"villa 3/A, shawky abdel moneim st. Off El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"346047",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eskimo-group/346047?b=3&k=16399&l=search",
+	"arName":"حى المغازى, ابو حماد, الشرقية",
+	"lat":"30.538287799999999",
+	"lng":"31.677178099999999",
+	"enName":"El Moghazy District, Abou hammad, El sharkeya"
+},
+		{	"profileId":"325323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eskimo-group/325323?b=2&k=16399&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,224 @@
+{"items":[{	"arName":"مجموعة طلعت مصطفى القابضة",
+	"enName":"Talaat Moustafa Group Holding - TMG Holding",
+	"hotline":"19691",
+	"facebook":"http://www.facebook.com/Talaat.moustafa.group",
+	"web":"http://www.talaatmoustafa.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"71646",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/talaat-moustafa-group-holding-_-tmg-holding/71646?b=17&k=19691&l=search",
+	"arName":"388 ش الجيش - عمارة مينا - الدور 1, زيزينيا, الاسكندرية",
+	"lat":"31.243444",
+	"lng":"29.963622000000001",
+	"enName":"388 El Guish St., Mena Bldg., Floor 1, Zezenia, Alexandria"
+},
+		{	"profileId":"5091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/talaat-moustafa-group-holding-_-tmg-holding/5091?b=16&k=19691&l=search",
+	"arName":"36 ش مصدق, الدقى, الجيزة",
+	"lat":"30.0398",
+	"lng":"31.206900000000001",
+	"enName":"36 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"126691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/talaat-moustafa-group-holding-_-tmg-holding/126691?b=13&k=19691&l=search",
+	"arName":"115 ش عمر بن الخطاب - الدور 1, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.086400000000001",
+	"lng":"31.346900000000002",
+	"enName":"115 Omar Ibn El Khattab St., Floor 1, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"127738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/talaat-moustafa-group-holding-_-tmg-holding/127738?b=15&k=19691&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"129816",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/talaat-moustafa-group-holding-_-tmg-holding/129816?b=14&k=19691&l=search",
+	"arName":"المبنى الادارى 8, مدينة الرحاب, القاهرة",
+	"lat":"30.059190999999998",
+	"lng":"31.490939000000001",
+	"enName":"Administrative Bldg. 8, Al rehab city, Cairo"
+}
+	]
+}, {	"arName":"قرية الربوة",
+	"enName":"El Rabwa Village",
+	"hotline":"19691",
+	"facebook":"",
+	"web":"http://www.al-rabwa.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"96747",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-rabwa-village/96747?b=5&k=19691&l=search",
+	"arName":"الحى 15, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.063994000000001",
+	"lng":"30.992761999999999",
+	"enName":"15th District, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"سان ستيفانو للاستثمار العقارى",
+	"enName":"San Stefano For Real Estate Investment",
+	"hotline":"19691",
+	"facebook":"",
+	"web":"http://www.san-stefano.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"135109",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/san-stefano-for-real-estate-investment/135109?b=11&k=19691&l=search",
+	"arName":"388 عمارة مينا - ش الجيش, زيزينيا, الاسكندرية",
+	"lat":"31.243444",
+	"lng":"29.963622000000001",
+	"enName":"388 mena bldg., El Guish St., Zezenia, Alexandria"
+},
+		{	"profileId":"97090",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/san-stefano-for-real-estate-investment/97090?b=12&k=19691&l=search",
+	"arName":"36 ش مصدق, الدقى, الجيزة",
+	"lat":"30.0398",
+	"lng":"31.206900000000001",
+	"enName":"36 Mossadak St., Dokki, Giza"
+}
+	]
+}, {	"arName":"مدينتى",
+	"enName":"Madinaty",
+	"hotline":"19691",
+	"facebook":"http://www.facebook.com/MadinatyTMG",
+	"web":"http://www.madinaty.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"130784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/madinaty/130784?b=7&k=19691&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"lat":"30.061616399999998",
+	"lng":"31.491637000000001",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"135082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/madinaty/135082?b=6&k=19691&l=search",
+	"arName":"كم 33 - طريق مصر السويس الصحراوى, طريق القاهرة السويس, القاهرة",
+	"lat":"30.101047000000001",
+	"lng":"31.612601000000002",
+	"enName":"Km 33, Cairo Suez Desert Rd., Cairo suez rd., Cairo"
+},
+		{	"profileId":"51187",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/madinaty/51187?b=9&k=19691&l=search",
+	"arName":"36 ش مصدق, الدقى, الجيزة",
+	"lat":"30.0398",
+	"lng":"31.206900000000001",
+	"enName":"36 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"141004",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/madinaty/141004?b=8&k=19691&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة السويس, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo suez rd., Cairo"
+}
+	]
+}, {	"arName":"الرحاب",
+	"enName":"Al Rehab",
+	"hotline":"19691",
+	"facebook":"",
+	"web":"http://www.alrehabcity.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"148045",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rehab/148045?b=1&k=19691&l=search",
+	"arName":"36 ش مصدق, الدقى, الجيزة",
+	"lat":"30.039721",
+	"lng":"31.206972",
+	"enName":"36 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"150832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rehab/150832?b=2&k=19691&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}, {	"arName":"نوفا بارك القاهرة",
+	"enName":"Nova Park Cairo",
+	"hotline":"19691",
+	"facebook":"",
+	"web":"http://www.talaatmoustafa.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"51190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nova-park-cairo/51190?b=10&k=19691&l=search",
+	"arName":"36 ش مصدق, الدقى, الجيزة",
+	"lat":"30.0398",
+	"lng":"31.206900000000001",
+	"enName":"36 Mossadak St., Dokki, Giza"
+}
+	]
+}, {	"arName":"الاسكندرية للمشروعات العمرانية",
+	"enName":"Alexandria Urban Projects",
+	"hotline":"19691",
+	"facebook":"",
+	"web":"http://www.talaatmoustafa.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"51186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alexandria-urban-projects/51186?b=4&k=19691&l=search",
+	"arName":"36 ش مصدق, الدقى, الجيزة",
+	"lat":"30.0398",
+	"lng":"31.206900000000001",
+	"enName":"36 Mossadak St., Dokki, Giza"
+}
+	]
+}, {	"arName":"الاسكندرية للانشاءات",
+	"enName":"Alexandria For Construction",
+	"hotline":"19691",
+	"facebook":"",
+	"web":"http://www.talaatmoustafa.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"51185",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alexandria-for-construction/51185?b=3&k=19691&l=search",
+	"arName":"36 ش مصدق, الدقى, الجيزة",
+	"lat":"30.0398",
+	"lng":"31.206900000000001",
+	"enName":"36 Mossadak St., Dokki, Giza"
+}
+	]
+}]}

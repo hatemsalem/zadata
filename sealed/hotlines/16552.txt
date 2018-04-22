@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الديار للتعمير",
+	"enName":"El Diar For Construction",
+	"hotline":"16552",
+	"facebook":"http://www.facebook.com/Diar.Constructions/timeline",
+	"web":"http://www.diaraltamer.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"475618",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-diar-for-construction/475618?b=3&k=16552&l=search",
+	"arName":"عمارات ضباط مصطفى كامل -, مصطفى كامل, الاسكندرية",
+	"lat":"31.228413",
+	"lng":"29.947395",
+	"enName":"El Dobbat Mostafa Kamel Bldgs.,, Mostafa kamel, Alexandria"
+},
+		{	"profileId":"407644",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-diar-for-construction/407644?b=1&k=16552&l=search",
+	"arName":"13 عمارات رابعة الاستثمارى - ش النزهة ميدان الساعة, مدينة نصر, القاهرة",
+	"lat":"30.069178000000001",
+	"lng":"31.337928999999999",
+	"enName":"13 Rabaa Investment Bldgs., El Nozha St. El Saah Sq., Nasr city, Cairo"
+},
+		{	"profileId":"475620",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-diar-for-construction/475620?b=2&k=16552&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

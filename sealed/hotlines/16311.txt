@@ -1,0 +1,21 @@
+{"items":[{	"arName":"روش للمعدات الطبية",
+	"enName":"Roche Diagnostics",
+	"hotline":"16311",
+	"facebook":"",
+	"web":"http://www.roche.com/",
+	"arCategory":[
+		"طب معدات"
+	],
+	"enCategories":[
+		"Medical Equipment"
+	],
+	"contacts":[
+		{	"profileId":"552160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roche-diagnostics/552160?b=1&k=16311&l=search",
+	"arName":"6 ش ابن الارحب, الجيزة, الجيزة",
+	"lat":"30.027052999999999",
+	"lng":"31.216882999999999",
+	"enName":"6 Ibn El Arhab St., Giza, Giza"
+}
+	]
+}]}

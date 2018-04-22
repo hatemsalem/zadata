@@ -1,0 +1,60 @@
+{"items":[{	"arName":"فينسيا للتجارة والمقاولات",
+	"enName":"Venecia For Trading & Contracting",
+	"hotline":"19975",
+	"facebook":"http://www.facebook.com/veneciablinds/?ref=br_rs",
+	"web":"http://www.veneciaegypt.com/",
+	"arCategory":[
+		"ستائر وشيش",
+		"اسقف",
+		"ارضيات"
+	],
+	"enCategories":[
+		"Blinds & Window Coverings",
+		"Ceilings",
+		"Flooring"
+	],
+	"contacts":[
+		{	"profileId":"543527",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venecia-for-trading-&-contracting/543527?b=2&k=19975&l=search",
+	"arName":"173 ش السودان, المهندسين, الجيزة",
+	"lat":"30.052783999999999",
+	"lng":"31.191746999999999",
+	"enName":"173 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"459340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venecia-for-trading-&-contracting/459340?b=6&k=19975&l=search",
+	"arName":"11 ش عبد القوى احمد متفرع من ش شهاب, المهندسين, الجيزة",
+	"lat":"30.058643",
+	"lng":"31.199173999999999",
+	"enName":"11 Abdel Qawy Ahmed St. Off Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"154414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venecia-for-trading-&-contracting/154414?b=4&k=19975&l=search",
+	"arName":"القطعة 243 - المحور الخدمى 2 - المنطقة الصناعية الثالثة, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.908676",
+	"lng":"30.909185000000001",
+	"enName":"Plot 243, Service Spine 2, 3rd Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"458662",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venecia-for-trading-&-contracting/458662?b=3&k=19975&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"21967",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venecia-for-trading-&-contracting/21967?b=1&k=19975&l=search",
+	"arName":"5 ش المصانع الحديدية خلف ش شهاب, المهندسين, الجيزة",
+	"lat":"30.058199999999999",
+	"lng":"31.196999999999999",
+	"enName":"5 El Masanea El Hadideya St. Behind Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"440421",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/venecia-for-trading-&-contracting/440421?b=5&k=19975&l=search",
+	"arName":"99 المحور المركزى, السادس من اكتوبر, الجيزة",
+	"lat":"29.969368500000002",
+	"lng":"30.940664999999999",
+	"enName":"99 Central Spine, 6th of october, Giza"
+}
+	]
+}]}

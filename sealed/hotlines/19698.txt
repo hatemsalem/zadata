@@ -1,0 +1,28 @@
+{"items":[{	"arName":"رش برش",
+	"enName":"Rush Brush",
+	"hotline":"19698",
+	"facebook":"http://www.facebook.com/RushBOfficial",
+	"web":"http://www.rushbrush.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"581861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rush-brush/581861?b=1&k=19698&l=search",
+	"arName":"خدمة العملاء, سموحة, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Semouha, Alexandria"
+},
+		{	"profileId":"581860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rush-brush/581860?b=2&k=19698&l=search",
+	"arName":"ش النقل والهندسة - عمارات تراس سموحة - عمارة د - الدور 2 شقة 203, سموحة, الاسكندرية",
+	"lat":"31.209902",
+	"lng":"29.959491",
+	"enName":"El Naql & El Handasa St., Terrace Semouha Bldgs., Bldg. D, Floor 2 Flat 203, Semouha, Alexandria"
+}
+	]
+}]}

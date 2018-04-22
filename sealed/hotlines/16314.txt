@@ -1,0 +1,28 @@
+{"items":[{	"arName":"هوم شوب",
+	"enName":"Home Shop",
+	"hotline":"16314",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مراكز اتصال تسويق عبر الهاتف والتليفزيون"
+	],
+	"enCategories":[
+		"Call Centers, Telemarketing & Teleseen"
+	],
+	"contacts":[
+		{	"profileId":"324815",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/home-shop/324815?b=2&k=16314&l=search",
+	"arName":"20 برج المروة - ش عز الدين عمر - الدور 2, سباتس, الهرم, الجيزة",
+	"lat":"29.991758999999998",
+	"lng":"31.162020999999999",
+	"enName":"20 El Marwa Tower, Ezz El Din Omar St., Floor 2, Spates, El haram, Giza"
+},
+		{	"profileId":"324819",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/home-shop/324819?b=1&k=16314&l=search",
+	"arName":"خدمة العملاء, سباتس, الهرم, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Spates, El haram, Giza"
+}
+	]
+}]}

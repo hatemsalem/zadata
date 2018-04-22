@@ -1,0 +1,49 @@
+{"items":[{	"arName":"اتش سى لتداول الاوراق المالية",
+	"enName":"HC Brokerage",
+	"hotline":"19942",
+	"facebook":"",
+	"web":"http://www.hc-si.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"575712",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hc-brokerage/575712?b=5&k=19942&l=search",
+	"arName":"تقسيم جنينة النميس - عمارة 17, حى شرق, اسيوط",
+	"lat":"27.185044000000001",
+	"lng":"31.187595000000002",
+	"enName":"Geninet El Namees Division, Bldg. 17, Shark district, Assyout"
+},
+		{	"profileId":"575714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hc-brokerage/575714?b=3&k=19942&l=search",
+	"arName":"ش الحسينى البحرى ميدان بالاس, وسط البلد, المنيا",
+	"lat":"28.098690000000001",
+	"lng":"30.756239000000001",
+	"enName":"El Husseiny El Bahary St. Palace Sq., Downtown, El menia"
+},
+		{	"profileId":"257682",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hc-brokerage/257682?b=4&k=19942&l=search",
+	"arName":"خدمة التداول الالكترونى, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Online Trading Service, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"575707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hc-brokerage/575707?b=2&k=19942&l=search",
+	"arName":"2 ش النصر الشرقى متفرع من ش الجمهورية, سوهاج, سوهاج",
+	"lat":"",
+	"lng":"",
+	"enName":"2 El Nasr El Sharqy St. Off El Gomhoureya St., Sohag, Sohag"
+},
+		{	"profileId":"257680",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hc-brokerage/257680?b=1&k=19942&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى - المنطقة المالية - مبنى B224-F15, ابو رواش, الجيزة",
+	"lat":"30.081088999999999",
+	"lng":"31.015701",
+	"enName":"Km 28, Cairo Alex Desert Rd., Financial Zone, Bldg. B224-F15, Abou rawash, Giza"
+}
+	]
+}]}

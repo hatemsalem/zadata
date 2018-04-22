@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ترندز للعقارات",
+	"enName":"Trends Real Estate",
+	"hotline":"19543",
+	"facebook":"http://www.facebook.com/trendsrealestate",
+	"web":"http://www.trendsegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"576881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/trends-real-estate/576881?b=2&k=19543&l=search",
+	"arName":"القطعة 114 - ش التسعين الشمالى - مجمع البنوك, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0212",
+	"lng":"31.420667999999999",
+	"enName":"Plot 114, El Tesaeen El Shamaly St., Banks Complex, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"576882",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/trends-real-estate/576882?b=1&k=19543&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

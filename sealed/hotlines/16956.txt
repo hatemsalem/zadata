@@ -1,0 +1,42 @@
+{"items":[{	"arName":"صيدلية البقلاوى",
+	"enName":"El Baklawy Pharmacy",
+	"hotline":"16956",
+	"facebook":"http://www.facebook.com/ElBaklawyPharmacies",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"172280",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baklawy-pharmacy/172280?b=3&k=16956&l=search",
+	"arName":"9 ش التعاون, وسط البلد, القاهرة",
+	"lat":"30.060383000000002",
+	"lng":"31.243652000000001",
+	"enName":"9 El Taawon St., Downtown, Cairo"
+},
+		{	"profileId":"47236",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baklawy-pharmacy/47236?b=2&k=16956&l=search",
+	"arName":"146 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974744999999999",
+	"lng":"31.277844999999999",
+	"enName":"146 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"536679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baklawy-pharmacy/536679?b=4&k=16956&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"lat":"30.111656",
+	"lng":"31.396587",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"474601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baklawy-pharmacy/474601?b=1&k=16956&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

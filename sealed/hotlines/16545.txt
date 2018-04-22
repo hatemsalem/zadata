@@ -1,0 +1,35 @@
+{"items":[{	"arName":"جريدة الاهرام",
+	"enName":"Al Ahram Newspaper",
+	"hotline":"16545",
+	"facebook":"http://www.facebook.com/Alahram.Newspaper.Official/",
+	"web":"http://www.ahram.org.eg/",
+	"arCategory":[
+		"صحف ومجلات"
+	],
+	"enCategories":[
+		"Newspapers & Magazines"
+	],
+	"contacts":[
+		{	"profileId":"93677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-newspaper/93677?b=3&k=16545&l=search",
+	"arName":"10 طريق الحرية, العطارين, الاسكندرية",
+	"lat":"31.196002",
+	"lng":"29.900994000000001",
+	"enName":"10 El Horreya Rd., El attarin, Alexandria"
+},
+		{	"profileId":"44529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-newspaper/44529?b=1&k=16545&l=search",
+	"arName":"ش الجلاء, وسط البلد, القاهرة",
+	"lat":"30.055519",
+	"lng":"31.239280999999998",
+	"enName":"El Galaa St., Downtown, Cairo"
+},
+		{	"profileId":"256044",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-newspaper/256044?b=2&k=16545&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,46 @@
+{"items":[{	"arName":"مطعم اوفيو",
+	"enName":"Ovio Restaurant",
+	"hotline":"19801",
+	"facebook":"http://www.facebook.com/Ovio.eu",
+	"web":"http://www.ovio.eu/",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"538421",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ovio-restaurant/538421?b=2&k=19801&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"448889",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ovio-restaurant/448889?b=3&k=19801&l=search",
+	"arName":"40 محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.016601000000001",
+	"lng":"31.001058",
+	"enName":"40 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"489492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ovio-restaurant/489492?b=1&k=19801&l=search",
+	"arName":"11 ش 18, دجلة, المعادى, القاهرة",
+	"lat":"29.958254",
+	"lng":"31.269062000000002",
+	"enName":"11 Rd. 18, Degla, Maadi, Cairo"
+},
+		{	"profileId":"538418",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ovio-restaurant/538418?b=4&k=19801&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

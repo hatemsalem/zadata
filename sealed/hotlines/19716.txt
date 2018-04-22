@@ -1,0 +1,28 @@
+{"items":[{	"arName":"7 كل اسبوع",
+	"enName":"7 Every Week",
+	"hotline":"19716",
+	"facebook":"",
+	"web":"http://www.7everyweek.com/",
+	"arCategory":[
+		"صحف ومجلات"
+	],
+	"enCategories":[
+		"Newspapers & Magazines"
+	],
+	"contacts":[
+		{	"profileId":"175839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7-every-week/175839?b=1&k=19716&l=search",
+	"arName":"7 أ ش ابو سمبل متفرع من ش الحجاز, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"30.099533000000001",
+	"lng":"31.325758",
+	"enName":"7 A Abou Simbel St. Off El Hegaz St., El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"175846",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7-every-week/175846?b=2&k=19716&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

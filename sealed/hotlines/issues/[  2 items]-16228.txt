@@ -1,0 +1,55 @@
+{"items":[{	"arName":"رواسى للاسكان والتعمير",
+	"enName":"Rawasy For Development & Housing",
+	"hotline":"16228",
+	"facebook":"http://www.facebook.com/rawassycompany",
+	"web":"http://www.rawassy.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"455036",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rawasy-for-development-&-housing/455036?b=3&k=16228&l=search",
+	"arName":"40 أ ش راغب متفرع من ش محمد سيد احمد - الدور 2, حلوان, القاهرة",
+	"lat":"29.847002199999999",
+	"lng":"31.331500399999999",
+	"enName":"40 A Rageb St. Off Mohamed Sayed Ahmed St., Floor 2, Helwan, Cairo"
+},
+		{	"profileId":"254846",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rawasy-for-development-&-housing/254846?b=4&k=16228&l=search",
+	"arName":"1 ش السد العالى - الدور 2, الدقى, الجيزة",
+	"lat":"30.040391",
+	"lng":"31.219270999999999",
+	"enName":"1 El Sad El Aaly St., Floor 2, Dokki, Giza"
+}
+	]
+}, {	"arName":"نيو ادريس",
+	"enName":"New Address",
+	"hotline":"16228",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"454148",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-address/454148?b=2&k=16228&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"454147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-address/454147?b=1&k=16228&l=search",
+	"arName":"1 ش السد العالى - الدور 4, الدقى, الجيزة",
+	"lat":"30.040392000000001",
+	"lng":"31.219329999999999",
+	"enName":"1 El Sad El Aaly St., Floor 4, Dokki, Giza"
+}
+	]
+}]}

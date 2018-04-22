@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الاهلى للخدمات الطبية - ايه ام سى",
+	"enName":"AMC - Al Ahly Medical",
+	"hotline":"19462",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"441238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amc-_-al-ahly-medical/441238?b=1&k=19462&l=search",
+	"arName":"57 برج الجامعة - ش مراد ميدان النهضة - الدور 8,12, الجيزة, الجيزة",
+	"lat":"30.0288796",
+	"lng":"31.216874199999999",
+	"enName":"57 El Gamaa Tower, Mourad St. El Nahda Sq., Floor 8,12, Giza, Giza"
+}
+	]
+}]}

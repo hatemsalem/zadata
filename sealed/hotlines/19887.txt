@@ -1,0 +1,35 @@
+{"items":[{	"arName":"البرج العالمية لنقل الاثاث",
+	"enName":"El Borg International",
+	"hotline":"19887",
+	"facebook":"http://www.facebook.com/pages/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D8%AC-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D9%84%D8%B1%D9%81%D8%B9-%D9%88-%D8%A7%D9%86%D8%B2%D8%A7%D9%84-%D8%A7%D9%84%D8%A7%D8%AB%D8%A7%D8%AB-%D9%88%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D9%86%D9%82%D9%88%D9%84%D8%A7%D8%AA/120606201387647",
+	"web":"http://www.elborg-int.com/",
+	"arCategory":[
+		"اوناش ورافعات"
+	],
+	"enCategories":[
+		"Forklifts, Cranes & Hoists"
+	],
+	"contacts":[
+		{	"profileId":"471074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-borg-international/471074?b=2&k=19887&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"52985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-borg-international/52985?b=1&k=19887&l=search",
+	"arName":"35 عمارات العبور - طريق صلاح سالم - الدور 12 شقة 1, مصر الجديدة, القاهرة",
+	"lat":"30.074361",
+	"lng":"31.302485999999998",
+	"enName":"35 El Obour Bldgs., Salah Salem Rd., Floor 12 Flat 1, Heliopolis, Cairo"
+},
+		{	"profileId":"530629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-borg-international/530629?b=3&k=19887&l=search",
+	"arName":"45 ش 314 تقسيم القضاة - برج الصفوة - الدور 2, سموحة, الاسكندرية",
+	"lat":"31.217025",
+	"lng":"29.944642999999999",
+	"enName":"45 Rd. 314 El Qodah Division, El Safwa Tower, Floor 2, Semouha, Alexandria"
+}
+	]
+}]}

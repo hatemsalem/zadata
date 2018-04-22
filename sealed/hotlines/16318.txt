@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المجموعة المتحدة لوساطة التأمين",
+	"enName":"Insurance Brokerage United Group - IBUG",
+	"hotline":"16318",
+	"facebook":"http://www.facebook.com/IBUG.CO",
+	"web":"http://www.ibug.com.eg/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"432357",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/insurance-brokerage-united-group-_-ibug/432357?b=1&k=16318&l=search",
+	"arName":"4 ميدان الجمهورية المتحدة - متفرع من ش الاحرار, المهندسين, الجيزة",
+	"lat":"30.049751000000001",
+	"lng":"31.209209999999999",
+	"enName":"4 El Gomhoureya El Motaheda Sq., Off El Ahrar St., Mohandeseen, Giza"
+},
+		{	"profileId":"580627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/insurance-brokerage-united-group-_-ibug/580627?b=2&k=16318&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

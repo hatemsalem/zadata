@@ -1,0 +1,42 @@
+{"items":[{	"arName":"اسمنت وادى النيل",
+	"enName":"Wadi El Nile Cement",
+	"hotline":"16648",
+	"facebook":"",
+	"web":"http://www.wadielnilecem.com/",
+	"arCategory":[
+		"اسمنت وخرسانة وجبس وطوب ومعدات"
+	],
+	"enCategories":[
+		"Cement & Concrete, Gypsum, Brick & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"423886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-el-nile-cement/423886?b=3&k=16648&l=search",
+	"arName":"2 برج خفاجى - ش بورسعيد - الدور 5, بنى سويف, بنى سويف",
+	"lat":"",
+	"lng":"",
+	"enName":"2 Khafagi Tower, Port Said St., Floor 5, Benisuef, Benisuef"
+},
+		{	"profileId":"423882",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-el-nile-cement/423882?b=1&k=16648&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"302015",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-el-nile-cement/302015?b=2&k=16648&l=search",
+	"arName":"1 ش الفيوم متفرع من ش كليوباترا - الدور 3, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.090646",
+	"lng":"31.328355999999999",
+	"enName":"1 El Fayoum St. Off Cleopatra St., Floor 3, El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"358316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-el-nile-cement/358316?b=4&k=16648&l=search",
+	"arName":"ش بنى سويف - المنطقة الصناعية 1/31 - وادى الابيارى, بنى سويف, بنى سويف",
+	"lat":"",
+	"lng":"",
+	"enName":"Banisuef St., Industrial Zone 31/1, Wadi El Ebyary, Benisuef, Benisuef"
+}
+	]
+}]}

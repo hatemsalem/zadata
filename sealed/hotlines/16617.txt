@@ -1,0 +1,30 @@
+{"items":[{	"arName":"مركز الاكسير للجهاز الهضمى والكبد",
+	"enName":"Elixir Gastro & Liver Care Center",
+	"hotline":"16617",
+	"facebook":"http://www.facebook.com/elixirmedicalcare",
+	"web":"",
+	"arCategory":[
+		"اطباء",
+		"اطباء مناظير الجهاز الهضمى"
+	],
+	"enCategories":[
+		"Doctors",
+		"Doctors - Gastroenterologists & Endoscopy"
+	],
+	"contacts":[
+		{	"profileId":"538117",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/elixir-gastro-&-liver-care-center/538117?b=1&k=16617&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"448199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/elixir-gastro-&-liver-care-center/448199?b=2&k=16617&l=search",
+	"arName":"5 ش سوريا متفرع من ش جامعة الدول العربية - ميدان مصطفى محمود - برج مصر بلازا - الدور 1, المهندسين, الجيزة",
+	"lat":"30.053355",
+	"lng":"31.200066",
+	"enName":"5 Syria St. Off Gamaet El Dewal El Arabeya St., Mostafa Mahmoud Sq., Misr Plaza Tower, Floor 1, Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,32 @@
+{"items":[{	"arName":"مطعم طشه",
+	"enName":"Tasha Restaurant",
+	"hotline":"16072",
+	"facebook":"http://www.facebook.com/Tasha.Restaurant",
+	"web":"",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"518601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tasha-restaurant/518601?b=1&k=16072&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"456140",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tasha-restaurant/456140?b=2&k=16072&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.027032999999999",
+	"lng":"31.013698999999999",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

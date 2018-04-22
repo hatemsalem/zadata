@@ -1,0 +1,91 @@
+{"items":[{	"arName":"كويك اير ترافيل اند تورز",
+	"enName":"Quick Air Travel & Tours",
+	"hotline":"19102",
+	"facebook":"http://www.facebook.com/Quickairtravel",
+	"web":"http://www.quickair.travel/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"363648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/363648?b=9&k=19102&l=search",
+	"arName":"طريق بلقاس, طلخا, الدقهلية",
+	"lat":"31.054767999999999",
+	"lng":"31.377175000000001",
+	"enName":"Belqas Rd., Talkha, El dakahleya"
+},
+		{	"profileId":"438242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/438242?b=5&k=19102&l=search",
+	"arName":"311 برج بيت العز -, سموحة, الاسكندرية",
+	"lat":"31.218471999999998",
+	"lng":"29.944410999999999",
+	"enName":"311 Bait El Ezz Tower,, Semouha, Alexandria"
+},
+		{	"profileId":"160620",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/160620?b=1&k=19102&l=search",
+	"arName":"26 ش محمود بسيونى متفرع من ميدان طلعت حرب - الدور 1 شقة 4, وسط البلد, القاهرة",
+	"lat":"30.048064",
+	"lng":"31.237271",
+	"enName":"26 Mahmoud Basiony St. Off Talaat Harb Sq., Floor 1 Flat 4, Downtown, Cairo"
+},
+		{	"profileId":"225279",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/225279?b=2&k=19102&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"121112",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/121112?b=10&k=19102&l=search",
+	"arName":"ش مجلس المدينة, دكرنس, الدقهلية",
+	"lat":"31.089226",
+	"lng":"31.600498000000002",
+	"enName":"Magles El Madina St., Dikirnis, El dakahleya"
+},
+		{	"profileId":"357403",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/357403?b=7&k=19102&l=search",
+	"arName":"5 ش المحكمة - عمارة الزهراء, بلقاس, الدقهلية",
+	"lat":"31.216278800000001",
+	"lng":"31.362493799999999",
+	"enName":"5 El Mahkama St., El Zahraa Bldg., Belqas, El dakahleya"
+},
+		{	"profileId":"302827",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/302827?b=4&k=19102&l=search",
+	"arName":"ش المحطة, فارسكور, دمياط",
+	"lat":"31.331149",
+	"lng":"31.718492999999999",
+	"enName":"El Mahatta St., Faraskour, Damietta"
+},
+		{	"profileId":"438100",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/438100?b=3&k=19102&l=search",
+	"arName":"122 ش عثمان بن عفان - النزهة الجديدة - الدور 2, مصر الجديدة, القاهرة",
+	"lat":"30.103701999999998",
+	"lng":"31.348261999999998",
+	"enName":"122 Othman Ibn Affan St., El Nozha El Gadida, Floor 2, Heliopolis, Cairo"
+},
+		{	"profileId":"44759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/44759?b=6&k=19102&l=search",
+	"arName":"ش ابن بطوطة متفرع من ش الجوازات, المنصورة, الدقهلية",
+	"lat":"31.043469999999999",
+	"lng":"31.392759999999999",
+	"enName":"Ibn Battouta St. Off El Gawazat St., El mansoura, El dakahleya"
+},
+		{	"profileId":"438234",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/438234?b=8&k=19102&l=search",
+	"arName":"ش 23 يوليو - مجمع السلام - مدخل 3 شقة 19, الجمهورية, بور سعيد",
+	"lat":"31.267887999999999",
+	"lng":"32.310887000000001",
+	"enName":"23rd Of July St., El Salam Complex, Entrance 3 Flat 19, El gomhoureya, Port said"
+},
+		{	"profileId":"438212",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/quick-air-travel-&-tours/438212?b=11&k=19102&l=search",
+	"arName":"ش الجيش تقاطع ش المركز - الدور 1, شربين, الدقهلية",
+	"lat":"31.193798000000001",
+	"lng":"31.520593000000002",
+	"enName":"El Guish St. Intersection Of El Markaz St., Floor 1, Sherbin, El dakahleya"
+}
+	]
+}]}

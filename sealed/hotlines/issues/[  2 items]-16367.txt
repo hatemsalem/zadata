@@ -1,0 +1,52 @@
+{"items":[{	"arName":"شيش طاووق",
+	"enName":"Shish Tawook",
+	"hotline":"16367",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"421762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shish-tawook/421762?b=3&k=16367&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"421746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shish-tawook/421746?b=2&k=16367&l=search",
+	"arName":"70 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.049876999999999",
+	"lng":"31.199169999999999",
+	"enName":"70 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"كبابجى المدينة - رضا الشرقاوى",
+	"enName":"Kababgy El Madina - Reda El Sharqawy",
+	"hotline":"16367",
+	"facebook":"http://www.facebook.com/pages/%D9%83%D8%A8%D8%A7%D8%A8%D8%AC%D9%8A-%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D9%87/142675315867601?ref=profile",
+	"web":"http://www.almadina-restaurant.com/",
+	"arCategory":[
+		"مشويات"
+	],
+	"enCategories":[
+		"B. B. Q."
+	],
+	"contacts":[
+		{	"profileId":"318132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kababgy-el-madina-_-reda-el-sharqawy/318132?b=1&k=16367&l=search",
+	"arName":"ش العشرين ناصية ش محمد عباس, عين شمس, القاهرة",
+	"lat":"30.133320999999999",
+	"lng":"31.338259999999998",
+	"enName":"El Eshreen St. Corner Of Mohamed Abbas St., Ain shams, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,41 @@
+{"items":[{	"arName":"شركة الاصيلة للاستثمار السياحى",
+	"enName":"El Assela Co. For Tourist Investment",
+	"hotline":"16829",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"545842",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-assela-co.-for-tourist-investment/545842?b=1&k=16829&l=search",
+	"arName":"37 ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.058911999999999",
+	"lng":"31.345943999999999",
+	"enName":"37 Makram Ebaid St., 8th District, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"منتجع ريزورا البحر الاحمر",
+	"enName":"Rezora Red Sea Resort",
+	"hotline":"16829",
+	"facebook":"http://www.facebook.com/RezoraRedSea",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"511441",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rezora-red-sea-resort/511441?b=2&k=16829&l=search",
+	"arName":"37 ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.058911999999999",
+	"lng":"31.345943999999999",
+	"enName":"37 Makram Ebaid St., Nasr city, Cairo"
+}
+	]
+}]}

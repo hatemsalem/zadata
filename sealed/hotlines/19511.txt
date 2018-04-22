@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الشركة العالمية لتصنيع المفروشات - فوربد",
+	"enName":"International Co. For Bedding Manufacturing - For Bed",
+	"hotline":"19511",
+	"facebook":"http://www.facebook.com/4bed.egypt",
+	"web":"http://www.for-bed.com/",
+	"arCategory":[
+		"مفروشات"
+	],
+	"enCategories":[
+		"Bedding"
+	],
+	"contacts":[
+		{	"profileId":"154952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-bedding-manufacturing-_-for-bed/154952?b=1&k=19511&l=search",
+	"arName":"قطعة 6 أ - ش 300 - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"lat":"30.179801999999999",
+	"lng":"31.457716000000001",
+	"enName":"Plot 6 A, Rd. 300, 1st Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"218073",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-bedding-manufacturing-_-for-bed/218073?b=2&k=19511&l=search",
+	"arName":"السوق التجارى - محل 2, مدينة الرحاب, القاهرة",
+	"lat":"30.059887",
+	"lng":"31.492045999999998",
+	"enName":"Commercial Market, Shop 2, Al rehab city, Cairo"
+}
+	]
+}]}

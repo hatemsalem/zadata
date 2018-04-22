@@ -1,0 +1,91 @@
+{"items":[{	"arName":"سوبر ماركت الراية",
+	"enName":"Al Rayah Market",
+	"hotline":"16508",
+	"facebook":"http://www.facebook.com/market.alrayah",
+	"web":"http://www.alrayah-market.com/",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"463707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/463707?b=11&k=16508&l=search",
+	"arName":"الحى الاول, مدينة العبور, القليوبية",
+	"lat":"30.235752999999999",
+	"lng":"31.468378999999999",
+	"enName":"1St District, Obour city, Kaliobeya"
+},
+		{	"profileId":"401280",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/401280?b=9&k=16508&l=search",
+	"arName":"435 ش السودان, المهندسين, الجيزة",
+	"lat":"30.068944999999999",
+	"lng":"31.20693",
+	"enName":"435 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"340271",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/340271?b=1&k=16508&l=search",
+	"arName":"القطعة 8130 - عمارات النصر - ش 9, المقطم, القاهرة",
+	"lat":"30.009388999999999",
+	"lng":"31.319106000000001",
+	"enName":"Plot 8130, El Nasr Bldgs., Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"317565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/317565?b=5&k=16508&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"2395",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/2395?b=6&k=16508&l=search",
+	"arName":"13 ش ذاكر حسين, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"30.043574",
+	"lng":"31.330984999999998",
+	"enName":"13 Zaker Hussein St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"462105",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/462105?b=10&k=16508&l=search",
+	"arName":"4 ش عز الدين عمر امتداد ش العريش, الهرم, الجيزة",
+	"lat":"29.993274",
+	"lng":"31.160782999999999",
+	"enName":"4 Ezz El Din Omar St. Extension Of El Arish St., El haram, Giza"
+},
+		{	"profileId":"416015",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/416015?b=2&k=16508&l=search",
+	"arName":"10 ش 105 ميدان الحرية, المعادى, القاهرة",
+	"lat":"29.961124999999999",
+	"lng":"31.253132000000001",
+	"enName":"10 Rd. 105 El Horreya Sq., Maadi, Cairo"
+},
+		{	"profileId":"474943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/474943?b=4&k=16508&l=search",
+	"arName":"50 ش منصور, حلوان, القاهرة",
+	"lat":"29.850296",
+	"lng":"31.332571000000002",
+	"enName":"50 Mansour St., Helwan, Cairo"
+},
+		{	"profileId":"422409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/422409?b=3&k=16508&l=search",
+	"arName":"القطعة 14، 15 - ش السنترال - منطقة الخدمات, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.067955099999999",
+	"lng":"31.4499888",
+	"enName":"Plot 14, 15, El Central St., Services Zone, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"401284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/401284?b=7&k=16508&l=search",
+	"arName":"ش نجاتى سراج, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.046367",
+	"lng":"31.352081999999999",
+	"enName":"Nagaty Serag St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"474952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rayah-market/474952?b=8&k=16508&l=search",
+	"arName":"120 ش مصر والسودان, حدائق القبة, القاهرة",
+	"lat":"30.084499999999998",
+	"lng":"31.2822",
+	"enName":"120 Misr & Sudan St., Hadayek el kobba, Cairo"
+}
+	]
+}]}

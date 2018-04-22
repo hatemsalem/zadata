@@ -1,0 +1,55 @@
+{"items":[{	"arName":"الشركة المصرية لتجارة الادوية",
+	"enName":"Egy - Drug",
+	"hotline":"16838",
+	"facebook":"http://www.facebook.com/Mans.Call",
+	"web":"http://www.eptc-egydrug.com/",
+	"arCategory":[
+		"ادوية شركات"
+	],
+	"enCategories":[
+		"Pharmaceutical Companies"
+	],
+	"contacts":[
+		{	"profileId":"256290",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/256290?b=3&k=16838&l=search",
+	"arName":"خدمة العملاء, شبرا, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Shoubra, Cairo"
+},
+		{	"profileId":"97511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/97511?b=4&k=16838&l=search",
+	"arName":"1353 كورنيش النيل - اغاخان, شبرا, القاهرة",
+	"lat":"30.094695999999999",
+	"lng":"31.237033",
+	"enName":"1353 Corniche El Nil, Aghakhan, Shoubra, Cairo"
+}
+	]
+}, {	"arName":"بيلا كازا",
+	"enName":"Bella Casa",
+	"hotline":"16838",
+	"facebook":"http://www.facebook.com/bellacasaeg",
+	"web":"",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"440181",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bella-casa/440181?b=2&k=16838&l=search",
+	"arName":"ش نادى المعلمين - برج الاطباء, طنطا, الغربية",
+	"lat":"30.797626399999999",
+	"lng":"30.9959673",
+	"enName":"Nady El Moalemeen St., El Atebaa Tower, Tanta, El gharbeya"
+},
+		{	"profileId":"186791",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bella-casa/186791?b=1&k=16838&l=search",
+	"arName":"القطعة الاولى - بلوك 23 - - المنطقة الصناعية الثالثة, برج العرب الجديدة, الاسكندرية",
+	"lat":"30.844628",
+	"lng":"29.601398",
+	"enName":"1st Plot, Block 23, , 3rd Industrial Zone, New borg el arab, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,42 @@
+{"items":[{	"arName":"شيبسى للصناعات الغذائية",
+	"enName":"Chipsy For Food Industries",
+	"hotline":"19063",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"130374",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chipsy-for-food-industries/130374?b=1&k=19063&l=search",
+	"arName":"طناش, الوراق, الجيزة",
+	"lat":"30.123951000000002",
+	"lng":"31.196545",
+	"enName":"Tanash, El warak, Giza"
+},
+		{	"profileId":"257291",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chipsy-for-food-industries/257291?b=3&k=19063&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"130375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chipsy-for-food-industries/130375?b=2&k=19063&l=search",
+	"arName":"المنطقة الصناعية الرابعة, السادس من اكتوبر, الجيزة",
+	"lat":"29.949102",
+	"lng":"30.886972",
+	"enName":"4th Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"19180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chipsy-for-food-industries/19180?b=4&k=19063&l=search",
+	"arName":"38 ش مصدق, الدقى, الجيزة",
+	"lat":"30.039653999999999",
+	"lng":"31.206662000000001",
+	"enName":"38 Mossadak St., Dokki, Giza"
+}
+	]
+}]}

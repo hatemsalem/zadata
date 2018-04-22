@@ -1,0 +1,21 @@
+{"items":[{	"arName":"وادى النيل للخدمات الطبية والعلاجية",
+	"enName":"Wadi El Neel For Medical Services",
+	"hotline":"19736",
+	"facebook":"",
+	"web":"http://www.lotus-global.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"172108",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wadi-el-neel-for-medical-services/172108?b=1&k=19736&l=search",
+	"arName":"28 ش الشهيد على صالح, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.090965000000001",
+	"lng":"31.346440999999999",
+	"enName":"28 El Shaheed Aly Saleh St., Almaza, Heliopolis, Cairo"
+}
+	]
+}]}

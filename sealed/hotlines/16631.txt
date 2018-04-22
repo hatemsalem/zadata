@@ -1,0 +1,37 @@
+{"items":[{	"arName":"الاتحاد الوطنى للاستثمار والتجارة - نيسان",
+	"enName":"National Union Co. For Investment & Trading - Nissan",
+	"hotline":"16631",
+	"facebook":"http://www.facebook.com/NUIT.NISSAN.EGYPT",
+	"web":"",
+	"arCategory":[
+		"سيارات - مراكز اصلاح وخدمات ومعدات",
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Repairing & Servicing Equipment",
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"100282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-union-co.-for-investment-&-trading-_-nissan/100282?b=1&k=16631&l=search",
+	"arName":"28 عمارات رابعة الاستثمارى - ش النزهة, مدينة نصر, القاهرة",
+	"lat":"30.071269000000001",
+	"lng":"31.338422999999999",
+	"enName":"28 Rabaa Investment Bldgs., El Nozha St., Nasr city, Cairo"
+},
+		{	"profileId":"325913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-union-co.-for-investment-&-trading-_-nissan/325913?b=2&k=16631&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"118194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-union-co.-for-investment-&-trading-_-nissan/118194?b=3&k=16631&l=search",
+	"arName":"7 ش الزهور, المهندسين, الجيزة",
+	"lat":"30.052766999999999",
+	"lng":"31.203386999999999",
+	"enName":"7 El Zohour St., Mohandeseen, Giza"
+}
+	]
+}]}

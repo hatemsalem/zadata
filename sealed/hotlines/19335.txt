@@ -1,0 +1,35 @@
+{"items":[{	"arName":"نيفادا العقارية",
+	"enName":"Nevada Properties",
+	"hotline":"19335",
+	"facebook":"http://www.facebook.com/nevadaegypt",
+	"web":"http://www.nevadaeg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"582448",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nevada-properties/582448?b=1&k=19335&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"582512",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nevada-properties/582512?b=2&k=19335&l=search",
+	"arName":"261 طريق الجيش برج ستانلى - الدور 1, ستانلى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"261 Guish Rd. Stanly Tower, Floor 1, Stanly, Alexandria"
+},
+		{	"profileId":"582446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nevada-properties/582446?b=3&k=19335&l=search",
+	"arName":"32 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"32 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+}
+	]
+}]}

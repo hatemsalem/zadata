@@ -1,0 +1,30 @@
+{"items":[{	"arName":"اتصالات",
+	"enName":"Etisalat",
+	"hotline":"16511",
+	"facebook":"http://www.facebook.com/etisalatmisr",
+	"web":"http://www.etisalat.com.eg/",
+	"arCategory":[
+		"تليفونات محمولة",
+		"تليفونات محمولة مشغلوا خطوط"
+	],
+	"enCategories":[
+		"Mobile Telephones",
+		"Mobile Line Operators"
+	],
+	"contacts":[
+		{	"profileId":"570336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etisalat/570336?b=2&k=16511&l=search",
+	"arName":"7 ش بورسعيد, منوف, المنوفية",
+	"lat":"30.467777999999999",
+	"lng":"30.934877",
+	"enName":"7 Port Said St., Minuf, El monofeya"
+},
+		{	"profileId":"227219",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etisalat/227219?b=1&k=16511&l=search",
+	"arName":"خدمة انترنت سمارت ايه دى اس ال, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Smart ADSL Internet Service, Abou rawash, Giza"
+}
+	]
+}]}

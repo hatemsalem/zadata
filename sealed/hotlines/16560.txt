@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بيلا سيتى - الشركة المصرية الايطالية",
+	"enName":"Bella City - Egyptian Italian Co.",
+	"hotline":"16560",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مواسير وانابيب وخطوط انابيب"
+	],
+	"enCategories":[
+		"Pipes, Tubes & Pipelines"
+	],
+	"contacts":[
+		{	"profileId":"256081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bella-city-_-egyptian-italian-co./256081?b=1&k=16560&l=search",
+	"arName":"6 ش الشعراوى متفرع من ش مجمع المواقف, بنها, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"6 El Shaarawy St. Off Mogamaa El Mawaqef St., Banha, Kaliobeya"
+},
+		{	"profileId":"256101",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bella-city-_-egyptian-italian-co./256101?b=2&k=16560&l=search",
+	"arName":"خدمة العملاء, بنها, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Banha, Kaliobeya"
+}
+	]
+}]}

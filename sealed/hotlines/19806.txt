@@ -1,0 +1,21 @@
+{"items":[{	"arName":"حجز لجان دخول التأمين الصحى",
+	"enName":"Health Insurance Reservation",
+	"hotline":"19806",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"180568",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/health-insurance-reservation/180568?b=1&k=19806&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

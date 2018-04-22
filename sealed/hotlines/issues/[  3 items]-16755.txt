@@ -1,0 +1,68 @@
+{"items":[{	"arName":"السلطان هايبر ماركت",
+	"enName":"Al Sultan Hyper Market",
+	"hotline":"16755",
+	"facebook":"http://www.facebook.com/Alsultan.Hypermarket",
+	"web":"",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"555191",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-sultan-hyper-market/555191?b=2&k=16755&l=search",
+	"arName":"القطعة السادسة - , الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"29.985956000000002",
+	"lng":"30.981487999999999",
+	"enName":"6th Plot, , El Motamayez District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"ايه اس ايه بيزنس جروب",
+	"enName":"ASA Business Group",
+	"hotline":"16755",
+	"facebook":"http://www.facebook.com/ASABusinessGroup",
+	"web":"http://www.asa.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"552334",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asa-business-group/552334?b=4&k=16755&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 8th District, 6th of october, Giza"
+},
+		{	"profileId":"552330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asa-business-group/552330?b=3&k=16755&l=search",
+	"arName":"المجاورة الاولى - عمارة 132, الحى الثامن, السادس من اكتوبر, الجيزة",
+	"lat":"29.973579999999998",
+	"lng":"30.937059999999999",
+	"enName":"1St Neighbourhood, Bldg. 132, 8th District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"اجياد ملتى بروجكتس",
+	"enName":"Agyad Multi Projects",
+	"hotline":"16755",
+	"facebook":"",
+	"web":"http://www.agyadeg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"454150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/agyad-multi-projects/454150?b=1&k=16755&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

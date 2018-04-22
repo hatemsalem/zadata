@@ -1,0 +1,42 @@
+{"items":[{	"arName":"ارت هاوس للاثاث",
+	"enName":"Art House Furniture",
+	"hotline":"19537",
+	"facebook":"http://www.facebook.com/pages/Art-house-furniture/202235489900158",
+	"web":"http://www.arthousefurniture.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"464638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-house-furniture/464638?b=3&k=19537&l=search",
+	"arName":"49 ش شهاب, المهندسين, الجيزة",
+	"lat":"30.055399999999999",
+	"lng":"31.195699999999999",
+	"enName":"49 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"559503",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-house-furniture/559503?b=4&k=19537&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"559501",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-house-furniture/559501?b=2&k=19537&l=search",
+	"arName":"8 هـ/1 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975863",
+	"lng":"31.282820999999998",
+	"enName":"8 H/1 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"559496",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-house-furniture/559496?b=1&k=19537&l=search",
+	"arName":"36 ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.081600000000002",
+	"lng":"31.336400000000001",
+	"enName":"36 Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"فيرست جروب",
+	"enName":"First Group",
+	"hotline":"19812",
+	"facebook":"http://www.facebook.com/firstgroupegy",
+	"web":"http://www.firstgroup-egypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"474872",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/first-group/474872?b=2&k=19812&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"474424",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/first-group/474424?b=1&k=19812&l=search",
+	"arName":"116 ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"lat":"30.047401000000001",
+	"lng":"31.199273999999999",
+	"enName":"116 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,91 @@
+{"items":[{	"arName":"اى جى سى - الشركة المصرية لتصنيع المواد الغذائية",
+	"enName":"EGC - Egyptian Co. For Food Industries",
+	"hotline":"19861",
+	"facebook":"",
+	"web":"http://www.egceg.com/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/330?b=9&k=19861&l=search",
+	"arName":"القطعة 39 - ش 18 - المنطقة الصناعية الثالثة, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.925547999999999",
+	"lng":"30.890262",
+	"enName":"Plot 39, Rd. 18, 3rd Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"131611",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/131611?b=11&k=19861&l=search",
+	"arName":"15 ش الهلالى, حى شرق, اسيوط",
+	"lat":"",
+	"lng":"",
+	"enName":"15 El Helaly St., Shark district, Assyout"
+},
+		{	"profileId":"131598",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/131598?b=5&k=19861&l=search",
+	"arName":"ش الدقهلية, العرب, بور سعيد",
+	"lat":"",
+	"lng":"",
+	"enName":"el dakahleya st., El arab, Port said"
+},
+		{	"profileId":"156393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/156393?b=1&k=19861&l=search",
+	"arName":"طريق المصمودى - منشأة يونس - قرية زهرة, كفر الدوار, البحيرة",
+	"lat":"31.116299000000001",
+	"lng":"30.162116000000001",
+	"enName":"El Masmoudy Rd., Manshaet Younes, Zohra Village, Kafr el dawar, El beheira"
+},
+		{	"profileId":"69617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/69617?b=2&k=19861&l=search",
+	"arName":"73 الطريق الابيض - ناهيا, بولاق الدكرور, الجيزة",
+	"lat":"30.058199999999999",
+	"lng":"31.1846",
+	"enName":"73 el abyad rd., nahya, Boulak el dakrour, Giza"
+},
+		{	"profileId":"131612",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/131612?b=4&k=19861&l=search",
+	"arName":"ش على بن ابى طالب, الاقصر, الاقصر",
+	"lat":"",
+	"lng":"",
+	"enName":"Aly Ibn Abi Taleb St. , Luxor, Luxor"
+},
+		{	"profileId":"131601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/131601?b=6&k=19861&l=search",
+	"arName":"طريق الزقازيق, الزقازيق, الشرقية",
+	"lat":"30.594064500000002",
+	"lng":"31.510230700000001",
+	"enName":"El Zagazig Rd., El zagazig, El sharkeya"
+},
+		{	"profileId":"323985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/323985?b=8&k=19861&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, 6th of october, Giza"
+},
+		{	"profileId":"131607",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/131607?b=10&k=19861&l=search",
+	"arName":"6 طريق النصر, الدهار, الغردقة",
+	"lat":"27.237960999999999",
+	"lng":"33.831254999999999",
+	"enName":"6 El Nasr Rd., Dahar, Hurghada"
+},
+		{	"profileId":"131606",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/131606?b=7&k=19861&l=search",
+	"arName":"ش عبد السلام عارف, المنصورة, الدقهلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Abdel Salam Aref St., El mansoura, El dakahleya"
+},
+		{	"profileId":"131605",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egc-_-egyptian-co.-for-food-industries/131605?b=3&k=19861&l=search",
+	"arName":"طريق المحمودية - المنطقة الصناعية القديمة, وسط البلد, اسوان",
+	"lat":"",
+	"lng":"",
+	"enName":"El Mahmoudeya Rd., Old Industrial Zone, Downtown, Aswan"
+}
+	]
+}]}

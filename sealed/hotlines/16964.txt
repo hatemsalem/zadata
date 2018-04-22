@@ -1,0 +1,49 @@
+{"items":[{	"arName":"بيتى - الشركة الدولية لمشروعات التصنيع الزراعى",
+	"enName":"Beyti - International Co. For Agro-Industrial Projects",
+	"hotline":"16964",
+	"facebook":"http://www.facebook.com/BeytiJuice",
+	"web":"http://www.beytiegypt.com/",
+	"arCategory":[
+		"مشروبات مصنعون"
+	],
+	"enCategories":[
+		"Beverage Industry"
+	],
+	"contacts":[
+		{	"profileId":"499830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beyti-_-international-co.-for-agro_industrial-projects/499830?b=2&k=16964&l=search",
+	"arName":"عمارة A2 - الدور 1, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.030331",
+	"lng":"31.406220999999999",
+	"enName":"Bldg. A2, Floor 1, Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"174893",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beyti-_-international-co.-for-agro_industrial-projects/174893?b=4&k=16964&l=search",
+	"arName":"كم 75 - طريق القاهرة اسكندرية الصحراوى, النوبارية, البحيرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 75, Cairo Alex Desert Rd., El noubareya, El beheira"
+},
+		{	"profileId":"501329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beyti-_-international-co.-for-agro_industrial-projects/501329?b=5&k=16964&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.206689999999998",
+	"lng":"29.966562",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"139138",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beyti-_-international-co.-for-agro_industrial-projects/139138?b=1&k=16964&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"99138",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beyti-_-international-co.-for-agro_industrial-projects/99138?b=3&k=16964&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

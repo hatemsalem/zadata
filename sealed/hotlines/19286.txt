@@ -1,0 +1,35 @@
+{"items":[{	"arName":"هواوى ديفايسز",
+	"enName":"Huawei Devices",
+	"hotline":"19286",
+	"facebook":"http://www.facebook.com/huaweideviceegypt",
+	"web":"consumer.huawei.com/eg-en",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"581930",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/huawei-devices/581930?b=3&k=19286&l=search",
+	"arName":"41 ش شبين الكوم, الشيخ زايد, الاسماعيلية",
+	"lat":"",
+	"lng":"",
+	"enName":"41 Shebin El Koum St., El sheikh zayed, Ismaileya"
+},
+		{	"profileId":"503685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/huawei-devices/503685?b=2&k=19286&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"503670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/huawei-devices/503670?b=1&k=19286&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

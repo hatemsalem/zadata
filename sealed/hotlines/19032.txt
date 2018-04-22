@@ -1,0 +1,35 @@
+{"items":[{	"arName":"المؤسسة الهندسية المتحدة - وستنجهاوس",
+	"enName":"The United Engineering Establishment - Westinghouse",
+	"hotline":"19032",
+	"facebook":"http://www.facebook.com/westinghouseegyueo",
+	"web":"http://www.westinghouse-ueo.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"149329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-united-engineering-establishment-_-westinghouse/149329?b=1&k=19032&l=search",
+	"arName":"24 ب ش انور المفتى, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.067325",
+	"lng":"31.331433000000001",
+	"enName":"24 B Anwar El Mofty St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"310799",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-united-engineering-establishment-_-westinghouse/310799?b=3&k=19032&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"490732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-united-engineering-establishment-_-westinghouse/490732?b=2&k=19032&l=search",
+	"arName":"3 /4 ش انور المفتى, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.067278000000002",
+	"lng":"31.333853000000001",
+	"enName":"3 /4 Anwar El Mofty St., 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

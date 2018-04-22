@@ -1,0 +1,28 @@
+{"items":[{	"arName":"العروبة للسمسرة وتداول الاوراق المالية",
+	"enName":"Al Orouba Securities",
+	"hotline":"16050",
+	"facebook":"",
+	"web":"http://www.oroubaonline.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"151426",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orouba-securities/151426?b=1&k=16050&l=search",
+	"arName":"6 ميدان الفلكى - الدور 7, باب اللوق, القاهرة",
+	"lat":"30.044684",
+	"lng":"31.240608000000002",
+	"enName":"6 El Falaky Sq., Floor 7, Bab el louk, Cairo"
+},
+		{	"profileId":"187349",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-orouba-securities/187349?b=2&k=16050&l=search",
+	"arName":"خدمة العملاء, باب اللوق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Bab el louk, Cairo"
+}
+	]
+}]}

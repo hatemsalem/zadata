@@ -1,0 +1,28 @@
+{"items":[{	"arName":"لاكتالس حلاوة",
+	"enName":"Lactalis Halawa",
+	"hotline":"19377",
+	"facebook":"http://www.facebook.com/Lactalis.Halawa",
+	"web":"http://www.lactalis-halawa.com/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"2459",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lactalis-halawa/2459?b=2&k=19377&l=search",
+	"arName":"1 عمارات العبور - طريق صلاح سالم - الدور 12 شقة 125, مدينة نصر, القاهرة",
+	"lat":"30.080774999999999",
+	"lng":"31.316044000000002",
+	"enName":"1 El Obour Bldgs., Salah Salem Rd., Floor 12 Flat 125, Nasr city, Cairo"
+},
+		{	"profileId":"536183",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lactalis-halawa/536183?b=1&k=19377&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

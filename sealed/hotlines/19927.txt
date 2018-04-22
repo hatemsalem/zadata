@@ -1,0 +1,42 @@
+{"items":[{	"arName":"جيوشى موتورز",
+	"enName":"Geyushi Motors",
+	"hotline":"19927",
+	"facebook":"http://www.facebook.com/geyushimotors",
+	"web":"http://www.geyushimotors.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"155452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/geyushi-motors/155452?b=4&k=19927&l=search",
+	"arName":"خدمة العملاء, الساحل, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El sahel, Cairo"
+},
+		{	"profileId":"470316",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/geyushi-motors/470316?b=3&k=19927&l=search",
+	"arName":"18 تقسيم المروحة, القطامية, القاهرة",
+	"lat":"29.981083999999999",
+	"lng":"31.349819",
+	"enName":"18 El Marwha Division, El katameya, Cairo"
+},
+		{	"profileId":"155450",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/geyushi-motors/155450?b=1&k=19927&l=search",
+	"arName":"61 ش عبد القادر طه, الساحل, القاهرة",
+	"lat":"30.084223000000001",
+	"lng":"31.236211999999998",
+	"enName":"61 Abdel Qader Taha St., El sahel, Cairo"
+},
+		{	"profileId":"470311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/geyushi-motors/470311?b=2&k=19927&l=search",
+	"arName":"271 ش التسعين الشمالى امتداد محور السلام, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.030139999999999",
+	"lng":"31.45607",
+	"enName":"271 El Tesaeen El Shamaly St. Extension Of El Salam Spine, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

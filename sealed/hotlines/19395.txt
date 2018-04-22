@@ -1,0 +1,65 @@
+{"items":[{	"arName":"صيدليات فوده",
+	"enName":"Fouda Pharmacies",
+	"hotline":"19395",
+	"facebook":"http://www.facebook.com/FoudaPharmacy",
+	"web":"http://www.fouda.com/",
+	"arCategory":[
+		"صيدليات",
+		"مستحضرات تجميل"
+	],
+	"enCategories":[
+		"Pharmacies",
+		"Cosmetics & Toiletries"
+	],
+	"contacts":[
+		{	"profileId":"573044",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fouda-pharmacies/573044?b=7&k=19395&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mohandeseen, Giza"
+},
+		{	"profileId":"484729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fouda-pharmacies/484729?b=1&k=19395&l=search",
+	"arName":"20 ش وزارة الزراعية, الدقى, الجيزة",
+	"lat":"30.050702999999999",
+	"lng":"31.209389999999999",
+	"enName":"20 Wezaret El Zeraah St., Dokki, Giza"
+},
+		{	"profileId":"485298",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fouda-pharmacies/485298?b=3&k=19395&l=search",
+	"arName":"كم 33 - طريق القاهرة السويس, مدينتى, القاهرة",
+	"lat":"30.105961099999998",
+	"lng":"31.630325299999999",
+	"enName":"Km 33, Cairo Suez Rd., Madinty, Cairo"
+},
+		{	"profileId":"392103",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fouda-pharmacies/392103?b=6&k=19395&l=search",
+	"arName":"416 ش فيصل, المساحة, فيصل, الجيزة",
+	"lat":"30.011140999999999",
+	"lng":"31.192437999999999",
+	"enName":"416 Faisal St., El Messaha, Faisal, Giza"
+},
+		{	"profileId":"519442",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fouda-pharmacies/519442?b=4&k=19395&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"lat":"29.983263999999998",
+	"lng":"31.336763000000001",
+	"enName":"Ring Rd., El katameya, Cairo"
+},
+		{	"profileId":"581983",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fouda-pharmacies/581983?b=5&k=19395&l=search",
+	"arName":"45 ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.0548",
+	"lng":"31.204499999999999",
+	"enName":"45 El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"484865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fouda-pharmacies/484865?b=2&k=19395&l=search",
+	"arName":"الحى الخامس - المنطقة الخامسة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.000408",
+	"lng":"31.413898",
+	"enName":"5th District, 5th Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

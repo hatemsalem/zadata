@@ -1,0 +1,48 @@
+{"items":[{	"arName":"مصلحة صك العملة المعدنية",
+	"enName":"Coinage Authority",
+	"hotline":"16402",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"258172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coinage-authority/258172?b=2&k=16402&l=search",
+	"arName":"خدمة العملاء, الدراسة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El darrasa, Cairo"
+},
+		{	"profileId":"258171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coinage-authority/258171?b=1&k=16402&l=search",
+	"arName":"ش صك العملة ميدان الحلبى - العباسية الشرقية, الدراسة, القاهرة",
+	"lat":"30.056273999999998",
+	"lng":"31.272960999999999",
+	"enName":"Sakk El Ommlah St. El Halaby Sq., El Abbaseya El Sharqeya, El darrasa, Cairo"
+}
+	]
+}, {	"arName":"شركة فيجن للتنمية والاستثمار العقارى",
+	"enName":"Vision Development & Real Estate Investment",
+	"hotline":"16402",
+	"facebook":"http://www.facebook.com/vision.realestate.egypt",
+	"web":"http://www.visionmisr.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"430606",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vision-development-&-real-estate-investment/430606?b=3&k=16402&l=search",
+	"arName":"8 ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.055593999999999",
+	"lng":"31.345677999999999",
+	"enName":"8 Makram Ebaid St., Nasr city, Cairo"
+}
+	]
+}]}

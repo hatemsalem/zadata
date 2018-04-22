@@ -1,0 +1,32 @@
+{"items":[{	"arName":"مطعم صبحى كابر",
+	"enName":"Sobhy Kaber Restaurant",
+	"hotline":"16640",
+	"facebook":"http://www.facebook.com/OfficialRestaurantSobhyKaber",
+	"web":"",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مشويات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"B. B. Q.",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"558395",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sobhy-kaber-restaurant/558395?b=2&k=16640&l=search",
+	"arName":"151 ابراج الصفوة - ش عبيد, الساحل, القاهرة",
+	"lat":"30.083811000000001",
+	"lng":"31.234663000000001",
+	"enName":"151 El Safwa Towers, Ebaid St., El sahel, Cairo"
+},
+		{	"profileId":"558396",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sobhy-kaber-restaurant/558396?b=1&k=16640&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, روض الفرج, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Road el farag, Cairo"
+}
+	]
+}]}

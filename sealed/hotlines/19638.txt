@@ -1,0 +1,62 @@
+{"items":[{	"arName":"سلسلة مطاعم الحاتى",
+	"enName":"El Haty Restaurant",
+	"hotline":"19638",
+	"facebook":"http://www.facebook.com/elhaty19638",
+	"web":"http://www.elhaty19638.com/",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مشويات"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"B. B. Q."
+	],
+	"contacts":[
+		{	"profileId":"99172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/99172?b=3&k=19638&l=search",
+	"arName":"3 ش فم باب البحر متفرع من ش الجمهورية - ميدان رمسيس, وسط البلد, القاهرة",
+	"lat":"30.059391999999999",
+	"lng":"31.246129",
+	"enName":"3 Fom Bab El Bahr St. Off El Gomhoureya St., Ramsis Sq., Downtown, Cairo"
+},
+		{	"profileId":"532406",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/532406?b=6&k=19638&l=search",
+	"arName":"ش الجلاء, حى السويس, السويس",
+	"lat":"29.963272",
+	"lng":"32.551149000000002",
+	"enName":"El Galaa St., Suez district, Suez"
+},
+		{	"profileId":"99171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/99171?b=2&k=19638&l=search",
+	"arName":"السوق التجارى - محل 86, مدينة الرحاب, القاهرة",
+	"lat":"30.056567000000001",
+	"lng":"31.491710999999999",
+	"enName":"Commercial Market, Shop 86, Al rehab city, Cairo"
+},
+		{	"profileId":"397728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/397728?b=5&k=19638&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق القبة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Hadayek el kobba, Cairo"
+},
+		{	"profileId":"99168",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/99168?b=1&k=19638&l=search",
+	"arName":"127 ج ش مصر والسودان, حدائق القبة, القاهرة",
+	"lat":"30.082834999999999",
+	"lng":"31.281905999999999",
+	"enName":"127 C Misr & Sudan St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"452651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-haty-restaurant/452651?b=4&k=19638&l=search",
+	"arName":"كم 33 - طريق القاهرة السويس, مدينتى, القاهرة",
+	"lat":"30.105753",
+	"lng":"31.630765",
+	"enName":"Km 33, Cairo Suez Rd., Madinty, Cairo"
+}
+	]
+}]}

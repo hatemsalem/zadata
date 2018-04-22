@@ -1,0 +1,21 @@
+{"items":[{	"arName":"مركز القلب الدولى",
+	"enName":"ICC Hospital - International Cardiac Center",
+	"hotline":"16822",
+	"facebook":"",
+	"web":"http://www.icchospital.com.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"326439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/icc-hospital-_-international-cardiac-center/326439?b=1&k=16822&l=search",
+	"arName":"خدمة طوارئ, سموحة, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Semouha, Alexandria"
+}
+	]
+}]}

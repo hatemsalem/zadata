@@ -1,0 +1,55 @@
+{"items":[{	"arName":"ارام",
+	"enName":"Iram",
+	"hotline":"19214",
+	"facebook":"http://www.facebook.com/IRAMjewelery",
+	"web":"",
+	"arCategory":[
+		"جواهرجية"
+	],
+	"enCategories":[
+		"Jewelers"
+	],
+	"contacts":[
+		{	"profileId":"126802",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iram/126802?b=1&k=19214&l=search",
+	"arName":"10 ش نزيه خليفة, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.089364",
+	"lng":"31.327973",
+	"enName":"10 Nazih Khalifa St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"245634",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iram/245634?b=2&k=19214&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"ارم",
+	"enName":"Iram",
+	"hotline":"19214",
+	"facebook":"http://www.facebook.com/IRAMjewelery",
+	"web":"",
+	"arCategory":[
+		"جواهرجية"
+	],
+	"enCategories":[
+		"Jewelers"
+	],
+	"contacts":[
+		{	"profileId":"114376",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iram/114376?b=3&k=19214&l=search",
+	"arName":"القطعة 13013/3 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"lat":"30.180164999999999",
+	"lng":"31.463277000000001",
+	"enName":"plot 3/13013, , 1st Industrial Zone , Obour city, Kaliobeya"
+},
+		{	"profileId":"245650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/iram/245650?b=4&k=19214&l=search",
+	"arName":"برج الجزيرة بلازا - - المشاية السفلية, المنصورة, الدقهلية",
+	"lat":"31.046503999999999",
+	"lng":"31.370011999999999",
+	"enName":"El Gezirah Plaza Tower, , El Mashaya El Sofleya, El mansoura, El dakahleya"
+}
+	]
+}]}

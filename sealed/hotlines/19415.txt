@@ -1,0 +1,35 @@
+{"items":[{	"arName":"نايل اير",
+	"enName":"Nile Air",
+	"hotline":"19415",
+	"facebook":"http://www.facebook.com/NileAir.Airline",
+	"web":"http://www.nileair.com/",
+	"arCategory":[
+		"خطوط جوية"
+	],
+	"enCategories":[
+		"Airlines"
+	],
+	"contacts":[
+		{	"profileId":"531645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-air/531645?b=3&k=19415&l=search",
+	"arName":"5 ش عبد الحميد بدوى - عمارة زينب عصفور, محطة الرمل, الاسكندرية",
+	"lat":"31.203900000000001",
+	"lng":"29.904299999999999",
+	"enName":"5 Abdel Hamid Badawy St., Zeinab Asfour Bldg., Raml station, Alexandria"
+},
+		{	"profileId":"531657",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-air/531657?b=1&k=19415&l=search",
+	"arName":"خدمة العملاء, منطقة المطار, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"224489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-air/224489?b=2&k=19415&l=search",
+	"arName":"., منطقة المطار, مصر الجديدة, القاهرة",
+	"lat":"30.111986000000002",
+	"lng":"31.399467000000001",
+	"enName":"., Airport Area, Heliopolis, Cairo"
+}
+	]
+}]}

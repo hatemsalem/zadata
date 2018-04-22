@@ -1,0 +1,35 @@
+{"items":[{	"arName":"ابن سينا فارما",
+	"enName":"Ibn Sina Pharma",
+	"hotline":"16017",
+	"facebook":"http://www.facebook.com/IbnSinaPharma",
+	"web":"",
+	"arCategory":[
+		"ادوية شركات"
+	],
+	"enCategories":[
+		"Pharmaceutical Companies"
+	],
+	"contacts":[
+		{	"profileId":"46954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-sina-pharma/46954?b=2&k=16017&l=search",
+	"arName":"بلوك 12015 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"lat":"30.195641999999999",
+	"lng":"31.443515999999999",
+	"enName":"Block 12015, , 1St Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"80226",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-sina-pharma/80226?b=1&k=16017&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"30.788405399999998",
+	"lng":"30.978173000000002",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"80225",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-sina-pharma/80225?b=3&k=16017&l=search",
+	"arName":"ش شركة الاخشاب متفرع من طريق القاهرة اسكندرية الزراعى, قليوب, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Sherket El Akhshab St. Off Cairo Alex Agricultural Rd., Qalyub, Kaliobeya"
+}
+	]
+}]}

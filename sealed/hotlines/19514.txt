@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المعهد القومى للاورام",
+	"enName":"National Cancer Institute",
+	"hotline":"19514",
+	"facebook":"http://www.facebook.com/NCI.eg",
+	"web":"http://www.nci.cu.edu.eg/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"65499",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-cancer-institute/65499?b=1&k=19514&l=search",
+	"arName":"1 ميدان فم الخليج, قصر العينى, القاهرة",
+	"lat":"30.024190000000001",
+	"lng":"31.230474999999998",
+	"enName":"1 Fom El Khalig Sq., Kasr el ainy, Cairo"
+},
+		{	"profileId":"581697",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-cancer-institute/581697?b=2&k=19514&l=search",
+	"arName":"خدمة العملاء, قصر العينى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Kasr el ainy, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شل ايجيبت",
+	"enName":"Shell Egypt N.V.",
+	"hotline":"16565",
+	"facebook":"http://www.facebook.com/Shell",
+	"web":"http://www.shell.eg/",
+	"arCategory":[
+		"شحم وزيوت صناعية"
+	],
+	"enCategories":[
+		"Lubricants & Industrial Oils"
+	],
+	"contacts":[
+		{	"profileId":"519268",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shell-egypt-n.v./519268?b=1&k=16565&l=search",
+	"arName":"خدمة توصيل زيوت شل, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Shell Oils Delivery Service, Downtown, Cairo"
+}
+	]
+}]}

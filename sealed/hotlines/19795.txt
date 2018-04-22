@@ -1,0 +1,53 @@
+{"items":[{	"arName":"مطعم ابو فارس السورى",
+	"enName":"Abou Fares El Soury Restaurant",
+	"hotline":"19795",
+	"facebook":"http://www.facebook.com/aboufareselsoryalexandria",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"112092",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-fares-el-soury-restaurant/112092?b=1&k=19795&l=search",
+	"arName":"ش قناة السويس, محرم بك, الاسكندرية",
+	"lat":"31.178066000000001",
+	"lng":"29.930873999999999",
+	"enName":"Suez Canal St., Moharram bey, Alexandria"
+},
+		{	"profileId":"427238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-fares-el-soury-restaurant/427238?b=2&k=19795&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ميامى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Miami, Alexandria"
+},
+		{	"profileId":"427249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-fares-el-soury-restaurant/427249?b=4&k=19795&l=search",
+	"arName":"242 طريق الجيش, رشدى, الاسكندرية",
+	"lat":"31.233412999999999",
+	"lng":"29.947116000000001",
+	"enName":"242 El Guish Rd., Roushdy, Alexandria"
+},
+		{	"profileId":"45492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-fares-el-soury-restaurant/45492?b=3&k=19795&l=search",
+	"arName":"60 ش اسكندر ابراهيم, ميامى, الاسكندرية",
+	"lat":"31.265881",
+	"lng":"29.997323999999999",
+	"enName":"60 Iskandar Ibrahim St., Miami, Alexandria"
+},
+		{	"profileId":"427259",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-fares-el-soury-restaurant/427259?b=5&k=19795&l=search",
+	"arName":"مساكن الضباط - - المنطقة الشمالية العسكرية, مصطفى كامل, الاسكندرية",
+	"lat":"31.227094000000001",
+	"lng":"29.943125999999999",
+	"enName":"El Dobbat Bldgs., , North Military Zone, Mostafa kamel, Alexandria"
+}
+	]
+}]}

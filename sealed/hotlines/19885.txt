@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى السلام الدولى",
+	"enName":"As - Salam International Hospital",
+	"hotline":"19885",
+	"facebook":"http://www.facebook.com/sehawesalam",
+	"web":"http://www.assih.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"11978",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/as-_-salam-international-hospital/11978?b=1&k=19885&l=search",
+	"arName":"كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.984891999999999",
+	"lng":"31.229942000000001",
+	"enName":"Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"96310",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/as-_-salam-international-hospital/96310?b=2&k=19885&l=search",
+	"arName":"خدمة طوارئ, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

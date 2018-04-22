@@ -1,0 +1,70 @@
+{"items":[{	"arName":"وود اند بلكسى",
+	"enName":"Wood & Plexi",
+	"hotline":"19558",
+	"facebook":"http://www.facebook.com/WoodAndPlexi",
+	"web":"http://www.woodandplexi.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"119862",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wood-&-plexi/119862?b=3&k=19558&l=search",
+	"arName":"106 ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.054444",
+	"lng":"31.338448",
+	"enName":"106 Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"389934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wood-&-plexi/389934?b=6&k=19558&l=search",
+	"arName":"38 ش النزهة, مصر الجديدة, القاهرة",
+	"lat":"30.082726000000001",
+	"lng":"31.339883",
+	"enName":"38 El Nozha St., Heliopolis, Cairo"
+},
+		{	"profileId":"70965",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wood-&-plexi/70965?b=8&k=19558&l=search",
+	"arName":"7 ش مصدق, الدقى, الجيزة",
+	"lat":"30.040454",
+	"lng":"31.209077000000001",
+	"enName":"7 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"70970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wood-&-plexi/70970?b=7&k=19558&l=search",
+	"arName":"315 طريق الجيش, سابا باشا, الاسكندرية",
+	"lat":"31.238375999999999",
+	"lng":"29.953938999999998",
+	"enName":"315 El Guish Rd., Saba pasha, Alexandria"
+},
+		{	"profileId":"148101",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wood-&-plexi/148101?b=2&k=19558&l=search",
+	"arName":"خدمة العملاء, الاميرية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El amireya, Cairo"
+},
+		{	"profileId":"3483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wood-&-plexi/3483?b=5&k=19558&l=search",
+	"arName":"4 ش مجمع المصانع متفرع من ش الشركات, الاميرية, القاهرة",
+	"lat":"30.105024",
+	"lng":"31.277951999999999",
+	"enName":"4 Mogamaa El Masanea St. Off El Sharekat St., El amireya, Cairo"
+},
+		{	"profileId":"70967",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wood-&-plexi/70967?b=1&k=19558&l=search",
+	"arName":"8 /1 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975863",
+	"lng":"31.282820999999998",
+	"enName":"8 /1 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"389936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wood-&-plexi/389936?b=4&k=19558&l=search",
+	"arName":"القطعة 311 - امتداد ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.026014",
+	"lng":"31.465958000000001",
+	"enName":"Plot 311, Extension Of El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

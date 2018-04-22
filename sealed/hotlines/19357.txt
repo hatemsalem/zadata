@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدلية رعاية",
+	"enName":"Reaya Pharmacy",
+	"hotline":"19357",
+	"facebook":"http://www.facebook.com/reaya.pharmacy.19357",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"579724",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/reaya-pharmacy/579724?b=1&k=19357&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق الاهرام, الهرم, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"579729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/reaya-pharmacy/579729?b=2&k=19357&l=search",
+	"arName":"21 د ش العشرين, حدائق الاهرام, الهرم, الجيزة",
+	"lat":"29.979574",
+	"lng":"31.102242",
+	"enName":"21 D El Eshreen St., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"452004",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/reaya-pharmacy/452004?b=3&k=19357&l=search",
+	"arName":"433 ل ش الجيش, حدائق الاهرام, الهرم, الجيزة",
+	"lat":"29.961171",
+	"lng":"31.089928",
+	"enName":"433 L El Guish St., Hadayek El Ahram, El haram, Giza"
+}
+	]
+}]}

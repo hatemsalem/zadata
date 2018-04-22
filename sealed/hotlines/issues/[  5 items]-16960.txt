@@ -1,0 +1,108 @@
+{"items":[{	"arName":"وسط البلد",
+	"enName":"Wust Al Balad",
+	"hotline":"16960",
+	"facebook":"http://www.facebook.com/WUSTELbalad15May",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"507957",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wust-al-balad/507957?b=6&k=16960&l=search",
+	"arName":"المجاورة الثالثة, مدينة 15 مايو, القاهرة",
+	"lat":"29.828572999999999",
+	"lng":"31.366427999999999",
+	"enName":"3rd Neighbourhood, 15th of may city, Cairo"
+}
+	]
+}, {	"arName":"ميجا مول",
+	"enName":"Mega Mall",
+	"hotline":"16960",
+	"facebook":"",
+	"web":"http://www.newage.com.eg/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"386698",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-mall/386698?b=2&k=16960&l=search",
+	"arName":"القطعة 22 - المجاورة الثالثة - مركز المدينة, مدينة 15 مايو, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Plot 22, 3rd Neighbourhood, City Center, 15th of may city, Cairo"
+}
+	]
+}, {	"arName":"ميجا مول 2",
+	"enName":"Mega Mall 2",
+	"hotline":"16960",
+	"facebook":"http://www.facebook.com/newageegypt",
+	"web":"http://www.newage.com.eg/projects/mega-mall",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"386701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mega-mall-2/386701?b=3&k=16960&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.025956000000001",
+	"lng":"31.478338999999998",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"نيو ايدج للاستثمار العقارى",
+	"enName":"NewAge For Real Estate Investment",
+	"hotline":"16960",
+	"facebook":"http://www.facebook.com/newageegypt",
+	"web":"http://www.newage.com.eg/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"256611",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/newage-for-real-estate-investment/256611?b=4&k=16960&l=search",
+	"arName":"خدمة العملاء, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"227540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/newage-for-real-estate-investment/227540?b=5&k=16960&l=search",
+	"arName":"16 ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.080501000000002",
+	"lng":"31.339791000000002",
+	"enName":"16 El Nozha St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ماى فير",
+	"enName":"Mayfair",
+	"hotline":"16960",
+	"facebook":"",
+	"web":"http://www.newage.com.eg/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"417172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mayfair/417172?b=1&k=16960&l=search",
+	"arName":"الهضبة الوسطى, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Middle Hill, Mokattam, Cairo"
+}
+	]
+}]}

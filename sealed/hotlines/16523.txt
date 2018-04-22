@@ -1,0 +1,77 @@
+{"items":[{	"arName":"ابو غالى اوتوموتيف جروب - ايه ايه جى",
+	"enName":"Abou Ghali Automotive Group - AAG",
+	"hotline":"16523",
+	"facebook":"",
+	"web":"http://www.aboughali.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"187382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/187382?b=1&k=16523&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Heliopolis, Cairo"
+},
+		{	"profileId":"74027",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/74027?b=5&k=16523&l=search",
+	"arName":"جولف سيتى, مدينة العبور, القليوبية",
+	"lat":"30.178080999999999",
+	"lng":"31.470272000000001",
+	"enName":"Golf city , Obour city, Kaliobeya"
+},
+		{	"profileId":"74026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/74026?b=3&k=16523&l=search",
+	"arName":"53 ش الظاهر, الظاهر, القاهرة",
+	"lat":"30.0626",
+	"lng":"31.258700000000001",
+	"enName":"53 El Zaher St., El zaher, Cairo"
+},
+		{	"profileId":"159022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/159022?b=7&k=16523&l=search",
+	"arName":"كم 25 - طريق مصر اسماعيلية الصحراوى, مدينة العبور, القليوبية",
+	"lat":"30.169142999999998",
+	"lng":"31.507214000000001",
+	"enName":"Km 25, Misr Ismaileya Desert Rd., Obour city, Kaliobeya"
+},
+		{	"profileId":"215030",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/215030?b=8&k=16523&l=search",
+	"arName":"كم 7 - طريق اسيوط القاهرة الزراعى - منقباد, حى غرب, اسيوط",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 7, Assyout Cairo Agriculture Rd., Manqabad, Gharb district, Assyout"
+},
+		{	"profileId":"233699",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/233699?b=9&k=16523&l=search",
+	"arName":"برج الامراء - ش الترعة, المنصورة, الدقهلية",
+	"lat":"31.030918499999999",
+	"lng":"31.374058699999999",
+	"enName":"El Omaraa Tower, El Teraa St., El mansoura, El dakahleya"
+},
+		{	"profileId":"162915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/162915?b=4&k=16523&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.168714000000001",
+	"lng":"29.935544",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"10445",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/10445?b=2&k=16523&l=search",
+	"arName":"68 ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.084596000000001",
+	"lng":"31.326062",
+	"enName":"68 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"397727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-ghali-automotive-group-_-aag/397727?b=6&k=16523&l=search",
+	"arName":"ش وادى الملوك, السيوف, الاسكندرية",
+	"lat":"31.240362000000001",
+	"lng":"29.993715999999999",
+	"enName":"Wadi El Melouk St., El seyouf, Alexandria"
+}
+	]
+}]}

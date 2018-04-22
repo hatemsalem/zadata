@@ -1,0 +1,49 @@
+{"items":[{	"arName":"يونى لاب",
+	"enName":"Uni Lab",
+	"hotline":"16646",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"442784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uni-lab/442784?b=5&k=16646&l=search",
+	"arName":"5 ش سوريا - الدور 1, المهندسين, الجيزة",
+	"lat":"30.053304000000001",
+	"lng":"31.200175999999999",
+	"enName":"5 Syria St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"442785",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uni-lab/442785?b=4&k=16646&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"442779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uni-lab/442779?b=1&k=16646&l=search",
+	"arName":"45 ش النصر ميدان الجزائر - الدور 1, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974043999999999",
+	"lng":"31.275537",
+	"enName":"45 El Nasr St. El Gazaer Sq., Floor 1, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"534225",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uni-lab/534225?b=3&k=16646&l=search",
+	"arName":"ش اخناتون, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.003799000000001",
+	"lng":"31.422547000000002",
+	"enName":"Ekhnatoun St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"442780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/uni-lab/442780?b=2&k=16646&l=search",
+	"arName":"48 ش فريد سميكة, ميدان الحجاز, مصر الجديدة, القاهرة",
+	"lat":"30.114208999999999",
+	"lng":"31.344235000000001",
+	"enName":"48 Farid Semeika St., Hegaz Square, Heliopolis, Cairo"
+}
+	]
+}]}

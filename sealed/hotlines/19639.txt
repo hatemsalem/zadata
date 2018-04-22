@@ -1,0 +1,28 @@
+{"items":[{	"arName":"شركة فاهم",
+	"enName":"Fahem Co.",
+	"hotline":"19639",
+	"facebook":"",
+	"web":"http://www.fahem-care.com/",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"386345",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fahem-co./386345?b=1&k=19639&l=search",
+	"arName":"7 ش الجبرتى متفرع من ش الخليفة المأمون, منشية البكرى, مصر الجديدة, القاهرة",
+	"lat":"30.088131000000001",
+	"lng":"31.307397000000002",
+	"enName":"7 El Gabarty St. Off El Khalifa El Maamoun St., Mansheyet El Bakry, Heliopolis, Cairo"
+},
+		{	"profileId":"386352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fahem-co./386352?b=2&k=19639&l=search",
+	"arName":"خدمة العملاء, منشية البكرى, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mansheyet El Bakry, Heliopolis, Cairo"
+}
+	]
+}]}

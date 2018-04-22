@@ -1,0 +1,63 @@
+{"items":[{	"arName":"سمارت - تطبيقات الكروت الذكية",
+	"enName":"Smart - Smart Cards Applications",
+	"hotline":"19765",
+	"facebook":"",
+	"web":"http://www.egyptsmartcards.com/",
+	"arCategory":[
+		"كروت ذكية"
+	],
+	"enCategories":[
+		"Smart Card"
+	],
+	"contacts":[
+		{	"profileId":"164378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/164378?b=1&k=19765&l=search",
+	"arName":"1 ميدان الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974886000000001",
+	"lng":"31.276524999999999",
+	"enName":"1 El Gazaer Sq., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"253581",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/253581?b=4&k=19765&l=search",
+	"arName":"برج الاصدقاء - ش الطور تقاطع ش رمسيس - الدور 2, حى الشرق, بور سعيد",
+	"lat":"31.259435",
+	"lng":"32.305705000000003",
+	"enName":"El Asdeqaa Tower, El Tur st. Intersection Of Ramsis st., Floor 2, El shark district, Port said"
+},
+		{	"profileId":"164386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/164386?b=5&k=19765&l=search",
+	"arName":"ش الناصر متفرع من ش محمد حميدة, حى المديرية, بنى سويف",
+	"lat":"29.074708999999999",
+	"lng":"31.099264000000002",
+	"enName":"El Nasser St. Off Mohamed Hemaida St., El modoureya district, Benisuef"
+},
+		{	"profileId":"142150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/142150?b=7&k=19765&l=search",
+	"arName":"68 ش الجيش, بور توفيق, السويس",
+	"lat":"29.944197899999999",
+	"lng":"32.567562500000001",
+	"enName":"68 El Guish St., Port tawfik, Suez"
+},
+		{	"profileId":"164387",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/164387?b=6&k=19765&l=search",
+	"arName":"2 ش نور الايمان متفرع من ش المستشفى الدولى, الاقصر, الاقصر",
+	"lat":"",
+	"lng":"",
+	"enName":"2 Nour El Eman St. Off El Mostashfa El Dawly St., Luxor, Luxor"
+},
+		{	"profileId":"164384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/164384?b=2&k=19765&l=search",
+	"arName":"69 ش زكى شبانة, شبين الكوم, المنوفية",
+	"lat":"30.556052999999999",
+	"lng":"31.018449",
+	"enName":"69 Zaky Shabana St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"187189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/187189?b=3&k=19765&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

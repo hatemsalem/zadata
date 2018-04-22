@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مصرية جروب",
+	"enName":"Masria Group",
+	"hotline":"19470",
+	"facebook":"http://www.facebook.com/Masrya.group",
+	"web":"http://www.masrya.com/",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"168865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masria-group/168865?b=2&k=19470&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"437736",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/masria-group/437736?b=1&k=19470&l=search",
+	"arName":"57 ش عبد الحكيم الرفاعى, مدينة نصر, القاهرة",
+	"lat":"30.053332999999999",
+	"lng":"31.345593000000001",
+	"enName":"57 Abdel Hakim El Refaey St., Nasr city, Cairo"
+}
+	]
+}]}

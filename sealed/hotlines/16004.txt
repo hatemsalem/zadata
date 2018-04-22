@@ -1,0 +1,49 @@
+{"items":[{	"arName":"يو بى اس ايجيبت",
+	"enName":"UPS Egypt",
+	"hotline":"16004",
+	"facebook":"",
+	"web":"http://www.ups.com/",
+	"arCategory":[
+		"بريد سريع خدمات"
+	],
+	"enCategories":[
+		"Courier Services"
+	],
+	"contacts":[
+		{	"profileId":"9666",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ups-egypt/9666?b=1&k=16004&l=search",
+	"arName":"7 ش حسين زهدى - ارض الجولف, مدينة نصر, القاهرة",
+	"lat":"30.082100000000001",
+	"lng":"31.341899999999999",
+	"enName":"7 Hussein Zohdy St., Ard El Golf, Nasr city, Cairo"
+},
+		{	"profileId":"103788",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ups-egypt/103788?b=2&k=16004&l=search",
+	"arName":"8 ش 78, المعادى, القاهرة",
+	"lat":"29.962636",
+	"lng":"31.259335",
+	"enName":"8 Rd. 78, Maadi, Cairo"
+},
+		{	"profileId":"234456",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ups-egypt/234456?b=3&k=16004&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"462200",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ups-egypt/462200?b=4&k=16004&l=search",
+	"arName":"41 ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.054387999999999",
+	"lng":"31.205017999999999",
+	"enName":"41 El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"40515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ups-egypt/40515?b=5&k=16004&l=search",
+	"arName":"25 ش عبد السلام عارف, سابا باشا, الاسكندرية",
+	"lat":"31.234366999999999",
+	"lng":"29.955988999999999",
+	"enName":"25 Abdel Salam Aref St., Saba pasha, Alexandria"
+}
+	]
+}]}

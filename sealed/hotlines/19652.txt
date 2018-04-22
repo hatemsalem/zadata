@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ايليت لرعاية الخصوبة",
+	"enName":"Elite Fertility Care",
+	"hotline":"19652",
+	"facebook":"http://www.facebook.com/Elite.Fertility.Care",
+	"web":"http://www.elitefertilitycare.com/",
+	"arCategory":[
+		"اطباء"
+	],
+	"enCategories":[
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"439928",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/elite-fertility-care/439928?b=1&k=19652&l=search",
+	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"439927",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/elite-fertility-care/439927?b=2&k=19652&l=search",
+	"arName":"46 ش الثورة, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.086051999999999",
+	"lng":"31.336880000000001",
+	"enName":"46 El Thawra St., Almaza, Heliopolis, Cairo"
+}
+	]
+}]}

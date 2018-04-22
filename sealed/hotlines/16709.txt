@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدلية مندور",
+	"enName":"Mandour Pharmacy",
+	"hotline":"16709",
+	"facebook":"http://www.facebook.com/mandourpharmacy",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"581046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mandour-pharmacy/581046?b=1&k=16709&l=search",
+	"arName":"ش 45 - الحي الثاني - المنطقة الرابعة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Rd. 45, 2nd District, 4th Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"581047",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mandour-pharmacy/581047?b=2&k=16709&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

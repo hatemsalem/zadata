@@ -1,0 +1,76 @@
+{"items":[{	"arName":"معامل سبيد",
+	"enName":"Speed Lab",
+	"hotline":"19358",
+	"facebook":"http://www.facebook.com/speedlabeg",
+	"web":"http://www.speedlab.com.eg/",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"577005",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-lab/577005?b=5&k=19358&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"504332",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-lab/504332?b=3&k=19358&l=search",
+	"arName":"25 ش عثمان بن عفان ميدان صلاح الدين, مصر الجديدة, القاهرة",
+	"lat":"30.095548000000001",
+	"lng":"31.331558999999999",
+	"enName":"25 Othman Ibn Affan St. Salah El Din Sq., Heliopolis, Cairo"
+},
+		{	"profileId":"504387",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-lab/504387?b=4&k=19358&l=search",
+	"arName":"القطعة 81 - - منطقة خدمات الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0036551",
+	"lng":"31.421575700000002",
+	"enName":"Plot 81, , 1St District Services Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"504385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-lab/504385?b=6&k=19358&l=search",
+	"arName":"6 ش محمد عوض متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.067412999999998",
+	"lng":"31.343485000000001",
+	"enName":"6 Mohamed Awad St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"504390",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-lab/504390?b=7&k=19358&l=search",
+	"arName":"الحى الاول, مدينة العبور, القليوبية",
+	"lat":"30.235755000000001",
+	"lng":"31.470597000000001",
+	"enName":"1St District, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"عيادات سبيد",
+	"enName":"Speed Clinic",
+	"hotline":"19358",
+	"facebook":"http://www.facebook.com/speedclinic.com.eg",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"577008",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-clinic/577008?b=1&k=19358&l=search",
+	"arName":"22 ش نهرو, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"30.098492",
+	"lng":"31.317063999999998",
+	"enName":"22 Nehro St., El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"577010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-clinic/577010?b=2&k=19358&l=search",
+	"arName":"خدمة العملاء, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Mahkama Square, Heliopolis, Cairo"
+}
+	]
+}]}

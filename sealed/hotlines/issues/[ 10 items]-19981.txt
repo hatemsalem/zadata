@@ -1,0 +1,201 @@
+{"items":[{	"arName":"هوليداى فانتازيا",
+	"enName":"Holiday Fantasia",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"http://www.tabarak-group.com/",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"121411",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/holiday-fantasia/121411?b=5&k=19981&l=search",
+	"arName":"40 ش تونس متفرع من ش الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975467999999999",
+	"lng":"31.274654999999999",
+	"enName":"40 Tunis St. Off El Gazaer St., New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"ديلايت تورز",
+	"enName":"Delight Tours",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"63719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-tours/63719?b=2&k=19981&l=search",
+	"arName":"40 ش تونس متفرع من ش الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975467999999999",
+	"lng":"31.274654999999999",
+	"enName":"40 Tunis St. Off El Gazaer St., New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"المعادى للاستثمار والتنمية",
+	"enName":"Maadi For Investment & Development",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"http://www.tabarak-group.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"138824",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maadi-for-investment-&-development/138824?b=7&k=19981&l=search",
+	"arName":"40 ش تونس, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975467999999999",
+	"lng":"31.274654999999999",
+	"enName":"40 Tunis St., New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"تبارك القابضة",
+	"enName":"Tabarak Holding",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"http://www.tabarakholding.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"42203",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tabarak-holding/42203?b=10&k=19981&l=search",
+	"arName":"40 ش تونس متفرع من ش الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975467999999999",
+	"lng":"31.274654999999999",
+	"enName":"40 Tunis St. Off El Gazaer St., New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"المعادى هايتس للاسكان والتنمية العمرانية",
+	"enName":"Maadi Hights For Housing And Urban Development",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"http://www.90avenue.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"502296",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maadi-hights-for-housing-and-urban-development/502296?b=8&k=19981&l=search",
+	"arName":"40 ش تونس متفرع من ش الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975467999999999",
+	"lng":"31.274654999999999",
+	"enName":"40 Tunis St. Off El Gazaer St., New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"ديباك",
+	"enName":"Depac",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"http://www.tabarak-group.com/",
+	"arCategory":[
+		"مستحضرات تجميل"
+	],
+	"enCategories":[
+		"Cosmetics & Toiletries"
+	],
+	"contacts":[
+		{	"profileId":"138820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/depac/138820?b=3&k=19981&l=search",
+	"arName":"40 ش تونس, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975467999999999",
+	"lng":"31.274654999999999",
+	"enName":"40 Tunis St., New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"90 افينيو",
+	"enName":"90 Avenue",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"http://www.90avenue.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"505047",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/90-avenue/505047?b=1&k=19981&l=search",
+	"arName":"شارع التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.023029999999999",
+	"lng":"31.492739",
+	"enName":"Rd. 90, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"المعادى كاونتى",
+	"enName":"El Maadi County",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"387674",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-maadi-county/387674?b=4&k=19981&l=search",
+	"arName":"الطريق الدائرى, زهراء المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Ring Rd., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"لاكوينتا",
+	"enName":"Lakwinta",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"http://www.tabarakholding.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"387670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lakwinta/387670?b=6&k=19981&l=search",
+	"arName":"الطريق الدائرى, زهراء المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Ring Rd., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"معادى ساندرى",
+	"enName":"Maadi Sundry",
+	"hotline":"19981",
+	"facebook":"",
+	"web":"http://www.tabarakholding.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"370017",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maadi-sundry/370017?b=9&k=19981&l=search",
+	"arName":"الطريق الدائرى, زهراء المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Ring Rd., Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}]}

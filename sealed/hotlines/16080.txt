@@ -1,0 +1,28 @@
+{"items":[{	"arName":"معامل ميدبارك للتحاليل الطبية",
+	"enName":"Medpark Laboratories",
+	"hotline":"16080",
+	"facebook":"http://www.facebook.com/medparklabs",
+	"web":"",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"133457",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medpark-laboratories/133457?b=2&k=16080&l=search",
+	"arName":"57 ش عبد المنعم رياض, المهندسين, الجيزة",
+	"lat":"30.054182000000001",
+	"lng":"31.209474",
+	"enName":"57 Abdel Moneim Riad St., Mohandeseen, Giza"
+},
+		{	"profileId":"173608",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medpark-laboratories/173608?b=1&k=16080&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

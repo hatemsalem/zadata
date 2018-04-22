@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المعهد القومى للاورام الجديد 500 500",
+	"enName":"New National Cancer Institute 500 500 - NNCI",
+	"hotline":"16115",
+	"facebook":"http://www.facebook.com/500500egypt",
+	"web":"http://www.500500egypt.org/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"557946",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-national-cancer-institute-500-500-_-nnci/557946?b=1&k=16115&l=search",
+	"arName":"ارض جامعة القاهرة, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.030127",
+	"lng":"31.015885000000001",
+	"enName":"Cairo University Land, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"557951",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-national-cancer-institute-500-500-_-nnci/557951?b=2&k=16115&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,35 @@
+{"items":[{	"arName":"بنوك مصر للتقدم التكنولوجى - اى بى سى",
+	"enName":"Egyptian Banks Co. For Technological Advancement - EBC",
+	"hotline":"19293",
+	"facebook":"",
+	"web":"http://www.egyptianbanks.com/",
+	"arCategory":[
+		"بنوك معدات"
+	],
+	"enCategories":[
+		"Bank Equipment"
+	],
+	"contacts":[
+		{	"profileId":"442787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-banks-co.-for-technological-advancement-_-ebc/442787?b=3&k=19293&l=search",
+	"arName":"37 ش 269 متفرع من ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.978534",
+	"lng":"31.278914",
+	"enName":"37 Rd. 269 Off El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"61476",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-banks-co.-for-technological-advancement-_-ebc/61476?b=2&k=19293&l=search",
+	"arName":"10 ش طلعت حرب - برج ايفر جرين - الدور 15, وسط البلد, القاهرة",
+	"lat":"30.046488",
+	"lng":"31.237634",
+	"enName":"10 Talaat Harb St., Ever Green Tower, Floor 15, Downtown, Cairo"
+},
+		{	"profileId":"187022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-banks-co.-for-technological-advancement-_-ebc/187022?b=1&k=19293&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

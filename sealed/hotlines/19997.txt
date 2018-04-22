@@ -1,0 +1,56 @@
+{"items":[{	"arName":"امريكان فرنتشر",
+	"enName":"American Furniture",
+	"hotline":"19997",
+	"facebook":"http://www.facebook.com/AmericanFurnitureEgypt",
+	"web":"http://www.americanfurniture-eg.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"76043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-furniture/76043?b=4&k=19997&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"138957",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-furniture/138957?b=3&k=19997&l=search",
+	"arName":"22 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.971499999999999",
+	"lng":"31.279800000000002",
+	"enName":"22 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"509414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-furniture/509414?b=2&k=19997&l=search",
+	"arName":"طريق النصر, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.091630500000001",
+	"lng":"31.384119800000001",
+	"enName":"El Nasr Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"17789",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-furniture/17789?b=5&k=19997&l=search",
+	"arName":"17 ش جزيرة العرب, المهندسين, الجيزة",
+	"lat":"30.053813000000002",
+	"lng":"31.199197000000002",
+	"enName":"17 Geziret El Arab St., Mohandeseen, Giza"
+},
+		{	"profileId":"76041",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-furniture/76041?b=6&k=19997&l=search",
+	"arName":"697 طريق الحرية, لوران, الاسكندرية",
+	"lat":"31.245961000000001",
+	"lng":"29.974982000000001",
+	"enName":"697 El Horreya Rd., Loran, Alexandria"
+},
+		{	"profileId":"76042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/american-furniture/76042?b=1&k=19997&l=search",
+	"arName":"98 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.066808999999999",
+	"lng":"31.344093000000001",
+	"enName":"98 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

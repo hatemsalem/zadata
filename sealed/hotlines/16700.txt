@@ -1,0 +1,28 @@
+{"items":[{	"arName":"نور جروب",
+	"enName":"Noor Group",
+	"hotline":"16700",
+	"facebook":"",
+	"web":"http://www.noor.net/",
+	"arCategory":[
+		"كمبيوتر شبكات"
+	],
+	"enCategories":[
+		"Computer Networking"
+	],
+	"contacts":[
+		{	"profileId":"18135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/noor-group/18135?b=1&k=16700&l=search",
+	"arName":"5 ابراج ستار كابيتال - ش عمر بن الخطاب - الدور 7, مصر الجديدة, القاهرة",
+	"lat":"30.07443",
+	"lng":"31.344715999999998",
+	"enName":"5 Star Capital Towers, Omar Ibn El Khattab St., Floor 7, Heliopolis, Cairo"
+},
+		{	"profileId":"178845",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/noor-group/178845?b=2&k=16700&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

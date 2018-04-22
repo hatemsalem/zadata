@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شركة اسكندنافيا للتنمية السياحية",
+	"enName":"Scandinavia Touristic Development Co.",
+	"hotline":"16782",
+	"facebook":"",
+	"web":"http://www.scanour-resort.net/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"472899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/scandinavia-touristic-development-co./472899?b=1&k=16782&l=search",
+	"arName":"33 ش البطراوى متفرع من ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.061861",
+	"lng":"31.336849000000001",
+	"enName":"33 El Batrawy St. Off Abbas El Akkad St., Nasr city, Cairo"
+}
+	]
+}]}

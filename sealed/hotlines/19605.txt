@@ -1,0 +1,77 @@
+{"items":[{	"arName":"معامل مبرة العصافرة للتحليل الطبية",
+	"enName":"Mabaret El Asafra Laboratories",
+	"hotline":"19605",
+	"facebook":"http://www.facebook.com/Mabara.Labs/",
+	"web":"http://www.mabaralabs.com/",
+	"arCategory":[
+		"معامل طبية"
+	],
+	"enCategories":[
+		"Laboratories Medical"
+	],
+	"contacts":[
+		{	"profileId":"565116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/565116?b=8&k=19605&l=search",
+	"arName":"567 طريق الحرية, جليم, الاسكندرية",
+	"lat":"31.238620999999998",
+	"lng":"29.962961",
+	"enName":"567 El Horreya Rd., Glim, Alexandria"
+},
+		{	"profileId":"37938",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/37938?b=4&k=19605&l=search",
+	"arName":"432 ش ملك حفنى, العصافرة بحرى, الاسكندرية",
+	"lat":"31.271841999999999",
+	"lng":"30.00676",
+	"enName":"432 Malak Hefny St., El asafra bahary, Alexandria"
+},
+		{	"profileId":"212160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/212160?b=2&k=19605&l=search",
+	"arName":"477 طريق الحرية, بولكلى, الاسكندرية",
+	"lat":"31.230796000000002",
+	"lng":"29.955552000000001",
+	"enName":"477 El Horreya Rd., Bolkeley, Alexandria"
+},
+		{	"profileId":"279543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/279543?b=5&k=19605&l=search",
+	"arName":"17 برج العبور - ش فيكتور عمانويل - الدور 1, سموحة, الاسكندرية",
+	"lat":"31.216626000000002",
+	"lng":"29.945919",
+	"enName":"17 El Obour Tower, Victor Emanuel St., Floor 1, Semouha, Alexandria"
+},
+		{	"profileId":"258129",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/258129?b=6&k=19605&l=search",
+	"arName":"خدمة العملاء, العصافرة بحرى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El asafra bahary, Alexandria"
+},
+		{	"profileId":"565130",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/565130?b=9&k=19605&l=search",
+	"arName":"10 ش بغداد, محرم بك, الاسكندرية",
+	"lat":"31.191082999999999",
+	"lng":"29.908270999999999",
+	"enName":"10 Baghdad St., Moharram bey, Alexandria"
+},
+		{	"profileId":"137012",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/137012?b=7&k=19605&l=search",
+	"arName":"25 ش شامبليون, الازاريطة, الاسكندرية",
+	"lat":"31.205553999999999",
+	"lng":"29.906036",
+	"enName":"25 Champillion St., Azarita, Alexandria"
+},
+		{	"profileId":"112807",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/112807?b=1&k=19605&l=search",
+	"arName":"4 ش سوريا, رشدى, الاسكندرية",
+	"lat":"31.228346999999999",
+	"lng":"29.951740999999998",
+	"enName":"4 Syria St., Roushdy, Alexandria"
+},
+		{	"profileId":"565140",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mabaret-el-asafra-laboratories/565140?b=3&k=19605&l=search",
+	"arName":"5 ش د. على ابراهيم رامز متفرع من ش كلية الطب, محطة الرمل, الاسكندرية",
+	"lat":"31.201533000000001",
+	"lng":"29.902370999999999",
+	"enName":"5 Dr. Aly Ibrahim Ramez St. Off Koleyet El Teb St., Raml station, Alexandria"
+}
+	]
+}]}

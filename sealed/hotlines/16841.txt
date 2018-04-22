@@ -1,0 +1,28 @@
+{"items":[{	"arName":"روتس للعقارات",
+	"enName":"Roots For Real Estate",
+	"hotline":"16841",
+	"facebook":"http://www.facebook.com/RootsEgypt",
+	"web":"http://www.roots-egypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"520726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roots-for-real-estate/520726?b=1&k=16841&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"520725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roots-for-real-estate/520725?b=2&k=16841&l=search",
+	"arName":"52 ش احمد فخرى - الدور 1, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.063074",
+	"lng":"31.349845999999999",
+	"enName":"52 Ahmed Fakhry St., Floor 1, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

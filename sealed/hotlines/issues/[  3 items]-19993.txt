@@ -1,0 +1,82 @@
+{"items":[{	"arName":"مركز صن رايز للخصوبة",
+	"enName":"Sunrise Fertility Center",
+	"hotline":"19993",
+	"facebook":"",
+	"web":"http://www.sunriseivf.com/",
+	"arCategory":[
+		"اطباء"
+	],
+	"enCategories":[
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"426393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-fertility-center/426393?b=4&k=19993&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"102137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-fertility-center/102137?b=3&k=19993&l=search",
+	"arName":"32 ش سوريا - الدور 12, المهندسين, الجيزة",
+	"lat":"30.052579999999999",
+	"lng":"31.195982999999998",
+	"enName":"32 Syria St., Floor 12, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"د. شريف باشا سيف",
+	"enName":"Dr. Sherif Pasha Seif",
+	"hotline":"19993",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اطباء"
+	],
+	"enCategories":[
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"214125",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-sherif-pasha-seif/214125?b=1&k=19993&l=search",
+	"arName":"32 ش سوريا - الدور 5, المهندسين, الجيزة",
+	"lat":"30.052579999999999",
+	"lng":"31.195982999999998",
+	"enName":"32 Syria St., Floor 5, Mohandeseen, Giza"
+},
+		{	"profileId":"545651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-sherif-pasha-seif/545651?b=2&k=19993&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"صن رايز ويل ومان كلينيك",
+	"enName":"Sunrise Well Woman Clinic",
+	"hotline":"19993",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"545648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-well-woman-clinic/545648?b=6&k=19993&l=search",
+	"arName":"محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.0249956",
+	"lng":"31.013203900000001",
+	"enName":"26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"426343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunrise-well-woman-clinic/426343?b=5&k=19993&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

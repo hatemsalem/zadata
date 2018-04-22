@@ -1,0 +1,21 @@
+{"items":[{	"arName":"عشرى للاستيراد والتصدير",
+	"enName":"Ashry For Import & Export",
+	"hotline":"16275",
+	"facebook":"",
+	"web":"http://www.ashryautoparts.com/",
+	"arCategory":[
+		"سيارات - قطع غيار وكماليات"
+	],
+	"enCategories":[
+		"Cars - Parts & Accessories"
+	],
+	"contacts":[
+		{	"profileId":"178936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ashry-for-import-&-export/178936?b=1&k=16275&l=search",
+	"arName":"22 ش نبيل البشبيشى متفرع من ش جسر السويس - تقسيم التجاريين, جسر السويس, القاهرة",
+	"lat":"30.145121",
+	"lng":"31.402197999999999",
+	"enName":"22 Nabil El Beshbishy St. Off Gesr El Suez St., El Togareyeen Division, Gesr el suez, Cairo"
+}
+	]
+}]}

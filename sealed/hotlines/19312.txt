@@ -1,0 +1,35 @@
+{"items":[{	"arName":"سيدرا",
+	"enName":"Sedra",
+	"hotline":"19312",
+	"facebook":"http://www.facebook.com/sedrarealestate/timeline",
+	"web":"http://www.sedrahomes.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"269335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedra/269335?b=1&k=19312&l=search",
+	"arName":"7 د ش التسعين - حى المصراوية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.024851000000002",
+	"lng":"31.479223000000001",
+	"enName":"7 D El Tesaeen St., El Masrawya District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"58682",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedra/58682?b=2&k=19312&l=search",
+	"arName":"3 ش النهضة متفرع من طريق المطار, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.098299999999998",
+	"lng":"31.345600000000001",
+	"enName":"3 El Nahda St. Off Airport Rd., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"169275",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedra/169275?b=3&k=19312&l=search",
+	"arName":"خدمة العملاء, تريومف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Triumph Square, Heliopolis, Cairo"
+}
+	]
+}]}

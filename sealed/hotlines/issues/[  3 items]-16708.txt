@@ -1,0 +1,61 @@
+{"items":[{	"arName":"مطار القاهرة الدولى - مبنى الركاب 3",
+	"enName":"Cairo International Airport - Terminal 3",
+	"hotline":"16708",
+	"facebook":"",
+	"web":"http://www.cairo-airport.com/",
+	"arCategory":[
+		"مطارات"
+	],
+	"enCategories":[
+		"Airports"
+	],
+	"contacts":[
+		{	"profileId":"255895",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-international-airport-_-terminal-3/255895?b=2&k=16708&l=search",
+	"arName":"خدمة العملاء, منطقة المطار, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Airport Area, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"خدمة اهلا - مطار القاهرة الدولى",
+	"enName":"Ahlan Service - Cairo International Airport",
+	"hotline":"16708",
+	"facebook":"",
+	"web":"http://www.cairo-airport.com/services_exclusive_servicese.asp",
+	"arCategory":[
+		"مطارات"
+	],
+	"enCategories":[
+		"Airports"
+	],
+	"contacts":[
+		{	"profileId":"255870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahlan-service-_-cairo-international-airport/255870?b=1&k=16708&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"lat":"30.127127000000002",
+	"lng":"31.402094999999999",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"استعلامات المطار",
+	"enName":"Terminal Inquiries",
+	"hotline":"16708",
+	"facebook":"",
+	"web":"http://www.cairo-airport.com/",
+	"arCategory":[
+		"ارقام طوارئ"
+	],
+	"enCategories":[
+		"Emergency Numbers"
+	],
+	"contacts":[
+		{	"profileId":"388275",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/terminal-inquiries/388275?b=3&k=16708&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"lat":"30.126996999999999",
+	"lng":"31.402411000000001",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+}
+	]
+}]}

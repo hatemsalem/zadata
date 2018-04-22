@@ -1,0 +1,78 @@
+{"items":[{	"arName":"شركة تكنولوجيا تشغيل المنشأت المالية",
+	"enName":"e-finance",
+	"hotline":"19680",
+	"facebook":"http://www.facebook.com/efinanceEG",
+	"web":"http://www.efinance.com.eg/",
+	"arCategory":[
+		"بنوك معدات",
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Bank Equipment",
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"256942",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_finance/256942?b=1&k=19680&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"158004",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_finance/158004?b=2&k=19680&l=search",
+	"arName":"مبنى ب 17- كم 28 - طريق القاهرة اسكندرية الصحراوى - القرية الذكية, ابو رواش, الجيزة",
+	"lat":"30.065577000000001",
+	"lng":"31.025396000000001",
+	"enName":"Bldg. B 17,km 28, Cairo Alex Desert Rd., Smart Village, Abou rawash, Giza"
+}
+	]
+}, {	"arName":"الهيئة القومية للتأمين الاجتماعى - ماكينة الصراف الالى",
+	"enName":"National Organization For Social Insurance - ATM",
+	"hotline":"19680",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"476881",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance-_-atm/476881?b=4&k=19680&l=search",
+	"arName":"ش خالد بن الوليد ميدان الكيت كات, الكيت كات, الجيزة",
+	"lat":"30.065296",
+	"lng":"31.213075",
+	"enName":"Khaled Ibn El Walid St. El Kit Kat Sq., Al kit kat, Giza"
+},
+		{	"profileId":"576974",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance-_-atm/576974?b=7&k=19680&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"515388",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance-_-atm/515388?b=6&k=19680&l=search",
+	"arName":"8 ش المستشفى المركزى, الخانكة, القليوبية",
+	"lat":"30.222114999999999",
+	"lng":"31.363109999999999",
+	"enName":"8 El Mostashfa El Markazy St., El khanka, Kaliobeya"
+},
+		{	"profileId":"502715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance-_-atm/502715?b=3&k=19680&l=search",
+	"arName":"52 ش المنيل, المنيل, القاهرة",
+	"lat":"30.01812",
+	"lng":"31.225059999999999",
+	"enName":"52 Manial St., El manyal, Cairo"
+},
+		{	"profileId":"476878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance-_-atm/476878?b=5&k=19680&l=search",
+	"arName":"سور حديقة حيوان الجيزة - ش مراد, الجيزة, الجيزة",
+	"lat":"30.023847",
+	"lng":"31.214669000000001",
+	"enName":"Giza Zoo Wall, Mourad St., Giza, Giza"
+}
+	]
+}]}

@@ -1,0 +1,77 @@
+{"items":[{	"arName":"بريميوم كارد",
+	"enName":"Premium Card",
+	"hotline":"16818",
+	"facebook":"http://www.facebook.com/premiumcard",
+	"web":"http://www.premiumcard.net/",
+	"arCategory":[
+		"بنوك",
+		"كروت تخفيض"
+	],
+	"enCategories":[
+		"Banks",
+		"Discount Cards"
+	],
+	"contacts":[
+		{	"profileId":"456973",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/premium-card/456973?b=5&k=16818&l=search",
+	"arName":"53 ش فيكتور عمانويل, سموحة, الاسكندرية",
+	"lat":"31.211542000000001",
+	"lng":"29.947147000000001",
+	"enName":"53 Victor Emanuel St., Semouha, Alexandria"
+},
+		{	"profileId":"136516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/premium-card/136516?b=3&k=16818&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"56310",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/premium-card/56310?b=4&k=16818&l=search",
+	"arName":"6 ش عقبة ميدان المساحة, الدقى, الجيزة",
+	"lat":"30.038302999999999",
+	"lng":"31.214991000000001",
+	"enName":"6 Oqba St. El Messaha Sq., Dokki, Giza"
+}
+	]
+}, {	"arName":"تو جو ايجيبت",
+	"enName":"2Go Egypt",
+	"hotline":"16818",
+	"facebook":"http://www.facebook.com/2GoEg",
+	"web":"http://www.2go-eg.com/",
+	"arCategory":[
+		"كروت تخفيض"
+	],
+	"enCategories":[
+		"Discount Cards"
+	],
+	"contacts":[
+		{	"profileId":"544798",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2go-egypt/544798?b=1&k=16818&l=search",
+	"arName":"6 ش عقبة ميدان المساحة, الدقى, الجيزة",
+	"lat":"30.038302999999999",
+	"lng":"31.214991000000001",
+	"enName":"6 Oqba St. El Messaha Sq., Dokki, Giza"
+}
+	]
+}, {	"arName":"كراون كارد",
+	"enName":"Crown Card",
+	"hotline":"16818",
+	"facebook":"http://www.facebook.com/CrownCard",
+	"web":"http://www.crowncard.net/",
+	"arCategory":[
+		"كروت تخفيض"
+	],
+	"enCategories":[
+		"Discount Cards"
+	],
+	"contacts":[
+		{	"profileId":"544784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/crown-card/544784?b=2&k=16818&l=search",
+	"arName":"6 ش عقبة ميدان المساحة, الدقى, الجيزة",
+	"lat":"30.038302999999999",
+	"lng":"31.214991000000001",
+	"enName":"6 Oqba St. El Messaha Sq., Dokki, Giza"
+}
+	]
+}]}

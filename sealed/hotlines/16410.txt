@@ -1,0 +1,21 @@
+{"items":[{	"arName":"بريدج للتنمية العقارية",
+	"enName":"Bridge For Real Estate Development",
+	"hotline":"16410",
+	"facebook":"http://www.facebook.com/bridgeeg",
+	"web":"http://www.bridgeeg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"140313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bridge-for-real-estate-development/140313?b=1&k=16410&l=search",
+	"arName":"5 ب ابراج العمار بلازا - مدخل ب - ش حافظ رمضان متفرع من ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.068518999999998",
+	"lng":"31.347096000000001",
+	"enName":"5 B El Ammar Plaza Towers, Entrance B, Hafez Ramadan St. Off Makram Ebaid St., Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,49 @@
+{"items":[{	"arName":"ريتش هوم للمراتب والمفروشات",
+	"enName":"Rich Home For Bedding",
+	"hotline":"16874",
+	"facebook":"http://www.facebook.com/richhome",
+	"web":"http://www.richhome.com.eg/",
+	"arCategory":[
+		"مفروشات"
+	],
+	"enCategories":[
+		"Bedding"
+	],
+	"contacts":[
+		{	"profileId":"495438",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rich-home-for-bedding/495438?b=3&k=16874&l=search",
+	"arName":"2 ش امرؤ القيس متفرع من ش على امين, مدينة نصر, القاهرة",
+	"lat":"30.05247",
+	"lng":"31.329719000000001",
+	"enName":"2 Emroa El Qis St. Off Aly Amin St., Nasr city, Cairo"
+},
+		{	"profileId":"315052",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rich-home-for-bedding/315052?b=1&k=16874&l=search",
+	"arName":"137 ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"lat":"30.055294",
+	"lng":"31.356603",
+	"enName":"137 Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"493908",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rich-home-for-bedding/493908?b=4&k=16874&l=search",
+	"arName":"القطعة 22 - بلوك 20014 - الامتداد الغربى - المنطقة الصناعية ب - ج - مدينة الشباب, مدينة العبور, القليوبية",
+	"lat":"30.188407999999999",
+	"lng":"31.442537999999999",
+	"enName":"Plot 22, Block 20014, Western Extension, Industrial Zone B - C, Youth City, Obour city, Kaliobeya"
+},
+		{	"profileId":"395247",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rich-home-for-bedding/395247?b=2&k=16874&l=search",
+	"arName":"فيلا 68 - ش جسر السويس, الالف مسكن, مصر الجديدة, القاهرة",
+	"lat":"30.096046999999999",
+	"lng":"31.311071999999999",
+	"enName":"Villa 68, Gesr El Suez St., El Alf Maskan, Heliopolis, Cairo"
+},
+		{	"profileId":"493914",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rich-home-for-bedding/493914?b=5&k=16874&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+}
+	]
+}]}

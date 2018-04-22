@@ -1,0 +1,28 @@
+{"items":[{	"arName":"كيان ايجيبت",
+	"enName":"Kayan Egypt",
+	"hotline":"19112",
+	"facebook":"http://www.facebook.com/SEATEgypt",
+	"web":"http://www.seategypt.com/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"429134",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kayan-egypt/429134?b=2&k=19112&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"429133",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kayan-egypt/429133?b=1&k=19112&l=search",
+	"arName":"المنطقة الصناعية ب, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Industrial Zone B, Obour city, Kaliobeya"
+}
+	]
+}]}

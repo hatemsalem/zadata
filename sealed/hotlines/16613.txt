@@ -1,0 +1,30 @@
+{"items":[{	"arName":"بيزنس بلس",
+	"enName":"Business Plus",
+	"hotline":"16613",
+	"facebook":"http://www.facebook.com/BusinessPlusCairo/",
+	"web":"http://www.businesspluscairo.com/",
+	"arCategory":[
+		"عقارات",
+		"مول"
+	],
+	"enCategories":[
+		"Real Estate",
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"518627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/business-plus/518627?b=2&k=16613&l=search",
+	"arName":"68 ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.062618000000001",
+	"lng":"31.344626999999999",
+	"enName":"68 Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"518628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/business-plus/518628?b=1&k=16613&l=search",
+	"arName":"324 ش التسعين الجنوبى قطاع 2, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.027896999999999",
+	"lng":"31.495507",
+	"enName":"324 El Tesaeen El Ganouby St. Sector 2, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

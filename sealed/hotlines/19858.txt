@@ -1,0 +1,35 @@
+{"items":[{	"arName":"شركة بينجو العالمية للتجارة و التوريدات - ش.م.م.",
+	"enName":"Bingo Global Group For Trading & Supplies",
+	"hotline":"19858",
+	"facebook":"http://www.facebook.com/bingoeg",
+	"web":"http://www.bingo.eg/",
+	"arCategory":[
+		"لعب"
+	],
+	"enCategories":[
+		"Toys"
+	],
+	"contacts":[
+		{	"profileId":"581638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bingo-global-group-for-trading-&-supplies/581638?b=3&k=19858&l=search",
+	"arName":"8 ش غالب حموده العتيبى متفرع من طريق المطار, النزهة الجديدة, القاهرة",
+	"lat":"30.125046000000001",
+	"lng":"31.372278999999999",
+	"enName":"8 Ghaleb Hamouda El Otaiby St. Off Airport Rd., El nozha el gadida, Cairo"
+},
+		{	"profileId":"535674",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bingo-global-group-for-trading-&-supplies/535674?b=1&k=19858&l=search",
+	"arName":"41 أ, مكتب 401 عمارات الملتقى العربى - النرهة الجديدة شقة 4, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.091677000000001",
+	"lng":"31.376197000000001",
+	"enName":"41 A, Office 401 El Moltaqa El Araby Building, El Nozha El Gedida Flat 4, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"536577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bingo-global-group-for-trading-&-supplies/536577?b=2&k=19858&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

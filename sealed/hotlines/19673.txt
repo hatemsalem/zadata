@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شركة ميديتيرنيان شيبنج مصر - ام اس سى",
+	"enName":"Mediterranean Shipping Co. Egypt - MSC",
+	"hotline":"19673",
+	"facebook":"",
+	"web":"http://www.msc.com/",
+	"arCategory":[
+		"شحن جوى وبحرى وبرى"
+	],
+	"enCategories":[
+		"Shipping, Air Cargo & Freight"
+	],
+	"contacts":[
+		{	"profileId":"31154",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mediterranean-shipping-co.-egypt-_-msc/31154?b=1&k=19673&l=search",
+	"arName":"55 ش السلطان حسين, الشلالات, الاسكندرية",
+	"lat":"31.201743",
+	"lng":"29.909555999999998",
+	"enName":"55 El Sultan Hussein St., El shalalat, Alexandria"
+}
+	]
+}]}

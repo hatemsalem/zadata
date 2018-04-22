@@ -1,0 +1,32 @@
+{"items":[{	"arName":"مطعم كبدة البرنس",
+	"enName":"Kebdet El Prince Restaurant",
+	"hotline":"19137",
+	"facebook":"http://www.facebook.com/KebdetElprince",
+	"web":"http://www.kebdetelprince.com/",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"130762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kebdet-el-prince-restaurant/130762?b=1&k=19137&l=search",
+	"arName":"79 ش طلعت حرب متفرع من كورنيش النيل - مدينة العمال, امبابة, الجيزة",
+	"lat":"30.080366000000001",
+	"lng":"31.220102000000001",
+	"enName":"79 Talaat Harb St. Off Corniche El Nil, El Omal City, Imbaba, Giza"
+},
+		{	"profileId":"545146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kebdet-el-prince-restaurant/545146?b=2&k=19137&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, امبابة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Imbaba, Giza"
+}
+	]
+}]}

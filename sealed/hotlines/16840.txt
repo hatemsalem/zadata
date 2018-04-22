@@ -1,0 +1,119 @@
+{"items":[{	"arName":"صيدليات د. اسامة الطيبى",
+	"enName":"Dr. Osama El Tayeby Pharmacies",
+	"hotline":"16840",
+	"facebook":"http://www.facebook.com/TAYPHARMACIES",
+	"web":"http://www.taypharmacies.com/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"38044",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/38044?b=6&k=16840&l=search",
+	"arName":"11 ش اسكندر ابراهيم, ميامى, الاسكندرية",
+	"lat":"31.269190999999999",
+	"lng":"29.994222000000001",
+	"enName":"11 Iskandar Ibrahim St., Miami, Alexandria"
+},
+		{	"profileId":"545029",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/545029?b=14&k=16840&l=search",
+	"arName":"77 ش 16 متفرع من ش جمال عبد الناصر, سيدى بشر بحرى, الاسكندرية",
+	"lat":"31.260269999999998",
+	"lng":"29.989476",
+	"enName":"77 Rd. 16 Off Gamal Abdel Nasser St., Sidi beshr bahary, Alexandria"
+},
+		{	"profileId":"426114",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/426114?b=3&k=16840&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, جناكليس, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Ganaklis, Alexandria"
+},
+		{	"profileId":"228735",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/228735?b=8&k=16840&l=search",
+	"arName":"ش 12 تقاطع ش 14 - شاطىء النخيل - مدينة 6 اكتوبر, العجمى, الاسكندرية",
+	"lat":"31.085743600000001",
+	"lng":"29.733134499999998",
+	"enName":"Rd. 12 Intersection Of Rd. 14, El Nakhil Beach, 6th Of October City, Agami, Alexandria"
+},
+		{	"profileId":"25447",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/25447?b=12&k=16840&l=search",
+	"arName":"22 ش زين العابدين, محرم بك, الاسكندرية",
+	"lat":"31.193071",
+	"lng":"29.915728999999999",
+	"enName":"22 Zein El Abedeen St., Moharram bey, Alexandria"
+},
+		{	"profileId":"537142",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/537142?b=11&k=16840&l=search",
+	"arName":"231 طريق الحرية, الابراهيمية, الاسكندرية",
+	"lat":"31.210215999999999",
+	"lng":"29.932096999999999",
+	"enName":"231 El Horreya Rd., El ibrahimeya, Alexandria"
+},
+		{	"profileId":"100824",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/100824?b=9&k=16840&l=search",
+	"arName":"637 طريق الحرية, جناكليس, الاسكندرية",
+	"lat":"31.242446999999999",
+	"lng":"29.968764",
+	"enName":"637 El Horreya Rd., Ganaklis, Alexandria"
+},
+		{	"profileId":"501467",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/501467?b=1&k=16840&l=search",
+	"arName":"3 ش زكى رجب, سموحة, الاسكندرية",
+	"lat":"31.208134999999999",
+	"lng":"29.934483",
+	"enName":"3 Zaky Ragab St., Semouha, Alexandria"
+},
+		{	"profileId":"172228",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/172228?b=13&k=16840&l=search",
+	"arName":"ش 27 - قرية النخيل, العجمى, الاسكندرية",
+	"lat":"31.089718999999999",
+	"lng":"29.729298",
+	"enName":"Rd. 27, El Nakhil Village, Agami, Alexandria"
+},
+		{	"profileId":"39821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/39821?b=7&k=16840&l=search",
+	"arName":"45 ش الاقبال, لوران, الاسكندرية",
+	"lat":"31.251878000000001",
+	"lng":"29.973787000000002",
+	"enName":"45 El Eqbal St., Loran, Alexandria"
+},
+		{	"profileId":"545049",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/545049?b=10&k=16840&l=search",
+	"arName":"عمارات الفرات - ش عبد القادر رجب, كفر عبده, الاسكندرية",
+	"lat":"31.223642000000002",
+	"lng":"29.949414000000001",
+	"enName":"El Forat Bldgs., Abdel Qader Ragab St., Kafr abdou, Alexandria"
+},
+		{	"profileId":"545047",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/545047?b=2&k=16840&l=search",
+	"arName":"23 ش البكباشى العيسوى, سيدى بشر بحرى, الاسكندرية",
+	"lat":"31.258652999999999",
+	"lng":"29.983727999999999",
+	"enName":"23 El Bekbashy El Essawy St., Sidi beshr bahary, Alexandria"
+},
+		{	"profileId":"470356",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/470356?b=4&k=16840&l=search",
+	"arName":"3 ش الاقبال, فيكتوريا, الاسكندرية",
+	"lat":"31.247449",
+	"lng":"29.977315999999998",
+	"enName":"3 El Eqbal St., Victoria, Alexandria"
+},
+		{	"profileId":"545010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/545010?b=5&k=16840&l=search",
+	"arName":"كم 16.5 - طريق اسكندرية مطروح, الهانوفيل, الاسكندرية",
+	"lat":"31.094588999999999",
+	"lng":"29.765792999999999",
+	"enName":"Km 16.5, Alex Matrouh Rd., Hannoville, Alexandria"
+},
+		{	"profileId":"545043",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/545043?b=15&k=16840&l=search",
+	"arName":"728 طريق الجيش, المندرة, الاسكندرية",
+	"lat":"31.276057000000002",
+	"lng":"30.002714999999998",
+	"enName":"728 El Guish Rd., El mandara, Alexandria"
+}
+	]
+}]}

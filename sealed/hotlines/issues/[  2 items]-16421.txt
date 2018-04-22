@@ -1,0 +1,97 @@
+{"items":[{	"arName":"فورى بلس",
+	"enName":"Fawry Plus",
+	"hotline":"16421",
+	"facebook":"http://www.facebook.com/Fawrypayments",
+	"web":"http://www.fawry.com/",
+	"arCategory":[
+		"تحصيل وكالات"
+	],
+	"enCategories":[
+		"Collection Agencies"
+	],
+	"contacts":[
+		{	"profileId":"579725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry-plus/579725?b=10&k=16421&l=search",
+	"arName":"188 ش الهرم, التعاون, الهرم, الجيزة",
+	"lat":"29.9953",
+	"lng":"31.163900000000002",
+	"enName":"188 Haram St., El Taawon, El haram, Giza"
+},
+		{	"profileId":"579712",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry-plus/579712?b=6&k=16421&l=search",
+	"arName":"1 ش السودان ميدان الكيت كات, امبابة, الجيزة",
+	"lat":"30.066972",
+	"lng":"31.212340999999999",
+	"enName":"1 Sudan St. El Kit Kat Sq., Imbaba, Giza"
+},
+		{	"profileId":"581447",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry-plus/581447?b=4&k=16421&l=search",
+	"arName":"19 ش البطراوى متفرع من ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.061655999999999",
+	"lng":"31.33492",
+	"enName":"19 El Batrawy St. Off Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"579727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry-plus/579727?b=7&k=16421&l=search",
+	"arName":"خدمة العملاء, التعاون, فيصل, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Taawon, Faisal, Giza"
+},
+		{	"profileId":"581377",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry-plus/581377?b=9&k=16421&l=search",
+	"arName":"ش المحطة, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Mahatta St., Giza, Giza"
+},
+		{	"profileId":"579719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry-plus/579719?b=8&k=16421&l=search",
+	"arName":"254 ش فيصل, التعاون, فيصل, الجيزة",
+	"lat":"30.000499999999999",
+	"lng":"31.1648",
+	"enName":"254 Faisal St., El Taawon, Faisal, Giza"
+},
+		{	"profileId":"579720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry-plus/579720?b=5&k=16421&l=search",
+	"arName":"40 ش المطرية, المطرية, القاهرة",
+	"lat":"30.110620000000001",
+	"lng":"31.304044999999999",
+	"enName":"40 El Matareya St., El matareya, Cairo"
+},
+		{	"profileId":"581375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry-plus/581375?b=3&k=16421&l=search",
+	"arName":"21 ش 151 ميدان الحرية, المعادى, القاهرة",
+	"lat":"29.960144",
+	"lng":"31.252295",
+	"enName":"21 Rd. 151 El Horreya Sq., Maadi, Cairo"
+}
+	]
+}, {	"arName":"فورى",
+	"enName":"Fawry",
+	"hotline":"16421",
+	"facebook":"http://www.facebook.com/Fawrypayments",
+	"web":"http://www.fawry.com/",
+	"arCategory":[
+		"تحصيل وكالات"
+	],
+	"enCategories":[
+		"Collection Agencies"
+	],
+	"contacts":[
+		{	"profileId":"257414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry/257414?b=1&k=16421&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou rawash, Giza"
+},
+		{	"profileId":"551928",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawry/551928?b=2&k=16421&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+}
+	]
+}]}

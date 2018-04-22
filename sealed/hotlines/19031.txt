@@ -1,0 +1,69 @@
+{"items":[{	"arName":"ايه بى سى للتجهيزات التجارية",
+	"enName":"ABC Display Store Fixtures",
+	"hotline":"19031",
+	"facebook":"http://www.facebook.com/abc.egypt",
+	"web":"http://www.abcegypt.com/",
+	"arCategory":[
+		"تجهيز محلات",
+		"اثاث منزلى ومكتبى واثاث حدائق",
+		"ارفف ومخازن",
+		"موتوسيكلات و ايه تى فى"
+	],
+	"enCategories":[
+		"Store Displays",
+		"Furniture - Home, Office & Garden",
+		"Shelving & Storage Systems",
+		"Motorcycles & ATVs"
+	],
+	"contacts":[
+		{	"profileId":"198879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abc-display-store-fixtures/198879?b=5&k=19031&l=search",
+	"arName":"ش مجمع المحاكم - برج العلا, المنصورة, الدقهلية",
+	"lat":"31.032878799999999",
+	"lng":"31.397160899999999",
+	"enName":"Mogamaa El Mahakem St., El Ola Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"136281",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abc-display-store-fixtures/136281?b=2&k=19031&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"455198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abc-display-store-fixtures/455198?b=4&k=19031&l=search",
+	"arName":"144 ش الحرية متفرع من ش الكورنيش, الكورنيش, المنيا",
+	"lat":"28.093382099999999",
+	"lng":"30.7633577",
+	"enName":"144 El Horreya St. Off El Corniche St., El corniche, El menia"
+},
+		{	"profileId":"481837",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abc-display-store-fixtures/481837?b=7&k=19031&l=search",
+	"arName":"طريق السلام, جنوب سيناء, شرم الشيخ",
+	"lat":"27.867031000000001",
+	"lng":"34.299365000000002",
+	"enName":"El Salam Rd., South of sinai, Sharm el sheikh"
+},
+		{	"profileId":"455192",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abc-display-store-fixtures/455192?b=6&k=19031&l=search",
+	"arName":"ش عبد الستار خضر متفرع من ش فريد ندا - الدور 2, بنها, القليوبية",
+	"lat":"30.461611999999999",
+	"lng":"31.180589000000001",
+	"enName":"Abdel Sattar Khedr St. Off Farid Nada St., Floor 2, Banha, Kaliobeya"
+},
+		{	"profileId":"53832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abc-display-store-fixtures/53832?b=1&k=19031&l=search",
+	"arName":"نهاية ش جسر السويس - سوق القنال الدولى, مصر الجديدة, القاهرة",
+	"lat":"30.137170999999999",
+	"lng":"31.388873",
+	"enName":"End Of Gesr El Suez St., Souk El Canal El Dawli, Heliopolis, Cairo"
+},
+		{	"profileId":"455202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abc-display-store-fixtures/455202?b=3&k=19031&l=search",
+	"arName":"ش شبين الكوم, حى السلام, الاسماعيلية",
+	"lat":"30.603945",
+	"lng":"32.273851999999998",
+	"enName":"Shebin El Koum St., El salam district, Ismaileya"
+}
+	]
+}]}

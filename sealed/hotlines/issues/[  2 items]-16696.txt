@@ -1,0 +1,41 @@
+{"items":[{	"arName":"هايد بارك للتعمير",
+	"enName":"Hyde Park Developments",
+	"hotline":"16696",
+	"facebook":"http://www.facebook.com/hydeparkcompound",
+	"web":"http://www.hpd.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"365648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hyde-park-developments/365648?b=1&k=16696&l=search",
+	"arName":"القطعة 67 - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.978467999999999",
+	"lng":"31.546081999999998",
+	"enName":"Plot 67, El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"هايد بارك القاهرة الجديدة",
+	"enName":"Hyde Park New Cairo",
+	"hotline":"16696",
+	"facebook":"http://www.facebook.com/HydeParkDevelopments",
+	"web":"http://www.hpd.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"561756",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hyde-park-new-cairo/561756?b=2&k=16696&l=search",
+	"arName":"القطعة الاولى - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.980786999999999",
+	"lng":"31.542210000000001",
+	"enName":"1St Plot, El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

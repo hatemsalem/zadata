@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ديار للاستثمارات العقارية",
+	"enName":"Diar Real Estate Investment",
+	"hotline":"19053",
+	"facebook":"http://www.facebook.com/diarinvest",
+	"web":"http://www.diar-invest.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"419436",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diar-real-estate-investment/419436?b=1&k=19053&l=search",
+	"arName":"378 عمارات النرجس - ش عبد الله النديم محور جمال عبد الناصر, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.000709199999999",
+	"lng":"31.451819400000002",
+	"enName":"378 El Narges Bldgs., Abdullah El Nadim St. Gamal Abdel Nasser Spine, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"509446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/diar-real-estate-investment/509446?b=2&k=19053&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

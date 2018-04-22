@@ -1,0 +1,39 @@
+{"items":[{	"arName":"تشكن فيليه",
+	"enName":"Chicken Fil-A",
+	"hotline":"19803",
+	"facebook":"http://www.facebook.com/ChickenFilA.NewCairo",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"572525",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-fil_a/572525?b=1&k=19803&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"572512",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-fil_a/572512?b=2&k=19803&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.053526000000002",
+	"lng":"31.430931999999999",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"572520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-fil_a/572520?b=3&k=19803&l=search",
+	"arName":"64 سور نادى الترسانة - , المهندسين, الجيزة",
+	"lat":"30.060936999999999",
+	"lng":"31.202411000000001",
+	"enName":"64 Tersana Club Wall, , Mohandeseen, Giza"
+}
+	]
+}]}

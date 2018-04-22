@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بلووم",
+	"enName":"Bloom",
+	"hotline":"16350",
+	"facebook":"",
+	"web":"http://www.bloom.com.eg/",
+	"arCategory":[
+		"مستحضرات تجميل"
+	],
+	"enCategories":[
+		"Cosmetics & Toiletries"
+	],
+	"contacts":[
+		{	"profileId":"445022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bloom/445022?b=1&k=16350&l=search",
+	"arName":"20 ش وادى النيل, المهندسين, الجيزة",
+	"lat":"30.056477000000001",
+	"lng":"31.201145",
+	"enName":"20 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"445433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bloom/445433?b=2&k=16350&l=search",
+	"arName":"20 ش وادى النيل, المهندسين, الجيزة",
+	"lat":"30.056477000000001",
+	"lng":"31.201145",
+	"enName":"20 Wadi El Nil St., Mohandeseen, Giza"
+}
+	]
+}]}

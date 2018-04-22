@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بيكس ميتال الدولية لتجارة المعادن",
+	"enName":"Bix Metals International Metal Trade",
+	"hotline":"19501",
+	"facebook":"",
+	"web":"http://www.bixmetals.com/ar/",
+	"arCategory":[
+		"حديد وصلب"
+	],
+	"enCategories":[
+		"Steel & Iron"
+	],
+	"contacts":[
+		{	"profileId":"569295",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bix-metals-international-metal-trade/569295?b=2&k=19501&l=search",
+	"arName":"خدمة العملاء, اغاخان, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Aghakhan, Cairo"
+},
+		{	"profileId":"569291",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bix-metals-international-metal-trade/569291?b=1&k=19501&l=search",
+	"arName":"138 ابراج اغاخان - كورنيش النيل - الدور 6, اغاخان, القاهرة",
+	"lat":"30.101514000000002",
+	"lng":"31.241240999999999",
+	"enName":"138 Aghakhan Towers, Corniche El Nil, Floor 6, Aghakhan, Cairo"
+}
+	]
+}]}

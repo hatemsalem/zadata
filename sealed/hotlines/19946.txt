@@ -1,0 +1,28 @@
+{"items":[{	"arName":"فيكتورى لينك",
+	"enName":"Victory Link",
+	"hotline":"19946",
+	"facebook":"",
+	"web":"http://www.victorylink.com/",
+	"arCategory":[
+		"اعلان - وكالات"
+	],
+	"enCategories":[
+		"Advertising Agencies"
+	],
+	"contacts":[
+		{	"profileId":"487619",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/victory-link/487619?b=2&k=19946&l=search",
+	"arName":"27 د ش مجدى سلامة متفرع من طريق الاوتوستراد - تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.970136",
+	"lng":"31.286987",
+	"enName":"27 D Magdy Salama St. Off Autostrad Rd., El Laselky Division, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"533665",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/victory-link/533665?b=1&k=19946&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

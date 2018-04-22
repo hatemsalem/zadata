@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ارتوك اوتو",
+	"enName":"Artoc Auto",
+	"hotline":"16616",
+	"facebook":"",
+	"web":"http://www.artocauto.com/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"124779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/artoc-auto/124779?b=2&k=16616&l=search",
+	"arName":"7 ش حسن الاكبر, المقطم, القاهرة",
+	"lat":"30.005213999999999",
+	"lng":"31.299972",
+	"enName":"7 Hassan El Akbar St., Mokattam, Cairo"
+},
+		{	"profileId":"187374",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/artoc-auto/187374?b=1&k=16616&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mokattam, Cairo"
+}
+	]
+}]}

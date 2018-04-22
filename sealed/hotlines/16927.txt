@@ -1,0 +1,42 @@
+{"items":[{	"arName":"اكوا كريستال",
+	"enName":"Aqua Crystal",
+	"hotline":"16927",
+	"facebook":"",
+	"web":"http://www.aqua-crystals.com/",
+	"arCategory":[
+		"مياه معالجة"
+	],
+	"enCategories":[
+		"Water Treatment"
+	],
+	"contacts":[
+		{	"profileId":"493509",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aqua-crystal/493509?b=1&k=16927&l=search",
+	"arName":"52 ش كورنيش النيل - الدور 1 شقة 1, اسيوط, اسيوط",
+	"lat":"27.190270000000002",
+	"lng":"31.191027999999999",
+	"enName":"52 Corniche El Nil St., Floor 1 Flat 1, Assyout, Assyout"
+},
+		{	"profileId":"167095",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aqua-crystal/167095?b=2&k=16927&l=search",
+	"arName":"221 ش بورسعيد - الدور 8 شقة 16, سبورتنج, الاسكندرية",
+	"lat":"31.220064000000001",
+	"lng":"29.932938",
+	"enName":"221 Port Said St., Floor 8 Flat 16, Sporting, Alexandria"
+},
+		{	"profileId":"341980",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aqua-crystal/341980?b=3&k=16927&l=search",
+	"arName":"37 ش الحسينى متفرع من ش محيى الدين ابو العز - الدور 3, المهندسين, الجيزة",
+	"lat":"30.040438999999999",
+	"lng":"31.199805999999999",
+	"enName":"37 El Husseiny St. Off Mohy El Din Abou El Ezz St., Floor 3, Mohandeseen, Giza"
+},
+		{	"profileId":"493515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aqua-crystal/493515?b=4&k=16927&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

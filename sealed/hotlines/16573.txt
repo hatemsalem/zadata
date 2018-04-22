@@ -1,0 +1,98 @@
+{"items":[{	"arName":"سانك سك",
+	"enName":"5asec",
+	"hotline":"16573",
+	"facebook":"http://www.facebook.com/5asecEgypt",
+	"web":"http://www.5asecegypt.com/",
+	"arCategory":[
+		"تنظيف جاف"
+	],
+	"enCategories":[
+		"Dry Cleaning"
+	],
+	"contacts":[
+		{	"profileId":"292427",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/292427?b=1&k=16573&l=search",
+	"arName":"9 ميدان الحرية, المعادى, القاهرة",
+	"lat":"29.959523999999998",
+	"lng":"31.253482000000002",
+	"enName":"9 El Horreya Sq., Maadi, Cairo"
+},
+		{	"profileId":"527277",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/527277?b=10&k=16573&l=search",
+	"arName":"., الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.030712000000001",
+	"lng":"30.993569000000001",
+	"enName":"., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"444955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/444955?b=12&k=16573&l=search",
+	"arName":"42 ش ميشيل باخوم متفرع من ش مصدق, الدقى, الجيزة",
+	"lat":"30.041239999999998",
+	"lng":"31.204953",
+	"enName":"42 Micheal Bakhoum St. Off Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"403502",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/403502?b=5&k=16573&l=search",
+	"arName":"7 /2 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.976148999999999",
+	"lng":"31.284834",
+	"enName":"7 /2 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"444959",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/444959?b=7&k=16573&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"403504",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/403504?b=3&k=16573&l=search",
+	"arName":"2 د ابراج المصرى - ش اسماعيل محمد - الدور 1, الزمالك, القاهرة",
+	"lat":"30.065491999999999",
+	"lng":"31.216297000000001",
+	"enName":"2 D El Masry Towers, Ismail Mohamed St., Floor 1, Zamalek, Cairo"
+},
+		{	"profileId":"431261",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/431261?b=6&k=16573&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.053452400000001",
+	"lng":"31.430732500000001",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"403505",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/403505?b=2&k=16573&l=search",
+	"arName":"12 عمارات رامو - ش عمر بن الخطاب, مدينة نصر, القاهرة",
+	"lat":"30.071418999999999",
+	"lng":"31.348592",
+	"enName":"12 Ramo Bldgs., Omar Ibn El Khattab St., Nasr city, Cairo"
+},
+		{	"profileId":"527280",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/527280?b=9&k=16573&l=search",
+	"arName":"24 ش شهاب, المهندسين, الجيزة",
+	"lat":"30.052320999999999",
+	"lng":"31.195283",
+	"enName":"24 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"431262",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/431262?b=11&k=16573&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"403508",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/403508?b=4&k=16573&l=search",
+	"arName":"17 ش 233, دجلة, المعادى, القاهرة",
+	"lat":"29.960357999999999",
+	"lng":"31.278504000000002",
+	"enName":"17 Rd. 233, Degla, Maadi, Cairo"
+},
+		{	"profileId":"527274",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/5asec/527274?b=8&k=16573&l=search",
+	"arName":"السوق التجارى - محل 62, مدينة الرحاب, القاهرة",
+	"lat":"30.056298000000002",
+	"lng":"31.491762000000001",
+	"enName":"Commercial Market, Shop 62, Al rehab city, Cairo"
+}
+	]
+}]}

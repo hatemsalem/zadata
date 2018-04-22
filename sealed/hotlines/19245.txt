@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدليات د. سيد عبد المنعم",
+	"enName":"Dr. Sayed Abdel Moneim Pharmacies",
+	"hotline":"19245",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"187015",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-sayed-abdel-moneim-pharmacies/187015?b=1&k=19245&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, منشية البكرى, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mansheyet El Bakry, Heliopolis, Cairo"
+},
+		{	"profileId":"53721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-sayed-abdel-moneim-pharmacies/53721?b=2&k=19245&l=search",
+	"arName":"6 ش المقريزى, منشية البكرى, مصر الجديدة, القاهرة",
+	"lat":"30.090160999999998",
+	"lng":"31.305098999999998",
+	"enName":"6 El Maqrizy St., Mansheyet El Bakry, Heliopolis, Cairo"
+}
+	]
+}]}

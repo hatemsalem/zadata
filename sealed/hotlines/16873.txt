@@ -1,0 +1,35 @@
+{"items":[{	"arName":"شركة الدلتا للصناعات المتكاملة",
+	"enName":"Delta Co. For Integrated Industries",
+	"hotline":"16873",
+	"facebook":"",
+	"web":"http://www.mccleans.com/",
+	"arCategory":[
+		"بلاستيك ومطاط"
+	],
+	"enCategories":[
+		"Plastic & Rubber"
+	],
+	"contacts":[
+		{	"profileId":"489854",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-co.-for-integrated-industries/489854?b=3&k=16873&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"456287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-co.-for-integrated-industries/456287?b=2&k=16873&l=search",
+	"arName":"المنطقة الصناعية الثانية ب4, العاشر من رمضان, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"2nd Industrial Zone B4, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"544918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delta-co.-for-integrated-industries/544918?b=1&k=16873&l=search",
+	"arName":"29 ش عماد الدين, وسط البلد, القاهرة",
+	"lat":"30.058067000000001",
+	"lng":"31.244772000000001",
+	"enName":"29 Emad El Din St., Downtown, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,35 @@
+{"items":[{	"arName":"جريدة اخترنا لك",
+	"enName":"Ekhtarnalk Newspaper",
+	"hotline":"16715",
+	"facebook":"http://www.facebook.com/ekhtarnalak",
+	"web":"http://www.ekhtarnalk.com/",
+	"arCategory":[
+		"صحف ومجلات"
+	],
+	"enCategories":[
+		"Newspapers & Magazines"
+	],
+	"contacts":[
+		{	"profileId":"323124",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ekhtarnalk-newspaper/323124?b=1&k=16715&l=search",
+	"arName":"8 عمارات الشركة السعودية - ش النزهة, مدينة نصر, القاهرة",
+	"lat":"30.068225999999999",
+	"lng":"31.347265",
+	"enName":"8 Secon Bldgs., El Nozha St., Nasr city, Cairo"
+},
+		{	"profileId":"475485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ekhtarnalk-newspaper/475485?b=2&k=16715&l=search",
+	"arName":"90 ش احمد الزمر امتداد ش زكى حسين, مدينة نصر, القاهرة",
+	"lat":"30.046403999999999",
+	"lng":"31.353048000000001",
+	"enName":"90 Ahmed El Zomor St. Extension Of Zaky Hussein St., Nasr city, Cairo"
+},
+		{	"profileId":"475487",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ekhtarnalk-newspaper/475487?b=3&k=16715&l=search",
+	"arName":"98 ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"lat":"30.045656999999999",
+	"lng":"31.199466000000001",
+	"enName":"98 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+}
+	]
+}]}

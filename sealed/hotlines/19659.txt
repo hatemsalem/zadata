@@ -1,0 +1,35 @@
+{"items":[{	"arName":"ايه اى جى ايجيبت للتأمين ش.م.م",
+	"enName":"AIG Egypt Insurance Co. S.A.E",
+	"hotline":"19659",
+	"facebook":"http://www.facebook.com/AIGInsurance",
+	"web":"http://www.aig.eg/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"49863",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aig-egypt-insurance-co.-s.a.e/49863?b=1&k=19659&l=search",
+	"arName":"44 ش عبد المنعم رياض - الدور 1, المهندسين, الجيزة",
+	"lat":"30.053231",
+	"lng":"31.208311999999999",
+	"enName":"44 Abdel Moniem Riad St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"391445",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aig-egypt-insurance-co.-s.a.e/391445?b=3&k=19659&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"91617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aig-egypt-insurance-co.-s.a.e/91617?b=2&k=19659&l=search",
+	"arName":"16 أ عمارات العبور - طريق صلاح سالم, مصر الجديدة, القاهرة",
+	"lat":"30.076461999999999",
+	"lng":"31.308427999999999",
+	"enName":"16 A El Obour Bldgs., Salah Salem Rd., Heliopolis, Cairo"
+}
+	]
+}]}

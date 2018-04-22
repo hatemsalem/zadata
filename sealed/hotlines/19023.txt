@@ -1,0 +1,46 @@
+{"items":[{	"arName":"بيتزا بارتى",
+	"enName":"Pizza Party",
+	"hotline":"19023",
+	"facebook":"http://www.facebook.com/Pizza.Party.Egypt/?fref=ts",
+	"web":"http://www.pizzapartygroup.com/",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"521419",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-party/521419?b=3&k=19023&l=search",
+	"arName":"خدمة العملاء, دمياط, دمياط",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Damietta, Damietta"
+},
+		{	"profileId":"162749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-party/162749?b=1&k=19023&l=search",
+	"arName":"1 ش السوق, رأس البر, دمياط",
+	"lat":"31.513673000000001",
+	"lng":"31.833945",
+	"enName":"1 El Souk St., Ras el bar, Damietta"
+},
+		{	"profileId":"316031",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-party/316031?b=2&k=19023&l=search",
+	"arName":"ش كورنيش النيل, دمياط, دمياط",
+	"lat":"31.414818",
+	"lng":"31.802467",
+	"enName":"Corniche El Nil St., Damietta, Damietta"
+},
+		{	"profileId":"57153",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-party/57153?b=4&k=19023&l=search",
+	"arName":"55 ش التحرير ميدان سرور, دمياط, دمياط",
+	"lat":"31.411892000000002",
+	"lng":"31.811945000000001",
+	"enName":"55 El Tahrir St. Sorour Sq., Damietta, Damietta"
+}
+	]
+}]}

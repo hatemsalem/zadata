@@ -1,0 +1,42 @@
+{"items":[{	"arName":"صيدليات القطان",
+	"enName":"El Kattan Pharmacies",
+	"hotline":"19291",
+	"facebook":"http://www.facebook.com/ElKattanPharmacies",
+	"web":"http://www.elkattanpharmacies.com/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"187021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kattan-pharmacies/187021?b=1&k=19291&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, بولكلى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Bolkeley, Alexandria"
+},
+		{	"profileId":"230917",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kattan-pharmacies/230917?b=3&k=19291&l=search",
+	"arName":"192 ش عبد السلام عارف, ثروت, الاسكندرية",
+	"lat":"31.247036000000001",
+	"lng":"29.968419999999998",
+	"enName":"192 Abdel Salam Aref St., Tharwat, Alexandria"
+},
+		{	"profileId":"511083",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kattan-pharmacies/511083?b=4&k=19291&l=search",
+	"arName":"طريق الحرية, سبورتنج, الاسكندرية",
+	"lat":"31.218214",
+	"lng":"29.933236999999998",
+	"enName":"El Horreya Rd., Sporting, Alexandria"
+},
+		{	"profileId":"65096",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kattan-pharmacies/65096?b=2&k=19291&l=search",
+	"arName":"496 طريق الحرية, بولكلى, الاسكندرية",
+	"lat":"31.232053000000001",
+	"lng":"29.956274000000001",
+	"enName":"496 El Horreya Rd., Bolkeley, Alexandria"
+}
+	]
+}]}

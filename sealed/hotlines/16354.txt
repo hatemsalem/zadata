@@ -1,0 +1,21 @@
+{"items":[{	"arName":"البارون مول",
+	"enName":"Baron Mall",
+	"hotline":"16354",
+	"facebook":"http://www.facebook.com/BaronMall",
+	"web":"http://www.baronmall.com/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"235963",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baron-mall/235963?b=1&k=16354&l=search",
+	"arName":"الطريق الدائرى - البارون سيتى, القطامية, القاهرة",
+	"lat":"29.982722299999999",
+	"lng":"31.339874300000002",
+	"enName":"Ring Rd., Baron City, El katameya, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"حلو الشام",
+	"enName":"Holw El Sham",
+	"hotline":"16036",
+	"facebook":"http://www.facebook.com/HolwElSham",
+	"web":"http://www.holwelsham.com/",
+	"arCategory":[
+		"حلوى وسكريات"
+	],
+	"enCategories":[
+		"Candy & Confectionery"
+	],
+	"contacts":[
+		{	"profileId":"131654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/holw-el-sham/131654?b=2&k=16036&l=search",
+	"arName":"القطعة 35 - ش 75 - المنطقة الصناعية الاولى, السادس من اكتوبر, الجيزة",
+	"lat":"29.932606",
+	"lng":"30.902180999999999",
+	"enName":"Plot 35, Rd. 75, 1st Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"408408",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/holw-el-sham/408408?b=1&k=16036&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}]}

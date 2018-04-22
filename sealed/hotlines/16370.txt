@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى دار الفؤاد",
+	"enName":"Dar Al Fouad Hospital",
+	"hotline":"16370",
+	"facebook":"http://www.facebook.com/Daralfouadhospitalegypt",
+	"web":"http://www.daralfouad.org/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-fouad-hospital/354?b=2&k=16370&l=search",
+	"arName":"امتداد محور 26 يوليو - المنطقة السياحية, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"29.997814999999999",
+	"lng":"30.967545000000001",
+	"enName":"Extension Of 26th Of July Spine, Touristic Zone, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"188327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-fouad-hospital/188327?b=1&k=16370&l=search",
+	"arName":"خدمة طوارئ, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, El Motamayez District, 6th of october, Giza"
+}
+	]
+}]}

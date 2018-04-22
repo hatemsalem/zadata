@@ -1,0 +1,95 @@
+{"items":[{	"arName":"اجورا ماستر سيدى عبد الرحمن",
+	"enName":"Agora Master Sidi Abdel Rahman",
+	"hotline":"19323",
+	"facebook":"http://www.facebook.com/AgoraSidiAbdElRahman",
+	"web":"http://www.master-sidiabdelrahman.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"370231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/agora-master-sidi-abdel-rahman/370231?b=2&k=19323&l=search",
+	"arName":"كم 128 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"lat":"30.959324500000001",
+	"lng":"28.757121399999999",
+	"enName":"Km 128, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"370312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/agora-master-sidi-abdel-rahman/370312?b=1&k=19323&l=search",
+	"arName":"خدمة العملاء, سيدى عبد الرحمن, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sidi abdel rahman, North coast"
+}
+	]
+}, {	"arName":"بوينت 90 مول",
+	"enName":"Point 90 Mall",
+	"hotline":"19323",
+	"facebook":"http://www.facebook.com/Point90Mall",
+	"web":"",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"470336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/point-90-mall/470336?b=6&k=19323&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.026197",
+	"lng":"31.489853",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بى تو بى",
+	"enName":"B2B",
+	"hotline":"19323",
+	"facebook":"http://www.facebook.com/b2bRE",
+	"web":"http://www.b2b-egy.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"372453",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b2b/372453?b=4&k=19323&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"372449",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/b2b/372449?b=3&k=19323&l=search",
+	"arName":"فيلا 167 - ش 52 متفرع من ش الشويفات - الحى الاول - المنطقة السابعة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.012263000000001",
+	"lng":"31.416177000000001",
+	"enName":"Villa 167, Rd. 52 Off Showaifat St., 1St District, 7th Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ميديكال بارك بريمير",
+	"enName":"Medical Park Premier",
+	"hotline":"19323",
+	"facebook":"",
+	"web":"http://www.b2b-egy.com/projects/medical-park-premier",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"447501",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/medical-park-premier/447501?b=5&k=19323&l=search",
+	"arName":"المنطقة السادسة - الحى الرابع, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.004598000000001",
+	"lng":"31.426386000000001",
+	"enName":"6th Zone, 4th District, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

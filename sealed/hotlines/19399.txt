@@ -1,0 +1,35 @@
+{"items":[{	"arName":"مجموعة عز العرب للسيارات",
+	"enName":"Ezz Elarab Automotive Group",
+	"hotline":"19399",
+	"facebook":"http://www.facebook.com/ezzelarabauto",
+	"web":"http://www.ezz-elarab.com/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"18640",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ezz-elarab-automotive-group/18640?b=1&k=19399&l=search",
+	"arName":"13 ش شاهين, العجوزة, الجيزة",
+	"lat":"30.047999999999998",
+	"lng":"31.214500000000001",
+	"enName":"13 Shahin St., Agouza, Giza"
+},
+		{	"profileId":"387036",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ezz-elarab-automotive-group/387036?b=2&k=19399&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"76402",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ezz-elarab-automotive-group/76402?b=3&k=19399&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.059446000000001",
+	"lng":"31.033566",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+}
+	]
+}]}

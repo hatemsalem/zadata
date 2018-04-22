@@ -1,0 +1,37 @@
+{"items":[{	"arName":"بورت غالب ريزورت",
+	"enName":"Port Ghalib Resort",
+	"hotline":"16099",
+	"facebook":"http://www.facebook.com/PortGhalibOfficial",
+	"web":"http://www.portghalib.com/",
+	"arCategory":[
+		"فنادق ومنتجعات",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotels & Resorts",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"164317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/port-ghalib-resort/164317?b=3&k=16099&l=search",
+	"arName":"طريق القصير مرسى علم, خليج كورايا, مرسى علم",
+	"lat":"25.536683",
+	"lng":"34.632089999999998",
+	"enName":"Quseir Marsa Alam Rd., Corraya bay, Marsa alam"
+},
+		{	"profileId":"166988",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/port-ghalib-resort/166988?b=1&k=16099&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"164314",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/port-ghalib-resort/164314?b=2&k=16099&l=search",
+	"arName":"3 ش عباس العقاد - الدور 4, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.067678000000001",
+	"lng":"31.336172999999999",
+	"enName":"3 Abbas El Akkad St., Floor 4, 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

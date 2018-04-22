@@ -1,0 +1,56 @@
+{"items":[{	"arName":"الكتروستار للصناعات الهندسية",
+	"enName":"Electrostar For Engineering Industries",
+	"hotline":"16505",
+	"facebook":"http://www.facebook.com/ElectrostarEgypt",
+	"web":"http://www.electrostar.com.eg/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"76692",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electrostar-for-engineering-industries/76692?b=6&k=16505&l=search",
+	"arName":"القطعة 266 - ش 34 - المنطقة الصناعية الاولى, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.917738",
+	"lng":"30.918676000000001",
+	"enName":"Plot 266, Rd. 34, 1st Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"122266",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electrostar-for-engineering-industries/122266?b=5&k=16505&l=search",
+	"arName":"ش ابن سينا متفرع من ش عبد السلام عارف, المنصورة, الدقهلية",
+	"lat":"31.0548",
+	"lng":"31.401156",
+	"enName":"Ibn Sina St. Off Abdel Salam Aref St., El mansoura, El dakahleya"
+},
+		{	"profileId":"132307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electrostar-for-engineering-industries/132307?b=4&k=16505&l=search",
+	"arName":"4 ش عبد اللطيف يوسف متفرع من ش الجلاء - الزهراء, حى شرق, اسيوط",
+	"lat":"27.189831000000002",
+	"lng":"31.181163000000002",
+	"enName":"4 Abdel Latif Youssef St. Off El Galaa St., El Zahraa, Shark district, Assyout"
+},
+		{	"profileId":"122077",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electrostar-for-engineering-industries/122077?b=3&k=16505&l=search",
+	"arName":"خدمة الصيانة, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Maintenance Service, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"131361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electrostar-for-engineering-industries/131361?b=1&k=16505&l=search",
+	"arName":"1 هـ ش جسر السويس, النزهة الجديدة, القاهرة",
+	"lat":"30.128499999999999",
+	"lng":"31.3614",
+	"enName":"1 H Gesr El Suez St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"19503",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electrostar-for-engineering-industries/19503?b=2&k=16505&l=search",
+	"arName":"3 ش عبد العليم الخولى متفرع من ش المطرية, المطرية, القاهرة",
+	"lat":"30.107271999999998",
+	"lng":"31.302500999999999",
+	"enName":"3 Abdel Alim El Khouly St. Off El Matareya St., El matareya, Cairo"
+}
+	]
+}]}

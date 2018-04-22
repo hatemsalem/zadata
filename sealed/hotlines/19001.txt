@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الاوائل للبرمجيات",
+	"enName":"El Awael It House",
+	"hotline":"19001",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"كمبيوتر برامج"
+	],
+	"enCategories":[
+		"Computer Software"
+	],
+	"contacts":[
+		{	"profileId":"123258",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-awael-it-house/123258?b=1&k=19001&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"123257",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-awael-it-house/123257?b=2&k=19001&l=search",
+	"arName":"6 ش الخليل, المهندسين, الجيزة",
+	"lat":"30.0609",
+	"lng":"31.1906",
+	"enName":"6 El Khalil St., Mohandeseen, Giza"
+}
+	]
+}]}

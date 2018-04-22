@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بناء للتنمية العقارية والاستثمار",
+	"enName":"Benaa For Real Estate Development & Investment",
+	"hotline":"19356",
+	"facebook":"http://www.facebook.com/BenaaForRealEstate",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"140311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/benaa-for-real-estate-development-&-investment/140311?b=1&k=19356&l=search",
+	"arName":"49 ب ش الثورة, مصر الجديدة, القاهرة",
+	"lat":"30.084786000000001",
+	"lng":"31.336865",
+	"enName":"49 B El Thawra St., Heliopolis, Cairo"
+},
+		{	"profileId":"455096",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/benaa-for-real-estate-development-&-investment/455096?b=2&k=19356&l=search",
+	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
+}
+	]
+}]}

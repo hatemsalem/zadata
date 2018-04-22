@@ -1,0 +1,48 @@
+{"items":[{	"arName":"فيرست سيرفيس",
+	"enName":"First Service",
+	"hotline":"16057",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تحصيل وكالات"
+	],
+	"enCategories":[
+		"Collection Agencies"
+	],
+	"contacts":[
+		{	"profileId":"322639",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/first-service/322639?b=3&k=16057&l=search",
+	"arName":"خدمة التحصيل الفورى, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Immediate Collection Service, Mohandeseen, Giza"
+},
+		{	"profileId":"322627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/first-service/322627?b=2&k=16057&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"عالمكو للتطوير العقارى",
+	"enName":"Allamco Real Estate",
+	"hotline":"16057",
+	"facebook":"http://www.facebook.com/AllamcoEG",
+	"web":"http://www.allamco.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"577692",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/allamco-real-estate/577692?b=1&k=16057&l=search",
+	"arName":"فيلا 109 - - المنطقة ز, جنوب الاكاديمية, القاهرة الجديدة, القاهرة",
+	"lat":"30.026921999999999",
+	"lng":"31.442018000000001",
+	"enName":"Villa 109, , Zone Z, South Academy, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,114 @@
+{"items":[{	"arName":"بنك مصر ايران للتنمية - ام اى دى بى",
+	"enName":"Misr Iran Development Bank - MIDB",
+	"hotline":"19189",
+	"facebook":"http://www.facebook.com/MISR-IRAN-Development-BANK-142458195822547",
+	"web":"http://www.midb.com.eg/",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"74738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/74738?b=10&k=19189&l=search",
+	"arName":"12 ش 23 يوليو تقاطع ش الجمهورية, حى الشرق, بور سعيد",
+	"lat":"31.266840999999999",
+	"lng":"32.313397999999999",
+	"enName":"12 23Rd Of July St. Intersection Of El Gomhoureya St., El shark district, Port said"
+},
+		{	"profileId":"74737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/74737?b=7&k=19189&l=search",
+	"arName":"القطعة 4هـ - ميدان امين هلال - مركز المدينة - منطقة البنوك, العاشر من رمضان, الشرقية",
+	"lat":"30.304808999999999",
+	"lng":"31.743071",
+	"enName":"Plot 4H, Amin Helal Sq., City Center, Banks Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"134019",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/134019?b=3&k=19189&l=search",
+	"arName":"355 ش 151 تقاطع ش 152 - ميدان الحرية, المعادى, القاهرة",
+	"lat":"29.959098000000001",
+	"lng":"31.255868",
+	"enName":"355 Rd. 151 Intersection Of Rd. 152, El Horreya Sq., Maadi, Cairo"
+},
+		{	"profileId":"269325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/269325?b=5&k=19189&l=search",
+	"arName":"32 أ طريق رأس البر الجديد, دمياط, دمياط",
+	"lat":"31.415376299999998",
+	"lng":"31.8104893",
+	"enName":"32 A Ras El Bar New Rd., Damietta, Damietta"
+},
+		{	"profileId":"74734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/74734?b=12&k=19189&l=search",
+	"arName":"12 ش نوح افندى متفرع من ش السلطان حسين - بنى العباس, الشلالات, الاسكندرية",
+	"lat":"31.201256000000001",
+	"lng":"29.910727999999999",
+	"enName":"12 Nouh Effendi St. Off El Sultan Hussein St., Bani El Abbas, El shalalat, Alexandria"
+},
+		{	"profileId":"74733",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/74733?b=9&k=19189&l=search",
+	"arName":"16 ش ابو بكر الصديق متفرع من ش نادى الصيد, المهندسين, الجيزة",
+	"lat":"30.042131000000001",
+	"lng":"31.197914999999998",
+	"enName":"16 Abou Bakr El Seddik St. Off Nady El Seid St., Mohandeseen, Giza"
+},
+		{	"profileId":"74731",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/74731?b=1&k=19189&l=search",
+	"arName":"24 ش كليوباترا, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.091546999999998",
+	"lng":"31.328620000000001",
+	"enName":"24 Cleopatra St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"74730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/74730?b=4&k=19189&l=search",
+	"arName":"26 ش احمد قاسم جودة متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.057803",
+	"lng":"31.336867000000002",
+	"enName":"26 Ahmed Qassem Gouda St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"74740",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/74740?b=11&k=19189&l=search",
+	"arName":"القطعة 2/1 - - مجمع البنوك - المنطقة الصناعية الرابعة, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.945322999999998",
+	"lng":"30.897210999999999",
+	"enName":"Plot 2/1, , Banks Complex, 4th Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"334488",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/334488?b=6&k=19189&l=search",
+	"arName":"32 أ ش الجمهورية - برج ضيف الله, سوهاج, سوهاج",
+	"lat":"26.558889000000001",
+	"lng":"31.698922",
+	"enName":"32 A El Gomhoureya St., Deif Allah Tower, Sohag, Sohag"
+},
+		{	"profileId":"441660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/441660?b=14&k=19189&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"145900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/145900?b=2&k=19189&l=search",
+	"arName":"8 ش عدلى, وسط البلد, القاهرة",
+	"lat":"30.051034999999999",
+	"lng":"31.245576",
+	"enName":"8 Adly St., Downtown, Cairo"
+},
+		{	"profileId":"12650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/12650?b=8&k=19189&l=search",
+	"arName":"21, 23 ش شارل ديجول - برج النيل الادارى, الجيزة, الجيزة",
+	"lat":"30.021574000000001",
+	"lng":"31.216623999999999",
+	"enName":"21, 23 Charles De Gaulle St., Nile Administrative Tower, Giza, Giza"
+},
+		{	"profileId":"141239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-iran-development-bank-_-midb/141239?b=13&k=19189&l=search",
+	"arName":"القطعة 1/1 - المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.975161",
+	"lng":"30.948136000000002",
+	"enName":"Plot 1/1, Central Spine, 1st District, 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,62 @@
+{"items":[{	"arName":"باز",
+	"enName":"Baz",
+	"hotline":"19516",
+	"facebook":"",
+	"web":"http://www.bazeg.net/",
+	"arCategory":[
+		"تسويق استشاريون"
+	],
+	"enCategories":[
+		"Marketing Consultants"
+	],
+	"contacts":[
+		{	"profileId":"175975",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baz/175975?b=1&k=19516&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"175974",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baz/175974?b=3&k=19516&l=search",
+	"arName":"76 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.049413000000001",
+	"lng":"31.198533000000001",
+	"enName":"76 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"175973",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baz/175973?b=2&k=19516&l=search",
+	"arName":"54 ش دمشق, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.095642000000002",
+	"lng":"31.325247999999998",
+	"enName":"54 Demascus St., El Gamea Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"فيوتشر هومز للاستثمار العقارى",
+	"enName":"Future Homes Real Estate Investment",
+	"hotline":"19516",
+	"facebook":"http://www.facebook.com/FutureHomes.com.eg",
+	"web":"http://www.futurehomes.com.eg/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"520079",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/future-homes-real-estate-investment/520079?b=4&k=19516&l=search",
+	"arName":"خدمة العملاء, القطامية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El katameya, Cairo"
+},
+		{	"profileId":"520073",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/future-homes-real-estate-investment/520073?b=5&k=19516&l=search",
+	"arName":"القطعة 6275 - ش كلية الصيدلة - الهضبة الوسطى - الحى الخامس, القطامية, القاهرة",
+	"lat":"29.994419000000001",
+	"lng":"31.318218000000002",
+	"enName":"Plot 6275, Koleyet El Sayadla St., Middle Hill, 5th District, El katameya, Cairo"
+}
+	]
+}]}

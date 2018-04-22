@@ -1,0 +1,49 @@
+{"items":[{	"arName":"الشركة العربية العالمية للتنمية الصناعية",
+	"enName":"Arab International Industrial Development Co.",
+	"hotline":"19518",
+	"facebook":"",
+	"web":"http://www.zeinagroup.com/",
+	"arCategory":[
+		"مناديل ورقية"
+	],
+	"enCategories":[
+		"Tissues"
+	],
+	"contacts":[
+		{	"profileId":"287860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./287860?b=3&k=19518&l=search",
+	"arName":"القطعة 124، 125 - - المنطقة الصناعية الثالثة A6, العاشر من رمضان, الشرقية",
+	"lat":"30.232299999999999",
+	"lng":"31.755295",
+	"enName":"Plot 124, 125, , 3rd Industrial Zone A6, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"96614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./96614?b=5&k=19518&l=search",
+	"arName":"36 ش مصطفى كامل, سموحة, الاسكندرية",
+	"lat":"31.216896999999999",
+	"lng":"29.945530000000002",
+	"enName":"36 Mostafa Kamel St., Semouha, Alexandria"
+},
+		{	"profileId":"123532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./123532?b=2&k=19518&l=search",
+	"arName":"ش اسوان - المنطقة الصناعية الثانية B2, العاشر من رمضان, الشرقية",
+	"lat":"30.297156999999999",
+	"lng":"31.779005999999999",
+	"enName":"Aswan St., 2nd Industrial Zone B2, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"6565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./6565?b=1&k=19518&l=search",
+	"arName":"83 ش شهاب, المهندسين, الجيزة",
+	"lat":"30.058299999999999",
+	"lng":"31.1998",
+	"enName":"83 Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"502647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-international-industrial-development-co./502647?b=4&k=19518&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

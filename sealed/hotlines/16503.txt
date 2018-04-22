@@ -1,0 +1,21 @@
+{"items":[{	"arName":"المركز العالمى للتجارة",
+	"enName":"ITC - International Trading Center",
+	"hotline":"16503",
+	"facebook":"",
+	"web":"http://www.yakoya-group.com/",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"233299",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/233299?b=1&k=16503&l=search",
+	"arName":"27 ش وادى النيل - الدور 1, المهندسين, الجيزة",
+	"lat":"30.058223999999999",
+	"lng":"31.201287000000001",
+	"enName":"27 Wadi El Nil St., Floor 1, Mohandeseen, Giza"
+}
+	]
+}]}

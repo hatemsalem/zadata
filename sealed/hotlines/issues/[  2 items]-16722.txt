@@ -1,0 +1,55 @@
+{"items":[{	"arName":"جلالة للاستثمارات السياحية",
+	"enName":"Galalah For Touristic Investment",
+	"hotline":"16722",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"255900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/galalah-for-touristic-investment/255900?b=4&k=16722&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Zamalek, Cairo"
+},
+		{	"profileId":"17907",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/galalah-for-touristic-investment/17907?b=3&k=16722&l=search",
+	"arName":"6 ش شجرة الدر - الدور 1, الزمالك, القاهرة",
+	"lat":"30.059699999999999",
+	"lng":"31.217700000000001",
+	"enName":"6 Shagaret El Dor St., Floor 1, Zamalek, Cairo"
+}
+	]
+}, {	"arName":"دجلة للهندسة والمقاولات",
+	"enName":"Degla For Engineering & Contracting",
+	"hotline":"16722",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"17908",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/degla-for-engineering-&-contracting/17908?b=1&k=16722&l=search",
+	"arName":"6 ش شجرة الدر, الزمالك, القاهرة",
+	"lat":"30.059699999999999",
+	"lng":"31.217700000000001",
+	"enName":"6 Shagaret El Dor St., Zamalek, Cairo"
+},
+		{	"profileId":"255902",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/degla-for-engineering-&-contracting/255902?b=2&k=16722&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zamalek, Cairo"
+}
+	]
+}]}

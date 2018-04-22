@@ -1,0 +1,28 @@
+{"items":[{	"arName":"زكى اوتوموتيف جروب",
+	"enName":"Zaki Automotive Group",
+	"hotline":"19325",
+	"facebook":"",
+	"web":"http://www.zaki-co.com/",
+	"arCategory":[
+		"شاحنات واتوبيسات"
+	],
+	"enCategories":[
+		"Trucks & Buses"
+	],
+	"contacts":[
+		{	"profileId":"187318",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zaki-automotive-group/187318?b=1&k=19325&l=search",
+	"arName":"خدمة العملاء, شبرا, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Shoubra, Cairo"
+},
+		{	"profileId":"46465",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zaki-automotive-group/46465?b=2&k=19325&l=search",
+	"arName":"13 ش دولتيان ميدان الخلفاوى, شبرا, القاهرة",
+	"lat":"30.099499999999999",
+	"lng":"31.243200000000002",
+	"enName":"13 Dawletian St. El Khalafawy Sq., Shoubra, Cairo"
+}
+	]
+}]}

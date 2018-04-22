@@ -1,0 +1,49 @@
+{"items":[{	"arName":"اصول اى اس بى",
+	"enName":"Osool ESB",
+	"hotline":"16090",
+	"facebook":"",
+	"web":"http://www.osoolesb.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"133300",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-esb/133300?b=3&k=16090&l=search",
+	"arName":"53 ش شبرا - الدور 3, شبرا, القاهرة",
+	"lat":"30.067637999999999",
+	"lng":"31.24531",
+	"enName":"53 shoubra st., Floor 3, Shoubra, Cairo"
+},
+		{	"profileId":"133301",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-esb/133301?b=5&k=16090&l=search",
+	"arName":"167 ش الشيراتون, الهضبة, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"167 Sheraton Rd., El hadaba, Hurghada"
+},
+		{	"profileId":"145063",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-esb/145063?b=2&k=16090&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"121175",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-esb/121175?b=1&k=16090&l=search",
+	"arName":"51 ش بيروت متفرع من طريق صلاح سالم - الدور 7, مصر الجديدة, القاهرة",
+	"lat":"30.090900000000001",
+	"lng":"31.331600000000002",
+	"enName":"51 beirut st. off salah salem rd., Floor 7, Heliopolis, Cairo"
+},
+		{	"profileId":"145065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-esb/145065?b=4&k=16090&l=search",
+	"arName":"15 ش عبد الحميد بدوى - الدور 1, جسر السويس, القاهرة",
+	"lat":"30.115766000000001",
+	"lng":"31.345521000000002",
+	"enName":"15 Abdel Hamid Badawy St., Floor 1, Gesr el suez, Cairo"
+}
+	]
+}]}

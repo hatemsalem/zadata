@@ -1,0 +1,63 @@
+{"items":[{	"arName":"صيدليات سالى",
+	"enName":"Sally Pharmacies",
+	"hotline":"16409",
+	"facebook":"http://www.facebook.com/Sally-Pharmacies-994594707279368/?fref=ts",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"487728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sally-pharmacies/487728?b=4&k=16409&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنصورة, الدقهلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El mansoura, El dakahleya"
+},
+		{	"profileId":"392903",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sally-pharmacies/392903?b=3&k=16409&l=search",
+	"arName":"18 ش صلاح سالم, طلخا, الدقهلية",
+	"lat":"31.052841699999998",
+	"lng":"31.380609700000001",
+	"enName":"18 Salah Salem St., Talkha, El dakahleya"
+},
+		{	"profileId":"263757",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sally-pharmacies/263757?b=2&k=16409&l=search",
+	"arName":"ش بورسعيد, المنصورة, الدقهلية",
+	"lat":"31.046486000000002",
+	"lng":"31.380220000000001",
+	"enName":"Port Said St., El mansoura, El dakahleya"
+},
+		{	"profileId":"519056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sally-pharmacies/519056?b=5&k=16409&l=search",
+	"arName":"مدينة السماد, طلخا, الدقهلية",
+	"lat":"",
+	"lng":"",
+	"enName":"El Simad City, Talkha, El dakahleya"
+},
+		{	"profileId":"263734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sally-pharmacies/263734?b=7&k=16409&l=search",
+	"arName":"ميدان المحطة - برج الاطباء, المنصورة, الدقهلية",
+	"lat":"31.045919000000001",
+	"lng":"31.387953",
+	"enName":"El Mahatta Sq., El Atebaa Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"519252",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sally-pharmacies/519252?b=1&k=16409&l=search",
+	"arName":"4 أ ش سراى القبة, سراى القبة, القاهرة",
+	"lat":"30.096489999999999",
+	"lng":"31.306018999999999",
+	"enName":"4 A Saray El Qobba St., Saray el koba, Cairo"
+},
+		{	"profileId":"519063",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sally-pharmacies/519063?b=6&k=16409&l=search",
+	"arName":"امتداد ش جيهان, المنصورة, الدقهلية",
+	"lat":"31.037188",
+	"lng":"31.360666999999999",
+	"enName":"Extension Of Gihan St., El mansoura, El dakahleya"
+}
+	]
+}]}

@@ -1,0 +1,42 @@
+{"items":[{	"arName":"سيكو تكنولوجى",
+	"enName":"Sico Technology",
+	"hotline":"19242",
+	"facebook":"",
+	"web":"http://www.sico.com.eg/",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"415008",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sico-technology/415008?b=4&k=19242&l=search",
+	"arName":"32 ش نادى الصيد, الدقى, الجيزة",
+	"lat":"30.042732000000001",
+	"lng":"31.201198999999999",
+	"enName":"32 Nady El Seid St., Dokki, Giza"
+},
+		{	"profileId":"149684",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sico-technology/149684?b=1&k=19242&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"132829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sico-technology/132829?b=2&k=19242&l=search",
+	"arName":"6 ش البورصة الجديدة متفرع من ش قصر النيل, وسط البلد, القاهرة",
+	"lat":"30.0489",
+	"lng":"31.240100000000002",
+	"enName":"6 El Borsa El Gadida St. Off Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"59284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sico-technology/59284?b=3&k=19242&l=search",
+	"arName":"2 ممر بهلر - تقاطع ش طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.048392",
+	"lng":"31.239528",
+	"enName":"2 Behlar Passage, Intersection Of Talaat Harb St., Downtown, Cairo"
+}
+	]
+}]}

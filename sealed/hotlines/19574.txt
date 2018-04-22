@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اسواق بلدنا",
+	"enName":"Aswaq Baladna",
+	"hotline":"19574",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اعلان - وكالات"
+	],
+	"enCategories":[
+		"Advertising Agencies"
+	],
+	"contacts":[
+		{	"profileId":"431279",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-baladna/431279?b=2&k=19574&l=search",
+	"arName":"661 طريق الحرية, جناكليس, الاسكندرية",
+	"lat":"31.243846999999999",
+	"lng":"29.971124",
+	"enName":"661 El Horreya Rd., Ganaklis, Alexandria"
+},
+		{	"profileId":"431282",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aswaq-baladna/431282?b=1&k=19574&l=search",
+	"arName":"خدمة العملاء, جناكليس, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ganaklis, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,42 @@
+{"items":[{	"arName":"نيل مصر للسياحة",
+	"enName":"Egyptian Nile Tours",
+	"hotline":"19740",
+	"facebook":"http://www.facebook.com/pg/ENT.NileMisr/about",
+	"web":"http://www.toumra.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"268193",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-nile-tours/268193?b=2&k=19740&l=search",
+	"arName":"5 أ طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.06889",
+	"lng":"31.336817",
+	"enName":"5 A El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"531016",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-nile-tours/531016?b=4&k=19740&l=search",
+	"arName":"95 ب ش احمد عرابى, المهندسين, الجيزة",
+	"lat":"30.069516",
+	"lng":"31.196961000000002",
+	"enName":"95 B Ahmed Orabi St., Mohandeseen, Giza"
+},
+		{	"profileId":"174799",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-nile-tours/174799?b=1&k=19740&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"93359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-nile-tours/93359?b=3&k=19740&l=search",
+	"arName":"10 برج ايفر جرين - ش طلعت حرب - الدور 1, وسط البلد, القاهرة",
+	"lat":"30.046711999999999",
+	"lng":"31.237825000000001",
+	"enName":"10 Ever Green Tower, Talaat Harb St., Floor 1, Downtown, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"بوابة الشكاوى الحكومية",
+	"enName":"Government Complains Portal",
+	"hotline":"16528",
+	"facebook":"",
+	"web":"http://www.complain.idsc.gov.eg/GCP/Default.aspx",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"528761",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/government-complains-portal/528761?b=1&k=16528&l=search",
+	"arName":"الخط الساخن, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hotline, Downtown, Cairo"
+}
+	]
+}]}

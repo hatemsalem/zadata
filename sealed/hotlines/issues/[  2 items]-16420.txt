@@ -1,0 +1,167 @@
+{"items":[{	"arName":"توبى كمبيوتر",
+	"enName":"2B Computer Egypt",
+	"hotline":"16420",
+	"facebook":"http://www.facebook.com/2BOfficialPage",
+	"web":"http://www.2bcomputer.com/",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"569008",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/569008?b=15&k=16420&l=search",
+	"arName":"7 ش احمد شوقى, منشأة لطف الله, الفيوم",
+	"lat":"29.313186000000002",
+	"lng":"30.840817000000001",
+	"enName":"7 Ahmed Shawky St., Manshaat lotfallah, El fayoum"
+},
+		{	"profileId":"553172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/553172?b=4&k=16420&l=search",
+	"arName":"السوق التجارى - محل 184, مدينة الرحاب, القاهرة",
+	"lat":"30.056585999999999",
+	"lng":"31.491816",
+	"enName":"Commercial Market, Shop 184, Al rehab city, Cairo"
+},
+		{	"profileId":"331276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/331276?b=12&k=16420&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"444220",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/444220?b=2&k=16420&l=search",
+	"arName":"142 ش اللاسلكى تقاطع ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975722000000001",
+	"lng":"31.281578",
+	"enName":"142 El Laselky St. Intersection Of El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"315677",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/315677?b=14&k=16420&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"386336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/386336?b=7&k=16420&l=search",
+	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.102922",
+	"lng":"31.386609",
+	"enName":"Square 1258f, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"577303",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/577303?b=16&k=16420&l=search",
+	"arName":"4 ابراج الشركة السعودية - ش النيل, حى شرق, اسيوط",
+	"lat":"27.185746000000002",
+	"lng":"31.192803000000001",
+	"enName":"4 Secon Towers, El Nil St., Shark district, Assyout"
+},
+		{	"profileId":"527014",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/527014?b=3&k=16420&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.024961999999999",
+	"lng":"31.489155",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"472937",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/472937?b=9&k=16420&l=search",
+	"arName":"ش عطية الصوالحى امتداد ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.050792000000001",
+	"lng":"31.349433999999999",
+	"enName":"Atteya El Sawalhy St. Extension Of Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"140764",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/140764?b=1&k=16420&l=search",
+	"arName":"3 ش عطية الصوالحى متفرع من ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.051154",
+	"lng":"31.348181",
+	"enName":"3 Atteya El Sawalhy St. Off Makram Ebaid St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"140754",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/140754?b=6&k=16420&l=search",
+	"arName":"18 ش البستان, باب اللوق, القاهرة",
+	"lat":"30.045456000000001",
+	"lng":"31.238493999999999",
+	"enName":"18 El Bostan St., Bab el louk, Cairo"
+},
+		{	"profileId":"242483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/242483?b=13&k=16420&l=search",
+	"arName":"7 ميدان سفنكس, المهندسين, الجيزة",
+	"lat":"30.060195",
+	"lng":"31.208638000000001",
+	"enName":"7 Sphinx Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"140756",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/140756?b=10&k=16420&l=search",
+	"arName":"3 ش ابو داوود الظاهرى - الدور 5, مدينة نصر, القاهرة",
+	"lat":"30.060195",
+	"lng":"31.346095999999999",
+	"enName":"3 Abou Dawoud El Zahery St., Floor 5, Nasr city, Cairo"
+},
+		{	"profileId":"527012",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/527012?b=8&k=16420&l=search",
+	"arName":"1 ش جمال عبد الناصر متفرع من ش جسر السويس, الحرفيين, القاهرة",
+	"lat":"30.142557",
+	"lng":"31.399414",
+	"enName":"1 Gamal Abd El Nasser St. Off Gesr El Suez St., El herafeyeen, Cairo"
+},
+		{	"profileId":"527023",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/527023?b=17&k=16420&l=search",
+	"arName":"72 ش 18 - عمارات الظباط, مصطفى كامل, الاسكندرية",
+	"lat":"31.228275",
+	"lng":"29.945903000000001",
+	"enName":"72 Rd. 18, Dobat Bldgs., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"133082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/133082?b=5&k=16420&l=search",
+	"arName":"50 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.087357999999998",
+	"lng":"31.308844000000001",
+	"enName":"50 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"386339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/386339?b=11&k=16420&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"تو بى موبايل",
+	"enName":"2B Mobile",
+	"hotline":"16420",
+	"facebook":"http://www.facebook.com/2bmobiles",
+	"web":"http://www.2bcomputer.com/",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"472934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-mobile/472934?b=18&k=16420&l=search",
+	"arName":"200 ش النزهة, مصر الجديدة, القاهرة",
+	"lat":"30.108699999999999",
+	"lng":"31.3447",
+	"enName":"200 El Nozha St., Heliopolis, Cairo"
+},
+		{	"profileId":"472550",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-mobile/472550?b=19&k=16420&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"472555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-mobile/472555?b=20&k=16420&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,69 @@
+{"items":[{	"arName":"سيزر ايلاند",
+	"enName":"Caesar Island",
+	"hotline":"16219",
+	"facebook":"http://www.facebook.com/Caesarisland.Raselhekma",
+	"web":"http://www.caesarisland.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"577172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/caesar-island/577172?b=1&k=16219&l=search",
+	"arName":"كم 200 - طريق اسكندرية مطروح الصحراوى, رأس الحكمة, الساحل الشمالى",
+	"lat":"31.082830000000001",
+	"lng":"28.015937000000001",
+	"enName":"Km 200, Alex Matrouh Desert Rd., Ras el hekma, North coast"
+},
+		{	"profileId":"577173",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/caesar-island/577173?b=2&k=16219&l=search",
+	"arName":"خدمة العملاء, رأس الحكمة, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ras el hekma, North coast"
+}
+	]
+}, {	"arName":"بايبك للاستثمارات والتطوير",
+	"enName":"Pibic For Investments & Development",
+	"hotline":"16219",
+	"facebook":"http://www.facebook.com/Caesarisland.Raselhekma",
+	"web":"http://www.caesarisland.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"577162",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pibic-for-investments-&-development/577162?b=4&k=16219&l=search",
+	"arName":"16 ش لبنان - برج المنى, المهندسين, الجيزة",
+	"lat":"30.055838999999999",
+	"lng":"31.197783000000001",
+	"enName":"16 Lebanon St., El Mona Tower, Mohandeseen, Giza"
+},
+		{	"profileId":"577165",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pibic-for-investments-&-development/577165?b=3&k=16219&l=search",
+	"arName":"15 ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.089138999999999",
+	"lng":"31.316897000000001",
+	"enName":"15 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"577167",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pibic-for-investments-&-development/577167?b=5&k=16219&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"577166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pibic-for-investments-&-development/577166?b=6&k=16219&l=search",
+	"arName":"514 طريق الحرية, الوزارة, الاسكندرية",
+	"lat":"31.233740999999998",
+	"lng":"29.958158000000001",
+	"enName":"514 El Horreya Rd., El wezara, Alexandria"
+}
+	]
+}]}

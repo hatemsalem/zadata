@@ -1,0 +1,39 @@
+{"items":[{	"arName":"الملك",
+	"enName":"El Malek",
+	"hotline":"16702",
+	"facebook":"http://www.facebook.com/%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7-%D8%A7%D9%84%D9%85%D9%84%D9%83-750117588442295",
+	"web":"",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"384627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-malek/384627?b=1&k=16702&l=search",
+	"arName":"272 ش ترعة الجبل متفرع من ش نصوح, الزيتون, القاهرة",
+	"lat":"30.106849",
+	"lng":"31.307748",
+	"enName":"272 Teraet El Gabal St. Off Nasouh St., El zaytoun, Cairo"
+},
+		{	"profileId":"577284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-malek/577284?b=2&k=16702&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق القبة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Hadayek el kobba, Cairo"
+},
+		{	"profileId":"175213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-malek/175213?b=3&k=16702&l=search",
+	"arName":"122 ش مصر والسودان, حدائق القبة, القاهرة",
+	"lat":"30.084741000000001",
+	"lng":"31.282167999999999",
+	"enName":"122 Misr & Sudan St., Hadayek el kobba, Cairo"
+}
+	]
+}]}

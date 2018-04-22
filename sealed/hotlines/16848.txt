@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سانى سوبر ماركت",
+	"enName":"Sunny Supermarket",
+	"hotline":"16848",
+	"facebook":"http://www.facebook.com/SunnyMarketEgypt",
+	"web":"",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"445582",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunny-supermarket/445582?b=1&k=16848&l=search",
+	"arName":"11 ش العزيز عثمان متفرع من ش 26 يوليو, الزمالك, القاهرة",
+	"lat":"30.059829000000001",
+	"lng":"31.221077000000001",
+	"enName":"11 El Aziz Othman St. Off 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"445584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sunny-supermarket/445584?b=2&k=16848&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Zamalek, Cairo"
+}
+	]
+}]}

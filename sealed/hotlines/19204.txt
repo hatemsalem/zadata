@@ -1,0 +1,21 @@
+{"items":[{	"arName":"المركز العالمى الجديد للتجارة",
+	"enName":"New World Trade Center",
+	"hotline":"19204",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"207432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-world-trade-center/207432?b=1&k=19204&l=search",
+	"arName":"1 ش ارض شريف متفرع من ش عبد العزيز, عابدين, القاهرة",
+	"lat":"30.047201000000001",
+	"lng":"31.248453000000001",
+	"enName":"1 Ard Sherif St. Off Abdel Aziz St., Abdin, Cairo"
+}
+	]
+}]}

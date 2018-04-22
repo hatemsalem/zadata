@@ -1,0 +1,21 @@
+{"items":[{	"arName":"كبابجى المظ",
+	"enName":"Kababgy Almz",
+	"hotline":"19466",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مطاعم"
+	],
+	"enCategories":[
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"557878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kababgy-almz/557878?b=1&k=19466&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

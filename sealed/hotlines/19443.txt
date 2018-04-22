@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ايليجانس كير",
+	"enName":"Elegance Care",
+	"hotline":"19443",
+	"facebook":"http://www.facebook.com/EleganceCare83",
+	"web":"http://www.elegancecare.com/",
+	"arCategory":[
+		"نظافة خدمات ومنتجات ومعدات"
+	],
+	"enCategories":[
+		"Cleaning Services, Products & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"489736",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/elegance-care/489736?b=1&k=19443&l=search",
+	"arName":"المركز التجارى - تجمع ماى فير, مدينة الشروق, القاهرة",
+	"lat":"30.131021",
+	"lng":"31.606603",
+	"enName":"Commercial Center, Mayfair Compound, El sherouk city, Cairo"
+}
+	]
+}]}

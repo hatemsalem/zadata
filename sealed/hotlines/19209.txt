@@ -1,0 +1,42 @@
+{"items":[{	"arName":"دريمرز للسياحة",
+	"enName":"Dreamers Tours",
+	"hotline":"19209",
+	"facebook":"http://www.facebook.com/Dreamers.Tours/",
+	"web":"http://www.dreamerstravel.net/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"223529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dreamers-tours/223529?b=4&k=19209&l=search",
+	"arName":"153 ش القاهرة, سيدى بشر, الاسكندرية",
+	"lat":"31.256717999999999",
+	"lng":"29.996839000000001",
+	"enName":"153 El Qahera St., Sidi beshr, Alexandria"
+},
+		{	"profileId":"186976",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dreamers-tours/186976?b=2&k=19209&l=search",
+	"arName":"خدمة العملاء, مدينة 15 مايو, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 15th of may city, Cairo"
+},
+		{	"profileId":"455370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dreamers-tours/455370?b=1&k=19209&l=search",
+	"arName":"56 ش قصر النيل, وسط البلد, القاهرة",
+	"lat":"30.049568000000001",
+	"lng":"31.246174",
+	"enName":"56 Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"142948",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dreamers-tours/142948?b=3&k=19209&l=search",
+	"arName":"343 ش جمال عبد الناصر, ميامى, الاسكندرية",
+	"lat":"31.269876",
+	"lng":"30.001852",
+	"enName":"343 Gamal Abdel Nasser St., Miami, Alexandria"
+}
+	]
+}]}

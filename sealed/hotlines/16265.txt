@@ -1,0 +1,41 @@
+{"items":[{	"arName":"كابيتال جريل",
+	"enName":"Capital Grill",
+	"hotline":"16265",
+	"facebook":"http://www.facebook.com/CapitalGrillCairo",
+	"web":"http://www.capitalgrilleg.com/",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"502025",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/capital-grill/502025?b=2&k=16265&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"502005",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/capital-grill/502005?b=3&k=16265&l=search",
+	"arName":"القطعة 18 - محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.024204999999998",
+	"lng":"31.012499999999999",
+	"enName":"Plot 18, 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"396083",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/capital-grill/396083?b=1&k=16265&l=search",
+	"arName":"ش 36 متفرع من ش التسعين - الحى الثانى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.008389000000001",
+	"lng":"31.440080999999999",
+	"enName":"Rd. 36 Off El Tesaeen St., 2nd District, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

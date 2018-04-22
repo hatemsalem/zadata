@@ -1,0 +1,21 @@
+{"items":[{	"arName":"اوفر ماركت",
+	"enName":"Awfar Market",
+	"hotline":"16607",
+	"facebook":"http://www.facebook.com/AwfarMarket",
+	"web":"http://www.awfarmarket.com/",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"460791",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/awfar-market/460791?b=1&k=16607&l=search",
+	"arName":"اون لاين سوبر ماركت, دجلة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Online Supermarket, Degla, Maadi, Cairo"
+}
+	]
+}]}

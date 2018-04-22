@@ -1,0 +1,44 @@
+{"items":[{	"arName":"مستشفى دار الام التخصصى",
+	"enName":"Dar Al Om Specialized Hospital",
+	"hotline":"19024",
+	"facebook":"http://www.facebook.com/HatkonyOm",
+	"web":"http://www.daralom.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية",
+		"اطباء"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers",
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"368140",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-om-specialized-hospital/368140?b=1&k=19024&l=search",
+	"arName":"31 ش 9 ميدان النافورة, المقطم, القاهرة",
+	"lat":"30.013835",
+	"lng":"31.285551000000002",
+	"enName":"31 Rd. 9 El Nafoura Sq., Mokattam, Cairo"
+},
+		{	"profileId":"448780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-om-specialized-hospital/448780?b=4&k=19024&l=search",
+	"arName":"المدخل الجديد, كفر الدوار, البحيرة",
+	"lat":"31.129728",
+	"lng":"30.124109000000001",
+	"enName":"El Madkhal El Gadid, Kafr el dawar, El beheira"
+},
+		{	"profileId":"448781",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-om-specialized-hospital/448781?b=3&k=19024&l=search",
+	"arName":"برج المدينة - ش الحرية, دير مواس, المنيا",
+	"lat":"27.639645000000002",
+	"lng":"30.854309000000001",
+	"enName":"El Madina Bldg., El Horreya St., Dayr mawas, El menia"
+},
+		{	"profileId":"488129",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-om-specialized-hospital/488129?b=2&k=19024&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mokattam, Cairo"
+}
+	]
+}]}

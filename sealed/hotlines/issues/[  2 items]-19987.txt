@@ -1,0 +1,153 @@
+{"items":[{	"arName":"رزق الله",
+	"enName":"Rizkalla",
+	"hotline":"19987",
+	"facebook":"http://www.facebook.com/rizkallaco",
+	"web":"http://www.rizkallaco.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"472071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/472071?b=16&k=19987&l=search",
+	"arName":"103 ش الهرم - برج الرياض, المريوطية, الهرم, الجيزة",
+	"lat":"29.990591999999999",
+	"lng":"31.152093000000001",
+	"enName":"103 Haram St., El Riad Tower, El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"544545",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/544545?b=18&k=19987&l=search",
+	"arName":"127 ش السودان, المهندسين, الجيزة",
+	"lat":"30.048511000000001",
+	"lng":"31.192667",
+	"enName":"127 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"315221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/315221?b=11&k=19987&l=search",
+	"arName":"7 عمارات الميريلاند - ش جسر السويس, جسر السويس, القاهرة",
+	"lat":"30.100949",
+	"lng":"31.318315999999999",
+	"enName":"7 El Merryland Bldgs., Gesr El Suez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"44518",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/44518?b=5&k=19987&l=search",
+	"arName":"102 ب ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.085235000000001",
+	"lng":"31.331409000000001",
+	"enName":"102 B El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"125146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/125146?b=6&k=19987&l=search",
+	"arName":"53 ش روض الفرج, روض الفرج, القاهرة",
+	"lat":"30.080500000000001",
+	"lng":"31.241599999999998",
+	"enName":"53 Road El Farag St., Road el farag, Cairo"
+},
+		{	"profileId":"520328",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/520328?b=14&k=19987&l=search",
+	"arName":"9 ش الجزائر متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.056799999999999",
+	"lng":"31.207000000000001",
+	"enName":"9 El Gazaer St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"255679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/255679?b=10&k=19987&l=search",
+	"arName":"70 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.055185999999999",
+	"lng":"31.349008999999999",
+	"enName":"70 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"315218",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/315218?b=17&k=19987&l=search",
+	"arName":"146 أ ش فيصل, الكوم الاخضر, فيصل, الجيزة",
+	"lat":"29.996072000000002",
+	"lng":"31.152719000000001",
+	"enName":"146 A Faisal St., El Koum El Akhdar, Faisal, Giza"
+},
+		{	"profileId":"315217",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/315217?b=13&k=19987&l=search",
+	"arName":"72 ش مصدق, الدقى, الجيزة",
+	"lat":"30.038557999999998",
+	"lng":"31.201812",
+	"enName":"72 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"422589",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/422589?b=8&k=19987&l=search",
+	"arName":"71 ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.081627999999998",
+	"lng":"31.338455",
+	"enName":"71 Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"407805",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/407805?b=12&k=19987&l=search",
+	"arName":"برج ابو عائشة - ش سعد زغلول, الزقازيق, الشرقية",
+	"lat":"30.584446",
+	"lng":"31.494862000000001",
+	"enName":"Abou Aaesha Tower, Saad Zaghloul St., El zagazig, El sharkeya"
+},
+		{	"profileId":"136245",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/136245?b=7&k=19987&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"238304",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/238304?b=15&k=19987&l=search",
+	"arName":"128 ش السودان, المهندسين, الجيزة",
+	"lat":"30.048414999999999",
+	"lng":"31.192307",
+	"enName":"128 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"238308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rizkalla/238308?b=9&k=19987&l=search",
+	"arName":"66 ش 9, المقطم, القاهرة",
+	"lat":"30.012936",
+	"lng":"31.290071999999999",
+	"enName":"66 Rd. 9, Mokattam, Cairo"
+}
+	]
+}, {	"arName":"مامارى",
+	"enName":"Mamary",
+	"hotline":"19987",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"520059",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mamary/520059?b=2&k=19987&l=search",
+	"arName":"5 ش مسرة, شبرا, القاهرة",
+	"lat":"30.073340999999999",
+	"lng":"31.244465999999999",
+	"enName":"5 Masarra St., Shoubra, Cairo"
+},
+		{	"profileId":"422591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mamary/422591?b=1&k=19987&l=search",
+	"arName":"71 ش نبيل الوقاد, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.081627999999998",
+	"lng":"31.338455",
+	"enName":"71 Nabil El Waqqad St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"422592",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mamary/422592?b=4&k=19987&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"422458",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mamary/422458?b=3&k=19987&l=search",
+	"arName":"127 ش السودان, المهندسين, الجيزة",
+	"lat":"30.048511000000001",
+	"lng":"31.192667",
+	"enName":"127 Sudan St., Mohandeseen, Giza"
+}
+	]
+}]}

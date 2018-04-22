@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سوفت ماجيك",
+	"enName":"Soft Magic",
+	"hotline":"19042",
+	"facebook":"http://www.facebook.com/SoftMagic",
+	"web":"http://www.softmagicgroup.com/",
+	"arCategory":[
+		"كمبيوتر برامج"
+	],
+	"enCategories":[
+		"Computer Software"
+	],
+	"contacts":[
+		{	"profileId":"11515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soft-magic/11515?b=2&k=19042&l=search",
+	"arName":"11 ش احمد قمحة, حدائق القبة, القاهرة",
+	"lat":"30.0837",
+	"lng":"31.2803",
+	"enName":"11 Ahmed Qamha St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"151160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/soft-magic/151160?b=1&k=19042&l=search",
+	"arName":"خدمة العملاء, حدائق القبة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Hadayek el kobba, Cairo"
+}
+	]
+}]}

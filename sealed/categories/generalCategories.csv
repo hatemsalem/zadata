@@ -1,0 +1,13 @@
+Id,arName,enName,arDesc,enDesc,keywords,rank,status,type
+,الخط الساخن,Hotline,,Root,,1,PUBLISHED,100
+,قائمة الطعام,menus,,Root,,1,PUBLISHED,200
+,العروض,offers,,Root,,1,PUBLISHED,300
+,الاتصال,Contact,,Root,,1,PUBLISHED,400
+,الخط الساخن,Hotline,,Favorite,,1,PUBLISHED,2000
+,العروض,offers,,Favorite,,1,PUBLISHED,2000
+,الاتصال,Contact,,Favorite,,1,PUBLISHED,2000
+,هاتف,Phone,,,,1,PUBLISHED,4001
+,موقع انترنت,Web Site,,,,2,PUBLISHED,4001
+,صفحة فيسبوك,Facebook Page,,,,3,PUBLISHED,4001
+,عنوان,Address,,,,5,PUBLISHED,4001
+

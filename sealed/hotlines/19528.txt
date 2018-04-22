@@ -1,0 +1,21 @@
+{"items":[{	"arName":"حديقة الاسرة",
+	"enName":"Family Park",
+	"hotline":"19528",
+	"facebook":"http://www.facebook.com/FamilyPark.NewCairo",
+	"web":"http://www.familypark.com.eg/",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"474111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/family-park/474111?b=1&k=19528&l=search",
+	"arName":"كم 26 -, طريق القاهرة السويس, القاهرة",
+	"lat":"30.079279",
+	"lng":"31.501113",
+	"enName":"Km 26,, Cairo suez rd., Cairo"
+}
+	]
+}]}

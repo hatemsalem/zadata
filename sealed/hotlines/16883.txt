@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الفتح الاسلامى",
+	"enName":"El Fath El Islamy",
+	"hotline":"16883",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"256337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fath-el-islamy/256337?b=1&k=16883&l=search",
+	"arName":"طريق بلتان, بنها, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Beltan Rd., Banha, Kaliobeya"
+},
+		{	"profileId":"256343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fath-el-islamy/256343?b=2&k=16883&l=search",
+	"arName":"خدمة العملاء, بنها, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Banha, Kaliobeya"
+}
+	]
+}]}

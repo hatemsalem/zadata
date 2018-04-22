@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدليات احمد على",
+	"enName":"Ahmed Aly Pharmacies",
+	"hotline":"19196",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"168564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-aly-pharmacies/168564?b=1&k=19196&l=search",
+	"arName":"39 ش المحروسة متفرع من ش مصر والسودان, حدائق القبة, القاهرة",
+	"lat":"30.080446999999999",
+	"lng":"31.281175000000001",
+	"enName":"39 El Mahrousa St. Off Misr & Sudan St., Hadayek el kobba, Cairo"
+},
+		{	"profileId":"168565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-aly-pharmacies/168565?b=3&k=19196&l=search",
+	"arName":"1 ش وصفى, شبرا, القاهرة",
+	"lat":"30.089143",
+	"lng":"31.252911999999998",
+	"enName":"1 Wasfy St., Shoubra, Cairo"
+},
+		{	"profileId":"176657",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ahmed-aly-pharmacies/176657?b=2&k=19196&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, حدائق القبة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Hadayek el kobba, Cairo"
+}
+	]
+}]}

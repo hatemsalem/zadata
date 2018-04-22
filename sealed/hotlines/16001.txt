@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الامريكية لصيانة الاجهزة المنزلية",
+	"enName":"El Amrekeya For Appliances Maintenance",
+	"hotline":"16001",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"167278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-amrekeya-for-appliances-maintenance/167278?b=2&k=16001&l=search",
+	"arName":"249 ش السودان, المهندسين, الجيزة",
+	"lat":"30.061271000000001",
+	"lng":"31.189933",
+	"enName":"249 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"176924",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-amrekeya-for-appliances-maintenance/176924?b=1&k=16001&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

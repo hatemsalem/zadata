@@ -1,0 +1,28 @@
+{"items":[{	"arName":"نيو تاورز للاستثمار والتطوير العقارى",
+	"enName":"New Towers For Real Estate Investment & Development",
+	"hotline":"16463",
+	"facebook":"http://www.facebook.com/newtowers.eg",
+	"web":"http://www.newtowers-eg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"580148",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-towers-for-real-estate-investment-&-development/580148?b=1&k=16463&l=search",
+	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"577065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-towers-for-real-estate-investment-&-development/577065?b=2&k=16463&l=search",
+	"arName":"151 ش الميرغنى, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.09196",
+	"lng":"31.344650000000001",
+	"enName":"151 El Merghany St., Almaza, Heliopolis, Cairo"
+}
+	]
+}]}

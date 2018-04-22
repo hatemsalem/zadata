@@ -1,0 +1,21 @@
+{"items":[{	"arName":"المستشفى السعودى الالمانى - القاهرة",
+	"enName":"Saudi German Hospital - Cairo",
+	"hotline":"16259",
+	"facebook":"http://www.facebook.com/SaudiGermanHospitalCairo",
+	"web":"http://www.sghcairo.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"505324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saudi-german-hospital-_-cairo/505324?b=1&k=16259&l=search",
+	"arName":"47 ش جوزيف تيتو تقاطع محور طه حسين, النزهة الجديدة, القاهرة",
+	"lat":"30.133431999999999",
+	"lng":"31.384367000000001",
+	"enName":"47 Joseph Tito St. Intersection Of Taha Hussein Spine, El nozha el gadida, Cairo"
+}
+	]
+}]}

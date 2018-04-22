@@ -1,0 +1,28 @@
+{"items":[{	"arName":"روكا",
+	"enName":"Roca",
+	"hotline":"16635",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ادوات صحية - سباكة معدات وسباكون"
+	],
+	"enCategories":[
+		"Sanitaryware, Plumbing Equipment & Plumbers"
+	],
+	"contacts":[
+		{	"profileId":"256443",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roca/256443?b=1&k=16635&l=search",
+	"arName":"9 ش احمد خلاف, المهندسين, الجيزة",
+	"lat":"30.048940000000002",
+	"lng":"31.206783000000001",
+	"enName":"9 Ahmed Khallaf St., Mohandeseen, Giza"
+},
+		{	"profileId":"256450",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/roca/256450?b=2&k=16635&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"كورنيش للسياحة",
+	"enName":"Corniche Tours",
+	"hotline":"16526",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"8787",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/corniche-tours/8787?b=1&k=16526&l=search",
+	"arName":"9 ش الشريفين متفرع من ش قصر النيل, وسط البلد, القاهرة",
+	"lat":"30.047875999999999",
+	"lng":"31.241140000000001",
+	"enName":"9 El Sharifain St. Off Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"342973",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/corniche-tours/342973?b=2&k=16526&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

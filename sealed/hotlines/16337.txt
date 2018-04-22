@@ -1,0 +1,21 @@
+{"items":[{	"arName":"اتصالات",
+	"enName":"Etisalat",
+	"hotline":"16337",
+	"facebook":"http://www.facebook.com/etisalatmisr",
+	"web":"http://www.etisalat.com.eg/",
+	"arCategory":[
+		"تليفونات محمولة مشغلوا خطوط"
+	],
+	"enCategories":[
+		"Mobile Line Operators"
+	],
+	"contacts":[
+		{	"profileId":"343400",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etisalat/343400?b=1&k=16337&l=search",
+	"arName":"خدمة الدعم الفنى ونقل البيانات للشركات, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Technical Support & Enterprise Data Service, Abou rawash, Giza"
+}
+	]
+}]}

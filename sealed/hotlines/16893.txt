@@ -1,0 +1,28 @@
+{"items":[{	"arName":"نيو هاوس للاستثمار العقارى وادارة المشروعات السياحية",
+	"enName":"New House For Real Estate Investment & Touristic Management",
+	"hotline":"16893",
+	"facebook":"",
+	"web":"http://www.newhouseegy.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"450763",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-house-for-real-estate-investment-&-touristic-management/450763?b=1&k=16893&l=search",
+	"arName":"1 ش عبد الرازق السنهورى متفرع من ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.062025999999999",
+	"lng":"31.337902",
+	"enName":"1 Abdel Razeq El Sanhoury St. Off Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"450760",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-house-for-real-estate-investment-&-touristic-management/450760?b=2&k=16893&l=search",
+	"arName":"77 ش سوريا - الدور 7, المهندسين, الجيزة",
+	"lat":"30.052520999999999",
+	"lng":"31.191872",
+	"enName":"77 Syria St., Floor 7, Mohandeseen, Giza"
+}
+	]
+}]}

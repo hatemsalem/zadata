@@ -1,0 +1,42 @@
+{"items":[{	"arName":"شندلر ليمتد",
+	"enName":"Schindler Limited",
+	"hotline":"16808",
+	"facebook":"",
+	"web":"http://www.schindler.com/eg/internet/en/schindler-egypt.html",
+	"arCategory":[
+		"مصاعد وسلالم متحركة"
+	],
+	"enCategories":[
+		"Elevators & Escalators"
+	],
+	"contacts":[
+		{	"profileId":"48846",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/schindler-limited/48846?b=4&k=16808&l=search",
+	"arName":"44 ش ادموند فيرمونت - برج باراديس سموحة - الدور 3 شقة 2, سموحة, الاسكندرية",
+	"lat":"31.215444000000002",
+	"lng":"29.951331",
+	"enName":"44 Edmund Vermont St., Paradise Semouha Tower, Floor 3 Flat 2, Semouha, Alexandria"
+},
+		{	"profileId":"544654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/schindler-limited/544654?b=2&k=16808&l=search",
+	"arName":"فيلا 273 - ش المشير عبد الغنى الجمسى متفرع من ش التسعين الجنوبى - النرجس 1, النرجس, القاهرة الجديدة, القاهرة",
+	"lat":"30.018440999999999",
+	"lng":"31.461455999999998",
+	"enName":"Villa 273, El Moushir Abdel Ghany El Gamsy St. Off El Tesaeen El Ganouby St., El Narges 1, Narges, New cairo, Cairo"
+},
+		{	"profileId":"4735",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/schindler-limited/4735?b=1&k=16808&l=search",
+	"arName":"4 برج الدبلوماسيين - ش النيل, الجيزة, الجيزة",
+	"lat":"30.0178671",
+	"lng":"31.217026400000002",
+	"enName":"4 Diplomatics Tower, El Nil St., Giza, Giza"
+},
+		{	"profileId":"544682",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/schindler-limited/544682?b=3&k=16808&l=search",
+	"arName":"504 ش عبد المنعم رياض - الدور 2, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"504 Abdel Moneim Riad St., Floor 2, El Motamayez District, 6th of october, Giza"
+}
+	]
+}]}

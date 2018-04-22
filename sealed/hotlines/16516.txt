@@ -1,0 +1,34 @@
+{"items":[{	"arName":"مطعم ابو جازية",
+	"enName":"Abou Gazya Restaurant",
+	"hotline":"16516",
+	"facebook":"http://www.facebook.com/AbouGazya",
+	"web":"",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"513164",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-gazya-restaurant/513164?b=1&k=16516&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, شبرا, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Shoubra, Cairo"
+},
+		{	"profileId":"513163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-gazya-restaurant/513163?b=2&k=16516&l=search",
+	"arName":"ش خلوصى متفرع من ش شبرا, شبرا, القاهرة",
+	"lat":"30.079235000000001",
+	"lng":"31.247928000000002",
+	"enName":"Kholousy St. Off Shoubra St., Shoubra, Cairo"
+}
+	]
+}]}

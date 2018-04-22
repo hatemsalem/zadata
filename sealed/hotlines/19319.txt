@@ -1,0 +1,112 @@
+{"items":[{	"arName":"ميديا العربى",
+	"enName":"Media El Araby Co.",
+	"hotline":"19319",
+	"facebook":"http://www.facebook.com/elarabygroup64",
+	"web":"http://www.elarabygroup.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"176051",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./176051?b=10&k=19319&l=search",
+	"arName":"7 أ ش ابن طولون, حى الشرق, بور سعيد",
+	"lat":"31.258600999999999",
+	"lng":"32.296306000000001",
+	"enName":"7 A Ibn Toloun St., El shark district, Port said"
+},
+		{	"profileId":"405199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./405199?b=12&k=19319&l=search",
+	"arName":"7 ش فؤاد تقاطع ش النبى دانيال, محطة الرمل, الاسكندرية",
+	"lat":"31.195719",
+	"lng":"29.900912000000002",
+	"enName":"7 Fouad St. Intersection Of El Nabi Daniel St., Raml station, Alexandria"
+},
+		{	"profileId":"136208",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./136208?b=14&k=19319&l=search",
+	"arName":"15 ش الجمهورية, الجمهورية, بور سعيد",
+	"lat":"31.266813200000001",
+	"lng":"32.313411299999999",
+	"enName":"15 El Gomhoureya St., El gomhoureya, Port said"
+},
+		{	"profileId":"461983",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./461983?b=9&k=19319&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"465229",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./465229?b=5&k=19319&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"73493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./73493?b=3&k=19319&l=search",
+	"arName":"11 ش منوف متفرع من ش بيروت, مصر الجديدة, القاهرة",
+	"lat":"30.092517000000001",
+	"lng":"31.331758000000001",
+	"enName":"11 Monouf St. Off Beirut St., Heliopolis, Cairo"
+},
+		{	"profileId":"73492",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./73492?b=1&k=19319&l=search",
+	"arName":"7 ش جزيرة بدران متفرع من ش شبرا, شبرا, القاهرة",
+	"lat":"30.0655",
+	"lng":"31.243600000000001",
+	"enName":"7 Geziret Badran St. Off Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"441365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./441365?b=2&k=19319&l=search",
+	"arName":"21 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.075738000000001",
+	"lng":"31.306191999999999",
+	"enName":"21 El Obour Bldgs, Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"73490",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./73490?b=6&k=19319&l=search",
+	"arName":"7 ش السبع قاعات البحرية متفرع من ش جوهر القائد, الموسكى, القاهرة",
+	"lat":"30.048807",
+	"lng":"31.257276000000001",
+	"enName":"7 El Sabaa Qaat El Bahareya St. Off Gawhar El Qaed St., El mousky, Cairo"
+},
+		{	"profileId":"387996",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./387996?b=7&k=19319&l=search",
+	"arName":"6 ش البطران - المنطقة الصناعية, عباسية, القاهرة",
+	"lat":"30.061049000000001",
+	"lng":"31.280819000000001",
+	"enName":"6 El Batran St., Industrial Zone, Abbasseya, Cairo"
+},
+		{	"profileId":"8868",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./8868?b=8&k=19319&l=search",
+	"arName":"27 ش عبد العزيز, وسط البلد, القاهرة",
+	"lat":"30.047999999999998",
+	"lng":"31.248999999999999",
+	"enName":"27 Abdel Aziz St., Downtown, Cairo"
+},
+		{	"profileId":"91307",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./91307?b=13&k=19319&l=search",
+	"arName":"كم 47 -, طريق القاهرة الاسكندرية الزراع, طريق القاهرة الاسكندرية الزراعى, القليوبية",
+	"lat":"30.452817",
+	"lng":"31.196300999999998",
+	"enName":"Km 47,, Cairo alex. agr. rd., Kaliobeya"
+},
+		{	"profileId":"117170",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./117170?b=11&k=19319&l=search",
+	"arName":"منطقة مبارك الصناعية الثالثة, قويسنا, المنوفية",
+	"lat":"30.540859000000001",
+	"lng":"31.178391999999999",
+	"enName":"3rd Mubarak Industrial Zone, Quwasnah, El monofeya"
+},
+		{	"profileId":"136373",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./136373?b=4&k=19319&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

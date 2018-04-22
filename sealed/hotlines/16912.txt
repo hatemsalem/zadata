@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مايل الدولية للاستثمار العقارى",
+	"enName":"Mile International Real Estate",
+	"hotline":"16912",
+	"facebook":"http://www.facebook.com/milewinwin",
+	"web":"mile-winwin.com",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"576500",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mile-international-real-estate/576500?b=2&k=16912&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zamalek, Cairo"
+},
+		{	"profileId":"576494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mile-international-real-estate/576494?b=1&k=16912&l=search",
+	"arName":"39 ش ابو الفدا متفرع من ش محمد مظهر, الزمالك, القاهرة",
+	"lat":"30.070979999999999",
+	"lng":"31.220089999999999",
+	"enName":"39 Abou El Feda St. Off Mohamed Mazhar St., Zamalek, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الشركة المصرية للجبس - جيبروك - سان جوبان",
+	"enName":"Saint - Gobain Gyproc Egypt",
+	"hotline":"19230",
+	"facebook":"http://www.facebook.com/pages/Saint-Gobain-Gyproc-Egypt/203695356332888",
+	"web":"http://www.gyprocegypt.com/",
+	"arCategory":[
+		"اسمنت وخرسانة وجبس وطوب ومعدات"
+	],
+	"enCategories":[
+		"Cement & Concrete, Gypsum, Brick & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"138720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saint-_-gobain-gyproc-egypt/138720?b=1&k=19230&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

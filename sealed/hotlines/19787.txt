@@ -1,0 +1,21 @@
+{"items":[{	"arName":"مستشفى جنة",
+	"enName":"Ganna Hospital",
+	"hotline":"19787",
+	"facebook":"http://www.facebook.com/GannahHospital/?fref=ts",
+	"web":"http://www.gannahospital.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"348985",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ganna-hospital/348985?b=1&k=19787&l=search",
+	"arName":"382 ش الهرم, الهرم, الجيزة",
+	"lat":"30.005928999999998",
+	"lng":"31.187477000000001",
+	"enName":"382 El Haram St., El haram, Giza"
+}
+	]
+}]}

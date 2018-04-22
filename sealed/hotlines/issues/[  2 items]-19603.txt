@@ -1,0 +1,55 @@
+{"items":[{	"arName":"كورال هيلز",
+	"enName":"Coral Hills",
+	"hotline":"19603",
+	"facebook":"",
+	"web":"http://www.broujegypt.com/site/page/Coral%20Hills",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"403373",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coral-hills/403373?b=4&k=19603&l=search",
+	"arName":"كم 183 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"31.087146000000001",
+	"lng":"28.157143000000001",
+	"enName":"Km 183,, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"بروج",
+	"enName":"Brouj",
+	"hotline":"19603",
+	"facebook":"http://www.facebook.com/pages/Brouj-Property-Management/144756228880241",
+	"web":"http://www.broujegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"145433",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brouj/145433?b=2&k=19603&l=search",
+	"arName":"11 ش سيزوستريس متفرع من ش بغداد, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.089884000000001",
+	"lng":"31.324460999999999",
+	"enName":"11 Sizostris St. Off Baghdad St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"187131",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brouj/187131?b=1&k=19603&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Heliopolis, Cairo"
+},
+		{	"profileId":"276853",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/brouj/276853?b=3&k=19603&l=search",
+	"arName":"8 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.058527000000002",
+	"lng":"31.207142000000001",
+	"enName":"8 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+}
+	]
+}]}

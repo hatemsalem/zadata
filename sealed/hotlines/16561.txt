@@ -1,0 +1,35 @@
+{"items":[{	"arName":"سيدار جلوبال",
+	"enName":"Sedar Global",
+	"hotline":"16561",
+	"facebook":"http://www.facebook.com/Sedar.Global",
+	"web":"http://www.sedarglobal.com/",
+	"arCategory":[
+		"ستائر وشيش"
+	],
+	"enCategories":[
+		"Blinds & Window Coverings"
+	],
+	"contacts":[
+		{	"profileId":"513231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedar-global/513231?b=1&k=16561&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"542146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedar-global/542146?b=3&k=16561&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"513235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sedar-global/513235?b=2&k=16561&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

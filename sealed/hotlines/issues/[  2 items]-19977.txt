@@ -1,0 +1,183 @@
+{"items":[{	"arName":"بنك ابو ظبى الاول - ماكينة الصراف الالى",
+	"enName":"FAB - First Abu Dhabi Bank - ATM",
+	"hotline":"19977",
+	"facebook":"",
+	"web":"http://www.nbad.com/",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"535099",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank-_-atm/535099?b=21&k=19977&l=search",
+	"arName":"14 ش رمسيس, وسط البلد, القاهرة",
+	"lat":"30.052900000000001",
+	"lng":"31.238",
+	"enName":"14 Ramsis St., Downtown, Cairo"
+},
+		{	"profileId":"242300",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank-_-atm/242300?b=22&k=19977&l=search",
+	"arName":"399 طريق الجيش, سان استيفانو, الاسكندرية",
+	"lat":"31.245228000000001",
+	"lng":"29.967646999999999",
+	"enName":"399 El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"465398",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank-_-atm/465398?b=20&k=19977&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بنك ابو ظبى الاول",
+	"enName":"FAB - First Abu Dhabi Bank",
+	"hotline":"19977",
+	"facebook":"http://www.facebook.com/FAB",
+	"web":"http://www.nbad.com/",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"74758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74758?b=7&k=19977&l=search",
+	"arName":"22 ش قصر النيل ميدان طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.047906000000001",
+	"lng":"31.239169",
+	"enName":"22 Kasr El Nil St. Talaat Harb Sq., Downtown, Cairo"
+},
+		{	"profileId":"74757",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74757?b=13&k=19977&l=search",
+	"arName":"35 ش محيى الدين ابو العز, الدقى, الجيزة",
+	"lat":"30.039332000000002",
+	"lng":"31.201036999999999",
+	"enName":"35 Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"460743",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/460743?b=14&k=19977&l=search",
+	"arName":"مجمع البنوك, الكوثر, الغردقة",
+	"lat":"27.198324",
+	"lng":"33.823219000000002",
+	"enName":"Banks Complex, El kawther, Hurghada"
+},
+		{	"profileId":"438769",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/438769?b=15&k=19977&l=search",
+	"arName":"21 برج النيل الادارى - ش شارل ديجول, الجيزة, الجيزة",
+	"lat":"30.021677",
+	"lng":"31.216539999999998",
+	"enName":"21 Nile Administrative Tower, Charles De Gaulle St., Giza, Giza"
+},
+		{	"profileId":"74766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74766?b=17&k=19977&l=search",
+	"arName":"4 ش السلطان محمود تقاطع ش طرح البحر - برج السلام, حى الشرق, بور سعيد",
+	"lat":"31.268132000000001",
+	"lng":"32.311230999999999",
+	"enName":"4 El Sultan Mahmoud St. Intersection Of Tarh El Bahr St., El Salam Tower, El shark district, Port said"
+},
+		{	"profileId":"166417",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/166417?b=2&k=19977&l=search",
+	"arName":"ش الشويفات, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.001097999999999",
+	"lng":"31.406511999999999",
+	"enName":"El Showaifat St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"74754",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74754?b=16&k=19977&l=search",
+	"arName":"243 طريق الحرية, سبورتنج, الاسكندرية",
+	"lat":"31.211043",
+	"lng":"29.932952",
+	"enName":"243 El Horreya Rd., Sporting, Alexandria"
+},
+		{	"profileId":"74752",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74752?b=4&k=19977&l=search",
+	"arName":"13 أ ش رمسيس متفرع من ش صلاح سالم, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.087658999999999",
+	"lng":"31.324563999999999",
+	"enName":"13 A Ramsis St. Off Salah Salem St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"74762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74762?b=9&k=19977&l=search",
+	"arName":"242 ش الجيش, المنصورة, الدقهلية",
+	"lat":"31.050355",
+	"lng":"31.394345999999999",
+	"enName":"242 El Guish St., El mansoura, El dakahleya"
+},
+		{	"profileId":"74771",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74771?b=5&k=19977&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"74760",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74760?b=8&k=19977&l=search",
+	"arName":"ش 151 تقاطع ش 152, المعادى, القاهرة",
+	"lat":"29.959199000000002",
+	"lng":"31.255610999999998",
+	"enName":"Rd. 151 Intersection Of Rd. 152, Maadi, Cairo"
+},
+		{	"profileId":"74770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/74770?b=3&k=19977&l=search",
+	"arName":"36 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.063203999999999",
+	"lng":"31.337336000000001",
+	"enName":"36 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"12726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/12726?b=6&k=19977&l=search",
+	"arName":"القطعة 143، 144 - قطاع 1 - مركز المدينة - منطقة البنوك, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.018704",
+	"lng":"31.430344999999999",
+	"enName":"Plot 143, 144, Sector 1, City Center, Banks Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"141451",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/141451?b=18&k=19977&l=search",
+	"arName":"52 هـ المحور المركزى - مجمع البنوك, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.942679999999999",
+	"lng":"30.896806999999999",
+	"enName":"52 H Central Spine, Banks Complex, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"141465",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/141465?b=12&k=19977&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"171865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/171865?b=11&k=19977&l=search",
+	"arName":"173 ش سعد زغلول, دمياط, دمياط",
+	"lat":"31.422215000000001",
+	"lng":"31.807739999999999",
+	"enName":"173 Saad Zaghloul St., Damietta, Damietta"
+},
+		{	"profileId":"141469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/141469?b=10&k=19977&l=search",
+	"arName":"ش السلام, خليج نعمة, شرم الشيخ",
+	"lat":"27.909528000000002",
+	"lng":"34.325257999999998",
+	"enName":"El Salam St., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"141457",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/141457?b=1&k=19977&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"124616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fab-_-first-abu-dhabi-bank/124616?b=19&k=19977&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"lat":"31.245228000000001",
+	"lng":"29.967646999999999",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+}
+	]
+}]}

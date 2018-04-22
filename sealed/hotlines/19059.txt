@@ -1,0 +1,65 @@
+{"items":[{	"arName":"فريش اليكتريك للاجهزة المنزلية",
+	"enName":"Fresh Electric For Home Appliances",
+	"hotline":"19059",
+	"facebook":"http://www.facebook.com/fresh.eg?fref=ts",
+	"web":"http://www.fresh.com.eg/",
+	"arCategory":[
+		"اجهزة منزلية",
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Appliances",
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"80861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-electric-for-home-appliances/80861?b=5&k=19059&l=search",
+	"arName":"المنطقة الصناعية الثالثة A3, العاشر من رمضان, الشرقية",
+	"lat":"30.259651999999999",
+	"lng":"31.763494999999999",
+	"enName":"3rd Industrial Zone A3, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"124967",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-electric-for-home-appliances/124967?b=2&k=19059&l=search",
+	"arName":"66 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.062359000000001",
+	"lng":"31.344825",
+	"enName":"66 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"242731",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-electric-for-home-appliances/242731?b=6&k=19059&l=search",
+	"arName":"307 ش فيصل, حسن محمد, فيصل, الجيزة",
+	"lat":"30.002174",
+	"lng":"31.170041999999999",
+	"enName":"307 Faisal St., Hassan Mohamed, Faisal, Giza"
+},
+		{	"profileId":"257930",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-electric-for-home-appliances/257930?b=4&k=19059&l=search",
+	"arName":"10 ش احمد فخرى - الدور 2 شقة 3, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.067599000000001",
+	"lng":"31.349225000000001",
+	"enName":"10 Ahmed Fakhry St., Floor 2 Flat 3, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"50576",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-electric-for-home-appliances/50576?b=7&k=19059&l=search",
+	"arName":"368 ش فيصل - الطالبية, فيصل, الجيزة",
+	"lat":"30.006599999999999",
+	"lng":"31.180700000000002",
+	"enName":"368 Faisal St., El Talbeya, Faisal, Giza"
+},
+		{	"profileId":"436435",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-electric-for-home-appliances/436435?b=1&k=19059&l=search",
+	"arName":"28 ش شبرا, شبرا, القاهرة",
+	"lat":"30.067699999999999",
+	"lng":"31.244900000000001",
+	"enName":"28 Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"126780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-electric-for-home-appliances/126780?b=3&k=19059&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

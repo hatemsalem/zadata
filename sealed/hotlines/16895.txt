@@ -1,0 +1,49 @@
+{"items":[{	"arName":"فيزاج ليزر كلينيك",
+	"enName":"Visage Laser Clinic",
+	"hotline":"16895",
+	"facebook":"http://www.facebook.com/VisageLaserClinic",
+	"web":"http://www.visageclinics.com/",
+	"arCategory":[
+		"مراكز جراحات تجميل"
+	],
+	"enCategories":[
+		"Cosmetic & Plastic Surgery Centers"
+	],
+	"contacts":[
+		{	"profileId":"452493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/452493?b=1&k=16895&l=search",
+	"arName":"خدمة العملاء, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"393730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/393730?b=3&k=16895&l=search",
+	"arName":"1 ش سيتى متفرع من ش بغداد, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.089027000000002",
+	"lng":"31.321933000000001",
+	"enName":"1 City St. Off Baghdad St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"452491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/452491?b=4&k=16895&l=search",
+	"arName":"5 ش اخناتون, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.004350599999999",
+	"lng":"31.421690900000002",
+	"enName":"5 Ekhnatoun St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"452489",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/452489?b=5&k=16895&l=search",
+	"arName":"الحى الثالث, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.031085000000001",
+	"lng":"31.000375999999999",
+	"enName":"3rd District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"429245",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/429245?b=2&k=16895&l=search",
+	"arName":"7 ش النصر - الدور 1, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.972766",
+	"lng":"31.272238999999999",
+	"enName":"7 El Nasr St., Floor 1, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

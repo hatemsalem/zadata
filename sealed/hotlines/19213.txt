@@ -1,0 +1,56 @@
+{"items":[{	"arName":"خدماتى - الشركة المصرية للخدمات المجتمعية",
+	"enName":"Khadamaty",
+	"hotline":"19213",
+	"facebook":"",
+	"web":"http://www.khadamaty.com.eg/",
+	"arCategory":[
+		""
+	],
+	"enCategories":[
+		""
+	],
+	"contacts":[
+		{	"profileId":"207009",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/207009?b=6&k=19213&l=search",
+	"arName":"خدمة العملاء, حدائق القبة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Hadayek el kobba, Cairo"
+},
+		{	"profileId":"317693",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/317693?b=2&k=19213&l=search",
+	"arName":"35 ش عفيفى عفت, عين شمس الشرقية, القاهرة",
+	"lat":"30.128909",
+	"lng":"31.325689000000001",
+	"enName":"35 Afify Effat St., Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"247046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/247046?b=3&k=19213&l=search",
+	"arName":"8 /12 ش التجارى الخلفى, زهراء المعادى, المعادى, القاهرة",
+	"lat":"29.960778999999999",
+	"lng":"31.305622",
+	"enName":"8 /12 El Togary El Khalfy St., Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"314604",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/314604?b=4&k=19213&l=search",
+	"arName":"31 ش السيدة خديجة متفرع من ش معمل الالبان - الخلفاوى, شبرا, القاهرة",
+	"lat":"30.096423000000001",
+	"lng":"31.253222000000001",
+	"enName":"31 El Sayeda Kadega St. Off Mamal El Alban St., El Khalafawy, Shoubra, Cairo"
+},
+		{	"profileId":"261936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/261936?b=5&k=19213&l=search",
+	"arName":"157 ش المطراوى, المطرية, القاهرة",
+	"lat":"30.119917000000001",
+	"lng":"31.307382",
+	"enName":"157 el matarawy st., El matareya, Cairo"
+},
+		{	"profileId":"181352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/khadamaty/181352?b=1&k=19213&l=search",
+	"arName":"15 ش امتداد ولى العهد, حدائق القبة, القاهرة",
+	"lat":"30.097175",
+	"lng":"31.289588999999999",
+	"enName":"15 Emtedad Walley El Ahd St., Hadayek el kobba, Cairo"
+}
+	]
+}]}

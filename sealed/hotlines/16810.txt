@@ -1,0 +1,30 @@
+{"items":[{	"arName":"المخابز الحديثة ش.م.م - ريتش باك",
+	"enName":"Modern Bakeries S.A.E - Rich Bake",
+	"hotline":"16810",
+	"facebook":"http://www.facebook.com/RichBakeEgypt",
+	"web":"http://www.richbake.com/",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"60297",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-bakeries-s.a.e-_-rich-bake/60297?b=1&k=16810&l=search",
+	"arName":"القطعة أ - - مركز خدمات الحى الاول والثانى, السادس من اكتوبر, الجيزة",
+	"lat":"29.969104000000002",
+	"lng":"30.949477000000002",
+	"enName":"Plot A, , 1St And 2Nd District Services Center, 6th of october, Giza"
+},
+		{	"profileId":"326202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-bakeries-s.a.e-_-rich-bake/326202?b=2&k=16810&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}]}

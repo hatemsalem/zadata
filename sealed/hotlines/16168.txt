@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدليات البراوى",
+	"enName":"El Barawy Pharmacies",
+	"hotline":"16168",
+	"facebook":"http://www.facebook.com/ElBarawayPharmacies",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"579064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-barawy-pharmacies/579064?b=1&k=16168&l=search",
+	"arName":"ش فريد بك, رشدى, الاسكندرية",
+	"lat":"31.224043000000002",
+	"lng":"29.948661000000001",
+	"enName":"Farid Bey St., Roushdy, Alexandria"
+},
+		{	"profileId":"579069",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-barawy-pharmacies/579069?b=2&k=16168&l=search",
+	"arName":"خدمة العملاء, رشدى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roushdy, Alexandria"
+}
+	]
+}]}

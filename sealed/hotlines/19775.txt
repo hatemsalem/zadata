@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شنيدر الكتريك",
+	"enName":"Schneider Electric",
+	"hotline":"19775",
+	"facebook":"http://www.facebook.com/SchneiderElectricAfrica",
+	"web":"http://www.schneider-electric.com/",
+	"arCategory":[
+		"كهرباء قوى حماية ووحدات تحكم وعوازل"
+	],
+	"enCategories":[
+		"Electric Power Protection & Controls & Insulators"
+	],
+	"contacts":[
+		{	"profileId":"8889",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/schneider-electric/8889?b=1&k=19775&l=search",
+	"arName":"القطعة 291 ، 292 - - المنطقة الثانية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.026871",
+	"lng":"31.464676999999998",
+	"enName":"Plot 291 & 292, , 2nd Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

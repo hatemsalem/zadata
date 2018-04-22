@@ -1,0 +1,21 @@
+{"items":[{	"arName":"اريكسون مصر",
+	"enName":"Ericsson Egypt",
+	"hotline":"16727",
+	"facebook":"",
+	"web":"http://www.ericsson.com/",
+	"arCategory":[
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"255911",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ericsson-egypt/255911?b=1&k=16727&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+}
+	]
+}]}

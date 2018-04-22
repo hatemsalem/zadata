@@ -1,0 +1,74 @@
+{"items":[{	"arName":"بيتزا كوين",
+	"enName":"Pizza Queen",
+	"hotline":"16393",
+	"facebook":"http://www.facebook.com/PizzaQueenegy",
+	"web":"http://www.pizzaqueen.com.eg/",
+	"arCategory":[
+		"بيتزا",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Pizza",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"403033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/403033?b=4&k=16393&l=search",
+	"arName":"4 ش شهر العسل, البيطاش, الاسكندرية",
+	"lat":"31.128702000000001",
+	"lng":"29.781282999999998",
+	"enName":"4 Shahr El Asal St., El bitash, Alexandria"
+},
+		{	"profileId":"256522",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/256522?b=3&k=16393&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ميامى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery , Miami, Alexandria"
+},
+		{	"profileId":"440616",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/440616?b=8&k=16393&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"lat":"31.245865999999999",
+	"lng":"29.965812",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"202837",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/202837?b=1&k=16393&l=search",
+	"arName":"كم 6 - , طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.173625999999999",
+	"lng":"29.932831",
+	"enName":"Km 6, , Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"79706",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/79706?b=2&k=16393&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.206814000000001",
+	"lng":"29.964224999999999",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"45495",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/45495?b=7&k=16393&l=search",
+	"arName":"628 طريق الجيش, ميامى, الاسكندرية",
+	"lat":"31.269624",
+	"lng":"29.990938",
+	"enName":"628 El Guish Rd., Miami, Alexandria"
+},
+		{	"profileId":"403040",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/403040?b=5&k=16393&l=search",
+	"arName":"ش يوسف السباعى, المعمورة الشاطئ, الاسكندرية",
+	"lat":"31.289244",
+	"lng":"30.028172000000001",
+	"enName":"Youssef El Sebaey St., El mamorah shatia, Alexandria"
+},
+		{	"profileId":"202840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/202840?b=6&k=16393&l=search",
+	"arName":"قرية النخيل, العجمى, الاسكندرية",
+	"lat":"31.089054999999998",
+	"lng":"29.72982",
+	"enName":"El Nakhil Village, Agami, Alexandria"
+}
+	]
+}]}

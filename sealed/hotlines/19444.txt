@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى العربى",
+	"enName":"El Araby Hospital",
+	"hotline":"19444",
+	"facebook":"http://www.facebook.com/elarabyinternationalhospital1",
+	"web":"http://www.elarabyhospital.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"470244",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-araby-hospital/470244?b=1&k=19444&l=search",
+	"arName":"طريق القناطر الخيرية الباجور - قرية ابو رقبة, اشمون, المنوفية",
+	"lat":"30.271947000000001",
+	"lng":"31.028721999999998",
+	"enName":"El Kanater El Khayreya El Bagour Rd., Abou Raqaba Village, Ashmoun, El monofeya"
+},
+		{	"profileId":"470246",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-araby-hospital/470246?b=2&k=19444&l=search",
+	"arName":"خدمة العملاء, اشمون, المنوفية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ashmoun, El monofeya"
+}
+	]
+}]}

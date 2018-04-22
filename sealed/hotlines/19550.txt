@@ -1,0 +1,62 @@
+{"items":[{	"arName":"اخر ساعة",
+	"enName":"Akher Saa",
+	"hotline":"19550",
+	"facebook":"http://www.facebook.com/AkherSaaEG",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"فول وطعمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Foul & Ta'mya",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"393166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akher-saa/393166?b=3&k=19550&l=search",
+	"arName":"31 ش 26 يوليو, وسط البلد, القاهرة",
+	"lat":"30.053373000000001",
+	"lng":"31.239903000000002",
+	"enName":"31 26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"61530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akher-saa/61530?b=6&k=19550&l=search",
+	"arName":"8 ش الالفى متفرع من ش عماد الدين, وسط البلد, القاهرة",
+	"lat":"30.053661000000002",
+	"lng":"31.243780999999998",
+	"enName":"8 El Alfy St. Off Emad El Din St., Downtown, Cairo"
+},
+		{	"profileId":"178932",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akher-saa/178932?b=2&k=19550&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Downtown, Cairo"
+},
+		{	"profileId":"147551",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akher-saa/147551?b=1&k=19550&l=search",
+	"arName":"32 ش عبد الخالق ثروت تقاطع ش طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.050751999999999",
+	"lng":"31.240283999999999",
+	"enName":"32 Abdel Khaleq Tharwat St. Intersection Of Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"86295",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akher-saa/86295?b=4&k=19550&l=search",
+	"arName":"10 عمارات اول مايو - طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.068527",
+	"lng":"31.338322999999999",
+	"enName":"10 1st Of May Bldgs., El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"86296",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/akher-saa/86296?b=5&k=19550&l=search",
+	"arName":"27 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.061720999999999",
+	"lng":"31.335944000000001",
+	"enName":"27 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

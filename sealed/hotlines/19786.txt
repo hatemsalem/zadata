@@ -1,0 +1,21 @@
+{"items":[{	"arName":"انترناشيونال بيزنيس سيرفيس - اى بى اس",
+	"enName":"International Business Services - IBS",
+	"hotline":"19786",
+	"facebook":"",
+	"web":"http://www.ibsns.com/",
+	"arCategory":[
+		"توظيف"
+	],
+	"enCategories":[
+		"Recruitment"
+	],
+	"contacts":[
+		{	"profileId":"53940",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-business-services-_-ibs/53940?b=1&k=19786&l=search",
+	"arName":"6 /5 ج ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.973110999999999",
+	"lng":"31.280854999999999",
+	"enName":"6 /5 Geem El Laselky St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

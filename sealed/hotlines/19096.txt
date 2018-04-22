@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الغازات البترولية - بتروجاس",
+	"enName":"Petroleum Gas - Petrogas",
+	"hotline":"19096",
+	"facebook":"",
+	"web":"http://www.petrogas-eg.com/",
+	"arCategory":[
+		"بترول وغاز شركات - خدمات وخدمات داخل البحر شركات"
+	],
+	"enCategories":[
+		"Oil & Gas Companies, Services & Offshore Services"
+	],
+	"contacts":[
+		{	"profileId":"2339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petroleum-gas-_-petrogas/2339?b=2&k=19096&l=search",
+	"arName":"3 ش عثمان عبد الحفيظ متفرع من ش الطيران, مدينة نصر, القاهرة",
+	"lat":"30.078385000000001",
+	"lng":"31.318352999999998",
+	"enName":"3 Othman Abdel Hafeez St. Off El Tayaran St., Nasr city, Cairo"
+},
+		{	"profileId":"134449",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petroleum-gas-_-petrogas/134449?b=1&k=19096&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

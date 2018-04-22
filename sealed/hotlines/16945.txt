@@ -1,0 +1,39 @@
+{"items":[{	"arName":"مطاعم فتحى",
+	"enName":"Fathy Restaurant",
+	"hotline":"16945",
+	"facebook":"http://www.facebook.com/FathyRestaurants",
+	"web":"",
+	"arCategory":[
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"407652",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fathy-restaurant/407652?b=1&k=16945&l=search",
+	"arName":"خدمة العملاء, الحى العاشر, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"407650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fathy-restaurant/407650?b=3&k=16945&l=search",
+	"arName":"ش الخليفة القاهر, الحى السادس, مدينة نصر, القاهرة",
+	"lat":"30.050049000000001",
+	"lng":"31.317717999999999",
+	"enName":"El Khalifa El Qaher St., 6th District, Nasr city, Cairo"
+},
+		{	"profileId":"175992",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fathy-restaurant/175992?b=2&k=16945&l=search",
+	"arName":"528 ش احمد الزمر, الحى العاشر, مدينة نصر, القاهرة",
+	"lat":"30.050218999999998",
+	"lng":"31.396485999999999",
+	"enName":"528 Ahmed El Zomor St., 10th District, Nasr city, Cairo"
+}
+	]
+}]}

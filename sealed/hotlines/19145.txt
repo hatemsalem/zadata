@@ -1,0 +1,21 @@
+{"items":[{	"arName":"قناة الاوائل",
+	"enName":"Al Awael Channel",
+	"hotline":"19145",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اقمار صناعية وريسيفر معدات"
+	],
+	"enCategories":[
+		"Satellite & Receiving Equipment"
+	],
+	"contacts":[
+		{	"profileId":"172767",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-awael-channel/172767?b=1&k=19145&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}]}

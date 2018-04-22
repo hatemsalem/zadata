@@ -1,0 +1,42 @@
+{"items":[{	"arName":"يونيليفر مشرق للمنتجات الغذائية",
+	"enName":"Unilever Mashreq For Food Products",
+	"hotline":"16163",
+	"facebook":"http://www.facebook.com/unilevermashreq",
+	"web":"http://www.unilever.com/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"68643",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unilever-mashreq-for-food-products/68643?b=2&k=16163&l=search",
+	"arName":"المنطقة الصناعية الرابعة, السادس من اكتوبر, الجيزة",
+	"lat":"29.937384000000002",
+	"lng":"30.877884000000002",
+	"enName":"4th Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"49600",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unilever-mashreq-for-food-products/49600?b=3&k=16163&l=search",
+	"arName":"المنطقة الصناعية - كوبرى 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.212662999999999",
+	"lng":"29.962237999999999",
+	"enName":"Industrial Zone, 14th Of May Bridge, Semouha, Alexandria"
+},
+		{	"profileId":"108926",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unilever-mashreq-for-food-products/108926?b=1&k=16163&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"97422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unilever-mashreq-for-food-products/97422?b=4&k=16163&l=search",
+	"arName":"15 ميدان سفنكس, المهندسين, الجيزة",
+	"lat":"30.061696000000001",
+	"lng":"31.209135",
+	"enName":"15 Sphinx Sq., Mohandeseen, Giza"
+}
+	]
+}]}

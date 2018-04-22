@@ -1,0 +1,49 @@
+{"items":[{	"arName":"حلوانى العبد",
+	"enName":"El Abd Pastry",
+	"hotline":"16437",
+	"facebook":"http://www.facebook.com/ElAbdPatisserieEgypt",
+	"web":"",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops"
+	],
+	"contacts":[
+		{	"profileId":"576301",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-pastry/576301?b=1&k=16437&l=search",
+	"arName":"13 ش جول جمال موازى ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.054600000000001",
+	"lng":"31.2059",
+	"enName":"13 Goal Gamal St. Parallel To El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"67540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-pastry/67540?b=2&k=16437&l=search",
+	"arName":"25 ش طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.049607999999999",
+	"lng":"31.239915",
+	"enName":"25 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"91330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-pastry/91330?b=3&k=16437&l=search",
+	"arName":"26 ش شريف تقاطع ش 26 يوليو, وسط البلد, القاهرة",
+	"lat":"30.052354999999999",
+	"lng":"31.242332000000001",
+	"enName":"26 Sherif St. Intersection Of 26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"502670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-pastry/502670?b=5&k=16437&l=search",
+	"arName":"15 ش 15 مايو - برج الحلوانى, شبرا الخيمة, القليوبية",
+	"lat":"30.119491",
+	"lng":"31.260835",
+	"enName":"15 15th Of May St., El Halawany Tower, Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"573089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-pastry/573089?b=4&k=16437&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

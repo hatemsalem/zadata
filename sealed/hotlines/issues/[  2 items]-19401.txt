@@ -1,0 +1,55 @@
+{"items":[{	"arName":"امكو - الاساليب المتطورة للتنمية العقارية",
+	"enName":"Amco - Advanced Methods For Real Estate Development",
+	"hotline":"19401",
+	"facebook":"http://www.facebook.com/AmcoHolding",
+	"web":"http://www.amco-holding.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"257478",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amco-_-advanced-methods-for-real-estate-development/257478?b=3&k=19401&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"420836",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amco-_-advanced-methods-for-real-estate-development/420836?b=2&k=19401&l=search",
+	"arName":"5 ش سيد عبد الواحد متفرع من ش الفلاح, المهندسين, الجيزة",
+	"lat":"30.056514",
+	"lng":"31.199203000000001",
+	"enName":"5 Sayed Abdel Wahed St. Off El Falah St., Mohandeseen, Giza"
+},
+		{	"profileId":"257472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amco-_-advanced-methods-for-real-estate-development/257472?b=1&k=19401&l=search",
+	"arName":"43 عمارات مصر للتعمير - - المنطقة الاولى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.108695999999998",
+	"lng":"31.375675000000001",
+	"enName":"43 Misr Lel Taamir Bldgs., , 1st Zone, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"مون سيتى",
+	"enName":"Moon City",
+	"hotline":"19401",
+	"facebook":"",
+	"web":"nmcegypt.com/projectsportals/MoonCity",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"393669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/moon-city/393669?b=4&k=19401&l=search",
+	"arName":"كم 22.5 -, طريق مصر الاسماعيلية الصحراوى, القاهرة",
+	"lat":"30.156928000000001",
+	"lng":"31.447611999999999",
+	"enName":"Km 22.5,, Cairo ism. desert rd., Cairo"
+}
+	]
+}]}

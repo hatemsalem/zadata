@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مركز دار المراة",
+	"enName":"Dar Al Maraa Center",
+	"hotline":"16118",
+	"facebook":"http://www.facebook.com/DarAlMaraa",
+	"web":"http://www.cairowomencenter.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"49933",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-maraa-center/49933?b=1&k=16118&l=search",
+	"arName":"60 ش الخليفة المأمون - الدور 2, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.089131999999999",
+	"lng":"31.310558",
+	"enName":"60 El Khalifa El Maamoun St., Floor 2, Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"417886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-al-maraa-center/417886?b=2&k=16118&l=search",
+	"arName":"خدمة العملاء, روكسى, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

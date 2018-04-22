@@ -1,0 +1,126 @@
+{"items":[{	"arName":"السويدى اليكتريك القابضة",
+	"enName":"El Sewedy Electric Holding",
+	"hotline":"19159",
+	"facebook":"http://www.facebook.com/ElsewedyElectric",
+	"web":"http://www.elsewedy.com/",
+	"arCategory":[
+		"كابلات واسلاك",
+		"كهرباء والكترونيات اجهزة ومعدات"
+	],
+	"enCategories":[
+		"Cable & Wire",
+		"Electric & Electronic Devices"
+	],
+	"contacts":[
+		{	"profileId":"286573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/286573?b=9&k=19159&l=search",
+	"arName":"4 ش عبد الحق السنباطى, العتبة, القاهرة",
+	"lat":"30.049105999999998",
+	"lng":"31.247257000000001",
+	"enName":"4 Abdel Haq El Sonbaty St., Ataba, Cairo"
+},
+		{	"profileId":"152647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/152647?b=11&k=19159&l=search",
+	"arName":"66 ش السبع بنات, المنشية, الاسكندرية",
+	"lat":"31.195577",
+	"lng":"29.891608000000002",
+	"enName":"66 El Sabaa Banat St., El mansheya, Alexandria"
+},
+		{	"profileId":"141233",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/141233?b=5&k=19159&l=search",
+	"arName":"6 ش سيبويه المصرى متفرع من ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.065764000000001",
+	"lng":"31.326364000000002",
+	"enName":"6 Sibawayh El Masry St. Off El Tayaran st., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"166868",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/166868?b=7&k=19159&l=search",
+	"arName":"21 ش كليوباترا, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.090484",
+	"lng":"31.327829000000001",
+	"enName":"21 Cleopatra St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"62830",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/62830?b=8&k=19159&l=search",
+	"arName":"14 ش سراى الازبكية متفرع من ش عماد الدين, وسط البلد, القاهرة",
+	"lat":"30.0532",
+	"lng":"31.244700000000002",
+	"enName":"14 Saray El Azbakeya St. Off Emad El Din St., Downtown, Cairo"
+},
+		{	"profileId":"179239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/179239?b=6&k=19159&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"437111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/437111?b=4&k=19159&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.016922000000001",
+	"lng":"31.412593999999999",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"148363",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/148363?b=10&k=19159&l=search",
+	"arName":"القطعة 27 - قطاع 1, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.020624000000002",
+	"lng":"31.416961000000001",
+	"enName":"Plot 27, Sector 1, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"السويدى اليكتريك",
+	"enName":"El Sewedy Electric",
+	"hotline":"19159",
+	"facebook":"http://www.facebook.com/ElsewedyElectric",
+	"web":"http://www.elsewedy.com/",
+	"arCategory":[
+		"كابلات واسلاك"
+	],
+	"enCategories":[
+		"Cable & Wire"
+	],
+	"contacts":[
+		{	"profileId":"181997",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric/181997?b=2&k=19159&l=search",
+	"arName":"14 ش البيدق, العتبة, القاهرة",
+	"lat":"30.048736000000002",
+	"lng":"31.248511000000001",
+	"enName":"14 El Baidaq St., Ataba, Cairo"
+},
+		{	"profileId":"159328",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric/159328?b=3&k=19159&l=search",
+	"arName":"المنطقة الصناعية الثالثة, العاشر من رمضان, الشرقية",
+	"lat":"30.269841",
+	"lng":"31.768249000000001",
+	"enName":"3rd Industrial Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"176221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric/176221?b=1&k=19159&l=search",
+	"arName":"4 ميدان عرابى , وسط البلد, القاهرة",
+	"lat":"30.053571999999999",
+	"lng":"31.242225999999999",
+	"enName":"4 Orabi Sq., Downtown, Cairo"
+}
+	]
+}, {	"arName":"المتحدة للمعادن",
+	"enName":"United Metals",
+	"hotline":"19159",
+	"facebook":"",
+	"web":"http://www.elsewedyelectric.com/FE/Common/Companies.aspx?ID=19&g=3",
+	"arCategory":[
+		"كابلات واسلاك"
+	],
+	"enCategories":[
+		"Cable & Wire"
+	],
+	"contacts":[
+		{	"profileId":"80240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/united-metals/80240?b=12&k=19159&l=search",
+	"arName":"تقسيم ارض شريف - المنطقة الصناعية الثالثة A3, العاشر من رمضان, الشرقية",
+	"lat":"30.299091000000001",
+	"lng":"31.807304999999999",
+	"enName":"Ard Sherif Division, 3rd Industrial Zone A3, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

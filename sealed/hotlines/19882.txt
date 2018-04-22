@@ -1,0 +1,42 @@
+{"items":[{	"arName":"حلوانى اخوان",
+	"enName":"Halwani Bros",
+	"hotline":"19882",
+	"facebook":"http://www.facebook.com/Halwanibrosksa",
+	"web":"http://www.halwani.com/",
+	"arCategory":[
+		"لحوم مصنعون"
+	],
+	"enCategories":[
+		"Meat Industry"
+	],
+	"contacts":[
+		{	"profileId":"108965",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/halwani-bros/108965?b=4&k=19882&l=search",
+	"arName":"4 ش ابراهيم راجى, بولكلى, الاسكندرية",
+	"lat":"31.228967999999998",
+	"lng":"29.955580999999999",
+	"enName":"4 Ibrahim Ragy St., Bolkeley, Alexandria"
+},
+		{	"profileId":"181206",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/halwani-bros/181206?b=2&k=19882&l=search",
+	"arName":"خدمة العملاء, العاشر من رمضان, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"78328",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/halwani-bros/78328?b=1&k=19882&l=search",
+	"arName":"مبنى سوق القنال الدولى -, جسر السويس, القاهرة",
+	"lat":"30.136932000000002",
+	"lng":"31.388414000000001",
+	"enName":"Souk El Canal El Dawly Bldg.,, Gesr el suez, Cairo"
+},
+		{	"profileId":"37413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/halwani-bros/37413?b=3&k=19882&l=search",
+	"arName":"القطعة 163 , 164 - - المنطقة الصناعية الثانية b3, العاشر من رمضان, الشرقية",
+	"lat":"30.299558999999999",
+	"lng":"31.702009",
+	"enName":"plot 163, 164, , 2nd industrial Zone b3, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

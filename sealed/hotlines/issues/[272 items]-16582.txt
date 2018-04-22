@@ -1,0 +1,5490 @@
+{"items":[{	"arName":"السجل المدنى - بطره",
+	"enName":"Civil Registry - Batrah",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238563",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-batrah/238563?b=41&k=16582&l=search",
+	"arName":"بطره, طلخا, الدقهلية",
+	"lat":"31.165747",
+	"lng":"31.450586999999999",
+	"enName":"Batrah, Talkha, El dakahleya"
+}
+	]
+}, {	"arName":"ادارة الاحوال المدنية - الدقهلية",
+	"enName":"Civil Status Administration - El Dakahleya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238562",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-administration-_-el-dakahleya/238562?b=269&k=16582&l=search",
+	"arName":"ش لطفى, المنصورة, الدقهلية",
+	"lat":"31.041937999999998",
+	"lng":"31.395302000000001",
+	"enName":"Lotfy St., El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - بندر فاقوس",
+	"enName":"Civil Registry - Bandar Faqous",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238440",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bandar-faqous/238440?b=34&k=16582&l=search",
+	"arName":"ش المجمع, فاقوس, الشرقية",
+	"lat":"30.730464000000001",
+	"lng":"31.792389",
+	"enName":"El Mogamaa St., Faqus, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - المنصورة",
+	"enName":"Civil Registry - El Mansoura",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238561",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-mansoura/238561?b=101&k=16582&l=search",
+	"arName":"ش الجيش, المنصورة, الدقهلية",
+	"lat":"31.026194",
+	"lng":"31.394418999999999",
+	"enName":"El Guish St., El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - المرج",
+	"enName":"Civil Registry - El Marg",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"224838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-marg/224838?b=103&k=16582&l=search",
+	"arName":"ش الترعة السلطحية, المرج, القاهرة",
+	"lat":"30.154689000000001",
+	"lng":"31.336516",
+	"enName":"El Teraa El Saltaheya St., El marg, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - بندر قنا",
+	"enName":"Civil Registry - Bandar Qena",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238560",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bandar-qena/238560?b=36&k=16582&l=search",
+	"arName":"الشئون, وسط البلد, قنا",
+	"lat":"26.181602999999999",
+	"lng":"32.733539",
+	"enName":"El Shooun, Downtown, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - مدينة 15 مايو",
+	"enName":"Civil Registry - 15th Of May City",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-15th-of-may-city/197493?b=3&k=16582&l=search",
+	"arName":"المجاورة الثالثة, مدينة 15 مايو, القاهرة",
+	"lat":"29.825924000000001",
+	"lng":"31.364374000000002",
+	"enName":"3rd Neighbourhood, 15th of may city, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - ميت العامل",
+	"enName":"Civil Registry - Meet El Amel",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238566",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-meet-el-amel/238566?b=205&k=16582&l=search",
+	"arName":"ميت العامل, اجا, الدقهلية",
+	"lat":"30.896975000000001",
+	"lng":"31.344007000000001",
+	"enName":"Meet El Amel, Aga, El dakahleya"
+}
+	]
+}, {	"arName":"ادارة الاحوال المدنية - الشرقية",
+	"enName":"Civil Status Administration - El Sharqeya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238443",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-administration-_-el-sharqeya/238443?b=271&k=16582&l=search",
+	"arName":"ش فاروق, الزقازيق, الشرقية",
+	"lat":"30.577418999999999",
+	"lng":"31.514476999999999",
+	"enName":"Farouq St., El zagazig, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - قفط",
+	"enName":"Civil Registry - Qeft",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238680",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-qeft/238680?b=229&k=16582&l=search",
+	"arName":"ش المحطة, قفط, قنا",
+	"lat":"25.994336000000001",
+	"lng":"32.806427999999997",
+	"enName":"El Mahatta St., Qift, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - العامرية",
+	"enName":"Civil Registry - El Amereya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-amereya/225378?b=64&k=16582&l=search",
+	"arName":"كم 30 - طريق اسكندرية القاهرة الصحراوى, العامرية, الاسكندرية",
+	"lat":"31.009962000000002",
+	"lng":"29.806217",
+	"enName":"Km 30, Alex Cairo Desert Rd., Amreya, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - السنبلاوين",
+	"enName":"Civil Registry - El Senbellawain",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238558",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-senbellawain/238558?b=128&k=16582&l=search",
+	"arName":"ش المركز, السنبلاوين, الدقهلية",
+	"lat":"30.883575",
+	"lng":"31.459776999999999",
+	"enName":"El Markaz St., As sinbillawain, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز فاقوس",
+	"enName":"Civil Registry - Markaz Faqous",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238437",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-faqous/238437?b=191&k=16582&l=search",
+	"arName":"مجمع الشرطة, فاقوس, الشرقية",
+	"lat":"30.730464000000001",
+	"lng":"31.792389",
+	"enName":"El Shorta Complex, Faqus, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - التبين",
+	"enName":"Civil Registry - El Tebeen",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-tebeen/197484?b=132&k=16582&l=search",
+	"arName":"بلوك 56 - مساكن شركة الحديد والصلب الجديدة - , التبين, القاهرة",
+	"lat":"29.785734999999999",
+	"lng":"31.301921",
+	"enName":"Block 56, Iron & Steel Co. New Bldgs.,, El tebeen, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - القاهرة الجديدة 1",
+	"enName":"Civil Registry - New Cairo 1",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"224829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-new-cairo-1/224829?b=220&k=16582&l=search",
+	"arName":"الحى الرابع, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.996411999999999",
+	"lng":"31.425135999999998",
+	"enName":"4th District, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - فرشوط",
+	"enName":"Civil Registry - Farshout",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238672",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-farshout/238672?b=147&k=16582&l=search",
+	"arName":"ش الجمهورية, فرشوط, قنا",
+	"lat":"26.055228",
+	"lng":"32.168118999999997",
+	"enName":"El Gomhoureya St., Farshout, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - الوقف",
+	"enName":"Civil Registry - El Waqf",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238676",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-waqf/238676?b=135&k=16582&l=search",
+	"arName":"ش بورسعيد, الوقف, قنا",
+	"lat":"26.090717999999999",
+	"lng":"32.421813",
+	"enName":"Port Said st., El waqf, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز الاقصر",
+	"enName":"Civil Registry - Markaz Luxor",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-luxor/238555?b=195&k=16582&l=search",
+	"arName":"مساكن مجلس المدينة -, البياضية, الاقصر",
+	"lat":"25.664279000000001",
+	"lng":"32.637656",
+	"enName":"Magles El Madina Bldgs.,, El bayadeya, Luxor"
+}
+	]
+}, {	"arName":"السجل المدنى - ديرب نجم",
+	"enName":"Civil Registry - Deyerb Negm",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-deyerb-negm/238432?b=58&k=16582&l=search",
+	"arName":"ش السجل المدنى, ديرب نجم, الشرقية",
+	"lat":"30.751847000000001",
+	"lng":"31.459256",
+	"enName":"El Segel El Madany st., Deyerb negm, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - مدينة 6 اكتوبر",
+	"enName":"Civil Registry - 6th Of October City",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225117",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-6th-of-october-city/225117?b=4&k=16582&l=search",
+	"arName":"وحدة خدمات المحور المركزى - ميدان فودافون - الحى السادس, السادس من اكتوبر, الجيزة",
+	"lat":"29.945550999999998",
+	"lng":"30.915779000000001",
+	"enName":"Central Spine Services Unit, Vodafone Sq., 6th District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - المنتزه 1",
+	"enName":"Civil Registry - El Montazah 1",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225357",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-montazah-1/225357?b=106&k=16582&l=search",
+	"arName":"ش الجلاء, فيكتوريا, الاسكندرية",
+	"lat":"31.246421000000002",
+	"lng":"29.980706999999999",
+	"enName":"El Galaa St., Victoria, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - الحوامدية",
+	"enName":"Civil Registry - El Hawamdeya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225120",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-hawamdeya/225120?b=86&k=16582&l=search",
+	"arName":"ش طراد النيل متفرع من ش الثورة - العزبة الشرقية, الحوامدية, الجيزة",
+	"lat":"29.894894000000001",
+	"lng":"31.274353000000001",
+	"enName":"Tarrad El Nil St. Off El Thawra St., El Ezzba El Sharqeya, El hawamdeya, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - الرمل",
+	"enName":"Civil Registry - El Raml",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225362",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-raml/225362?b=122&k=16582&l=search",
+	"arName":"مجمع المدارس, السيوف, الاسكندرية",
+	"lat":"31.230426000000001",
+	"lng":"29.988244000000002",
+	"enName":"El Madares Complex, El seyouf, Alexandria"
+},
+		{	"profileId":"225365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-raml/225365?b=120&k=16582&l=search",
+	"arName":"., فلمينج, الاسكندرية",
+	"lat":"31.235128",
+	"lng":"29.957989000000001",
+	"enName":"., Fleming, Alexandria"
+},
+		{	"profileId":"225382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-raml/225382?b=121&k=16582&l=search",
+	"arName":"مساكن شدس - ش الفتح, شدس, الاسكندرية",
+	"lat":"31.238325",
+	"lng":"29.970815000000002",
+	"enName":"Schutz Bldgs., El Fath St., Schutz, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - الوراق",
+	"enName":"Civil Registry - El Warraq",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225124",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-warraq/225124?b=136&k=16582&l=search",
+	"arName":"مبنى الاسكان - ش الاسكان, الوراق, الجيزة",
+	"lat":"30.105999000000001",
+	"lng":"31.215591",
+	"enName":"El Iskan Bldg., El Iskan St., El warak, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - اوسيم",
+	"enName":"Civil Registry - Awseem",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225122",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-awseem/225122?b=27&k=16582&l=search",
+	"arName":"., اوسيم, الجيزة",
+	"lat":"30.128091999999999",
+	"lng":"31.149813000000002",
+	"enName":"., Auseem, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - القاهرة الجديدة 2",
+	"enName":"Civil Registry - New Cairo 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-new-cairo-2/437127?b=221&k=16582&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.058904999999999",
+	"lng":"31.445511",
+	"enName":"., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز الاسماعيلية",
+	"enName":"Civil Registry - Markaz Ismaileya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437122",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-ismaileya/437122?b=193&k=16582&l=search",
+	"arName":". - نفيشة القبلية, نفيشة, الاسماعيلية",
+	"lat":"30.562756",
+	"lng":"32.237560999999999",
+	"enName":"., Nefesha El Qebleya, Nefesha, Ismaileya"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو حماد",
+	"enName":"Civil Registry - Abou Hammad",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238464",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-hammad/238464?b=8&k=16582&l=search",
+	"arName":"حى الزهور, ابو حماد, الشرقية",
+	"lat":"30.535004000000001",
+	"lng":"31.686582000000001",
+	"enName":"El Zohour District, Abou hammad, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - صهرجت",
+	"enName":"Civil Registry - Sahragt",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sahragt/238584?b=236&k=16582&l=search",
+	"arName":"صهرجت, ميت غمر, الدقهلية",
+	"lat":"30.638268",
+	"lng":"31.288063999999999",
+	"enName":"Sahragt, Mit ghamr, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - نبروه",
+	"enName":"Civil Registry - Nabarouh",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238583",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-nabarouh/238583?b=215&k=16582&l=search",
+	"arName":"ش البحر, نبروه, الدقهلية",
+	"lat":"31.102519999999998",
+	"lng":"31.311129999999999",
+	"enName":"El Bahr St., Nabarouh, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - نجع حمادى",
+	"enName":"Civil Registry - Nagaa Hamady",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238588",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-nagaa-hamady/238588?b=216&k=16582&l=search",
+	"arName":"ش المركز, نجع حمادى, قنا",
+	"lat":"26.047948000000002",
+	"lng":"32.244818000000002",
+	"enName":"El Markaz St., Nagaa hamady, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - الحسينية",
+	"enName":"Civil Registry - Husseineya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238466",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-husseineya/238466?b=162&k=16582&l=search",
+	"arName":"مساكن مجلس المدينة -, الحسينية, الشرقية",
+	"lat":"30.855777",
+	"lng":"31.917556000000001",
+	"enName":"Magles El Madina Bldgs.,, Al huseineya, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - بندر شبين الكوم",
+	"enName":"Civil Registry - Bandar Shebin El Koum",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238344",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bandar-shebin-el-koum/238344?b=37&k=16582&l=search",
+	"arName":"., شبين الكوم, المنوفية",
+	"lat":"30.564919",
+	"lng":"31.000392999999999",
+	"enName":"., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - نقادة",
+	"enName":"Civil Registry - Naqada",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238586",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-naqada/238586?b=217&k=16582&l=search",
+	"arName":"ش 23 يوليو, نقادة, قنا",
+	"lat":"25.903309",
+	"lng":"32.722192999999997",
+	"enName":"23rd Of July St., Nakada, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - بولاق ابو العلا",
+	"enName":"Civil Registry - Boulaq Abou El Ela",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"224853",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-boulaq-abou-el-ela/224853?b=49&k=16582&l=search",
+	"arName":"كورنيش النيل, بولاق, القاهرة",
+	"lat":"30.063278",
+	"lng":"31.229956000000001",
+	"enName":"Corniche El Nil, Boulak, Cairo"
+}
+	]
+}, {	"arName":"ادارة الاحوال المدنية - الجيزة",
+	"enName":"Civil Status Administration - Giza",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"223762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-administration-_-giza/223762?b=272&k=16582&l=search",
+	"arName":"281 ش الهرم, الهرم, الجيزة",
+	"lat":"29.999141000000002",
+	"lng":"31.174745999999999",
+	"enName":"281 Haram St., El haram, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - القاهرة الجديدة 3",
+	"enName":"Civil Registry - New Cairo 3",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"224972",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-new-cairo-3/224972?b=222&k=16582&l=search",
+	"arName":"محلية 7 - - التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"29.981853000000001",
+	"lng":"31.420650999999999",
+	"enName":"Mahaleya 7, , 3rd compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - شبين القناطر",
+	"enName":"Civil Registry - Shebin El Qanater",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225269",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-shebin-el-qanater/225269?b=242&k=16582&l=search",
+	"arName":"ش ترعة الشرقاوية, شبين القناطر, القليوبية",
+	"lat":"30.309629000000001",
+	"lng":"31.314779000000001",
+	"enName":"Teraet El Sharqaweya St., Shebein el kanater, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - تمى الامديد",
+	"enName":"Civil Registry - Timai El Amdid",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238581",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-timai-el-amdid/238581?b=260&k=16582&l=search",
+	"arName":"., طماى الامديد, الدقهلية",
+	"lat":"30.945245",
+	"lng":"31.530730999999999",
+	"enName":"., Timai el amdid, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو تشت",
+	"enName":"Civil Registry - Abou Tesht",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-tesht/238580?b=15&k=16582&l=search",
+	"arName":"ش المحطة, ابو طشت, قنا",
+	"lat":"26.117926000000001",
+	"lng":"32.095346999999997",
+	"enName":"El Mahatta St., Abou tesht, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - بنها",
+	"enName":"Civil Registry - Benha",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225275",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-benha/225275?b=44&k=16582&l=search",
+	"arName":"وسط البلد, بنها, القليوبية",
+	"lat":"30.471091000000001",
+	"lng":"31.185217999999999",
+	"enName":"Down Town, Banha, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - جامعة الاسكندرية",
+	"enName":"Civil Registry - Alexandria University",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225394",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-alexandria-university/225394?b=20&k=16582&l=search",
+	"arName":"ش السلطان حسين, الازاريطة, الاسكندرية",
+	"lat":"31.201767",
+	"lng":"29.907366",
+	"enName":"El Sultan Hussein St., Azarita, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - حلوان",
+	"enName":"Civil Registry - Helwan",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-helwan/197469?b=159&k=16582&l=search",
+	"arName":"عمارة الضرائب - ش محمد سيد احمد, حلوان, القاهرة",
+	"lat":"29.847556999999998",
+	"lng":"31.330446999999999",
+	"enName":"Taxes Bldg., Mohamed Sayed Ahmed St., Helwan, Cairo"
+},
+		{	"profileId":"224986",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-helwan/224986?b=158&k=16582&l=search",
+	"arName":"ش رايل, حلوان, القاهرة",
+	"lat":"29.845281",
+	"lng":"31.325078999999999",
+	"enName":"Rayel St., Helwan, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - شبرا الخيمة 1",
+	"enName":"Civil Registry - Shoubra El Khaima 1",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225950",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-shoubra-el-khaima-1/225950?b=246&k=16582&l=search",
+	"arName":"., شبرا الخيمة, القليوبية",
+	"lat":"30.120073000000001",
+	"lng":"31.243404999999999",
+	"enName":"., Shoubra el khaymah, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - عين شمس",
+	"enName":"Civil Registry - Ain Shams",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197585",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-ain-shams/197585?b=18&k=16582&l=search",
+	"arName":"ش جسر السويس, عين شمس الشرقية, القاهرة",
+	"lat":"30.113670200000001",
+	"lng":"31.331327000000002",
+	"enName":"Gesr El Suez St., Ain shams el sharkeya, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - العاشر من رمضان 2",
+	"enName":"Civil Registry - 10th Of Ramadan 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238459",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-10th-of-ramadan-2/238459?b=2&k=16582&l=search",
+	"arName":"المجاورة 40, العاشر من رمضان, الشرقية",
+	"lat":"30.304907",
+	"lng":"31.733259",
+	"enName":"Neighbourhood 40, 10th of ramadan, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الخليفة",
+	"enName":"Civil Registry - El Khalifa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-khalifa/197461?b=90&k=16582&l=search",
+	"arName":"ش الخضيرى ميدان القلعة, الخليفة, القاهرة",
+	"lat":"30.030915",
+	"lng":"31.255870999999999",
+	"enName":"El Khodairy st. El Qalaa sq., El khalifa, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - منية النصر",
+	"enName":"Civil Registry - Meniet El Nasr",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-meniet-el-nasr/238579?b=209&k=16582&l=search",
+	"arName":"., منية النصر, الدقهلية",
+	"lat":"31.122540999999998",
+	"lng":"31.652730999999999",
+	"enName":"., Meniet el nasr, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - برشوم الصغرى",
+	"enName":"Civil Registry - Barshoum El Soghra",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225271",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-barshoum-el-soghra/225271?b=40&k=16582&l=search",
+	"arName":"قرية برشوم المحطة, طوخ, القليوبية",
+	"lat":"30.324082000000001",
+	"lng":"31.111007000000001",
+	"enName":"Barshoum El Mahatta Village, Tukh, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الجمالية",
+	"enName":"Civil Registry - El Gamaleya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-gamaleya/238573?b=81&k=16582&l=search",
+	"arName":"طريق صان الحجر, الجمالية, الدقهلية",
+	"lat":"31.165806",
+	"lng":"31.863945999999999",
+	"enName":"San El Hagar Rd., El gamaleya, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - دكرنس",
+	"enName":"Civil Registry - Dekernes",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-dekernes/238572?b=56&k=16582&l=search",
+	"arName":"., دكرنس, الدقهلية",
+	"lat":"31.089141999999999",
+	"lng":"31.588826000000001",
+	"enName":"., Dikirnis, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - كفر صقر",
+	"enName":"Civil Registry - Kafr Saqr",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238451",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-kafr-saqr/238451?b=172&k=16582&l=search",
+	"arName":"ش مكتب البريد, كفر صقر, الشرقية",
+	"lat":"30.792822000000001",
+	"lng":"31.625969000000001",
+	"enName":"Maktab El Bareed St., Kafr sakr, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - ميت غمر",
+	"enName":"Civil Registry - Meet Ghamr",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238571",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-meet-ghamr/238571?b=206&k=16582&l=search",
+	"arName":"ش المستشفى, ميت غمر, الدقهلية",
+	"lat":"30.707177999999999",
+	"lng":"31.264468000000001",
+	"enName":"El Mostashfa St., Mit ghamr, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - العاشر من رمضان 1",
+	"enName":"Civil Registry - 10th Of Ramadan 1",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238456",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-10th-of-ramadan-1/238456?b=1&k=16582&l=search",
+	"arName":"الاردنية, العاشر من رمضان, الشرقية",
+	"lat":"30.302775",
+	"lng":"31.743473999999999",
+	"enName":"El Ordoneya, 10th of ramadan, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - شربين",
+	"enName":"Civil Registry - Sherbin",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sherbin/238577?b=244&k=16582&l=search",
+	"arName":"ش الجيش, شربين, الدقهلية",
+	"lat":"31.193860999999998",
+	"lng":"31.522561",
+	"enName":"El Guish St., Sherbin, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - كوم النور",
+	"enName":"Civil Registry - Koum El Nour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238576",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-koum-el-nour/238576?b=176&k=16582&l=search",
+	"arName":"., ميت غمر, الدقهلية",
+	"lat":"30.725075",
+	"lng":"31.288571999999998",
+	"enName":"., Mit ghamr, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - بدواى",
+	"enName":"Civil Registry - Badaway",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-badaway/238575?b=30&k=16582&l=search",
+	"arName":"بدواى, المنصورة, الدقهلية",
+	"lat":"31.150144000000001",
+	"lng":"31.489460999999999",
+	"enName":"Badaway, El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - بلبيس",
+	"enName":"Civil Registry - Belbeis",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238454",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-belbeis/238454?b=42&k=16582&l=search",
+	"arName":"ش بورسعيد, بلبيس, الشرقية",
+	"lat":"30.422646",
+	"lng":"31.559365",
+	"enName":"Port Said st., Belbeis, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - سوهاج 2",
+	"enName":"Civil Registry - Sohag 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sohag-2/238696?b=252&k=16582&l=search",
+	"arName":"طريق اسيوط سوهاج, سوهاج, سوهاج",
+	"lat":"26.561048",
+	"lng":"31.689163000000001",
+	"enName":"Asiout Sohag Rd., Sohag, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - سوهاج 1",
+	"enName":"Civil Registry - Sohag 1",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sohag-1/238691?b=251&k=16582&l=search",
+	"arName":"ش العارف, سوهاج, سوهاج",
+	"lat":"26.546997000000001",
+	"lng":"31.701740999999998",
+	"enName":"El Aref St., Sohag, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - روض الفرج",
+	"enName":"Civil Registry - Road El Farag",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"224845",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-road-el-farag/224845?b=234&k=16582&l=search",
+	"arName":"38 ش نشاطى متفرع من ش شبرا, شبرا, القاهرة",
+	"lat":"30.072181",
+	"lng":"31.24024",
+	"enName":"38 Nashaty St. Off Shoubra St., Shoubra, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - طره",
+	"enName":"Civil Registry - Tura",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"224965",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-tura/224965?b=263&k=16582&l=search",
+	"arName":"80 عمارات امتداد الامل - طريق الاوتوستراد, طره, القاهرة",
+	"lat":"29.960235999999998",
+	"lng":"31.286189",
+	"enName":"80 Emtedad El Amal Bldgs., Autostrad Rd., Tura, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - المطرية",
+	"enName":"Civil Registry - El Matareya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437381",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-matareya/437381?b=105&k=16582&l=search",
+	"arName":"ش الثورة, المطرية, الدقهلية",
+	"lat":"31.183712",
+	"lng":"32.033710999999997",
+	"enName":"El Thawra St., El matareya, El dakahleya"
+},
+		{	"profileId":"224815",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-matareya/224815?b=104&k=16582&l=search",
+	"arName":"ش طه قنديل, المطرية, القاهرة",
+	"lat":"30.116593999999999",
+	"lng":"31.301131999999999",
+	"enName":"Taha Qandil St., El matareya, Cairo"
+}
+	]
+}, {	"arName":"ادارة الاحوال المدنية - القليوبية",
+	"enName":"Civil Status Administration - El Qalioubeya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-administration-_-el-qalioubeya/225264?b=270&k=16582&l=search",
+	"arName":"., بنها, القليوبية",
+	"lat":"30.471114",
+	"lng":"31.185314000000002",
+	"enName":"., Banha, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - العجوزة",
+	"enName":"Civil Registry - El Agouza",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225141",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-agouza/225141?b=62&k=16582&l=search",
+	"arName":"3 ش نوال, العجوزة, الجيزة",
+	"lat":"30.046658999999998",
+	"lng":"31.215904999999999",
+	"enName":"3 Nawal St., Agouza, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - كفر شكر",
+	"enName":"Civil Registry - Kafr Shokr",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225268",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-kafr-shokr/225268?b=173&k=16582&l=search",
+	"arName":"., كفر شكر, القليوبية",
+	"lat":"30.553160999999999",
+	"lng":"31.251875999999999",
+	"enName":"., Kafr shoukr, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - مرصفا",
+	"enName":"Civil Registry - Marsafa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225265",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-marsafa/225265?b=201&k=16582&l=search",
+	"arName":"قرية مرصفا, بنها, القليوبية",
+	"lat":"30.406312",
+	"lng":"31.249977000000001",
+	"enName":"Marsafa Village, Banha, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الزقازيق 2",
+	"enName":"Civil Registry - El Zaqaziq 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238449",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-zaqaziq-2/238449?b=139&k=16582&l=search",
+	"arName":"., الزقازيق, الشرقية",
+	"lat":"30.590351999999999",
+	"lng":"31.503945000000002",
+	"enName":"., El zagazig, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز قنا",
+	"enName":"Civil Registry - Markaz Qena",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238569",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-qena/238569?b=196&k=16582&l=search",
+	"arName":"الشئون, وسط البلد, قنا",
+	"lat":"26.181940999999998",
+	"lng":"32.749619000000003",
+	"enName":"El Shooun, Downtown, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - النزهة",
+	"enName":"Civil Registry - El Nozha",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197594",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-nozha/197594?b=112&k=16582&l=search",
+	"arName":"90 ش عبد العزيز فهمى, سانت فاتيما, مصر الجديدة, القاهرة",
+	"lat":"30.107026000000001",
+	"lng":"31.341294999999999",
+	"enName":"90 Abdel Aziz Fahmy St., Saint Fatima, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - محلة دمنه",
+	"enName":"Civil Registry - Mahallet Demnh",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238568",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-mahallet-demnh/238568?b=182&k=16582&l=search",
+	"arName":"محلة دمنه, المنصورة, الدقهلية",
+	"lat":"31.071795000000002",
+	"lng":"31.493248000000001",
+	"enName":"Mahallet Demnh, El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - باريس",
+	"enName":"Civil Registry - Paris",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436974",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-paris/436974?b=223&k=16582&l=search",
+	"arName":"., باريس, الوادى الجديد",
+	"lat":"24.686772000000001",
+	"lng":"30.599170999999998",
+	"enName":"., Paris, El wadi el gadid"
+}
+	]
+}, {	"arName":"السجل المدنى - القناطر الخيرية",
+	"enName":"Civil Registry - El Qanater El Khaireya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225260",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-qanater-el-khaireya/225260?b=116&k=16582&l=search",
+	"arName":"التقسيم السياحى, القناطر الخيرية, القليوبية",
+	"lat":"30.190365",
+	"lng":"31.141691000000002",
+	"enName":"Touristic Division, El qanatir el khayriyah, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - البساتين",
+	"enName":"Civil Registry - El Bassateen",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197477",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-bassateen/197477?b=75&k=16582&l=search",
+	"arName":"ش مهران, البساتين, القاهرة",
+	"lat":"29.990769",
+	"lng":"31.267213000000002",
+	"enName":"Mahran St., El bassateen, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - كفر داوود",
+	"enName":"Civil Registry - Kafr Dawoud",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-kafr-dawoud/436970?b=167&k=16582&l=search",
+	"arName":"., مدينة السادات, المنوفية",
+	"lat":"30.467258999999999",
+	"lng":"30.829518",
+	"enName":"., Sadat city, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الشهداء",
+	"enName":"Civil Registry - El Shohadaa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-shohadaa/238365?b=131&k=16582&l=search",
+	"arName":"ش مجلس المدينة, الشهداء, المنوفية",
+	"lat":"30.590606999999999",
+	"lng":"30.899466",
+	"enName":"Magles El Madina St., El shohadaa, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو كبير",
+	"enName":"Civil Registry - Abou kabir",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-kabir/238484?b=10&k=16582&l=search",
+	"arName":"ش عبد العزيز على, ابو كبير, الشرقية",
+	"lat":"30.731884000000001",
+	"lng":"31.669991",
+	"enName":"Abdel Aziz Aly st., Abou kebeir, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - منوف",
+	"enName":"Civil Registry - Menouf",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238363",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-menouf/238363?b=210&k=16582&l=search",
+	"arName":"ش الجمهورية, منوف, المنوفية",
+	"lat":"30.455772",
+	"lng":"30.930993000000001",
+	"enName":"El Gomhoureya St., Minuf, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - مدينة السادات",
+	"enName":"Civil Registry - El Sadat City",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238368",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-sadat-city/238368?b=123&k=16582&l=search",
+	"arName":"ش عمر بن الخطاب, مدينة السادات, المنوفية",
+	"lat":"30.371122",
+	"lng":"30.502572000000001",
+	"enName":"Omar Ibn El Khattab St., Sadat city, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - اشمون",
+	"enName":"Civil Registry - Ashmoun",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238361",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-ashmoun/238361?b=22&k=16582&l=search",
+	"arName":"ش صلاح الدين, اشمون, المنوفية",
+	"lat":"30.299887200000001",
+	"lng":"30.978470699999999",
+	"enName":"Salah El Din St., Ashmoun, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - بركة السبع",
+	"enName":"Civil Registry - Berket El Sabaa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238360",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-berket-el-sabaa/238360?b=45&k=16582&l=search",
+	"arName":"ش المركز, بركة السبع, المنوفية",
+	"lat":"30.637978",
+	"lng":"31.085936",
+	"enName":"El Markaz St., Berket el sabaa, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الجمرك",
+	"enName":"Civil Registry - El Gomrok",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225295",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-gomrok/225295?b=84&k=16582&l=search",
+	"arName":"., الانفوشى, الاسكندرية",
+	"lat":"31.210146999999999",
+	"lng":"29.881896999999999",
+	"enName":"., El anfoushi, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - مغاغة",
+	"enName":"Civil Registry - Magaghah",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-magaghah/238910?b=180&k=16582&l=search",
+	"arName":"عزبة جليين, مغاغة, المنيا",
+	"lat":"28.654778",
+	"lng":"30.838357999999999",
+	"enName":"Ezzbet Geleyin, Magaghah, El menia"
+}
+	]
+}, {	"arName":"السجل المدنى - الكوثر",
+	"enName":"Civil Registry - El Kawthar",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437579",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-kawthar/437579?b=89&k=16582&l=search",
+	"arName":"ش اخناتون, الكوثر, سوهاج",
+	"lat":"26.614115999999999",
+	"lng":"31.782475999999999",
+	"enName":"Ekhnatoun St., El kawther, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - كرموز",
+	"enName":"Civil Registry - Karmouz",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225293",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-karmouz/225293?b=174&k=16582&l=search",
+	"arName":"ش السوق - ضيافة الخشب, كرموز, الاسكندرية",
+	"lat":"31.181961000000001",
+	"lng":"29.899407",
+	"enName":"El Souk St., Deyafet El Khashab, Karmouz, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - المحمودية",
+	"enName":"Civil Registry - El Mahmoudeya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-mahmoudeya/238915?b=97&k=16582&l=search",
+	"arName":"مساكن مجلس المدينة - - حى الزهور, المحمودية, البحيرة",
+	"lat":"31.179721000000001",
+	"lng":"30.520413000000001",
+	"enName":"Magles El Madina Bldgs., , El Zohour District, El mahmoudeya, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - الوايلى",
+	"enName":"Civil Registry - El Waily",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-waily/197564?b=134&k=16582&l=search",
+	"arName":"ش الجيش, عباسية, القاهرة",
+	"lat":"30.068280999999999",
+	"lng":"31.279857",
+	"enName":"El Guish St., Abbasseya, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - ملوى",
+	"enName":"Civil Registry - Mallawy",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238914",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-mallawy/238914?b=183&k=16582&l=search",
+	"arName":"عمارات التأمين الصحى -, ملوى, المنيا",
+	"lat":"27.738225",
+	"lng":"30.835303",
+	"enName":"El Taamin El Sehy Bldgs.,, Mallawi, El menia"
+}
+	]
+}, {	"arName":"السجل المدنى - بندر جرجا",
+	"enName":"Civil Registry - Bandar Gerga",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bandar-gerga/437575?b=35&k=16582&l=search",
+	"arName":"ش مصطفى كامل, جرجا, سوهاج",
+	"lat":"26.341460000000001",
+	"lng":"31.889323999999998",
+	"enName":"Mostafa Kamel St., Gerga, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - دراو",
+	"enName":"Civil Registry - Daraw",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239201",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-daraw/239201?b=53&k=16582&l=search",
+	"arName":"ش الشيخ عامر, دروه, اسوان",
+	"lat":"24.405874000000001",
+	"lng":"32.922232999999999",
+	"enName":"El Sheikh Amer St., Daraw, Aswan"
+}
+	]
+}, {	"arName":"السجل المدنى - الابراهيمية",
+	"enName":"Civil Registry - El Ibrahimeya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238474",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-ibrahimeya/238474?b=88&k=16582&l=search",
+	"arName":"طريق ههيا الابراهيمية, الابراهيمية, الشرقية",
+	"lat":"30.716418999999998",
+	"lng":"31.565643999999999",
+	"enName":"Hehia El Ibrahimeya Rd., El ibrahimeya, El sharkeya"
+},
+		{	"profileId":"225301",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-ibrahimeya/225301?b=87&k=16582&l=search",
+	"arName":"ش محمد محمد الفحام متفرع من طريق الحرية, الابراهيمية, الاسكندرية",
+	"lat":"31.210273999999998",
+	"lng":"29.929667999999999",
+	"enName":"Mohamed Mohamed El Fahham St. Off El Horreya Rd., El ibrahimeya, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - تلا",
+	"enName":"Civil Registry - Tala",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-tala/238352?b=255&k=16582&l=search",
+	"arName":"ش المركز الجديد, تلا, المنوفية",
+	"lat":"30.684835",
+	"lng":"30.949107000000001",
+	"enName":"El Markaz El Gadid St., Tala, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - بهوت",
+	"enName":"Civil Registry - Bohout",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437437",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bohout/437437?b=47&k=16582&l=search",
+	"arName":"قرية بهوت, المنصورة, الدقهلية",
+	"lat":"31.136541000000001",
+	"lng":"31.325165999999999",
+	"enName":"Bohout Village, El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - سرس الليان",
+	"enName":"Civil Registry - Sars El Leyan",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238358",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sars-el-leyan/238358?b=239&k=16582&l=search",
+	"arName":"ش بورسعيد, سرس الليان, المنوفية",
+	"lat":"30.443811",
+	"lng":"30.958282000000001",
+	"enName":"Port Said st., Sars ellayan, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - ههيا",
+	"enName":"Civil Registry - Hehia",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238478",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-hehia/238478?b=156&k=16582&l=search",
+	"arName":"ش المركز, ههيا, الشرقية",
+	"lat":"30.673575",
+	"lng":"31.585885999999999",
+	"enName":"El Markaz st., Hehia, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - جمصة",
+	"enName":"Civil Registry - Gamasa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-gamasa/437439?b=150&k=16582&l=search",
+	"arName":"., جمصة, الدقهلية",
+	"lat":"31.443321999999998",
+	"lng":"31.539591000000001",
+	"enName":"., Gamasa, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - باب شرق",
+	"enName":"Civil Registry - Bab Sharq",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225954",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bab-sharq/225954?b=29&k=16582&l=search",
+	"arName":"ش الحضرة القديمة, باب شرق, الاسكندرية",
+	"lat":"31.178594",
+	"lng":"29.881098000000001",
+	"enName":"El Hadra El Qadima St., Bab shark, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - شبرا الخيمة 2",
+	"enName":"Civil Registry - Shoubra El Khaima 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-shoubra-el-khaima-2/225952?b=247&k=16582&l=search",
+	"arName":"54 مساكن الخزف والصينى -, مسطرد, القليوبية",
+	"lat":"30.119674",
+	"lng":"31.254128000000001",
+	"enName":"54 El Khazaf & El Seiny Bldgs.,, Mostorod, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الباجور",
+	"enName":"Civil Registry - El Bagour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238350",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-bagour/238350?b=72&k=16582&l=search",
+	"arName":"ش كمال الشاذلى - ش الجيش سابقا, الباجور, المنوفية",
+	"lat":"30.427406999999999",
+	"lng":"31.036843999999999",
+	"enName":"Kamal El Shazly St. - El Guish St. Previously, El bagour, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - دشنا",
+	"enName":"Civil Registry - Deshna",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238591",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-deshna/238591?b=57&k=16582&l=search",
+	"arName":"ش المحطة القديم, دشنا, قنا",
+	"lat":"26.120688000000001",
+	"lng":"32.463144",
+	"enName":"El Mahatta El Qadim St., Deshna, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - سيدى بشر",
+	"enName":"Civil Registry - Sidi Beshr",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225957",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sidi-beshr/225957?b=249&k=16582&l=search",
+	"arName":"., سيدى بشر, الاسكندرية",
+	"lat":"31.268062",
+	"lng":"29.988405",
+	"enName":"., Sidi beshr, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - المفروزة",
+	"enName":"Civil Registry - El Mafrouza",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-mafrouza/225955?b=94&k=16582&l=search",
+	"arName":"ش المكس, المفروزة, الاسكندرية",
+	"lat":"31.177765999999998",
+	"lng":"29.880371",
+	"enName":"El Max St., El mafrouza, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - بندر المنيا",
+	"enName":"Civil Registry - Bandar El Menia",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238908",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bandar-el-menia/238908?b=33&k=16582&l=search",
+	"arName":"ارض المولد, وسط البلد, المنيا",
+	"lat":"28.086576999999998",
+	"lng":"30.763470999999999",
+	"enName":"Ard El Mawled, Downtown, El menia"
+}
+	]
+}, {	"arName":"السجل المدنى - باب الشعرية",
+	"enName":"Civil Registry - Bab El Shaareya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bab-el-shaareya/197573?b=28&k=16582&l=search",
+	"arName":"ش الدرب الاحمر, الدرب الاحمر, القاهرة",
+	"lat":"30.042428999999998",
+	"lng":"31.258367",
+	"enName":"El Darb El Ahmar St., El darb el ahmar, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - اولاد صقر",
+	"enName":"Civil Registry - Awlad Saqr",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-awlad-saqr/238469?b=26&k=16582&l=search",
+	"arName":"ش البحر, اولاد صقر, الشرقية",
+	"lat":"30.926499",
+	"lng":"31.695633999999998",
+	"enName":"El Bahr St., Awlad saqr, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز شبين الكوم",
+	"enName":"Civil Registry - Markaz Shebin El Koum",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238348",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-shebin-el-koum/238348?b=197&k=16582&l=search",
+	"arName":"., شبين الكوم, المنوفية",
+	"lat":"30.564919",
+	"lng":"31.000392999999999",
+	"enName":"., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - شبرا",
+	"enName":"Civil Registry - Shoubra",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197451",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-shoubra/197451?b=245&k=16582&l=search",
+	"arName":"ش ارض الطويل متفرع من ش الترعة البولاقية, شبرا, القاهرة",
+	"lat":"30.066649000000002",
+	"lng":"31.246607000000001",
+	"enName":"Ard El Taweel St. Off El Teraa El Boulaqeya st., Shoubra, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - اجا",
+	"enName":"Civil Registry - Aga",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437440",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-aga/437440?b=17&k=16582&l=search",
+	"arName":"المساكن الشعبية -, اجا, الدقهلية",
+	"lat":"30.94303",
+	"lng":"31.293429",
+	"enName":"Public Bldgs.,, Aga, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - الموسكى",
+	"enName":"Civil Registry - El Mousky",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197577",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-mousky/197577?b=109&k=16582&l=search",
+	"arName":"2 ميدان العتبة, العتبة, القاهرة",
+	"lat":"30.049661",
+	"lng":"31.249905999999999",
+	"enName":"2 Ataba Sq., Ataba, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز المنيا",
+	"enName":"Civil Registry - Markaz El Menia",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238905",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-el-menia/238905?b=190&k=16582&l=search",
+	"arName":"قرية ماقوسة, وسط البلد, المنيا",
+	"lat":"28.069443",
+	"lng":"30.764873000000001",
+	"enName":"Maqusah Village, Downtown, El menia"
+}
+	]
+}, {	"arName":"السجل المدنى - الساحل",
+	"enName":"Civil Registry - El Sahel",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197457",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-sahel/197457?b=125&k=16582&l=search",
+	"arName":"ش احمد حلمى ميدان فيكتوريا, الساحل, القاهرة",
+	"lat":"30.086898999999999",
+	"lng":"31.255064999999998",
+	"enName":"Ahmed Helmy st. Victoria Sq., El sahel, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - الضواحى",
+	"enName":"Civil Registry - El Dawahy",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238387",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-dawahy/238387?b=78&k=16582&l=search",
+	"arName":"امتداد ش اسوان, حى الضواحى, بور سعيد",
+	"lat":"31.250021",
+	"lng":"32.281816999999997",
+	"enName":"Extension Of Aswan St., El dawahy district, Port said"
+}
+	]
+}, {	"arName":"السجل المدنى - مبارك",
+	"enName":"Civil Registry - Mubarak",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-mubarak/238385?b=214&k=16582&l=search",
+	"arName":"., حى مبارك, بور سعيد",
+	"lat":"31.077138000000001",
+	"lng":"32.343032999999998",
+	"enName":"., Moubarak district, Port said"
+}
+	]
+}, {	"arName":"السجل المدنى - سنورس",
+	"enName":"Civil Registry - Senoras",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-senoras/239111?b=241&k=16582&l=search",
+	"arName":"ش سعد زغلول متفرع من ش النقراشى, سنورس, الفيوم",
+	"lat":"29.411684999999999",
+	"lng":"30.863803999999998",
+	"enName":"Saad Zaghloul St. Off El Noqrashy St., Sinnuras, El fayoum"
+}
+	]
+}, {	"arName":"السجل المدنى - بور فؤاد",
+	"enName":"Civil Registry - Port Fouad",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238384",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-port-fouad/238384?b=224&k=16582&l=search",
+	"arName":"ش محمد على, بور فؤاد, بور سعيد",
+	"lat":"31.232071000000001",
+	"lng":"32.316248000000002",
+	"enName":"Mohamed Aly St., Port fouad, Port said"
+}
+	]
+}, {	"arName":"السجل المدنى - المناخ",
+	"enName":"Civil Registry - El Manakh",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238382",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-manakh/238382?b=98&k=16582&l=search",
+	"arName":"., حى المناخ, بور سعيد",
+	"lat":"31.268269",
+	"lng":"32.288041999999997",
+	"enName":"., El manakh district, Port said"
+}
+	]
+}, {	"arName":"السجل المدنى - حى شرق",
+	"enName":"Civil Registry - East District",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238381",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-east-district/238381?b=60&k=16582&l=search",
+	"arName":"ش رمسيس تقاطع ش مصطفى كامل, حى الشرق, بور سعيد",
+	"lat":"31.259270999999998",
+	"lng":"32.305413999999999",
+	"enName":"Ramsis St. Intersection Of Mostafa Kamel St., El shark district, Port said"
+}
+	]
+}, {	"arName":"السجل المدنى - الزهور",
+	"enName":"Civil Registry - El Zohour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238380",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-zohour/238380?b=141&k=16582&l=search",
+	"arName":"مساكن عمر بن الخطاب -, حى الزهور, بور سعيد",
+	"lat":"31.260505999999999",
+	"lng":"32.264777000000002",
+	"enName":"Omar Ibn El Khattab Bldgs.,, El zohour district, Port said"
+}
+	]
+}, {	"arName":"السجل المدنى - الظاهر",
+	"enName":"Civil Registry - El Zaher",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-zaher/197549?b=137&k=16582&l=search",
+	"arName":"ش السكاكينى ميدان السكاكينى, الظاهر, القاهرة",
+	"lat":"30.064748000000002",
+	"lng":"31.265163999999999",
+	"enName":"El Sakakiny St. El Sakakiny Sq., El zaher, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - الجيزة",
+	"enName":"Civil Registry - Giza",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225076",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-giza/225076?b=154&k=16582&l=search",
+	"arName":"ش البحر الاعظم, الجيزة, الجيزة",
+	"lat":"30.010005",
+	"lng":"31.217925000000001",
+	"enName":"El Bahr El Aazam St., Giza, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - بنى مزار",
+	"enName":"Civil Registry - Bani Mazar",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238939",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bani-mazar/238939?b=39&k=16582&l=search",
+	"arName":"طريق مصر اسوان الزراعى, بنى مزار, المنيا",
+	"lat":"28.497474",
+	"lng":"30.804478",
+	"enName":"Misr Aswan Agricultural Rd., Bani mazar, El menia"
+}
+	]
+}, {	"arName":"السجل المدنى - امبابة",
+	"enName":"Civil Registry - Imbaba",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-imbaba/225074?b=163&k=16582&l=search",
+	"arName":"كورنيش النيل, امبابة, الجيزة",
+	"lat":"30.075248999999999",
+	"lng":"31.221519000000001",
+	"enName":"Corniche El Nil, Imbaba, Giza"
+},
+		{	"profileId":"225090",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-imbaba/225090?b=164&k=16582&l=search",
+	"arName":"1 ش الحكيم متفرع من ش البوهى, امبابة, الجيزة",
+	"lat":"30.090719",
+	"lng":"31.212543",
+	"enName":"1 El Hakim St. Off El Bouhy St., Imbaba, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - قها",
+	"enName":"Civil Registry - Qaha",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225190",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-qaha/225190?b=225&k=16582&l=search",
+	"arName":"., قها, القليوبية",
+	"lat":"30.284247000000001",
+	"lng":"31.208874999999999",
+	"enName":"., Kaha, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - ساحل سليم",
+	"enName":"Civil Registry - Sahel Selim",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sahel-selim/238934?b=235&k=16582&l=search",
+	"arName":"., ساحل سليم, اسيوط",
+	"lat":"27.062645",
+	"lng":"31.337064000000002",
+	"enName":"., Sahel selim, Assyout"
+}
+	]
+}, {	"arName":"السجل المدنى - صدفا",
+	"enName":"Civil Registry - Sedfa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sedfa/238931?b=240&k=16582&l=search",
+	"arName":"ش السكة الحديد, صدفا, اسيوط",
+	"lat":"26.964527",
+	"lng":"31.378291999999998",
+	"enName":"El Sekka El Hadid St., Sidfa, Assyout"
+}
+	]
+}, {	"arName":"السجل المدنى - طلخا",
+	"enName":"Civil Registry - Talkha",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-talkha/437359?b=256&k=16582&l=search",
+	"arName":"مساكن البلتاجى - ش الشهيد عاطف الشرقاوى, طلخا, الدقهلية",
+	"lat":"31.053571000000002",
+	"lng":"31.377071999999998",
+	"enName":"El Beltagy Bldgs., El Shaheed Atef El Sharqawy St., Talkha, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - عابدين",
+	"enName":"Civil Registry - Abdin",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197544",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abdin/197544?b=5&k=16582&l=search",
+	"arName":"ش الجامع - ش باب باريس سابقا متفرع من ش حسن الاكبر, عابدين, القاهرة",
+	"lat":"30.043659000000002",
+	"lng":"31.249172999999999",
+	"enName":"El Gamea St., Bab Paris St. Previously Off Hassan El Akbar st., Abdin, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - بولاق الدكرور",
+	"enName":"Civil Registry - Boulaq El Dakrour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-boulaq-el-dakrour/225072?b=50&k=16582&l=search",
+	"arName":"ش ترعة الزمر, بولاق الدكرور, الجيزة",
+	"lat":"30.027757999999999",
+	"lng":"31.199798000000001",
+	"enName":"Teraet El Zomor St., Boulak el dakrour, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - ميت ابو خالد",
+	"enName":"Civil Registry - Meet Abou Khaled",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-meet-abou-khaled/437353?b=204&k=16582&l=search",
+	"arName":"ش السوق, ميت غمر, الدقهلية",
+	"lat":"30.645918999999999",
+	"lng":"31.332774000000001",
+	"enName":"El Souk St., Mit ghamr, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو النمرس",
+	"enName":"Civil Registry - Abou El Nomros",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-el-nomros/225071?b=7&k=16582&l=search",
+	"arName":"., ابو النمرس, الجيزة",
+	"lat":"29.957550999999999",
+	"lng":"31.212758999999998",
+	"enName":"., Abou el nomrous, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - البدرشين",
+	"enName":"Civil Registry - El Badrasheen",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-badrasheen/225070?b=71&k=16582&l=search",
+	"arName":"ش اثار سقارة, البدرشين, الجيزة",
+	"lat":"29.847358",
+	"lng":"31.273918999999999",
+	"enName":"Athar Saqqara St., El badrashin, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - الصالحية الجديدة",
+	"enName":"Civil Registry - El Saleheya El Gadida",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238497",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-saleheya-el-gadida/238497?b=126&k=16582&l=search",
+	"arName":"ش مجمع المصالح المجاورة الثامنة, الصالحية الجديدة, الشرقية",
+	"lat":"30.631917999999999",
+	"lng":"31.941020999999999",
+	"enName":"Mogamaa El Masaleh st. 8th Neighbourhood, El salheya el gadida, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - القرين",
+	"enName":"Civil Registry - El Qoreen",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-qoreen/238494?b=118&k=16582&l=search",
+	"arName":"ش المركز - الشيخة حمدة, القرين, الشرقية",
+	"lat":"30.613306000000001",
+	"lng":"31.737949",
+	"enName":"El Markaz St., El Sheikha Hamdah, El koreen, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو تيج",
+	"enName":"Civil Registry - Abou Tig",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238930",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-tig/238930?b=16&k=16582&l=search",
+	"arName":"مساكن المدينة - الطريق السريع, ابو تيج, اسيوط",
+	"lat":"27.048828",
+	"lng":"31.313382000000001",
+	"enName":"El Madina Bldgs., High Rd., Abou tig, Assyout"
+}
+	]
+}, {	"arName":"السجل المدنى - المحلة 2",
+	"enName":"Civil Registry - El Mahlla 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436800",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-mahlla-2/436800?b=96&k=16582&l=search",
+	"arName":"مجمع الاحوال المدنية, المحلة الكبرى, الغربية",
+	"lat":"30.974564000000001",
+	"lng":"31.166564999999999",
+	"enName":"Civil Status Complex, El mahalla el kobra, El gharbeya"
+}
+	]
+}, {	"arName":"ادارة الاحوال المدنية - بورسعيد",
+	"enName":"Civil Status Administration - Port Said",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238379",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-administration-_-port-said/238379?b=273&k=16582&l=search",
+	"arName":"امتداد ش كسرى, حى الزهور, بور سعيد",
+	"lat":"31.271253999999999",
+	"lng":"32.277017999999998",
+	"enName":"Extension Of Kesra St., El zohour district, Port said"
+}
+	]
+}, {	"arName":"السجل المدنى - حى السويس",
+	"enName":"Civil Registry - Suez District",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-suez-district/238378?b=253&k=16582&l=search",
+	"arName":"ش طه الحكيم, حى السويس, السويس",
+	"lat":"29.969211000000001",
+	"lng":"32.554819000000002",
+	"enName":"Taha El Hakim St., Suez district, Suez"
+}
+	]
+}, {	"arName":"ادارة الاحوال المدنية - السويس",
+	"enName":"Civil Status Administration - Suez",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238372",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-administration-_-suez/238372?b=274&k=16582&l=search",
+	"arName":"مدينة المستقبل 1, فيصل, السويس",
+	"lat":"29.997171000000002",
+	"lng":"32.512583999999997",
+	"enName":"El Mostqbal 1 City, Faisal, Suez"
+}
+	]
+}, {	"arName":"السجل المدنى - قويسنا",
+	"enName":"Civil Registry - Quesna",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238371",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-quesna/238371?b=231&k=16582&l=search",
+	"arName":"ش بورسعيد, قويسنا, المنوفية",
+	"lat":"30.543810000000001",
+	"lng":"31.132805000000001",
+	"enName":"Port Said St., Quwasnah, El monofeya"
+}
+	]
+}, {	"arName":"السجل المدنى - مشتول السوق",
+	"enName":"Civil Registry - Mashtoul El Souk",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-mashtoul-el-souk/238491?b=202&k=16582&l=search",
+	"arName":"ش المركز, مشتول السوق, الشرقية",
+	"lat":"30.359324000000001",
+	"lng":"31.382109",
+	"enName":"El Markaz St., Mashtoul el souk, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - اطفيح",
+	"enName":"Civil Registry - Atfih",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-atfih/437346?b=24&k=16582&l=search",
+	"arName":"., اطفيح, الجيزة",
+	"lat":"29.313472000000001",
+	"lng":"31.238934",
+	"enName":"., Atfih, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - ديروط",
+	"enName":"Civil Registry - Dayrout",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238922",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-dayrout/238922?b=54&k=16582&l=search",
+	"arName":"., ديروط, اسيوط",
+	"lat":"27.550712000000001",
+	"lng":"30.820447000000001",
+	"enName":"., Dayrut, Assyout"
+}
+	]
+}, {	"arName":"السجل المدنى - البدارى",
+	"enName":"Civil Registry - El Badary",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-badary/238921?b=70&k=16582&l=search",
+	"arName":"., البدارى, اسيوط",
+	"lat":"26.998664000000002",
+	"lng":"31.406760999999999",
+	"enName":"., El badary, Assyout"
+}
+	]
+}, {	"arName":"السجل المدنى - الواحات البحرية",
+	"enName":"Civil Registry - El Wahat El Bahareya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437347",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-wahat-el-bahareya/437347?b=133&k=16582&l=search",
+	"arName":"الباويطى, الواحات البحرية, الواحات البحرية",
+	"lat":"28.349827999999999",
+	"lng":"28.867740999999999",
+	"enName":"El Bawity, Baharia oasis, Baharia oasis"
+}
+	]
+}, {	"arName":"السجل المدنى - شبلنجة",
+	"enName":"Civil Registry - Sheblenga",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437105",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-sheblenga/437105?b=243&k=16582&l=search",
+	"arName":"., بنها, القليوبية",
+	"lat":"30.475646999999999",
+	"lng":"31.263922000000001",
+	"enName":"., Banha, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الغنايم",
+	"enName":"Civil Registry - El Ghanayem",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238927",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-ghanayem/238927?b=83&k=16582&l=search",
+	"arName":"., الغنايم, اسيوط",
+	"lat":"26.882966",
+	"lng":"31.319994000000001",
+	"enName":"., El ghanayem, Assyout"
+}
+	]
+}, {	"arName":"السجل المدنى - العسيرات",
+	"enName":"Civil Registry - El Osayrat",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-osayrat/437584?b=115&k=16582&l=search",
+	"arName":"., المنشاه, سوهاج",
+	"lat":"26.392951",
+	"lng":"31.823188999999999",
+	"enName":"., El manshah, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - القنايات",
+	"enName":"Civil Registry - El Qenayat",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437100",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-qenayat/437100?b=117&k=16582&l=search",
+	"arName":"مساكن مجلس المدينة -, القنايات, الشرقية",
+	"lat":"30.616206999999999",
+	"lng":"31.461006000000001",
+	"enName":"Magles El Madina Bldgs.,, El kenayat, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - منفلوط",
+	"enName":"Civil Registry - Manfalout",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238926",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-manfalout/238926?b=184&k=16582&l=search",
+	"arName":"., منفلوط, اسيوط",
+	"lat":"27.310015",
+	"lng":"30.966131000000001",
+	"enName":"., Manfalut, Assyout"
+}
+	]
+}, {	"arName":"السجل المدنى - صان الحجر",
+	"enName":"Civil Registry - San El Hagar",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437101",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-san-el-hagar/437101?b=237&k=16582&l=search",
+	"arName":"., الحسينية, الشرقية",
+	"lat":"30.973818999999999",
+	"lng":"31.868312",
+	"enName":"., Al huseineya, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - طوخ",
+	"enName":"Civil Registry - Toukh",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225181",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-toukh/225181?b=262&k=16582&l=search",
+	"arName":"ش الشهيد احمد عبد العزيز, طوخ, القليوبية",
+	"lat":"30.358421",
+	"lng":"31.197164000000001",
+	"enName":"El Shaheed Ahmed Abdel Aziz St., Tukh, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - العبور",
+	"enName":"Civil Registry - El Obour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437102",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-obour/437102?b=113&k=16582&l=search",
+	"arName":"محلية 5 - - الحى الاول, مدينة العبور, القليوبية",
+	"lat":"30.236142000000001",
+	"lng":"31.473396999999999",
+	"enName":"Mahaleya 5, , 1St District, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - المقاطعة",
+	"enName":"Civil Registry - El Moqataa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-moqataa/437409?b=108&k=16582&l=search",
+	"arName":"قرية المقاطعة, السنبلاوين, الدقهلية",
+	"lat":"30.895667",
+	"lng":"31.557373999999999",
+	"enName":"El Moqataah Village, As sinbillawain, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو صوير",
+	"enName":"Civil Registry - Abou Swair",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239139",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-swair/239139?b=14&k=16582&l=search",
+	"arName":"., ابو سوير المحطة, ابو صوير المحطة, الاسماعيلية",
+	"lat":"30.562566",
+	"lng":"32.116191000000001",
+	"enName":"., Abou sweir el mahatta, Ismaileya"
+}
+	]
+}, {	"arName":"السجل المدنى - كفر الزيات",
+	"enName":"Civil Registry - Kafr El Zayyat",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-kafr-el-zayyat/238721?b=170&k=16582&l=search",
+	"arName":"الجزيرة, كفر الزيات, الغربية",
+	"lat":"30.818722999999999",
+	"lng":"30.814088000000002",
+	"enName":"El Gezirah, Kafr el zayat, El gharbeya"
+}
+	]
+}, {	"arName":"السجل المدنى - زفتى",
+	"enName":"Civil Registry - Zefta",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-zefta/238720?b=267&k=16582&l=search",
+	"arName":"ش الجيش, زفتى, الغربية",
+	"lat":"30.712021",
+	"lng":"31.241505",
+	"enName":"El Guish St., Zefta, El gharbeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الاسماعيلية 3",
+	"enName":"Civil Registry - Ismaileya 3",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-ismaileya-3/239137?b=165&k=16582&l=search",
+	"arName":"ش 7, الشيخ زايد, الاسماعيلية",
+	"lat":"30.602478000000001",
+	"lng":"32.293011",
+	"enName":"Rd. 7, El sheikh zayed, Ismaileya"
+}
+	]
+}, {	"arName":"السجل المدنى - الزيتون",
+	"enName":"Civil Registry - El Zaitoun",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"224797",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-zaitoun/224797?b=138&k=16582&l=search",
+	"arName":"ش زغلول متفرع من ش طومانباى - حى الزيتون, الزيتون, القاهرة",
+	"lat":"30.102181000000002",
+	"lng":"31.316189000000001",
+	"enName":"Zaghloul St. Off Tomanbay St., El Zaitoun District, El zaytoun, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - الدخيلة",
+	"enName":"Civil Registry - El Dekhaila",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225401",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-dekhaila/225401?b=79&k=16582&l=search",
+	"arName":"., الدخيلة, الاسكندرية",
+	"lat":"31.124213000000001",
+	"lng":"29.812280999999999",
+	"enName":"., El dekheila, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - فيدمين",
+	"enName":"Civil Registry - Faidameen",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239131",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-faidameen/239131?b=144&k=16582&l=search",
+	"arName":"., السيالة, الفيوم",
+	"lat":"29.377089000000002",
+	"lng":"30.780003000000001",
+	"enName":"., Saylah, El fayoum"
+}
+	]
+}, {	"arName":"السجل المدنى - يوسف الصديق",
+	"enName":"Civil Registry - Youssef El Seddik",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239130",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-youssef-el-seddik/239130?b=266&k=16582&l=search",
+	"arName":"., يوسف الصديق, الفيوم",
+	"lat":"29.362677000000001",
+	"lng":"30.444714000000001",
+	"enName":"., Youssef el seddik, El fayoum"
+}
+	]
+}, {	"arName":"السجل المدنى - منشية ناصر",
+	"enName":"Civil Registry - Mansheyet Nasser",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"438065",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-mansheyet-nasser/438065?b=186&k=16582&l=search",
+	"arName":"14 مساكن سوزان مبارك - - الدويقة, منشية ناصر, القاهرة",
+	"lat":"30.038771000000001",
+	"lng":"31.301182000000001",
+	"enName":"14 Suzan Mubarak Bldgs., , El Dewaiqa, Mansheyet nasser, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - المحلة الكبرى",
+	"enName":"Civil Registry - El Mahalla El Kobra",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238719",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-mahalla-el-kobra/238719?b=95&k=16582&l=search",
+	"arName":"., المحلة الكبرى, الغربية",
+	"lat":"30.975023",
+	"lng":"31.166972999999999",
+	"enName":"., El mahalla el kobra, El gharbeya"
+}
+	]
+}, {	"arName":"السجل المدنى - قصر النيل",
+	"enName":"Civil Registry - Kasr El Nil",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"193721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-kasr-el-nil/193721?b=175&k=16582&l=search",
+	"arName":"11 ش عائشة التيمورية , جاردن سيتى, القاهرة",
+	"lat":"30.034904999999998",
+	"lng":"31.231323",
+	"enName":"11 Aaesha El Taymoureya St., Garden city, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - ساقلتة",
+	"enName":"Civil Registry - Saqolta",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238712",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-saqolta/238712?b=238&k=16582&l=search",
+	"arName":"ش 23 يوليو, ساقلتة, سوهاج",
+	"lat":"26.660620999999999",
+	"lng":"31.673209",
+	"enName":"23rd Of July St., Saqulta, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - طامية",
+	"enName":"Civil Registry - Tamyah",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239129",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-tamyah/239129?b=258&k=16582&l=search",
+	"arName":"ش الجبالاية, طامية, الفيوم",
+	"lat":"29.470556999999999",
+	"lng":"30.956666999999999",
+	"enName":"El Gabalaya St., Tamyah, El fayoum"
+}
+	]
+}, {	"arName":"السجل المدنى - منشأة ابو عمر",
+	"enName":"Civil Registry - Manshaet Abou Omar",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437099",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-manshaet-abou-omar/437099?b=185&k=16582&l=search",
+	"arName":"., الحسينية, الشرقية",
+	"lat":"30.908346000000002",
+	"lng":"32.022359000000002",
+	"enName":"., Al huseineya, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - بنى عبيد",
+	"enName":"Civil Registry - Bani Ebaid",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238717",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bani-ebaid/238717?b=38&k=16582&l=search",
+	"arName":"., المنصورة, الدقهلية",
+	"lat":"31.021605000000001",
+	"lng":"31.649025999999999",
+	"enName":"., El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - الشرابية",
+	"enName":"Civil Registry - El Sharabeya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197641",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-sharabeya/197641?b=129&k=16582&l=search",
+	"arName":"ش الشركات, الشرابية, القاهرة",
+	"lat":"30.072717999999998",
+	"lng":"31.265874",
+	"enName":"El Sharekat st., El sharabeya, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - ميت سلسيل",
+	"enName":"Civil Registry - Meet Salsil",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-meet-salsil/238715?b=207&k=16582&l=search",
+	"arName":"., ميت سلسيل, الدقهلية",
+	"lat":"31.166430999999999",
+	"lng":"31.807206000000001",
+	"enName":"., Mit salsil, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - اطسا",
+	"enName":"Civil Registry - Atsa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239128",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-atsa/239128?b=25&k=16582&l=search",
+	"arName":"., اطسا, الفيوم",
+	"lat":"29.240735000000001",
+	"lng":"30.794910999999999",
+	"enName":"., Atsa, El fayoum"
+}
+	]
+}, {	"arName":"السجل المدنى - بلقاس",
+	"enName":"Civil Registry - Belqas",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436788",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-belqas/436788?b=43&k=16582&l=search",
+	"arName":"., بلقاس, الدقهلية",
+	"lat":"31.218551999999999",
+	"lng":"31.353894",
+	"enName":"., Belqas, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - دير مواس",
+	"enName":"Civil Registry - Deir Mawas",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-deir-mawas/238952?b=55&k=16582&l=search",
+	"arName":"ش المركز, دير مواس, المنيا",
+	"lat":"27.642852000000001",
+	"lng":"30.856528000000001",
+	"enName":"El Markaz St., Dayr mawas, El menia"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز الفيوم",
+	"enName":"Civil Registry - Markaz El Fayyoum",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-el-fayyoum/239126?b=189&k=16582&l=search",
+	"arName":"., الحادقة, الفيوم",
+	"lat":"29.307003000000002",
+	"lng":"30.855371000000002",
+	"enName":"., El hadkah, El fayoum"
+}
+	]
+}, {	"arName":"السجل المدنى - عتاقة",
+	"enName":"Civil Registry - Ataqa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436549",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-ataqa/436549?b=23&k=16582&l=search",
+	"arName":"., عتاقة, السويس",
+	"lat":"29.945941000000001",
+	"lng":"32.490713",
+	"enName":"., Ataka, Suez"
+}
+	]
+}, {	"arName":"مصلحة الاحوال المدنية",
+	"enName":"Civil Status Authority",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"66509",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-authority/66509?b=275&k=16582&l=search",
+	"arName":"امتداد ش رمسيس , عباسية, القاهرة",
+	"lat":"30.071593",
+	"lng":"31.288329000000001",
+	"enName":"Extension Of Ramsis St. , Abbasseya, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - الدرب الاحمر",
+	"enName":"Civil Registry - El Darb El Ahmar",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-darb-el-ahmar/197537?b=77&k=16582&l=search",
+	"arName":"ميدان الحلمية الجديدة, الدرب الاحمر, القاهرة",
+	"lat":"30.037274",
+	"lng":"31.251981000000001",
+	"enName":"El Helmeya El Gadida sq., El darb el ahmar, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - دار السلام",
+	"enName":"Civil Registry - Dar El Salam",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238708",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-dar-el-salam/238708?b=52&k=16582&l=search",
+	"arName":"ش المركز, دار السلام, سوهاج",
+	"lat":"26.277225000000001",
+	"lng":"32.053488999999999",
+	"enName":"El Markaz St., Dar el salam, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - الدقى",
+	"enName":"Civil Registry - Dokki",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225085",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-dokki/225085?b=59&k=16582&l=search",
+	"arName":"ش المساحة, الدقى, الجيزة",
+	"lat":"30.039200999999998",
+	"lng":"31.218675999999999",
+	"enName":"El Messaha St., Dokki, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - بشبيش",
+	"enName":"Civil Registry - Beshbish",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436795",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-beshbish/436795?b=46&k=16582&l=search",
+	"arName":"قرية بشبيش, المحلة الكبرى, الغربية",
+	"lat":"31.114212999999999",
+	"lng":"31.194648000000001",
+	"enName":"Beshbish Village, El mahalla el kobra, El gharbeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الازبكية",
+	"enName":"Civil Registry - El Azbakeya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197651",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-azbakeya/197651?b=69&k=16582&l=search",
+	"arName":"ش الجلاء ميدان رمسيس, الازبكية, القاهرة",
+	"lat":"30.060321999999999",
+	"lng":"31.244195000000001",
+	"enName":"El Galaa St. Ramsis Sq., El azbakeya, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو قرقاص",
+	"enName":"Civil Registry - Abou Qorqas",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-qorqas/238943?b=12&k=16582&l=search",
+	"arName":"ش الجمهورية, ابو قرقاص, المنيا",
+	"lat":"27.931291000000002",
+	"lng":"30.816974999999999",
+	"enName":"El Gomhoureya St., Abou qurqas, El menia"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز سوهاج",
+	"enName":"Civil Registry - Markaz Sohag",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238707",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-sohag/238707?b=198&k=16582&l=search",
+	"arName":"ش المركز, سوهاج, سوهاج",
+	"lat":"26.553124",
+	"lng":"31.689879000000001",
+	"enName":"El Markaz St., Sohag, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز جرجا",
+	"enName":"Civil Registry - Markaz Gerga",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238743",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-gerga/238743?b=192&k=16582&l=search",
+	"arName":"ترعة الفؤادية, جرجا, سوهاج",
+	"lat":"26.335529999999999",
+	"lng":"31.886901000000002",
+	"enName":"Teraet El Fouadeya, Gerga, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - وادى النطرون",
+	"enName":"Civil Registry - Wadi El Natroun",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238742",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-wadi-el-natroun/238742?b=265&k=16582&l=search",
+	"arName":"الشارع الرئيسى, وادى النطرون, البحيرة",
+	"lat":"30.393761000000001",
+	"lng":"30.370628",
+	"enName":"Main Rd., Wadi el natroun, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - البرامون",
+	"enName":"Civil Registry - El Baramoun",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437428",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-baramoun/437428?b=74&k=16582&l=search",
+	"arName":"., المنصورة, الدقهلية",
+	"lat":"31.120055000000001",
+	"lng":"31.447613",
+	"enName":"., El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"السجل المدنى - حوش عيسى",
+	"enName":"Civil Registry - Housh Eissa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238741",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-housh-eissa/238741?b=160&k=16582&l=search",
+	"arName":"ش الجمهورية, حوش عيسى, البحيرة",
+	"lat":"30.915572000000001",
+	"lng":"30.296664",
+	"enName":"El Gomhoureya St., Housh eissa, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - بندر دمنهور",
+	"enName":"Civil Registry - Bandar Damanhour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238740",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-bandar-damanhour/238740?b=32&k=16582&l=search",
+	"arName":"ش السجن, دمنهور, البحيرة",
+	"lat":"31.039650999999999",
+	"lng":"30.469873",
+	"enName":"El Segn St., Damanhour, El beheira"
+}
+	]
+}, {	"arName":"المركز النموذجى - ستانلى",
+	"enName":"Model Center - Stanly",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225305",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/model-center-_-stanly/225305?b=279&k=16582&l=search",
+	"arName":"31 ش عبد العزيز فهمى, ستانلى, الاسكندرية",
+	"lat":"31.234217000000001",
+	"lng":"29.953016000000002",
+	"enName":"31 Abdel Aziz Fahmy St., Stanly, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - مدينة نصر 1",
+	"enName":"Civil Registry - Nasr City 1",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"194118",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-nasr-city-1/194118?b=218&k=16582&l=search",
+	"arName":"ش النصر, مدينة نصر, القاهرة",
+	"lat":"30.068745",
+	"lng":"31.341118999999999",
+	"enName":"El Nasr St., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - رشيد",
+	"enName":"Civil Registry - Rashid",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238736",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-rashid/238736?b=233&k=16582&l=search",
+	"arName":"ش البحر, رشيد(روسيتا), البحيرة",
+	"lat":"31.404420999999999",
+	"lng":"30.423055999999999",
+	"enName":"El Bahr St., Rashid(roseta), El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - ايتاى البارود",
+	"enName":"Civil Registry - Etay El Baroud",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238735",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-etay-el-baroud/238735?b=143&k=16582&l=search",
+	"arName":"ش الجمهورية, ايتاى البارود, البحيرة",
+	"lat":"30.885356000000002",
+	"lng":"30.665527000000001",
+	"enName":"El Gomhoureya St., Etay el barod, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - الضبعة",
+	"enName":"Civil Registry - El Dabaa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238859",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-dabaa/238859?b=76&k=16582&l=search",
+	"arName":"مساكن مجلس المدينة - - العزبة البحرية, الضبعة, الساحل الشمالى",
+	"lat":"31.039097999999999",
+	"lng":"28.442352",
+	"enName":"Magles El Madina Bldgs., , El Ezzba El Bahareya, El dabaa, North coast"
+}
+	]
+}, {	"arName":"السجل المدنى - الرحمانية",
+	"enName":"Civil Registry - El Rahmaneya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-rahmaneya/238738?b=119&k=16582&l=search",
+	"arName":"ش الشاطئ, الرحمانية, البحيرة",
+	"lat":"31.125997000000002",
+	"lng":"30.630199000000001",
+	"enName":"El Shatea St., El rahmaneya, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - كفر الدوار",
+	"enName":"Civil Registry - Kafr El Dawar",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238737",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-kafr-el-dawar/238737?b=169&k=16582&l=search",
+	"arName":"ش 26 يوليو, كفر الدوار, البحيرة",
+	"lat":"31.132826000000001",
+	"lng":"30.130478",
+	"enName":"26th Of July St., Kafr el dawar, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - قنطرة غرب",
+	"enName":"Civil Registry - Qantarah Gharb",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-qantarah-gharb/239144?b=228&k=16582&l=search",
+	"arName":"عمارات سعد الجندى - - المساكن الجديدة, قنطرة غرب, الاسماعيلية",
+	"lat":"30.855186",
+	"lng":"32.310771000000003",
+	"enName":"Saad El Gendy Bldgs., , El Masaken El Gadida, EL QANTARAH GHARB, Qantarah gharb, Ismaileya"
+}
+	]
+}, {	"arName":"السجل المدنى - طهطا",
+	"enName":"Civil Registry - Tahta",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-tahta/238732?b=254&k=16582&l=search",
+	"arName":"ش السوق البرانى, طهطا, سوهاج",
+	"lat":"26.770104",
+	"lng":"31.491182999999999",
+	"enName":"El Souk El Barrany st., Tahta, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - كوم حمادة",
+	"enName":"Civil Registry - Koum Hamada",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238731",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-koum-hamada/238731?b=177&k=16582&l=search",
+	"arName":"., كوم حمادة, البحيرة",
+	"lat":"30.763092",
+	"lng":"30.694838000000001",
+	"enName":"., Kom hamada, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - الدلنجات",
+	"enName":"Civil Registry - El Delengat",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-delengat/238730?b=80&k=16582&l=search",
+	"arName":"., الدلنجات, البحيرة",
+	"lat":"30.830189000000001",
+	"lng":"30.524046999999999",
+	"enName":"., Ad dilinjat, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - فايد",
+	"enName":"Civil Registry - Fayed",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239141",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-fayed/239141?b=148&k=16582&l=search",
+	"arName":". - مدينة فايد الجديدة, فايد, الاسماعيلية",
+	"lat":"30.318832",
+	"lng":"32.303274000000002",
+	"enName":"., Fayed El Gadida City, Fayed, Ismaileya"
+}
+	]
+}, {	"arName":"السجل المدنى - الجمالية",
+	"enName":"Civil Registry - Gamaleya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197515",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-gamaleya/197515?b=149&k=16582&l=search",
+	"arName":"24 مساكن سوزان مبارك - - الدويقة, منشية ناصر, القاهرة",
+	"lat":"30.041485999999999",
+	"lng":"31.295971999999999",
+	"enName":"24 Suzan Mubarak Bldgs., , El Dowaiqa, Mansheyet nasser, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - المعادى",
+	"enName":"Civil Registry - Maadi",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197519",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-maadi/197519?b=179&k=16582&l=search",
+	"arName":"37 ش 77 متفرع من ش على عبد العزيز, المعادى, القاهرة",
+	"lat":"29.967884999999999",
+	"lng":"31.263513",
+	"enName":"37 Rd. 77 Off Aly Abdel Aziz St., Maadi, Cairo"
+}
+	]
+}, {	"arName":"المركز النموذجى - كامب شيزار",
+	"enName":"Model Center - Camp Shizar",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225300",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/model-center-_-camp-shizar/225300?b=277&k=16582&l=search",
+	"arName":"ش بورسعيد تقاطع ش محمود الخادم, كامب شيزار, الاسكندرية",
+	"lat":"31.214839999999999",
+	"lng":"29.923731",
+	"enName":"Port Said St. Intersection Of Mahmoud El Khadem St., Camp shizar, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - الاذاعة والتليفزيون",
+	"enName":"Civil Registry - TV & Radio",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-tv-&-radio/197759?b=264&k=16582&l=search",
+	"arName":"كورنيش النيل ماسبيرو, بولاق, القاهرة",
+	"lat":"30.052921999999999",
+	"lng":"31.230419000000001",
+	"enName":"Corniche El Nil Maspero, Boulak, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - السنطة",
+	"enName":"Civil Registry - El Santah",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238724",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-santah/238724?b=127&k=16582&l=search",
+	"arName":"., السنطة, الغربية",
+	"lat":"30.731483000000001",
+	"lng":"31.126453000000001",
+	"enName":"., As-santah, El gharbeya"
+}
+	]
+}, {	"arName":"السجل المدنى - المنشأة",
+	"enName":"Civil Registry - El Manshaah",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238723",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-manshaah/238723?b=99&k=16582&l=search",
+	"arName":"ش المركز, المنشاه, سوهاج",
+	"lat":"26.491308",
+	"lng":"31.789601999999999",
+	"enName":"El Markaz st., El manshah, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - قطور",
+	"enName":"Civil Registry - Qutour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238722",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-qutour/238722?b=232&k=16582&l=search",
+	"arName":"., قطور, الغربية",
+	"lat":"30.967008",
+	"lng":"30.959717999999999",
+	"enName":"., Kutour, El gharbeya"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو المطامير",
+	"enName":"Civil Registry - Abou El Matamir",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238729",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-el-matamir/238729?b=6&k=16582&l=search",
+	"arName":"., ابو المطامير, البحيرة",
+	"lat":"30.912693000000001",
+	"lng":"30.176127999999999",
+	"enName":"., Aboul matamir, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - الزاوية الحمراء",
+	"enName":"Civil Registry - El Zawya El Hamraa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197632",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-zawya-el-hamraa/197632?b=140&k=16582&l=search",
+	"arName":"ش منشية الجمل, الزاوية الحمراء, القاهرة",
+	"lat":"30.095886",
+	"lng":"31.266193999999999",
+	"enName":"Mansheyet El Gamal St., El zawia el hamra, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - العرب",
+	"enName":"Civil Registry - El Arab",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-arab/436330?b=66&k=16582&l=search",
+	"arName":"ش صفية زغلول, العرب, بور سعيد",
+	"lat":"31.266781000000002",
+	"lng":"32.298167999999997",
+	"enName":"Safeya Zaghloul St., El arab, Port said"
+}
+	]
+}, {	"arName":"السجل المدنى - شبراخيت",
+	"enName":"Civil Registry - Shoubrakhit",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238728",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-shoubrakhit/238728?b=248&k=16582&l=search",
+	"arName":"ش السلخانة القديم, شبراخيت, البحيرة",
+	"lat":"31.028413",
+	"lng":"30.715083",
+	"enName":"El Salakhana El Qadim St., Shoubrakhit, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو حمص",
+	"enName":"Civil Registry - Abou Hommos",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-hommos/238727?b=9&k=16582&l=search",
+	"arName":"ش الكبير, ابو حمص, البحيرة",
+	"lat":"31.098421999999999",
+	"lng":"30.310869",
+	"enName":"El Kabir St., Abou hommos, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - ادكو",
+	"enName":"Civil Registry - Edku",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238726",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-edku/238726?b=61&k=16582&l=search",
+	"arName":"ش محطة السكة الحديد, ادكو, البحيرة",
+	"lat":"31.300865999999999",
+	"lng":"30.312391999999999",
+	"enName":"Mahattet El Sekka El Hadid St., Edku, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - العلمين",
+	"enName":"Civil Registry - El Alamain",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238882",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-alamain/238882?b=63&k=16582&l=search",
+	"arName":"ش الاسكندرية, العلمين, الساحل الشمالى",
+	"lat":"30.829077000000002",
+	"lng":"28.956294",
+	"enName":"Alexandria St., El alamein, North coast"
+}
+	]
+}, {	"arName":"السجل المدنى - البلينا",
+	"enName":"Civil Registry - El Balina",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238761",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-balina/238761?b=73&k=16582&l=search",
+	"arName":"ش خور الساحل, البلينا, سوهاج",
+	"lat":"26.238578",
+	"lng":"32.003346999999998",
+	"enName":"Khour El Sahel St., El balina, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - فارسكور",
+	"enName":"Civil Registry - Fareskour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-fareskour/239179?b=146&k=16582&l=search",
+	"arName":"ش البحر, فارسكور, دمياط",
+	"lat":"31.337045",
+	"lng":"31.713623999999999",
+	"enName":"El Bahr St., Faraskour, Damietta"
+}
+	]
+}, {	"arName":"السجل المدنى - الحمام",
+	"enName":"Civil Registry - El Hammam",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-hammam/238886?b=85&k=16582&l=search",
+	"arName":"ش الجيش, الحمام, الساحل الشمالى",
+	"lat":"30.846329000000001",
+	"lng":"29.381834000000001",
+	"enName":"El Guish St., El hammam, North coast"
+}
+	]
+}, {	"arName":"السجل المدنى - الشيخ زايد",
+	"enName":"Civil Registry - El Sheikh Zayed",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-sheikh-zayed/437847?b=130&k=16582&l=search",
+	"arName":"., الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.041823999999998",
+	"lng":"30.974612",
+	"enName":"., El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - غربال",
+	"enName":"Civil Registry - Ghorbal",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-ghorbal/225327?b=153&k=16582&l=search",
+	"arName":"مساكن الغيط الصعيدى - , امبروزو, الاسكندرية",
+	"lat":"31.195011999999998",
+	"lng":"29.927353",
+	"enName":"El Ghait El Saidy Bldgs.,, Amprozo, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - الغردقة",
+	"enName":"Civil Registry - Hurghada",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-hurghada/239171?b=161&k=16582&l=search",
+	"arName":"حى حامد جوهر, وسط البلد, الغردقة",
+	"lat":"27.257812000000001",
+	"lng":"33.801202000000004",
+	"enName":"Hamed Gohar District, Downtown, Hurghada"
+}
+	]
+}, {	"arName":"السجل المدنى - قليوب",
+	"enName":"Civil Registry - Qalioub",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225205",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-qalioub/225205?b=226&k=16582&l=search",
+	"arName":"ش الرشاح - قليوب البلد, قليوب, القليوبية",
+	"lat":"30.175874",
+	"lng":"31.214925999999998",
+	"enName":"El Rashah St., Qalioub El Balad, Qalyub, Kaliobeya"
+},
+		{	"profileId":"225234",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-qalioub/225234?b=227&k=16582&l=search",
+	"arName":"قليوب المحطة, قليوب, القليوبية",
+	"lat":"30.179462999999998",
+	"lng":"31.224204",
+	"enName":"Qalioub El Mahatta, Qalyub, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - محرم بك",
+	"enName":"Civil Registry - Moharram Bey",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-moharram-bey/225325?b=213&k=16582&l=search",
+	"arName":"مساكن الغيط الصعيدى - , امبروزو, الاسكندرية",
+	"lat":"31.195011999999998",
+	"lng":"29.927353",
+	"enName":"El Ghait El Saidy Bldgs.,, Amprozo, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو قير",
+	"enName":"Civil Registry - Abou Qir",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225329",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-qir/225329?b=11&k=16582&l=search",
+	"arName":"طوسون, ابو قير, الاسكندرية",
+	"lat":"31.303675999999999",
+	"lng":"30.060385",
+	"enName":"Toson, Abou kir, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - مرسى علم",
+	"enName":"Civil Registry - Marsa Alam",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-marsa-alam/239172?b=199&k=16582&l=search",
+	"arName":"طريق مرسى علم, وسط البلد, مرسى علم",
+	"lat":"25.071127000000001",
+	"lng":"34.891807",
+	"enName":"Marsa Alam Rd., Downtown, Marsa alam"
+}
+	]
+}, {	"arName":"السجل المدنى - مينا البصل",
+	"enName":"Civil Registry - Mina El Basal",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-mina-el-basal/437174?b=212&k=16582&l=search",
+	"arName":"مساكن الكرانتينا -, مينا البصل, الاسكندرية",
+	"lat":"31.185205",
+	"lng":"29.889099000000002",
+	"enName":"El Karantina Bldgs.,, Mina el bassal, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - غيط العنب",
+	"enName":"Civil Registry - Ghait El Enab",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437175",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-ghait-el-enab/437175?b=151&k=16582&l=search",
+	"arName":"مساكن مدينة العرائس -, غيط العنب, الاسكندرية",
+	"lat":"31.194367",
+	"lng":"29.923271",
+	"enName":"Madinet El Araes Bldgs.,, Gheit el enab, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - طوسون",
+	"enName":"Civil Registry - Toson",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225333",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-toson/225333?b=261&k=16582&l=search",
+	"arName":"طوسون, ابو قير, الاسكندرية",
+	"lat":"31.303675999999999",
+	"lng":"30.060385",
+	"enName":"Toson, Abou kir, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - العامرية 2",
+	"enName":"Civil Registry - El Amreya 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-amreya-2/437171?b=65&k=16582&l=search",
+	"arName":"مساكن الناصرية الجديدة -, الناصرية, الاسكندرية",
+	"lat":"30.989799000000001",
+	"lng":"29.788031",
+	"enName":"El Nassereya El Gadida Bldgs.,, El nassreya, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - حدائق القبة",
+	"enName":"Civil Registry - Hadaeq El Qobba",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197606",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-hadaeq-el-qobba/197606?b=155&k=16582&l=search",
+	"arName":"ش ترعة الجندى, حدائق القبة, القاهرة",
+	"lat":"30.094221000000001",
+	"lng":"31.283666",
+	"enName":"Teraet El Gendy St., Hadayek el kobba, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - مصر الجديدة",
+	"enName":"Civil Registry - Heliopolis",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-heliopolis/197727?b=157&k=16582&l=search",
+	"arName":"7 ش الروضة, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.097332000000002",
+	"lng":"31.327942",
+	"enName":"7 El Rawda St., El Gamea Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - طما",
+	"enName":"Civil Registry - Tama",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-tama/238758?b=257&k=16582&l=search",
+	"arName":"ش احمد عرابى, طما, سوهاج",
+	"lat":"26.900417000000001",
+	"lng":"31.437576",
+	"enName":"Ahmed Orabi St., Tama, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - جهينة",
+	"enName":"Civil Registry - juhaina",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238755",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-juhaina/238755?b=166&k=16582&l=search",
+	"arName":"ش الجمهورية, جهينة, سوهاج",
+	"lat":"26.666875000000001",
+	"lng":"31.501909000000001",
+	"enName":"El Gomhoureya St., Juhaynah, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - المنتزه 2",
+	"enName":"Civil Registry - El Montazah 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-montazah-2/437179?b=107&k=16582&l=search",
+	"arName":"طوسون, المنتزة, المنتزه, الاسكندرية",
+	"lat":"31.303602999999999",
+	"lng":"30.060267",
+	"enName":"Toson, EL MONTAZA, El montazah, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز كفر الشيخ",
+	"enName":"Civil Registry - Markaz Kafr El Sheikh",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239046",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-kafr-el-sheikh/239046?b=194&k=16582&l=search",
+	"arName":"ش المركز, وسط البلد, كفر الشيخ",
+	"lat":"31.107357",
+	"lng":"30.947547",
+	"enName":"El Markaz St., Downtown, Kafr el sheikh"
+}
+	]
+}, {	"arName":"السجل المدنى - طيبة الجديدة",
+	"enName":"Civil Registry - Tiba El Gadida",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-tiba-el-gadida/436989?b=259&k=16582&l=search",
+	"arName":"., الاقصر, الاقصر",
+	"lat":"25.736207",
+	"lng":"32.765841000000002",
+	"enName":"., LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"خدمات قطاع مصلحة الاحوال المدنية",
+	"enName":"Civil Status Organization Services",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"556240",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-organization-services/556240?b=276&k=16582&l=search",
+	"arName":"خدمة المواطنين, عباسية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Citizens Services, Abbasseya, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - فيصل",
+	"enName":"Civil Registry - Faisal",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-faisal/437042?b=145&k=16582&l=search",
+	"arName":"مساكن الامل -, فيصل, السويس",
+	"lat":"29.981175",
+	"lng":"32.510410999999998",
+	"enName":"El Amal Bldgs.,, Faisal, Suez"
+}
+	]
+}, {	"arName":"السجل المدنى - مدينة نصر 2",
+	"enName":"Civil Registry - Nasr City 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"197733",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-nasr-city-2/197733?b=219&k=16582&l=search",
+	"arName":"ش المخيم الدائم, الحى السادس, مدينة نصر, القاهرة",
+	"lat":"30.050091999999999",
+	"lng":"31.312131999999998",
+	"enName":"El Mokhayam El Daem St., 6th District, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"السجل المدنى - منيا القمح",
+	"enName":"Civil Registry - Menia El Qamh",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238503",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-menia-el-qamh/238503?b=208&k=16582&l=search",
+	"arName":"ش المهندس السيد مرعى, منيا القمح, الشرقية",
+	"lat":"30.521145000000001",
+	"lng":"31.346031",
+	"enName":"El Mohandes El Sayed Maraey St., Minya el qamh, El sharkeya"
+}
+	]
+}, {	"arName":"السجل المدنى - دمياط 2",
+	"enName":"Civil Registry - Damietta 2",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-damietta-2/437601?b=51&k=16582&l=search",
+	"arName":"ش باب الحرس, دمياط, دمياط",
+	"lat":"31.425014999999998",
+	"lng":"31.819666999999999",
+	"enName":"Bab El Haras St., Damietta, Damietta"
+}
+	]
+}, {	"arName":"السجل المدنى - العياط",
+	"enName":"Civil Registry - El Ayyat",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437843",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-ayyat/437843?b=68&k=16582&l=search",
+	"arName":"., العياط, الجيزة",
+	"lat":"29.618483000000001",
+	"lng":"31.256685000000001",
+	"enName":"., El ayat, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - المراغة",
+	"enName":"Civil Registry - El Maragha",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-maragha/238749?b=102&k=16582&l=search",
+	"arName":"ش الجلاء, المراغة, سوهاج",
+	"lat":"26.705264",
+	"lng":"31.601815999999999",
+	"enName":"El Galaa St., El maragha, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - اسنا",
+	"enName":"Civil Registry - Esna",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-esna/238660?b=142&k=16582&l=search",
+	"arName":"ش احمد عرابى, اسنا, الاقصر",
+	"lat":"25.304380999999999",
+	"lng":"32.553061999999997",
+	"enName":"Ahmed Orabi St., ESNA, Esna, Luxor"
+}
+	]
+}, {	"arName":"السجل المدنى - كوم امبو",
+	"enName":"Civil Registry - Koum Ombo",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-koum-ombo/239198?b=178&k=16582&l=search",
+	"arName":"ش بورسعيد, كوم امبو, اسوان",
+	"lat":"24.480606999999999",
+	"lng":"32.948613999999999",
+	"enName":"Port Said st., Kom ombo, Aswan"
+}
+	]
+}, {	"arName":"السجل المدنى - ارمنت",
+	"enName":"Civil Registry - Arment",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238666",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-arment/238666?b=21&k=16582&l=search",
+	"arName":"ش المعهد - ارمنت, الاقصر, الاقصر",
+	"lat":"25.621268000000001",
+	"lng":"32.545385000000003",
+	"enName":"El Maahad St., Arment, LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"السجل المدنى - قوص",
+	"enName":"Civil Registry - Qous",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-qous/238663?b=230&k=16582&l=search",
+	"arName":"ش الاستاد, قوص, قنا",
+	"lat":"25.918671",
+	"lng":"32.761530999999998",
+	"enName":"El Estad St., Quos, Qena"
+}
+	]
+}, {	"arName":"السجل المدنى - الخانكة",
+	"enName":"Civil Registry - El Khanka",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225227",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-khanka/225227?b=91&k=16582&l=search",
+	"arName":"., الخانكة, القليوبية",
+	"lat":"30.225728",
+	"lng":"31.366879000000001",
+	"enName":"., El khanka, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - الصف",
+	"enName":"Civil Registry - El Saff",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225106",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-saff/225106?b=124&k=16582&l=search",
+	"arName":"ش الجمهورية, الصف, الجيزة",
+	"lat":"29.575104",
+	"lng":"31.281783000000001",
+	"enName":"El Gomhoureya St., El saff, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - مطوبس",
+	"enName":"Civil Registry - Metoubas",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-metoubas/239071?b=211&k=16582&l=search",
+	"arName":"ش المركز, مطوبس, كفر الشيخ",
+	"lat":"31.287348000000001",
+	"lng":"30.524391999999999",
+	"enName":"El Markaz St., Metobas, Kafr el sheikh"
+}
+	]
+}, {	"arName":"المركز النموذجى - سموحة",
+	"enName":"Model Center - Smouha",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225346",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/model-center-_-smouha/225346?b=278&k=16582&l=search",
+	"arName":"47 عمارات تعاونيات سموحة - شقة 3, سموحة, الاسكندرية",
+	"lat":"31.211385",
+	"lng":"29.952891999999999",
+	"enName":"47 Taawoneyat Semouha bldgs., Flat 3, Semouha, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - ابو سمبل",
+	"enName":"Civil Registry - Abou Simbel",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239197",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-abou-simbel/239197?b=13&k=16582&l=search",
+	"arName":"ش المركز, ابو سمبل, اسوان",
+	"lat":"22.351896",
+	"lng":"31.611711",
+	"enName":"El Markaz St., Abou simbel, Aswan"
+}
+	]
+}, {	"arName":"السجل المدنى - الخصوص",
+	"enName":"Civil Registry - El Khosous",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225109",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-khosous/225109?b=92&k=16582&l=search",
+	"arName":"ش الشيخ صبيح, الخصوص, القليوبية",
+	"lat":"30.159312",
+	"lng":"31.317012999999999",
+	"enName":"El Sheikh Sobaih St., El khosous, Kaliobeya"
+}
+	]
+}, {	"arName":"السجل المدنى - العطارين",
+	"enName":"Civil Registry - El Attarin",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225352",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-attarin/225352?b=67&k=16582&l=search",
+	"arName":"ش فؤاد, محطة الرمل, الاسكندرية",
+	"lat":"31.198474000000001",
+	"lng":"29.907332",
+	"enName":"Fouad St., Raml station, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - المنشية",
+	"enName":"Civil Registry - El Mansheya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-mansheya/437194?b=100&k=16582&l=search",
+	"arName":"ش الصحافة, المنشية, الاسكندرية",
+	"lat":"31.199777000000001",
+	"lng":"29.890615",
+	"enName":"El Sahafa St., El mansheya, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - اللبان",
+	"enName":"Civil Registry - El Labban",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-labban/437195?b=93&k=16582&l=search",
+	"arName":"ش عبد المنعم متفرع من ش ابى الدرداء, اللبان, الاسكندرية",
+	"lat":"31.190853000000001",
+	"lng":"29.896411000000001",
+	"enName":"Abdel Moneim St. Off Abi El Dardaa St., Al laban, Alexandria"
+}
+	]
+}, {	"arName":"ادارة الاحوال المدنية - الاسكندرية",
+	"enName":"Civil Status Administration - Alexandria",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225351",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-status-administration-_-alexandria/225351?b=268&k=16582&l=search",
+	"arName":"ش عبد المنعم تقاطع ش ابى الدرداء, اللبان, الاسكندرية",
+	"lat":"31.191001",
+	"lng":"29.896146999999999",
+	"enName":"Abdel Moneim St. Intersection Of Abi El Dardaa St., Al laban, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - النوبارية",
+	"enName":"Civil Registry - El Noubareya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437070",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-noubareya/437070?b=111&k=16582&l=search",
+	"arName":"., النوبارية, البحيرة",
+	"lat":"30.67323",
+	"lng":"30.074100999999999",
+	"enName":"., El noubareya, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - بدر",
+	"enName":"Civil Registry - Badr",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-badr/437071?b=31&k=16582&l=search",
+	"arName":"ش مجلس المدينة, مدينة بدر, البحيرة",
+	"lat":"30.581223000000001",
+	"lng":"30.709205999999998",
+	"enName":"Magles El Madina St., Badr city, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - العمرانية",
+	"enName":"Civil Registry - El Omraneya",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"225112",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-omraneya/225112?b=114&k=16582&l=search",
+	"arName":"ش الشهيد الحى متفرع من ش ترعة الزمر, العمرانية الغربية, الهرم, الجيزة",
+	"lat":"30.004168",
+	"lng":"31.205226",
+	"enName":"El Shaheed El Hay St. Off Teraet El Zomor St., El Omraneya El Gharbeya, El haram, Giza"
+}
+	]
+}, {	"arName":"السجل المدنى - غبريال",
+	"enName":"Civil Registry - Ghobrial",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437192",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-ghobrial/437192?b=152&k=16582&l=search",
+	"arName":"مساكن الغيط الصعيدى -, امبروزو, الاسكندرية",
+	"lat":"31.195011999999998",
+	"lng":"29.927353",
+	"enName":"El Ghait El Saidy Bldgs.,, Amprozo, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز دمنهور",
+	"enName":"Civil Registry - Markaz Damanhour",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-damanhour/437072?b=187&k=16582&l=search",
+	"arName":"مساكن فاطمة الزهراء - - شبرا, دمنهور, البحيرة",
+	"lat":"31.037229",
+	"lng":"30.463370999999999",
+	"enName":"Fatma El Zahraa Bldgs., , Shoubra, Damanhour, El beheira"
+}
+	]
+}, {	"arName":"السجل المدنى - الجناين",
+	"enName":"Civil Registry - El Ganayen",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"436543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-ganayen/436543?b=82&k=16582&l=search",
+	"arName":"قرية عامر, الجناين, السويس",
+	"lat":"30.074316",
+	"lng":"32.554290999999999",
+	"enName":"Amer Village, El ganayen, Suez"
+}
+	]
+}, {	"arName":"السجل المدنى - النجيلة",
+	"enName":"Civil Registry - El Negeila",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238890",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-el-negeila/238890?b=110&k=16582&l=search",
+	"arName":"طريق السلوم, النجيلة, الساحل الشمالى",
+	"lat":"31.406509",
+	"lng":"26.587275000000002",
+	"enName":"El Salloum Rd., El negeila, North coast"
+}
+	]
+}, {	"arName":"السجل المدنى - كفر سعد",
+	"enName":"Civil Registry - Kafr Saad",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239182",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-kafr-saad/239182?b=171&k=16582&l=search",
+	"arName":"طريق دمياط المنصورة السريع, كفر سعد, دمياط",
+	"lat":"31.352551999999999",
+	"lng":"31.686817999999999",
+	"enName":"Damietta El Mansoura High Rd., Kafr saad, Damietta"
+}
+	]
+}, {	"arName":"السجل المدنى - مركز دسوق",
+	"enName":"Civil Registry - Markaz Desouq",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239061",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-markaz-desouq/239061?b=188&k=16582&l=search",
+	"arName":"., دسوق, كفر الشيخ",
+	"lat":"31.132363999999999",
+	"lng":"30.645005000000001",
+	"enName":"., Disuq, Kafr el sheikh"
+}
+	]
+}, {	"arName":"السجل المدنى - ميت ابو غالب",
+	"enName":"Civil Registry - Meet Abou Ghaleb",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-meet-abou-ghaleb/239186?b=203&k=16582&l=search",
+	"arName":"., ميت ابو غالب, دمياط",
+	"lat":"31.291157999999999",
+	"lng":"31.678046999999999",
+	"enName":"., Mit abou ghaleb, Damietta"
+}
+	]
+}, {	"arName":"السجل المدنى - كفر البطيخ",
+	"enName":"Civil Registry - Kafr El Batikh",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"239184",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-kafr-el-batikh/239184?b=168&k=16582&l=search",
+	"arName":"طريق الميناء, كفر البطيخ, دمياط",
+	"lat":"31.411716999999999",
+	"lng":"31.737299",
+	"enName":"El Minaa Rd., Kafr el batikh, Damietta"
+}
+	]
+}, {	"arName":"السجل المدنى - برج العرب",
+	"enName":"Civil Registry - Borg El Arab",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437184",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-borg-el-arab/437184?b=48&k=16582&l=search",
+	"arName":"., برج العرب, الاسكندرية",
+	"lat":"30.883700999999999",
+	"lng":"29.580922000000001",
+	"enName":"., Borg el arab, Alexandria"
+}
+	]
+}, {	"arName":"السجل المدنى - مرسى مطروح",
+	"enName":"Civil Registry - Marsa Matrouh",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238768",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-marsa-matrouh/238768?b=200&k=16582&l=search",
+	"arName":"كم 4 - - حى الزهور, وسط البلد, مرسى مطروح",
+	"lat":"31.322935000000001",
+	"lng":"27.266916999999999",
+	"enName":"Km 4, , El Zohour District, Downtown, Marsa matrouh"
+}
+	]
+}, {	"arName":"السجل المدنى - سيوة",
+	"enName":"Civil Registry - Siwa",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238767",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-siwa/238767?b=250&k=16582&l=search",
+	"arName":"., واحات سيوة, واحة سيوة, واحة سيوة",
+	"lat":"29.204678999999999",
+	"lng":"25.519344",
+	"enName":"., SIWA OASIS, Siwa oasis, Siwa oasis"
+}
+	]
+}, {	"arName":"السجل المدنى - اخميم",
+	"enName":"Civil Registry - Akhmeem",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"238766",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-akhmeem/238766?b=19&k=16582&l=search",
+	"arName":"ش ابو القاسم, اخميم, سوهاج",
+	"lat":"26.565598999999999",
+	"lng":"31.749547",
+	"enName":"Abou El Qassem St., Akhmeem, Sohag"
+}
+	]
+}, {	"arName":"السجل المدنى - محلة مرحوم",
+	"enName":"Civil Registry - Mahalet Marhom",
+	"hotline":"16582",
+	"facebook":"",
+	"web":"http://www.cso.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"437861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/civil-registry-_-mahalet-marhom/437861?b=181&k=16582&l=search",
+	"arName":"ش المعمل - قرية محلة مرحوم, طنطا, الغربية",
+	"lat":"30.797443999999999",
+	"lng":"30.965274000000001",
+	"enName":"El Maamal St., Mahalet Marhom Village, Tanta, El gharbeya"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اى هوم للعقارات",
+	"enName":"Ihome Real Estate",
+	"hotline":"19240",
+	"facebook":"http://www.facebook.com/ihomegypt",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"576876",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ihome-real-estate/576876?b=1&k=19240&l=search",
+	"arName":"فيلا 139 - ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.015727999999999",
+	"lng":"31.434905000000001",
+	"enName":"Villa 139, El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"576879",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ihome-real-estate/576879?b=2&k=19240&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"تربتنزا",
+	"enName":"Triptanza",
+	"hotline":"16957",
+	"facebook":"http://www.facebook.com/triptanza",
+	"web":"http://www.triptanza.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"447356",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/triptanza/447356?b=1&k=16957&l=search",
+	"arName":"خدمة العملاء, ميدان سفير, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"356404",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/triptanza/356404?b=2&k=16957&l=search",
+	"arName":"116 ش الميرغنى - الدور 2, ميدان سفير, مصر الجديدة, القاهرة",
+	"lat":"30.087724999999999",
+	"lng":"31.335436999999999",
+	"enName":"116 El Merghany St., Floor 2, Safir Square, Heliopolis, Cairo"
+}
+	]
+}]}

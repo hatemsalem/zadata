@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الشركة العالمية المتحدة للتجارة -المباشر",
+	"enName":"International United Co. Trading - El Mobasher",
+	"hotline":"16158",
+	"facebook":"http://www.facebook.com/elmobasheregypt",
+	"web":"http://www.elmobasher.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"449779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-united-co.-trading-_-el-mobasher/449779?b=3&k=16158&l=search",
+	"arName":"163 ش السودان, المهندسين, الجيزة",
+	"lat":"30.051570999999999",
+	"lng":"31.191956000000001",
+	"enName":"163 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"449781",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-united-co.-trading-_-el-mobasher/449781?b=4&k=16158&l=search",
+	"arName":"ش قناة السويس, وسط البلد, الاسكندرية",
+	"lat":"31.168233000000001",
+	"lng":"29.935608999999999",
+	"enName":"Suez Canal St., Downtown, Alexandria"
+},
+		{	"profileId":"449785",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-united-co.-trading-_-el-mobasher/449785?b=2&k=16158&l=search",
+	"arName":"خدمة العملاء, روكسى, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"449761",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-united-co.-trading-_-el-mobasher/449761?b=1&k=16158&l=search",
+	"arName":"12 ش نهرو, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.097619999999999",
+	"lng":"31.315950999999998",
+	"enName":"12 Nehro St., Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

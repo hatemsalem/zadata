@@ -1,0 +1,21 @@
+{"items":[{	"arName":"صيدلية شاهين",
+	"enName":"Shaheen Pharmacy",
+	"hotline":"19481",
+	"facebook":"http://www.facebook.com/shaheenpharmcy",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"439210",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shaheen-pharmacy/439210?b=1&k=19481&l=search",
+	"arName":"88 ش عثمان بن عفان, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.099753",
+	"lng":"31.341598999999999",
+	"enName":"88 Othman Ibn Affan St., Triumph Square, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,82 @@
+{"items":[{	"arName":"فلاى دبى",
+	"enName":"Fly Dubai",
+	"hotline":"16304",
+	"facebook":"http://www.facebook.com/World.Aviation.Services",
+	"web":"http://www.flydubai.com/",
+	"arCategory":[
+		"خطوط جوية"
+	],
+	"enCategories":[
+		"Airlines"
+	],
+	"contacts":[
+		{	"profileId":"432135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fly-dubai/432135?b=1&k=16304&l=search",
+	"arName":"34 ش د. بهاء الدين الغتورى ميدان 15 مايو, سيدى جابر, الاسكندرية",
+	"lat":"31.217596",
+	"lng":"29.942505000000001",
+	"enName":"34 Dr. Bahaa El Din El Ghatwary St. 15th Of May Sq., Sidi gaber, Alexandria"
+}
+	]
+}, {	"arName":"واستكو للسياحة",
+	"enName":"Wastco Tours",
+	"hotline":"16304",
+	"facebook":"http://www.facebook.com/WASTCOTOURS/?ref=page_internal",
+	"web":"http://www.wastco.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"430259",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wastco-tours/430259?b=2&k=16304&l=search",
+	"arName":"3 ش ابن كثير متفرع من ش كورنيش النيل - برج سويس, الجيزة, الجيزة",
+	"lat":"30.030332000000001",
+	"lng":"31.217893",
+	"enName":"3 Ibn Katheir St. Off Corniche El Nil St., Swiss Tower, Giza, Giza"
+},
+		{	"profileId":"534253",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wastco-tours/534253?b=3&k=16304&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}, {	"arName":"ورلد افيشن سيرفيس",
+	"enName":"World Aviation Services",
+	"hotline":"16304",
+	"facebook":"http://www.facebook.com/World.Aviation.Services",
+	"web":"http://www.worldaviation-services.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"534259",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/world-aviation-services/534259?b=4&k=16304&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"428216",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/world-aviation-services/428216?b=5&k=16304&l=search",
+	"arName":"3 ش ابن كثير متفرع من ش كورنيش النيل - برج سويس, الجيزة, الجيزة",
+	"lat":"30.030332000000001",
+	"lng":"31.217893",
+	"enName":"3 Ibn Katheir St. Off Corniche El Nil St., Swiss Tower, Giza, Giza"
+},
+		{	"profileId":"429832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/world-aviation-services/429832?b=6&k=16304&l=search",
+	"arName":"34 ش د. بهاء الدين الغتورى ميدان 15 مايو, سموحة, الاسكندرية",
+	"lat":"31.217631999999998",
+	"lng":"29.942271999999999",
+	"enName":"34 Dr. Bahaa El Din El Ghatwary St. 15th Of May Sq., Semouha, Alexandria"
+}
+	]
+}]}

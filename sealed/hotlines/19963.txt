@@ -1,0 +1,49 @@
+{"items":[{	"arName":"المصرية للتأمين التكافلى",
+	"enName":"Egyptian Takaful",
+	"hotline":"19963",
+	"facebook":"",
+	"web":"http://www.egtak.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"223838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/223838?b=2&k=19963&l=search",
+	"arName":"14 ش عبد الحميد لطفى متفرع من ش البطل احمد عبد العزيز - الدور 2, المهندسين, الجيزة",
+	"lat":"30.052074999999999",
+	"lng":"31.204384000000001",
+	"enName":"14 Abdel Hamid Lotfy St. Off El Batal Ahmed Abdel Aziz St., Floor 2, Mohandeseen, Giza"
+},
+		{	"profileId":"223839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/223839?b=5&k=19963&l=search",
+	"arName":"74 ش مكة المكرمة متفرع من ش الجمهورية, اسيوط, اسيوط",
+	"lat":"27.191832300000002",
+	"lng":"31.184224799999999",
+	"enName":"74 Mekka El Mokarama St. Off El Gomhoureya St., Assyout, Assyout"
+},
+		{	"profileId":"351603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/351603?b=3&k=19963&l=search",
+	"arName":"56 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.051608999999999",
+	"lng":"31.200749999999999",
+	"enName":"56 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"439459",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/439459?b=1&k=19963&l=search",
+	"arName":"34 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.063241000000001",
+	"lng":"31.337468999999999",
+	"enName":"34 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"317331",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful/317331?b=4&k=19963&l=search",
+	"arName":"39 ش النبى دانيال, محطة الرمل, الاسكندرية",
+	"lat":"31.196476000000001",
+	"lng":"29.901067000000001",
+	"enName":"39 El Nabi Daniel St., Raml station, Alexandria"
+}
+	]
+}]}

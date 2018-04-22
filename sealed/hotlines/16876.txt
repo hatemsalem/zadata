@@ -1,0 +1,77 @@
+{"items":[{	"arName":"شركة اباظة اوتو تريد",
+	"enName":"Abaza Auto Trade",
+	"hotline":"16876",
+	"facebook":"http://www.facebook.com/Abaza.Auto.Trade",
+	"web":"http://www.abaza-auto.net/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"156897",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/156897?b=9&k=16876&l=search",
+	"arName":"كم 27 - طريق اسكندرية القاهرة الصحراوى, مرغم, الاسكندرية",
+	"lat":"31.068290999999999",
+	"lng":"29.822710000000001",
+	"enName":"Km 27, Alex Cairo Desert Rd., Mirghem, Alexandria"
+},
+		{	"profileId":"156888",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/156888?b=1&k=16876&l=search",
+	"arName":"6 ش مختار اباظة امتداد ش جسر السويس - المنطقة الصناعية الثانية, جسر السويس, القاهرة",
+	"lat":"30.140732",
+	"lng":"31.391957999999999",
+	"enName":"6 Mokhtar Abaza St. Extension Of Gesr El Suez St., 2nd Industrial Zone, Gesr el suez, Cairo"
+},
+		{	"profileId":"156899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/156899?b=4&k=16876&l=search",
+	"arName":"19 ش تاج الرؤساء, سابا باشا, الاسكندرية",
+	"lat":"31.238226999999998",
+	"lng":"29.954902000000001",
+	"enName":"19 Tag El Roasaa St., Saba pasha, Alexandria"
+},
+		{	"profileId":"156910",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/156910?b=7&k=16876&l=search",
+	"arName":"طريق كوبرى دندرة - عمارة احمد على الضو, وسط البلد, قنا",
+	"lat":"26.162960999999999",
+	"lng":"32.707704",
+	"enName":"Kobry Dandara Rd., Ahmed Aly El Daw Bldg., Downtown, Qena"
+},
+		{	"profileId":"187213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/187213?b=2&k=16876&l=search",
+	"arName":"خدمة العملاء, جسر السويس, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer service, Gesr el suez, Cairo"
+},
+		{	"profileId":"474675",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/474675?b=6&k=16876&l=search",
+	"arName":"المحور المركزى, الحى الثانى, السادس من اكتوبر, الجيزة",
+	"lat":"29.969023",
+	"lng":"30.938777000000002",
+	"enName":"Central Spine, 2nd District, 6th of october, Giza"
+},
+		{	"profileId":"252097",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/252097?b=3&k=16876&l=search",
+	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.016922000000001",
+	"lng":"31.412593999999999",
+	"enName":"Plot A, El Tesaeen St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"156914",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/156914?b=5&k=16876&l=search",
+	"arName":"ش الثورة, وسط البلد, كفر الشيخ",
+	"lat":"31.114394999999998",
+	"lng":"30.941034999999999",
+	"enName":"El Thawra St., Downtown, Kafr el sheikh"
+},
+		{	"profileId":"275867",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/275867?b=8&k=16876&l=search",
+	"arName":"طريق المطار, الكوثر, الغردقة",
+	"lat":"27.192845999999999",
+	"lng":"33.822204999999997",
+	"enName":"Airport Rd., El kawther, Hurghada"
+}
+	]
+}]}

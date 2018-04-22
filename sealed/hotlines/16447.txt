@@ -1,0 +1,55 @@
+{"items":[{	"arName":"شاورمر",
+	"enName":"Shawermer",
+	"hotline":"16447",
+	"facebook":"http://www.facebook.com/Shawermereg",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"425250",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawermer/425250?b=3&k=16447&l=search",
+	"arName":"السوق التجارى, مدينة الرحاب, القاهرة",
+	"lat":"30.056567000000001",
+	"lng":"31.491710999999999",
+	"enName":"Commercial Market, Al rehab city, Cairo"
+},
+		{	"profileId":"425249",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawermer/425249?b=1&k=16447&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"101683",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawermer/101683?b=4&k=16447&l=search",
+	"arName":"128 ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.088813999999999",
+	"lng":"31.337378999999999",
+	"enName":"128 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"136000",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawermer/136000?b=2&k=16447&l=search",
+	"arName":"ش 250, المعادى, القاهرة",
+	"lat":"29.965802",
+	"lng":"31.269677999999999",
+	"enName":"Rd. 250, Maadi, Cairo"
+},
+		{	"profileId":"261536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shawermer/261536?b=5&k=16447&l=search",
+	"arName":"3 عمارات المروة - ش احمد تيسير متفرع من ش الميرغنى - الدور 8 شقة 8, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.078112000000001",
+	"lng":"31.327587999999999",
+	"enName":"3 El Marwa Bldgs., Ahmed Tayseer St. Off El Merghany St., Floor 8 Flat 8, koleyet El Banat, Heliopolis, Cairo"
+}
+	]
+}]}

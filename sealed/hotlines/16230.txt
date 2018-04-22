@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ادارة لخدمات المدن والمنتجعات",
+	"enName":"Edara Property Management",
+	"hotline":"16230",
+	"facebook":"http://www.facebook.com/edaraproperty",
+	"web":"http://www.edaraproperty.net/",
+	"arCategory":[
+		"ادارة مشروعات"
+	],
+	"enCategories":[
+		"Project Management"
+	],
+	"contacts":[
+		{	"profileId":"256485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edara-property-management/256485?b=1&k=16230&l=search",
+	"arName":"خدمة العملاء, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"256475",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edara-property-management/256475?b=2&k=16230&l=search",
+	"arName":"كم 38 - - الشيخ زايد, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.059570000000001",
+	"lng":"30.943382",
+	"enName":"km 38, , el sheikh zayed, Cairo alex desert rd., Giza"
+}
+	]
+}]}

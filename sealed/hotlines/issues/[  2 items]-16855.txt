@@ -1,0 +1,57 @@
+{"items":[{	"arName":"مطاوع جروب",
+	"enName":"Metawee Group",
+	"hotline":"16855",
+	"facebook":"http://www.facebook.com/MetaweeGroup",
+	"web":"http://www.metaweegroup.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة",
+		"عقارات"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars",
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"230892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metawee-group/230892?b=4&k=16855&l=search",
+	"arName":"القطعة 75/11 - المجاورة الخامسة - الحى الثانى, دمياط الجديدة, دمياط",
+	"lat":"31.443840999999999",
+	"lng":"31.675536999999998",
+	"enName":"Plot 75/11, 5th Neighbourhood, 2nd District, New damietta, Damietta"
+},
+		{	"profileId":"395158",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metawee-group/395158?b=2&k=16855&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"422482",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metawee-group/422482?b=3&k=16855&l=search",
+	"arName":"56 ش عباس العقاد -, مدينة نصر, القاهرة",
+	"lat":"30.060222",
+	"lng":"31.337838000000001",
+	"enName":"56 Abbas El Akkad,, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"كمبوند لافيدا",
+	"enName":"La Vida Compound",
+	"hotline":"16855",
+	"facebook":"",
+	"web":"http://www.metaweegroup.com/lavida",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"454127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-vida-compound/454127?b=1&k=16855&l=search",
+	"arName":"., طريق القاهرة السويس, القاهرة",
+	"lat":"30.045193999999999",
+	"lng":"31.241187",
+	"enName":"., Cairo suez rd., Cairo"
+}
+	]
+}]}

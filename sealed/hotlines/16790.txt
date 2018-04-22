@@ -1,0 +1,21 @@
+{"items":[{	"arName":"كيو ان بى الاهلى",
+	"enName":"QNB Al Ahli Bank",
+	"hotline":"16790",
+	"facebook":"http://www.facebook.com/QNBAlAhli%20",
+	"web":"http://www.qnbalahli.com/",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"256035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qnb-al-ahli-bank/256035?b=1&k=16790&l=search",
+	"arName":"خدمة سوجى كاش نت, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Soge Cash Net Service, Downtown, Cairo"
+}
+	]
+}]}

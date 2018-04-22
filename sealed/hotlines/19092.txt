@@ -1,0 +1,28 @@
+{"items":[{	"arName":"كريازى",
+	"enName":"Kiriazi",
+	"hotline":"19092",
+	"facebook":"http://www.facebook.com/Kiriazi.EG",
+	"web":"http://www.kiriazi.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"69712",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kiriazi/69712?b=2&k=19092&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"518476",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kiriazi/518476?b=1&k=19092&l=search",
+	"arName":"كم 30 - طريق اسكندرية القاهرة الصحراوى - الكافورى, العامرية, الاسكندرية",
+	"lat":"31.031497000000002",
+	"lng":"29.782647999999998",
+	"enName":"Km 30, Alex Cairo Desert Rd., El Kafoury, Amreya, Alexandria"
+}
+	]
+}]}

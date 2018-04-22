@@ -1,0 +1,70 @@
+{"items":[{	"arName":"وثاق للتأمين التكافلى - مصر",
+	"enName":"Wethaq Takaful Insurance - Egypt",
+	"hotline":"19685",
+	"facebook":"http://www.facebook.com/wethaq",
+	"web":"http://www.wethaq-egypt.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"572529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wethaq-takaful-insurance-_-egypt/572529?b=8&k=19685&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"572538",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wethaq-takaful-insurance-_-egypt/572538?b=6&k=19685&l=search",
+	"arName":"70 ش جمال عبد الناصر تقاطع ش طرح البحر, حى الشرق, بور سعيد",
+	"lat":"31.269224999999999",
+	"lng":"32.308996999999998",
+	"enName":"70 Gamal Abdel Nasser St. Intersection Of Tarh El Bahr St., El shark district, Port said"
+},
+		{	"profileId":"392322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wethaq-takaful-insurance-_-egypt/392322?b=7&k=19685&l=search",
+	"arName":"عمارة عوض الله 2 - ش الجيش - الدور 6, المنصورة, الدقهلية",
+	"lat":"31.046936500000001",
+	"lng":"31.395873399999999",
+	"enName":"Awadullah Bldg. 2, El Guish St., Floor 6, El mansoura, El dakahleya"
+},
+		{	"profileId":"572536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wethaq-takaful-insurance-_-egypt/572536?b=2&k=19685&l=search",
+	"arName":"49 ش نوبار - برج سيتى مول - الدور 5, باب اللوق, القاهرة",
+	"lat":"30.042508999999999",
+	"lng":"31.241416999999998",
+	"enName":"49 Noubar St., City Mall Tower, Floor 5, Bab el louk, Cairo"
+},
+		{	"profileId":"350580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wethaq-takaful-insurance-_-egypt/350580?b=4&k=19685&l=search",
+	"arName":"88 ش فؤاد - الدور 3, الشلالات, الاسكندرية",
+	"lat":"31.199988999999999",
+	"lng":"29.911142000000002",
+	"enName":"88 Fouad St., Floor 3, El shalalat, Alexandria"
+},
+		{	"profileId":"392324",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wethaq-takaful-insurance-_-egypt/392324?b=3&k=19685&l=search",
+	"arName":"6 ش عباس العقاد - الدور 8, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.067122999999999",
+	"lng":"31.336690000000001",
+	"enName":"6 Abbas El Akkad St., Floor 8, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"572533",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wethaq-takaful-insurance-_-egypt/572533?b=5&k=19685&l=search",
+	"arName":"20 ش وادى النيل, المهندسين, الجيزة",
+	"lat":"30.056477000000001",
+	"lng":"31.201145",
+	"enName":"20 Wadi El Nil St., Mohandeseen, Giza"
+},
+		{	"profileId":"255408",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wethaq-takaful-insurance-_-egypt/255408?b=1&k=19685&l=search",
+	"arName":"25 ش مصدق, الدقى, الجيزة",
+	"lat":"30.040147000000001",
+	"lng":"31.207426000000002",
+	"enName":"25 Mossadak St., Dokki, Giza"
+}
+	]
+}]}

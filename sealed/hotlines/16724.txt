@@ -1,0 +1,21 @@
+{"items":[{	"arName":"طبيبى 24/7",
+	"enName":"Tabibi 24/7",
+	"hotline":"16724",
+	"facebook":"http://www.facebook.com/Tabibi247",
+	"web":"http://www.tabibi247.com/",
+	"arCategory":[
+		"خدمات واستشارات طبية"
+	],
+	"enCategories":[
+		"Healthcare Services & Consultancy"
+	],
+	"contacts":[
+		{	"profileId":"350796",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tabibi-24%2F7/350796?b=1&k=16724&l=search",
+	"arName":"خدمات طبية اون لاين, المعادى, القاهرة",
+	"lat":"29.967784999999999",
+	"lng":"31.250416999999999",
+	"enName":"Online Medical Services, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"وزارة التجارة والصناعة",
+	"enName":"Ministry Of Trade & Industry",
+	"hotline":"19805",
+	"facebook":"",
+	"web":"http://www.mift.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"187211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-trade-&-industry/187211?b=1&k=19805&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Garden city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى بداية للخصوبة واطفال الانابيب",
+	"enName":"Bedaya Fertility & IVF Hospital",
+	"hotline":"19483",
+	"facebook":"http://www.facebook.com/masrivf",
+	"web":"http://www.bedayahospital.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"394933",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bedaya-fertility-&-ivf-hospital/394933?b=2&k=19483&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"64679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bedaya-fertility-&-ivf-hospital/64679?b=1&k=19483&l=search",
+	"arName":"2 ش احمد المليحى متفرع من ش اسماعيل ابو الفتوح - ميدان فينى, الدقى, الجيزة",
+	"lat":"30.044017",
+	"lng":"31.215726",
+	"enName":"2 Ahmed El Melahy St. Off Ismail Abo El Fotouh, Veiny Sq., Dokki, Giza"
+}
+	]
+}]}

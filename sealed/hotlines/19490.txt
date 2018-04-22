@@ -1,0 +1,28 @@
+{"items":[{	"arName":"شركة كوربليس للتأجير التمويلى",
+	"enName":"CorpLease Corporate Leasing Co.",
+	"hotline":"19490",
+	"facebook":"",
+	"web":"http://www.corplease.com.eg/",
+	"arCategory":[
+		"تأجير تمويلى"
+	],
+	"enCategories":[
+		"Leasing & Financing"
+	],
+	"contacts":[
+		{	"profileId":"110342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/corplease-corporate-leasing-co./110342?b=2&k=19490&l=search",
+	"arName":"مبنى كوربليس ب 2112 - - القرية الزكية - كم 28 طريق القاهرة اسكندرية الصحراوى, السادس من اكتوبر, الجيزة",
+	"lat":"30.080151999999998",
+	"lng":"31.021083999999998",
+	"enName":"CorpLease Bldg. B 2112, , Smart Village - Km 28 Cairo Alexandria Desert Rd., 6th of october, Giza"
+},
+		{	"profileId":"161399",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/corplease-corporate-leasing-co./161399?b=1&k=19490&l=search",
+	"arName":"الخط الساخن, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hot line, Dokki, Giza"
+}
+	]
+}]}

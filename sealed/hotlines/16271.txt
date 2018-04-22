@@ -1,0 +1,35 @@
+{"items":[{	"arName":"مستشفى الامل",
+	"enName":"Al Amal Hospital",
+	"hotline":"16271",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"6684",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-amal-hospital/6684?b=3&k=16271&l=search",
+	"arName":"25 ش فوزى رماح متفرع من ش السودان, المهندسين, الجيزة",
+	"lat":"30.055453",
+	"lng":"31.191362999999999",
+	"enName":"25 Fawzy Rammah St. Off Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"391323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-amal-hospital/391323?b=2&k=16271&l=search",
+	"arName":"خدمة طوارئ, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Mohandeseen, Giza"
+},
+		{	"profileId":"559422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-amal-hospital/559422?b=1&k=16271&l=search",
+	"arName":"98 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.047681000000001",
+	"lng":"31.197137999999999",
+	"enName":"98 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"اى سى اس - الدولية للاستشارات والتوريدات",
+	"enName":"ICS - International For Consultancy & Supplies",
+	"hotline":"16389",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"325294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ics-_-international-for-consultancy-&-supplies/325294?b=1&k=16389&l=search",
+	"arName":"خدمة العملاء, زهراء المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}]}

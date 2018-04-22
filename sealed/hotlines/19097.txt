@@ -1,0 +1,70 @@
+{"items":[{	"arName":"ميتلايف لتأمينات الحياة",
+	"enName":"Metlife Insurance Co.",
+	"hotline":"19097",
+	"facebook":"",
+	"web":"http://www.metlifealico.com.eg/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"375987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metlife-insurance-co./375987?b=7&k=19097&l=search",
+	"arName":"ش صلاح سالم - ش الهلالى سابقا - ابراج النيل - مدخل أ - الدور 2, حى شرق, اسيوط",
+	"lat":"27.184695999999999",
+	"lng":"31.195035000000001",
+	"enName":"Salah Salem St. - El Helaly St. Previously, El Nil Towers, Entrance A, Floor 2, Shark district, Assyout"
+},
+		{	"profileId":"136613",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metlife-insurance-co./136613?b=3&k=19097&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"lat":"30.072265000000002",
+	"lng":"31.228304000000001",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+},
+		{	"profileId":"248353",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metlife-insurance-co./248353?b=8&k=19097&l=search",
+	"arName":"30 ش معبد الاقصر, الاقصر, الاقصر",
+	"lat":"25.698713999999999",
+	"lng":"32.640332999999998",
+	"enName":"30 Maabad Luxor St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"180633",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metlife-insurance-co./180633?b=2&k=19097&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+},
+		{	"profileId":"136414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metlife-insurance-co./136414?b=5&k=19097&l=search",
+	"arName":"53 ش المنيل - الدور 2, المنيل, القاهرة",
+	"lat":"30.018383",
+	"lng":"31.225231000000001",
+	"enName":"53 Manial St., Floor 2, El manyal, Cairo"
+},
+		{	"profileId":"127863",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metlife-insurance-co./127863?b=6&k=19097&l=search",
+	"arName":"40 ش حسنى مبارك - المشاية السفلية - الدور 1, المنصورة, الدقهلية",
+	"lat":"31.045977000000001",
+	"lng":"31.358743499999999",
+	"enName":"40 Hosny Mubarak St., El Mashaya El Sofleya, Floor 1, El mansoura, El dakahleya"
+},
+		{	"profileId":"74199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metlife-insurance-co./74199?b=1&k=19097&l=search",
+	"arName":"ابراج نايل سيتى - 2005C - كورنيش النيل - البرج الشمالى - الدور 28, رملة بولاق, القاهرة",
+	"lat":"30.072265000000002",
+	"lng":"31.228304000000001",
+	"enName":"Nile City Towers, 2005C, Corniche El Nil, North Tower, Floor 28, Ramlet boulak, Cairo"
+},
+		{	"profileId":"10972",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/metlife-insurance-co./10972?b=4&k=19097&l=search",
+	"arName":"22 ش الخليفة المأمون - الدور 1, منشية البكرى, مصر الجديدة, القاهرة",
+	"lat":"30.087",
+	"lng":"31.303999999999998",
+	"enName":"22 El Khalifa El Maamoun St., Floor 1, Mansheyet El Bakry, Heliopolis, Cairo"
+}
+	]
+}]}

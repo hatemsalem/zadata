@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الامبراطور لصناعة السيراميك ش.م.م",
+	"enName":"Embrator Ceramic Industries S. A.E",
+	"hotline":"16659",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D8%A5%D9%85%D8%A8%D8%B1%D8%A7%D8%B7%D9%88%D8%B1-%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D8%A9-%D9%88%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A7%D9%85%D9%8A%D9%83-1377337462519698/?__mref=message_bubble",
+	"web":"http://www.embratorceramic.com/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"436688",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/embrator-ceramic-industries-s.-a.e/436688?b=1&k=16659&l=search",
+	"arName":"48 المحور المركزى, الحى الثالث, السادس من اكتوبر, الجيزة",
+	"lat":"29.966484000000001",
+	"lng":"30.936627999999999",
+	"enName":"48 Central Spine, 3rd District, 6th of october, Giza"
+}
+	]
+}]}

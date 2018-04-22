@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شركة التكامل لادارة المشروعات",
+	"enName":"El Takamol Co. For Project Management",
+	"hotline":"19539",
+	"facebook":"http://www.facebook.com/ozonehealthcaredistrict",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"530506",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-takamol-co.-for-project-management/530506?b=1&k=19539&l=search",
+	"arName":"13 ش عبد الرازق السنهورى متفرع من ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.062093999999998",
+	"lng":"31.339589",
+	"enName":"13 Abdel Eazeq El Sanhoury St. Off Makram Ebaid St., Nasr city, Cairo"
+}
+	]
+}]}

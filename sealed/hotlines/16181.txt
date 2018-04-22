@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى الصفا",
+	"enName":"El Safa Hospital",
+	"hotline":"16181",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"256028",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-safa-hospital/256028?b=1&k=16181&l=search",
+	"arName":"خدمة طوارئ, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Mohandeseen, Giza"
+},
+		{	"profileId":"44132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-safa-hospital/44132?b=2&k=16181&l=search",
+	"arName":"40 ش العراق متفرع من ش شهاب, المهندسين, الجيزة",
+	"lat":"30.051546999999999",
+	"lng":"31.197582000000001",
+	"enName":"40 Iraq St. Off Shehab St., Mohandeseen, Giza"
+}
+	]
+}]}

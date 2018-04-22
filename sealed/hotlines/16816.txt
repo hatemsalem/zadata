@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بوبا ايجيبت للتأمين",
+	"enName":"Bupa Egypt Insurance",
+	"hotline":"16816",
+	"facebook":"",
+	"web":"http://www.bupa-intl.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"120564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bupa-egypt-insurance/120564?b=1&k=16816&l=search",
+	"arName":"55 ش 18, المعادى, القاهرة",
+	"lat":"29.964873000000001",
+	"lng":"31.264225",
+	"enName":"55 Rd. 18, Maadi, Cairo"
+},
+		{	"profileId":"225272",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bupa-egypt-insurance/225272?b=2&k=16816&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}]}

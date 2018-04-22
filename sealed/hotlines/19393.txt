@@ -1,0 +1,56 @@
+{"items":[{	"arName":"كوكاكولا مصر",
+	"enName":"Coca-Cola Egypt",
+	"hotline":"19393",
+	"facebook":"http://www.facebook.com/CocaColaEgypt",
+	"web":"http://www.coke.eg/en",
+	"arCategory":[
+		"مشروبات مصنعون"
+	],
+	"enCategories":[
+		"Beverage Industry"
+	],
+	"contacts":[
+		{	"profileId":"28153",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coca_cola-egypt/28153?b=6&k=19393&l=search",
+	"arName":"كم 31 - طريق اسكندرية القاهرة الصحراوى, العامرية, الاسكندرية",
+	"lat":"31.025362999999999",
+	"lng":"29.791397",
+	"enName":"Km 31, Alex Cairo Desert Rd., Amreya, Alexandria"
+},
+		{	"profileId":"129752",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coca_cola-egypt/129752?b=5&k=19393&l=search",
+	"arName":"القطعة 47ب - - المنطقة الصناعية الاولى, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.938033999999998",
+	"lng":"30.899759",
+	"enName":"Plot 47b, , 1st Industrial Zone, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"109443",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coca_cola-egypt/109443?b=4&k=19393&l=search",
+	"arName":"ش التاور, هضبة ام السيد, شرم الشيخ",
+	"lat":"27.881191000000001",
+	"lng":"34.308522000000004",
+	"enName":"El Tower St., Umm el sid hill, Sharm el sheikh"
+},
+		{	"profileId":"108476",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coca_cola-egypt/108476?b=3&k=19393&l=search",
+	"arName":"خدمة العملاء, العامرية, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Amreya, Alexandria"
+},
+		{	"profileId":"77691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coca_cola-egypt/77691?b=1&k=19393&l=search",
+	"arName":"المنطقة الصناعية, الحى السادس, مدينة نصر, القاهرة",
+	"lat":"30.044225000000001",
+	"lng":"31.311900999999999",
+	"enName":"Industrial Zone, 6th District, Nasr city, Cairo"
+},
+		{	"profileId":"77692",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coca_cola-egypt/77692?b=2&k=19393&l=search",
+	"arName":"25 ش احمد حسنى, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.063027000000002",
+	"lng":"31.328620999999998",
+	"enName":"25 Ahmed Hosny St., 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

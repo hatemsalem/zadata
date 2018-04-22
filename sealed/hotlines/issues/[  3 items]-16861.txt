@@ -1,0 +1,82 @@
+{"items":[{	"arName":"صقر للمنتجات الغذائية",
+	"enName":"Sakr For Food Products",
+	"hotline":"16861",
+	"facebook":"",
+	"web":"http://www.sakrgroup.net/",
+	"arCategory":[
+		"البان منتجات - مصنعون"
+	],
+	"enCategories":[
+		"Dairy Industry"
+	],
+	"contacts":[
+		{	"profileId":"256180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sakr-for-food-products/256180?b=1&k=16861&l=search",
+	"arName":"خدمة العملاء, سيدى جابر, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sidi gaber, Alexandria"
+},
+		{	"profileId":"256177",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sakr-for-food-products/256177?b=2&k=16861&l=search",
+	"arName":"23 ش ابن ماجد, سيدى جابر, الاسكندرية",
+	"lat":"31.221931000000001",
+	"lng":"29.942685000000001",
+	"enName":"23 Ibn Maged St., Sidi gaber, Alexandria"
+}
+	]
+}, {	"arName":"صقر للاستثمار الدولى",
+	"enName":"Sakr For International Investment",
+	"hotline":"16861",
+	"facebook":"",
+	"web":"http://www.sakrgroup.net/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"66114",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sakr-for-international-investment/66114?b=4&k=16861&l=search",
+	"arName":"23 ش ابن ماجد, سيدى جابر, الاسكندرية",
+	"lat":"31.223082000000002",
+	"lng":"29.942744000000001",
+	"enName":"23 Ibn Maged St., Sidi gaber, Alexandria"
+},
+		{	"profileId":"256151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sakr-for-international-investment/256151?b=3&k=16861&l=search",
+	"arName":"خدمة العملاء, سيدى جابر, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sidi gaber, Alexandria"
+}
+	]
+}, {	"arName":"صقر جروب",
+	"enName":"Sakr Group",
+	"hotline":"16861",
+	"facebook":"",
+	"web":"http://www.sakrgroup.net/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"256175",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sakr-group/256175?b=5&k=16861&l=search",
+	"arName":"خدمة العملاء, سيدى جابر, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Sidi gaber, Alexandria"
+},
+		{	"profileId":"256164",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sakr-group/256164?b=6&k=16861&l=search",
+	"arName":"23 ش ابن ماجد متفرع من ش المشير, سيدى جابر, الاسكندرية",
+	"lat":"31.221931000000001",
+	"lng":"29.942685000000001",
+	"enName":"23 Ibn Maged St. Off El Moushir St., Sidi gaber, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"كابيتال جروب بروبيرتز - سى جى بى",
+	"enName":"Capital Group Properties - CGP",
+	"hotline":"19333",
+	"facebook":"http://www.facebook.com/CapitalGroupPropertiesEgypt",
+	"web":"http://www.cgp.ae/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"520937",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/capital-group-properties-_-cgp/520937?b=2&k=19333&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028528999999999",
+	"lng":"31.408194999999999",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"520939",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/capital-group-properties-_-cgp/520939?b=1&k=19333&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

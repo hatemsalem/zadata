@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ريتاج للاستشارات والدراسات التسويقية",
+	"enName":"Retaj Real Estate",
+	"hotline":"16073",
+	"facebook":"http://www.facebook.com/KenozRasSudr",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"191052",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/retaj-real-estate/191052?b=1&k=16073&l=search",
+	"arName":"16 ش لوساكا متفرع من ش احمد فخرى - الدور 1, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.065985000000001",
+	"lng":"31.351841",
+	"enName":"16 Lusaka St. Off Ahmed Fakhry St., Floor 1, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"453537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/retaj-real-estate/453537?b=2&k=16073&l=search",
+	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

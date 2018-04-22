@@ -1,0 +1,75 @@
+{"items":[{	"arName":"فندق ستيلا دى مارى سى كلوب العين السخنة",
+	"enName":"Stella Di Mare Sea Club Hotel Ain Soukhna",
+	"hotline":"16517",
+	"facebook":"http://www.facebook.com/Stelladimarehotels",
+	"web":"http://www.stelladimare.com/sea_club_hotel/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"91574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stella-di-mare-sea-club-hotel-ain-soukhna/91574?b=4&k=16517&l=search",
+	"arName":"كم 46 - طريق السويس الغردقة, العين السخنة, العين السخنة",
+	"lat":"29.670627",
+	"lng":"32.354346999999997",
+	"enName":"Km 46, Suez Hurghada Rd., El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"482575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stella-di-mare-sea-club-hotel-ain-soukhna/482575?b=5&k=16517&l=search",
+	"arName":"خدمة العملاء, العين السخنة, العين السخنة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"ستيلا دى مارى",
+	"enName":"Stella Di Mare",
+	"hotline":"16517",
+	"facebook":"",
+	"web":"http://www.stelladimare.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"482572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stella-di-mare/482572?b=1&k=16517&l=search",
+	"arName":"خدمة العملاء, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"فندق ستيلا دى مارى جراند العين السخنة",
+	"enName":"Stella Di Mare Grand Hotel Ain Soukhna",
+	"hotline":"16517",
+	"facebook":"http://www.facebook.com/Stelladimarehotels",
+	"web":"http://www.stelladimare.com/grand_hotel/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"99264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stella-di-mare-grand-hotel-ain-soukhna/99264?b=3&k=16517&l=search",
+	"arName":"كم 46 - طريق السويس الغردقة, العين السخنة, العين السخنة",
+	"lat":"29.671616",
+	"lng":"32.356878999999999",
+	"enName":"Km 46, Suez Hurghada Rd., El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"486337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stella-di-mare-grand-hotel-ain-soukhna/486337?b=2&k=16517&l=search",
+	"arName":"خدمة العملاء, العين السخنة, العين السخنة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El ain el sokhna, El ain el sokhna"
+}
+	]
+}]}

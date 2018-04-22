@@ -1,0 +1,56 @@
+{"items":[{	"arName":"الطارق للسيارات",
+	"enName":"El Tarek Automotive",
+	"hotline":"19850",
+	"facebook":"http://www.facebook.com/eltarek.auto",
+	"web":"http://www.eltarekautomotive.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"449418",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tarek-automotive/449418?b=3&k=19850&l=search",
+	"arName":"241 طريق الحرية, سبورتنج الصغرى, الاسكندرية",
+	"lat":"31.210837699999999",
+	"lng":"29.932980499999999",
+	"enName":"241 El Horreya Rd., Sporting el soghra, Alexandria"
+},
+		{	"profileId":"36936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tarek-automotive/36936?b=4&k=19850&l=search",
+	"arName":"380 طريق الحرية, مصطفى كامل, الاسكندرية",
+	"lat":"31.223337999999998",
+	"lng":"29.945772999999999",
+	"enName":"380 El Horreya Rd., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"365061",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tarek-automotive/365061?b=6&k=19850&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"121685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tarek-automotive/121685?b=5&k=19850&l=search",
+	"arName":"6 أ ش محمد رشدى متفرع من ميدان النبوى المهندس, العجوزة, الجيزة",
+	"lat":"30.065000000000001",
+	"lng":"31.2118",
+	"enName":"6 A Mohamed Roshdy St. Off El Nabawy El Mohandes Sq., Agouza, Giza"
+},
+		{	"profileId":"365058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tarek-automotive/365058?b=1&k=19850&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"449415",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-tarek-automotive/449415?b=2&k=19850&l=search",
+	"arName":"., طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.175999000000001",
+	"lng":"29.930910000000001",
+	"enName":"., Alex. cairo desert rd., Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدلية نور الدين",
+	"enName":"Nour El Din Pharmacy",
+	"hotline":"19938",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"452010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nour-el-din-pharmacy/452010?b=2&k=19938&l=search",
+	"arName":"267 ع - حدائق الاهرام, الهرم, الجيزة",
+	"lat":"29.952482",
+	"lng":"31.089051000000001",
+	"enName":"267 E , Hadaeq El Ahram, El haram, Giza"
+},
+		{	"profileId":"466827",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nour-el-din-pharmacy/466827?b=1&k=19938&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الهرم, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El haram, Giza"
+}
+	]
+}]}

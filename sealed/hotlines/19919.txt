@@ -1,0 +1,49 @@
+{"items":[{	"arName":"الوسيط",
+	"enName":"Al - Waseet",
+	"hotline":"19919",
+	"facebook":"http://www.facebook.com/Waseet.Eg",
+	"web":"http://www.waseet.net/",
+	"arCategory":[
+		"صحف ومجلات"
+	],
+	"enCategories":[
+		"Newspapers & Magazines"
+	],
+	"contacts":[
+		{	"profileId":"143343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-_-waseet/143343?b=4&k=19919&l=search",
+	"arName":"8 عمارات الشرطة - ش المستشار محمود العطار, سموحة, الاسكندرية",
+	"lat":"31.212036999999999",
+	"lng":"29.946325999999999",
+	"enName":"8 El Shorta Bldgs., El Mostashar Mahmoud El Attar St., Semouha, Alexandria"
+},
+		{	"profileId":"52409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-_-waseet/52409?b=3&k=19919&l=search",
+	"arName":"22 ش سوريا - الدور 1, المهندسين, الجيزة",
+	"lat":"30.052710999999999",
+	"lng":"31.197215",
+	"enName":"22 Syria St., Floor 1, Mohandeseen, Giza"
+},
+		{	"profileId":"82053",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-_-waseet/82053?b=1&k=19919&l=search",
+	"arName":"147 أ ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974799999999998",
+	"lng":"31.278300000000002",
+	"enName":"147 A El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"148919",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-_-waseet/148919?b=5&k=19919&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"82054",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-_-waseet/82054?b=2&k=19919&l=search",
+	"arName":"12 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.077663999999999",
+	"lng":"31.311095000000002",
+	"enName":"12 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}]}

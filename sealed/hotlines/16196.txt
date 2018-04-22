@@ -1,0 +1,70 @@
+{"items":[{	"arName":"صيدليات النادى",
+	"enName":"Al Nadi Pharmacies",
+	"hotline":"16196",
+	"facebook":"http://www.facebook.com/Al-Nadi-Pharmacy-195992757109797/?ref=ts",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"50837",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nadi-pharmacies/50837?b=2&k=16196&l=search",
+	"arName":"40 ش الفلاح ميدان لبنان, المهندسين, الجيزة",
+	"lat":"30.058430999999999",
+	"lng":"31.195475999999999",
+	"enName":"40 El Falah St. Lebanon Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"545607",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nadi-pharmacies/545607?b=1&k=16196&l=search",
+	"arName":"., الحى السابع, السادس من اكتوبر, الجيزة",
+	"lat":"29.970932999999999",
+	"lng":"30.939201000000001",
+	"enName":"., 7th District, 6th of october, Giza"
+},
+		{	"profileId":"189703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nadi-pharmacies/189703?b=6&k=16196&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.030104000000001",
+	"lng":"31.021932",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"187125",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nadi-pharmacies/187125?b=5&k=16196&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 6th of october, Giza"
+},
+		{	"profileId":"543530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nadi-pharmacies/543530?b=8&k=16196&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.027032999999999",
+	"lng":"31.013698999999999",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"288780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nadi-pharmacies/288780?b=3&k=16196&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"468239",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nadi-pharmacies/468239?b=7&k=16196&l=search",
+	"arName":"بفرلى هيلز, السادس من اكتوبر, الجيزة",
+	"lat":"30.073081999999999",
+	"lng":"30.946187999999999",
+	"enName":"Beverly Hills, 6th of october, Giza"
+},
+		{	"profileId":"143309",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-nadi-pharmacies/143309?b=4&k=16196&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+}
+	]
+}]}

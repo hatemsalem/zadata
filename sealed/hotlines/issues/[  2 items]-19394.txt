@@ -1,0 +1,48 @@
+{"items":[{	"arName":"اسيت ايجيبت للتعمير",
+	"enName":"Asset Egypt Development",
+	"hotline":"19394",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"257448",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asset-egypt-development/257448?b=1&k=19394&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"257446",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/asset-egypt-development/257446?b=2&k=19394&l=search",
+	"arName":"58 ش سوريا متفرع من ش شهاب, المهندسين, الجيزة",
+	"lat":"30.052253",
+	"lng":"31.201086",
+	"enName":"58 Syria St. Off Shehab St., Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"توين تاورز",
+	"enName":"Twin Towers",
+	"hotline":"19394",
+	"facebook":"http://www.facebook.com/Twin-Towers-Zayed-494723360729072",
+	"web":"http://www.twintowerszayed.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"374607",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/twin-towers/374607?b=3&k=19394&l=search",
+	"arName":"القطعة 18 - محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.024156999999999",
+	"lng":"31.012259",
+	"enName":"Plot 18, 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بيراميدز - ايفر جرين كومبوند",
+	"enName":"Pyramids - Evergreen Compound",
+	"hotline":"16998",
+	"facebook":"http://facebook.com/EvergreenCompound",
+	"web":"http://www.evergreencompound.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"185876",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-_-evergreen-compound/185876?b=2&k=16998&l=search",
+	"arName":"1 ش وادى النيل, المهندسين, الجيزة",
+	"lat":"30.054176999999999",
+	"lng":"31.204014000000001",
+	"enName":"1 Wadi El Nile St., Mohandeseen, Giza"
+},
+		{	"profileId":"187142",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pyramids-_-evergreen-compound/187142?b=1&k=16998&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

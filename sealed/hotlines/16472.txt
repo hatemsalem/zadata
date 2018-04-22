@@ -1,0 +1,21 @@
+{"items":[{	"arName":"مدرسة كونكورديا الفرنسية الدولية",
+	"enName":"Concordia College International Francais",
+	"hotline":"16472",
+	"facebook":"",
+	"web":"http://www.isc.edu.eg/",
+	"arCategory":[
+		"مدارس دولية"
+	],
+	"enCategories":[
+		"Schools - International"
+	],
+	"contacts":[
+		{	"profileId":"147213",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/concordia-college-international-francais/147213?b=1&k=16472&l=search",
+	"arName":"البنفسج 1, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.035035000000001",
+	"lng":"31.466539000000001",
+	"enName":"El Banafseg 1, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

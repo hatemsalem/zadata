@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الكان سى اى تى",
+	"enName":"Alkan CIT",
+	"hotline":"19081",
+	"facebook":"",
+	"web":"http://www.alkancit.com/",
+	"arCategory":[
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"146225",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alkan-cit/146225?b=1&k=19081&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"202900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alkan-cit/202900?b=3&k=19081&l=search",
+	"arName":"ميدان فودافون - المحور المركزى - الحى السادس, السادس من اكتوبر, الجيزة",
+	"lat":"29.950123999999999",
+	"lng":"30.909638999999999",
+	"enName":"Vodafone Sq., Central Spine, 6th District, 6th of october, Giza"
+},
+		{	"profileId":"11797",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alkan-cit/11797?b=2&k=19081&l=search",
+	"arName":"8 ش الجزائر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975618999999998",
+	"lng":"31.275721999999998",
+	"enName":"8 El Gazaer St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

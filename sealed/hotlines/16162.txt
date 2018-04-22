@@ -1,0 +1,21 @@
+{"items":[{	"arName":"سى ان اى - الشركة المصرية للقنوات الفضائية",
+	"enName":"CNE - Cable Network Egypt",
+	"hotline":"16162",
+	"facebook":"http://www.facebook.com/cablenetworkegypt",
+	"web":"http://www.cne-eg.com/",
+	"arCategory":[
+		"اقمار صناعية وريسيفر معدات"
+	],
+	"enCategories":[
+		"Satellite & Receiving Equipment"
+	],
+	"contacts":[
+		{	"profileId":"577650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cne-_-cable-network-egypt/577650?b=1&k=16162&l=search",
+	"arName":"خدمة عملاء شبكة بى ان, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Bein Network Customer Service, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

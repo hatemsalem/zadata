@@ -1,0 +1,28 @@
+{"items":[{	"arName":"عمائر العقارية",
+	"enName":"Amaer Real Estate",
+	"hotline":"16502",
+	"facebook":"http://www.facebook.com/%D8%B9%D9%85%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D9%86%D8%B5%D8%B1-925529834142794",
+	"web":"http://www.amaer.net/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"223409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amaer-real-estate/223409?b=2&k=16502&l=search",
+	"arName":"خدمة العملاء, حى السفارات, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sefarat District, Nasr city, Cairo"
+},
+		{	"profileId":"223399",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amaer-real-estate/223399?b=1&k=16502&l=search",
+	"arName":"القطعة 11 - بلوك 13 - ش سبيل المؤمنين, حى السفارات, مدينة نصر, القاهرة",
+	"lat":"30.034990000000001",
+	"lng":"31.344684999999998",
+	"enName":"Plot 11, Block 13, Sabeel El Moameneen St., El Sefarat District, Nasr city, Cairo"
+}
+	]
+}]}

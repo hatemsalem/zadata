@@ -1,0 +1,21 @@
+{"items":[{	"arName":"جارانتى لتداول الاوراق المالية",
+	"enName":"Guarantee For Securities Exchange",
+	"hotline":"16585",
+	"facebook":"",
+	"web":"http://www.gurantee-capital.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"141327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/guarantee-for-securities-exchange/141327?b=1&k=16585&l=search",
+	"arName":"8 برج مراد - ش مراد - الدور 7 شقة 709, الجيزة, الجيزة",
+	"lat":"30.016249999999999",
+	"lng":"31.212821999999999",
+	"enName":"8 Mourad Tower, Mourad St., Floor 7 Flat 709, Giza, Giza"
+}
+	]
+}]}

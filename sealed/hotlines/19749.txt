@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ايه بى اف - المؤسسة المصرية للهندسة الصحية",
+	"enName":"EPF - Egyptian Establishment For Medical Engineering",
+	"hotline":"19749",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"576862",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/epf-_-egyptian-establishment-for-medical-engineering/576862?b=2&k=19749&l=search",
+	"arName":"خدمة العملاء, العجوزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Agouza, Giza"
+},
+		{	"profileId":"413060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/epf-_-egyptian-establishment-for-medical-engineering/413060?b=1&k=19749&l=search",
+	"arName":"43 ش طنطا, العجوزة, الجيزة",
+	"lat":"30.057473000000002",
+	"lng":"31.211299",
+	"enName":"43 Tanta St., Agouza, Giza"
+}
+	]
+}]}

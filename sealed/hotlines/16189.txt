@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ستار هاوس مول",
+	"enName":"Star House Mall",
+	"hotline":"16189",
+	"facebook":"http://www.facebook.com/starhouseegypt",
+	"web":"",
+	"arCategory":[
+		"مراكز تسوق"
+	],
+	"enCategories":[
+		"Shopping Centers"
+	],
+	"contacts":[
+		{	"profileId":"355537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/star-house-mall/355537?b=1&k=16189&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"355536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/star-house-mall/355536?b=2&k=16189&l=search",
+	"arName":"القطعة 1,2 بلوك 12010 -, مدينة العبور, القليوبية",
+	"lat":"30.199731",
+	"lng":"31.455272000000001",
+	"enName":"Plot 1, 2, Block 12010,, Obour city, Kaliobeya"
+}
+	]
+}]}

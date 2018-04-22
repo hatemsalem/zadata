@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سبيد سيرفس",
+	"enName":"Speed Service",
+	"hotline":"16643",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"انظمة امنية و كاميرات مراقبة"
+	],
+	"enCategories":[
+		"Security Cameras & Systems"
+	],
+	"contacts":[
+		{	"profileId":"392134",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-service/392134?b=2&k=16643&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"61976",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/speed-service/61976?b=1&k=16643&l=search",
+	"arName":"13 عمارات اسكان شباب المهندسين -, مدينة نصر, القاهرة",
+	"lat":"30.070529000000001",
+	"lng":"31.342562000000001",
+	"enName":"13 Eskan Shabab El Mohandeseen Bldgs.,, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اتكو للاستثمار والتنمية",
+	"enName":"Etco For Investment & Development",
+	"hotline":"19117",
+	"facebook":"http://www.facebook.com/etcoupvc",
+	"web":"http://www.etco-group.com/",
+	"arCategory":[
+		"الومنيوم"
+	],
+	"enCategories":[
+		"Aluminum"
+	],
+	"contacts":[
+		{	"profileId":"576865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etco-for-investment-&-development/576865?b=2&k=19117&l=search",
+	"arName":"خدمة العملاء, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"517276",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etco-for-investment-&-development/517276?b=1&k=19117&l=search",
+	"arName":"القطعة 33 - المجاورة السادسة - الحى الرابع, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.019805999999999",
+	"lng":"31.002859999999998",
+	"enName":"Plot 33, 6th Neighbourhood, 4th District, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

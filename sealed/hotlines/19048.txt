@@ -1,0 +1,21 @@
+{"items":[{	"arName":"صيدليات الاجزاخانة",
+	"enName":"Al Agzakhana Pharmacies",
+	"hotline":"19048",
+	"facebook":"http://www.facebook.com/Al-agzakhana-559982180767883",
+	"web":"http://www.alagzakhana.com/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"577180",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-agzakhana-pharmacies/577180?b=1&k=19048&l=search",
+	"arName":"306 ش الميثاق, زهراء مدينة نصر, مدينة نصر, القاهرة",
+	"lat":"30.049876999999999",
+	"lng":"31.390454999999999",
+	"enName":"306 El Methaq St., Zahraa Nasr City, Nasr city, Cairo"
+}
+	]
+}]}

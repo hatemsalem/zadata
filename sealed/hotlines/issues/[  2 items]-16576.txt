@@ -1,0 +1,50 @@
+{"items":[{	"arName":"مطعم ايكيا",
+	"enName":"IKEA Restaurant",
+	"hotline":"16576",
+	"facebook":"http://www.facebook.com/IkeaEgypt",
+	"web":"http://www.ikea.com/ms/en_EG/IKEA-food",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"449082",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ikea-restaurant/449082?b=3&k=16576&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.030217100000002",
+	"lng":"31.407610699999999",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ايكيا مصر",
+	"enName":"IKEA Egypt",
+	"hotline":"16576",
+	"facebook":"http://www.facebook.com/IkeaEgypt",
+	"web":"http://www.ikea.eg/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"424636",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ikea-egypt/424636?b=2&k=16576&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.029561000000001",
+	"lng":"31.407202000000002",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"519035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ikea-egypt/519035?b=1&k=16576&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

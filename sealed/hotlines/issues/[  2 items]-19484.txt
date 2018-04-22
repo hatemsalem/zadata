@@ -1,0 +1,48 @@
+{"items":[{	"arName":"الهانوف للاستثمار السياحى",
+	"enName":"Al Hanove For Touristic Investment",
+	"hotline":"19484",
+	"facebook":"",
+	"web":"http://www.alhanovetravel.net/",
+	"arCategory":[
+		"سياحة - تنمية"
+	],
+	"enCategories":[
+		"Tourism Development"
+	],
+	"contacts":[
+		{	"profileId":"386645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-hanove-for-touristic-investment/386645?b=2&k=19484&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"95606",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-hanove-for-touristic-investment/95606?b=1&k=19484&l=search",
+	"arName":"15 ش طيبة, المهندسين, الجيزة",
+	"lat":"30.0489",
+	"lng":"31.202000000000002",
+	"enName":"15 Tiba St., Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"الهانوف بارك",
+	"enName":"Al Hanove Park",
+	"hotline":"19484",
+	"facebook":"",
+	"web":"http://www.alhanove.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"386648",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-hanove-park/386648?b=3&k=19484&l=search",
+	"arName":"طريق السلام, خليج نعمة, شرم الشيخ",
+	"lat":"27.895136999999998",
+	"lng":"34.304561999999997",
+	"enName":"El Salam Rd., Naama bay, Sharm el sheikh"
+}
+	]
+}]}

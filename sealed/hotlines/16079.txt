@@ -1,0 +1,21 @@
+{"items":[{	"arName":"اجروكورب",
+	"enName":"Agrocorp",
+	"hotline":"16079",
+	"facebook":"http://www.facebook.com/FoodyEgypt",
+	"web":"http://www.agrocorp.net/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"528354",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/agrocorp/528354?b=1&k=16079&l=search",
+	"arName":"17 ش القنال, ثكنات المعادى, المعادى, القاهرة",
+	"lat":"29.951626999999998",
+	"lng":"31.267979",
+	"enName":"17 El Canal St., Thakanat El Maadi, Maadi, Cairo"
+}
+	]
+}]}

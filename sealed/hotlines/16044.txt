@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اوشن بلو مارينا",
+	"enName":"Ocean Blue Marina",
+	"hotline":"16044",
+	"facebook":"http://www.facebook.com/oceanbluehotelmarina",
+	"web":"http://www.oceanbluemarina.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"106297",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ocean-blue-marina/106297?b=2&k=16044&l=search",
+	"arName":"كم 105 - طريق اسكندرية مطروح الصحراوى - جزيرة 22 - مارينا 5, مارينا, الساحل الشمالى",
+	"lat":"30.834938999999999",
+	"lng":"28.989526000000001",
+	"enName":"Km 105, Alex Matrouh Desert Rd., Island 22, Marina 5, Marina, North coast"
+},
+		{	"profileId":"172064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ocean-blue-marina/172064?b=1&k=16044&l=search",
+	"arName":"خدمة العملاء, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, koleyet El Banat, Heliopolis, Cairo"
+}
+	]
+}]}

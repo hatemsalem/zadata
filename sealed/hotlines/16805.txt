@@ -1,0 +1,21 @@
+{"items":[{	"arName":"وزارة الصحة - خط المساعدة للاقلاع عن التدخين",
+	"enName":"Ministry Of Health - Smoking Quit Helpline",
+	"hotline":"16805",
+	"facebook":"",
+	"web":"http://www.mohp.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"256091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-health-_-smoking-quit-helpline/256091?b=1&k=16805&l=search",
+	"arName":"خدمة العملاء, لاظوغلى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Lazoughly, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,336 @@
+{"items":[{	"arName":"هيلتون كورنيش الاسكندرية",
+	"enName":"Hilton Alexandria Corniche",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/HiltonAlexandriaCorniche?fref=ts",
+	"web":"http://www3.hilton.com/en/hotels/egypt/hilton-alexandria-corniche-ALYACHI/index.html",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"406860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-alexandria-corniche/406860?b=3&k=19009&l=search",
+	"arName":"544 طريق الجيش, سيدى بشر, الاسكندرية",
+	"lat":"31.261952999999998",
+	"lng":"29.984124999999999",
+	"enName":"544 El Guish Rd., Sidi beshr, Alexandria"
+}
+	]
+}, {	"arName":"هيلتون شلالات شرم ريزورت",
+	"enName":"Hilton Sharm Waterfalls Resort",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/Hiltonsharmwaterfalls",
+	"web":"http://www1.hilton.com/en_US/hi/hotel/SSHWFHI-Hilton-Sharm-Waterfalls-Resort/index.do",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"45379",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-sharm-waterfalls-resort/45379?b=17&k=19009&l=search",
+	"arName":"ش الفنار, هضبة ام السيد, شرم الشيخ",
+	"lat":"27.855768999999999",
+	"lng":"34.314196000000003",
+	"enName":"El Fanar St., Umm el sid hill, Sharm el sheikh"
+},
+		{	"profileId":"553586",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-sharm-waterfalls-resort/553586?b=16&k=19009&l=search",
+	"arName":"خدمة العملاء, هضبة ام السيد, شرم الشيخ",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Umm el sid hill, Sharm el sheikh"
+}
+	]
+}, {	"arName":"هيلتون الغردقة ريزورت",
+	"enName":"Hilton Hurghada Resort",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/HiltonHRGResort",
+	"web":"http://www3.hilton.com/en/hotels/egypt/hilton-hurghada-resort-HRGHRHI/index.html",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"93575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-hurghada-resort/93575?b=10&k=19009&l=search",
+	"arName":"طريق الغردقة سفاجا - الممشى السياحى, طريق القرى, الغردقة",
+	"lat":"27.158804",
+	"lng":"33.825712000000003",
+	"enName":"Hurghada Safaga Rd., Touristic Passage, Villages rd., Hurghada"
+},
+		{	"profileId":"573653",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-hurghada-resort/573653?b=11&k=19009&l=search",
+	"arName":"خدمة العملاء, طريق القرى, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Villages rd., Hurghada"
+}
+	]
+}, {	"arName":"هيلتون العالمية",
+	"enName":"Hilton Worldwide",
+	"hotline":"19009",
+	"facebook":"",
+	"web":"http://www.hilton.com/egypt",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"226619",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-worldwide/226619?b=18&k=19009&l=search",
+	"arName":"1191 كورنيش النيل, رملة بولاق, القاهرة",
+	"lat":"30.064458999999999",
+	"lng":"31.227426999999999",
+	"enName":"1191 Corniche El Nil, Ramlet boulak, Cairo"
+},
+		{	"profileId":"369058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-worldwide/369058?b=19&k=19009&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+}
+	]
+}, {	"arName":"كونراد القاهرة",
+	"enName":"Conrad Cairo",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/conradcairo",
+	"web":"http://www.conradhotels3.hilton.com/en/hotels/egypt/conrad-cairo-CAICICI/index.html",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"14266",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/conrad-cairo/14266?b=2&k=19009&l=search",
+	"arName":"1191 كورنيش النيل, بولاق, القاهرة",
+	"lat":"30.065417",
+	"lng":"31.227423999999999",
+	"enName":"1191 Corniche El Nil, Boulak, Cairo"
+},
+		{	"profileId":"483466",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/conrad-cairo/483466?b=1&k=19009&l=search",
+	"arName":"خدمة العملاء, بولاق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Boulak, Cairo"
+}
+	]
+}, {	"arName":"هيلتون شاركس باى ريزورت",
+	"enName":"Hilton Sharks Bay Resort",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/HiltonSharksBayResort",
+	"web":"http://www1.hilton.com/en_US/hi/hotel/SSHSBHI-Hilton-Sharks-Bay-Resort/index.do",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"106652",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-sharks-bay-resort/106652?b=15&k=19009&l=search",
+	"arName":"الغرقانة, رأس نصرانى, شرم الشيخ",
+	"lat":"27.965848000000001",
+	"lng":"34.400435000000002",
+	"enName":"El Gharqana, Ras nasrani, Sharm el sheikh"
+}
+	]
+}, {	"arName":"فندق هيلتون الاسكندرية جرين بلازا",
+	"enName":"Hilton Alexandria Green Plaza Hotel",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/hiltongreenplaza",
+	"web":"http://www3.hilton.com/en/hotels/egypt/hilton-alexandria-green-plaza-ALYGPHI/index.html?gclid=CKH-naiu8M0CFUE_GwodKPQIDg",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"56052",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-alexandria-green-plaza-hotel/56052?b=4&k=19009&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.206648000000001",
+	"lng":"29.965547999999998",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+}
+	]
+}, {	"arName":"هيلتون مركز التجارة العالمى بالقاهرة",
+	"enName":"Hilton Cairo World Trade Centre Residence",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/HiltonCairoWorldTradeCentreResidence",
+	"web":"http://www.cairo-wtc.hilton.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"107010",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-cairo-world-trade-centre-residence/107010?b=7&k=19009&l=search",
+	"arName":"1191 كورنيش النيل, بولاق, القاهرة",
+	"lat":"30.064458999999999",
+	"lng":"31.227426999999999",
+	"enName":"1191 Corniche El Nil, Boulak, Cairo"
+}
+	]
+}, {	"arName":"هيلتون مرسى علم نوبيان ريزورت",
+	"enName":"Hilton Marsa Alam Nubian Resort",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/HitonMarsaAlamNubianResort",
+	"web":"http://www3.hilton.com/en/hotels/egypt/hilton-marsa-alam-nubian-resort-RMFHIHI/index.html",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"317402",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-marsa-alam-nubian-resort/317402?b=13&k=19009&l=search",
+	"arName":"كم 97 - طريق القصير مرسى علم - ابو دباب, خليج كورايا, مرسى علم",
+	"lat":"25.345635999999999",
+	"lng":"34.734851999999997",
+	"enName":"Km 97, Quseir Marsa Alam Rd., Abou Dabbab, Corraya bay, Marsa alam"
+}
+	]
+}, {	"arName":"هيلتون كايرو زمالك ريزيدنسيز",
+	"enName":"Hilton Cairo Zamalek Residences",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/HiltonCairoZamalek",
+	"web":"http://www.placeshilton.com/zamalek-residences-cairo",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"297792",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-cairo-zamalek-residences/297792?b=8&k=19009&l=search",
+	"arName":"21 ش محمد مظهر, الزمالك, القاهرة",
+	"lat":"30.067554999999999",
+	"lng":"31.222494999999999",
+	"enName":"21 Mohamed Mazhar St., Zamalek, Cairo"
+}
+	]
+}, {	"arName":"هيلتون الاقصر ريزورت اند سبا",
+	"enName":"Hilton Luxor Resort & Spa",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/HiltonLuxorResortAndSpa",
+	"web":"http://www.hiltonluxor.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"21634",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-luxor-resort-&-spa/21634?b=12&k=19009&l=search",
+	"arName":"13 ش الكرنك الجديد, الاقصر, الاقصر",
+	"lat":"25.729823",
+	"lng":"32.656736000000002",
+	"enName":"13 El Karnak El Gadid St., LUXOR, Luxor, Luxor"
+}
+	]
+}, {	"arName":"هيلتون بيراميدز جولف ريزورت",
+	"enName":"Hilton Pyramids Golf Resort",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/pages/Hilton-Pyramids-Golf-Resort/101297573261018",
+	"web":"http://www1.hilton.com/en_US/hi/hotel/CAIPGHI-Hilton-Pyramids-Golf-Resort/index.do",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"61758",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-pyramids-golf-resort/61758?b=14&k=19009&l=search",
+	"arName":"طريق الواحات - دريم لاند, السادس من اكتوبر, الجيزة",
+	"lat":"29.962904000000002",
+	"lng":"31.045446999999999",
+	"enName":"El Wahat Rd., Dream Land, 6th of october, Giza"
+}
+	]
+}, {	"arName":"رمسيس هيلتون",
+	"enName":"Ramses Hilton",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/RamsesHiltonEG",
+	"web":"http://www1.hilton.com/en_US/hi/hotel/CAIRHTW-Ramses-Hilton/index.do",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"12903",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ramses-hilton/12903?b=20&k=19009&l=search",
+	"arName":"1115 كورنيش النيل, وسط البلد, القاهرة",
+	"lat":"30.050224",
+	"lng":"31.231418000000001",
+	"enName":"1115 Corniche El Nil, Downtown, Cairo"
+}
+	]
+}, {	"arName":"هيلتون القاهرة هليوبوليس",
+	"enName":"Hilton Cairo Heliopolis",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/HiltonMiddleEast/?brand_redir=125762892900",
+	"web":"http://www3.hilton.com/en/index.html",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"144540",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-cairo-heliopolis/144540?b=5&k=19009&l=search",
+	"arName":"1 ش الشهيد سيد زكريا متفرع من طريق العروبة, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.106822999999999",
+	"lng":"31.364528",
+	"enName":"1 El Shaheed Sayed Zakareya St. Off El Orouba Rd., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"580794",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-cairo-heliopolis/580794?b=6&k=19009&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"هيلتون الغردقة لونج بيتش ريزورت",
+	"enName":"Hilton Hurghada Long Beach Resort",
+	"hotline":"19009",
+	"facebook":"http://www.facebook.com/Hilton.HRGLB.Resort",
+	"web":"http://www1.hilton.com/en_US/hi/hotel/HRGLBHI-Hilton-Hurghada-Long-Beach-Resort/index.do",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"105645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hilton-hurghada-long-beach-resort/105645?b=9&k=19009&l=search",
+	"arName":"طريق سهل حشيش, طريق القرى, الغردقة",
+	"lat":"27.083276999999999",
+	"lng":"33.859777000000001",
+	"enName":"Sahl Hashish Rd., Villages rd., Hurghada"
+}
+	]
+}]}

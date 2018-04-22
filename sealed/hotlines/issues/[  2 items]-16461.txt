@@ -1,0 +1,41 @@
+{"items":[{	"arName":"سيتى لايت للانشاء والتعمير",
+	"enName":"City Light",
+	"hotline":"16461",
+	"facebook":"",
+	"web":"http://www.citylight1.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"187251",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/city-light/187251?b=1&k=16461&l=search",
+	"arName":"خدمة العملاء, سيدى بشر, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sidi beshr, Alexandria"
+}
+	]
+}, {	"arName":"سيتى لايت",
+	"enName":"City Light",
+	"hotline":"16461",
+	"facebook":"",
+	"web":"http://www.citylight1.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"379800",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/city-light/379800?b=2&k=16461&l=search",
+	"arName":"ش مصطفى كامل, سيدى بشر قبلى, الاسكندرية",
+	"lat":"31.245325000000001",
+	"lng":"29.993510000000001",
+	"enName":"Mostafa Kamel St., Sidi beshr kebly, Alexandria"
+}
+	]
+}]}

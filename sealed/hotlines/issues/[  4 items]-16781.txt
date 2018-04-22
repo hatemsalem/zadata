@@ -1,0 +1,88 @@
+{"items":[{	"arName":"مستشفيات اندلسية",
+	"enName":"Andalusia Hospitals",
+	"hotline":"16781",
+	"facebook":"http://www.facebook.com/AndalusiaEgypt",
+	"web":"http://www.andalusia-alshalalat.net/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"50370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-hospitals/50370?b=3&k=16781&l=search",
+	"arName":"7 ش محمد محمد مطاوع متفرع من ش السلطان حسين, الشلالات, الاسكندرية",
+	"lat":"31.203464",
+	"lng":"29.909718000000002",
+	"enName":"7 Mohamed Mohamed Motawea St. Off El Sultan Hussein St., El shalalat, Alexandria"
+}
+	]
+}, {	"arName":"صيدليات اندلسية",
+	"enName":"Andalusia Pharmacies",
+	"hotline":"16781",
+	"facebook":"",
+	"web":"http://www.andalusia-alshalalat.net/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"432523",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-pharmacies/432523?b=4&k=16781&l=search",
+	"arName":"7 ش محمد مطاوع متفرع من ش السلطان حسين, الشلالات, الاسكندرية",
+	"lat":"31.203464",
+	"lng":"29.909718000000002",
+	"enName":"7 Mohamed Motawea St. Off El Sultan Hussein St., El shalalat, Alexandria"
+}
+	]
+}, {	"arName":"مستشفى اندلسية المعادى",
+	"enName":"Andalusia El Maadi Hospital",
+	"hotline":"16781",
+	"facebook":"http://www.facebook.com/AndalusiaEgypt",
+	"web":"http://www.andalusia-almaadi.net/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"432645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-el-maadi-hospital/432645?b=1&k=16781&l=search",
+	"arName":"خدمة طوارئ, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"135137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-el-maadi-hospital/135137?b=2&k=16781&l=search",
+	"arName":"القطعة 4ج/6 - تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.973547",
+	"lng":"31.281901000000001",
+	"enName":"Plot 4c/6, El Laselky Division, New Maadi, Maadi, Cairo"
+}
+	]
+}, {	"arName":"مستشفى اندلسية سموحة",
+	"enName":"Andalusia Smouha Hospital",
+	"hotline":"16781",
+	"facebook":"",
+	"web":"http://www.andalusia-smouha.net/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"397033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalusia-smouha-hospital/397033?b=5&k=16781&l=search",
+	"arName":"35 ش بهاء الدين الغتورى متفرع من ش مصطفى كامل, سموحة, الاسكندرية",
+	"lat":"31.217677999999999",
+	"lng":"29.942803000000001",
+	"enName":"35 Bahaa El Din El Ghatwary St. Off Mostafa Kamel St., Semouha, Alexandria"
+}
+	]
+}]}

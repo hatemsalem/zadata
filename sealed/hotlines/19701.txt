@@ -1,0 +1,28 @@
+{"items":[{	"arName":"اصول مصر",
+	"enName":"Osool Misr",
+	"hotline":"19701",
+	"facebook":"",
+	"web":"http://www.osoolmisr.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"421742",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-misr/421742?b=1&k=19701&l=search",
+	"arName":"14 ش الكوثر متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.045121999999999",
+	"lng":"31.197523",
+	"enName":"14 El Kawthar St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"423162",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/osool-misr/423162?b=2&k=19701&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

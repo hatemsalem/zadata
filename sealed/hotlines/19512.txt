@@ -1,0 +1,28 @@
+{"items":[{	"arName":"يس كلينيك",
+	"enName":"Yes Clinic",
+	"hotline":"19512",
+	"facebook":"http://www.facebook.com/dramrelnaggary",
+	"web":"http://www.amrelnaggary.org/",
+	"arCategory":[
+		"اطباء"
+	],
+	"enCategories":[
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"487909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yes-clinic/487909?b=2&k=19512&l=search",
+	"arName":"خدمة العملاء, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"311340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yes-clinic/311340?b=1&k=19512&l=search",
+	"arName":"7 ذ ميدان الانبا بولا - تقسيم اسماء فهمى - برج التيسير, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.078006999999999",
+	"lng":"31.337817000000001",
+	"enName":"7 Z El Anba Boula Sq., Asmaa Fahmy Division, El Tayseer Tower, Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

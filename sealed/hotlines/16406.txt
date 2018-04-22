@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الكابلات الكهربائية المصرية",
+	"enName":"Electro Cable Egypt",
+	"hotline":"16406",
+	"facebook":"",
+	"web":"http://www.ececables.com/",
+	"arCategory":[
+		"كابلات واسلاك"
+	],
+	"enCategories":[
+		"Cable & Wire"
+	],
+	"contacts":[
+		{	"profileId":"463401",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/electro-cable-egypt/463401?b=1&k=16406&l=search",
+	"arName":"كم 4.6 - ش ترعة الاسماعيلية, مسطرد, القليوبية",
+	"lat":"30.121292",
+	"lng":"31.285259",
+	"enName":"Km 4.6, Teraet El Ismaileya St., Mostorod, Kaliobeya"
+}
+	]
+}]}

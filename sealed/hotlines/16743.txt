@@ -1,0 +1,30 @@
+{"items":[{	"arName":"ازها كومبوند",
+	"enName":"Azha Compound",
+	"hotline":"16743",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"قرى سياحية",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Villages - Touristic",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"485882",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/azha-compound/485882?b=2&k=16743&l=search",
+	"arName":"كم 34 - طريق الغردقة الاسماعيلية, العين السخنة, العين السخنة",
+	"lat":"29.713242999999999",
+	"lng":"32.381666000000003",
+	"enName":"Km 34, Hurghada Ismaileya Rd., El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"483742",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/azha-compound/483742?b=1&k=16743&l=search",
+	"arName":"القطعة 176 - ش التسعين - الدور 2, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.026857",
+	"lng":"31.459703000000001",
+	"enName":"Plot 176, El Tesaeen St., Floor 2, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

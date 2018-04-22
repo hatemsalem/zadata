@@ -1,0 +1,37 @@
+{"items":[{	"arName":"جاندوفلى اكسبرس",
+	"enName":"Gandofli Express",
+	"hotline":"16870",
+	"facebook":"http://www.facebook.com/GandofliExpress",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"506339",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gandofli-express/506339?b=3&k=16870&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"506315",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gandofli-express/506315?b=2&k=16870&l=search",
+	"arName":"81 سور نادى الترسانة -, المهندسين, الجيزة",
+	"lat":"30.060858",
+	"lng":"31.201986999999999",
+	"enName":"81 El Tersana Club Wall,, Mohandeseen, Giza"
+},
+		{	"profileId":"537614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gandofli-express/537614?b=1&k=16870&l=search",
+	"arName":"القطعة 82 - ش اخناتون - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.003406999999999",
+	"lng":"31.421278000000001",
+	"enName":"Plot 82, Ekhnatoun St., 1St District, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,90 @@
+{"items":[{	"arName":"مطعم مهراجا الهندى",
+	"enName":"Maharaja Indian Restaurant",
+	"hotline":"16396",
+	"facebook":"http://www.facebook.com/maharaja.eg",
+	"web":"http://www.maharaja-eg.com/",
+	"arCategory":[
+		"مطاعم هندية",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم عالمية"
+	],
+	"enCategories":[
+		"Indian Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"International Cuisine"
+	],
+	"contacts":[
+		{	"profileId":"465176",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/465176?b=6&k=16396&l=search",
+	"arName":"23 ش النهضة تقاطع ش 7 - برج الملكة, سرايات المعادى, المعادى, القاهرة",
+	"lat":"29.957999999999998",
+	"lng":"31.256599999999999",
+	"enName":"23 El Nahda St. Intersection Of Rd. 7, El Maleka Tower, Sarayat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"578866",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/578866?b=10&k=16396&l=search",
+	"arName":"ش جيهان, المنصورة, الدقهلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Gihan St., El mansoura, El dakahleya"
+},
+		{	"profileId":"530522",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/530522?b=3&k=16396&l=search",
+	"arName":"6 ش الشهيد عبد المنعم حافظ, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.084517000000002",
+	"lng":"31.341775999999999",
+	"enName":"6 El Shaheed Abdel Moneim Hafez St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"498650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/498650?b=4&k=16396&l=search",
+	"arName":"القطعة 107 - ش البنوك - مجمع البنوك, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.018612999999998",
+	"lng":"31.421064999999999",
+	"enName":"Plot 107, Banks St., Banks Complex, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"569193",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/569193?b=8&k=16396&l=search",
+	"arName":"المجاورة الثالثة - الحى الثانى, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.027149999999999",
+	"lng":"31.010997",
+	"enName":"3rd Neighbourhood, 2nd District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"578199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/578199?b=2&k=16396&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"lat":"30.054638000000001",
+	"lng":"31.492152000000001",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"446581",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/446581?b=1&k=16396&l=search",
+	"arName":"85 ش الحرية, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.088704",
+	"lng":"31.348300999999999",
+	"enName":"85 El Horreya St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"525780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/525780?b=9&k=16396&l=search",
+	"arName":"445 ش المعهد المجاورة الثانية, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.972358",
+	"lng":"30.953963999999999",
+	"enName":"445 El Maahad St. 2nd Neighbourhood, 1st District, 6th of october, Giza"
+},
+		{	"profileId":"405110",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/405110?b=5&k=16396&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الماظة, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"578289",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/maharaja-indian-restaurant/578289?b=7&k=16396&l=search",
+	"arName":"3 ش حسن عاصم متفرع من ش المنصور محمد, الزمالك, القاهرة",
+	"lat":"30.063162999999999",
+	"lng":"31.218710999999999",
+	"enName":"3 Hassan Assem St. Off El Mansour Mohamed St., Zamalek, Cairo"
+}
+	]
+}]}

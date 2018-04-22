@@ -1,0 +1,35 @@
+{"items":[{	"arName":"ايه اكس ايه ايجيبت",
+	"enName":"AXA Egypt",
+	"hotline":"16363",
+	"facebook":"http://www.facebook.com/AXAEgypt",
+	"web":"http://www.axa-egypt.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"577018",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/axa-egypt/577018?b=3&k=16363&l=search",
+	"arName":"2005 أ ابراج نايل سيتى - كورنيش النيل - الدور 5, رملة بولاق, القاهرة",
+	"lat":"30.072222",
+	"lng":"31.228332999999999",
+	"enName":"2005 A Nile City Towers, Corniche El Nil, Floor 5, Ramlet boulak, Cairo"
+},
+		{	"profileId":"258049",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/axa-egypt/258049?b=1&k=16363&l=search",
+	"arName":"القطعة 214 - - المنطقة الثانية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.027820999999999",
+	"lng":"31.465267000000001",
+	"enName":"Plot 214, , 2nd Zone, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"577021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/axa-egypt/577021?b=2&k=16363&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,70 @@
+{"items":[{	"arName":"سى فود هاوس",
+	"enName":"Seafood House",
+	"hotline":"16791",
+	"facebook":"",
+	"web":"http://www.seafood-house.net/home",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"441484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seafood-house/441484?b=4&k=16791&l=search",
+	"arName":"123 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"lat":"30.026246",
+	"lng":"31.223127999999999",
+	"enName":"123 Abdel Aziz Al Saoud St., El manyal, Cairo"
+},
+		{	"profileId":"367484",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seafood-house/367484?b=3&k=16791&l=search",
+	"arName":"55 ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.056721",
+	"lng":"31.337831999999999",
+	"enName":"55 Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"441506",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/seafood-house/441506?b=5&k=16791&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"بيت المعلم",
+	"enName":"Bait El Maalem",
+	"hotline":"16791",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"441508",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bait-el-maalem/441508?b=1&k=16791&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+},
+		{	"profileId":"441486",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bait-el-maalem/441486?b=2&k=16791&l=search",
+	"arName":"123 ش عبد العزيز ال سعود, المنيل, القاهرة",
+	"lat":"30.026246",
+	"lng":"31.223127999999999",
+	"enName":"123 Abdel Aziz Al Saoud St., El manyal, Cairo"
+}
+	]
+}]}

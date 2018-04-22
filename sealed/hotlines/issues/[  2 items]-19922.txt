@@ -1,0 +1,62 @@
+{"items":[{	"arName":"سوناى لصناعة الاجهزة الكهربائية والمنزلية",
+	"enName":"Sonai Co. For Appliances & Housewares Industry",
+	"hotline":"19922",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"577348",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sonai-co.-for-appliances-&-housewares-industry/577348?b=5&k=19922&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"186509",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sonai-co.-for-appliances-&-housewares-industry/186509?b=4&k=19922&l=search",
+	"arName":"القطعة 12003 - ش 500, مدينة العبور, القليوبية",
+	"lat":"30.202563999999999",
+	"lng":"31.443849",
+	"enName":"Plot 12003, Rd. 500, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"الصابرين",
+	"enName":"Al Sabreen",
+	"hotline":"19922",
+	"facebook":"http://www.facebook.com/AlsabrinCenter",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"577718",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-sabreen/577718?b=2&k=19922&l=search",
+	"arName":"خدمة العملاء, باب الخلق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Bab el khalk, Cairo"
+},
+		{	"profileId":"194150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-sabreen/194150?b=1&k=19922&l=search",
+	"arName":"6 ش حمام التلات متفرع من ش الازهر, الموسكى, القاهرة",
+	"lat":"30.048221000000002",
+	"lng":"31.25543",
+	"enName":"6 Hammam El Talat St. Off Azhar St., El mousky, Cairo"
+},
+		{	"profileId":"194145",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-sabreen/194145?b=3&k=19922&l=search",
+	"arName":"7 ش الاستئناف متفرع من ش بورسعيد, باب الخلق, القاهرة",
+	"lat":"30.045618999999999",
+	"lng":"31.254196",
+	"enName":"7 El Esteanaf St. Off Port Said St., Bab el khalk, Cairo"
+}
+	]
+}]}

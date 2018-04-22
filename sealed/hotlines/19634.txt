@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الدولية للخدمات البريدية",
+	"enName":"Egy Serv",
+	"hotline":"19634",
+	"facebook":"http://www.facebook.com/info.egyserv",
+	"web":"http://www.egyserv.com/",
+	"arCategory":[
+		"بريد سريع خدمات"
+	],
+	"enCategories":[
+		"Courier Services"
+	],
+	"contacts":[
+		{	"profileId":"445348",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-serv/445348?b=1&k=19634&l=search",
+	"arName":"44 ش عبد المنعم رياض تقاطع ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.053325000000001",
+	"lng":"31.208293000000001",
+	"enName":"44 Abdel Moneim Riad St. Intersection Of El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"490102",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-serv/490102?b=2&k=19634&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"قنديل للاستثمار العقارى وادارة المشروعات",
+	"enName":"Kandil For Real Estate & Project Development",
+	"hotline":"19473",
+	"facebook":"http://www.facebook.com/kandilrealestateandprojectdevelopment",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"501269",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-for-real-estate-&-project-development/501269?b=1&k=19473&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"443964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-for-real-estate-&-project-development/443964?b=2&k=19473&l=search",
+	"arName":"21 ش مكرم عبيد - الدور 10, مدينة نصر, القاهرة",
+	"lat":"30.057331999999999",
+	"lng":"31.345889",
+	"enName":"21 Makram Ebaid St., Floor 10, Nasr city, Cairo"
+}
+	]
+}]}

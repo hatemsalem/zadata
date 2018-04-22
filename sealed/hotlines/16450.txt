@@ -1,0 +1,21 @@
+{"items":[{	"arName":"مؤسسة واحد من الناس",
+	"enName":"Wahed Men El Nas Establishment",
+	"hotline":"16450",
+	"facebook":"http://www.facebook.com/Wahed.Men.El.Nas.Foundation",
+	"web":"",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"408698",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wahed-men-el-nas-establishment/408698?b=1&k=16450&l=search",
+	"arName":"32 ب, جنوب الاكاديمية, القاهرة الجديدة, القاهرة",
+	"lat":"30.031882",
+	"lng":"31.422903000000002",
+	"enName":"32 B, South Academy, New cairo, Cairo"
+}
+	]
+}]}

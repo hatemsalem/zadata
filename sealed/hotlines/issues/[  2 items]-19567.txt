@@ -1,0 +1,181 @@
+{"items":[{	"arName":"جو باص",
+	"enName":"Go Bus",
+	"hotline":"19567",
+	"facebook":"http://www.facebook.com/GoBusEgy",
+	"web":"http://www.gobus-eg.com/",
+	"arCategory":[
+		"اتوبيسات شارتر ومحطات"
+	],
+	"enCategories":[
+		"Bus Charters & Stations"
+	],
+	"contacts":[
+		{	"profileId":"180842",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/180842?b=6&k=19567&l=search",
+	"arName":"., محرم بك, الاسكندرية",
+	"lat":"31.176555",
+	"lng":"29.915385000000001",
+	"enName":"., Moharram bey, Alexandria"
+},
+		{	"profileId":"180159",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/180159?b=2&k=19567&l=search",
+	"arName":"4 ش الجلاء ميدان عبد المنعم رياض, وسط البلد, القاهرة",
+	"lat":"30.050422000000001",
+	"lng":"31.233321",
+	"enName":"4 El Galaa St. Abdel Moneim Riad Sq., Downtown, Cairo"
+},
+		{	"profileId":"578096",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/578096?b=3&k=19567&l=search",
+	"arName":"11 مساكن منخفضة التكاليف - ش حسين كامل سليم, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.090299000000002",
+	"lng":"31.348597000000002",
+	"enName":"11 Monkhafedet El Takalif Bldg., Hussein Kamel Selim St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"578074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/578074?b=9&k=19567&l=search",
+	"arName":"., العين السخنة, العين السخنة",
+	"lat":"29.446313",
+	"lng":"32.478946999999998",
+	"enName":"., El ain el sokhna, El ain el sokhna"
+},
+		{	"profileId":"180822",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/180822?b=18&k=19567&l=search",
+	"arName":"ش النصر, الدهار, الغردقة",
+	"lat":"27.236626999999999",
+	"lng":"33.833139000000003",
+	"enName":"El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"578061",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/578061?b=12&k=19567&l=search",
+	"arName":"ميدان السقالة, سقالة, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Sekala Sq., Sekala, Hurghada"
+},
+		{	"profileId":"180821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/180821?b=16&k=19567&l=search",
+	"arName":"منطقة الخدمات, وسط البلد, الجونة",
+	"lat":"27.397310000000001",
+	"lng":"33.674830999999998",
+	"enName":"Services Zone, Downtown, El gouna"
+},
+		{	"profileId":"578066",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/578066?b=13&k=19567&l=search",
+	"arName":"طريق النصر, الدهار, الغردقة",
+	"lat":"27.242429999999999",
+	"lng":"33.827671000000002",
+	"enName":"El Nasr Rd., Dahar, Hurghada"
+},
+		{	"profileId":"578056",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/578056?b=5&k=19567&l=search",
+	"arName":"ش القللى, وسط البلد, القاهرة",
+	"lat":"30.060654",
+	"lng":"31.243037999999999",
+	"enName":"El Qolaly St., Downtown, Cairo"
+},
+		{	"profileId":"578078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/578078?b=14&k=19567&l=search",
+	"arName":"., الرويسات, شرم الشيخ",
+	"lat":"",
+	"lng":"",
+	"enName":"., El ruwaisat, Sharm el sheikh"
+},
+		{	"profileId":"578086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/578086?b=10&k=19567&l=search",
+	"arName":"20 ش الغرفة التجارية, محطة الرمل, الاسكندرية",
+	"lat":"31.199891999999998",
+	"lng":"29.898197",
+	"enName":"20 El Ghorfa El Togareya St., Raml station, Alexandria"
+},
+		{	"profileId":"578087",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/578087?b=19&k=19567&l=search",
+	"arName":"ش 45 متفرع من طريق الكورنيش, ميامى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Rd. 45 Off El Corniche Rd., Miami, Alexandria"
+},
+		{	"profileId":"180163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/180163?b=4&k=19567&l=search",
+	"arName":"عمارات الضباط - طريق النصر - الجبل الاخضر, مدينة نصر, القاهرة",
+	"lat":"30.058565000000002",
+	"lng":"31.302395000000001",
+	"enName":"El Dobbat Bldgs., El Nasr Rd., El Gabal El Akhdar, Nasr city, Cairo"
+},
+		{	"profileId":"446923",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/446923?b=8&k=19567&l=search",
+	"arName":"بورتو مارينا - مارينا 5, مارينا, الساحل الشمالى",
+	"lat":"30.822094199999999",
+	"lng":"29.023080499999999",
+	"enName":"Porto Marina, Marina 5, Marina, North coast"
+},
+		{	"profileId":"180826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/180826?b=17&k=19567&l=search",
+	"arName":"., سيدى جابر المحطة, الاسكندرية",
+	"lat":"31.219505999999999",
+	"lng":"29.944095000000001",
+	"enName":"., Sidi gaber el mahata, Alexandria"
+},
+		{	"profileId":"180825",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/180825?b=15&k=19567&l=search",
+	"arName":"طريق السلام, حى النور, شرم الشيخ",
+	"lat":"27.883012999999998",
+	"lng":"34.302036000000001",
+	"enName":"El Salam Rd., El nour district, Sharm el sheikh"
+},
+		{	"profileId":"180828",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/180828?b=1&k=19567&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"387639",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/387639?b=7&k=19567&l=search",
+	"arName":"ش 68, وسط البلد, مرسى علم",
+	"lat":"25.065950000000001",
+	"lng":"34.898833000000003",
+	"enName":"Rd. 68, Downtown, Marsa alam"
+},
+		{	"profileId":"495049",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-bus/495049?b=11&k=19567&l=search",
+	"arName":"15 ش مراد, الجيزة, الجيزة",
+	"lat":"30.017893000000001",
+	"lng":"31.214701000000002",
+	"enName":"15 Mourad St., Giza, Giza"
+}
+	]
+}, {	"arName":"جو هوليداى",
+	"enName":"Go Holiday",
+	"hotline":"19567",
+	"facebook":"http://www.facebook.com/goholidayeg",
+	"web":"",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"521027",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-holiday/521027?b=21&k=19567&l=search",
+	"arName":"4 ش الجلاء ميدان عبد المنعم رياض, وسط البلد, القاهرة",
+	"lat":"30.050422000000001",
+	"lng":"31.233321",
+	"enName":"4 El Galaa St. Abdel Moneim Riad Sq., Downtown, Cairo"
+},
+		{	"profileId":"521028",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-holiday/521028?b=20&k=19567&l=search",
+	"arName":"1 عمارات الضباط - طريق النصر - الجبل الاخضر, مدينة نصر, القاهرة",
+	"lat":"30.058565000000002",
+	"lng":"31.302395000000001",
+	"enName":"1 El Dobbat Bldgs., El Nasr Rd., El Gabal El Akhdar, Nasr city, Cairo"
+},
+		{	"profileId":"521029",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/go-holiday/521029?b=22&k=19567&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

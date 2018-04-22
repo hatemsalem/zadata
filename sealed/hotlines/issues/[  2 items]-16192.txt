@@ -1,0 +1,48 @@
+{"items":[{	"arName":"مول بوفارديا",
+	"enName":"Bovardia Mall",
+	"hotline":"16192",
+	"facebook":"http://www.facebook.com/bouvardiamallEgypt/",
+	"web":"http://www.bouvardiamallegypt.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"568371",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bovardia-mall/568371?b=1&k=16192&l=search",
+	"arName":"ش الحسن والحسين متفرع من ش البحر الاعظم - ابراج الخليج - برج امل - الدور 1, المنيب, الجيزة",
+	"lat":"29.984294999999999",
+	"lng":"31.212758999999998",
+	"enName":"El Hassan & El Husein St. Off El Bahr El Aazam St., El Khalig Towers, Al Amal Tower, Floor 1, El moneeb, Giza"
+}
+	]
+}, {	"arName":"المملكة للاستثمار والتنمية العمرانية",
+	"enName":"El Mamlaka For Investment & Urban Development",
+	"hotline":"16192",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"449532",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mamlaka-for-investment-&-urban-development/449532?b=3&k=16192&l=search",
+	"arName":"برج اللؤلؤة - ش الحسن والحسين - ابراج حدائق جزيرة الدهب, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Loualoaa Tower, El Hassan & El Hussein St., Hadaeq Geziret El Dahab Towers, Giza, Giza"
+},
+		{	"profileId":"449534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mamlaka-for-investment-&-urban-development/449534?b=2&k=16192&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}]}

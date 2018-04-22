@@ -1,0 +1,35 @@
+{"items":[{	"arName":"مجموعة الاهرام لنظم الامان",
+	"enName":"Al Ahram Security Group",
+	"hotline":"16614",
+	"facebook":"http://www.facebook.com/AhramSecurity",
+	"web":"http://www.ahramsg.com/",
+	"arCategory":[
+		"اقفال"
+	],
+	"enCategories":[
+		"Locksmiths"
+	],
+	"contacts":[
+		{	"profileId":"532136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-security-group/532136?b=2&k=16614&l=search",
+	"arName":"خدمة العملاء, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"9229",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-security-group/9229?b=1&k=16614&l=search",
+	"arName":"31 ش امين الخولى, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"lat":"30.096567",
+	"lng":"31.333372000000001",
+	"enName":"31 Amin El Khouly St., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"98992",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-ahram-security-group/98992?b=3&k=16614&l=search",
+	"arName":"ش عيون موسى - المنطقة الصناعية A1, العاشر من رمضان, الشرقية",
+	"lat":"30.263534",
+	"lng":"31.771249000000001",
+	"enName":"Oyoun Mousa St., Industrial Zone A1, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

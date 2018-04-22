@@ -1,0 +1,35 @@
+{"items":[{	"arName":"النصر للتنمية العقارية وادارة المشروعات",
+	"enName":"El Nasr For Real Estate",
+	"hotline":"19304",
+	"facebook":"http://www.facebook.com/AlNasrForRealEstate",
+	"web":"http://www.alnasr-egy.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"474880",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nasr-for-real-estate/474880?b=1&k=19304&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"126278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nasr-for-real-estate/126278?b=2&k=19304&l=search",
+	"arName":"8 /1 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974958000000001",
+	"lng":"31.279819",
+	"enName":"8 /1 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"474876",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nasr-for-real-estate/474876?b=3&k=19304&l=search",
+	"arName":"ش الجامعة الحديثة - الهضبة الوسطى - عمارة المصرى - الدور 1, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Gamaa El Haditha St., Middle Hill, El Masry Bldg., Floor 1, Mokattam, Cairo"
+}
+	]
+}]}

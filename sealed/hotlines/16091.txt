@@ -1,0 +1,62 @@
+{"items":[{	"arName":"باباى",
+	"enName":"Papai",
+	"hotline":"16091",
+	"facebook":"http://www.facebook.com/papaifood",
+	"web":"http://www.papaifood.com/",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"183989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papai/183989?b=6&k=16091&l=search",
+	"arName":"79 ش النزهة ميدان السبع عمارات, مصر الجديدة, القاهرة",
+	"lat":"30.089817",
+	"lng":"31.341667999999999",
+	"enName":"79 El Nozha St. El Sabaa Emarat Sq., Heliopolis, Cairo"
+},
+		{	"profileId":"120919",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papai/120919?b=1&k=16091&l=search",
+	"arName":"77 مساكن عثمان - ش على امين متفرع من ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"lat":"30.052918999999999",
+	"lng":"31.335062000000001",
+	"enName":"77 Othman Bldgs., Aly Amin St. Off Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"440845",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papai/440845?b=5&k=16091&l=search",
+	"arName":"77 عمارات عثمان - ش على امين, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.053091999999999",
+	"lng":"31.334721999999999",
+	"enName":"77 Othman Bldgs., Aly Amin St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"370923",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papai/370923?b=4&k=16091&l=search",
+	"arName":"محور مصطفى كامل - مركز خدمات التجمع الاول, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.059607",
+	"lng":"31.444155899999998",
+	"enName":"Mostafa Kamel Spine, 1St Compound Services Center, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"120921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papai/120921?b=2&k=16091&l=search",
+	"arName":"7 أ ش القبة, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.094788000000001",
+	"lng":"31.311464000000001",
+	"enName":"7 A El Qobba St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"189895",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/papai/189895?b=3&k=16091&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+}
+	]
+}]}

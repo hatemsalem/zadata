@@ -1,0 +1,49 @@
+{"items":[{	"arName":"عيادات داوى",
+	"enName":"Dawi Clinics",
+	"hotline":"16850",
+	"facebook":"http://www.facebook.com/dawiclinics",
+	"web":"http://www.dawiclinics.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"564861",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawi-clinics/564861?b=2&k=16850&l=search",
+	"arName":"31 ش عبد الرازق السنهورى متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.062446000000001",
+	"lng":"31.342397999999999",
+	"enName":"31 Abdel Razeq El Sanhoury St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"564326",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawi-clinics/564326?b=1&k=16850&l=search",
+	"arName":"13 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.973199999999999",
+	"lng":"31.273299999999999",
+	"enName":"13 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"564327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawi-clinics/564327?b=3&k=16850&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"583033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawi-clinics/583033?b=5&k=16850&l=search",
+	"arName":"36 ش نادى الصيد - الدور 2, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"36 Nady El Seid St., Floor 2, Dokki, Giza"
+},
+		{	"profileId":"583035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dawi-clinics/583035?b=4&k=16850&l=search",
+	"arName":"297 المحور المركزى - ميدان الحصرى, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"297 Central Spine, El Hosary Sq., 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,41 @@
+{"items":[{	"arName":"سكى مصر",
+	"enName":"Ski Egypt",
+	"hotline":"16002",
+	"facebook":"http://www.facebook.com/SkiiEgypt",
+	"web":"http://www.skiegypt.com/",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"546074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ski-egypt/546074?b=1&k=16002&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.972093000000001",
+	"lng":"31.017505",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+}
+	]
+}, {	"arName":"سنو برو",
+	"enName":"Snow Pro",
+	"hotline":"16002",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"546079",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/snow-pro/546079?b=2&k=16002&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+}
+	]
+}]}

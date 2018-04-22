@@ -1,0 +1,55 @@
+{"items":[{	"arName":"اشجار دارنا",
+	"enName":"Ashgar Darna",
+	"hotline":"19979",
+	"facebook":"http://www.facebook.com/AshgarDarnaHomes",
+	"web":"http://www.ashgardarna.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"454452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ashgar-darna/454452?b=1&k=19979&l=search",
+	"arName":"خدمة العملاء, القطامية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El katameya, Cairo"
+},
+		{	"profileId":"453312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ashgar-darna/453312?b=2&k=19979&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"lat":"30.139401400000001",
+	"lng":"31.315313199999999",
+	"enName":"Ring Rd., El katameya, Cairo"
+}
+	]
+}, {	"arName":"ام سكوير للتنمية",
+	"enName":"M2 Development",
+	"hotline":"19979",
+	"facebook":"http://www.facebook.com/M2GardensNewCairo",
+	"web":"http://www.m2-developments.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"513305",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/m2-development/513305?b=4&k=19979&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"513304",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/m2-development/513304?b=3&k=19979&l=search",
+	"arName":"2 ش وادى النيل, المهندسين, الجيزة",
+	"lat":"30.054003999999999",
+	"lng":"31.201516000000002",
+	"enName":"2 Wadi El Nil St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مؤسسة البنيان المرصوص الخيرية",
+	"enName":"El Bonyan El Marsos Charity Establishment",
+	"hotline":"16673",
+	"facebook":"http://www.facebook.com/AlBonianAlMarsos",
+	"web":"http://www.b-elmarsos.com/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"222408",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bonyan-el-marsos-charity-establishment/222408?b=1&k=16673&l=search",
+	"arName":"91 ابراج الوليد - ش خالد بن الوليد, سيدى بشر بحرى, الاسكندرية",
+	"lat":"31.258647",
+	"lng":"29.981735",
+	"enName":"91 El Walid Towers, Khaled Ibn El Walid St., Sidi beshr bahary, Alexandria"
+},
+		{	"profileId":"443976",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bonyan-el-marsos-charity-establishment/443976?b=2&k=16673&l=search",
+	"arName":"خدمة العملاء, سيدى بشر بحرى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sidi beshr bahary, Alexandria"
+}
+	]
+}]}

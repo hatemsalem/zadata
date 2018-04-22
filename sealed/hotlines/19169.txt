@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بى ام للصناعة والتجارة",
+	"enName":"BM Industry & Trade",
+	"hotline":"19169",
+	"facebook":"",
+	"web":"http://www.bmegypt.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"295580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bm-industry-&-trade/295580?b=2&k=19169&l=search",
+	"arName":"4 ش عمر حفنى امتداد ش عباس العقاد - المنطقة الثامنة, مدينة نصر, القاهرة",
+	"lat":"30.049797999999999",
+	"lng":"31.343976999999999",
+	"enName":"4 Omar Hefny St. Extension Of Abbas El Akkad St., 8th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"577386",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bm-industry-&-trade/577386?b=1&k=19169&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

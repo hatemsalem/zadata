@@ -1,0 +1,49 @@
+{"items":[{	"arName":"فليوز هوم",
+	"enName":"Values Home",
+	"hotline":"19271",
+	"facebook":"http://www.facebook.com/VALUESdesign/",
+	"web":"http://www.valueshome.ae/",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"559362",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/values-home/559362?b=3&k=19271&l=search",
+	"arName":"38 ش بيروت - الدور 7, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.094794",
+	"lng":"31.326069",
+	"enName":"38 Beirut St., Floor 7, El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"559366",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/values-home/559366?b=5&k=19271&l=search",
+	"arName":"الطريق الدائرى - كمباوند اشجار دارنا - عمارة 7أ - مكتب 11, زهراء المعادى, المعادى, القاهرة",
+	"lat":"29.983077999999999",
+	"lng":"31.324468",
+	"enName":"Ring Rd., Ashgar Darna Compound, Bldg. 7A, Office 11, Zahraa El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"559367",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/values-home/559367?b=4&k=19271&l=search",
+	"arName":"الطريق الدائرى - مدينة البارون, القطامية, القاهرة",
+	"lat":"29.982941",
+	"lng":"31.339903",
+	"enName":"Ring Rd., Baron City, El katameya, Cairo"
+},
+		{	"profileId":"559364",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/values-home/559364?b=2&k=19271&l=search",
+	"arName":"خدمة العملاء, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"559365",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/values-home/559365?b=1&k=19271&l=search",
+	"arName":"1 ش مكرم عبيد - برج سيتى لايت - الدور 4, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.069144000000001",
+	"lng":"31.344362",
+	"enName":"1 Makram Ebaid St., City Light Tower, Floor 4, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"دار للتنمية وادارة المشروعات",
+	"enName":"Dar For Development & Projects Management",
+	"hotline":"16045",
+	"facebook":"http://www.facebook.com/darmisrcom",
+	"web":"http://www.darmisr.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"430343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-for-development-&-projects-management/430343?b=1&k=16045&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+},
+		{	"profileId":"430342",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-for-development-&-projects-management/430342?b=2&k=16045&l=search",
+	"arName":"37 ش مكرم عبيد - الدور 7 شقة 7, مدينة نصر, القاهرة",
+	"lat":"30.058911999999999",
+	"lng":"31.345943999999999",
+	"enName":"37 Makram Ebaid St., Floor 7 Flat 7, Nasr city, Cairo"
+}
+	]
+}]}

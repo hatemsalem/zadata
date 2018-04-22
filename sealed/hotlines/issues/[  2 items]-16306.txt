@@ -1,0 +1,50 @@
+{"items":[{	"arName":"سيسيليا لاجونز",
+	"enName":"Cecilia Lagoons",
+	"hotline":"16306",
+	"facebook":"http://www.facebook.com/CeciliaLagoons",
+	"web":"http://www.cecilialagoons.com/",
+	"arCategory":[
+		"فنادق ومنتجعات",
+		"عقارات"
+	],
+	"enCategories":[
+		"Hotels & Resorts",
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"522595",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cecilia-lagoons/522595?b=1&k=16306&l=search",
+	"arName":"خدمة العملاء, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"401305",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cecilia-lagoons/401305?b=2&k=16306&l=search",
+	"arName":"كم 265 - طريق اسكندرية مطروح الصحراوى, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"31.243925000000001",
+	"lng":"27.397563000000002",
+	"enName":"Km 265, Alex Matrouh Desert Rd., Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"ابن سينا للفنادق والقرى السياحية",
+	"enName":"Ibn Sina For Hotels & Tourist Villages",
+	"hotline":"16306",
+	"facebook":"http://www.facebook.com/CeciliaLagoons",
+	"web":"http://www.cecilialagoons.com/",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"407918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ibn-sina-for-hotels-&-tourist-villages/407918?b=3&k=16306&l=search",
+	"arName":"1158 /2 مربع الوزراء - ش منير ثابت, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.0978882",
+	"lng":"31.374928000000001",
+	"enName":"1158 /2 El Wozaraa Square, Monir Thabet St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

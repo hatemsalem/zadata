@@ -1,0 +1,21 @@
+{"items":[{	"arName":"بقالة دوت كوم",
+	"enName":"Beqala Dot Com",
+	"hotline":"16237",
+	"facebook":"http://www.facebook.com/Beqala",
+	"web":"http://www.beqala.com/",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"423749",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beqala-dot-com/423749?b=1&k=16237&l=search",
+	"arName":"اون لاين سوبر ماركت, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Online Supermarket, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

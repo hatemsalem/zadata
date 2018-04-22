@@ -1,0 +1,28 @@
+{"items":[{	"arName":"جومية",
+	"enName":"Jumia",
+	"hotline":"19586",
+	"facebook":"http://www.facebook.com/JumiaEgypt",
+	"web":"http://www.jumia.com.eg/",
+	"arCategory":[
+		"تسويق عبر الانترنت"
+	],
+	"enCategories":[
+		"Internet Marketing"
+	],
+	"contacts":[
+		{	"profileId":"399269",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jumia/399269?b=1&k=19586&l=search",
+	"arName":"272 /273 ش التسعين الشمالى المجاورة الثانية - سيتى سنتر, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.030000999999999",
+	"lng":"31.452085",
+	"enName":"272 /273 El Tesaeen El Shamaly St. 2nd Neighbourhood, City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"451660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jumia/451660?b=2&k=19586&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

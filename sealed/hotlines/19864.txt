@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ابانوب للسياحة",
+	"enName":"Abanoub Travel",
+	"hotline":"19864",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"171743",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abanoub-travel/171743?b=1&k=19864&l=search",
+	"arName":"فيلات عايدة - , هضبة ام السيد, شرم الشيخ",
+	"lat":"",
+	"lng":"",
+	"enName":"Aida Villas,, Umm el sid hill, Sharm el sheikh"
+}
+	]
+}]}

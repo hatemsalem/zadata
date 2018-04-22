@@ -1,0 +1,21 @@
+{"items":[{	"arName":"هونست للتطوير العقارى",
+	"enName":"Honest For Real Estate Development",
+	"hotline":"16417",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"455299",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/honest-for-real-estate-development/455299?b=1&k=16417&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"lat":"30.056317",
+	"lng":"31.4914834",
+	"enName":"., Al rehab city, Cairo"
+}
+	]
+}]}

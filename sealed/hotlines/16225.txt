@@ -1,0 +1,28 @@
+{"items":[{	"arName":"عربية اون لاين",
+	"enName":"Arabeya Online",
+	"hotline":"16225",
+	"facebook":"http://www.facebook.com/arabeyaonlinebrokerage",
+	"web":"http://www.aolbeg.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"124604",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabeya-online/124604?b=2&k=16225&l=search",
+	"arName":"12 ش اسماعيل محيى الدين - الدور 1, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.080355999999998",
+	"lng":"31.337481",
+	"enName":"12 Ismail Mohy El Din St., Floor 1, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"187146",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabeya-online/187146?b=1&k=16225&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

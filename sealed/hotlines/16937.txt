@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مجموعة صلاح الدين للمقاولات والتنمية العقارية",
+	"enName":"Salah Al Din Group",
+	"hotline":"16937",
+	"facebook":"http://www.facebook.com/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D8%B5%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-598796246932840/",
+	"web":"http://www.salahaldin-eg.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"487493",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salah-al-din-group/487493?b=2&k=16937&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"487491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/salah-al-din-group/487491?b=1&k=16937&l=search",
+	"arName":"4 ابراج عثمان - فاخر - كورنيش النيل, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.963691000000001",
+	"lng":"31.248196",
+	"enName":"4 Othman Towers - Luxurious, Corniche El Nil, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,68 @@
+{"items":[{	"arName":"بريميير للتطوير العقارى",
+	"enName":"Premier For Real Estate",
+	"hotline":"16204",
+	"facebook":"http://www.facebook.com/premieregy",
+	"web":"http://www.premieregy.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"430136",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/premier-for-real-estate/430136?b=3&k=16204&l=search",
+	"arName":"خدمة العملاء, ميدان سفير, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"430132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/premier-for-real-estate/430132?b=2&k=16204&l=search",
+	"arName":"61 ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"lat":"30.099484",
+	"lng":"31.334949000000002",
+	"enName":"61 Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"سى شيلز مارينا",
+	"enName":"Sea Shells Marina",
+	"hotline":"16204",
+	"facebook":"http://www.facebook.com/Sea-Shells-Resort-North-Coast-313803152101155",
+	"web":"",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"465969",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sea-shells-marina/465969?b=4&k=16204&l=search",
+	"arName":"كم 116 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.989483",
+	"lng":"28.693242000000001",
+	"enName":"Km 116,, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"مول القصر",
+	"enName":"El Kasr Mall",
+	"hotline":"16204",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"430137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-kasr-mall/430137?b=1&k=16204&l=search",
+	"arName":"الحى السادس, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"6th District, Obour city, Kaliobeya"
+}
+	]
+}]}

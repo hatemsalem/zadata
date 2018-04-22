@@ -1,0 +1,48 @@
+{"items":[{	"arName":"السقا للسيارات",
+	"enName":"El Saqqa Motors",
+	"hotline":"16924",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"16022",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-saqqa-motors/16022?b=1&k=16924&l=search",
+	"arName":"21 ش السباق متفرع من ش جسر السويس, المريلاند, مصر الجديدة, القاهرة",
+	"lat":"30.100771000000002",
+	"lng":"31.323405000000001",
+	"enName":"21 El Sebaq St. Off Gesr El Suez St., El Merryland, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"انفيتيشين تورز",
+	"enName":"Invitation Tours",
+	"hotline":"16924",
+	"facebook":"",
+	"web":"http://www.invitationtours.net/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"420045",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/invitation-tours/420045?b=2&k=16924&l=search",
+	"arName":"4 ش محمد رمزى متفرع من ش ابو بكر الصديق, ميدان سفير, مصر الجديدة, القاهرة",
+	"lat":"30.099920000000001",
+	"lng":"31.335688999999999",
+	"enName":"4 Mohamed Ramzy St. Off Abou Bakr El Seddik St., Safir Square, Heliopolis, Cairo"
+},
+		{	"profileId":"420176",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/invitation-tours/420176?b=3&k=16924&l=search",
+	"arName":"خدمة العملاء, ميدان سفير, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Safir Square, Heliopolis, Cairo"
+}
+	]
+}]}

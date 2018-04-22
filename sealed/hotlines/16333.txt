@@ -1,0 +1,126 @@
+{"items":[{	"arName":"اورنج دى اس ال",
+	"enName":"Orange DSL",
+	"hotline":"16333",
+	"facebook":"http://www.facebook.com/OrangeEgyptOfficial",
+	"web":"http://www.orange.eg/",
+	"arCategory":[
+		"انترنت شركات ومصممون مواقع"
+	],
+	"enCategories":[
+		"Internet Companies & Website Design"
+	],
+	"contacts":[
+		{	"profileId":"134871",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/134871?b=2&k=16333&l=search",
+	"arName":"77 طريق مصر حلوان الزراعى, المعادى, القاهرة",
+	"lat":"29.963242000000001",
+	"lng":"31.249338000000002",
+	"enName":"77 Misr Helwan Agricultural Rd., Maadi, Cairo"
+},
+		{	"profileId":"125794",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/125794?b=12&k=16333&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"354014",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/354014?b=15&k=16333&l=search",
+	"arName":"40 ش الفردوس, سموحة, الاسكندرية",
+	"lat":"31.209319000000001",
+	"lng":"29.950388",
+	"enName":"40 El Fardous St., Semouha, Alexandria"
+},
+		{	"profileId":"356163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356163?b=5&k=16333&l=search",
+	"arName":"2005 ج البرج الشمالى - كورنيش النيل, بولاق, القاهرة",
+	"lat":"30.072265000000002",
+	"lng":"31.228304000000001",
+	"enName":"2005 C North Tower, Corniche El Nil, Boulak, Cairo"
+},
+		{	"profileId":"356174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356174?b=7&k=16333&l=search",
+	"arName":"49 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.976614999999999",
+	"lng":"31.281852000000001",
+	"enName":"49 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"465860",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/465860?b=1&k=16333&l=search",
+	"arName":"2 ميدان الاسماعيلية, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"lat":"30.096657",
+	"lng":"31.335025000000002",
+	"enName":"2 Ismaileya Sq., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"356183",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356183?b=4&k=16333&l=search",
+	"arName":"21 ش عبد الحميد بدوى, مصر الجديدة, القاهرة",
+	"lat":"30.116233000000001",
+	"lng":"31.346219000000001",
+	"enName":"21 Abdel Hamid Badawy St., Heliopolis, Cairo"
+},
+		{	"profileId":"356179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356179?b=8&k=16333&l=search",
+	"arName":"85 ش 9, المعادى, القاهرة",
+	"lat":"29.958753000000002",
+	"lng":"31.259581000000001",
+	"enName":"85 Rd. 9, Maadi, Cairo"
+},
+		{	"profileId":"356157",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356157?b=11&k=16333&l=search",
+	"arName":"16 ش محيى الدين ابو العز, المهندسين, الجيزة",
+	"lat":"30.037392000000001",
+	"lng":"31.201155",
+	"enName":"16 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
+},
+		{	"profileId":"356156",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356156?b=13&k=16333&l=search",
+	"arName":"57 ش الحجاز, المهندسين, الجيزة",
+	"lat":"30.056294999999999",
+	"lng":"31.202967999999998",
+	"enName":"57 El Hegaz St., Mohandeseen, Giza"
+},
+		{	"profileId":"356167",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356167?b=14&k=16333&l=search",
+	"arName":"كم 28 - - الدور 1, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28, , Floor 1, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"356176",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356176?b=3&k=16333&l=search",
+	"arName":"الطريق الدائرى - مدينة المعراج, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.982492000000001",
+	"lng":"31.316680999999999",
+	"enName":"Ring Rd., El Mearag City, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"356154",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356154?b=16&k=16333&l=search",
+	"arName":"16 برج خالدية - ميدان المساحة, الدقى, الجيزة",
+	"lat":"30.036815000000001",
+	"lng":"31.213995000000001",
+	"enName":"16 Khaldeya Tower, El Messaha Sq., Dokki, Giza"
+},
+		{	"profileId":"356160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356160?b=10&k=16333&l=search",
+	"arName":"128 ش السودان, المهندسين, الجيزة",
+	"lat":"30.048300999999999",
+	"lng":"31.192304",
+	"enName":"128 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"356170",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356170?b=6&k=16333&l=search",
+	"arName":"5 ميدان باب الشعرية, باب الشعرية, القاهرة",
+	"lat":"30.056325000000001",
+	"lng":"31.258748000000001",
+	"enName":"5 Bab El Shaabeya Sq., Bab el shaareya, Cairo"
+},
+		{	"profileId":"356181",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356181?b=9&k=16333&l=search",
+	"arName":"385 ش رمسيس, عباسية, القاهرة",
+	"lat":"30.072147000000001",
+	"lng":"31.279259",
+	"enName":"385 Ramsis St., Abbasseya, Cairo"
+}
+	]
+}]}

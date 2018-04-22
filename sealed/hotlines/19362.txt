@@ -1,0 +1,21 @@
+{"items":[{	"arName":"حى اللوتس",
+	"enName":"Louts District",
+	"hotline":"19362",
+	"facebook":"",
+	"web":"http://www.dmaholding.com/louts/index.html",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"393664",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/louts-district/393664?b=1&k=19362&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}]}

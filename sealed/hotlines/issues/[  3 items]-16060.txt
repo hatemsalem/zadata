@@ -1,0 +1,82 @@
+{"items":[{	"arName":"بنك الشفاء المصرى",
+	"enName":"Egyptian Cure Bank",
+	"hotline":"16060",
+	"facebook":"http://www.facebook.com/EgyCureBank/timeline",
+	"web":"http://www.egyptiancurebank.com/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"325955",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-cure-bank/325955?b=3&k=16060&l=search",
+	"arName":"القطعة 44 - محور جمال عبد الناصر, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"30.015809000000001",
+	"lng":"31.281400999999999",
+	"enName":"Plot 44, Gamal Abdel Nasser Spine, 3rd Compound, New cairo, Cairo"
+},
+		{	"profileId":"511228",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-cure-bank/511228?b=4&k=16060&l=search",
+	"arName":"خدمة العملاء, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 3rd Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بنك الطعام المصرى",
+	"enName":"Egyptian Food Bank",
+	"hotline":"16060",
+	"facebook":"http://www.facebook.com/EgyFoodBank",
+	"web":"http://www.egyptianfoodbank.com/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"113644",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-food-bank/113644?b=6&k=16060&l=search",
+	"arName":"خدمة العملاء, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 3rd Compound, New cairo, Cairo"
+},
+		{	"profileId":"140994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-food-bank/140994?b=5&k=16060&l=search",
+	"arName":"القطعة 44 - محور جمال عبد الناصر, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"29.980112999999999",
+	"lng":"31.437495999999999",
+	"enName":"Plot 44, Gamal Abdel Nasser Spine, 3rd Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بنك الكساء المصرى",
+	"enName":"Egyptian Clothing Bank",
+	"hotline":"16060",
+	"facebook":"http://www.facebook.com/egyclothingbank",
+	"web":"http://www.egyptianclothingbank.com/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"471846",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-clothing-bank/471846?b=2&k=16060&l=search",
+	"arName":"القطعة 44 - محور جمال عبد الناصر, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"29.980112999999999",
+	"lng":"31.437495999999999",
+	"enName":"Plot 44, Gamal Abdel Nasser Spine, 3rd Compound, New cairo, Cairo"
+},
+		{	"profileId":"471850",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-clothing-bank/471850?b=1&k=16060&l=search",
+	"arName":"خدمة العملاء, التجمع الثالث, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 3rd Compound, New cairo, Cairo"
+}
+	]
+}]}

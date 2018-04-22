@@ -1,0 +1,76 @@
+{"items":[{	"arName":"كريستال للاجهزة المنزلية",
+	"enName":"Crystal For Appliances",
+	"hotline":"19332",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"357409",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/crystal-for-appliances/357409?b=1&k=19332&l=search",
+	"arName":"21 ش عبد العزيز, العتبة, القاهرة",
+	"lat":"30.047174999999999",
+	"lng":"31.248327",
+	"enName":"21 Abdel Aziz St., Ataba, Cairo"
+},
+		{	"profileId":"357411",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/crystal-for-appliances/357411?b=2&k=19332&l=search",
+	"arName":"32 ش عبد العزيز, العتبة, القاهرة",
+	"lat":"30.049005999999999",
+	"lng":"31.249613",
+	"enName":"32 Abdel Aziz St., Ataba, Cairo"
+},
+		{	"profileId":"357414",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/crystal-for-appliances/357414?b=4&k=19332&l=search",
+	"arName":"2 ش بستان بن قريش متفرع من ش التحرير, باب اللوق, القاهرة",
+	"lat":"30.044387",
+	"lng":"31.237570999999999",
+	"enName":"2 Bostan Ibn Qoraish St. Off El Tahrir St., Bab el louk, Cairo"
+},
+		{	"profileId":"357390",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/crystal-for-appliances/357390?b=3&k=19332&l=search",
+	"arName":"5 ش المرجان متفرع من ش الازهر, العتبة, القاهرة",
+	"lat":"30.049047999999999",
+	"lng":"31.250736",
+	"enName":"5 El Morgan St. Off Azhar St., Ataba, Cairo"
+}
+	]
+}, {	"arName":"نافع جروب",
+	"enName":"Nafea Group",
+	"hotline":"19332",
+	"facebook":"http://www.facebook.com/JACappliances",
+	"web":"http://www.jac-eg.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"169380",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nafea-group/169380?b=6&k=19332&l=search",
+	"arName":"القطعة 6223 - ش 9 متفرع من ش حسن الاكبر, المقطم, القاهرة",
+	"lat":"30.007655",
+	"lng":"31.300053999999999",
+	"enName":"Plot 6223, Rd. 9 Off Hassan El Akbar St., Mokattam, Cairo"
+},
+		{	"profileId":"187038",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nafea-group/187038?b=5&k=19332&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mokattam, Cairo"
+},
+		{	"profileId":"357405",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nafea-group/357405?b=7&k=19332&l=search",
+	"arName":"8 عمارات الشركة السعودية - ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.074717",
+	"lng":"31.339752000000001",
+	"enName":"8 Secon Bldgs., El Nozha St., Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,89 @@
+{"items":[{	"arName":"ارثو ميدكس",
+	"enName":"Orthomedics",
+	"hotline":"19617",
+	"facebook":"",
+	"web":"http://www.orthomedics.com/",
+	"arCategory":[
+		"اطراف صناعية"
+	],
+	"enCategories":[
+		"Artificial Limbs"
+	],
+	"contacts":[
+		{	"profileId":"62151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orthomedics/62151?b=3&k=19617&l=search",
+	"arName":"97 برج العوامرى الطبى - ش التحرير, الدقى, الجيزة",
+	"lat":"30.037583000000001",
+	"lng":"31.209211",
+	"enName":"97 El Awamry Medical Tower, El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"189916",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orthomedics/189916?b=4&k=19617&l=search",
+	"arName":"11 عمارات المدينة المنورة - ش د. محمد رأفت - الدور 6 شقة 603, محطة الرمل, الاسكندرية",
+	"lat":"31.201264999999999",
+	"lng":"29.902077999999999",
+	"enName":"11 El Madina El Monawara Bldgs., Dr. Mohamed Raafat St., Floor 6 Flat 603, Raml station, Alexandria"
+},
+		{	"profileId":"189915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orthomedics/189915?b=1&k=19617&l=search",
+	"arName":"43 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.091716000000002",
+	"lng":"31.314066",
+	"enName":"43 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"187144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orthomedics/187144?b=5&k=19617&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"95086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orthomedics/95086?b=2&k=19617&l=search",
+	"arName":"72 برج درة الجلاء - ش الجلاء, المنصورة, الدقهلية",
+	"lat":"31.03979",
+	"lng":"31.369509999999998",
+	"enName":"72 Doret El Galaa Tower, El Galaa St., El mansoura, El dakahleya"
+}
+	]
+}, {	"arName":"سوفانا للدعاية والاعلان",
+	"enName":"Sovana For Advertising",
+	"hotline":"19617",
+	"facebook":"",
+	"web":"http://www.sovanagroup.com/",
+	"arCategory":[
+		""
+	],
+	"enCategories":[
+		""
+	],
+	"contacts":[
+		{	"profileId":"577730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sovana-for-advertising/577730?b=6&k=19617&l=search",
+	"arName":"10 ش الصحابة الكرام, حى السفارات, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"10 El Sahaba El Keram St., El Sefarat District, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"سوفانا للتنمية السياحية - ايلاند بيتش",
+	"enName":"Sovana For Touristic Development - Island Beach to",
+	"hotline":"19617",
+	"facebook":"http://www.facebook.com/IslandBeachRasSedr/%20",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"142284",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sovana-for-touristic-development-_-island-beach-to/142284?b=7&k=19617&l=search",
+	"arName":"عمارة 10 - بلوك 15 - ش الصحابة الكرام, حى السفارات, مدينة نصر, القاهرة",
+	"lat":"30.035834000000001",
+	"lng":"31.343430000000001",
+	"enName":"Bldg. No. 10, Block 15, El Sahaba El Keram St., El Sefarat District, Nasr city, Cairo"
+}
+	]
+}]}

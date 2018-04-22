@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدلية الياسمين",
+	"enName":"El Yasmin Pharmacy",
+	"hotline":"19195",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"342968",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-yasmin-pharmacy/342968?b=2&k=19195&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"342967",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-yasmin-pharmacy/342967?b=1&k=19195&l=search",
+	"arName":"الحى 14, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"29.981836000000001",
+	"lng":"30.996646999999999",
+	"enName":"District 14, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

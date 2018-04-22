@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى ادم الدولى للخصوبة والعقم",
+	"enName":"Adam International Hospital For Fertility & Sterility",
+	"hotline":"16692",
+	"facebook":"http://www.facebook.com/adamhospitals",
+	"web":"http://www.adamhospitals.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"5533",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/adam-international-hospital-for-fertility-&-sterility/5533?b=1&k=16692&l=search",
+	"arName":"20 ش عدن متفرع من ش شهاب, المهندسين, الجيزة",
+	"lat":"30.051756000000001",
+	"lng":"31.194272000000002",
+	"enName":"20 Aden St. Off Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"501293",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/adam-international-hospital-for-fertility-&-sterility/501293?b=2&k=16692&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

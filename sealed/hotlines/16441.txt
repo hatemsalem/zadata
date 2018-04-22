@@ -1,0 +1,35 @@
+{"items":[{	"arName":"اوتو جروب للسيارات",
+	"enName":"Auto Group For Cars",
+	"hotline":"16441",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"397775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-group-for-cars/397775?b=2&k=16441&l=search",
+	"arName":"94 ش ثروت, الدقى, الجيزة",
+	"lat":"30.030920999999999",
+	"lng":"31.214155999999999",
+	"enName":"94 Tharwat St., Dokki, Giza"
+},
+		{	"profileId":"187241",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-group-for-cars/187241?b=3&k=16441&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"116596",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auto-group-for-cars/116596?b=1&k=16441&l=search",
+	"arName":"26 ش النخيل متفرع من ش سليمان اباظة, المهندسين, الجيزة",
+	"lat":"30.049648999999999",
+	"lng":"31.204148",
+	"enName":"26 El Nakhil St. Off Soliman Abazza St., Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,30 @@
+{"items":[{	"arName":"مطعم اسماك بحرى",
+	"enName":"Bahary Sea Food",
+	"hotline":"16598",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"451041",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bahary-sea-food/451041?b=2&k=16598&l=search",
+	"arName":"26 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.057400000000001",
+	"lng":"31.345600000000001",
+	"enName":"26 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"524534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bahary-sea-food/524534?b=1&k=16598&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

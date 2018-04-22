@@ -1,0 +1,21 @@
+{"items":[{	"arName":"مركز الحياة الجديدة",
+	"enName":"New Life Center",
+	"hotline":"19533",
+	"facebook":"http://www.facebook.com/%D8%A7%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D9%87-%D9%85%D8%A8%D8%B1%D9%88%D9%83-%D8%AC%D8%A7%D9%84%D9%83-%D9%88%D9%84%D8%AF-863691090358962/timeline/",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"473291",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/new-life-center/473291?b=1&k=19533&l=search",
+	"arName":"14 ش معمل الالبان - الخلفاوى, شبرا, القاهرة",
+	"lat":"30.097783",
+	"lng":"31.248137",
+	"enName":"14 Maamal Al Alban St., Al Khlafawy, Shoubra, Cairo"
+}
+	]
+}]}

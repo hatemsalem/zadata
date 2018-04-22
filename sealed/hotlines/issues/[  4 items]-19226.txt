@@ -1,0 +1,88 @@
+{"items":[{	"arName":"مول العرب",
+	"enName":"Mall Of Arabia",
+	"hotline":"19226",
+	"facebook":"http://www.facebook.com/mallofarabia",
+	"web":"http://www.mallofarabia.com.eg/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"287254",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mall-of-arabia/287254?b=5&k=19226&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"522900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mall-of-arabia/522900?b=4&k=19226&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}, {	"arName":"هوم كونسيبت",
+	"enName":"Home Concept",
+	"hotline":"19226",
+	"facebook":"http://www.facebook.com/HCFurnitureMall",
+	"web":"http://www.hcfurnituremall.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"369829",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/home-concept/369829?b=3&k=19226&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}, {	"arName":"بارسيلوس",
+	"enName":"Barcelos",
+	"hotline":"19226",
+	"facebook":"http://www.facebook.com/BarcelosEgypt",
+	"web":"",
+	"arCategory":[
+		"مطاعم عالمية"
+	],
+	"enCategories":[
+		"International Cuisine"
+	],
+	"contacts":[
+		{	"profileId":"559628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/barcelos/559628?b=1&k=19226&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}, {	"arName":"بيلى بييز كايرو",
+	"enName":"Billy Beez Cairo",
+	"hotline":"19226",
+	"facebook":"http://www.facebook.com/BillyBeezEg",
+	"web":"http://www.billybeezus.com/",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"384086",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/billy-beez-cairo/384086?b=2&k=19226&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.007263999999999",
+	"lng":"30.974519000000001",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+}
+	]
+}]}

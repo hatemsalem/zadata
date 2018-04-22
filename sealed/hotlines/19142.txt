@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المقاولون العرب",
+	"enName":"The Arab Contractors",
+	"hotline":"19142",
+	"facebook":"http://www.facebook.com/arabcont2017",
+	"web":"http://www.arabcont.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"186931",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-arab-contractors/186931?b=1&k=19142&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Downtown, Cairo"
+},
+		{	"profileId":"83580",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-arab-contractors/83580?b=2&k=19142&l=search",
+	"arName":"10 ش 6 اكتوبر - ش ترعة الاسماعيلية سابقا, شبرا الخيمة, القليوبية",
+	"lat":"30.113164999999999",
+	"lng":"31.272410000000001",
+	"enName":"10 6th Of October St. - Teraet El Ismaileya St. Previously, Shoubra el khaymah, Kaliobeya"
+}
+	]
+}]}

@@ -1,0 +1,77 @@
+{"items":[{	"arName":"الفرجانى",
+	"enName":"El Fergany",
+	"hotline":"19658",
+	"facebook":"http://www.facebook.com/marketelfergany",
+	"web":"",
+	"arCategory":[
+		"سوبر ماركت"
+	],
+	"enCategories":[
+		"Supermarkets"
+	],
+	"contacts":[
+		{	"profileId":"262055",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/262055?b=4&k=19658&l=search",
+	"arName":"55 ش المطرية, الزيتون, القاهرة",
+	"lat":"30.109117999999999",
+	"lng":"31.303975000000001",
+	"enName":"55 El Matareya St., El zaytoun, Cairo"
+},
+		{	"profileId":"262053",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/262053?b=7&k=19658&l=search",
+	"arName":"276 ش ترعة الجبل, الزيتون, القاهرة",
+	"lat":"30.107599",
+	"lng":"31.308119000000001",
+	"enName":"276 Teraet El Gabal St., El zaytoun, Cairo"
+},
+		{	"profileId":"576209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/576209?b=5&k=19658&l=search",
+	"arName":"13 ش عبد الرحمن نصر, المطرية, القاهرة",
+	"lat":"30.106231999999999",
+	"lng":"31.308433000000001",
+	"enName":"13 Abdel Rahman Nasr St., El matareya, Cairo"
+},
+		{	"profileId":"413589",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/413589?b=9&k=19658&l=search",
+	"arName":"1 ش العطار, شبرا الخيمة, القليوبية",
+	"lat":"30.132656999999998",
+	"lng":"31.279737999999998",
+	"enName":"1 El Attar St., Shoubra el khaymah, Kaliobeya"
+},
+		{	"profileId":"260137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/260137?b=2&k=19658&l=search",
+	"arName":"ش د. علوى, المطرية, القاهرة",
+	"lat":"30.112608000000002",
+	"lng":"31.305845000000001",
+	"enName":"Dr. Elwey St., El matareya, Cairo"
+},
+		{	"profileId":"317730",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/317730?b=3&k=19658&l=search",
+	"arName":"94 ش احمد عصمت, عين شمس الشرقية, القاهرة",
+	"lat":"30.126282",
+	"lng":"31.330105",
+	"enName":"94 Ahmed Essmat St., Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"576195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/576195?b=6&k=19658&l=search",
+	"arName":"9 ش عين شمس - ش النعام سابقا, عين شمس, القاهرة",
+	"lat":"30.120134",
+	"lng":"31.317627999999999",
+	"enName":"9 Ain Shams St. - El Naam St. Perviously, Ain shams, Cairo"
+},
+		{	"profileId":"462127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/462127?b=8&k=19658&l=search",
+	"arName":"33 ش المؤرخ محمد رفعت متفرع من ش طه حسين, النزهة الجديدة, القاهرة",
+	"lat":"30.124749399999999",
+	"lng":"31.367046999999999",
+	"enName":"33 El Moarekh Mohamed Refaat St. Off Taha Hussein St., El nozha el gadida, Cairo"
+},
+		{	"profileId":"464432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-fergany/464432?b=1&k=19658&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المطرية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El matareya, Cairo"
+}
+	]
+}]}

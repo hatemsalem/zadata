@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الابيض اوتوموتيف",
+	"enName":"El Abiad Automotive",
+	"hotline":"19682",
+	"facebook":"http://www.facebook.com/elabiadauto",
+	"web":"http://www.elabiadauto.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"581095",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abiad-automotive/581095?b=3&k=19682&l=search",
+	"arName":"85 ش التحرير, الدقى, الجيزة",
+	"lat":"30.037074",
+	"lng":"31.206139",
+	"enName":"85 El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"157674",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abiad-automotive/157674?b=4&k=19682&l=search",
+	"arName":"446 ش فيصل - برج النصر, فيصل, الجيزة",
+	"lat":"30.013445999999998",
+	"lng":"31.198186",
+	"enName":"446 Faisal St., El Nasr Tower, Faisal, Giza"
+},
+		{	"profileId":"581090",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abiad-automotive/581090?b=2&k=19682&l=search",
+	"arName":"خدمة العملاء, فيصل, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Faisal, Giza"
+},
+		{	"profileId":"581091",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abiad-automotive/581091?b=1&k=19682&l=search",
+	"arName":"طريق المريوطية, المريوطية, فيصل, الجيزة",
+	"lat":"30.004173000000002",
+	"lng":"31.139173",
+	"enName":"El Mariouteya Rd., El Mariouteya, Faisal, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى كليوباترا",
+	"enName":"Cleopatra Hospital",
+	"hotline":"19162",
+	"facebook":"",
+	"web":"http://www.cleopatrahospital.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"522186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cleopatra-hospital/522186?b=2&k=19162&l=search",
+	"arName":"خدمة طوارئ, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Heliopolis, Cairo"
+},
+		{	"profileId":"9721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cleopatra-hospital/9721?b=1&k=19162&l=search",
+	"arName":"39 ش كليوباترا ميدان صلاح الدين, مصر الجديدة, القاهرة",
+	"lat":"30.093167000000001",
+	"lng":"31.329511",
+	"enName":"39 Cleopatra St. Salah El Din Sq., Heliopolis, Cairo"
+}
+	]
+}]}

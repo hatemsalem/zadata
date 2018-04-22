@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى دريم",
+	"enName":"Dream Hospital",
+	"hotline":"19351",
+	"facebook":"http://www.facebook.com/Dream-Hospital-476288692576789",
+	"web":"http://www.dreamhospital.org/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"449439",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-hospital/449439?b=1&k=19351&l=search",
+	"arName":"خدمة طوارئ, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, 6th of october, Giza"
+},
+		{	"profileId":"446285",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-hospital/446285?b=2&k=19351&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.972615000000001",
+	"lng":"31.038732",
+	"enName":"Oasis Rd., 6th of october, Giza"
+}
+	]
+}]}

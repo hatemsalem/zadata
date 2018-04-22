@@ -1,0 +1,35 @@
+{"items":[{	"arName":"البرنس للرخام والجرانيت",
+	"enName":"El Prince For Marble & Granite",
+	"hotline":"19768",
+	"facebook":"http://www.facebook.com/elprincepmg",
+	"web":"http://www.elprince.com/",
+	"arCategory":[
+		"رخام وجرانيت"
+	],
+	"enCategories":[
+		"Marble & Granite"
+	],
+	"contacts":[
+		{	"profileId":"453679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-prince-for-marble-&-granite/453679?b=3&k=19768&l=search",
+	"arName":"., الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.056428",
+	"lng":"31.033415999999999",
+	"enName":"., El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"448343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-prince-for-marble-&-granite/448343?b=2&k=19768&l=search",
+	"arName":"القطعة 314 - ش التسعين قطاع 2, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.026002299999998",
+	"lng":"31.464580900000001",
+	"enName":"Plot 314, El Tesaeen St. Sector 2, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"448345",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-prince-for-marble-&-granite/448345?b=1&k=19768&l=search",
+	"arName":"خدمة العملاء, شق الثعبان, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Shak el thoaban, Cairo"
+}
+	]
+}]}

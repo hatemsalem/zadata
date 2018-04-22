@@ -1,0 +1,28 @@
+{"items":[{	"arName":"جانت ان تايم",
+	"enName":"Jaunt In Time",
+	"hotline":"19433",
+	"facebook":"http://www.facebook.com/JitTravel",
+	"web":"http://www.jit-travel.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"427261",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jaunt-in-time/427261?b=1&k=19433&l=search",
+	"arName":"1 ش على جاد الحق, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.101934",
+	"lng":"31.373192",
+	"enName":"1 Aly Gad El Haq St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"427266",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jaunt-in-time/427266?b=2&k=19433&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

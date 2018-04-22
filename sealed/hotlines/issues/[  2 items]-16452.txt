@@ -1,0 +1,48 @@
+{"items":[{	"arName":"المتكاملة للخدمات العقارية",
+	"enName":"IRS Integrated Real Estate Service",
+	"hotline":"16452",
+	"facebook":"",
+	"web":"http://www.era-irs.com/",
+	"arCategory":[
+		"مزادات"
+	],
+	"enCategories":[
+		"Auctions"
+	],
+	"contacts":[
+		{	"profileId":"466738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/irs-integrated-real-estate-service/466738?b=3&k=16452&l=search",
+	"arName":"كورنيش النيل, المعادى, القاهرة",
+	"lat":"29.960654999999999",
+	"lng":"31.247921000000002",
+	"enName":"Corniche El Nil, Maadi, Cairo"
+}
+	]
+}, {	"arName":"اى ار ايه كومرشال ايجيبت",
+	"enName":"ERA Commercial Egypt",
+	"hotline":"16452",
+	"facebook":"http://www.facebook.com/ERACommercialEgypt",
+	"web":"http://www.era-egy.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"396251",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/era-commercial-egypt/396251?b=2&k=16452&l=search",
+	"arName":"خدمة العملاء, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"381427",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/era-commercial-egypt/381427?b=1&k=16452&l=search",
+	"arName":"29 أ كورنيش النيل - الدور 20, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.960654999999999",
+	"lng":"31.247921000000002",
+	"enName":"29 A Corniche El Nil, Floor 20, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

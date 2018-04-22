@@ -1,0 +1,35 @@
+{"items":[{	"arName":"عربيات للتجارة والتوزيع",
+	"enName":"Arabiat For Trade & Distribution",
+	"hotline":"16106",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"129668",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiat-for-trade-&-distribution/129668?b=2&k=16106&l=search",
+	"arName":"49 ش الحجاز, المهندسين, الجيزة",
+	"lat":"30.0564",
+	"lng":"31.200600000000001",
+	"enName":"49 El Hegaz St., Mohandeseen, Giza"
+},
+		{	"profileId":"142822",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiat-for-trade-&-distribution/142822?b=3&k=16106&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"397768",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiat-for-trade-&-distribution/397768?b=1&k=16106&l=search",
+	"arName":"899 كورنيش النيل, مصر القديمة, القاهرة",
+	"lat":"30.004356600000001",
+	"lng":"31.226835300000001",
+	"enName":"899 Corniche El Nil, Misr el kadima, Cairo"
+}
+	]
+}]}

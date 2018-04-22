@@ -1,0 +1,41 @@
+{"items":[{	"arName":"مركز تاير كير - خدمة السيارات",
+	"enName":"Tire Care - Car Service Center",
+	"hotline":"16801",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سيارات - مراكز اصلاح وخدمات ومعدات"
+	],
+	"enCategories":[
+		"Cars - Repairing & Servicing Equipment"
+	],
+	"contacts":[
+		{	"profileId":"465715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tire-care-_-car-service-center/465715?b=2&k=16801&l=search",
+	"arName":"القطعة 10 - - المنطقة الصناعية, عباسية, القاهرة",
+	"lat":"30.060651",
+	"lng":"31.278638999999998",
+	"enName":"Plot 10, , Industrial Zone, Abbasseya, Cairo"
+}
+	]
+}, {	"arName":"الشركة الوطنية الهندسية للاستيراد والتصدير",
+	"enName":"Al Wataneya Engineering Co. For Import & Export",
+	"hotline":"16801",
+	"facebook":"",
+	"web":"http://www.wataneya-eg.com/",
+	"arCategory":[
+		"بطاريات"
+	],
+	"enCategories":[
+		"Batteries"
+	],
+	"contacts":[
+		{	"profileId":"216097",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-wataneya-engineering-co.-for-import-&-export/216097?b=1&k=16801&l=search",
+	"arName":"القطعة 10 - المنطقة الصناعية, عباسية, القاهرة",
+	"lat":"30.060941",
+	"lng":"31.278943000000002",
+	"enName":"Plot 10, Industrial Zone, Abbasseya, Cairo"
+}
+	]
+}]}

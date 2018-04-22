@@ -1,0 +1,35 @@
+{"items":[{	"arName":"بلتون المالية",
+	"enName":"Beltone Financial",
+	"hotline":"16422",
+	"facebook":"http://www.facebook.com/BeltoneFinancial",
+	"web":"http://www.beltonefinancial.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"436790",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beltone-financial/436790?b=3&k=16422&l=search",
+	"arName":"2 ش وادى النيل متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.054019",
+	"lng":"31.201450000000001",
+	"enName":"2 Wadi El Nil St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"521112",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beltone-financial/521112?b=2&k=16422&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+},
+		{	"profileId":"436784",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beltone-financial/436784?b=1&k=16422&l=search",
+	"arName":"2005 أ ابراج نايل سيتى - البرج الجنوبى - كورنيش النيل - الدور 7, رملة بولاق, القاهرة",
+	"lat":"30.071781999999999",
+	"lng":"31.227435",
+	"enName":"2005 A Nile City Towers, South Tower, Corniche El Nil, Floor 7, Ramlet boulak, Cairo"
+}
+	]
+}]}

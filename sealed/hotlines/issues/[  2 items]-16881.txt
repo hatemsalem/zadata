@@ -1,0 +1,83 @@
+{"items":[{	"arName":"اندلسية للاستثمارات العقارية",
+	"enName":"Andalosia Real Estate Investments",
+	"hotline":"16881",
+	"facebook":"http://www.facebook.com/Andalosia.Resort",
+	"web":"http://www.andalosiaresort.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"138937",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia-real-estate-investments/138937?b=6&k=16881&l=search",
+	"arName":"ش الاسكندرية, وسط البلد, مرسى مطروح",
+	"lat":"",
+	"lng":"",
+	"enName":"Alexandria St., Downtown, Marsa matrouh"
+},
+		{	"profileId":"137524",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia-real-estate-investments/137524?b=4&k=16881&l=search",
+	"arName":"1071 كورنيش النيل - الدور 2, جاردن سيتى, القاهرة",
+	"lat":"30.0318",
+	"lng":"31.230499999999999",
+	"enName":"1071 Corniche El Nil, Floor 2, Garden city, Cairo"
+},
+		{	"profileId":"139437",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia-real-estate-investments/139437?b=8&k=16881&l=search",
+	"arName":"قرية اندلسية, علم الروم, مرسى مطروح",
+	"lat":"31.359952",
+	"lng":"27.287362000000002",
+	"enName":"Andaloseya Village, Alam el roum, Marsa matrouh"
+},
+		{	"profileId":"137521",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia-real-estate-investments/137521?b=5&k=16881&l=search",
+	"arName":"3 ش ملك حفنى - مدينة فيصل, سيدى بشر قبلى, الاسكندرية",
+	"lat":"31.247869999999999",
+	"lng":"29.979365999999999",
+	"enName":"3 Malak Hefny St., Faisal City, Sidi beshr kebly, Alexandria"
+},
+		{	"profileId":"137520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia-real-estate-investments/137520?b=7&k=16881&l=search",
+	"arName":"76 ش عبد السلام عارف - الدور 1, 2, جليم, الاسكندرية",
+	"lat":"31.237697000000001",
+	"lng":"29.958241999999998",
+	"enName":"76 Abdel Salam Aref St., Floor 1, 2, Glim, Alexandria"
+},
+		{	"profileId":"155283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia-real-estate-investments/155283?b=3&k=16881&l=search",
+	"arName":"7 عمارات الشركة السعودية - ش النزهة - الدور 5, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.079319000000002",
+	"lng":"31.339628000000001",
+	"enName":"7 Secon Bldgs., El Nozha St., Floor 5, Ard El Golf, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"اندلسية",
+	"enName":"Andalosia",
+	"hotline":"16881",
+	"facebook":"http://www.facebook.com/Andalosia.Resort",
+	"web":"http://www.andalosiaresort.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"369978",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia/369978?b=1&k=16881&l=search",
+	"arName":"., علم الروم, مرسى مطروح",
+	"lat":"31.363946299999999",
+	"lng":"27.289679400000001",
+	"enName":"., Alam el roum, Marsa matrouh"
+},
+		{	"profileId":"369979",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia/369979?b=2&k=16881&l=search",
+	"arName":"خدمة العملاء, علم الروم, مرسى مطروح",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Alam el roum, Marsa matrouh"
+}
+	]
+}]}

@@ -1,0 +1,98 @@
+{"items":[{	"arName":"دريم 2000",
+	"enName":"Dream 2000",
+	"hotline":"16942",
+	"facebook":"http://www.facebook.com/dream2000store",
+	"web":"http://www.dreem2000.net/",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"395376",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/395376?b=2&k=16942&l=search",
+	"arName":"26 ش احمد فخرى متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.066103999999999",
+	"lng":"31.349288999999999",
+	"enName":"26 Ahmed Fakhry St. Off El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"395375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/395375?b=6&k=16942&l=search",
+	"arName":"خدمة العملاء, جسر السويس, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Gesr el suez, Cairo"
+},
+		{	"profileId":"284869",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/284869?b=5&k=16942&l=search",
+	"arName":"1 ش العشرين, عين شمس الشرقية, القاهرة",
+	"lat":"30.136768",
+	"lng":"31.338393",
+	"enName":"1 El Eshreen St., Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"216631",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/216631?b=1&k=16942&l=search",
+	"arName":"283 ش جمال عبد الناصر, الحرفيين, القاهرة",
+	"lat":"30.143348",
+	"lng":"31.398059",
+	"enName":"283 Gamal Abdel Nasser St., El herafeyeen, Cairo"
+},
+		{	"profileId":"459959",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/459959?b=7&k=16942&l=search",
+	"arName":"ميدان صلاح الدين, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.09545",
+	"lng":"31.331219000000001",
+	"enName":"Salah El Din Sq., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"459958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/459958?b=9&k=16942&l=search",
+	"arName":"1 ش ابو الفتوح عبد الله, عين شمس الشرقية, القاهرة",
+	"lat":"30.131782000000001",
+	"lng":"31.338289",
+	"enName":"1 Abou El Fotouh Abdullah St., Ain shams el sharkeya, Cairo"
+},
+		{	"profileId":"549108",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/549108?b=11&k=16942&l=search",
+	"arName":"112 ميدان الالف مسكن, الالف مسكن, مصر الجديدة, القاهرة",
+	"lat":"30.118779",
+	"lng":"31.339032",
+	"enName":"112 Alf Maskan Sq., El Alf Maskan, Heliopolis, Cairo"
+},
+		{	"profileId":"549109",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/549109?b=8&k=16942&l=search",
+	"arName":"90 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.065664999999999",
+	"lng":"31.344187000000002",
+	"enName":"90 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"459960",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/459960?b=10&k=16942&l=search",
+	"arName":"ش عثمان بن عفان, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.100086999999998",
+	"lng":"31.342181",
+	"enName":"Othman Ibn Affan St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"549120",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/549120?b=3&k=16942&l=search",
+	"arName":"68 ش اللواء فطين متفرع من ش شبرا, شبرا, القاهرة",
+	"lat":"30.076004999999999",
+	"lng":"31.244873999999999",
+	"enName":"68 El Lewaa Fateen St. Off Shoubra St., Shoubra, Cairo"
+},
+		{	"profileId":"204019",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/204019?b=4&k=16942&l=search",
+	"arName":"33 ش مصطفى حافظ, جسر السويس, القاهرة",
+	"lat":"30.128211",
+	"lng":"31.348904999999998",
+	"enName":"33 Mostafa Hafez St., Gesr el suez, Cairo"
+},
+		{	"profileId":"459961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-2000/459961?b=12&k=16942&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"lat":"30.177325",
+	"lng":"31.474091999999999",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+}
+	]
+}]}

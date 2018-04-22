@@ -1,0 +1,48 @@
+{"items":[{	"arName":"وزارة التموين والتجارة الداخلية",
+	"enName":"Ministry Of Supply & Internal Trading",
+	"hotline":"19280",
+	"facebook":"",
+	"web":"http://www.mss.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"353660",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-supply-&-internal-trading/353660?b=2&k=19280&l=search",
+	"arName":"99 ش قصر العينى, قصر العينى, القاهرة",
+	"lat":"30.036933000000001",
+	"lng":"31.234446999999999",
+	"enName":"99 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"353663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-supply-&-internal-trading/353663?b=3&k=19280&l=search",
+	"arName":"خدمة العملاء, قصر العينى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Kasr el ainy, Cairo"
+}
+	]
+}, {	"arName":"مصلحة دمغ المصوغات والموازين",
+	"enName":"Assay & Weights Administration",
+	"hotline":"19280",
+	"facebook":"http://www.facebook.com/msitegypt",
+	"web":"http://www.msit.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"231534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/assay-&-weights-administration/231534?b=1&k=19280&l=search",
+	"arName":"105 ش الصناديلى ميدان الجيزة, الجيزة, الجيزة",
+	"lat":"30.013472",
+	"lng":"31.212603000000001",
+	"enName":"105 El Sanadily St. Giza Sq., Giza, Giza"
+}
+	]
+}]}

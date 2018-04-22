@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ايزى كارد",
+	"enName":"Ezi Card",
+	"hotline":"16394",
+	"facebook":"",
+	"web":"http://www.ezicard.net/",
+	"arCategory":[
+		"كروت تخفيض"
+	],
+	"enCategories":[
+		"Discount Cards"
+	],
+	"contacts":[
+		{	"profileId":"325312",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ezi-card/325312?b=1&k=16394&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,23 @@
+{"items":[{	"arName":"ليف هيلثى",
+	"enName":"Live Healthy",
+	"hotline":"16911",
+	"facebook":"http://www.facebook.com/livehealthyeg/?ref=br_rs",
+	"web":"http://www.livehealthy.net/",
+	"arCategory":[
+		"اطباء",
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Doctors",
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"541900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/live-healthy/541900?b=1&k=16911&l=search",
+	"arName":"3 ش حسن صادق - المرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.085484999999998",
+	"lng":"31.325927",
+	"enName":"3 Hassan Sadek St., El Merghany, Heliopolis, Cairo"
+}
+	]
+}]}

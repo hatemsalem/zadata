@@ -1,0 +1,56 @@
+{"items":[{	"arName":"بتروجيت",
+	"enName":"Petrojet",
+	"hotline":"19745",
+	"facebook":"http://www.facebook.com/PetrojetOfficialPage/?ref=br_rs",
+	"web":"http://www.petrojet.com.eg/",
+	"arCategory":[
+		"بترول وغاز شركات - خدمات وخدمات داخل البحر شركات"
+	],
+	"enCategories":[
+		"Oil & Gas Companies, Services & Offshore Services"
+	],
+	"contacts":[
+		{	"profileId":"99074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petrojet/99074?b=3&k=19745&l=search",
+	"arName":"طريق العين السخنة, القطامية, القاهرة",
+	"lat":"29.971795",
+	"lng":"31.375902",
+	"enName":"El Ain El Sokhna Rd., El katameya, Cairo"
+},
+		{	"profileId":"557195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petrojet/557195?b=1&k=19745&l=search",
+	"arName":"ش التسعين الجنوبى - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.019991999999998",
+	"lng":"31.414487999999999",
+	"enName":"El Tesaeen El Ganouby St., City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"188198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petrojet/188198?b=6&k=19745&l=search",
+	"arName":"طريق القاهرة السويس الصحراوى, الزيتيات, السويس",
+	"lat":"29.966929",
+	"lng":"32.513323999999997",
+	"enName":"Cairo Suez Desert Rd., El zaiteiat, Suez"
+},
+		{	"profileId":"45166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petrojet/45166?b=2&k=19745&l=search",
+	"arName":"ش جوزيف تيتو تقاطع ش الاديب محمد السباعى - هايكستب, النزهة الجديدة, القاهرة",
+	"lat":"30.123961999999999",
+	"lng":"31.375232",
+	"enName":"Joseph Tito St. Intersection Of El Adib Mohamed El Sebaey St., Highkestep, El nozha el gadida, Cairo"
+},
+		{	"profileId":"576858",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petrojet/576858?b=4&k=19745&l=search",
+	"arName":"خدمة العملاء, النزهة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El nozha el gadida, Cairo"
+},
+		{	"profileId":"99071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/petrojet/99071?b=5&k=19745&l=search",
+	"arName":"كم 17 - - مرغم, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.106770999999998",
+	"lng":"29.873612000000001",
+	"enName":"Km 17, , Merghem, Alex. cairo desert rd., Alexandria"
+}
+	]
+}]}

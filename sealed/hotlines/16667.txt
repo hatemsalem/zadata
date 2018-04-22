@@ -1,0 +1,42 @@
+{"items":[{	"arName":"تى ان تى للشحن الدولى والمحلى",
+	"enName":"TNT Express",
+	"hotline":"16667",
+	"facebook":"http://www.facebook.com/TNTPeopleNetwork",
+	"web":"http://www.tnt.com/",
+	"arCategory":[
+		"بريد سريع خدمات"
+	],
+	"enCategories":[
+		"Courier Services"
+	],
+	"contacts":[
+		{	"profileId":"37064",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tnt-express/37064?b=3&k=16667&l=search",
+	"arName":"177 طريق الجيش, سيدى جابر, الاسكندرية",
+	"lat":"31.226879",
+	"lng":"29.938480999999999",
+	"enName":"177 El Guish Rd., Sidi gaber, Alexandria"
+},
+		{	"profileId":"147377",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tnt-express/147377?b=1&k=16667&l=search",
+	"arName":"17 ب عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.076314",
+	"lng":"31.307997",
+	"enName":"17 B El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"176600",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tnt-express/176600?b=4&k=16667&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"22139",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tnt-express/22139?b=2&k=16667&l=search",
+	"arName":"33 ش الدقى, الدقى, الجيزة",
+	"lat":"30.036756",
+	"lng":"31.211793",
+	"enName":"33 Dokki St., Dokki, Giza"
+}
+	]
+}]}

@@ -1,0 +1,67 @@
+{"items":[{	"arName":"العربى للمعادن الحديثة",
+	"enName":"Alarabi Modern Metals",
+	"hotline":"16336",
+	"facebook":"",
+	"web":"http://www.alarabi.com.eg/",
+	"arCategory":[
+		"ديكور داخلى ومصممون",
+		"اثاث منزلى ومكتبى واثاث حدائق",
+		"ابواب وشبابيك - اكسسوار"
+	],
+	"enCategories":[
+		"Interior Decorators & Designers",
+		"Furniture - Home, Office & Garden",
+		"Doors & Windows - Hardware"
+	],
+	"contacts":[
+		{	"profileId":"214004",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/214004?b=5&k=16336&l=search",
+	"arName":"5 ش الرويعى, العتبة, القاهرة",
+	"lat":"30.052873000000002",
+	"lng":"31.251698000000001",
+	"enName":"5 El Rowaey St., Ataba, Cairo"
+},
+		{	"profileId":"184335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/184335?b=4&k=16336&l=search",
+	"arName":"1 ش القطاوى, العتبة, القاهرة",
+	"lat":"30.052980999999999",
+	"lng":"31.251481999999999",
+	"enName":"1 El Qatawy St., Ataba, Cairo"
+},
+		{	"profileId":"397613",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/397613?b=7&k=16336&l=search",
+	"arName":"52 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.052026999999999",
+	"lng":"31.201035000000001",
+	"enName":"52 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"423898",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/423898?b=1&k=16336&l=search",
+	"arName":"25 ش المنصورة متفرع من ش هارون, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.09778",
+	"lng":"31.327985999999999",
+	"enName":"25 El Mansoura St. Off Haroun St., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"213976",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/213976?b=2&k=16336&l=search",
+	"arName":"18 ش المنصورة متفرع من ش هارون, ميدان الجامع, مصر الجديدة, القاهرة",
+	"lat":"30.097200000000001",
+	"lng":"31.328700000000001",
+	"enName":"18 El Mansoura St. Off Haroun St., El Gamea Square, Heliopolis, Cairo"
+},
+		{	"profileId":"213988",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/213988?b=3&k=16336&l=search",
+	"arName":"3 ش ابو المحاسن, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.089551",
+	"lng":"31.313137999999999",
+	"enName":"3 Abou El Mahasen St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"255924",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/255924?b=6&k=16336&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"لاند مارك للتنمية العقارية - صبور",
+	"enName":"Land Mark For Real Estate Development - Sabbour",
+	"hotline":"16295",
+	"facebook":"http://www.facebook.com/landmarksabbour",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"528631",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/land-mark-for-real-estate-development-_-sabbour/528631?b=2&k=16295&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"528612",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/land-mark-for-real-estate-development-_-sabbour/528612?b=1&k=16295&l=search",
+	"arName":"القطعة 289 - ش التسعين - المنطقة الادارية الثانية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.026769000000002",
+	"lng":"31.463529000000001",
+	"enName":"Plot 289, El Tesaeen St., 2nd Administration Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

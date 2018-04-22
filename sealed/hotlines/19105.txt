@@ -1,0 +1,49 @@
+{"items":[{	"arName":"يوتن للدهانات",
+	"enName":"Jotun Paints",
+	"hotline":"19105",
+	"facebook":"http://www.facebook.com/JotunArabia",
+	"web":"http://www.jotun.com/me",
+	"arCategory":[
+		"دهان وطلاء"
+	],
+	"enCategories":[
+		"Paints & Coatings"
+	],
+	"contacts":[
+		{	"profileId":"162979",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jotun-paints/162979?b=4&k=19105&l=search",
+	"arName":"18 ش يحيى المشد, سموحة, الاسكندرية",
+	"lat":"31.208248000000001",
+	"lng":"29.950157000000001",
+	"enName":"18 Yehia El Mashad St., Semouha, Alexandria"
+},
+		{	"profileId":"455496",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jotun-paints/455496?b=1&k=19105&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"77359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jotun-paints/77359?b=5&k=19105&l=search",
+	"arName":"المنطقة الصناعية الاولى, المنطقة الصناعية, الاسماعيلية",
+	"lat":"30.584873999999999",
+	"lng":"32.210835000000003",
+	"enName":"1St Industrial Zone, Industrial zone, Ismaileya"
+},
+		{	"profileId":"162980",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jotun-paints/162980?b=3&k=19105&l=search",
+	"arName":"38 ش محمد فريد, بور توفيق, السويس",
+	"lat":"",
+	"lng":"",
+	"enName":"38 Mohamed Farid St., Port tawfik, Suez"
+},
+		{	"profileId":"118936",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/jotun-paints/118936?b=2&k=19105&l=search",
+	"arName":"القطعة 193 - ش التسعين قطاع 2 - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.027739",
+	"lng":"31.461582",
+	"enName":"Plot 193, El Tesaeen St. Sector 2, City Center, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

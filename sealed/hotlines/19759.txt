@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سكاى للتوزيع",
+	"enName":"Sky Distribution",
+	"hotline":"19759",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تليفونات محمولة"
+	],
+	"enCategories":[
+		"Mobile Telephones"
+	],
+	"contacts":[
+		{	"profileId":"233144",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sky-distribution/233144?b=1&k=19759&l=search",
+	"arName":"خدمة العملاء, مدينة 15 مايو, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 15th of may city, Cairo"
+},
+		{	"profileId":"233137",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sky-distribution/233137?b=2&k=19759&l=search",
+	"arName":"28 ش عبد المنعم رياض متفرع من ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.050915",
+	"lng":"31.206130999999999",
+	"enName":"28 Abdel Moneim Riad St. Off El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+}
+	]
+}]}

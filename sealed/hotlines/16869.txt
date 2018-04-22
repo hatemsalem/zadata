@@ -1,0 +1,32 @@
+{"items":[{	"arName":"لوبستر للمأكولات البحرية",
+	"enName":"Lobster Seafood",
+	"hotline":"16869",
+	"facebook":"http://www.facebook.com/LobsterEgypt?ref=br_tf",
+	"web":"http://www.lobstereg.com/",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"457290",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lobster-seafood/457290?b=2&k=16869&l=search",
+	"arName":"106 ش حسن المامون, مدينة نصر, القاهرة",
+	"lat":"30.068374800000001",
+	"lng":"31.3562677",
+	"enName":"106 Hassan El Mamoun St., Nasr city, Cairo"
+},
+		{	"profileId":"469195",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lobster-seafood/469195?b=1&k=16869&l=search",
+	"arName":"السوق التجارى, مدينة الرحاب, القاهرة",
+	"lat":"30.056567000000001",
+	"lng":"31.491710999999999",
+	"enName":"Commercial Market, Al rehab city, Cairo"
+}
+	]
+}]}

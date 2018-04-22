@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدلية عمر",
+	"enName":"Omar Pharmacy",
+	"hotline":"16103",
+	"facebook":"http://www.facebook.com/Omar-pharmacy-16103-1453722511542456",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"451182",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/omar-pharmacy/451182?b=3&k=16103&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"451181",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/omar-pharmacy/451181?b=1&k=16103&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.004553999999999",
+	"lng":"31.426463999999999",
+	"enName":"., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"512789",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/omar-pharmacy/512789?b=2&k=16103&l=search",
+	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.053526000000002",
+	"lng":"31.430931999999999",
+	"enName":"Ring Rd., 1st Compound, New cairo, Cairo"
+}
+	]
+}]}

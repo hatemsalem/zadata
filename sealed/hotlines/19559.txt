@@ -1,0 +1,28 @@
+{"items":[{	"arName":"فاست توريستيك ترانسبورت",
+	"enName":"Fast Touristic Transport",
+	"hotline":"19559",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تاكسى"
+	],
+	"enCategories":[
+		"Taxies"
+	],
+	"contacts":[
+		{	"profileId":"120796",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fast-touristic-transport/120796?b=2&k=19559&l=search",
+	"arName":"ش طلعت مصطفى - برج الثغر, سموحة, الاسكندرية",
+	"lat":"31.190401000000001",
+	"lng":"29.940078",
+	"enName":"Talaat Mostafa St., El Thaghr Tower, Semouha, Alexandria"
+},
+		{	"profileId":"118042",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fast-touristic-transport/118042?b=1&k=19559&l=search",
+	"arName":"خدمة العملاء, سموحة, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Semouha, Alexandria"
+}
+	]
+}]}

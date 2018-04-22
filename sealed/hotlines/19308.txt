@@ -1,0 +1,35 @@
+{"items":[{	"arName":"سيرا للمراتب والمفروشات",
+	"enName":"Sera Mattress & Furniture",
+	"hotline":"19308",
+	"facebook":"http://www.facebook.com/seraegypt",
+	"web":"http://www.seraegypt.com/",
+	"arCategory":[
+		"مفروشات"
+	],
+	"enCategories":[
+		"Bedding"
+	],
+	"contacts":[
+		{	"profileId":"392964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sera-mattress-&-furniture/392964?b=3&k=19308&l=search",
+	"arName":"القطعة 51، 129 - - المنطقة الصناعية ب، ج, مدينة العبور, القليوبية",
+	"lat":"30.263636000000002",
+	"lng":"31.460443000000001",
+	"enName":"Plot 51, 129, , Industrial Zone B, C, Obour city, Kaliobeya"
+},
+		{	"profileId":"484530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sera-mattress-&-furniture/484530?b=1&k=19308&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+},
+		{	"profileId":"484534",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sera-mattress-&-furniture/484534?b=2&k=19308&l=search",
+	"arName":"ش الشباب - اسكان الشباب, مدينة العبور, القليوبية",
+	"lat":"30.266286000000001",
+	"lng":"31.477374999999999",
+	"enName":"El Shabab St., Youth Housing, Obour city, Kaliobeya"
+}
+	]
+}]}

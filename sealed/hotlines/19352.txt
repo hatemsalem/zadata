@@ -1,0 +1,42 @@
+{"items":[{	"arName":"سيكون - الشركة السعودية المصرية للتعمير",
+	"enName":"Secon - Saudi Egyptian Construction Co.",
+	"hotline":"19352",
+	"facebook":"",
+	"web":"http://www.secon-realestate.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"125107",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/secon-_-saudi-egyptian-construction-co./125107?b=4&k=19352&l=search",
+	"arName":"2 ش الانسة مى, سان استيفانو, الاسكندرية",
+	"lat":"31.246395",
+	"lng":"29.967146",
+	"enName":"2 El Anesa Mai St., San stefano, Alexandria"
+},
+		{	"profileId":"62331",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/secon-_-saudi-egyptian-construction-co./62331?b=3&k=19352&l=search",
+	"arName":"4 ش طلعت حرب - الدور 1, وسط البلد, القاهرة",
+	"lat":"30.045456000000001",
+	"lng":"31.236962999999999",
+	"enName":"4 Talaat Harb St., Floor 1, Downtown, Cairo"
+},
+		{	"profileId":"86880",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/secon-_-saudi-egyptian-construction-co./86880?b=2&k=19352&l=search",
+	"arName":"10 ش طلعت حرب - عمارة ايفر جرين - الدور 14, وسط البلد, القاهرة",
+	"lat":"30.046488",
+	"lng":"31.237634",
+	"enName":"10 Talaat Harb St., Ever Green Bldg., Floor 14, Downtown, Cairo"
+},
+		{	"profileId":"178134",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/secon-_-saudi-egyptian-construction-co./178134?b=1&k=19352&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

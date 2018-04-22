@@ -1,0 +1,42 @@
+{"items":[{	"arName":"كيميفارم",
+	"enName":"Chemipharm",
+	"hotline":"19321",
+	"facebook":"",
+	"web":"http://www.chemipharm.com.eg/",
+	"arCategory":[
+		"ادوية شركات"
+	],
+	"enCategories":[
+		"Pharmaceutical Companies"
+	],
+	"contacts":[
+		{	"profileId":"187031",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chemipharm/187031?b=3&k=19321&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"504420",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chemipharm/504420?b=4&k=19321&l=search",
+	"arName":"11 ش سعد زغلول - حى الزهور - الدور 1, الزقازيق, الشرقية",
+	"lat":"30.581475000000001",
+	"lng":"31.489744999999999",
+	"enName":"11 Saad Zaghloul St., El Zohour District, Floor 1, El zagazig, El sharkeya"
+},
+		{	"profileId":"92160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chemipharm/92160?b=1&k=19321&l=search",
+	"arName":"المنطقة الصناعية الثالثة, السادس من اكتوبر, الجيزة",
+	"lat":"29.916058",
+	"lng":"30.903063",
+	"enName":"3rd Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"50789",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chemipharm/50789?b=2&k=19321&l=search",
+	"arName":"13 ش احمد عرابى, المهندسين, الجيزة",
+	"lat":"30.062487000000001",
+	"lng":"31.207353999999999",
+	"enName":"13 Ahmed Orabi St., Mohandeseen, Giza"
+}
+	]
+}]}

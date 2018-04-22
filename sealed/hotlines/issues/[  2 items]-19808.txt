@@ -1,0 +1,55 @@
+{"items":[{	"arName":"جهاز شئون البيئة",
+	"enName":"Egyptian Environmental Affairs Agency",
+	"hotline":"19808",
+	"facebook":"",
+	"web":"http://www.eeaa.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"222074",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-environmental-affairs-agency/222074?b=1&k=19808&l=search",
+	"arName":"30 طريق مصر حلوان الزراعى - الدور 6, المعادى, القاهرة",
+	"lat":"29.961632000000002",
+	"lng":"31.249600999999998",
+	"enName":"30 Misr Helwan Agricultural Rd., Floor 6, Maadi, Cairo"
+},
+		{	"profileId":"222209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-environmental-affairs-agency/222209?b=2&k=19808&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}, {	"arName":"وزارة الدولة لشئون البيئة",
+	"enName":"Ministry Of State For Environmental Affairs - MSEA",
+	"hotline":"19808",
+	"facebook":"http://www.facebook.com/egy.environment",
+	"web":"http://www.eeaa.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"57686",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-state-for-environmental-affairs-_-msea/57686?b=4&k=19808&l=search",
+	"arName":"30 طريق مصر حلوان الزراعى - الدور 6, المعادى, القاهرة",
+	"lat":"29.961632000000002",
+	"lng":"31.249600999999998",
+	"enName":"30 Misr Helwan Agricultural Rd., Floor 6, Maadi, Cairo"
+},
+		{	"profileId":"168672",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ministry-of-state-for-environmental-affairs-_-msea/168672?b=3&k=19808&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+}
+	]
+}]}

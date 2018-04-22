@@ -1,0 +1,48 @@
+{"items":[{	"arName":"ذا ووتر واى",
+	"enName":"The Waterway",
+	"hotline":"19471",
+	"facebook":"http://www.facebook.com/TheWaterwayEgypt",
+	"web":"http://www.thewaterway-eg.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"495801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-waterway/495801?b=2&k=19471&l=search",
+	"arName":"., المستثمرين الشمالية, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"., North Investors, New cairo, Cairo"
+},
+		{	"profileId":"495809",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-waterway/495809?b=1&k=19471&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"دبليو مول",
+	"enName":"W Mall",
+	"hotline":"19471",
+	"facebook":"http://www.facebook.com/wnewcairo",
+	"web":"",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"501287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/w-mall/501287?b=3&k=19471&l=search",
+	"arName":"22 أ - ذا ووتر واى كومبوند, المستثمرين الشمالية, القاهرة الجديدة, القاهرة",
+	"lat":"30.041346999999998",
+	"lng":"31.476859999999999",
+	"enName":"22 A , The Waterway Compound, North Investors, New cairo, Cairo"
+}
+	]
+}]}

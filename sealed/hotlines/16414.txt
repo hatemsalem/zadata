@@ -1,0 +1,28 @@
+{"items":[{	"arName":"العروبة مصر للانشاء والتعمير",
+	"enName":"Orouba Misr For Construction & Development",
+	"hotline":"16414",
+	"facebook":"http://www.facebook.com/OroubaMisrEG",
+	"web":"http://www.oroubamisr.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"393322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orouba-misr-for-construction-&-development/393322?b=2&k=16414&l=search",
+	"arName":"1 طريق مطار برج العرب محور التعمير, سيدى كرير, الساحل الشمالى",
+	"lat":"31.006202999999999",
+	"lng":"29.637924999999999",
+	"enName":"1 Borg El Arab Airport Rd. El Taamir Spine, Sidi kreir, North coast"
+},
+		{	"profileId":"564222",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orouba-misr-for-construction-&-development/564222?b=1&k=16414&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

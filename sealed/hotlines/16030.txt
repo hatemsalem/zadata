@@ -1,0 +1,28 @@
+{"items":[{	"arName":"حياة للتصنيع والتنمية",
+	"enName":"Hayat For Manufacturing & Development",
+	"hotline":"16030",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مياه معبئة (معدنية)"
+	],
+	"enCategories":[
+		"Water Bottled & Bulk"
+	],
+	"contacts":[
+		{	"profileId":"225292",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hayat-for-manufacturing-&-development/225292?b=2&k=16030&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"225290",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hayat-for-manufacturing-&-development/225290?b=1&k=16030&l=search",
+	"arName":"الشطر الخامس, زهراء المعادى, المعادى, القاهرة",
+	"lat":"29.960270999999999",
+	"lng":"31.324349000000002",
+	"enName":"5th Sector, Zahraa El Maadi, Maadi, Cairo"
+}
+	]
+}]}

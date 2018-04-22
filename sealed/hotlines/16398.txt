@@ -1,0 +1,28 @@
+{"items":[{	"arName":"البردى لصناعة الورق - فاين",
+	"enName":"El Bardi Paper Mill - Fine",
+	"hotline":"16398",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مناديل ورقية"
+	],
+	"enCategories":[
+		"Tissues"
+	],
+	"contacts":[
+		{	"profileId":"108647",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bardi-paper-mill-_-fine/108647?b=1&k=16398&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"141",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-bardi-paper-mill-_-fine/141?b=2&k=16398&l=search",
+	"arName":"المنطقة الصناعية الرابعة, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.940397000000001",
+	"lng":"30.884658999999999",
+	"enName":"4th Industrial Zone, Industrial Zone, 6th of october, Giza"
+}
+	]
+}]}

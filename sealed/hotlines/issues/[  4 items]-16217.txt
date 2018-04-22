@@ -1,0 +1,109 @@
+{"items":[{	"arName":"مكتب التأمينات الاجتماعية - شمال القاهرة 2",
+	"enName":"Social Insurance Office - North Cairo 2",
+	"hotline":"16217",
+	"facebook":"",
+	"web":"http://www.nosi.gov.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"576335",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-office-_-north-cairo-2/576335?b=8&k=16217&l=search",
+	"arName":"26 ابراج اللؤلؤة - ش دولتيان متفرع من ش شبرا, اغاخان, القاهرة",
+	"lat":"30.1006",
+	"lng":"31.2409",
+	"enName":"26 El Loualoaa Towers, Dawletian St. Off Shoubra St., Aghakhan, Cairo"
+}
+	]
+}, {	"arName":"الهيئة القومية للتأمين الاجتماعى",
+	"enName":"National Organization For Social Insurance",
+	"hotline":"16217",
+	"facebook":"http://www.facebook.com/pages/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%89-%D9%84%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A%D8%A9-%D9%84%D9%84%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%89-%D9%85%D8%B5%D8%B1/214879701913162",
+	"web":"",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"258160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance/258160?b=2&k=16217&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"113552",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/national-organization-for-social-insurance/113552?b=1&k=16217&l=search",
+	"arName":"3 ش الالفى, وسط البلد, القاهرة",
+	"lat":"30.053488999999999",
+	"lng":"31.243334999999998",
+	"enName":"3 El Alfy St., Downtown, Cairo"
+}
+	]
+}, {	"arName":"صندوق التأمين الاجتماعى للعاملين بالقطاع الحكومى",
+	"enName":"Social Insurance Fund For Governmental Sector Workers",
+	"hotline":"16217",
+	"facebook":"",
+	"web":"nosi.gov.eg",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"428472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-governmental-sector-workers/428472?b=4&k=16217&l=search",
+	"arName":"5 ميدان لاظوغلى, وسط البلد, القاهرة",
+	"lat":"30.039169000000001",
+	"lng":"31.240627",
+	"enName":"5 Lazoughly Sq., Downtown, Cairo"
+},
+		{	"profileId":"428476",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-governmental-sector-workers/428476?b=3&k=16217&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}, {	"arName":"صندوق التأمين الاجتماعى للعاملين بالقطاع العام والخاص",
+	"enName":"Social Insurance Fund For Public & Private Sector Workers",
+	"hotline":"16217",
+	"facebook":"",
+	"web":"nosi.gov.eg",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"42870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-public-&-private-sector-workers/42870?b=7&k=16217&l=search",
+	"arName":"66 طريق الحرية, العطارين, الاسكندرية",
+	"lat":"31.198875999999998",
+	"lng":"29.908394999999999",
+	"enName":"66 El Horreya Rd., El attarin, Alexandria"
+},
+		{	"profileId":"428479",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-public-&-private-sector-workers/428479?b=6&k=16217&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"113825",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/social-insurance-fund-for-public-&-private-sector-workers/113825?b=5&k=16217&l=search",
+	"arName":"3 ش الالفى, وسط البلد, القاهرة",
+	"lat":"30.053523999999999",
+	"lng":"31.243030000000001",
+	"enName":"3 El Alfy St., Downtown, Cairo"
+}
+	]
+}]}

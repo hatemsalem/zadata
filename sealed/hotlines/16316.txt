@@ -1,0 +1,42 @@
+{"items":[{	"arName":"اوبرا للسياحة",
+	"enName":"Opera Travel",
+	"hotline":"16316",
+	"facebook":"http://www.facebook.com/OperaTravel4Umrah.Hajj/",
+	"web":"http://www.opera.travel/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"531338",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/opera-travel/531338?b=4&k=16316&l=search",
+	"arName":"31 ش جامعة الدول العربية - الدور 4, المهندسين, الجيزة",
+	"lat":"30.051404999999999",
+	"lng":"31.199532000000001",
+	"enName":"31 Gamaet El Dewal El Arabeya St., Floor 4, Mohandeseen, Giza"
+},
+		{	"profileId":"49734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/opera-travel/49734?b=1&k=16316&l=search",
+	"arName":"2 ش عدلى ميدان الاوبرا, وسط البلد, القاهرة",
+	"lat":"30.050999999999998",
+	"lng":"31.246410000000001",
+	"enName":"2 Adly St. Opera Sq., Downtown, Cairo"
+},
+		{	"profileId":"459187",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/opera-travel/459187?b=2&k=16316&l=search",
+	"arName":"79 ش الميرغنى - الدور 5, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"lat":"30.084382000000002",
+	"lng":"31.331023999999999",
+	"enName":"79 El Merghany St., Floor 5, Heliopolis Square, Heliopolis, Cairo"
+},
+		{	"profileId":"406827",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/opera-travel/406827?b=3&k=16316&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+}
+	]
+}]}

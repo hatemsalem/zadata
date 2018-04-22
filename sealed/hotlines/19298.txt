@@ -1,0 +1,56 @@
+{"items":[{	"arName":"اسلسكا - كلية الدراسات العليا فى الادارة",
+	"enName":"Eslsca Business School",
+	"hotline":"19298",
+	"facebook":"http://www.facebook.com/ESLSCA",
+	"web":"http://www.eslsca.org/",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"471889",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eslsca-business-school/471889?b=5&k=19298&l=search",
+	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 28, Cairo Alex Desert Rd., Abou rawash, Giza"
+},
+		{	"profileId":"471886",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eslsca-business-school/471886?b=1&k=19298&l=search",
+	"arName":"51 ش عبد المنعم حافظ, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"lat":"30.086093000000002",
+	"lng":"31.346219999999999",
+	"enName":"51 Abdel Moneim Hafez St., Heliopolis Square, Heliopolis, Cairo"
+},
+		{	"profileId":"276343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eslsca-business-school/276343?b=3&k=19298&l=search",
+	"arName":"17 ش السد العالى ميدان فينى, الدقى, الجيزة",
+	"lat":"30.042006000000001",
+	"lng":"31.216577999999998",
+	"enName":"17 El Sad El Aaly St. Veiny Sq., Dokki, Giza"
+},
+		{	"profileId":"471892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eslsca-business-school/471892?b=4&k=19298&l=search",
+	"arName":"91 ش عبد السلام عارف, جليم, الاسكندرية",
+	"lat":"31.239155",
+	"lng":"29.960044",
+	"enName":"91 Abdel Salam Aref St., Glim, Alexandria"
+},
+		{	"profileId":"172592",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eslsca-business-school/172592?b=2&k=19298&l=search",
+	"arName":"6 ش الورود متفرع من ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.051832999999998",
+	"lng":"31.202988999999999",
+	"enName":"6 El Woroud St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"471883",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/eslsca-business-school/471883?b=6&k=19298&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

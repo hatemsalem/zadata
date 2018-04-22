@@ -1,0 +1,84 @@
+{"items":[{	"arName":"ناتجاس - الشركة الوطنية للغاز",
+	"enName":"NATGAS - National Gas Co.",
+	"hotline":"19390",
+	"facebook":"",
+	"web":"http://www.natgas.com.eg/",
+	"arCategory":[
+		"غازات وبروبان"
+	],
+	"enCategories":[
+		"Gases & Propane"
+	],
+	"contacts":[
+		{	"profileId":"60964",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./60964?b=1&k=19390&l=search",
+	"arName":"13 ش 270, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.9802",
+	"lng":"31.2807",
+	"enName":"13 Rd. 270, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"85999",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./85999?b=4&k=19390&l=search",
+	"arName":"خدمة طوارئ, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"122206",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./122206?b=7&k=19390&l=search",
+	"arName":"كم 18.5 - طريق اسكندرية مطروح الصحراوى, العجمى, الاسكندرية",
+	"lat":"31.090060000000001",
+	"lng":"29.755115",
+	"enName":"Km 18.5, Alex Matrouh Desert Rd., Agami, Alexandria"
+},
+		{	"profileId":"85986",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./85986?b=5&k=19390&l=search",
+	"arName":"28 ب عمارة انوار طيبة - الحى الثالث, السادس من اكتوبر, الجيزة",
+	"lat":"29.965243000000001",
+	"lng":"30.937246999999999",
+	"enName":"28 B Anwar Tiba Bldg., 3rd District, 6th of october, Giza"
+},
+		{	"profileId":"85987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./85987?b=3&k=19390&l=search",
+	"arName":"20 عمارات الضباط - , مدينة السلام, القاهرة",
+	"lat":"30.164135999999999",
+	"lng":"31.421548000000001",
+	"enName":"20 El Dobbat Bldgs., , El salam city, Cairo"
+},
+		{	"profileId":"85998",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./85998?b=6&k=19390&l=search",
+	"arName":"القطعة 137 - - المنطقة الاولى, برج العرب الجديدة, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Plot 137, , 1St Zone, New borg el arab, Alexandria"
+},
+		{	"profileId":"85994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./85994?b=8&k=19390&l=search",
+	"arName":"186 ش قنال المحمودية, محرم بك, الاسكندرية",
+	"lat":"31.182501999999999",
+	"lng":"29.906441000000001",
+	"enName":"186 Qanal El Mahmoudeya St., Moharram bey, Alexandria"
+},
+		{	"profileId":"85991",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./85991?b=10&k=19390&l=search",
+	"arName":"ش عبد السلام الشاذلى, دمنهور, البحيرة",
+	"lat":"31.037261999999998",
+	"lng":"30.454841999999999",
+	"enName":"Abdel Salam El Shazly St., Damanhour, El beheira"
+},
+		{	"profileId":"276709",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./276709?b=2&k=19390&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"85990",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/natgas-_-national-gas-co./85990?b=9&k=19390&l=search",
+	"arName":"ش الحدائق متفرع من ش احمد عرابى, كفر الدوار, البحيرة",
+	"lat":"31.1357678",
+	"lng":"30.1296629",
+	"enName":"El Hadaeq St. Off Ahmed Orabi St., Kafr el dawar, El beheira"
+}
+	]
+}]}

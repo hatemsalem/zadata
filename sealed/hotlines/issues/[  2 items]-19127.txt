@@ -1,0 +1,188 @@
+{"items":[{	"arName":"كمبيو مى",
+	"enName":"Compu Me",
+	"hotline":"19127",
+	"facebook":"http://www.facebook.com/CompuMe",
+	"web":"http://www.compume.com.eg/",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"61692",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/61692?b=3&k=19127&l=search",
+	"arName":"17 ش الاهرام, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.09159",
+	"lng":"31.322158000000002",
+	"enName":"17 El Ahram St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"125112",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/125112?b=2&k=19127&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073031",
+	"lng":"31.347348",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"276264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/276264?b=7&k=19127&l=search",
+	"arName":"1 ش فوزى معاذ ميدان فيكتور عمانويل, سموحة, الاسكندرية",
+	"lat":"31.214480999999999",
+	"lng":"29.944458999999998",
+	"enName":"1 Fawzy Moaz St. Victor Emanuel Sq., Semouha, Alexandria"
+},
+		{	"profileId":"116485",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/116485?b=4&k=19127&l=search",
+	"arName":"9 /2 ش النصر الشطر التاسع, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.976013999999999",
+	"lng":"31.283991",
+	"enName":"9 /2 El Nasr St. 9th Sector, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"226033",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/226033?b=6&k=19127&l=search",
+	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.062851999999999",
+	"lng":"31.027342999999998",
+	"enName":"Km 28,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"426407",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/426407?b=9&k=19127&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"479907",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/479907?b=8&k=19127&l=search",
+	"arName":"القطعة 25، 26 - سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.060290999999999",
+	"lng":"31.208466999999999",
+	"enName":"Plot 25, 26, Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"542183",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/542183?b=10&k=19127&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"454313",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/454313?b=5&k=19127&l=search",
+	"arName":"ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.050554999999999",
+	"lng":"31.199159999999999",
+	"enName":"Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"186909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/compu-me/186909?b=1&k=19127&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"سمارت هومز",
+	"enName":"Smart Homes",
+	"hotline":"19127",
+	"facebook":"http://www.facebook.com/pages/Smart-Homes/654636661285591",
+	"web":"http://www.smarthomes.com.eg/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"464637",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/464637?b=16&k=19127&l=search",
+	"arName":"11 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.066137000000001",
+	"lng":"31.336510000000001",
+	"enName":"11 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"545138",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/545138?b=17&k=19127&l=search",
+	"arName":"44 ش مكرم عبيد, مدينة نصر, القاهرة",
+	"lat":"30.059683",
+	"lng":"31.345047000000001",
+	"enName":"44 Makram Ebaid St., Nasr city, Cairo"
+},
+		{	"profileId":"464639",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/464639?b=11&k=19127&l=search",
+	"arName":"54 ش جوزيف تيتو - عمارة الدلتا, النزهة الجديدة, القاهرة",
+	"lat":"30.123498000000001",
+	"lng":"31.374818000000001",
+	"enName":"54 Joseph Tito St., El Delta Bldg., El nozha el gadida, Cairo"
+},
+		{	"profileId":"464634",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/464634?b=19&k=19127&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.027032999999999",
+	"lng":"31.013698999999999",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"464633",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/464633?b=13&k=19127&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"489832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/489832?b=15&k=19127&l=search",
+	"arName":"9 /2 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.976299999999998",
+	"lng":"31.284148999999999",
+	"enName":"9 /2 El Nasr St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"464635",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/464635?b=18&k=19127&l=search",
+	"arName":"17 ش الاهرام, الكوربة, مصر الجديدة, القاهرة",
+	"lat":"30.09159",
+	"lng":"31.322158000000002",
+	"enName":"17 El Ahram St., El Korba, Heliopolis, Cairo"
+},
+		{	"profileId":"464640",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/464640?b=14&k=19127&l=search",
+	"arName":"خدمة العملاء, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Cairo Festival City, New cairo, Cairo"
+},
+		{	"profileId":"489934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/489934?b=20&k=19127&l=search",
+	"arName":"45 ش محى الدين ابو العز متفرع من ش التحرير, الدقى, الجيزة",
+	"lat":"30.040469000000002",
+	"lng":"31.200882",
+	"enName":"45 Mohy El Din Abou El Ezz St. Off El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"489834",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/489834?b=12&k=19127&l=search",
+	"arName":"19 ش الشهيد سيد ذكريا, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.100491000000002",
+	"lng":"31.374979",
+	"enName":"19 El Shaheed Sayed Zakareya St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"545140",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/545140?b=23&k=19127&l=search",
+	"arName":"55 ش المشاية السفلية - برج الهدى, المنصورة, الدقهلية",
+	"lat":"31.045948200000002",
+	"lng":"31.361776899999999",
+	"enName":"55 El Mashaya El Sofleya St., El Hoda Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"544960",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/544960?b=22&k=19127&l=search",
+	"arName":"22 سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.057603",
+	"lng":"31.205383000000001",
+	"enName":"22 Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"544283",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-homes/544283?b=21&k=19127&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+}
+	]
+}]}

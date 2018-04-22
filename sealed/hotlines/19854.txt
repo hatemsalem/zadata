@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بايك القصراوى",
+	"enName":"Baic El-kasrawy",
+	"hotline":"19854",
+	"facebook":"http://www.facebook.com/SenovaEgypt",
+	"web":"http://www.senovaegypt.com/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"518280",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baic-el_kasrawy/518280?b=2&k=19854&l=search",
+	"arName":"3 ش محمد شفيق تقاطع ش نخلة المطيعى, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.101866000000001",
+	"lng":"31.340388000000001",
+	"enName":"3 Mohamed Shafiq St. Intersection Of Nakhla El Motaey St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"518299",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/baic-el_kasrawy/518299?b=1&k=19854&l=search",
+	"arName":"خدمة العملاء, تريومف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Triumph Square, Heliopolis, Cairo"
+}
+	]
+}]}

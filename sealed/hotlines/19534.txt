@@ -1,0 +1,35 @@
+{"items":[{	"arName":"رويال هوم",
+	"enName":"Royal Home",
+	"hotline":"19534",
+	"facebook":"http://www.facebook.com/royalhomegroup",
+	"web":"http://www.royalhomegroup.org/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"540203",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-home/540203?b=1&k=19534&l=search",
+	"arName":"3 ش ابو داوود الظاهرى متفرع من ش مكرم عبيد - الدور 6, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.060195",
+	"lng":"31.346095999999999",
+	"enName":"3 Abou Dawoud El Zahery St. Off Makram Ebaid St., Floor 6, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"540202",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-home/540202?b=3&k=19534&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"540193",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-home/540193?b=2&k=19534&l=search",
+	"arName":"65 ش مصدق - برج مصر بلازا - الدور 2, الدقى, الجيزة",
+	"lat":"30.039262000000001",
+	"lng":"31.203052",
+	"enName":"65 Mossadak St., Misr Plaza Tower, Floor 2, Dokki, Giza"
+}
+	]
+}]}

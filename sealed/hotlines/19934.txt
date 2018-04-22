@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الحصان الذهبى والعاصمة للنقل البرى",
+	"enName":"Golden Horse & Capital From Transportation",
+	"hotline":"19934",
+	"facebook":"http://www.facebook.com/%D8%B4%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D9%86-%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A-%D9%84%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A-Golden-Horse-Transport-261660804228936/",
+	"web":"",
+	"arCategory":[
+		"اتوبيسات شارتر ومحطات"
+	],
+	"enCategories":[
+		"Bus Charters & Stations"
+	],
+	"contacts":[
+		{	"profileId":"213341",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/golden-horse-&-capital-from-transportation/213341?b=1&k=19934&l=search",
+	"arName":"16 ش احمد حلمى, شبرا, القاهرة",
+	"lat":"30.065100000000001",
+	"lng":"31.518101999999999",
+	"enName":"16 Ahmed Helmy St., Shoubra, Cairo"
+}
+	]
+}]}

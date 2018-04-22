@@ -1,0 +1,69 @@
+{"items":[{	"arName":"مطعم الدهان",
+	"enName":"El Dahan Restaurant",
+	"hotline":"16194",
+	"facebook":"http://www.facebook.com/eldahangrill",
+	"web":"http://www.eldahangrill.com/",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مشويات",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"B. B. Q.",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"201111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurant/201111?b=5&k=16194&l=search",
+	"arName":"الرحاب 1, مدينة الرحاب, القاهرة",
+	"lat":"30.056567000000001",
+	"lng":"31.491710999999999",
+	"enName":"El Rehab 1, Al rehab city, Cairo"
+},
+		{	"profileId":"351381",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurant/351381?b=1&k=16194&l=search",
+	"arName":"70 ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.084584",
+	"lng":"31.326326000000002",
+	"enName":"70 El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"474132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurant/474132?b=4&k=16194&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"447618",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurant/447618?b=7&k=16194&l=search",
+	"arName":"38 ش جامعة الدول العربية تقاطع ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.055510999999999",
+	"lng":"31.204339000000001",
+	"enName":"38 Gamaet El Dewal El Arabeya St. Intersection Of El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"218299",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurant/218299?b=2&k=16194&l=search",
+	"arName":"القطعة 82 - ش اخناتون - الحى الاول, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.003406999999999",
+	"lng":"31.421278000000001",
+	"enName":"Plot 82, Ekhnatoun St., 1st District, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"524280",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurant/524280?b=3&k=16194&l=search",
+	"arName":"., مدينتى, القاهرة",
+	"lat":"30.083938",
+	"lng":"31.639177",
+	"enName":"., Madinty, Cairo"
+},
+		{	"profileId":"466810",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-dahan-restaurant/466810?b=6&k=16194&l=search",
+	"arName":"الرحاب 1, مدينة الرحاب, القاهرة",
+	"lat":"30.058814999999999",
+	"lng":"31.489826000000001",
+	"enName":"El Rehab 1, Al rehab city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"صيدلية د. عمرو كمال",
+	"enName":"Dr. Amr Kamal Pharmacy",
+	"hotline":"16698",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"306916",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-amr-kamal-pharmacy/306916?b=2&k=16698&l=search",
+	"arName":"22 ش احمد لطفى السيد, المساحة, فيصل, الجيزة",
+	"lat":"30.009298999999999",
+	"lng":"31.193003999999998",
+	"enName":"22 Ahmed Lotfy El Sayed St., El Messaha, Faisal, Giza"
+},
+		{	"profileId":"306920",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-amr-kamal-pharmacy/306920?b=1&k=16698&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المساحة, فيصل, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El Messaha, Faisal, Giza"
+}
+	]
+}]}

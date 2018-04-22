@@ -1,0 +1,162 @@
+{"items":[{	"arName":"ساليه سوكريه",
+	"enName":"Sale Sucre",
+	"hotline":"19632",
+	"facebook":"http://www.facebook.com/SaleSucre",
+	"web":"http://www.salesucre.com/",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"396597",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/396597?b=17&k=19632&l=search",
+	"arName":"74 ابراج البارون - ش البرت الاول, سموحة, الاسكندرية",
+	"lat":"31.212897999999999",
+	"lng":"29.939487",
+	"enName":"74 El Baron Towers, Albert El Awal St., Semouha, Alexandria"
+},
+		{	"profileId":"512232",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/512232?b=18&k=19632&l=search",
+	"arName":"307 أ ش الهرم - الاريزونا, الهرم, الجيزة",
+	"lat":"30.000284000000001",
+	"lng":"31.177845999999999",
+	"enName":"307 A Haram St., El Arizona, El haram, Giza"
+},
+		{	"profileId":"377915",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/377915?b=9&k=19632&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"455176",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/455176?b=11&k=19632&l=search",
+	"arName":"12 ش ابراهيم شريف, مصطفى كامل, الاسكندرية",
+	"lat":"31.223659000000001",
+	"lng":"29.948174999999999",
+	"enName":"12 Ibrahim Sherif St., Mostafa kamel, Alexandria"
+},
+		{	"profileId":"568536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/568536?b=2&k=19632&l=search",
+	"arName":"محور محمد نجيب, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.031917",
+	"lng":"31.475515999999999",
+	"enName":"Mohamed Naguib Spine, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"400971",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/400971?b=7&k=19632&l=search",
+	"arName":"42 ش على امين امتداد ش مصطفى النحاس, مدينة نصر, القاهرة",
+	"lat":"30.053646000000001",
+	"lng":"31.334944",
+	"enName":"42 Aly Amin St. Extension Of Mostafa El Nahhas St., Nasr city, Cairo"
+},
+		{	"profileId":"130738",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/130738?b=8&k=19632&l=search",
+	"arName":"السوق التجارى, مدينة الرحاب, القاهرة",
+	"lat":"30.056567000000001",
+	"lng":"31.491710999999999",
+	"enName":"Commercial Market, Al rehab city, Cairo"
+},
+		{	"profileId":"378218",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/378218?b=15&k=19632&l=search",
+	"arName":"309 طريق الجيش, سابا باشا, الاسكندرية",
+	"lat":"31.237152999999999",
+	"lng":"29.953562999999999",
+	"enName":"309 El Guish Rd., Saba pasha, Alexandria"
+},
+		{	"profileId":"355139",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/355139?b=14&k=19632&l=search",
+	"arName":"زايد 2000, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.030347299999999",
+	"lng":"30.995156699999999",
+	"enName":"Zayed 2000, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"149463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/149463?b=1&k=19632&l=search",
+	"arName":"3 ش خالد بن الوليد, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.101566999999999",
+	"lng":"31.375857",
+	"enName":"3 Khaled Ibn El Walid St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"202555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/202555?b=5&k=19632&l=search",
+	"arName":"3 /5 ش 280 متفرع من ش اللاسلكى, المعادى, القاهرة",
+	"lat":"29.969954999999999",
+	"lng":"31.278274",
+	"enName":"3 /5 Rd. 280 Off El Laselky St., Maadi, Cairo"
+},
+		{	"profileId":"412391",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/412391?b=12&k=19632&l=search",
+	"arName":"43 ش سوريا, المهندسين, الجيزة",
+	"lat":"30.053001999999999",
+	"lng":"31.195885000000001",
+	"enName":"43 Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"388359",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/388359?b=10&k=19632&l=search",
+	"arName":"420 ش 9, المقطم, القاهرة",
+	"lat":"30.013217999999998",
+	"lng":"31.289290999999999",
+	"enName":"420 Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"60732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/60732?b=3&k=19632&l=search",
+	"arName":"21 ش انور المفتى, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.066783999999998",
+	"lng":"31.329173000000001",
+	"enName":"21 Anwar El Mofty St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"271120",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/271120?b=6&k=19632&l=search",
+	"arName":"30 ش ابو داوود الظاهرى متفرع من ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.061485000000001",
+	"lng":"31.353978000000001",
+	"enName":"30 Abou Dawoud El Zahery St. Off Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"124797",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/124797?b=16&k=19632&l=search",
+	"arName":"11 ش عبد المنعم رياض متفرع من ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.050640999999999",
+	"lng":"31.205929000000001",
+	"enName":"11 Abdel Moneim Riad St. Off El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"85863",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/85863?b=4&k=19632&l=search",
+	"arName":"6 ش السيد الميرغنى, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.091259999999998",
+	"lng":"31.314202999999999",
+	"enName":"6 El Sayed El Merghany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"459456",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre/459456?b=13&k=19632&l=search",
+	"arName":"طريق مصر اسماعيلية الصحراوى - جولف سيتى, مدينة العبور, القليوبية",
+	"lat":"30.177325",
+	"lng":"31.474091999999999",
+	"enName":"Misr Ismaileya Desert Rd., Golf City, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"ساليه سوكريه - الرملاوى للاغذية",
+	"enName":"Sale Sucre - El Ramlawy Food Co.",
+	"hotline":"19632",
+	"facebook":"",
+	"web":"http://www.salesucre.com/",
+	"arCategory":[
+		"حلوى وسكريات"
+	],
+	"enCategories":[
+		"Candy & Confectionery"
+	],
+	"contacts":[
+		{	"profileId":"447302",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sale-sucre-_-el-ramlawy-food-co./447302?b=19&k=19632&l=search",
+	"arName":"6 ش السيد الميرغنى, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.091259999999998",
+	"lng":"31.314202999999999",
+	"enName":"6 El Sayed El Merghany St., Roxy, Heliopolis, Cairo"
+}
+	]
+}]}

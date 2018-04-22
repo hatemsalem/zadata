@@ -1,0 +1,105 @@
+{"items":[{	"arName":"وافليشوس",
+	"enName":"Wafflicious",
+	"hotline":"19130",
+	"facebook":"http://www.facebook.com/wafflicious",
+	"web":"http://www.wafflicious.com/",
+	"arCategory":[
+		"كريب ووافل",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Crepe & Waffle",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"580702",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/580702?b=9&k=19130&l=search",
+	"arName":"1 ش 1 - الجامعة القديمة, منطقة البلاح, الاسماعيلية",
+	"lat":"",
+	"lng":"",
+	"enName":"1 Rd. 1, El Gamaa El Qadima, El blah area, Ismaileya"
+},
+		{	"profileId":"554114",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/554114?b=5&k=19130&l=search",
+	"arName":"45 ش 9, ثكنات المعادى, المعادى, القاهرة",
+	"lat":"29.953655000000001",
+	"lng":"31.263306",
+	"enName":"45 Rd. 9, Thakanat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"540036",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/540036?b=7&k=19130&l=search",
+	"arName":"ش 9, المقطم, القاهرة",
+	"lat":"30.012710999999999",
+	"lng":"31.291772000000002",
+	"enName":"Rd. 9, Mokattam, Cairo"
+},
+		{	"profileId":"554121",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/554121?b=6&k=19130&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"423037",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/423037?b=1&k=19130&l=search",
+	"arName":"فيلا 88 - ش 36 - الحى الاول - المنطقة الرابعة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0101859",
+	"lng":"31.432169399999999",
+	"enName":"Villa 88, 36 Rd., 1st District, 4th Zone,, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"298344",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/298344?b=4&k=19130&l=search",
+	"arName":"3 ش انقرة, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.109628000000001",
+	"lng":"31.376669",
+	"enName":"3 Anqara St., Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"489638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/489638?b=10&k=19130&l=search",
+	"arName":"5 ش الدقى, الدقى, الجيزة",
+	"lat":"30.031755",
+	"lng":"31.212527999999999",
+	"enName":"5 Dokki St., Dokki, Giza"
+},
+		{	"profileId":"372306",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/372306?b=8&k=19130&l=search",
+	"arName":"كم 82.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.822273599999999",
+	"lng":"29.173159399999999",
+	"enName":"Km 82.5,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"351720",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/351720?b=3&k=19130&l=search",
+	"arName":"4 ب عمارات الشرق للتأمين -, مدينة نصر, القاهرة",
+	"lat":"30.051884999999999",
+	"lng":"31.334831999999999",
+	"enName":"4 B El Sharq Lel Taamin Bldgs.,, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"وافليشيوس",
+	"enName":"Wafflicious",
+	"hotline":"19130",
+	"facebook":"http://www.facebook.com/wafflicious",
+	"web":"http://www.wafflicious.com/",
+	"arCategory":[
+		"كريب ووافل",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Crepe & Waffle",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"466676",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wafflicious/466676?b=2&k=19130&l=search",
+	"arName":"2 ش د. طه حسين, الزمالك, القاهرة",
+	"lat":"30.063966000000001",
+	"lng":"31.220509",
+	"enName":"2 Dr. Taha Hussein St., Zamalek, Cairo"
+}
+	]
+}]}

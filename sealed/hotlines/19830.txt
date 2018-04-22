@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ماستر كارد",
+	"enName":"Mastercard",
+	"hotline":"19830",
+	"facebook":"http://www.facebook.com/mastercardegypt",
+	"web":"http://www.priceless.com/en-us/tourist/US/middleeastafrica/region.html",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"576745",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mastercard/576745?b=1&k=19830&l=search",
+	"arName":"خدمة برايسليس سيتيز, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Priceless Cities Service, Downtown, Cairo"
+}
+	]
+}]}

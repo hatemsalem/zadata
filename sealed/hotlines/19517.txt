@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الشركة المصرية للتنمية",
+	"enName":"El Masreya Co. For Development",
+	"hotline":"19517",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"458838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masreya-co.-for-development/458838?b=1&k=19517&l=search",
+	"arName":"82 ش الطيران - الدور 2, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.055582999999999",
+	"lng":"31.327047",
+	"enName":"82 El Tayaran St., Floor 2, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"458842",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-masreya-co.-for-development/458842?b=2&k=19517&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

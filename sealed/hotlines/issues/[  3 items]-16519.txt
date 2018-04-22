@@ -1,0 +1,70 @@
+{"items":[{	"arName":"موسى كوست",
+	"enName":"Mousa Coast",
+	"hotline":"16519",
+	"facebook":"http://www.facebook.com/mousacoast.egy",
+	"web":"http://www.mousacoast.com/",
+	"arCategory":[
+		"قرى سياحية",
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Villages - Touristic",
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"234294",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mousa-coast/234294?b=4&k=16519&l=search",
+	"arName":"كم 30 - طريق شرم الشيخ الصحراوى, رأس سدر, جنوب سيناء",
+	"lat":"29.838224",
+	"lng":"32.628898",
+	"enName":"Km 30, Sharm El Sheikh Desert Rd., RAS SIDR, Ras sidr, South sinai"
+},
+		{	"profileId":"385343",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mousa-coast/385343?b=3&k=16519&l=search",
+	"arName":"98 ش حسن المأمون, مدينة نصر, القاهرة",
+	"lat":"30.067795",
+	"lng":"31.356663999999999",
+	"enName":"98 Hassan El Maamoun St., Nasr city, Cairo"
+}
+	]
+}, {	"arName":"الحى الايطالى",
+	"enName":"Italian Square",
+	"hotline":"16519",
+	"facebook":"",
+	"web":"http://www.misritaliagroup.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"365895",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/italian-square/365895?b=1&k=16519&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.911260800000001",
+	"lng":"31.063483300000001",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}, {	"arName":"مجموعة مصر ايطاليا",
+	"enName":"Misr Italia Group",
+	"hotline":"16519",
+	"facebook":"",
+	"web":"http://www.misritaliagroup.com/main.html",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"3392",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-italia-group/3392?b=2&k=16519&l=search",
+	"arName":"98 ش حسن المأمون, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.067795",
+	"lng":"31.356663999999999",
+	"enName":"98 Hassan El Maamoun St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

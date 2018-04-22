@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الرواد العقارية",
+	"enName":"Al Rowad For Real Estate",
+	"hotline":"16641",
+	"facebook":"http://www.facebook.com/rowadeg",
+	"web":"http://www.alrowad-egypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"489986",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-for-real-estate/489986?b=2&k=16641&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"68803",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-rowad-for-real-estate/68803?b=1&k=16641&l=search",
+	"arName":"غرب ارابيلا - عمارة 87, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"29.995873",
+	"lng":"31.419889999999999",
+	"enName":"West Arabella, Bldg. 87, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,55 @@
+{"items":[{	"arName":"الشرقيون للتنمية العمرانية - او يو دى",
+	"enName":"Orientals For Urban Development - OUD",
+	"hotline":"16234",
+	"facebook":"http://www.facebook.com/official.oud",
+	"web":"http://www.oudegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"166173",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orientals-for-urban-development-_-oud/166173?b=3&k=16234&l=search",
+	"arName":"مبنى المشربية - , مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.104942999999999",
+	"lng":"31.367455",
+	"enName":"El Mashrabeya Bldg., , Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"155338",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orientals-for-urban-development-_-oud/155338?b=2&k=16234&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"155337",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orientals-for-urban-development-_-oud/155337?b=4&k=16234&l=search",
+	"arName":"8 ش الشهيد زكريا خليل - عمارة النساجون الشرقيون, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.103639000000001",
+	"lng":"31.373192",
+	"enName":"8 El Shaheed Zakareya Khalil St., Oriental Weavers Bldg., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"القاهرة الكبرى للانماء والتعمير",
+	"enName":"Greater Cairo For Development & Building",
+	"hotline":"16234",
+	"facebook":"",
+	"web":"http://www.oudegypt.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"475110",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/greater-cairo-for-development-&-building/475110?b=1&k=16234&l=search",
+	"arName":"8 ش الشهيد زكريا خليل, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.103639000000001",
+	"lng":"31.373192",
+	"enName":"8 El Shaheed Zakareya Khalil St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

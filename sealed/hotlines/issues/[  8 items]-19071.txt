@@ -1,0 +1,226 @@
+{"items":[{	"arName":"مرسيليا بيتش 2",
+	"enName":"Marseilia Beach 2",
+	"hotline":"19071",
+	"facebook":"",
+	"web":"http://www.marseiliagp.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"186559",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-beach-2/186559?b=5&k=19071&l=search",
+	"arName":"كم 72.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.848082000000002",
+	"lng":"29.279228",
+	"enName":"Km 72.5,, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"مرسيليا علم الروم ريزورت",
+	"enName":"Marseilia Alam El Roum Resort",
+	"hotline":"19071",
+	"facebook":"http://www.facebook.com/Marseilia",
+	"web":"http://www.marseilia.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"370211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-alam-el-roum-resort/370211?b=2&k=19071&l=search",
+	"arName":"ش علم الروم, علم الروم, مرسى مطروح",
+	"lat":"31.354532500000001",
+	"lng":"27.351091499999999",
+	"enName":"Alam El Roum St., Alam el roum, Marsa matrouh"
+}
+	]
+}, {	"arName":"بلو باى",
+	"enName":"Bluebay",
+	"hotline":"19071",
+	"facebook":"",
+	"web":"http://www.marseiliagp.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"370194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bluebay/370194?b=1&k=19071&l=search",
+	"arName":"كم 160 - طريق العين السخنة, العين السخنة, العين السخنة",
+	"lat":"29.190363999999999",
+	"lng":"32.634627000000002",
+	"enName":"Km 160, El Ain El Sokhna Rd., El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"مرسيليا للاستثمار العقارى",
+	"enName":"Marseilia For Real Estate Investment",
+	"hotline":"19071",
+	"facebook":"http://www.facebook.com/Marseilia",
+	"web":"http://www.marseiliagp.com/",
+	"arCategory":[
+		"عقارات",
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Real Estate",
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"462973",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-for-real-estate-investment/462973?b=10&k=19071&l=search",
+	"arName":"17 ش سوريا, رشدى, الاسكندرية",
+	"lat":"31.229728999999999",
+	"lng":"29.950208",
+	"enName":"17 Syria St., Roushdy, Alexandria"
+},
+		{	"profileId":"124490",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-for-real-estate-investment/124490?b=13&k=19071&l=search",
+	"arName":"71 ش البحر, طنطا, الغربية",
+	"lat":"30.7998157",
+	"lng":"30.997109399999999",
+	"enName":"71 El Bahr St., Tanta, El gharbeya"
+},
+		{	"profileId":"157907",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-for-real-estate-investment/157907?b=8&k=19071&l=search",
+	"arName":"154 ش العروبة, مصر الجديدة, القاهرة",
+	"lat":"30.099999",
+	"lng":"31.349578000000001",
+	"enName":"154 El Orouba St., Heliopolis, Cairo"
+},
+		{	"profileId":"532636",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-for-real-estate-investment/532636?b=7&k=19071&l=search",
+	"arName":"53 ب ابراج الجزيرة -, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.960260999999999",
+	"lng":"31.249849000000001",
+	"enName":"53 B El Gezirah Towers,, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"81463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-for-real-estate-investment/81463?b=14&k=19071&l=search",
+	"arName":"76 ش جامعة الدول العربية - الدور 5, المهندسين, الجيزة",
+	"lat":"30.049478000000001",
+	"lng":"31.198803999999999",
+	"enName":"76 Gamaet El Dewal El Arabeya St., Floor 5, Mohandeseen, Giza"
+},
+		{	"profileId":"138620",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-for-real-estate-investment/138620?b=9&k=19071&l=search",
+	"arName":"ش القصر - حى الزيتون, حى القصر, مرسى مطروح",
+	"lat":"31.352917000000001",
+	"lng":"27.159006999999999",
+	"enName":"El Kasr St., El Zaitoun District, Al kasr district, Marsa matrouh"
+},
+		{	"profileId":"142349",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-for-real-estate-investment/142349?b=11&k=19071&l=search",
+	"arName":"خدمة العملاء, رشدى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roushdy, Alexandria"
+},
+		{	"profileId":"81462",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-for-real-estate-investment/81462?b=12&k=19071&l=search",
+	"arName":"10 ش شكرى القواتلى - الدور 1, المحلة الكبرى, الغربية",
+	"lat":"30.976755799999999",
+	"lng":"31.170738100000001",
+	"enName":"10 Shokry El Qawatly St., Floor 1, El mahalla el kobra, El gharbeya"
+}
+	]
+}, {	"arName":"مرسيليا للتجارة والمقاولات",
+	"enName":"Marseilia Trade & Construction",
+	"hotline":"19071",
+	"facebook":"http://www.facebook.com/Marseiliacon",
+	"web":"http://www.marseilia-con.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"444661",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-trade-&-construction/444661?b=15&k=19071&l=search",
+	"arName":"14 ش عبد الرازق السنهورى متفرع من ش عباس العقاد - الدور 5, مدينة نصر, القاهرة",
+	"lat":"30.062729000000001",
+	"lng":"31.339777999999999",
+	"enName":"14 Abdel Razeq El Sanhoury St. Off Abbas El Akkad St., Floor 5, Nasr city, Cairo"
+},
+		{	"profileId":"444585",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-trade-&-construction/444585?b=16&k=19071&l=search",
+	"arName":"11 ش توت عنخ امون, سموحة, الاسكندرية",
+	"lat":"31.210324",
+	"lng":"29.935604000000001",
+	"enName":"11 Tut Ankh Amoun St., Semouha, Alexandria"
+},
+		{	"profileId":"444665",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-trade-&-construction/444665?b=17&k=19071&l=search",
+	"arName":"ش اسكندرية, الحمام, الساحل الشمالى",
+	"lat":"31.354521099999999",
+	"lng":"27.2404075",
+	"enName":"Alexandria St., El hammam, North coast"
+}
+	]
+}, {	"arName":"مرسيليا اكوا بارك",
+	"enName":"Marseilia Aqua Park",
+	"hotline":"19071",
+	"facebook":"",
+	"web":"http://www.marseiliagp.com/",
+	"arCategory":[
+		"ملاهي مائية"
+	],
+	"enCategories":[
+		"Water Parks"
+	],
+	"contacts":[
+		{	"profileId":"443413",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-aqua-park/443413?b=3&k=19071&l=search",
+	"arName":"كم 107 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.846462500000001",
+	"lng":"28.917190300000001",
+	"enName":"Km 107,, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"مرسيليا بيتش 1",
+	"enName":"Marseilia Beach 1",
+	"hotline":"19071",
+	"facebook":"",
+	"web":"http://www.marseiliagp.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"127657",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-beach-1/127657?b=4&k=19071&l=search",
+	"arName":"كم 75 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.842866000000001",
+	"lng":"29.248652",
+	"enName":"Km 75,, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"مرسيليا بيتش 3",
+	"enName":"Marseilia Beach 3",
+	"hotline":"19071",
+	"facebook":"http://www.facebook.com/Marseilia",
+	"web":"http://www.marseilia.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"127656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/marseilia-beach-3/127656?b=6&k=19071&l=search",
+	"arName":"كم 71.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.853836000000001",
+	"lng":"29.276537000000001",
+	"enName":"Km 71.5,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

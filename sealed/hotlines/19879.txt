@@ -1,0 +1,21 @@
+{"items":[{	"arName":"البنك العربى",
+	"enName":"Arab Bank",
+	"hotline":"19879",
+	"facebook":"http://www.facebook.com/ArabBank",
+	"web":"http://www.arabbank.com.eg/",
+	"arCategory":[
+		"بنوك"
+	],
+	"enCategories":[
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"257435",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-bank/257435?b=1&k=19879&l=search",
+	"arName":"خدمة ايليت, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Elite Service, Mohandeseen, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الرائدة ديفولبمنتس",
+	"enName":"Al Raeda Developments",
+	"hotline":"19920",
+	"facebook":"http://www.facebook.com/alraeda.developments",
+	"web":"http://www.alraedaeg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"575224",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-raeda-developments/575224?b=1&k=19920&l=search",
+	"arName":"خدمة العملاء, الحى السابع, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 7th District, 6th of october, Giza"
+},
+		{	"profileId":"390974",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-raeda-developments/390974?b=2&k=19920&l=search",
+	"arName":"331 ميدان ماجدة - الدور 2 شقة 4, الحى السابع, السادس من اكتوبر, الجيزة",
+	"lat":"29.976229",
+	"lng":"30.941929999999999",
+	"enName":"331 Magda Sq., Floor 2 Flat 4, 7th District, 6th of october, Giza"
+}
+	]
+}]}

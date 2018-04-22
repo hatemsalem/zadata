@@ -1,0 +1,56 @@
+{"items":[{	"arName":"الاولى - التعمير للتمويل العقارى",
+	"enName":"Al Oula - El Taamir For Mortgage Finance",
+	"hotline":"19996",
+	"facebook":"",
+	"web":"http://www.aloula-eg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"210989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-oula-_-el-taamir-for-mortgage-finance/210989?b=4&k=19996&l=search",
+	"arName":"ش الفاصل السكنى الصناعى امتداد المحور المركزى, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"el fasel el sakany el senaey st. extension of Central Spine, 6th of october, Giza"
+},
+		{	"profileId":"125900",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-oula-_-el-taamir-for-mortgage-finance/125900?b=6&k=19996&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"112204",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-oula-_-el-taamir-for-mortgage-finance/112204?b=5&k=19996&l=search",
+	"arName":"12 ش سوريا, المهندسين, الجيزة",
+	"lat":"30.052842999999999",
+	"lng":"31.198598",
+	"enName":"12 Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"129841",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-oula-_-el-taamir-for-mortgage-finance/129841?b=3&k=19996&l=search",
+	"arName":"3 أ ش المعسكر الرومانى, رشدى, الاسكندرية",
+	"lat":"31.227734999999999",
+	"lng":"29.950634000000001",
+	"enName":"3 A El Moaskar El Romany St., Roushdy, Alexandria"
+},
+		{	"profileId":"448179",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-oula-_-el-taamir-for-mortgage-finance/448179?b=2&k=19996&l=search",
+	"arName":"المبنى الادارى - مكتب 202 - - منطقة البنوك - الدور 2, مدينة الرحاب, القاهرة",
+	"lat":"30.059887",
+	"lng":"31.492045999999998",
+	"enName":"Administrative Bldg., Office 202, , Banks Zone, Floor 2, Al rehab city, Cairo"
+},
+		{	"profileId":"141649",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-oula-_-el-taamir-for-mortgage-finance/141649?b=1&k=19996&l=search",
+	"arName":"14 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.061819",
+	"lng":"31.332212999999999",
+	"enName":"14 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

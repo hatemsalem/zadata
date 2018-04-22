@@ -1,0 +1,21 @@
+{"items":[{	"arName":"معمار المنصور",
+	"enName":"Meamar El Mansour",
+	"hotline":"19441",
+	"facebook":"http://www.facebook.com/MeamarElmansour/",
+	"web":"http://www.m-elmansour.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"472216",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/meamar-el-mansour/472216?b=1&k=19441&l=search",
+	"arName":"65 ش الجامعة الحديثة تقسيم المستقبل - الهضبة الوسطى, المقطم, القاهرة",
+	"lat":"29.991889",
+	"lng":"31.304473999999999",
+	"enName":"65 Modern University St. Future Division, Middle Hill, Mokattam, Cairo"
+}
+	]
+}]}

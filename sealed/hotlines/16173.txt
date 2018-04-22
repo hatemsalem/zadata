@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سى اى جى - المجموعة التجارية الدولية",
+	"enName":"CIG - Commercial International Group",
+	"hotline":"16173",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"464734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cig-_-commercial-international-group/464734?b=1&k=16173&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"147894",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cig-_-commercial-international-group/147894?b=2&k=16173&l=search",
+	"arName":"4 ش 275, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.970003999999999",
+	"lng":"31.272625999999999",
+	"enName":"4 Rd. 275, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

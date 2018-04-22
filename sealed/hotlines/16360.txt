@@ -1,0 +1,28 @@
+{"items":[{	"arName":"نماء للتنمية والاستثمار العقارى",
+	"enName":"Namaa For Development &Real Estate Investment",
+	"hotline":"16360",
+	"facebook":"",
+	"web":"http://www.namaarealestate.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"248258",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/namaa-for-development-&real-estate-investment/248258?b=1&k=16360&l=search",
+	"arName":"15 ش 90, القاهرة الجديدة, القاهرة",
+	"lat":"30.016925000000001",
+	"lng":"31.414294999999999",
+	"enName":"15 Rd. 90, New cairo, Cairo"
+},
+		{	"profileId":"248248",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/namaa-for-development-&real-estate-investment/248248?b=2&k=16360&l=search",
+	"arName":"ش امتداد رمسيس - الدور 2, الحى السادس, مدينة نصر, القاهرة",
+	"lat":"30.049924000000001",
+	"lng":"31.307046",
+	"enName":"Emtedad Ramsis St., Floor 2, 6th District, Nasr city, Cairo"
+}
+	]
+}]}

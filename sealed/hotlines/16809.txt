@@ -1,0 +1,28 @@
+{"items":[{	"arName":"الهيئة العامة للنظافة والتجميل - الجيزة",
+	"enName":"General Authority For Cleanness & Beautification - Giza",
+	"hotline":"16809",
+	"facebook":"http://www.facebook.com/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D9%86%D8%B8%D8%A7%D9%81%D8%A9-%D9%88-%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D9%84-%D8%A8%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9-236841216482287",
+	"web":"http://www.giza.gov.eg/Companies/Beauty/default.aspx",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"514423",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-authority-for-cleanness-&-beautification-_-giza/514423?b=2&k=16809&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"350024",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/general-authority-for-cleanness-&-beautification-_-giza/350024?b=1&k=16809&l=search",
+	"arName":"114 ش السودان, المهندسين, الجيزة",
+	"lat":"30.030656",
+	"lng":"31.200075999999999",
+	"enName":"114 Sudan St., Mohandeseen, Giza"
+}
+	]
+}]}

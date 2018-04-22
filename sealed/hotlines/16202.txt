@@ -1,0 +1,77 @@
+{"items":[{	"arName":"الشركة المصرية العالمية للسيارات - ياماها",
+	"enName":"Egyptian International Motors - Yamaha",
+	"hotline":"16202",
+	"facebook":"",
+	"web":"http://www.eim-eg.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"193005",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/193005?b=3&k=16202&l=search",
+	"arName":"1 ابراج الصفوة - برج الشروق - - الدور 1, حى الاربعين, السويس",
+	"lat":"29.9647793",
+	"lng":"32.536737600000002",
+	"enName":"1 El Safwa Towers, El Shorouq Tower, , Floor 1, El arbeen, Suez"
+},
+		{	"profileId":"82762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/82762?b=6&k=16202&l=search",
+	"arName":"19 سور نادى الزمالك - ش 26 يوليو امتداد ميدان سفنكس, المهندسين, الجيزة",
+	"lat":"30.060635000000001",
+	"lng":"31.205840999999999",
+	"enName":"19 Zamalek Club Wall, 26Th Of July St. Extension Of Sphinx Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"124675",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/124675?b=1&k=16202&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mokattam, Cairo"
+},
+		{	"profileId":"82764",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/82764?b=8&k=16202&l=search",
+	"arName":"153 ش عبد السلام عارف, سان استيفانو, الاسكندرية",
+	"lat":"31.243389000000001",
+	"lng":"29.966754999999999",
+	"enName":"153 Abdel Salam Aref St., San stefano, Alexandria"
+},
+		{	"profileId":"198992",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/198992?b=4&k=16202&l=search",
+	"arName":"امتداد ش جيهان - حى الجامعة - برج الجامعة, المنصورة, الدقهلية",
+	"lat":"31.032185800000001",
+	"lng":"31.356654200000001",
+	"enName":"Extension Of Gihan St., El Gamaa District, El Gamaa Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"322602",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/322602?b=7&k=16202&l=search",
+	"arName":"ميدان شلبى - برج الاصدقاء, ارض شلبى, المنيا",
+	"lat":"28.117898",
+	"lng":"30.743254",
+	"enName":"Shalaby Sq., El Asdeqaa Tower, Ard shalaby, El menia"
+},
+		{	"profileId":"80174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/80174?b=2&k=16202&l=search",
+	"arName":"38 ش ابو بكر الصديق, ميدان المحكمة, مصر الجديدة, القاهرة",
+	"lat":"30.099976999999999",
+	"lng":"31.335297000000001",
+	"enName":"38 Abou Bakr El Seddik St., El Mahkama Square, Heliopolis, Cairo"
+},
+		{	"profileId":"274806",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/274806?b=9&k=16202&l=search",
+	"arName":"القطعة 77 - طريق القاهرة اسكندرية الصحراوى - المنطقة الصناعية, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Plot 77, Cairo Alex Desert Rd., Industrial Zone, Abou rawash, Giza"
+},
+		{	"profileId":"155032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-international-motors-_-yamaha/155032?b=5&k=16202&l=search",
+	"arName":"المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"lat":"30.173753000000001",
+	"lng":"31.465091999999999",
+	"enName":"1St Industrial Zone, Obour city, Kaliobeya"
+}
+	]
+}]}

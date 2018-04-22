@@ -1,0 +1,48 @@
+{"items":[{	"arName":"شركة مراتب لاما",
+	"enName":"Mattresses Lama Co.",
+	"hotline":"19836",
+	"facebook":"",
+	"web":"http://www.lamaegypt.com/",
+	"arCategory":[
+		"مراتب"
+	],
+	"enCategories":[
+		"Mattresses"
+	],
+	"contacts":[
+		{	"profileId":"341629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mattresses-lama-co./341629?b=1&k=19836&l=search",
+	"arName":"2 ِش السعيد - الدور 9, طنطا, الغربية",
+	"lat":"30.786805999999999",
+	"lng":"31.001024999999998",
+	"enName":"2 El Said St., Floor 9, Tanta, El gharbeya"
+}
+	]
+}, {	"arName":"المدرسة الانجليزية الحديثة بالقاهرة",
+	"enName":"Modern English School Cairo",
+	"hotline":"19836",
+	"facebook":"http://www.facebook.com/pg/Modern-English-School-Cairo-114982685276634",
+	"web":"http://www.mescairo.com/",
+	"arCategory":[
+		"مدارس دولية"
+	],
+	"enCategories":[
+		"Schools - International"
+	],
+	"contacts":[
+		{	"profileId":"45142",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-english-school-cairo/45142?b=3&k=19836&l=search",
+	"arName":"., جنوب الاكاديمية, القاهرة الجديدة, القاهرة",
+	"lat":"30.025100999999999",
+	"lng":"31.422635",
+	"enName":"., South Academy, New cairo, Cairo"
+},
+		{	"profileId":"534295",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/modern-english-school-cairo/534295?b=2&k=19836&l=search",
+	"arName":"خدمة العملاء, جنوب الاكاديمية, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, South Academy, New cairo, Cairo"
+}
+	]
+}]}

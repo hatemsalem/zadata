@@ -1,0 +1,21 @@
+{"items":[{	"arName":"فيليبس مصر",
+	"enName":"Philips Egypt",
+	"hotline":"19742",
+	"facebook":"",
+	"web":"http://www.philips.com.eg/",
+	"arCategory":[
+		"اضاءة انظمة ولمبات ونجف"
+	],
+	"enCategories":[
+		"Lighting Systems, Lamps, Chandeliers & Bulbs"
+	],
+	"contacts":[
+		{	"profileId":"62112",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/philips-egypt/62112?b=1&k=19742&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,49 @@
+{"items":[{	"arName":"وندر للسياحة",
+	"enName":"Wonder Travel",
+	"hotline":"19359",
+	"facebook":"http://www.facebook.com/WONDERTRAVELCAIRO/",
+	"web":"",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"533935",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/533935?b=4&k=19359&l=search",
+	"arName":"خدمة العملاء, باب اللوق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Bab el louk, Cairo"
+},
+		{	"profileId":"361015",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/361015?b=5&k=19359&l=search",
+	"arName":"39 المحور المركزى, الحى الاول, السادس من اكتوبر, الجيزة",
+	"lat":"29.973863000000001",
+	"lng":"30.947558000000001",
+	"enName":"39 Central Spine, 1st District, 6th of october, Giza"
+},
+		{	"profileId":"165279",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/165279?b=2&k=19359&l=search",
+	"arName":"13 ش قصر النيل, وسط البلد, القاهرة",
+	"lat":"30.047229999999999",
+	"lng":"31.237597000000001",
+	"enName":"13 Kasr El Nil St., Downtown, Cairo"
+},
+		{	"profileId":"75087",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/75087?b=1&k=19359&l=search",
+	"arName":"9 ميدان التحرير, وسط البلد, القاهرة",
+	"lat":"30.045009",
+	"lng":"31.236187000000001",
+	"enName":"9 El Tahrir Sq., Downtown, Cairo"
+},
+		{	"profileId":"135196",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/135196?b=3&k=19359&l=search",
+	"arName":"6 ش البستان, باب اللوق, القاهرة",
+	"lat":"30.044627999999999",
+	"lng":"31.240566999999999",
+	"enName":"6 El Bostan St., Bab el louk, Cairo"
+}
+	]
+}]}

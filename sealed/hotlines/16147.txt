@@ -1,0 +1,28 @@
+{"items":[{	"arName":"المعهد الاقليمى لتكنولوجيا المعلومات - ريتى",
+	"enName":"Regional Information Technology Institute - RITI",
+	"hotline":"16147",
+	"facebook":"http://www.facebook.com/RITI1992",
+	"web":"http://www.riti.org/",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"228943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/regional-information-technology-institute-_-riti/228943?b=2&k=16147&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zamalek, Cairo"
+},
+		{	"profileId":"13116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/regional-information-technology-institute-_-riti/13116?b=1&k=16147&l=search",
+	"arName":"11 أ ش حسن صبرى, الزمالك, القاهرة",
+	"lat":"30.058",
+	"lng":"31.221",
+	"enName":"11 A Hassan Sabry St., Zamalek, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,42 @@
+{"items":[{	"arName":"المصرية للتأمين التكافلى حياة - جى اى جى",
+	"enName":"Egyptian Takaful Life - GIG",
+	"hotline":"16825",
+	"facebook":"http://www.facebook.com/egyptian.takaful",
+	"web":"http://www.giglt.com.eg/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"326483",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful-life-_-gig/326483?b=2&k=16825&l=search",
+	"arName":"خدمة العملاء, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"558645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful-life-_-gig/558645?b=3&k=16825&l=search",
+	"arName":"ش الجمهورية - برج الفاروق, المنصورة, الدقهلية",
+	"lat":"31.060085999999998",
+	"lng":"31.401733",
+	"enName":"El Gomhoureya St., El Farouq Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"307624",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful-life-_-gig/307624?b=1&k=16825&l=search",
+	"arName":"32 ش النزهة, ارض الجولف, مصر الجديدة, القاهرة",
+	"lat":"30.081555999999999",
+	"lng":"31.339922999999999",
+	"enName":"32 El Nozha St., Ard El Golf, Heliopolis, Cairo"
+},
+		{	"profileId":"375966",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-takaful-life-_-gig/375966?b=4&k=16825&l=search",
+	"arName":"84 ش فوزى معاذ - ابراج ازهار السرايا - برج بسنت - الدور 2 شقة 201, سموحة, الاسكندرية",
+	"lat":"31.212144200000001",
+	"lng":"29.939208699999998",
+	"enName":"84 Fawzy Moaz St., Azhar El Saraya Towers, Bassant Tower, Floor 2 Flat 201, Semouha, Alexandria"
+}
+	]
+}]}

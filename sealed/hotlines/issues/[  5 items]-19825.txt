@@ -1,0 +1,117 @@
+{"items":[{	"arName":"مجموعة شركات المعمارى",
+	"enName":"El Mimary Group",
+	"hotline":"19825",
+	"facebook":"",
+	"web":"http://www.elmimary.com/",
+	"arCategory":[
+		"انشاءات ومقاولات",
+		"عقارات"
+	],
+	"enCategories":[
+		"Construction",
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"107398",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mimary-group/107398?b=2&k=19825&l=search",
+	"arName":"160 ش احمد شوقى, رشدى, الاسكندرية",
+	"lat":"31.229348999999999",
+	"lng":"29.951622",
+	"enName":"160 Ahmed Shawky St., Roushdy, Alexandria"
+},
+		{	"profileId":"117872",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mimary-group/117872?b=1&k=19825&l=search",
+	"arName":"86 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.0486",
+	"lng":"31.198",
+	"enName":"86 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"149551",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mimary-group/149551?b=3&k=19825&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"نيس 2",
+	"enName":"Nice 2",
+	"hotline":"19825",
+	"facebook":"",
+	"web":"http://www.elmimary.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"369972",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nice-2/369972?b=5&k=19825&l=search",
+	"arName":"كم 64 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.879263699999999",
+	"lng":"29.356432999999999",
+	"enName":"Km 64,, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"نيس 1",
+	"enName":"Nice 1",
+	"hotline":"19825",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"369970",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nice-1/369970?b=4&k=19825&l=search",
+	"arName":"كم 64 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.876446000000001",
+	"lng":"29.355682000000002",
+	"enName":"Km 64,, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"نيس 4",
+	"enName":"Nice 4",
+	"hotline":"19825",
+	"facebook":"",
+	"web":"http://www.elmimary.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"369966",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nice-4/369966?b=7&k=19825&l=search",
+	"arName":"كم 73.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.842663300000002",
+	"lng":"29.250093199999998",
+	"enName":"Km 73.5,, Alex. matrouh desert rd., North coast"
+}
+	]
+}, {	"arName":"نيس 3",
+	"enName":"Nice 3",
+	"hotline":"19825",
+	"facebook":"",
+	"web":"http://www.elmimary.com/",
+	"arCategory":[
+		"قرى سياحية"
+	],
+	"enCategories":[
+		"Villages - Touristic"
+	],
+	"contacts":[
+		{	"profileId":"369968",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nice-3/369968?b=6&k=19825&l=search",
+	"arName":"كم 73.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.841447299999999",
+	"lng":"29.247260700000002",
+	"enName":"Km 73.5,, Alex. matrouh desert rd., North coast"
+}
+	]
+}]}

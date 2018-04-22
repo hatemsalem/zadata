@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مشروعى",
+	"enName":"Mashroey",
+	"hotline":"16148",
+	"facebook":"http://www.facebook.com/Mashroey-%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8A-598542883658417",
+	"web":"",
+	"arCategory":[
+		"تمويل مخططون"
+	],
+	"enCategories":[
+		"Financial Planners"
+	],
+	"contacts":[
+		{	"profileId":"457941",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mashroey/457941?b=2&k=16148&l=search",
+	"arName":"3 ش الزهور, المهندسين, الجيزة",
+	"lat":"30.052451999999999",
+	"lng":"31.203969000000001",
+	"enName":"3 El Zohour St., Mohandeseen, Giza"
+},
+		{	"profileId":"538507",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mashroey/538507?b=1&k=16148&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

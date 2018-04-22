@@ -1,0 +1,35 @@
+{"items":[{	"arName":"كولدويل بانكر - نيو هومز",
+	"enName":"Coldwell Banker - New Homes",
+	"hotline":"19958",
+	"facebook":"http://www.facebook.com/CBNewHomes",
+	"web":"http://www.cb-newhomes.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"182696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coldwell-banker-_-new-homes/182696?b=2&k=19958&l=search",
+	"arName":"خدمة العملاء, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Maadi, Cairo"
+},
+		{	"profileId":"429958",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coldwell-banker-_-new-homes/429958?b=3&k=19958&l=search",
+	"arName":"53 ش شهاب تقاطع ش لبنان, المهندسين, الجيزة",
+	"lat":"30.055627999999999",
+	"lng":"31.195858000000001",
+	"enName":"53 Shehab St. Intersection Of Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"182691",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/coldwell-banker-_-new-homes/182691?b=1&k=19958&l=search",
+	"arName":"66 كورنيش النيل - برج زهرة المعادى - الدور 33, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.965282999999999",
+	"lng":"31.244689000000001",
+	"enName":"66 Corniche El Nil, Zahret El Maadi Tower, Floor 33, Corniche El Maadi, Maadi, Cairo"
+}
+	]
+}]}

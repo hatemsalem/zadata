@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الهيئة العربية للتصنيع",
+	"enName":"Arab Organization For Industrialization",
+	"hotline":"19201",
+	"facebook":"",
+	"web":"http://www.aoi.com.eg/",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"141141",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-organization-for-industrialization/141141?b=2&k=19201&l=search",
+	"arName":"2 أ ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.065353000000002",
+	"lng":"31.345189999999999",
+	"enName":"2 A Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"141242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-organization-for-industrialization/141242?b=3&k=19201&l=search",
+	"arName":"11 ش سيزوستريس, العطارين, الاسكندرية",
+	"lat":"31.196296",
+	"lng":"29.898033000000002",
+	"enName":"11 Sizostris St., El attarin, Alexandria"
+},
+		{	"profileId":"141140",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-organization-for-industrialization/141140?b=1&k=19201&l=search",
+	"arName":"2 ش الطيران, مدينة نصر, القاهرة",
+	"lat":"30.079325000000001",
+	"lng":"31.318738",
+	"enName":"2 El Tayaran St., Nasr city, Cairo"
+}
+	]
+}]}

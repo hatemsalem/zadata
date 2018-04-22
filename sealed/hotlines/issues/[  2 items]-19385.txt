@@ -1,0 +1,55 @@
+{"items":[{	"arName":"وصلة خير",
+	"enName":"Waslet Khair",
+	"hotline":"19385",
+	"facebook":"http://www.facebook.com/wasletkheir",
+	"web":"http://www.wasletkheir.com/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"576983",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/waslet-khair/576983?b=2&k=19385&l=search",
+	"arName":"201 ش 26 يوليو, المهندسين, الجيزة",
+	"lat":"30.059899000000001",
+	"lng":"31.192191000000001",
+	"enName":"201 26th Of July St., Mohandeseen, Giza"
+},
+		{	"profileId":"576988",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/waslet-khair/576988?b=3&k=19385&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"576987",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/waslet-khair/576987?b=1&k=19385&l=search",
+	"arName":"126 ش عثمان بن عفان - الدور 2 شقة 7, مصر الجديدة, القاهرة",
+	"lat":"30.104299999999999",
+	"lng":"31.349299999999999",
+	"enName":"126 Othman Ibn Affan St., Floor 2 Flat 7, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"وصلة خير",
+	"enName":"Waslet Kheir",
+	"hotline":"19385",
+	"facebook":"http://www.facebook.com/wasletkheir",
+	"web":"http://www.wasletkheir.com/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"576989",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/waslet-kheir/576989?b=4&k=19385&l=search",
+	"arName":"201 ش الالفى متفرع من ش النحاس, طنطا, الغربية",
+	"lat":"30.785751000000001",
+	"lng":"30.991439",
+	"enName":"201 El Alfy St. Off El Nahhas St., Tanta, El gharbeya"
+}
+	]
+}]}

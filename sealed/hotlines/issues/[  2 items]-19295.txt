@@ -1,0 +1,181 @@
+{"items":[{	"arName":"اى بلانيت للخدمات التعليمية",
+	"enName":"E-Planet For Educational Services",
+	"hotline":"19295",
+	"facebook":"http://www.facebook.com/EplanetEgypt",
+	"web":"http://www.eplaneteducation.com/",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"515149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/515149?b=13&k=19295&l=search",
+	"arName":"ش جمال عبد الناصر - المنطقة الثالثة, مدينة السادات, المنوفية",
+	"lat":"30.370441",
+	"lng":"30.512584",
+	"enName":"Gamal Abdel Nasser St., 3rd Zone, Sadat city, El monofeya"
+},
+		{	"profileId":"291002",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/291002?b=7&k=19295&l=search",
+	"arName":"32 ش احمد فخرى, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.065078",
+	"lng":"31.349533000000001",
+	"enName":"32 Ahmed Fakhry St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"514656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/514656?b=8&k=19295&l=search",
+	"arName":"222 ش رمسيس, عباسية, القاهرة",
+	"lat":"30.071777000000001",
+	"lng":"31.274443999999999",
+	"enName":"222 Ramsis St., Abbasseya, Cairo"
+},
+		{	"profileId":"123572",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/123572?b=12&k=19295&l=search",
+	"arName":"53 ش سعيد, طنطا, الغربية",
+	"lat":"30.791132000000001",
+	"lng":"31.001864099999999",
+	"enName":"53 Said St., Tanta, El gharbeya"
+},
+		{	"profileId":"123561",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/123561?b=16&k=19295&l=search",
+	"arName":"46 ش الاسكندر الاكبر, الشاطبى, الاسكندرية",
+	"lat":"31.205378",
+	"lng":"29.908809000000002",
+	"enName":"46 El Iskandar El Akbar St., El shatby, Alexandria"
+},
+		{	"profileId":"289938",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/289938?b=17&k=19295&l=search",
+	"arName":"21 ش ارض الاندية - الدور 1, وسط البلد, الاسماعيلية",
+	"lat":"30.612606",
+	"lng":"32.277827000000002",
+	"enName":"21 Ard El Andeya St., Floor 1, Downtown, Ismaileya"
+},
+		{	"profileId":"406892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/406892?b=18&k=19295&l=search",
+	"arName":"19 ش 44 - الحى الاول - منطقة 800 متر, مدينة العبور, القليوبية",
+	"lat":"30.233598000000001",
+	"lng":"31.459233000000001",
+	"enName":"19 Rd. 44, 1St District, 800 Meter Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"141021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/141021?b=21&k=19295&l=search",
+	"arName":"18 ش الجمهورية - الدور 3, دمنهور, البحيرة",
+	"lat":"31.043275000000001",
+	"lng":"30.467776000000001",
+	"enName":"18 El Gomhoureya St., Floor 3, Damanhour, El beheira"
+},
+		{	"profileId":"141020",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/141020?b=14&k=19295&l=search",
+	"arName":"1 ش الجيش - عمارة الاوقاف, وسط البلد, كفر الشيخ",
+	"lat":"31.114588000000001",
+	"lng":"30.940375",
+	"enName":"1 El Guish St., El Awqaf Bldg., Downtown, Kafr el sheikh"
+},
+		{	"profileId":"197700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/197700?b=1&k=19295&l=search",
+	"arName":"القطعة 7967 - ش 9 - الدور 1 شقة 2, المقطم, القاهرة",
+	"lat":"30.008851",
+	"lng":"31.308458000000002",
+	"enName":"Plot 7967, Rd. 9, Floor 1 Flat 2, Mokattam, Cairo"
+},
+		{	"profileId":"141023",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/141023?b=11&k=19295&l=search",
+	"arName":"ش الجلاء متفرع من ش الاستاد - برج رمادة, شبين الكوم, المنوفية",
+	"lat":"30.547028000000001",
+	"lng":"31.008572999999998",
+	"enName":"El Galaa St. Off El Estad St., Ramada Tower, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"339815",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/339815?b=3&k=19295&l=search",
+	"arName":"7 ش 306, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.9801234",
+	"lng":"31.285178800000001",
+	"enName":"7 Rd. 306, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"141014",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/141014?b=20&k=19295&l=search",
+	"arName":"كم 16 طريق اسكندرية مطروح الصحراوى - حى كلاسيك - برج المالكى - الدور 2, العجمى, الاسكندرية",
+	"lat":"31.101626",
+	"lng":"29.775448999999998",
+	"enName":"Km 16 Alex Matrouh Desert Rd., Classic District, El Malky Tower, Floor 2, Agami, Alexandria"
+},
+		{	"profileId":"123555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/123555?b=6&k=19295&l=search",
+	"arName":"162 ش شبرا - الدور 1, شبرا, القاهرة",
+	"lat":"30.088759",
+	"lng":"31.245173999999999",
+	"enName":"162 Shoubra St., Floor 1, Shoubra, Cairo"
+},
+		{	"profileId":"177603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/177603?b=4&k=19295&l=search",
+	"arName":"خدمة العملاء, روكسى, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"123574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/123574?b=22&k=19295&l=search",
+	"arName":"46 ش الجمهورية - الدور 1, حى غرب, اسيوط",
+	"lat":"27.191396000000001",
+	"lng":"31.186333999999999",
+	"enName":"46 El Gomhoureya St., Floor 1, Gharb district, Assyout"
+},
+		{	"profileId":"123575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/123575?b=9&k=19295&l=search",
+	"arName":"3 ش كسر الحجر - الدور 1, الكورنيش, اسوان",
+	"lat":"24.085197999999998",
+	"lng":"32.892412",
+	"enName":"3 Kasr El Hagar St., Floor 1, El corniche, Aswan"
+},
+		{	"profileId":"133273",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/133273?b=2&k=19295&l=search",
+	"arName":"2 أ ش غرناطة, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.093187",
+	"lng":"31.316939000000001",
+	"enName":"2 A Ghernata St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"514934",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/514934?b=10&k=19295&l=search",
+	"arName":"ش الجيش, دسوق, كفر الشيخ",
+	"lat":"31.120677000000001",
+	"lng":"30.649408999999999",
+	"enName":"El Guish St., Disuq, Kafr el sheikh"
+},
+		{	"profileId":"197598",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/197598?b=5&k=19295&l=search",
+	"arName":"3 ج ش الكمال - الدور 2 شقة 2, حلمية الزيتون, القاهرة",
+	"lat":"30.113648000000001",
+	"lng":"31.314602000000001",
+	"enName":"3 C El Kamal St., Floor 2 Flat 2, Helmeyet el zaitoun, Cairo"
+},
+		{	"profileId":"89221",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/89221?b=15&k=19295&l=search",
+	"arName":"المحور المركزى - المجاورة الاولى - عمارة 93, الحى الثانى, السادس من اكتوبر, الجيزة",
+	"lat":"29.973320999999999",
+	"lng":"30.946902000000001",
+	"enName":"Central Spine, 1St Neighbourhood, Bldg. 93, 2nd District, 6th of october, Giza"
+}
+	]
+}, {	"arName":"اى بلانيت للخدمات التعليمية",
+	"enName":"E-planet For Educational Services",
+	"hotline":"19295",
+	"facebook":"http://www.facebook.com/EplanetEgypt",
+	"web":"http://www.eplaneteducation.com/",
+	"arCategory":[
+		"مدارس متخصصة ومراكز تدريب"
+	],
+	"enCategories":[
+		"Schools - Specialized & Training Centers"
+	],
+	"contacts":[
+		{	"profileId":"560770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/560770?b=19&k=19295&l=search",
+	"arName":"35 ش البحر - البندر, المحلة الكبرى, الغربية",
+	"lat":"30.975401000000002",
+	"lng":"31.170273000000002",
+	"enName":"35 El Bahr St., El Bandr, El mahalla el kobra, El gharbeya"
+}
+	]
+}]}

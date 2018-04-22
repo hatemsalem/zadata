@@ -1,0 +1,41 @@
+{"items":[{	"arName":"اى جى اى العقارية",
+	"enName":"IGI Real Estate",
+	"hotline":"16120",
+	"facebook":"",
+	"web":"http://www.igi-realestate.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"139151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/igi-real-estate/139151?b=2&k=16120&l=search",
+	"arName":"خدمة العملاء, العجوزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Agouza, Giza"
+}
+	]
+}, {	"arName":"اشجار هايتس",
+	"enName":"Ashgar Heights",
+	"hotline":"16120",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"397723",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ashgar-heights/397723?b=1&k=16120&l=search",
+	"arName":"الطريق الدائرى, السادس من اكتوبر, الجيزة",
+	"lat":"29.943114000000001",
+	"lng":"31.027560000000001",
+	"enName":"Rind Rd., 6th of october, Giza"
+}
+	]
+}]}

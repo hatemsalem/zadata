@@ -1,0 +1,21 @@
+{"items":[{	"arName":"شركة ساس للصناعات الكهربائية - عباس الجودة",
+	"enName":"SAS Co. For Electrical Industries - Abbas El Gawda",
+	"hotline":"19602",
+	"facebook":"http://www.facebook.com/sas.electric.co/?ref=br_rs",
+	"web":"http://www.algawda.com/",
+	"arCategory":[
+		"كهرباء والكترونيات اجهزة ومعدات"
+	],
+	"enCategories":[
+		"Electric & Electronic Devices"
+	],
+	"contacts":[
+		{	"profileId":"67650",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sas-co.-for-electrical-industries-_-abbas-el-gawda/67650?b=1&k=19602&l=search",
+	"arName":"قطعة 27 J - . - المنطقة الصناعية الثانية B2, العاشر من رمضان, الشرقية",
+	"lat":"30.292404000000001",
+	"lng":"31.773807000000001",
+	"enName":"Plot 27 J, ., 2nd Industrial Zone B2, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

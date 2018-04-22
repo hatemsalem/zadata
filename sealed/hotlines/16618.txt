@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ريتش فوود للصناعات الغذائية",
+	"enName":"Rich Food For Food Industries",
+	"hotline":"16618",
+	"facebook":"",
+	"web":"http://www.richfood-eg.com/",
+	"arCategory":[
+		"لحوم مصنعون"
+	],
+	"enCategories":[
+		"Meat Industry"
+	],
+	"contacts":[
+		{	"profileId":"374226",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rich-food-for-food-industries/374226?b=2&k=16618&l=search",
+	"arName":"القطعة 17 - - المنطقة الصناعية, مدينة العبور, القليوبية",
+	"lat":"30.199733999999999",
+	"lng":"31.452332999999999",
+	"enName":"Plot 17, , Industrial Zone, Obour city, Kaliobeya"
+},
+		{	"profileId":"374231",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rich-food-for-food-industries/374231?b=1&k=16618&l=search",
+	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Obour city, Kaliobeya"
+}
+	]
+}]}

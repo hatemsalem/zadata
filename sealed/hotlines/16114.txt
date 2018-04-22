@@ -1,0 +1,49 @@
+{"items":[{	"arName":"ترى جولى للسياحة",
+	"enName":"Tres Jolie Voyage",
+	"hotline":"16114",
+	"facebook":"http://www.facebook.com/TresJolieTravel",
+	"web":"http://www.tresjolie.travel/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"147701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tres-jolie-voyage/147701?b=2&k=16114&l=search",
+	"arName":"9 ش اسماعيل القبانى متفرع من ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.058599000000001",
+	"lng":"31.327911",
+	"enName":"9 Ismail El Qabbany St. Off El Tayaran St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"169526",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tres-jolie-voyage/169526?b=5&k=16114&l=search",
+	"arName":"47 ش محمد بهاء الدين الغتورى, سموحة, الاسكندرية",
+	"lat":"31.218434999999999",
+	"lng":"29.943671999999999",
+	"enName":"47 Mohamed Bahaa El Din El Ghatwary St., Semouha, Alexandria"
+},
+		{	"profileId":"391994",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tres-jolie-voyage/391994?b=3&k=16114&l=search",
+	"arName":"30 ش محيى الدين ابو العز - الدور 5, الدقى, الجيزة",
+	"lat":"30.039366000000001",
+	"lng":"31.200697000000002",
+	"enName":"30 Mohy El Din Abou El Ezz St., Floor 5, Dokki, Giza"
+},
+		{	"profileId":"176898",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tres-jolie-voyage/176898?b=1&k=16114&l=search",
+	"arName":"خدمة العملاء, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"325621",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tres-jolie-voyage/325621?b=4&k=16114&l=search",
+	"arName":"24 ش عاطف عبد اللطيف متفرع من ش جيهان, المنصورة, الدقهلية",
+	"lat":"31.039693",
+	"lng":"31.363938999999998",
+	"enName":"24 Atef Abdel Latif St. Off Gihan St., El mansoura, El dakahleya"
+}
+	]
+}]}

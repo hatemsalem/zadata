@@ -1,0 +1,280 @@
+{"items":[{	"arName":"البنك المصرى الخليجى - اى جى بنك",
+	"enName":"Egyptian Gulf Bank - EG Bank",
+	"hotline":"19342",
+	"facebook":"",
+	"web":"http://www.myegbank.com/",
+	"arCategory":[
+		"ماكينات الصراف الالى",
+		"بنوك"
+	],
+	"enCategories":[
+		"ATMs",
+		"Banks"
+	],
+	"contacts":[
+		{	"profileId":"347564",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/347564?b=9&k=19342&l=search",
+	"arName":"القطعة 114 - ش التسعين قطاع 1 - مجمع البنوك - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.018761000000001",
+	"lng":"31.422352",
+	"enName":"Plot 114, El Tesaeen St. Sector 1, Banks Complex, City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"520957",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/520957?b=17&k=19342&l=search",
+	"arName":"القطعة الثالثة - - مركز المدينة, العاشر من رمضان, الشرقية",
+	"lat":"30.296837",
+	"lng":"31.745832",
+	"enName":"3rd Plot, , City Center, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"108166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/108166?b=2&k=19342&l=search",
+	"arName":"189 ش المنصورية, الدراسة, القاهرة",
+	"lat":"30.046766000000002",
+	"lng":"31.267686000000001",
+	"enName":"189 El Mansoureya St., El darrasa, Cairo"
+},
+		{	"profileId":"108169",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/108169?b=15&k=19342&l=search",
+	"arName":"34 ش لبنان, المهندسين, الجيزة",
+	"lat":"30.057075999999999",
+	"lng":"31.196075",
+	"enName":"34 Lebanon St., Mohandeseen, Giza"
+},
+		{	"profileId":"164322",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/164322?b=3&k=19342&l=search",
+	"arName":"1197 ابراج اللؤلؤة - كورنيش النيل, روض الفرج, القاهرة",
+	"lat":"30.076958000000001",
+	"lng":"31.229499000000001",
+	"enName":"1197 El Loualoaa Towers, Corniche El Nil, Road el farag, Cairo"
+},
+		{	"profileId":"108164",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/108164?b=7&k=19342&l=search",
+	"arName":"15 ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.087425",
+	"lng":"31.309380999999998",
+	"enName":"15 El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"164323",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/164323?b=4&k=19342&l=search",
+	"arName":"4 /1 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.974433999999999",
+	"lng":"31.280956",
+	"enName":"4 /1 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"521626",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/521626?b=18&k=19342&l=search",
+	"arName":"274 ش عبد السلام عارف, سيدى بشر, الاسكندرية",
+	"lat":"31.252365999999999",
+	"lng":"29.975211999999999",
+	"enName":"274 Abdel Salam Aref St., Sidi beshr, Alexandria"
+},
+		{	"profileId":"108160",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/108160?b=19&k=19342&l=search",
+	"arName":"8,10 ش احمد نسيم - مبنى الاورمان بلازا, الجيزة, الجيزة",
+	"lat":"30.029648000000002",
+	"lng":"31.217670999999999",
+	"enName":"8,10 Ahmed Nessim St., El Orman Plaza Bldg., Giza, Giza"
+},
+		{	"profileId":"108161",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/108161?b=1&k=19342&l=search",
+	"arName":"9 ش عبد القادر حمزة, جاردن سيتى, القاهرة",
+	"lat":"30.041927000000001",
+	"lng":"31.234361",
+	"enName":"9 Abdel Qader Hamza St., Garden city, Cairo"
+},
+		{	"profileId":"168627",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/168627?b=10&k=19342&l=search",
+	"arName":"103 ش الهرم - برج الرياض, المريوطية, الهرم, الجيزة",
+	"lat":"29.990591999999999",
+	"lng":"31.152093000000001",
+	"enName":"103 Haram St., El Riad Tower, El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"168629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/168629?b=13&k=19342&l=search",
+	"arName":"ابراج النيل - ش الهلالى, حى شرق, اسيوط",
+	"lat":"27.184673",
+	"lng":"31.195281000000001",
+	"enName":"El Nil Towers, El Helaly St., Shark district, Assyout"
+},
+		{	"profileId":"531905",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/531905?b=6&k=19342&l=search",
+	"arName":"37 كورنيش النيل - برج رويال ريزيدنس, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.956900999999998",
+	"lng":"31.251801",
+	"enName":"37 Corniche El Nil, Royal Residence Tower, Corniche El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"108174",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/108174?b=5&k=19342&l=search",
+	"arName":"17 ش السيد الميرغنى, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.089278",
+	"lng":"31.316849000000001",
+	"enName":"17 El Sayed El Merghany St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"108176",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/108176?b=16&k=19342&l=search",
+	"arName":"25 ش الاشراف تقاطع ش الجيش, المنصورة, الدقهلية",
+	"lat":"31.047224",
+	"lng":"31.395392999999999",
+	"enName":"25 El Ashraf St. Intersection Of El Guish St., El mansoura, El dakahleya"
+},
+		{	"profileId":"108171",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/108171?b=8&k=19342&l=search",
+	"arName":"91 أ ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.085218000000001",
+	"lng":"31.333538999999998",
+	"enName":"91 A El Merghany St., Heliopolis, Cairo"
+},
+		{	"profileId":"168630",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/168630?b=11&k=19342&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+},
+		{	"profileId":"31124",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/31124?b=12&k=19342&l=search",
+	"arName":"81 ش السلطان حسين, الشلالات, الاسكندرية",
+	"lat":"31.201646",
+	"lng":"29.91394",
+	"enName":"81 El Sultan Hussein St., El shalalat, Alexandria"
+},
+		{	"profileId":"145058",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/145058?b=14&k=19342&l=search",
+	"arName":"7 عمارات الفتح - المحور المركزى, السادس من اكتوبر, الجيزة",
+	"lat":"29.9648453",
+	"lng":"30.9331207",
+	"enName":"7 El Fath Bldgs., Central Spine, 6th of october, Giza"
+},
+		{	"profileId":"444909",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank/444909?b=20&k=19342&l=search",
+	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.027032999999999",
+	"lng":"31.013698999999999",
+	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}, {	"arName":"البنك المصرى الخليجى - اى جى بى - ماكينة الصراف الالى",
+	"enName":"Egyptian Gulf Bank - EGB - ATM",
+	"hotline":"19342",
+	"facebook":"",
+	"web":"http://www.egbbank.com.eg/",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"169120",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/169120?b=24&k=19342&l=search",
+	"arName":"28 ش طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.049433000000001",
+	"lng":"31.239615000000001",
+	"enName":"28 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"347974",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347974?b=26&k=19342&l=search",
+	"arName":"ارض قتيبة, بلبيس, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"ard qotaiba, Belbeis, El sharkeya"
+},
+		{	"profileId":"347971",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347971?b=32&k=19342&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.965145",
+	"lng":"31.015915",
+	"enName":"Oasis Rd., 6th of october, Giza"
+},
+		{	"profileId":"347973",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347973?b=28&k=19342&l=search",
+	"arName":"طريق القاهرة بلبيس الصحراوى, بلبيس, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"Cairo Belbeis Desert Rd., Belbeis, El sharkeya"
+},
+		{	"profileId":"347951",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347951?b=33&k=19342&l=search",
+	"arName":"210 طريق السلام, خليج نعمة, شرم الشيخ",
+	"lat":"27.914221999999999",
+	"lng":"34.327672999999997",
+	"enName":"210 El Salam Rd., Naama bay, Sharm el sheikh"
+},
+		{	"profileId":"347972",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347972?b=30&k=19342&l=search",
+	"arName":"المنطقة الصناعية الاولى, العاشر من رمضان, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"1st industrial Zone, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"169130",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/169130?b=25&k=19342&l=search",
+	"arName":"9 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.078382000000001",
+	"lng":"31.312674999999999",
+	"enName":"9 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+},
+		{	"profileId":"169133",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/169133?b=27&k=19342&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.206624000000001",
+	"lng":"29.965557",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"347968",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347968?b=34&k=19342&l=search",
+	"arName":"كم 38 - طريق القاهرة اسكندرية الصحراوى - بفرلى هيلز - المبنى الادارى, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 38, Cairo Alex Desert Rd., Beverly Hills, Administrative Bldg., 6th of october, Giza"
+},
+		{	"profileId":"347969",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347969?b=31&k=19342&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.966117000000001",
+	"lng":"31.016479",
+	"enName":"Oasis Rd., 6th of october, Giza"
+},
+		{	"profileId":"347965",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347965?b=29&k=19342&l=search",
+	"arName":"نزلة عبد الله, حى شرق, اسيوط",
+	"lat":"",
+	"lng":"",
+	"enName":"Nazlet Abdullah, Shark district, Assyout"
+}
+	]
+}, {	"arName":"البنك المصرى الخليجى - اى جى بنك - ماكينة الصراف الالى",
+	"enName":"Egyptian Gulf Bank - EG Bank - ATM",
+	"hotline":"19342",
+	"facebook":"",
+	"web":"http://www.myegbank.com/",
+	"arCategory":[
+		"ماكينات الصراف الالى"
+	],
+	"enCategories":[
+		"ATMs"
+	],
+	"contacts":[
+		{	"profileId":"543663",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank-_-atm/543663?b=22&k=19342&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"543740",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank-_-atm/543740?b=23&k=19342&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"543666",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-eg-bank-_-atm/543666?b=21&k=19342&l=search",
+	"arName":"خدمة العملاء, الجيزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Giza, Giza"
+}
+	]
+}]}

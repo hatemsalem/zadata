@@ -1,0 +1,21 @@
+{"items":[{	"arName":"المنطقة المركزية للقوات المسلحة",
+	"enName":"Central Region Of Armed Forces",
+	"hotline":"16037",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ارقام طوارئ"
+	],
+	"enCategories":[
+		"Emergency Numbers"
+	],
+	"contacts":[
+		{	"profileId":"275391",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/central-region-of-armed-forces/275391?b=1&k=16037&l=search",
+	"arName":"الخط الساخن, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hot Line, Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,56 @@
+{"items":[{	"arName":"مستشفيات ومراكز مغربى للعيون",
+	"enName":"Magrabi Eye Hospitals & Centers",
+	"hotline":"19505",
+	"facebook":"http://www.facebook.com/MagrabiHospitalsEgypt",
+	"web":"http://www.magrabi.com.sa/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"79159",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/79159?b=4&k=19505&l=search",
+	"arName":"51 ش الجيش - الدور 2, طنطا, الغربية",
+	"lat":"30.7933235",
+	"lng":"30.998233200000001",
+	"enName":"51 El Guish St., Floor 2, Tanta, El gharbeya"
+},
+		{	"profileId":"166838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/166838?b=6&k=19505&l=search",
+	"arName":"112 ش محيى الدين ابو العز - الدور 3, المهندسين, الجيزة",
+	"lat":"30.046990999999998",
+	"lng":"31.199318999999999",
+	"enName":"112 Mohy El Din Abou El Ezz St., Floor 3, Mohandeseen, Giza"
+},
+		{	"profileId":"512026",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/512026?b=5&k=19505&l=search",
+	"arName":"ش بطرس تقاطع ش الحلو, طنطا, الغربية",
+	"lat":"30.793579999999999",
+	"lng":"31.004066999999999",
+	"enName":"Botros St. Intersection Of El Helw St., Tanta, El gharbeya"
+},
+		{	"profileId":"44032",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/44032?b=1&k=19505&l=search",
+	"arName":"ميدان السيدة نفيسة, السيدة نفيسة, القاهرة",
+	"lat":"30.023178000000001",
+	"lng":"31.251079000000001",
+	"enName":"El Sayeda Nafeesa Sq., El sayeda nafissa, Cairo"
+},
+		{	"profileId":"79162",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/79162?b=3&k=19505&l=search",
+	"arName":"خدمة العملاء, السيدة نفيسة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El sayeda nafissa, Cairo"
+},
+		{	"profileId":"79161",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/magrabi-eye-hospitals-&-centers/79161?b=2&k=19505&l=search",
+	"arName":"39 ش عباس العقاد - الدور 2, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.060148000000002",
+	"lng":"31.337306999999999",
+	"enName":"39 Abbas El Akkad St., Floor 2, 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

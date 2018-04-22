@@ -1,0 +1,77 @@
+{"items":[{	"arName":"صيدليات السداوى",
+	"enName":"El Sedawy Pharmacies",
+	"hotline":"19930",
+	"facebook":"http://www.facebook.com/El.Sedawy.Pharmacies",
+	"web":"http://www.elsedawy.com/",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"530349",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/530349?b=5&k=19930&l=search",
+	"arName":"القطعة 289 - ش التسعين الجنوبى قطاع 2 - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.026769000000002",
+	"lng":"31.463529000000001",
+	"enName":"Plot 289, El Tesaeen El Ganouby St. Sector 2, City Center, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"452396",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/452396?b=6&k=19930&l=search",
+	"arName":"ش التسعين الشمالى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.020753899999999",
+	"lng":"31.431884700000001",
+	"enName":"El Tesaeen El Shamaly St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"574697",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/574697?b=2&k=19930&l=search",
+	"arName":"899 كورنيش النيل, مصر القديمة, القاهرة",
+	"lat":"30.000492000000001",
+	"lng":"31.228304000000001",
+	"enName":"899 Corniche El Nil, Misr el kadima, Cairo"
+},
+		{	"profileId":"1610",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/1610?b=1&k=19930&l=search",
+	"arName":"11 ش صلاح الدين فاضل متفرع من ش عمار بن ياسر, مصر الجديدة, القاهرة",
+	"lat":"30.110099999999999",
+	"lng":"31.350100000000001",
+	"enName":"11 Salah El Din Fadel St. Off Ammar Ibn Yasser St., Heliopolis, Cairo"
+},
+		{	"profileId":"70117",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/70117?b=7&k=19930&l=search",
+	"arName":"7 ش ابن الوردى متفرع من ش عمار بن ياسر, مصر الجديدة, القاهرة",
+	"lat":"30.110600000000002",
+	"lng":"31.349699999999999",
+	"enName":"7 Ibn El Wardy St. Off Ammar Ibn Yasser St., Heliopolis, Cairo"
+},
+		{	"profileId":"172631",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/172631?b=4&k=19930&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Heliopolis, Cairo"
+},
+		{	"profileId":"574700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/574700?b=3&k=19930&l=search",
+	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.005749999999999",
+	"lng":"31.538668999999999",
+	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"180649",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/180649?b=8&k=19930&l=search",
+	"arName":"152 عمارات التوفيق - ش الطيران, مدينة نصر, القاهرة",
+	"lat":"30.074859",
+	"lng":"31.322275999999999",
+	"enName":"152 El Tawfiq Bldgs., El Tayaran St., Nasr city, Cairo"
+},
+		{	"profileId":"347507",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sedawy-pharmacies/347507?b=9&k=19930&l=search",
+	"arName":"12 عمارات حدائق رامو - , مدينة نصر, القاهرة",
+	"lat":"30.071418999999999",
+	"lng":"31.348592",
+	"enName":"12 Ramo Gardens Bldgs., , Nasr city, Cairo"
+}
+	]
+}]}

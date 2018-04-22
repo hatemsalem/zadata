@@ -1,0 +1,23 @@
+{"items":[{	"arName":"شيبس اند ديبس",
+	"enName":"Ships & Dips",
+	"hotline":"16019",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"225940",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ships-&-dips/225940?b=1&k=16019&l=search",
+	"arName":"50 ش سليم الاول, مصر الجديدة, القاهرة",
+	"lat":"30.106269000000001",
+	"lng":"31.312569",
+	"enName":"50 Selim El Awal St., Heliopolis, Cairo"
+}
+	]
+}]}

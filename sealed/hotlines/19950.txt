@@ -1,0 +1,42 @@
+{"items":[{	"arName":"الخطوط الجوية القطرية",
+	"enName":"Qatar Airways",
+	"hotline":"19950",
+	"facebook":"http://www.facebook.com/qatarairways",
+	"web":"http://www.qatarairways.com/",
+	"arCategory":[
+		"خطوط جوية"
+	],
+	"enCategories":[
+		"Airlines"
+	],
+	"contacts":[
+		{	"profileId":"105331",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qatar-airways/105331?b=3&k=19950&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.206814000000001",
+	"lng":"29.964224999999999",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"13083",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qatar-airways/13083?b=1&k=19950&l=search",
+	"arName":"21 ب ش جامعة الدول العربية ميدان مصطفى محمود, المهندسين, الجيزة",
+	"lat":"30.052558000000001",
+	"lng":"31.200586000000001",
+	"enName":"21 B Gamaet El Dewal El Arabeya St. Mostafa Mahmoud Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"134317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qatar-airways/134317?b=4&k=19950&l=search",
+	"arName":"ش خالد بن الوليد - العوامية - عمارة الاقصر بلازا, الاقصر, الاقصر",
+	"lat":"25.688234000000001",
+	"lng":"32.632114000000001",
+	"enName":"Khaled Ibn El Walid St., El Awameya, Luxor Plaza Bldg., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"114982",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/qatar-airways/114982?b=2&k=19950&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

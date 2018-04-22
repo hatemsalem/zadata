@@ -1,0 +1,90 @@
+{"items":[{	"arName":"ايتوال لصناعة وتجارة الحلوى - ابراهيم رافت وشركاه",
+	"enName":"Etoile For Desserts Manufacturing & Trade - Ibrahim Raafat & Co.",
+	"hotline":"16312",
+	"facebook":"http://www.facebook.com/EtoileEgy",
+	"web":"http://www.etoile-egy.com/",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم",
+		"مقاهى",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants",
+		"Cafes and Coffee Shops",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"554080",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./554080?b=7&k=16312&l=search",
+	"arName":"10 ش مكرم عبيد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.055789000000001",
+	"lng":"31.345697000000001",
+	"enName":"10 Makram Ebaid St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"201530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./201530?b=6&k=16312&l=search",
+	"arName":"1 ش الحرية ميدان المطرية, المطرية, القاهرة",
+	"lat":"30.114920999999999",
+	"lng":"31.306768000000002",
+	"enName":"1 El Horreya St. El Matareya Sq., El matareya, Cairo"
+},
+		{	"profileId":"346036",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./346036?b=9&k=16312&l=search",
+	"arName":"33 ش 26 يوليو, وسط البلد, القاهرة",
+	"lat":"30.053436000000001",
+	"lng":"31.239591999999998",
+	"enName":"33 26th Of July St., Downtown, Cairo"
+},
+		{	"profileId":"440071",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./440071?b=4&k=16312&l=search",
+	"arName":"., الحى العاشر, مدينة نصر, القاهرة",
+	"lat":"30.049098999999998",
+	"lng":"31.379383000000001",
+	"enName":"., 10th District, Nasr city, Cairo"
+},
+		{	"profileId":"551946",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./551946?b=8&k=16312&l=search",
+	"arName":"129 ش الميرغنى ميدان السبع عمارات, مصر الجديدة, القاهرة",
+	"lat":"30.090095000000002",
+	"lng":"31.341085",
+	"enName":"129 El Merghany St. El Sabaa Emarat Sq., Heliopolis, Cairo"
+},
+		{	"profileId":"201535",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./201535?b=1&k=16312&l=search",
+	"arName":"84 أ ش جسر السويس ميدان الالف مسكن, جسر السويس, القاهرة",
+	"lat":"30.119865000000001",
+	"lng":"31.340266",
+	"enName":"84 A Gesr El Suez St. El Alf Maskan Sq., Gesr el suez, Cairo"
+},
+		{	"profileId":"573775",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./573775?b=10&k=16312&l=search",
+	"arName":"96 أ ش التحرير, الدقى, الجيزة",
+	"lat":"30.0382",
+	"lng":"31.210599999999999",
+	"enName":"96 A El Tahrir St., Dokki, Giza"
+},
+		{	"profileId":"201543",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./201543?b=2&k=16312&l=search",
+	"arName":"943 ش بورسعيد, الوايلى, القاهرة",
+	"lat":"30.096115000000001",
+	"lng":"31.277436999999999",
+	"enName":"943 Port Said St., Wayli, Cairo"
+},
+		{	"profileId":"346039",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./346039?b=3&k=16312&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, جسر السويس, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Gesr el suez, Cairo"
+},
+		{	"profileId":"467676",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etoile-for-desserts-manufacturing-&-trade-_-ibrahim-raafat-&-co./467676?b=5&k=16312&l=search",
+	"arName":"1 ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.068121999999999",
+	"lng":"31.335993999999999",
+	"enName":"1 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+}
+	]
+}]}

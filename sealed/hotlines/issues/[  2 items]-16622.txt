@@ -1,0 +1,118 @@
+{"items":[{	"arName":"زهران",
+	"enName":"Zahran",
+	"hotline":"16622",
+	"facebook":"",
+	"web":"http://www.zahrangroup.com/",
+	"arCategory":[
+		"ادوات منزلية منتجات"
+	],
+	"enCategories":[
+		"Housewares Products"
+	],
+	"contacts":[
+		{	"profileId":"186469",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/186469?b=11&k=16622&l=search",
+	"arName":"مارينا 1 - المنطقة السابعة, مارينا, الساحل الشمالى",
+	"lat":"30.815887",
+	"lng":"29.041447000000002",
+	"enName":"Marina 1, 7th Zone, Marina, North coast"
+},
+		{	"profileId":"163658",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/163658?b=1&k=16622&l=search",
+	"arName":"2 عمارات عثمان - ش الاثرى محمد بن نافع متفرع من ش الحجاز, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.095177",
+	"lng":"31.315584999999999",
+	"enName":"2 Othman Bldgs., El Athary Mohamed Ibn Nafea St. Off El Hegaz St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"163655",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/163655?b=9&k=16622&l=search",
+	"arName":"18 ش شعراوى, لوران, الاسكندرية",
+	"lat":"31.247551000000001",
+	"lng":"29.973559000000002",
+	"enName":"18 Shaarawy St., Loran, Alexandria"
+},
+		{	"profileId":"99533",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/99533?b=6&k=16622&l=search",
+	"arName":"10 ش شهر العسل متفرع من ش البيطاش, العجمى, الاسكندرية",
+	"lat":"31.128997999999999",
+	"lng":"29.781724000000001",
+	"enName":"10 Shahr El Asal St. Off El Bitash St., Agami, Alexandria"
+},
+		{	"profileId":"20318",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/20318?b=8&k=16622&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.211919000000002",
+	"lng":"29.956344000000001",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"163671",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/163671?b=12&k=16622&l=search",
+	"arName":"ش المعسكر الرومانى تقاطع ش احمد شوقى, رشدى, الاسكندرية",
+	"lat":"31.228206",
+	"lng":"29.950178999999999",
+	"enName":"El Moaskar El roumany St. Intersection Of ahmed shawky st., Roushdy, Alexandria"
+},
+		{	"profileId":"163661",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/163661?b=2&k=16622&l=search",
+	"arName":"ش عباس العقاد تقاطع طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.068767999999999",
+	"lng":"31.335761000000002",
+	"enName":"Abbas El Akkad St. Intersection Of El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"440430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/440430?b=4&k=16622&l=search",
+	"arName":"ش عطية الصوالحى متفرع من ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.050948999999999",
+	"lng":"31.349077999999999",
+	"enName":"Atteya El Sawalhy St. Off Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"387842",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/387842?b=7&k=16622&l=search",
+	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
+	"lat":"30.005434000000001",
+	"lng":"30.974428",
+	"enName":"Juhaina Sq., 6th of october, Giza"
+},
+		{	"profileId":"437088",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/437088?b=10&k=16622&l=search",
+	"arName":"خدمة العملاء, سموحة, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Semouha, Alexandria"
+},
+		{	"profileId":"151054",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/151054?b=3&k=16622&l=search",
+	"arName":"61 ش 9 تقاطع ش 10 - ميدان المحطة, المعادى, القاهرة",
+	"lat":"29.959572000000001",
+	"lng":"31.259844000000001",
+	"enName":"61 Rd. 9 Intersection Of Rd. 10, El Mahatta Sq., Maadi, Cairo"
+},
+		{	"profileId":"389815",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran/389815?b=5&k=16622&l=search",
+	"arName":"الطريق الدائرى - مدينة البارون, القطامية, القاهرة",
+	"lat":"29.982722299999999",
+	"lng":"31.339874300000002",
+	"enName":"Ring Rd., Baron City, El katameya, Cairo"
+}
+	]
+}, {	"arName":"زهران جروب - تيفال",
+	"enName":"Zahran Group - Tefal",
+	"hotline":"16622",
+	"facebook":"",
+	"web":"http://www.zahrangroup.com/",
+	"arCategory":[
+		"ادوات منزلية منتجات"
+	],
+	"enCategories":[
+		"Housewares Products"
+	],
+	"contacts":[
+		{	"profileId":"352698",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran-group-_-tefal/352698?b=13&k=16622&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.211919000000002",
+	"lng":"29.956344000000001",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+}
+	]
+}]}

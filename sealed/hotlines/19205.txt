@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الهلال والنجمة الذهبية",
+	"enName":"El Helal & Golden Star",
+	"hotline":"19205",
+	"facebook":"http://www.facebook.com/HelalGroup",
+	"web":"http://www.helalgroup.com/",
+	"arCategory":[
+		"ادوات منزلية منتجات"
+	],
+	"enCategories":[
+		"Housewares Products"
+	],
+	"contacts":[
+		{	"profileId":"176670",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-helal-&-golden-star/176670?b=2&k=19205&l=search",
+	"arName":"خدمة العملاء, الحرفيين, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El herafeyeen, Cairo"
+},
+		{	"profileId":"135878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-helal-&-golden-star/135878?b=3&k=19205&l=search",
+	"arName":"ش ترعة نجع حمادى, حى غرب, سوهاج",
+	"lat":"26.566179999999999",
+	"lng":"31.680385999999999",
+	"enName":"teraet nagaa hamady st. , Gharb district, Sohag"
+},
+		{	"profileId":"4235",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-helal-&-golden-star/4235?b=1&k=19205&l=search",
+	"arName":"10 ش جمال عبد الناصر, الحرفيين, القاهرة",
+	"lat":"30.144558",
+	"lng":"31.396678000000001",
+	"enName":"10 Gamal Abdel Nasser St., El herafeyeen, Cairo"
+}
+	]
+}]}

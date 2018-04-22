@@ -1,0 +1,35 @@
+{"items":[{	"arName":"مشاوير",
+	"enName":"Mashaweer",
+	"hotline":"19988",
+	"facebook":"http://www.facebook.com/MashaweerEGY/",
+	"web":"http://www.mashaweeronline.com/",
+	"arCategory":[
+		"بريد سريع خدمات"
+	],
+	"enCategories":[
+		"Courier Services"
+	],
+	"contacts":[
+		{	"profileId":"508303",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mashaweer/508303?b=2&k=19988&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"236211",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mashaweer/236211?b=1&k=19988&l=search",
+	"arName":"8 ابراج جرين تاورز -, سموحة, الاسكندرية",
+	"lat":"31.203721000000002",
+	"lng":"29.963820999999999",
+	"enName":"8 Green Towers,, Semouha, Alexandria"
+},
+		{	"profileId":"508302",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mashaweer/508302?b=3&k=19988&l=search",
+	"arName":"31 ش عبد المنعم رياض, المهندسين, الجيزة",
+	"lat":"30.051461",
+	"lng":"31.206983999999999",
+	"enName":"31 Abdel Moneim Riad St., Mohandeseen, Giza"
+}
+	]
+}]}

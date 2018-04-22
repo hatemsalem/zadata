@@ -1,0 +1,56 @@
+{"items":[{	"arName":"انليمتيد تورز - يوروب كار",
+	"enName":"Unlimited Tours - Europcar",
+	"hotline":"19348",
+	"facebook":"http://www.facebook.com/EuropcarEgypt",
+	"web":"http://www.europcar.com.eg/",
+	"arCategory":[
+		"سيارات - تأجير وليموزين"
+	],
+	"enCategories":[
+		"Cars - Rentals, Leasing & Limousines"
+	],
+	"contacts":[
+		{	"profileId":"458746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unlimited-tours-_-europcar/458746?b=4&k=19348&l=search",
+	"arName":"2 ش اسماعيل محمد, الزمالك, القاهرة",
+	"lat":"30.065491999999999",
+	"lng":"31.216297000000001",
+	"enName":"2 Ismail Mohamed St., Zamalek, Cairo"
+},
+		{	"profileId":"403299",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unlimited-tours-_-europcar/403299?b=6&k=19348&l=search",
+	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
+	"lat":"31.206814000000001",
+	"lng":"29.964224999999999",
+	"enName":"14th Of May Rd., Semouha, Alexandria"
+},
+		{	"profileId":"65238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unlimited-tours-_-europcar/65238?b=1&k=19348&l=search",
+	"arName":"14 عمارات مصر للتعمير - - المنطقة التاسعة, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.105035999999998",
+	"lng":"31.378578000000001",
+	"enName":"14 Misr Lel Taamir Bldgs., , 9Th Zone, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"367763",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unlimited-tours-_-europcar/367763?b=2&k=19348&l=search",
+	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
+	"lat":"30.112110999999999",
+	"lng":"31.396329000000001",
+	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
+},
+		{	"profileId":"367774",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unlimited-tours-_-europcar/367774?b=5&k=19348&l=search",
+	"arName":"ش الشيراتون, سقالة, الغردقة",
+	"lat":"27.212969999999999",
+	"lng":"33.840418",
+	"enName":"Sheraton Rd., Sekala, Hurghada"
+},
+		{	"profileId":"403280",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unlimited-tours-_-europcar/403280?b=3&k=19348&l=search",
+	"arName":"1 عمارات مصر للتعمير - - المنطقة الاولى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.107506000000001",
+	"lng":"31.375751000000001",
+	"enName":"1 Misr Lel Taamir Bldgs., , 1St Zone, Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

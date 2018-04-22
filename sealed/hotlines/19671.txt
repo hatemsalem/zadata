@@ -1,0 +1,21 @@
+{"items":[{	"arName":"صيدلية الياس",
+	"enName":"Elias Pharmacy",
+	"hotline":"19671",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"363530",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/elias-pharmacy/363530?b=1&k=19671&l=search",
+	"arName":"71 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.973244999999999",
+	"lng":"31.272652999999998",
+	"enName":"71 El Nasr St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

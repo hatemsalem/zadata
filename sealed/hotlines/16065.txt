@@ -1,0 +1,64 @@
+{"items":[{	"arName":"مصعب",
+	"enName":"Mossab",
+	"hotline":"16065",
+	"facebook":"http://www.facebook.com/Mossabrestaurants",
+	"web":"http://www.mossab-group.com/",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مشويات",
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out",
+		"B. B. Q.",
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"366638",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mossab/366638?b=1&k=16065&l=search",
+	"arName":"99 ش النصر تقسيم اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.976611999999999",
+	"lng":"31.287123999999999",
+	"enName":"99 El Nasr St. El Laselky Division, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"185822",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mossab/185822?b=4&k=16065&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Nasr city, Cairo"
+},
+		{	"profileId":"185820",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mossab/185820?b=3&k=16065&l=search",
+	"arName":"7 ش ابراهيم نوار متفرع من ش احمد فخرى, مدينة نصر, القاهرة",
+	"lat":"30.067734999999999",
+	"lng":"31.349736",
+	"enName":"7 Ibrahim Nawar St. Off Ahmed Fakhry St., Nasr city, Cairo"
+},
+		{	"profileId":"455629",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mossab/455629?b=6&k=16065&l=search",
+	"arName":"34 ش سوريا تقاطع ش شهاب, المهندسين, الجيزة",
+	"lat":"30.052695",
+	"lng":"31.195312000000001",
+	"enName":"34 Syria St. Intersection Of Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"185824",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mossab/185824?b=2&k=16065&l=search",
+	"arName":"163 ش النزهة, مصر الجديدة, القاهرة",
+	"lat":"30.107956000000001",
+	"lng":"31.344816000000002",
+	"enName":"163 El Nozha St., Heliopolis, Cairo"
+},
+		{	"profileId":"572522",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mossab/572522?b=5&k=16065&l=search",
+	"arName":"11 و/5 ش المنشاوى ميدان اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975460999999999",
+	"lng":"31.287006999999999",
+	"enName":"11 W/5 El Menshawy St. El Laselky Sq., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

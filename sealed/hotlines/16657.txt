@@ -1,0 +1,35 @@
+{"items":[{	"arName":"لامار",
+	"enName":"Lamar",
+	"hotline":"16657",
+	"facebook":"http://www.facebook.com/LamarEgypt",
+	"web":"http://www.lamaregypt.com/",
+	"arCategory":[
+		"اغذية منتجون ومعالجة ومعدات"
+	],
+	"enCategories":[
+		"Food Producers, Processors & Equipment"
+	],
+	"contacts":[
+		{	"profileId":"577081",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lamar/577081?b=1&k=16657&l=search",
+	"arName":"كم 75 - طريق ترعة النصر - غرب النوبارية, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Km 57, Teraet El Nasr Rd., Gharb El Nobareya, Alex. cairo desert rd., Alexandria"
+},
+		{	"profileId":"577084",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lamar/577084?b=3&k=16657&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"577078",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lamar/577078?b=2&k=16657&l=search",
+	"arName":"36 ش مصدق, الدقى, الجيزة",
+	"lat":"30.0398",
+	"lng":"31.206900000000001",
+	"enName":"36 Mossadak St., Dokki, Giza"
+}
+	]
+}]}

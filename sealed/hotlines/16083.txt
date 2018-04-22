@@ -1,0 +1,23 @@
+{"items":[{	"arName":"سينابون",
+	"enName":"Cinnabon",
+	"hotline":"16083",
+	"facebook":"http://www.facebook.com/cinnabon.egypt.official",
+	"web":"http://www.cinnabon-egypt.com/",
+	"arCategory":[
+		"مطاعم امريكية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"American Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"96189",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cinnabon/96189?b=1&k=16083&l=search",
+	"arName":"القطعة 233 - ش التسعين قطاع 2 - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.029432",
+	"lng":"31.459157000000001",
+	"enName":"Plot 233, El Tesaeen St. Sector 2, City Center, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

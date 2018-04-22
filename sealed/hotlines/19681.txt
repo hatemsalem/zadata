@@ -1,0 +1,28 @@
+{"items":[{	"arName":"محكمة النقض",
+	"enName":"Court Of Cassation",
+	"hotline":"19681",
+	"facebook":"",
+	"web":"http://www.cc.gov.eg/index.html",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"581101",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/court-of-cassation/581101?b=2&k=19681&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"431286",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/court-of-cassation/431286?b=1&k=19681&l=search",
+	"arName":"ش 26 يوليو ميدان الاسعاف, وسط البلد, القاهرة",
+	"lat":"30.052602400000001",
+	"lng":"31.239387000000001",
+	"enName":"26th Of July St. El Esaaf Sq., Downtown, Cairo"
+}
+	]
+}]}

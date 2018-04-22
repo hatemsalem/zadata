@@ -1,0 +1,28 @@
+{"items":[{	"arName":"يونيون اير",
+	"enName":"Unionaire Group",
+	"hotline":"19012",
+	"facebook":"http://www.facebook.com/UnionaireGroupEgypt",
+	"web":"http://www.unionaire.com/",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"106186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unionaire-group/106186?b=1&k=19012&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"200911",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/unionaire-group/200911?b=2&k=19012&l=search",
+	"arName":"القطعة 238 - - المنطقة الصناعية الثالثة, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.908954999999999",
+	"lng":"30.903956000000001",
+	"enName":"Plot 238, , 3rd Industrial Zone, Industrial Zone, 6th of october, Giza"
+}
+	]
+}]}

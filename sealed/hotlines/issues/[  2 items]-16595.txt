@@ -1,0 +1,62 @@
+{"items":[{	"arName":"اوراسكوم للفنادق والتنمية",
+	"enName":"Orascom Hotels & Development",
+	"hotline":"16595",
+	"facebook":"",
+	"web":"http://www.orascomdh.com/",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"159038",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orascom-hotels-&-development/159038?b=4&k=16595&l=search",
+	"arName":"خدمة العملاء, رملة بولاق, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ramlet boulak, Cairo"
+},
+		{	"profileId":"129415",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orascom-hotels-&-development/129415?b=3&k=16595&l=search",
+	"arName":"2005 كورنيش النيل - ابراج نايل سيتى - البرج الجنوبى - الدور 9, رملة بولاق, القاهرة",
+	"lat":"30.071845",
+	"lng":"31.227637000000001",
+	"enName":"2005 Corniche El Nil, Nile City Towers, South Tower, Floor 9, Ramlet boulak, Cairo"
+},
+		{	"profileId":"4961",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orascom-hotels-&-development/4961?b=5&k=16595&l=search",
+	"arName":"160 ش 26 يوليو, العجوزة, الجيزة",
+	"lat":"30.061199999999999",
+	"lng":"31.211099999999998",
+	"enName":"160 26th Of July St., Agouza, Giza"
+}
+	]
+}, {	"arName":"فندق بيوم ليك سايد",
+	"enName":"Byoum Lakeside Hotel",
+	"hotline":"16595",
+	"facebook":"http://www.facebook.com/ByoumLakesideHotel",
+	"web":"http://www.byoumhotel.com/",
+	"arCategory":[
+		"فنادق ومنتجعات"
+	],
+	"enCategories":[
+		"Hotels & Resorts"
+	],
+	"contacts":[
+		{	"profileId":"531325",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/byoum-lakeside-hotel/531325?b=1&k=16595&l=search",
+	"arName":"طريق بحيرة قارون, ابشواى, الفيوم",
+	"lat":"29.419273",
+	"lng":"30.460654000000002",
+	"enName":"Qaroun Lake Rd., Ibshaway, El fayoum"
+},
+		{	"profileId":"531330",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/byoum-lakeside-hotel/531330?b=2&k=16595&l=search",
+	"arName":"خدمة العملاء, ابشواى, الفيوم",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ibshaway, El fayoum"
+}
+	]
+}]}

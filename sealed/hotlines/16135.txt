@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى البحر الاحمر",
+	"enName":"Red Sea Hospital",
+	"hotline":"16135",
+	"facebook":"",
+	"web":"http://www.redseahospital.net/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"53458",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/red-sea-hospital/53458?b=1&k=16135&l=search",
+	"arName":"ش النصر, الدهار, الغردقة",
+	"lat":"27.235821000000001",
+	"lng":"33.833773000000001",
+	"enName":"El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"323090",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/red-sea-hospital/323090?b=2&k=16135&l=search",
+	"arName":"خدمة طوارئ, الدهار, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Dahar, Hurghada"
+}
+	]
+}]}

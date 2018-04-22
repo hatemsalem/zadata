@@ -1,0 +1,21 @@
+{"items":[{	"arName":"المجموعة البافارية للسيارات",
+	"enName":"Bavarian Auto Group",
+	"hotline":"16626",
+	"facebook":"",
+	"web":"http://www.bag-eg.com/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"352166",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bavarian-auto-group/352166?b=1&k=16626&l=search",
+	"arName":"سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.058038",
+	"lng":"31.204944999999999",
+	"enName":"El Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+}
+	]
+}]}

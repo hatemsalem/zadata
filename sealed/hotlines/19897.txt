@@ -1,0 +1,35 @@
+{"items":[{	"arName":"كيتشن واى",
+	"enName":"Kitchen Way",
+	"hotline":"19897",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اجهزة منزلية - صيانة وقطع غيار"
+	],
+	"enCategories":[
+		"Appliances - Maintenance & Spare Parts"
+	],
+	"contacts":[
+		{	"profileId":"581732",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kitchen-way/581732?b=3&k=19897&l=search",
+	"arName":"خدمة الصيانة, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Maintenance Service, Dokki, Giza"
+},
+		{	"profileId":"581734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kitchen-way/581734?b=1&k=19897&l=search",
+	"arName":"1 ب عمارات الهيئة العربية للتصنيع - ش مكرم عبيد متفرع من طريق النصر, مدينة نصر, القاهرة",
+	"lat":"30.065069000000001",
+	"lng":"31.345199000000001",
+	"enName":"1 B Arab Organization For Industrialization Bldgs., Makram Ebaid St. Off El Nasr Rd., Nasr city, Cairo"
+},
+		{	"profileId":"468304",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kitchen-way/468304?b=2&k=19897&l=search",
+	"arName":"18 ش قمبيز متفرع من ش مصدق, الدقى, الجيزة",
+	"lat":"30.040367",
+	"lng":"31.204277999999999",
+	"enName":"18 Qambiz St. Off Mossadak St., Dokki, Giza"
+}
+	]
+}]}

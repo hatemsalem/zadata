@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدليات الصواف",
+	"enName":"El Sawaf Pharmacies",
+	"hotline":"16793",
+	"facebook":"http://www.facebook.com/El.Sawaf.Pharmacies/",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"105264",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sawaf-pharmacies/105264?b=1&k=16793&l=search",
+	"arName":"20 أ ش السرايات, عباسية, القاهرة",
+	"lat":"30.066800000000001",
+	"lng":"31.2806",
+	"enName":"20 A El Sarayat St., Abbasseya, Cairo"
+},
+		{	"profileId":"501298",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sawaf-pharmacies/501298?b=3&k=16793&l=search",
+	"arName":"خدمة العملاء, عباسية, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abbasseya, Cairo"
+},
+		{	"profileId":"350885",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sawaf-pharmacies/350885?b=2&k=16793&l=search",
+	"arName":"المبنى الادارى, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.064730999999998",
+	"lng":"31.429082000000001",
+	"enName":"Administrative Bldg., 1st Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,101 @@
+{"items":[{	"arName":"قرية ريجينا العين السخنة",
+	"enName":"Regina Village El Ain El Sokhna",
+	"hotline":"16997",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"506104",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/regina-village-el-ain-el-sokhna/506104?b=4&k=16997&l=search",
+	"arName":"طريق العين السخنة, العين السخنة, العين السخنة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Ain El Sokhna Rd., El ain el sokhna, El ain el sokhna"
+}
+	]
+}, {	"arName":"البارون للانشاء وادارة القرى السياحية",
+	"enName":"El Baroon For Construction & Touristic Villages Management",
+	"hotline":"16997",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"500014",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baroon-for-construction-&-touristic-villages-management/500014?b=3&k=16997&l=search",
+	"arName":"6 عمارات العبور -, مصر الجديدة, القاهرة",
+	"lat":"30.079322999999999",
+	"lng":"31.314094000000001",
+	"enName":"6 Obour Bldgs.,, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"كايرو كونسلت للتنمية العقارية بالقطامية",
+	"enName":"Cairo Consult",
+	"hotline":"16997",
+	"facebook":"http://www.facebook.com/%D9%83%D8%A7%D9%8A%D8%B1%D9%88-%D9%83%D9%88%D9%86%D8%B3%D9%84%D8%AA-%D9%84%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D9%83%D9%85%D8%A8%D9%88%D9%86%D8%AF-%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D9%85%D9%8A%D8%A9-",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"499797",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-consult/499797?b=2&k=16997&l=search",
+	"arName":"6 عمارات العبور - طريق صلاح سالم, مصر الجديدة, القاهرة",
+	"lat":"30.079322999999999",
+	"lng":"31.314094000000001",
+	"enName":"6 Obour Bldgs., Salah Salam Rd., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"مجموعة بنت السلطان للاستثمار والسياحة",
+	"enName":"Bent El Sultan Group For Investment & Tourism",
+	"hotline":"16997",
+	"facebook":"",
+	"web":"http://www.bentelsoltan.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"487840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bent-el-sultan-group-for-investment-&-tourism/487840?b=1&k=16997&l=search",
+	"arName":"طريق الواحات دهشور متفرع من ميدان جهينة - منطقة الحزام الاخضر, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Wahat Dahshour Rd. Off Juhaina Sq., El Hezam El Akhdar Zone, 6th of october, Giza"
+}
+	]
+}, {	"arName":"كومبوند سرايات القطامية",
+	"enName":"Sarayat El Katameya Compound",
+	"hotline":"16997",
+	"facebook":"http://www.facebook.com/%D9%83%D8%A7%D9%8A%D8%B1%D9%88-%D9%83%D9%88%D9%86%D8%B3%D9%84%D8%AA-%D9%84%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A%D8%A9-%D9%83%D9%85%D8%A8%D9%88%D9%86%D8%AF-%D8%B3%D8%B1%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D9%85%D9%8A%D8%A9-",
+	"web":"http://www.compoundelsarayat.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"418770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sarayat-el-katameya-compound/418770?b=5&k=16997&l=search",
+	"arName":"الطريق الدائرى, القطامية, القاهرة",
+	"lat":"29.977186",
+	"lng":"31.354959000000001",
+	"enName":"Ring Rd., El katameya, Cairo"
+}
+	]
+}]}

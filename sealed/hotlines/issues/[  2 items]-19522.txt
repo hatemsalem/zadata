@@ -1,0 +1,48 @@
+{"items":[{	"arName":"اكسيس تيليكوم",
+	"enName":"Access Telecom",
+	"hotline":"19522",
+	"facebook":"",
+	"web":"http://www.access.com.eg/",
+	"arCategory":[
+		"انترنت شركات ومصممون مواقع"
+	],
+	"enCategories":[
+		"Internet Companies & Website Design"
+	],
+	"contacts":[
+		{	"profileId":"43135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/access-telecom/43135?b=1&k=19522&l=search",
+	"arName":"المحور المركزى, السادس من اكتوبر, الجيزة",
+	"lat":"29.958020999999999",
+	"lng":"30.917059999999999",
+	"enName":"Central Spine, 6th of october, Giza"
+}
+	]
+}, {	"arName":"اكسيس تليكوم",
+	"enName":"Access Telecom",
+	"hotline":"19522",
+	"facebook":"",
+	"web":"http://www.access.com.eg/",
+	"arCategory":[
+		"انترنت شركات ومصممون مواقع"
+	],
+	"enCategories":[
+		"Internet Companies & Website Design"
+	],
+	"contacts":[
+		{	"profileId":"367023",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/access-telecom/367023?b=2&k=19522&l=search",
+	"arName":"عمارة السيراميك - ش السنترال السياحى متفرع من ش الشيراتون - الدور 1 شقة 5, سقالة, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Ceramic Bldg., El Central El Seyahy St. Off Sheraton Rd., Floor 1 Flat 5, Sekala, Hurghada"
+},
+		{	"profileId":"366778",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/access-telecom/366778?b=3&k=19522&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}]}

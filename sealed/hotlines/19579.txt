@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدلية د. هانى صابر",
+	"enName":"Dr. Hani Saber Pharmacy",
+	"hotline":"19579",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"452780",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-hani-saber-pharmacy/452780?b=1&k=19579&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, مدينة الرحاب, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Al rehab city, Cairo"
+},
+		{	"profileId":"452779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-hani-saber-pharmacy/452779?b=3&k=19579&l=search",
+	"arName":"المنطقة الادارية, مدينة الرحاب, القاهرة",
+	"lat":"30.059887",
+	"lng":"31.492045999999998",
+	"enName":"Administrative Zone, Al rehab city, Cairo"
+},
+		{	"profileId":"164894",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-hani-saber-pharmacy/164894?b=2&k=19579&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"lat":"30.059887",
+	"lng":"31.492045999999998",
+	"enName":"., Al rehab city, Cairo"
+}
+	]
+}]}

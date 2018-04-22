@@ -1,0 +1,28 @@
+{"items":[{	"arName":"بيكو ايجيبت تريدنج ش.ذ.م.م",
+	"enName":"Beko Egypt Trading L.L.C",
+	"hotline":"16165",
+	"facebook":"http://www.facebook.com/bekoegypt",
+	"web":"http://www.beko-egypt.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"386575",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beko-egypt-trading-l.l.c/386575?b=1&k=16165&l=search",
+	"arName":"مبنى رقم 3 - ش التسعين - المركز التجارى داون تاون - الدور 2, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.019389",
+	"lng":"31.421313000000001",
+	"enName":"Bldg. No. 3, El Tesaeen St., Down Town Commercial Center, Floor 2, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"386582",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/beko-egypt-trading-l.l.c/386582?b=2&k=16165&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

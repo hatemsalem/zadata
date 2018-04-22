@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سمارت جروب",
+	"enName":"Smart Group",
+	"hotline":"19889",
+	"facebook":"",
+	"web":"http://www.smart-eg.com/",
+	"arCategory":[
+		"انترنت شركات ومصممون مواقع"
+	],
+	"enCategories":[
+		"Internet Companies & Website Design"
+	],
+	"contacts":[
+		{	"profileId":"164422",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-group/164422?b=2&k=19889&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"43714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-group/43714?b=1&k=19889&l=search",
+	"arName":"19 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
+	"lat":"30.076018999999999",
+	"lng":"31.307113999999999",
+	"enName":"19 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"رويال للاعشاب",
+	"enName":"Royal Herbs",
+	"hotline":"19746",
+	"facebook":"http://www.facebook.com/RoyalHerbsEgypt?fref=ts&ref=br_tf",
+	"web":"http://www.royalherbs.com/",
+	"arCategory":[
+		"توابل واعشاب"
+	],
+	"enCategories":[
+		"Spices & Herbs"
+	],
+	"contacts":[
+		{	"profileId":"581937",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-herbs/581937?b=2&k=19746&l=search",
+	"arName":"خدمة العملاء, المريوطية, الهرم, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Mariouteya, El haram, Giza"
+},
+		{	"profileId":"67692",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-herbs/67692?b=1&k=19746&l=search",
+	"arName":"زاوية ابو مسلم, المريوطية, الهرم, الجيزة",
+	"lat":"29.941770999999999",
+	"lng":"31.169844000000001",
+	"enName":"Zawyet Abou Mosallam, El Mariouteya, El haram, Giza"
+}
+	]
+}]}

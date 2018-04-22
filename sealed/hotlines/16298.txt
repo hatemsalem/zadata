@@ -1,0 +1,39 @@
+{"items":[{	"arName":"اس تى هابى تشيكن",
+	"enName":"ST Happy Chicken",
+	"hotline":"16298",
+	"facebook":"http://www.facebook.com/sthappychicken.egy",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"459517",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/st-happy-chicken/459517?b=1&k=16298&l=search",
+	"arName":"6 ميدان رمسيس, وسط البلد, القاهرة",
+	"lat":"30.060872",
+	"lng":"31.245820999999999",
+	"enName":"6 Ramsis Sq., Downtown, Cairo"
+},
+		{	"profileId":"459518",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/st-happy-chicken/459518?b=3&k=16298&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"459501",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/st-happy-chicken/459501?b=2&k=16298&l=search",
+	"arName":"بيفرلى هيلز - منطقة الخدمات, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.061211",
+	"lng":"30.958786",
+	"enName":"Beverly Hills, Services Zone, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

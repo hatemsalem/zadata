@@ -1,0 +1,30 @@
+{"items":[{	"arName":"مركز اورام الثدى د. ضياء صالح",
+	"enName":"Breast Care & Cure Dr. Diaa Saleh - BCC",
+	"hotline":"16812",
+	"facebook":"http://www.facebook.com/breastcareandcure?ref=hl",
+	"web":"http://www.breastcancer-eg.com/",
+	"arCategory":[
+		"اطباء اورام وعلاج كيميائى",
+		"اطباء"
+	],
+	"enCategories":[
+		"Doctors - Oncologists",
+		"Doctors"
+	],
+	"contacts":[
+		{	"profileId":"404535",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/breast-care-&-cure-dr.-diaa-saleh-_-bcc/404535?b=2&k=16812&l=search",
+	"arName":"210 ش السودان ميدان لبنان, المهندسين, الجيزة",
+	"lat":"30.057804000000001",
+	"lng":"31.190185",
+	"enName":"210 Sudan St. Lebanon Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"462864",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/breast-care-&-cure-dr.-diaa-saleh-_-bcc/462864?b=1&k=16812&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

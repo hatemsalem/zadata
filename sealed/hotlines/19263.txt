@@ -1,0 +1,42 @@
+{"items":[{	"arName":"امديست",
+	"enName":"Amideast",
+	"hotline":"19263",
+	"facebook":"http://www.facebook.com/AMIDEAST.EGYPT",
+	"web":"http://www.amideast.org/egypt",
+	"arCategory":[
+		"جمعيات ومنظمات"
+	],
+	"enCategories":[
+		"Associations"
+	],
+	"contacts":[
+		{	"profileId":"405655",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amideast/405655?b=1&k=19263&l=search",
+	"arName":"1 ابراج المروة - ش احمد تيسير - الدور 1 شقة 4, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.078931000000001",
+	"lng":"31.327873",
+	"enName":"1 El Marwa Towers, Ahmed Tayseer St., Floor 1 Flat 4, koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"298599",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amideast/298599?b=2&k=19263&l=search",
+	"arName":"38 ش محيى الدين ابو العز, الدقى, الجيزة",
+	"lat":"30.039781999999999",
+	"lng":"31.200548999999999",
+	"enName":"38 Mohy El Din Abou El Ezz St., Dokki, Giza"
+},
+		{	"profileId":"570792",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amideast/570792?b=4&k=19263&l=search",
+	"arName":"3 ش الفراعنة متفرع من ش فؤاد, الازاريطة, الاسكندرية",
+	"lat":"31.199584000000002",
+	"lng":"29.908044",
+	"enName":"3 El Pharaana St. Off Fouad St., Azarita, Alexandria"
+},
+		{	"profileId":"170708",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amideast/170708?b=3&k=19263&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

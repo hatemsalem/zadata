@@ -1,0 +1,21 @@
+{"items":[{	"arName":"بناء للانشاء والتعمير",
+	"enName":"Benaa For Construction & Development",
+	"hotline":"19413",
+	"facebook":"http://www.facebook.com/BenaacoRD",
+	"web":"http://www.benaaco.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"474614",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/benaa-for-construction-&-development/474614?b=1&k=19413&l=search",
+	"arName":"8 ش احمد الزمر, مدينة نصر, القاهرة",
+	"lat":"30.045200000000001",
+	"lng":"31.3413",
+	"enName":"8 Ahmed El Zomor St., Nasr city, Cairo"
+}
+	]
+}]}

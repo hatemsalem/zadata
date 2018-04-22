@@ -1,0 +1,35 @@
+{"items":[{	"arName":"الهيئة العامة لتعليم الكبار",
+	"enName":"Adult Education Authority",
+	"hotline":"19556",
+	"facebook":"http://www.facebook.com/pages/Eaea_eg/1413879278859601",
+	"web":"www.eaea.gov.eg",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"128089",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/adult-education-authority/128089?b=3&k=19556&l=search",
+	"arName":"11 ش حسنى متولى, فيصل, الجيزة",
+	"lat":"30.003599999999999",
+	"lng":"31.1769",
+	"enName":"11 Hosny Metwally St., Faisal, Giza"
+},
+		{	"profileId":"128083",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/adult-education-authority/128083?b=1&k=19556&l=search",
+	"arName":"33, 34 عمارات صف الضباط - ش امتداد رمسيس, مدينة نصر, القاهرة",
+	"lat":"30.059562",
+	"lng":"31.302752000000002",
+	"enName":"33, 34 Saff El Dobbat Bldgs., Emtedad Ramsis St., Nasr city, Cairo"
+},
+		{	"profileId":"176991",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/adult-education-authority/176991?b=2&k=19556&l=search",
+	"arName":"خدمة العملاء, جسر السويس, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Gesr el suez, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,21 @@
+{"items":[{	"arName":"سيراميك جلوريا",
+	"enName":"Gloria Ceramic",
+	"hotline":"19174",
+	"facebook":"http://www.facebook.com/GloriaCeramic",
+	"web":"http://www.gloriaceramic.com/",
+	"arCategory":[
+		"سيراميك وبورسيلين منتجات"
+	],
+	"enCategories":[
+		"Ceramic & Porcelain"
+	],
+	"contacts":[
+		{	"profileId":"257379",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/gloria-ceramic/257379?b=1&k=19174&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

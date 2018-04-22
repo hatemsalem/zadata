@@ -1,0 +1,68 @@
+{"items":[{	"arName":"استوريا بارك",
+	"enName":"Astoria Park",
+	"hotline":"19503",
+	"facebook":"http://www.facebook.com/AstoriaparkEG",
+	"web":"http://www.era-eg.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"532255",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/astoria-park/532255?b=1&k=19503&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.926234999999998",
+	"lng":"31.076846",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}, {	"arName":"حى المنتزة",
+	"enName":"El Montazah District",
+	"hotline":"19503",
+	"facebook":"",
+	"web":"http://www.era-eg.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"374716",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-montazah-district/374716?b=2&k=19503&l=search",
+	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.90971",
+	"lng":"31.060317000000001",
+	"enName":"Hadaeq October, 6th of october, Giza"
+}
+	]
+}, {	"arName":"ايرا للتنمية العمرانية",
+	"enName":"Era For Urban Development",
+	"hotline":"19503",
+	"facebook":"",
+	"web":"http://www.era-eg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"187336",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/era-for-urban-development/187336?b=3&k=19503&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"128051",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/era-for-urban-development/128051?b=4&k=19503&l=search",
+	"arName":"41 ش الاسراء ميدان لبنان - برج 26 يوليو, المهندسين, الجيزة",
+	"lat":"30.059531",
+	"lng":"31.194924",
+	"enName":"41 El Esraa St. Lebanon Sq., 26th Of July Tower, Mohandeseen, Giza"
+}
+	]
+}]}

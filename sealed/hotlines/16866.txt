@@ -1,0 +1,77 @@
+{"items":[{	"arName":"بورى",
+	"enName":"Bouri",
+	"hotline":"16866",
+	"facebook":"http://www.facebook.com/bouricenters",
+	"web":"http://www.bouri.net/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"288752",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/288752?b=5&k=16866&l=search",
+	"arName":"111 ش النزهة, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.101509",
+	"lng":"31.343519000000001",
+	"enName":"111 El Nozha St., Triumph Square, Heliopolis, Cairo"
+},
+		{	"profileId":"447019",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/447019?b=7&k=16866&l=search",
+	"arName":"46 ش سوريا, المهندسين, الجيزة",
+	"lat":"30.052333000000001",
+	"lng":"31.193715000000001",
+	"enName":"46 Syria St., Mohandeseen, Giza"
+},
+		{	"profileId":"172752",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/172752?b=3&k=16866&l=search",
+	"arName":"القطعة 13، 14 - ش 17 - الحى الاول - مركز خدمات التجمع الخامس, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.010377999999999",
+	"lng":"31.423137000000001",
+	"enName":"Plot 13, 14, Rd. 17, 1St District, 5th Compound Service Centre, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"146956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/146956?b=9&k=16866&l=search",
+	"arName":"7 ش سان مارك, المنشية, الاسكندرية",
+	"lat":"31.197842999999999",
+	"lng":"29.894148000000001",
+	"enName":"7 Saint Marc St., El mansheya, Alexandria"
+},
+		{	"profileId":"53035",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/53035?b=2&k=16866&l=search",
+	"arName":"5 ش شريف تقاطع ش صبرى ابو علم, وسط البلد, القاهرة",
+	"lat":"30.045732999999998",
+	"lng":"31.242281999999999",
+	"enName":"5 Sherif St. Intersection Of Sabry Abou Alam St., Downtown, Cairo"
+},
+		{	"profileId":"146943",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/146943?b=4&k=16866&l=search",
+	"arName":"26 ش مصطفى النحاس, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.054393000000001",
+	"lng":"31.341529000000001",
+	"enName":"26 Mostafa El Nahhas St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"572108",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/572108?b=6&k=16866&l=search",
+	"arName":"29 ش الاقبال, لوران, الاسكندرية",
+	"lat":"31.249955",
+	"lng":"29.975239999999999",
+	"enName":"29 El Eqbal St., Loran, Alexandria"
+},
+		{	"profileId":"165679",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/165679?b=1&k=16866&l=search",
+	"arName":"خدمة العملاء, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Downtown, Cairo"
+},
+		{	"profileId":"163852",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/163852?b=8&k=16866&l=search",
+	"arName":"47 ش سعد زغلول, حى الشرق, بور سعيد",
+	"lat":"31.271993999999999",
+	"lng":"32.284816999999997",
+	"enName":"47 Saad Zaghloul St., El shark district, Port said"
+}
+	]
+}]}

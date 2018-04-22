@@ -1,0 +1,35 @@
+{"items":[{	"arName":"صيدليات هلال",
+	"enName":"Helal Pharmacies",
+	"hotline":"16297",
+	"facebook":"http://www.facebook.com/%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A7%D8%AA-%D9%87%D9%84%D8%A7%D9%84-1675860045987250/",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"555416",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helal-pharmacies/555416?b=3&k=16297&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mokattam, Cairo"
+},
+		{	"profileId":"555429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helal-pharmacies/555429?b=2&k=16297&l=search",
+	"arName":"المجاورة التاسعة, التجمع الاول, القاهرة الجديدة, القاهرة",
+	"lat":"30.058636",
+	"lng":"31.445996000000001",
+	"enName":"9th Neighbourhood, 1st Compound, New cairo, Cairo"
+},
+		{	"profileId":"555402",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helal-pharmacies/555402?b=1&k=16297&l=search",
+	"arName":"ش 9, المقطم, القاهرة",
+	"lat":"30.014551000000001",
+	"lng":"31.283515999999999",
+	"enName":"Rd. 9, Mokattam, Cairo"
+}
+	]
+}]}

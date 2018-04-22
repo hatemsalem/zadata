@@ -1,0 +1,42 @@
+{"items":[{	"arName":"مستشفيات دار العيون",
+	"enName":"Dar El Oyoun Hospital",
+	"hotline":"19978",
+	"facebook":"http://www.facebook.com/dareloyoun.eg",
+	"web":"http://www.dareloyoun.org/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"56600",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-oyoun-hospital/56600?b=3&k=19978&l=search",
+	"arName":"9 ش محمد الغزالى متفرع من ش مصدق, الدقى, الجيزة",
+	"lat":"30.038726",
+	"lng":"31.204939",
+	"enName":"9 Mohamed El Ghazaly St. Off Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"124956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-oyoun-hospital/124956?b=4&k=19978&l=search",
+	"arName":"1 ش المعتصم بالله تقاطع ش التحرير - صفط اللبن - الدور 1, الجيزة, الجيزة",
+	"lat":"30.004999999999999",
+	"lng":"31.1447",
+	"enName":"1 El Moatasem Bellah St. Intersection Of El Tahrir St., Saft El Laban, Floor 1, Giza, Giza"
+},
+		{	"profileId":"427953",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-oyoun-hospital/427953?b=1&k=19978&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"505285",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-oyoun-hospital/505285?b=2&k=19978&l=search",
+	"arName":"., الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.022064",
+	"lng":"31.006207",
+	"enName":"., El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

@@ -1,0 +1,98 @@
+{"items":[{	"arName":"صيدليات على وعلى",
+	"enName":"Ali & Ali Pharmacies",
+	"hotline":"19905",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"صيدليات"
+	],
+	"enCategories":[
+		"Pharmacies"
+	],
+	"contacts":[
+		{	"profileId":"74380",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/74380?b=11&k=19905&l=search",
+	"arName":"112 ش السودان, المهندسين, الجيزة",
+	"lat":"30.046706",
+	"lng":"31.192758999999999",
+	"enName":"112 Sudan St., Mohandeseen, Giza"
+},
+		{	"profileId":"237334",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/237334?b=9&k=19905&l=search",
+	"arName":"222 ب ش جاردنيا, حدائق الاهرام, الهرم, الجيزة",
+	"lat":"29.976067",
+	"lng":"31.107623",
+	"enName":"222 B Gardenia St., Hadayek El Ahram, El haram, Giza"
+},
+		{	"profileId":"11491",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/11491?b=6&k=19905&l=search",
+	"arName":"399 ش رمسيس, عباسية, القاهرة",
+	"lat":"30.073229999999999",
+	"lng":"31.280023",
+	"enName":"399 Ramsis St., Abbasseya, Cairo"
+},
+		{	"profileId":"101430",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/101430?b=5&k=19905&l=search",
+	"arName":"19 ش النصر ميدان الجزائر - عمارة البرج, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.973521000000002",
+	"lng":"31.274885999999999",
+	"enName":"19 El Nasr St. El Gazaer Sq., El Borg Bldg., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"74379",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/74379?b=12&k=19905&l=search",
+	"arName":"12 ش اليمن متفرع من ميدان لبنان, المهندسين, الجيزة",
+	"lat":"30.058738999999999",
+	"lng":"31.191635000000002",
+	"enName":"12 Yemen St. Off Lebanon Sq., Mohandeseen, Giza"
+},
+		{	"profileId":"237327",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/237327?b=1&k=19905&l=search",
+	"arName":"20 أ ش الخليفة المأمون, روكسى, مصر الجديدة, القاهرة",
+	"lat":"30.087036000000001",
+	"lng":"31.303644999999999",
+	"enName":"20 A El Khalifa El Maamoun St., Roxy, Heliopolis, Cairo"
+},
+		{	"profileId":"144072",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/144072?b=2&k=19905&l=search",
+	"arName":"45 ش 9, ثكنات المعادى, المعادى, القاهرة",
+	"lat":"29.953655000000001",
+	"lng":"31.263306",
+	"enName":"45 Rd. 9, Thakanat El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"104007",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/104007?b=3&k=19905&l=search",
+	"arName":"6 ش امين سامى متفرع من ش قصر العينى, السيدة زينب, القاهرة",
+	"lat":"30.032900000000001",
+	"lng":"31.239699999999999",
+	"enName":"6 Amin Samy St. Off Kasr El Ainy St., El sayeda zeinab, Cairo"
+},
+		{	"profileId":"74378",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/74378?b=10&k=19905&l=search",
+	"arName":"37 ش سليمان اباظة, المهندسين, الجيزة",
+	"lat":"30.050803999999999",
+	"lng":"31.201139000000001",
+	"enName":"37 Soliman Abaza St., Mohandeseen, Giza"
+},
+		{	"profileId":"74377",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/74377?b=4&k=19905&l=search",
+	"arName":"33 ش قصر العينى, قصر العينى, القاهرة",
+	"lat":"30.027000000000001",
+	"lng":"31.232299999999999",
+	"enName":"33 Kasr El Ainy St., Kasr el ainy, Cairo"
+},
+		{	"profileId":"129806",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/129806?b=7&k=19905&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, عباسية, القاهرة",
+	"lat":"30.073153000000001",
+	"lng":"31.280258",
+	"enName":"Home Delivery, Abbasseya, Cairo"
+},
+		{	"profileId":"129807",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/129807?b=8&k=19905&l=search",
+	"arName":"44 عمارات ابو الفتوح - , مدكور, الهرم, الجيزة",
+	"lat":"30.003954",
+	"lng":"31.188033999999998",
+	"enName":"44 Abou El Fotouh Bldgs., , Madkour, El haram, Giza"
+}
+	]
+}]}

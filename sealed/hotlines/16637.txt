@@ -1,0 +1,25 @@
+{"items":[{	"arName":"سلسلة مطاعم حضرموت",
+	"enName":"Hadramoot Restaurants",
+	"hotline":"16637",
+	"facebook":"http://www.facebook.com/HadraMowtt",
+	"web":"http://www.hadramoot.com/",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"455739",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hadramoot-restaurants/455739?b=1&k=16637&l=search",
+	"arName":"3 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.059836000000001",
+	"lng":"31.208407999999999",
+	"enName":"3 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+}
+	]
+}]}

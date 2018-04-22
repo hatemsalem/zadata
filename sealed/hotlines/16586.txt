@@ -1,0 +1,28 @@
+{"items":[{	"arName":"دار الاسنان",
+	"enName":"Dar El Asnan",
+	"hotline":"16586",
+	"facebook":"http://www.facebook.com/DarElasnan1/timeline",
+	"web":"http://www.darelasnan.com/",
+	"arCategory":[
+		"طب اسنان عيادات"
+	],
+	"enCategories":[
+		"Dentist Clinics"
+	],
+	"contacts":[
+		{	"profileId":"467068",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-asnan/467068?b=1&k=16586&l=search",
+	"arName":"خدمة العملاء, نصر الدين, الهرم, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr El Din, El haram, Giza"
+},
+		{	"profileId":"97344",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dar-el-asnan/97344?b=2&k=16586&l=search",
+	"arName":"21 ش ترعة الزمر, نصر الدين, الهرم, الجيزة",
+	"lat":"30.007432000000001",
+	"lng":"31.204711",
+	"enName":"21 Teraet El Zomor St., Nasr El Din, El haram, Giza"
+}
+	]
+}]}

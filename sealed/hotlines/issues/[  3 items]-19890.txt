@@ -1,0 +1,84 @@
+{"items":[{	"arName":"ايزى كوك",
+	"enName":"E-zee Cook",
+	"hotline":"19890",
+	"facebook":"http://www.facebook.com/EzeeCook19890",
+	"web":"",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"463242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_zee-cook/463242?b=1&k=19890&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Mokattam, Cairo"
+},
+		{	"profileId":"463126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_zee-cook/463126?b=2&k=19890&l=search",
+	"arName":"المرحلة الثانية - الهضبة الوسطى, المقطم, القاهرة",
+	"lat":"29.992277000000001",
+	"lng":"31.296122",
+	"enName":"Phase 2, Middle Hill, Mokattam, Cairo"
+}
+	]
+}, {	"arName":"ايزى سبورتس",
+	"enName":"E-zee Sports",
+	"hotline":"19890",
+	"facebook":"",
+	"web":"http://www.sports.e-zee.com/",
+	"arCategory":[
+		"نوادى"
+	],
+	"enCategories":[
+		"Clubs"
+	],
+	"contacts":[
+		{	"profileId":"237812",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_zee-sports/237812?b=4&k=19890&l=search",
+	"arName":"المرحلة الثانية - الهضبة الوسطى, المقطم, القاهرة",
+	"lat":"29.992467000000001",
+	"lng":"31.296126999999998",
+	"enName":"Phase 2, Middle Hill, Mokattam, Cairo"
+},
+		{	"profileId":"418781",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_zee-sports/418781?b=3&k=19890&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mokattam, Cairo"
+}
+	]
+}, {	"arName":"ايزى ترافيل - الشركة المصرية للنقل والسياحة",
+	"enName":"E-Zee Travel - The Egyptian Co. For Transport & Tourism",
+	"hotline":"19890",
+	"facebook":"http://www.facebook.com/EzeeTravelElAbd",
+	"web":"",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"522238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_zee-travel-_-the-egyptian-co.-for-transport-&-tourism/522238?b=6&k=19890&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"97121",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_zee-travel-_-the-egyptian-co.-for-transport-&-tourism/97121?b=5&k=19890&l=search",
+	"arName":"35 ش النصر, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.975100000000001",
+	"lng":"31.280100000000001",
+	"enName":"35 El Nasr St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

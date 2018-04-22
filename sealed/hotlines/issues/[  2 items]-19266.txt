@@ -1,0 +1,127 @@
+{"items":[{	"arName":"مانتراك",
+	"enName":"Mantrac",
+	"hotline":"19266",
+	"facebook":"",
+	"web":"http://www.mantracegypt.com/",
+	"arCategory":[
+		"اوناش ورافعات",
+		"مولدات"
+	],
+	"enCategories":[
+		"Forklifts, Cranes & Hoists",
+		"Generators"
+	],
+	"contacts":[
+		{	"profileId":"161746",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/161746?b=3&k=19266&l=search",
+	"arName":"25 الممر التجارى - سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.058453",
+	"lng":"31.205784999999999",
+	"enName":"25 Commercial Passage, Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"135956",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/135956?b=4&k=19266&l=search",
+	"arName":"طريق سوهاج اخميم, سوهاج, سوهاج",
+	"lat":"26.559415000000001",
+	"lng":"31.713357999999999",
+	"enName":"Sohag Akhmim Rd., Sohag, Sohag"
+},
+		{	"profileId":"164921",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/164921?b=9&k=19266&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"28205",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/28205?b=7&k=19266&l=search",
+	"arName":"كم 28 - طريق اسكندرية القاهرة الصحراوى, العامرية, الاسكندرية",
+	"lat":"31.048586",
+	"lng":"29.787658",
+	"enName":"Km 28, Alex Cairo Desert Rd., Amreya, Alexandria"
+},
+		{	"profileId":"123713",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123713?b=10&k=19266&l=search",
+	"arName":"2 برج الجاسر - ش سعد زغلول, حى السويس, السويس",
+	"lat":"29.965066100000001",
+	"lng":"32.550236300000002",
+	"enName":"2 El Gasser Tower, Saad Zaghloul St., Suez district, Suez"
+},
+		{	"profileId":"123721",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123721?b=12&k=19266&l=search",
+	"arName":"ش النصر, الدهار, الغردقة",
+	"lat":"27.239495999999999",
+	"lng":"33.829714000000003",
+	"enName":"El Nasr St., Dahar, Hurghada"
+},
+		{	"profileId":"123731",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123731?b=6&k=19266&l=search",
+	"arName":"ش الخزان, حى الشروق, اسوان",
+	"lat":"",
+	"lng":"",
+	"enName":"El Khazzan St., El sherouk district, Aswan"
+},
+		{	"profileId":"123727",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123727?b=2&k=19266&l=search",
+	"arName":"ش التليفزيون, الاقصر, الاقصر",
+	"lat":"",
+	"lng":"",
+	"enName":"Television St. , Luxor, Luxor"
+},
+		{	"profileId":"123716",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123716?b=5&k=19266&l=search",
+	"arName":"2 ش عبد اللطيف الدسوقى, طلخا, الدقهلية",
+	"lat":"31.059892000000001",
+	"lng":"31.384484",
+	"enName":"2 Abdel Latif El Desouqy St., Talkha, El dakahleya"
+},
+		{	"profileId":"4757",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/4757?b=8&k=19266&l=search",
+	"arName":"30 ش لبنان تقاطع ش شهاب, المهندسين, الجيزة",
+	"lat":"30.056764999999999",
+	"lng":"31.196463000000001",
+	"enName":"30 Lebanon St. Intersection Of Shehab St., Mohandeseen, Giza"
+},
+		{	"profileId":"123714",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123714?b=11&k=19266&l=search",
+	"arName":"30 ش بطرس, طنطا, الغربية",
+	"lat":"30.793520999999998",
+	"lng":"31.007121999999999",
+	"enName":"30 Botros St., Tanta, El gharbeya"
+},
+		{	"profileId":"123715",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac/123715?b=1&k=19266&l=search",
+	"arName":"ش البحر متفرع من ش فؤاد ذكرى, العريش, شمال سيناء",
+	"lat":"",
+	"lng":"",
+	"enName":"El Bahr St. off Fouad Zekry st., Arish, North sinai"
+}
+	]
+}, {	"arName":"مانتراك للتوزيع",
+	"enName":"Mantrac Distribution",
+	"hotline":"19266",
+	"facebook":"http://www.facebook.com/pages/Mantrac-Distribution/148918425180431",
+	"web":"http://www.mantrac-itd.com/",
+	"arCategory":[
+		"كمبيوتر اجهزة وقطع غيار"
+	],
+	"enCategories":[
+		"Computer Hardware"
+	],
+	"contacts":[
+		{	"profileId":"390685",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac-distribution/390685?b=14&k=19266&l=search",
+	"arName":"خدمة العملاء, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"253472",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mantrac-distribution/253472?b=13&k=19266&l=search",
+	"arName":"13 ش 294, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.982151000000002",
+	"lng":"31.282177000000001",
+	"enName":"13 Rd. 294, New Maadi, Maadi, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"سيمبل تاتش سوفت وير",
+	"enName":"Simple Touch Software",
+	"hotline":"19715",
+	"facebook":"http://www.facebook.com/simpletouchsoftware",
+	"web":"http://www.simpletouch-sw.net/",
+	"arCategory":[
+		"كمبيوتر برامج"
+	],
+	"enCategories":[
+		"Computer Software"
+	],
+	"contacts":[
+		{	"profileId":"475062",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/simple-touch-software/475062?b=2&k=19715&l=search",
+	"arName":"خدمة العملاء, حدائق المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Hadayek El Maadi, Maadi, Cairo"
+},
+		{	"profileId":"127101",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/simple-touch-software/127101?b=1&k=19715&l=search",
+	"arName":"64 ش 105, حدائق المعادى, المعادى, القاهرة",
+	"lat":"29.969487999999998",
+	"lng":"31.248909000000001",
+	"enName":"64 Rd. 105, Hadayek El Maadi, Maadi, Cairo"
+}
+	]
+}]}

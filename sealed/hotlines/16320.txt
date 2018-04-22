@@ -1,0 +1,35 @@
+{"items":[{	"arName":"بيلدر للسياحة",
+	"enName":"Builder Travel",
+	"hotline":"16320",
+	"facebook":"http://www.facebook.com/Builder-Travel",
+	"web":"http://www.buildertravel.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"531238",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/builder-travel/531238?b=2&k=16320&l=search",
+	"arName":"76 ش جمال عبد الناصر ميدان شرف - برج الزهراء - الدور 2, شبين الكوم, المنوفية",
+	"lat":"30.558835999999999",
+	"lng":"31.010349000000001",
+	"enName":"76 Gamal Abdel Nasser St. Sharaf Sq., El Zahraa Tower, Floor 2, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"560111",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/builder-travel/560111?b=3&k=16320&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+},
+		{	"profileId":"415840",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/builder-travel/415840?b=1&k=16320&l=search",
+	"arName":"36 ش مصدق متفرع من ش التحرير, الدقى, الجيزة",
+	"lat":"30.037666000000002",
+	"lng":"31.197982",
+	"enName":"36 Mossadak St. Off El Tahrir St., Dokki, Giza"
+}
+	]
+}]}

@@ -1,0 +1,28 @@
+{"items":[{	"arName":"تكتس مارشيه",
+	"enName":"Ticketsmarche",
+	"hotline":"16826",
+	"facebook":"http://www.facebook.com/Ticketsmarche",
+	"web":"http://www.ticketsmarche.com/",
+	"arCategory":[
+		"معارض منظمون ومصممون عروض"
+	],
+	"enCategories":[
+		"Exhibition Organizers & Display Designers"
+	],
+	"contacts":[
+		{	"profileId":"453194",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ticketsmarche/453194?b=1&k=16826&l=search",
+	"arName":"خدمة العملاء, مدينة 15 مايو, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 15th of may city, Cairo"
+},
+		{	"profileId":"189443",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ticketsmarche/189443?b=2&k=16826&l=search",
+	"arName":"127 ش الميرغنى, مصر الجديدة, القاهرة",
+	"lat":"30.089912000000002",
+	"lng":"31.340624999999999",
+	"enName":"127 El Merghany St., Heliopolis, Cairo"
+}
+	]
+}]}

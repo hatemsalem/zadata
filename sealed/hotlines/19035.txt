@@ -1,0 +1,42 @@
+{"items":[{	"arName":"كايرو كنترول لابادة الحشرات والفئران",
+	"enName":"Cairo Control For Pest Control",
+	"hotline":"19035",
+	"facebook":"",
+	"web":"http://www.cairocontrol.net/",
+	"arCategory":[
+		"مكافحة وابادة حشرات ومبيدات حشرية"
+	],
+	"enCategories":[
+		"Pest Control, Pesticides & Insecticides"
+	],
+	"contacts":[
+		{	"profileId":"486199",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-control-for-pest-control/486199?b=3&k=19035&l=search",
+	"arName":"فيلا 247 - المجاورة السابعة - تقسيم الاطباء, العاشر من رمضان, الشرقية",
+	"lat":"30.297186",
+	"lng":"31.734593",
+	"enName":"Villa 247, 7th Neighbourhood, El Atebaa Division, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"406517",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-control-for-pest-control/406517?b=4&k=19035&l=search",
+	"arName":"خدمة العملاء, العاشر من رمضان, الشرقية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 10th of ramadan, El sharkeya"
+},
+		{	"profileId":"312186",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-control-for-pest-control/312186?b=1&k=19035&l=search",
+	"arName":"88 عمارات الفتح - ش عباس العقاد, مدينة نصر, القاهرة",
+	"lat":"30.036512999999999",
+	"lng":"31.338059000000001",
+	"enName":"88 El Fath Bldgs., Abbas El Akkad St., Nasr city, Cairo"
+},
+		{	"profileId":"147272",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-control-for-pest-control/147272?b=2&k=19035&l=search",
+	"arName":"الاردنية, العاشر من رمضان, الشرقية",
+	"lat":"30.289536999999999",
+	"lng":"31.719674999999999",
+	"enName":"El Ordoneya, 10th of ramadan, El sharkeya"
+}
+	]
+}]}

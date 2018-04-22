@@ -1,0 +1,114 @@
+{"items":[{	"arName":"انشيب",
+	"enName":"Inshape",
+	"hotline":"16322",
+	"facebook":"http://www.facebook.com/inshapeclinicegypt",
+	"web":"http://www.inshape-clinic.com/",
+	"arCategory":[
+		"مراكز جراحات تجميل",
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Cosmetic & Plastic Surgery Centers",
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"428151",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/428151?b=5&k=16322&l=search",
+	"arName":"., التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.018716999999999",
+	"lng":"31.422018999999999",
+	"enName":"., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"428149",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/428149?b=4&k=16322&l=search",
+	"arName":"21 ش المنصور محمد امتداد ش 26 يوليو, الزمالك, القاهرة",
+	"lat":"30.061598",
+	"lng":"31.217697000000001",
+	"enName":"21 El Mansour Mohamed St. Extension Of 26th Of July St., Zamalek, Cairo"
+},
+		{	"profileId":"577495",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/577495?b=8&k=16322&l=search",
+	"arName":"8 ش خالد بن الوليد - الدور 1, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.102900000000002",
+	"lng":"31.376999999999999",
+	"enName":"8 Khaled Ibn El Walid St., Floor 1, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"241429",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/241429?b=11&k=16322&l=search",
+	"arName":"52 ش جامعة الدول العربية ميدان مصطفى محمود - برج الخليج - الدور 21 شقة 151, المهندسين, الجيزة",
+	"lat":"30.052253",
+	"lng":"31.201086",
+	"enName":"52 Gamaet El Dewal El Arabeya St. Mostafa Mahmoud Sq., El Khalig Tower, Floor 21 Flat 151, Mohandeseen, Giza"
+},
+		{	"profileId":"146298",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/146298?b=10&k=16322&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"577510",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/577510?b=9&k=16322&l=search",
+	"arName":"42 ش المنيل - الدور 8 شقة 17, المنيل, القاهرة",
+	"lat":"30.0167",
+	"lng":"31.224799999999998",
+	"enName":"42 Manial St., Floor 8 Flat 17, El manyal, Cairo"
+},
+		{	"profileId":"577512",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/577512?b=3&k=16322&l=search",
+	"arName":"361 د ش 9 - الدور 3 شقة 301, المقطم, القاهرة",
+	"lat":"30.015159000000001",
+	"lng":"31.282129000000001",
+	"enName":"361 D Rd. 9, Floor 3 Flat 301, Mokattam, Cairo"
+},
+		{	"profileId":"577522",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/577522?b=14&k=16322&l=search",
+	"arName":"ش المشاية السفلية - برج الاميرات, المنصورة, الدقهلية",
+	"lat":"",
+	"lng":"",
+	"enName":"El Mashaya El Sofleya St., El Amirat Tower, El mansoura, El dakahleya"
+},
+		{	"profileId":"577516",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/577516?b=7&k=16322&l=search",
+	"arName":"25 ش 250 ميدان دجلة - فيلا عامر, دجلة, المعادى, القاهرة",
+	"lat":"29.956199999999999",
+	"lng":"31.2712",
+	"enName":"25 Rd. 250 Degla Sq., Villa Amer, Degla, Maadi, Cairo"
+},
+		{	"profileId":"577504",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/577504?b=6&k=16322&l=search",
+	"arName":"52 ش احمد فخرى متفرع من ش مكرم عبيد - الدور 4, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.063074",
+	"lng":"31.349845999999999",
+	"enName":"52 Ahmed Fakhry St. Off Makram Ebaid St., Floor 4, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"577518",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/577518?b=1&k=16322&l=search",
+	"arName":"60 ش الحرية - الدور 2, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.088085",
+	"lng":"31.346147999999999",
+	"enName":"60 El Horreya St., Floor 2, Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"485690",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/485690?b=2&k=16322&l=search",
+	"arName":"., مدينة الرحاب, القاهرة",
+	"lat":"30.054638000000001",
+	"lng":"31.492152000000001",
+	"enName":"., Al rehab city, Cairo"
+},
+		{	"profileId":"475537",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/475537?b=12&k=16322&l=search",
+	"arName":"585 طريق الحرية, جليم, الاسكندرية",
+	"lat":"31.239422999999999",
+	"lng":"29.964141999999999",
+	"enName":"585 El Horreya Rd., Glim, Alexandria"
+},
+		{	"profileId":"546155",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/inshape/546155?b=13&k=16322&l=search",
+	"arName":"محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.0249956",
+	"lng":"31.013203900000001",
+	"enName":"26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

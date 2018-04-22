@@ -1,0 +1,41 @@
+{"items":[{	"arName":"امير للتجارة والتوكيلات العالمية",
+	"enName":"Amir International Trading Co.",
+	"hotline":"19953",
+	"facebook":"",
+	"web":"http://www.amirlight.com/",
+	"arCategory":[
+		"اضاءة انظمة ولمبات ونجف"
+	],
+	"enCategories":[
+		"Lighting Systems, Lamps, Chandeliers & Bulbs"
+	],
+	"contacts":[
+		{	"profileId":"10060",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amir-international-trading-co./10060?b=2&k=19953&l=search",
+	"arName":"10 ش رشيد ميدان صلاح الدين, مصر الجديدة, القاهرة",
+	"lat":"30.094799999999999",
+	"lng":"31.332000000000001",
+	"enName":"10 Rashid St. Salah El Din Sq., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"امير للتجارة والتوكيلات العالمية - ميلانتو",
+	"enName":"Amir International Trading - Milanto",
+	"hotline":"19953",
+	"facebook":"",
+	"web":"http://www.milanto.net/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"393555",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/amir-international-trading-_-milanto/393555?b=1&k=19953&l=search",
+	"arName":"10 ش رشيد ميدان صلاح الدين, مصر الجديدة, القاهرة",
+	"lat":"30.094701000000001",
+	"lng":"31.331976999999998",
+	"enName":"10 Rashid St. Salah El Din Sq., Heliopolis, Cairo"
+}
+	]
+}]}

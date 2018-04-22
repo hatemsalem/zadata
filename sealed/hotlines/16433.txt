@@ -1,0 +1,60 @@
+{"items":[{	"arName":"سلسلة مطاعم ابو ربيع",
+	"enName":"Abou Rabie Restaurants",
+	"hotline":"16433",
+	"facebook":"http://www.facebook.com/Aboo.Rabe3",
+	"web":"",
+	"arCategory":[
+		"مطاعم مصرية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Egyptian Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"37260",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-rabie-restaurants/37260?b=1&k=16433&l=search",
+	"arName":"202 ش احمد شوقى, بولكلى, الاسكندرية",
+	"lat":"31.231459000000001",
+	"lng":"29.954744000000002",
+	"enName":"202 Ahmed Shawky St., Bolkeley, Alexandria"
+},
+		{	"profileId":"78311",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-rabie-restaurants/78311?b=2&k=16433&l=search",
+	"arName":"13 أ - السوق التجارى, سموحة, الاسكندرية",
+	"lat":"31.212516999999998",
+	"lng":"29.947582000000001",
+	"enName":"13 A , Commercial Market, Semouha, Alexandria"
+},
+		{	"profileId":"457548",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-rabie-restaurants/457548?b=4&k=16433&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, بولكلى, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Bolkeley, Alexandria"
+},
+		{	"profileId":"581411",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-rabie-restaurants/581411?b=5&k=16433&l=search",
+	"arName":"ش سوتر, الازاريطة, الاسكندرية",
+	"lat":"31.205898999999999",
+	"lng":"29.909521000000002",
+	"enName":"Sotar St., Azarita, Alexandria"
+},
+		{	"profileId":"211966",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-rabie-restaurants/211966?b=6&k=16433&l=search",
+	"arName":"25 طريق الجيش, كامب شيزار, الاسكندرية",
+	"lat":"31.213864999999998",
+	"lng":"29.919663",
+	"enName":"25 El Guish Rd., Camp shizar, Alexandria"
+},
+		{	"profileId":"475546",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abou-rabie-restaurants/475546?b=3&k=16433&l=search",
+	"arName":"كم 8 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
+	"lat":"31.1680089",
+	"lng":"29.936826700000001",
+	"enName":"Km 8,, Alex. cairo desert rd., Alexandria"
+}
+	]
+}]}

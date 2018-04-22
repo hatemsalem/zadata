@@ -1,0 +1,62 @@
+{"items":[{	"arName":"ايدار سى فيو للعقارات",
+	"enName":"Edar Sea View Properties",
+	"hotline":"19378",
+	"facebook":"http://www.facebook.com/edarrealestate/",
+	"web":"http://www.edarseaview.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"231712",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edar-sea-view-properties/231712?b=2&k=19378&l=search",
+	"arName":"1 ش مكرم عبيد - برج سيتى لايت - الدور 2, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.068588999999999",
+	"lng":"31.344355",
+	"enName":"1 Makram Ebaid St., City Light Tower, Floor 2, 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"146531",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edar-sea-view-properties/146531?b=3&k=19378&l=search",
+	"arName":"طريق الهضبة الشمالية, الهضبة, الغردقة",
+	"lat":"27.204483",
+	"lng":"33.848889999999997",
+	"enName":"Northern Hill Rd., El hadaba, Hurghada"
+},
+		{	"profileId":"507809",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edar-sea-view-properties/507809?b=1&k=19378&l=search",
+	"arName":"فيلا 32ب - ميدان العروبة, جنوب الاكاديمية, القاهرة الجديدة, القاهرة",
+	"lat":"30.031756999999999",
+	"lng":"31.422991",
+	"enName":"Villa 32B, El Orouba Sq., South Academy, New cairo, Cairo"
+},
+		{	"profileId":"210225",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edar-sea-view-properties/210225?b=4&k=19378&l=search",
+	"arName":"30 ش لبنان تقاطع ش شهاب - الدور 10 شقة 101, المهندسين, الجيزة",
+	"lat":"30.056863",
+	"lng":"31.196224000000001",
+	"enName":"30 Lebanon St. Intersection Of Shehab St., Floor 10 Flat 101, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"ايدار سى فيو للعقارات",
+	"enName":"Edar Sea view Properties",
+	"hotline":"19378",
+	"facebook":"http://www.facebook.com/edarrealestate/",
+	"web":"http://www.edarseaview.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"576992",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/edar-sea-view-properties/576992?b=5&k=19378&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}]}

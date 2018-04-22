@@ -1,0 +1,28 @@
+{"items":[{	"arName":"انفو فورت ايجيبت",
+	"enName":"Info Fort Egypt",
+	"hotline":"16915",
+	"facebook":"http://www.facebook.com/InfoFort",
+	"web":"http://www.infofort.com/",
+	"arCategory":[
+		"ارفف ومخازن"
+	],
+	"enCategories":[
+		"Shelving & Storage Systems"
+	],
+	"contacts":[
+		{	"profileId":"463841",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/info-fort-egypt/463841?b=2&k=16915&l=search",
+	"arName":"المنطقة الصناعية الرابعة - مجمع مخازن سامى سعد, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"29.946836000000001",
+	"lng":"30.853691999999999",
+	"enName":"4th Industrial Zone, Samy Saad Stores Complex, Industrial Zone, 6th of october, Giza"
+},
+		{	"profileId":"463842",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/info-fort-egypt/463842?b=1&k=16915&l=search",
+	"arName":"خدمة العملاء, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Industrial Zone, 6th of october, Giza"
+}
+	]
+}]}

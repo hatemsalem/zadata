@@ -1,0 +1,324 @@
+{"items":[{	"arName":"فور ايفير 21",
+	"enName":"Forever 21",
+	"hotline":"16478",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"544317",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/forever-21/544317?b=6&k=16478&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"524556",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/forever-21/524556?b=5&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ستارز سنتر",
+	"enName":"Stars Centre",
+	"hotline":"16478",
+	"facebook":"http://www.facebook.com/Citystars.Official",
+	"web":"http://www.citystars.com.eg/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"44253",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stars-centre/44253?b=13&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+},
+		{	"profileId":"425904",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stars-centre/425904?b=14&k=16478&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"زارا",
+	"enName":"Zara",
+	"hotline":"16478",
+	"facebook":"http://www.facebook.com/Zara",
+	"web":"http://www.zara.com/",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"544765",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zara/544765?b=18&k=16478&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.971907000000002",
+	"lng":"31.01773",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"193039",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zara/193039?b=17&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ال سى واى كى كى",
+	"enName":"LC Waikiki",
+	"hotline":"16478",
+	"facebook":"http://www.facebook.com/LCWaikikiEgypt",
+	"web":"corporate.lcwaikiki.com",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"525507",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lc-waikiki/525507?b=8&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"سيفن ديه سيميولاتور سينما",
+	"enName":"7D Simulator Cinema",
+	"hotline":"16478",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سينما ومسارح"
+	],
+	"enCategories":[
+		"Cinemas & Theaters"
+	],
+	"contacts":[
+		{	"profileId":"412938",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/7d-simulator-cinema/412938?b=1&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب - الدور 4, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Floor 4, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"نوبيز",
+	"enName":"Noppies",
+	"hotline":"16478",
+	"facebook":"http://www.facebook.com/NoppiesOfficial",
+	"web":"http://www.noppies.com/",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"465198",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/noppies/465198?b=10&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"هاكت لندن",
+	"enName":"Hackett London",
+	"hotline":"16478",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"525496",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hackett-london/525496?b=7&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ارتى",
+	"enName":"Arty",
+	"hotline":"16478",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"451308",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arty/451308?b=2&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"فيكتوريا سيكريت بينك",
+	"enName":"Victoria's Secret Pink",
+	"hotline":"16478",
+	"facebook":"http://www.facebook.com/vspink",
+	"web":"",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"494826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/victoria's-secret-pink/494826?b=16&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"تابالوى",
+	"enName":"Tapealoeil",
+	"hotline":"16478",
+	"facebook":"",
+	"web":"http://www.t-a-o.com/",
+	"arCategory":[
+		"اطفال - ملابس ومستلزمات"
+	],
+	"enCategories":[
+		"Kids Clothing & Accessories"
+	],
+	"contacts":[
+		{	"profileId":"250599",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tapealoeil/250599?b=15&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب - الدور 2, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Floor 2, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ماسيمو دوتى",
+	"enName":"Massimo Dutti",
+	"hotline":"16478",
+	"facebook":"http://www.facebook.com/MassimoDuttiOfficial",
+	"web":"http://www.massimodutti.com/",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"251710",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/massimo-dutti/251710?b=9&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ستاديوم",
+	"enName":"Stadium",
+	"hotline":"16478",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"525494",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stadium/525494?b=12&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"بولو كلوب",
+	"enName":"Polo Club",
+	"hotline":"16478",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"524482",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/polo-club/524482?b=11&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"كفالى كلاس",
+	"enName":"Cavalli Class",
+	"hotline":"16478",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"524470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cavalli-class/524470?b=3&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"تشوكليت شاورما",
+	"enName":"Chocolate Shawerma",
+	"hotline":"16478",
+	"facebook":"http://www.facebook.com/chocolateshawerma",
+	"web":"",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم بلجيكية"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Belgian Cuisine"
+	],
+	"contacts":[
+		{	"profileId":"566023",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chocolate-shawerma/566023?b=4&k=16478&l=search",
+	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
+	"lat":"30.073430999999999",
+	"lng":"31.347339000000002",
+	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
+}
+	]
+}]}

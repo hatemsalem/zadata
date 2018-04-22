@@ -1,0 +1,28 @@
+{"items":[{	"arName":"مستشفى د. سعاد كفافى الجامعى",
+	"enName":"Dr. Souad Kafafi University Hospital",
+	"hotline":"16111",
+	"facebook":"http://www.facebook.com/themskuh",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"456725",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-souad-kafafi-university-hospital/456725?b=1&k=16111&l=search",
+	"arName":"خدمة العملاء, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El Motamayez District, 6th of october, Giza"
+},
+		{	"profileId":"223531",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-souad-kafafi-university-hospital/223531?b=2&k=16111&l=search",
+	"arName":"امتداد محور 26 يوليو, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"29.996742000000001",
+	"lng":"30.965153999999998",
+	"enName":"Extension Of 26th Of July Spine, El Motamayez District, 6th of october, Giza"
+}
+	]
+}]}

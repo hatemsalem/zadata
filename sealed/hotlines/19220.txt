@@ -1,0 +1,105 @@
+{"items":[{	"arName":"غاز مصر",
+	"enName":"Egypt Gas",
+	"hotline":"19220",
+	"facebook":"http://www.facebook.com/egyptgas2013?ref=br_tf",
+	"web":"http://www.egyptgas.com.eg/",
+	"arCategory":[
+		"غازات وبروبان"
+	],
+	"enCategories":[
+		"Gases & Propane"
+	],
+	"contacts":[
+		{	"profileId":"140509",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/140509?b=10&k=19220&l=search",
+	"arName":"432 ش جمال عبد الناصر, المندرة البحرية, الاسكندرية",
+	"lat":"31.278171",
+	"lng":"30.009927000000001",
+	"enName":"432 Gamal Abdel Nasser St., El mandara el bahareya, Alexandria"
+},
+		{	"profileId":"131734",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/131734?b=8&k=19220&l=search",
+	"arName":"4 عمارات القاهرة للاسكان والتعمير - - الدور 1, سموحة, الاسكندرية",
+	"lat":"31.219082",
+	"lng":"29.945414",
+	"enName":"4 El Qahera Lel Iskan & El Taamir Bldgs., , Floor 1, Semouha, Alexandria"
+},
+		{	"profileId":"487901",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/487901?b=9&k=19220&l=search",
+	"arName":"6 ش الخطيب, الدقى, الجيزة",
+	"lat":"30.031924",
+	"lng":"31.214127000000001",
+	"enName":"6 El Khatib St., Dokki, Giza"
+},
+		{	"profileId":"45914",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/45914?b=12&k=19220&l=search",
+	"arName":"4 ش الرقابة الادارية, بنها, القليوبية",
+	"lat":"30.476759000000001",
+	"lng":"31.181304999999998",
+	"enName":"4 El Reqaba El Edareya St., Banha, Kaliobeya"
+},
+		{	"profileId":"429003",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/429003?b=2&k=19220&l=search",
+	"arName":"30 ش المفتشين, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.083531000000001",
+	"lng":"31.349744399999999",
+	"enName":"30 El Mofatesheen St., Almaza, Heliopolis, Cairo"
+},
+		{	"profileId":"196209",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/196209?b=3&k=19220&l=search",
+	"arName":"1 /4 ش اللاسلكى, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.970344999999998",
+	"lng":"31.279040999999999",
+	"enName":"1 /4 El Laselky St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"79843",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/79843?b=13&k=19220&l=search",
+	"arName":"كورنيش النيل, الوراق, الجيزة",
+	"lat":"30.107952999999998",
+	"lng":"31.212384",
+	"enName":"Corniche El Nil, El warak, Giza"
+},
+		{	"profileId":"240919",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/240919?b=1&k=19220&l=search",
+	"arName":"9 ابراج اغاخان -, اغاخان, القاهرة",
+	"lat":"30.101541000000001",
+	"lng":"31.242048",
+	"enName":"9 Aghakhan Towers,, Aghakhan, Cairo"
+},
+		{	"profileId":"79844",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/79844?b=5&k=19220&l=search",
+	"arName":"خدمة العملاء, امبابة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Imbaba, Giza"
+},
+		{	"profileId":"140511",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/140511?b=11&k=19220&l=search",
+	"arName":"برج الايمان - - ارض الجولف, حى الشرق, بور سعيد",
+	"lat":"31.248332000000001",
+	"lng":"32.288708",
+	"enName":"El Eman Tower, , Ard El Golf, El shark district, Port said"
+},
+		{	"profileId":"79838",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/79838?b=6&k=19220&l=search",
+	"arName":"برج ال المصيلحى - - كفر مصيلحى, شبين الكوم, المنوفية",
+	"lat":"30.538377000000001",
+	"lng":"31.016679",
+	"enName":"Al El Meselhy Tower, , Kafr Meselhy, SHIBIN EL KAWM, Shebein el kawm, El monofeya"
+},
+		{	"profileId":"79837",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/79837?b=4&k=19220&l=search",
+	"arName":"97 ش حسن رضوان, طنطا, الغربية",
+	"lat":"30.792002799999999",
+	"lng":"31.010911",
+	"enName":"97 Hassan Radwan St., Tanta, El gharbeya"
+},
+		{	"profileId":"79839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egypt-gas/79839?b=7&k=19220&l=search",
+	"arName":"فيلا 470 - ش ابو بكر الصديق, مدينة السادات, المنوفية",
+	"lat":"",
+	"lng":"",
+	"enName":"Villa 470, Abou Bakr El Seddik St., Sadat city, El monofeya"
+}
+	]
+}]}

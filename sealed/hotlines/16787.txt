@@ -1,0 +1,21 @@
+{"items":[{	"arName":"3 ايه - الشركة العربية للتجارة والتوكيلات",
+	"enName":"3A - El Arabeya Co. For Trade & Agencies",
+	"hotline":"16787",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"176612",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/3a-_-el-arabeya-co.-for-trade-&-agencies/176612?b=1&k=16787&l=search",
+	"arName":"خدمة العملاء, حى الافرنج, الاسماعيلية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El afrang district, Ismaileya"
+}
+	]
+}]}

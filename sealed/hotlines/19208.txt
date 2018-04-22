@@ -1,0 +1,35 @@
+{"items":[{	"arName":"كارلسون واجونلى ترافيل - سى دبليو تى",
+	"enName":"Carlson Wagonlit Travel - CWT",
+	"hotline":"19208",
+	"facebook":"",
+	"web":"http://www.carlsonwagonlit.com.eg/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"126639",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/carlson-wagonlit-travel-_-cwt/126639?b=3&k=19208&l=search",
+	"arName":"ش كورنيش النيل, الاقصر, الاقصر",
+	"lat":"25.696781999999999",
+	"lng":"32.637041000000004",
+	"enName":"Corniche El Nil St., LUXOR, Luxor, Luxor"
+},
+		{	"profileId":"93529",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/carlson-wagonlit-travel-_-cwt/93529?b=2&k=19208&l=search",
+	"arName":"5 ش عبد القادر حمزة متفرع من كورنيش النيل, جاردن سيتى, القاهرة",
+	"lat":"30.042255999999998",
+	"lng":"31.232202999999998",
+	"enName":"5 Abdel Qader Hamza St. Off Corniche El Nil, Garden city, Cairo"
+},
+		{	"profileId":"322920",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/carlson-wagonlit-travel-_-cwt/322920?b=1&k=19208&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer Service, Heliopolis, Cairo"
+}
+	]
+}]}

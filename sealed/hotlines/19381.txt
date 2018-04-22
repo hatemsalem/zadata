@@ -1,0 +1,35 @@
+{"items":[{	"arName":"يونيون اير",
+	"enName":"Union Air",
+	"hotline":"19381",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"581645",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-air/581645?b=1&k=19381&l=search",
+	"arName":"144 ش جمال عبد الناصر, العصافرة بحرى, الاسكندرية",
+	"lat":"31.257804",
+	"lng":"29.987262999999999",
+	"enName":"144 Gamal Abdel Nasser St., El asafra bahary, Alexandria"
+},
+		{	"profileId":"581644",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-air/581644?b=2&k=19381&l=search",
+	"arName":"خدمة العملاء, الهانوفيل, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Hannoville, Alexandria"
+},
+		{	"profileId":"581643",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-air/581643?b=3&k=19381&l=search",
+	"arName":"كم 17.5 - طريق اسكندرية مطروح الصحراوى, الهانوفيل, الاسكندرية",
+	"lat":"31.095417999999999",
+	"lng":"29.767309000000001",
+	"enName":"Km 17.5, Alex Matrouh Desert Rd., Hannoville, Alexandria"
+}
+	]
+}]}

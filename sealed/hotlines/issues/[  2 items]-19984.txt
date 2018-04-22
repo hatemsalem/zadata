@@ -1,0 +1,64 @@
+{"items":[{	"arName":"النيل الهندسية للتوكيلات",
+	"enName":"Nile Engineering For Agencies",
+	"hotline":"19984",
+	"facebook":"",
+	"web":"http://www.nileengineering.com/",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة",
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars",
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"150857",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-engineering-for-agencies/150857?b=2&k=19984&l=search",
+	"arName":"109 /117 ش الحجاز دوران مجاهد - المنطقة الصناعية, وسط البلد, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"109 /117 El Hegaz St. Dawaran Megahed, Industrial Zone, Downtown, Hurghada"
+},
+		{	"profileId":"449507",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-engineering-for-agencies/449507?b=3&k=19984&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"4461",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-engineering-for-agencies/4461?b=5&k=19984&l=search",
+	"arName":"29 /30 سور نادى الزمالك -, المهندسين, الجيزة",
+	"lat":"30.058895",
+	"lng":"31.206205000000001",
+	"enName":"29 /30 Zamalek Club Wall,, Mohandeseen, Giza"
+},
+		{	"profileId":"463797",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nile-engineering-for-agencies/463797?b=4&k=19984&l=search",
+	"arName":"القطعة 13011 - ش 100 - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
+	"lat":"",
+	"lng":"",
+	"enName":"Plot 13011, Rd. 100, 1St Industrial Zone, Obour city, Kaliobeya"
+}
+	]
+}, {	"arName":"خدمة استخراج الاوراق الحكومية",
+	"enName":"Governmental Documents Service",
+	"hotline":"19984",
+	"facebook":"",
+	"web":"http://www.nileengineering.com/English/Products--and--Services/E-Government-Services",
+	"arCategory":[
+		"وزارات وهيئات حكومية"
+	],
+	"enCategories":[
+		"Ministries & Government Organizations"
+	],
+	"contacts":[
+		{	"profileId":"221177",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/governmental-documents-service/221177?b=1&k=19984&l=search",
+	"arName":"رقم خدمات الوثائق الشخصية, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Personal Documents Service, Mohandeseen, Giza"
+}
+	]
+}]}

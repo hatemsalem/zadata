@@ -1,0 +1,63 @@
+{"items":[{	"arName":"العبد للاجهزة الكهربائية",
+	"enName":"El Abd For Appliances",
+	"hotline":"19595",
+	"facebook":"http://www.facebook.com/WhitePointElabd",
+	"web":"http://www.elabdgroup.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"475393",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-for-appliances/475393?b=6&k=19595&l=search",
+	"arName":"ش 1 - حى الزهور, الزقازيق, الشرقية",
+	"lat":"30.58184",
+	"lng":"31.486564000000001",
+	"enName":"Rd. 1, El Zohour District, El zagazig, El sharkeya"
+},
+		{	"profileId":"475584",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-for-appliances/475584?b=4&k=19595&l=search",
+	"arName":"3 ش الكافورى, طنطا, الغربية",
+	"lat":"30.958712999999999",
+	"lng":"31.160912",
+	"enName":"3 El Kafoury St., Tanta, El gharbeya"
+},
+		{	"profileId":"43946",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-for-appliances/43946?b=2&k=19595&l=search",
+	"arName":"29 ش الاحرار متفرع من ش البطل احمد عبد العزيز, الدقى, الجيزة",
+	"lat":"30.049099999999999",
+	"lng":"31.209499999999998",
+	"enName":"29 El Ahrar St. Off El Batal Ahmed Abdel Aziz St., Dokki, Giza"
+},
+		{	"profileId":"79096",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-for-appliances/79096?b=1&k=19595&l=search",
+	"arName":"7 ش خالد بن الوليد, المنصورة, الدقهلية",
+	"lat":"31.033389",
+	"lng":"31.396173999999998",
+	"enName":"7 Khaled Ibn El Walid St., El mansoura, El dakahleya"
+},
+		{	"profileId":"163750",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-for-appliances/163750?b=3&k=19595&l=search",
+	"arName":"11 ش المنصورة, سابا باشا, الاسكندرية",
+	"lat":"31.238797999999999",
+	"lng":"29.954936",
+	"enName":"11 El Mansoura St., Saba pasha, Alexandria"
+},
+		{	"profileId":"103093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-for-appliances/103093?b=5&k=19595&l=search",
+	"arName":"38 ش الثورة متفرع من ش البطل احمد عبد العزيز, المهندسين, الجيزة",
+	"lat":"30.048500000000001",
+	"lng":"31.209",
+	"enName":"38 El Thawra St. Off El Batal Ahmed Abdel Aziz St., Mohandeseen, Giza"
+},
+		{	"profileId":"79088",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-abd-for-appliances/79088?b=7&k=19595&l=search",
+	"arName":"خدمة العملاء, الدقى, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Dokki, Giza"
+}
+	]
+}]}

@@ -1,0 +1,32 @@
+{"items":[{	"arName":"اسماك المركبى",
+	"enName":"El Marakby Fish",
+	"hotline":"16707",
+	"facebook":"http://www.facebook.com/ElMarakby.Fishes",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Home Delivery",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"545913",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-marakby-fish/545913?b=2&k=16707&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"545899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-marakby-fish/545899?b=1&k=16707&l=search",
+	"arName":"ش التسعين الشمالى - مجمع البنوك, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.018933000000001",
+	"lng":"31.423435999999999",
+	"enName":"El Tesaeen El Shamaly St., Banks Complex, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

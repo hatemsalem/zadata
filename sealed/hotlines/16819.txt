@@ -1,0 +1,28 @@
+{"items":[{	"arName":"رواج لتجارة السيارات",
+	"enName":"Rawaj Auto Finance",
+	"hotline":"16819",
+	"facebook":"http://www.facebook.com/Rawaj-Auto-Finance-524174574392309/",
+	"web":"",
+	"arCategory":[
+		"سيارات - تجار - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Dealers, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"512779",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rawaj-auto-finance/512779?b=1&k=16819&l=search",
+	"arName":"خدمة العملاء, العجوزة, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Agouza, Giza"
+},
+		{	"profileId":"512777",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rawaj-auto-finance/512777?b=2&k=16819&l=search",
+	"arName":"120 ش النيل, العجوزة, الجيزة",
+	"lat":"30.045138000000001",
+	"lng":"31.21848",
+	"enName":"120 El Nil St., Agouza, Giza"
+}
+	]
+}]}

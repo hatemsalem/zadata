@@ -1,0 +1,25 @@
+{"items":[{	"arName":"مطاعم البرج للمأكولات البحرية",
+	"enName":"El Borg Restaurants For Sea Food",
+	"hotline":"16046",
+	"facebook":"http://www.facebook.com/elborg.restaurant",
+	"web":"",
+	"arCategory":[
+		"مطاعم",
+		"مطاعم صالات طعام",
+		"مطاعم توصيل الطلبات للمنازل"
+	],
+	"enCategories":[
+		"Restaurants",
+		"Restaurants Eat Out",
+		"Restaurants Home Delivery"
+	],
+	"contacts":[
+		{	"profileId":"553445",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-borg-restaurants-for-sea-food/553445?b=1&k=16046&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+}
+	]
+}]}

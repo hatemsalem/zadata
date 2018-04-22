@@ -1,0 +1,42 @@
+{"items":[{	"arName":"فوزى البنان",
+	"enName":"Fawzy El Banan",
+	"hotline":"19005",
+	"facebook":"",
+	"web":"http://www.fawzyelbanan.com/",
+	"arCategory":[
+		"شاى وبن"
+	],
+	"enCategories":[
+		"Tea & Coffee"
+	],
+	"contacts":[
+		{	"profileId":"194038",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawzy-el-banan/194038?b=1&k=19005&l=search",
+	"arName":"5 ش احمد قنديل متفرع من ش الطيران, مدينة نصر, القاهرة",
+	"lat":"30.075951",
+	"lng":"31.320454999999999",
+	"enName":"5 Ahmed Qandil St. Off El Tayaran St., Nasr city, Cairo"
+},
+		{	"profileId":"129684",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawzy-el-banan/129684?b=4&k=19005&l=search",
+	"arName":"4 ش محمود طلعت متفرع من ش الطيران, مدينة نصر, القاهرة",
+	"lat":"30.075900000000001",
+	"lng":"31.319900000000001",
+	"enName":"4 Mahmoud Talaat St. Off El Tayaran St., Nasr city, Cairo"
+},
+		{	"profileId":"176742",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawzy-el-banan/176742?b=3&k=19005&l=search",
+	"arName":"خدمة العملاء, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Nasr city, Cairo"
+},
+		{	"profileId":"391217",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fawzy-el-banan/391217?b=2&k=19005&l=search",
+	"arName":"19 ش الطاقة, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.059494000000001",
+	"lng":"31.360365000000002",
+	"enName":"19 El Taqqa St., 6th Zone, Nasr city, Cairo"
+}
+	]
+}]}

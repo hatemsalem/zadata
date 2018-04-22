@@ -1,0 +1,48 @@
+{"items":[{	"arName":"جمعية الباقيات الصالحات",
+	"enName":"El Baqeyat El Salehat Association",
+	"hotline":"16955",
+	"facebook":"http://www.facebook.com/elbakyat.elsal7at",
+	"web":"http://www.albaqyatalsalehat.net/",
+	"arCategory":[
+		"منظمات وجمعيات خيرية وتنموية وخدمات اجتماعية ومنظمات لا ربحية"
+	],
+	"enCategories":[
+		"Charitable, Non-profit & Social Services & Development Organizations"
+	],
+	"contacts":[
+		{	"profileId":"578801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baqeyat-el-salehat-association/578801?b=1&k=16955&l=search",
+	"arName":"خدمة العملاء, المقطم, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mokattam, Cairo"
+},
+		{	"profileId":"507536",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baqeyat-el-salehat-association/507536?b=2&k=16955&l=search",
+	"arName":"القطعة الاولى - - الهضبة الوسطى - الحى الثانى, المقطم, القاهرة",
+	"lat":"30.001425999999999",
+	"lng":"31.293455999999999",
+	"enName":"1St Plot, , Middle Hill, 2nd District, Mokattam, Cairo"
+}
+	]
+}, {	"arName":"مستشفى الباقيات الصالحات",
+	"enName":"El Baqeyat El Salehat Hospital",
+	"hotline":"16955",
+	"facebook":"http://www.facebook.com/elbakyat.elsal7at",
+	"web":"http://www.albaqyatalsalehat.net/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"512806",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-baqeyat-el-salehat-hospital/512806?b=3&k=16955&l=search",
+	"arName":"القطعة الاولى - - الهضبة الوسطى - الحى الثانى, المقطم, القاهرة",
+	"lat":"30.001425999999999",
+	"lng":"31.293455999999999",
+	"enName":"1St Plot, , Middle Hill, 2nd District, Mokattam, Cairo"
+}
+	]
+}]}

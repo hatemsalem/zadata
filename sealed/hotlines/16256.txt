@@ -1,0 +1,28 @@
+{"items":[{	"arName":"ديمة للسياحة",
+	"enName":"Dima Travel",
+	"hotline":"16256",
+	"facebook":"http://www.facebook.com/DimaTravel.Egypt",
+	"web":"http://www.dimatourism.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"460976",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dima-travel/460976?b=2&k=16256&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"447452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dima-travel/447452?b=1&k=16256&l=search",
+	"arName":"21 ش سيد زكريا خليل, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.103408000000002",
+	"lng":"31.373007999999999",
+	"enName":"21 Sayed Zakareya Khalil St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}

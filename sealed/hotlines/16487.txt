@@ -1,0 +1,21 @@
+{"items":[{	"arName":"المركز المصرى لاطفال الانابيب",
+	"enName":"Egyptian IVF Center",
+	"hotline":"16487",
+	"facebook":"http://www.facebook.com/egyptianivfcenter/",
+	"web":"http://www.egyptianivfcenter.com/",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"559466",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-ivf-center/559466?b=1&k=16487&l=search",
+	"arName":"خدمة طوارئ, حدائق المعادى, المعادى, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Emergency Service, Hadayek El Maadi, Maadi, Cairo"
+}
+	]
+}]}

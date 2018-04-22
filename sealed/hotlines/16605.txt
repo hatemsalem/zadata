@@ -1,0 +1,21 @@
+{"items":[{	"arName":"مركز رعاية وتثقيف المرضى - صانوفى افينتس",
+	"enName":"Patients Support Program - Sanofi Aventis",
+	"hotline":"16605",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"ادوية شركات"
+	],
+	"enCategories":[
+		"Pharmaceutical Companies"
+	],
+	"contacts":[
+		{	"profileId":"256135",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/patients-support-program-_-sanofi-aventis/256135?b=1&k=16605&l=search",
+	"arName":"الخط الساخن, الزيتون, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Hotline, El zaytoun, Cairo"
+}
+	]
+}]}

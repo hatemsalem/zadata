@@ -1,0 +1,21 @@
+{"items":[{	"arName":"ترافيل لاين ايجيبت",
+	"enName":"Traveline Egypt",
+	"hotline":"19729",
+	"facebook":"http://www.facebook.com/TRAVELINE.EGYPT",
+	"web":"http://www.traveline-eg.com/",
+	"arCategory":[
+		"سياحة وكالات"
+	],
+	"enCategories":[
+		"Travel Agents"
+	],
+	"contacts":[
+		{	"profileId":"59801",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/traveline-egypt/59801?b=1&k=19729&l=search",
+	"arName":"9 ش 266 متفرع من ش الجزائر , المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.976299999999998",
+	"lng":"31.277000000000001",
+	"enName":"9 Rd. 266 Off El Gazaer St., New Maadi, Maadi, Cairo"
+}
+	]
+}]}

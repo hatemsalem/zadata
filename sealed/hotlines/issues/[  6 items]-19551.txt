@@ -1,0 +1,128 @@
+{"items":[{	"arName":"سمارت لايف",
+	"enName":"Smart Life",
+	"hotline":"19551",
+	"facebook":"",
+	"web":"http://www.icestate.com/doc_ar/smart_life.htm",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"386654",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-life/386654?b=6&k=19551&l=search",
+	"arName":"القطعة 65 ب - ش التسعين - منطقة المستثمرين الجنوبية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0112937",
+	"lng":"31.487846000000001",
+	"enName":"Plot 65 B, El Tesaeen St., Southern Investors Area, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"اى سى جروب - مجموعة المركز العالمى",
+	"enName":"I.C. Group - International Center Group",
+	"hotline":"19551",
+	"facebook":"http://www.facebook.com/icestate",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"138703",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i.c.-group-_-international-center-group/138703?b=2&k=19551&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"138701",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/i.c.-group-_-international-center-group/138701?b=3&k=19551&l=search",
+	"arName":"12 ش الشهيد محمود العشرى, تريومف, مصر الجديدة, القاهرة",
+	"lat":"30.099799999999998",
+	"lng":"31.348700000000001",
+	"enName":"12 El Shaheed Mahmoud El Ashry St., Triumph Square, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"ايزى لايف",
+	"enName":"Easy Life",
+	"hotline":"19551",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"386656",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/easy-life/386656?b=1&k=19551&l=search",
+	"arName":"القطعة 65ب - ش التسعين - منطقة المستثمرين الجنوبية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0112937",
+	"lng":"31.487846000000001",
+	"enName":"Plot 65B, El Tesaeen St., Southern Investors Area, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"لايف مول",
+	"enName":"Life Mall",
+	"hotline":"19551",
+	"facebook":"",
+	"web":"http://www.icestate.com/",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"386662",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-mall/386662?b=4&k=19551&l=search",
+	"arName":"القطعة 65 ب - ش التسعين - منطقة المستثمرين الجنوبية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0112937",
+	"lng":"31.487846000000001",
+	"enName":"Plot 65 B, El Tesaeen St., Southern Investors Area, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"سمارت لايف تاون",
+	"enName":"Smart Life Town",
+	"hotline":"19551",
+	"facebook":"",
+	"web":"http://www.icestate.com/doc_ar/smart_life.htm",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"374617",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-life-town/374617?b=7&k=19551&l=search",
+	"arName":"القطعة 65 ب - ش التسعين - منطقة المستثمرين الجنوبية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0112937",
+	"lng":"31.487846000000001",
+	"enName":"Plot 65 B, El Tesaeen St., Southern Investors Area, 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"لايف فيو",
+	"enName":"Life View",
+	"hotline":"19551",
+	"facebook":"",
+	"web":"http://www.icestate.com/doc_ar/view_life.htm",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"386659",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/life-view/386659?b=5&k=19551&l=search",
+	"arName":"القطعة 65 ب - ش التسعين - منطقة المستثمرين الجنوبية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0112937",
+	"lng":"31.487846000000001",
+	"enName":"Plot 65 B, El Tesaeen St., Southern Investors Zone, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

@@ -1,0 +1,48 @@
+{"items":[{	"arName":"هاى تكنولوجى",
+	"enName":"High Technology",
+	"hotline":"19940",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"تكييف هواء"
+	],
+	"enCategories":[
+		"Air Conditioning"
+	],
+	"contacts":[
+		{	"profileId":"55278",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-technology/55278?b=2&k=19940&l=search",
+	"arName":"61 ش مصطفى النحاس, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"30.054492",
+	"lng":"31.346986999999999",
+	"enName":"61 Mostafa El Nahhas St., 8th District, Nasr city, Cairo"
+},
+		{	"profileId":"123432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/high-technology/123432?b=1&k=19940&l=search",
+	"arName":"خدمة العملاء, الحى الثامن, مدينة نصر, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 8th District, Nasr city, Cairo"
+}
+	]
+}, {	"arName":"سال للاستثمار",
+	"enName":"Saal Invest",
+	"hotline":"19940",
+	"facebook":"",
+	"web":"http://www.saalinvest.com/",
+	"arCategory":[
+		"فنادق ومطاعم شركات ادارة"
+	],
+	"enCategories":[
+		"Hotel & Restaurant Management"
+	],
+	"contacts":[
+		{	"profileId":"397441",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/saal-invest/397441?b=3&k=19940&l=search",
+	"arName":"60 ش عبد الله العربى امتداد ش الطيران, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"30.044633999999999",
+	"lng":"31.329201000000001",
+	"enName":"60 Abdullah El Araby St. Extension Of El Tayaran St., 7th District, Nasr city, Cairo"
+}
+	]
+}]}

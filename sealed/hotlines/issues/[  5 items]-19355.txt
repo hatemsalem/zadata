@@ -1,0 +1,124 @@
+{"items":[{	"arName":"دريم بارك",
+	"enName":"Dream Park",
+	"hotline":"19355",
+	"facebook":"http://www.facebook.com/DreamparkEg",
+	"web":"http://www.dreamparkegypt.com/",
+	"arCategory":[
+		"ملاعب واماكن ترفيه"
+	],
+	"enCategories":[
+		"Playgrounds & Amusement Parks"
+	],
+	"contacts":[
+		{	"profileId":"375",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-park/375?b=8&k=19355&l=search",
+	"arName":"طريق الواحات اكتوبر, السادس من اكتوبر, الجيزة",
+	"lat":"29.965682999999999",
+	"lng":"31.057566999999999",
+	"enName":"Oasis October Rd., 6th of october, Giza"
+},
+		{	"profileId":"272941",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-park/272941?b=7&k=19355&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}, {	"arName":"دريم لاند",
+	"enName":"Dream Land",
+	"hotline":"19355",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"126170",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-land/126170?b=5&k=19355&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+},
+		{	"profileId":"5878",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dream-land/5878?b=6&k=19355&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.962177000000001",
+	"lng":"31.045074",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+}
+	]
+}, {	"arName":"خيمة على بابا",
+	"enName":"Ali Baba Tent",
+	"hotline":"19355",
+	"facebook":"",
+	"web":"http://www.dreamparkegypt.com/alibaba%20tent.html",
+	"arCategory":[
+		"ماكولات شرقية",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Oriental Food",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"141363",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-baba-tent/141363?b=2&k=19355&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.966056999999999",
+	"lng":"31.057863999999999",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+}
+	]
+}, {	"arName":"مجموعة شركات بهجت",
+	"enName":"Bahgat Group",
+	"hotline":"19355",
+	"facebook":"http://www.facebook.com/bahgatgroupegypt",
+	"web":"http://www.bahgat.com/",
+	"arCategory":[
+		"اجهزة منزلية"
+	],
+	"enCategories":[
+		"Appliances"
+	],
+	"contacts":[
+		{	"profileId":"55832",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bahgat-group/55832?b=3&k=19355&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.959907000000001",
+	"lng":"31.059716999999999",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
+		{	"profileId":"126623",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bahgat-group/126623?b=4&k=19355&l=search",
+	"arName":"خدمة العملاء, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 6th of october, Giza"
+}
+	]
+}, {	"arName":"قاعة افراح الف ليلة",
+	"enName":"Alf Lela Wedding Hall",
+	"hotline":"19355",
+	"facebook":"",
+	"web":"http://www.dreamparkegypt.com/down%20Town.htm",
+	"arCategory":[
+		"قاعات افراح"
+	],
+	"enCategories":[
+		"Wedding Halls"
+	],
+	"contacts":[
+		{	"profileId":"225897",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alf-lela-wedding-hall/225897?b=1&k=19355&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"29.965682999999999",
+	"lng":"31.057566999999999",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+}
+	]
+}]}

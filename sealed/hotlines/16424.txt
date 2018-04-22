@@ -1,0 +1,133 @@
+{"items":[{	"arName":"المنصور للسيارات",
+	"enName":"Al Mansour Automotive",
+	"hotline":"16424",
+	"facebook":"http://www.facebook.com/Al.Mansour.Automotive.Company",
+	"web":"http://www.almansourauto.com/",
+	"arCategory":[
+		"سيارات - وكلاء حصريون - سيارات جديدة"
+	],
+	"enCategories":[
+		"Cars - Sole Agents, New Cars"
+	],
+	"contacts":[
+		{	"profileId":"72128",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/72128?b=4&k=16424&l=search",
+	"arName":"44 ش عبد السلام عارف, المنصورة, الدقهلية",
+	"lat":"31.030853799999999",
+	"lng":"31.377684500000001",
+	"enName":"44 Abdel Salam Aref St., El mansoura, El dakahleya"
+},
+		{	"profileId":"72129",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/72129?b=7&k=16424&l=search",
+	"arName":"كم 85 - طريق القاهرة اسكندرية الزراعى - قرية دفرة, طنطا, الغربية",
+	"lat":"30.728518999999999",
+	"lng":"31.029228",
+	"enName":"Km 85, Cairo Alex Agricultural Rd., Defra Village, Tanta, El gharbeya"
+},
+		{	"profileId":"430520",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/430520?b=9&k=16424&l=search",
+	"arName":"طريق القبارى, محرم بك, الاسكندرية",
+	"lat":"31.178016",
+	"lng":"29.921050999999999",
+	"enName":"El Qabbary Rd., Moharram bey, Alexandria"
+},
+		{	"profileId":"138932",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/138932?b=1&k=16424&l=search",
+	"arName":"18 ش محمد فريد, ميدان هليوبوليس, مصر الجديدة, القاهرة",
+	"lat":"30.112307999999999",
+	"lng":"31.334025",
+	"enName":"18 Mohamed Farid St., Heliopolis Square, Heliopolis, Cairo"
+},
+		{	"profileId":"134563",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/134563?b=10&k=16424&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"6300",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/6300?b=12&k=16424&l=search",
+	"arName":"54 سور نادى الزمالك - ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.056643000000001",
+	"lng":"31.204324",
+	"enName":"54 Zamalek Club Wall, Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"72126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/72126?b=13&k=16424&l=search",
+	"arName":"8 ش كوبرى الدندرة, وسط البلد, قنا",
+	"lat":"26.159006000000002",
+	"lng":"32.706448999999999",
+	"enName":"8 Kobry El Dandara St., Downtown, Qena"
+},
+		{	"profileId":"72127",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/72127?b=3&k=16424&l=search",
+	"arName":"3 ش الجمهورية, حى غرب, سوهاج",
+	"lat":"26.561554999999998",
+	"lng":"31.698067000000002",
+	"enName":"3 El Gomhoureya St., Gharb district, Sohag"
+},
+		{	"profileId":"72133",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/72133?b=14&k=16424&l=search",
+	"arName":"كم 4.5 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.016242200000001",
+	"lng":"31.101144099999999",
+	"enName":"Km 4.5,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"430603",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/430603?b=6&k=16424&l=search",
+	"arName":"16 سور نادى الزمالك - ش 26 يوليو, المهندسين, الجيزة",
+	"lat":"30.057784000000002",
+	"lng":"31.206412",
+	"enName":"16 Zamalek Club Wall, 26th Of July St., Mohandeseen, Giza"
+},
+		{	"profileId":"72131",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/72131?b=8&k=16424&l=search",
+	"arName":"كم 28 - طريق اسكندرية القاهرة الصحراوى, العامرية, الاسكندرية",
+	"lat":"31.047253000000001",
+	"lng":"29.786071",
+	"enName":"Km 28, Alex Cairo Desert Rd., Amreya, Alexandria"
+},
+		{	"profileId":"72132",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/72132?b=2&k=16424&l=search",
+	"arName":"84 ش الطيران, الحى السابع, مدينة نصر, القاهرة",
+	"lat":"30.055344000000002",
+	"lng":"31.326968000000001",
+	"enName":"84 El Tayaran St., 7th District, Nasr city, Cairo"
+},
+		{	"profileId":"430605",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/430605?b=17&k=16424&l=search",
+	"arName":"طريق اسيوط المطار - بنى غالب, اسيوط, اسيوط",
+	"lat":"27.186012999999999",
+	"lng":"31.050464000000002",
+	"enName":"Asiout Airport Rd., Bani Ghaleb, Assyout, Assyout"
+},
+		{	"profileId":"72130",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/72130?b=5&k=16424&l=search",
+	"arName":"10 ش الكازينو - عمارة الاوقاف, سان استيفانو, الاسكندرية",
+	"lat":"31.244613999999999",
+	"lng":"29.966764000000001",
+	"enName":"10 El Casino St., El Awqaf Bldg., San stefano, Alexandria"
+},
+		{	"profileId":"229952",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/229952?b=15&k=16424&l=search",
+	"arName":"17 ش عبد الخالق ثروت متفرع من ش الجيش, اسيوط, اسيوط",
+	"lat":"27.183541000000002",
+	"lng":"31.183941000000001",
+	"enName":"17 Abdel Khaliq Tharwat St. Off El Guish St., Assyout, Assyout"
+},
+		{	"profileId":"355163",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/355163?b=16&k=16424&l=search",
+	"arName":"كم 6.5 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
+	"lat":"30.025854500000001",
+	"lng":"31.091445199999999",
+	"enName":"Km 6.5,, Cairo alex desert rd., Giza"
+},
+		{	"profileId":"150172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-automotive/150172?b=11&k=16424&l=search",
+	"arName":"30 ش فوزى معاذ ميدان فيكتور عمانويل, سموحة, الاسكندرية",
+	"lat":"31.214081",
+	"lng":"29.943933999999999",
+	"enName":"30 Fawzy Moaz St. Victor Emanuel Sq., Semouha, Alexandria"
+}
+	]
+}]}

@@ -1,0 +1,46 @@
+{"items":[{	"arName":"الطازج",
+	"enName":"Al Tazaj",
+	"hotline":"19018",
+	"facebook":"http://www.facebook.com/AlTazajEg",
+	"web":"",
+	"arCategory":[
+		"وجبات سريعة",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Fast Food",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"104892",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tazaj/104892?b=1&k=19018&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, وسط البلد, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Downtown, Cairo"
+},
+		{	"profileId":"272405",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tazaj/272405?b=2&k=19018&l=search",
+	"arName":"18 ش احمد قاسم جودة متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
+	"lat":"30.059104000000001",
+	"lng":"31.336848",
+	"enName":"18 Ahmed Qassem Gouda St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
+},
+		{	"profileId":"104889",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tazaj/104889?b=3&k=19018&l=search",
+	"arName":"30 ش طلعت حرب, وسط البلد, القاهرة",
+	"lat":"30.050093",
+	"lng":"31.240064",
+	"enName":"30 Talaat Harb St., Downtown, Cairo"
+},
+		{	"profileId":"104912",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tazaj/104912?b=4&k=19018&l=search",
+	"arName":"18 ش الميناء الشرقية, محطة الرمل, الاسكندرية",
+	"lat":"31.199725000000001",
+	"lng":"29.898021",
+	"enName":"18 El Minaa El Sharqeya St., Raml station, Alexandria"
+}
+	]
+}]}

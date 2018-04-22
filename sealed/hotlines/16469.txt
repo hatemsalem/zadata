@@ -1,0 +1,93 @@
+{"items":[{	"arName":"ديلايت سويت هاوس",
+	"enName":"Delight Sweet House",
+	"hotline":"16469",
+	"facebook":"http://www.facebook.com/delight1egypt",
+	"web":"http://www.delightpastries.com/",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"453573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/453573?b=9&k=16469&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, جليم, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Glim, Alexandria"
+},
+		{	"profileId":"204762",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/204762?b=8&k=16469&l=search",
+	"arName":"89 ش فؤاد تقاطع ش البطالسة, باب شرق, الاسكندرية",
+	"lat":"31.199511999999999",
+	"lng":"29.910529",
+	"enName":"89 Fouad St. Intersection Of El Batalesa St., Bab shark, Alexandria"
+},
+		{	"profileId":"454385",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/454385?b=10&k=16469&l=search",
+	"arName":"ش البرت الاول, سموحة, الاسكندرية",
+	"lat":"31.214476000000001",
+	"lng":"29.939385999999999",
+	"enName":"Albert El Awal St., Semouha, Alexandria"
+},
+		{	"profileId":"265899",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/265899?b=2&k=16469&l=search",
+	"arName":"2 ش بورسعيد, المعادى الجديدة, المعادى, القاهرة",
+	"lat":"29.959347999999999",
+	"lng":"31.269974999999999",
+	"enName":"2 Port Said St., New Maadi, Maadi, Cairo"
+},
+		{	"profileId":"573083",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/573083?b=3&k=16469&l=search",
+	"arName":"18 ش صلاح الدين متفرع من ش شجرة الدر, الزمالك, القاهرة",
+	"lat":"30.059200000000001",
+	"lng":"31.217600000000001",
+	"enName":"18 Salah El Din St. Off Shagaret El Dor St., Zamalek, Cairo"
+},
+		{	"profileId":"223585",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/223585?b=4&k=16469&l=search",
+	"arName":"15 ش البطل احمد عبد العزيز تقاطع ش عبد المنعم رياض, المهندسين, الجيزة",
+	"lat":"30.052222",
+	"lng":"31.208172000000001",
+	"enName":"15 El Batal Ahmed Abdel Aziz St. Intersection Of Abdel Moneim Riad St., Mohandeseen, Giza"
+},
+		{	"profileId":"468242",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/468242?b=11&k=16469&l=search",
+	"arName":"بفرلى هيلز, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.073081999999999",
+	"lng":"30.946187999999999",
+	"enName":"Beverly Hills, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"454370",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/454370?b=5&k=16469&l=search",
+	"arName":"39 ش سوريا, رشدى, الاسكندرية",
+	"lat":"31.232693000000001",
+	"lng":"29.947030000000002",
+	"enName":"39 Syria St., Roushdy, Alexandria"
+},
+		{	"profileId":"107789",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/107789?b=6&k=16469&l=search",
+	"arName":"10 ش احمد يحيى, جليم, الاسكندرية",
+	"lat":"31.239353000000001",
+	"lng":"29.962506000000001",
+	"enName":"10 Ahmed Yehia St., Glim, Alexandria"
+},
+		{	"profileId":"164870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/164870?b=1&k=16469&l=search",
+	"arName":"75 ش الميرغنى, كلية البنات, مصر الجديدة, القاهرة",
+	"lat":"30.084432",
+	"lng":"31.330159999999999",
+	"enName":"75 El Merghany St., koleyet El Banat, Heliopolis, Cairo"
+},
+		{	"profileId":"107791",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/delight-sweet-house/107791?b=7&k=16469&l=search",
+	"arName":"مارينا 5, مارينا, الساحل الشمالى",
+	"lat":"30.838905",
+	"lng":"28.969187999999999",
+	"enName":"Marina 5, Marina, North coast"
+}
+	]
+}]}

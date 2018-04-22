@@ -1,0 +1,48 @@
+{"items":[{	"arName":"ايجى جاب للتطوير",
+	"enName":"Egygab Developments",
+	"hotline":"19961",
+	"facebook":"http://www.facebook.com/EgyGabDevelopments",
+	"web":"http://www.egygab.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"355865",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egygab-developments/355865?b=2&k=19961&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"499977",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egygab-developments/499977?b=1&k=19961&l=search",
+	"arName":"43 ش الحرية متفرع من ش النزهة, الماظة, مصر الجديدة, القاهرة",
+	"lat":"30.087399999999999",
+	"lng":"31.342600000000001",
+	"enName":"43 El Horreya St. Off El Nozha St., Almaza, Heliopolis, Cairo"
+}
+	]
+}, {	"arName":"فاميلى سيتى",
+	"enName":"Family City",
+	"hotline":"19961",
+	"facebook":"",
+	"web":"http://www.egygab.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"377559",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/family-city/377559?b=3&k=19961&l=search",
+	"arName":"القطعة 28 أ - - منطقة المستثمرين الشمالية, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Plot 28 A, , North Investors Area, 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

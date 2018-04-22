@@ -1,0 +1,119 @@
+{"items":[{	"arName":"حلوان لتداول الاوراق المالية",
+	"enName":"Helwan Securities",
+	"hotline":"19708",
+	"facebook":"http://www.facebook.com/HelwanSecurities",
+	"web":"http://www.helwanbb.com/",
+	"arCategory":[
+		"اسهم وسندات سماسرة"
+	],
+	"enCategories":[
+		"Stock & Bond Brokers"
+	],
+	"contacts":[
+		{	"profileId":"261340",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/261340?b=1&k=19708&l=search",
+	"arName":"13 ش عبد الرازق السنهورى متفرع من ش عباس العقاد, المنطقة السادسة, مدينة نصر, القاهرة",
+	"lat":"30.062093999999998",
+	"lng":"31.339589",
+	"enName":"13 Abdel Razeq El Sanhoury St. Off Abbas El Akkad St., 6th Zone, Nasr city, Cairo"
+},
+		{	"profileId":"97847",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/97847?b=6&k=19708&l=search",
+	"arName":"ابراج الوطنية - ش الجمهورية - الدور 3 شقة 312, حى شرق, اسيوط",
+	"lat":"27.191758",
+	"lng":"31.186945000000001",
+	"enName":"El Wataneya Towers, el gomhoureya st., Floor 3 Flat 312, Shark district, Assyout"
+},
+		{	"profileId":"262154",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/262154?b=15&k=19708&l=search",
+	"arName":"15 ش فلسطين - منشية المصرى, مغاغة, المنيا",
+	"lat":"28.650815999999999",
+	"lng":"30.842137000000001",
+	"enName":"15 Palestine St., Mansheyet El Masry, Magaghah, El menia"
+},
+		{	"profileId":"262122",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/262122?b=5&k=19708&l=search",
+	"arName":"ش الصراف, جرجا, سوهاج",
+	"lat":"",
+	"lng":"",
+	"enName":"El Sarraf St., Gerga, Sohag"
+},
+		{	"profileId":"160267",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/160267?b=4&k=19708&l=search",
+	"arName":"26 برج الحرمين - ش الثورة - ش السلطان حسين سابقا - الدور 5, حى الافرنج, الاسماعيلية",
+	"lat":"30.592001199999999",
+	"lng":"32.276012600000001",
+	"enName":"26 El Haramain Tower, El Thawra St., El Sultan Hussein St. Previously, Floor 5, El afrang district, Ismaileya"
+},
+		{	"profileId":"97843",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/97843?b=9&k=19708&l=search",
+	"arName":"48 ش الجمهورية ميدان بالاس - الدور 2, وسط البلد, المنيا",
+	"lat":"28.098503000000001",
+	"lng":"30.756343999999999",
+	"enName":"48 El Gomhoureya St. Palace Sq., Floor 2, Downtown, El menia"
+},
+		{	"profileId":"261452",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/261452?b=8&k=19708&l=search",
+	"arName":"40 برج طيبة - ش احمد شوقى - الدور 4, منشأة لطف الله, الفيوم",
+	"lat":"29.313275000000001",
+	"lng":"30.840585999999998",
+	"enName":"40 Tiba Tower, Ahmed Shawky St., Floor 4, Manshaat lotfallah, El fayoum"
+},
+		{	"profileId":"97845",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/97845?b=14&k=19708&l=search",
+	"arName":"4 ش سعد زغلول, الزقازيق, الشرقية",
+	"lat":"0",
+	"lng":"0",
+	"enName":"4 Saad Zaghloul St., El zagazig, El sharkeya"
+},
+		{	"profileId":"262124",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/262124?b=13&k=19708&l=search",
+	"arName":"10 ش زين العابدين, بنى مزار, المنيا",
+	"lat":"28.495238000000001",
+	"lng":"30.806479",
+	"enName":"10 Zein El Abedeen St., Bani mazar, El menia"
+},
+		{	"profileId":"185770",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/185770?b=3&k=19708&l=search",
+	"arName":"خدمة العملاء, حلوان, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Helwan, Cairo"
+},
+		{	"profileId":"261426",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/261426?b=7&k=19708&l=search",
+	"arName":"20 ش عبد العال حلمى متفرع من ش المديرية القديم, دمياط, دمياط",
+	"lat":"",
+	"lng":"",
+	"enName":"20 Abdel Aal Helmy St. Off El Modereya El Qadim St., Damietta, Damietta"
+},
+		{	"profileId":"261412",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/261412?b=12&k=19708&l=search",
+	"arName":"82 عمارة نوبل واكس - ش الشيراتون, سقالة, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"82 Nobel Wax Bldg., Sheraton Rd., Sekala, Hurghada"
+},
+		{	"profileId":"185080",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/185080?b=11&k=19708&l=search",
+	"arName":"برج الامراء - ش المختلط - الدور 2, المنصورة, الدقهلية",
+	"lat":"",
+	"lng":"",
+	"enName":"El Omraa Tower, El Mokhtalat St., Floor 2, El mansoura, El dakahleya"
+},
+		{	"profileId":"49477",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/49477?b=2&k=19708&l=search",
+	"arName":"40 أ ش محمد سيد احمد, حلوان, القاهرة",
+	"lat":"29.847335000000001",
+	"lng":"31.331800999999999",
+	"enName":"40 A Mohamed Sayed Ahmed St., Helwan, Cairo"
+},
+		{	"profileId":"436554",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/helwan-securities/436554?b=10&k=19708&l=search",
+	"arName":"برج المهندسين - ش الجمهورية, حى غرب, سوهاج",
+	"lat":"26.563421000000002",
+	"lng":"31.697444999999998",
+	"enName":"El Mohandeseen Tower, El Gomhoureya St., Gharb district, Sohag"
+}
+	]
+}]}

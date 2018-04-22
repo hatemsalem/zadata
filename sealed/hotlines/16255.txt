@@ -1,0 +1,100 @@
+{"items":[{	"arName":"حلوانى مانا",
+	"enName":"Manna Patisserie",
+	"hotline":"16255",
+	"facebook":"http://www.facebook.com/mannapatisserie",
+	"web":"http://www.mannaegypt.com/",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مطاعم"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Restaurants"
+	],
+	"contacts":[
+		{	"profileId":"339835",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/339835?b=7&k=16255&l=search",
+	"arName":"33 ابراج كونتننتال - ش فوزى معاذ, سموحة, الاسكندرية",
+	"lat":"31.213994",
+	"lng":"29.944662999999998",
+	"enName":"33 Continental Towers, Fawzy Moaz St., Semouha, Alexandria"
+},
+		{	"profileId":"39870",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/39870?b=3&k=16255&l=search",
+	"arName":"177 ش عبد السلام عارف, ثروت, الاسكندرية",
+	"lat":"31.247039000000001",
+	"lng":"29.968992",
+	"enName":"177 Abd El Salam Aref St., Tharwat, Alexandria"
+},
+		{	"profileId":"140021",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/140021?b=6&k=16255&l=search",
+	"arName":"كم 82.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
+	"lat":"30.822212",
+	"lng":"29.173832000000001",
+	"enName":"Km 82.5,, Alex. matrouh desert rd., North coast"
+},
+		{	"profileId":"504601",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/504601?b=2&k=16255&l=search",
+	"arName":"67 ش فؤاد - طريق الحرية, الازاريطة, الاسكندرية",
+	"lat":"31.198463",
+	"lng":"29.907917999999999",
+	"enName":"67 Foad St., El Horreya Rd., Azarita, Alexandria"
+},
+		{	"profileId":"504574",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/504574?b=1&k=16255&l=search",
+	"arName":"كم 128 - طريق اسكندرية مطروح الصحراوى, سيدى عبد الرحمن, الساحل الشمالى",
+	"lat":"30.952549000000001",
+	"lng":"28.76932",
+	"enName":"Km 128, Alex Matrouh Desert Rd., Sidi abdel rahman, North coast"
+},
+		{	"profileId":"140573",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/140573?b=11&k=16255&l=search",
+	"arName":"6 ابراج شيراتون المنتزة -, المنتزة, المنتزه, الاسكندرية",
+	"lat":"31.280768999999999",
+	"lng":"30.014205",
+	"enName":"6 Sheraton El Montazah Towers,, EL MONTAZA, El montazah, Alexandria"
+},
+		{	"profileId":"339839",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/339839?b=10&k=16255&l=search",
+	"arName":"69 ش السلطان حسين, الشلالات, الاسكندرية",
+	"lat":"31.202193999999999",
+	"lng":"29.911517",
+	"enName":"69 El Sultan Hussein St., El shalalat, Alexandria"
+},
+		{	"profileId":"91565",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/91565?b=4&k=16255&l=search",
+	"arName":"115 ش البيطاش, البيطاش, الاسكندرية",
+	"lat":"31.127254000000001",
+	"lng":"29.781253",
+	"enName":"115 El Bitash St., El bitash, Alexandria"
+},
+		{	"profileId":"504560",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/504560?b=9&k=16255&l=search",
+	"arName":"سور دار القوات البحرية المحروسة - طريق الجيش - طابية سيدى بشر, سيدى بشر, الاسكندرية",
+	"lat":"31.253969000000001",
+	"lng":"29.973766000000001",
+	"enName":"El Mahrousa Navy Guest House Wall, El Guish Rd., Tabeyet Sidi Beshr, Sidi beshr, Alexandria"
+},
+		{	"profileId":"501470",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/501470?b=12&k=16255&l=search",
+	"arName":"طريق الحرية, سبورتنج, الاسكندرية",
+	"lat":"31.218214",
+	"lng":"29.933236999999998",
+	"enName":"El Horreya Rd., Sporting, Alexandria"
+},
+		{	"profileId":"339797",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/339797?b=5&k=16255&l=search",
+	"arName":"7 ش سوريا - مبنى رشدى هاوس, رشدى, الاسكندرية",
+	"lat":"31.228929000000001",
+	"lng":"29.950942999999999",
+	"enName":"7 Syria St., Roshdy House Bldg., Roushdy, Alexandria"
+},
+		{	"profileId":"323655",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/323655?b=8&k=16255&l=search",
+	"arName":"خدمة توصيل الطلبات للمنازل, ثروت, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Home Delivery, Tharwat, Alexandria"
+}
+	]
+}]}

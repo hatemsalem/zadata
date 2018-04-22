@@ -1,0 +1,21 @@
+{"items":[{	"arName":"سوبريمو للمطابخ",
+	"enName":"Superemo Kitchens",
+	"hotline":"16081",
+	"facebook":"http://www.facebook.com/suprimo.kitchens",
+	"web":"",
+	"arCategory":[
+		"مطابخ"
+	],
+	"enCategories":[
+		"Kitchens"
+	],
+	"contacts":[
+		{	"profileId":"531873",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/superemo-kitchens/531873?b=1&k=16081&l=search",
+	"arName":"25 ب ش الثروة المعدنية, حدائق الاهرام, الهرم, الجيزة",
+	"lat":"29.980839",
+	"lng":"31.109155000000001",
+	"enName":"25 B El Tharwa El Maadaneya St., Hadayek El Ahram, El haram, Giza"
+}
+	]
+}]}

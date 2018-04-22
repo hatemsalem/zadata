@@ -1,0 +1,21 @@
+{"items":[{	"arName":"الشراع للوساطة التأمينية",
+	"enName":"Al Sheraa For Insurance Brokerage",
+	"hotline":"16740",
+	"facebook":"http://www.facebook.com/pg/SIB.Sheraa",
+	"web":"http://www.sib-eg.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"541788",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-sheraa-for-insurance-brokerage/541788?b=1&k=16740&l=search",
+	"arName":"8 ش عبد الحميد بدوى, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"30.103270999999999",
+	"lng":"31.379854999999999",
+	"enName":"8 Abdel Hamid Badawy St., Sheraton Bldgs., Heliopolis, Cairo"
+}
+	]
+}]}
