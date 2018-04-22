@@ -1,24 +1,27 @@
 echo "Trying to stop tomcat,  Press any key to continue"
 pause
-cd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"
+pushd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"
 call shutdown.bat
-echo "Removing resources folder, Press Enter to continue"
+popd
 pause
-rd /s /q c:\zadata\resources
-rd /s /q c:\zadata\init\hotlines
-rd /s /q c:\zadata\init\cat_res
-rd /s /q c:\zadata\init\res
+echo "Removing work folder"
+rd /s /q c:\zadata\work
 echo "Kindly start up the tomcat, then press enter"
 pause
 REM call startup.bat
-echo "Copying init data files--Categories, Press any key to continue"
-cd \zadata
-pause
-copy c:\zadata\init\sealed\categories.csv c:\zadata\init\*.*
+echo "Copying init data files Press any key to continue"
+xcopy c:\zadata\sealed c:\zadata\work\ /e/t
+xcopy C:\zadata\sealed\categories\*.* C:\zadata\work\categories\*.* /E
 echo "Copying init data files--16xxx hotlines,Press any key to continue"
 pause
-md c:\zadata\init\hotlines
-copy c:\hotlines\16*.txt c:\zadata\init\hotlines\*.*
-pause 
-copy c:\hotlines\19*.txt c:\zadata\init\hotlines\*.*
+xcopy C:\zadata\sealed\hotlines\16*.* C:\zadata\work\hotlines\*.* 
+xcopy C:\zadata\sealed\hotlines\issues\*16113.* C:\zadata\work\hotlines\*.* 
+xcopy C:\zadata\sealed\hotlines\issues\*16404.* C:\zadata\work\hotlines\*.* 
+xcopy C:\zadata\sealed\hotlines\issues\*16061.* C:\zadata\work\hotlines\*.* 
+xcopy C:\zadata\sealed\hotlines\issues\*16257.* C:\zadata\work\hotlines\*.* 
+echo "Copying init data files--19xxx hotlines,Press any key to continue"
 pause
+xcopy C:\zadata\sealed\hotlines\19*.* C:\zadata\work\hotlines\*.* 
+echo "Copying Logos,Press any key to continue"
+pause
+xcopy C:\zadata\sealed\logos\*.* C:\zadata\work\logos\*.* /E
