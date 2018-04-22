@@ -1,3 +1,4 @@
+echo off
 echo "Trying to stop tomcat,  Press any key to continue"
 pause
 pushd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"
