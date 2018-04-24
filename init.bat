@@ -1,11 +1,17 @@
 echo off
 echo "Trying to stop tomcat,  Press any key to continue"
+echo "========================="
 pause
 pushd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"
 call shutdown.bat
 popd
-pause
+
+call rebuildBE.bat 
+
+
 echo "Removing work folder"
+echo "========================="
+pause
 rd /s /q c:\zadata\work
 echo "Kindly start up the tomcat, then press enter"
 pause

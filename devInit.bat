@@ -1,10 +1,21 @@
 echo off
-echo "Please stop Tomcat"
+echo "Trying to stop tomcat,  Press any key to continue"
+echo "========================="
 pause
+pushd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"
+call shutdown.bat
+popd
+
+REM call rebuildBE.bat 
+
+
 echo "Removing work folder"
+echo "========================="
+pause
 rd /s /q c:\zadata\work
 echo "Kindly start up the tomcat, then press enter"
 pause
+REM call startup.bat
 echo "Copying init data files Press any key to continue"
 xcopy c:\zadata\sealed c:\zadata\work\ /e/t
 xcopy C:\zadata\sealed\categories\*.* C:\zadata\work\categories\*.* /E
