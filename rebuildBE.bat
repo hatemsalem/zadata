@@ -1,4 +1,12 @@
 echo off
+echo "Trying to stop tomcat,  Press any key to continue"
+echo "========================="
+pause
+pushd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"
+call shutdown.bat
+popd
+
+echo off
 echo "Rebuild ZobonApp Backend"
 echo "========================="
 pause
