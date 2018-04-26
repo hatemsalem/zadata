@@ -1,12 +1,7 @@
 echo off
-echo "Trying to stop tomcat,  Press any key to continue"
+echo "Kindly, stop tomcat"
 echo "========================="
 pause
-pushd "C:\Program Files\Apache Software Foundation\Tomcat 9.0\bin"
-call shutdown.bat
-popd
-
-REM call rebuildBE.bat 
 
 
 echo "Removing work folder"
