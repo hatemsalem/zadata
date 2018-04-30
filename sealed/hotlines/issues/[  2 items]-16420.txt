@@ -1,7 +1,7 @@
 {"items":[{	"arName":"توبى كمبيوتر",
 	"enName":"2B Computer Egypt",
 	"hotline":"16420",
-	"facebook":"http://www.facebook.com/2BOfficialPage",
+	"facebook":"http://www.facebook.com/2BEgypt",
 	"web":"http://www.2bcomputer.com/",
 	"arCategory":[
 		"كمبيوتر اجهزة وقطع غيار"
@@ -39,7 +39,7 @@
 	"enName":"142 El Laselky St. Intersection Of El Nasr St., New Maadi, Maadi, Cairo"
 },
 		{	"profileId":"315677",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/315677?b=14&k=16420&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/315677?b=13&k=16420&l=search",
 	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
 	"lat":"30.005434000000001",
 	"lng":"30.974428",
@@ -88,7 +88,7 @@
 	"enName":"18 El Bostan St., Bab el louk, Cairo"
 },
 		{	"profileId":"242483",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/242483?b=13&k=16420&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/2b-computer-egypt/242483?b=14&k=16420&l=search",
 	"arName":"7 ميدان سفنكس, المهندسين, الجيزة",
 	"lat":"30.060195",
 	"lng":"31.208638000000001",

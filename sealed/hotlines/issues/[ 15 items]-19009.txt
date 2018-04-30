@@ -289,7 +289,7 @@
 }, {	"arName":"هيلتون القاهرة هليوبوليس",
 	"enName":"Hilton Cairo Heliopolis",
 	"hotline":"19009",
-	"facebook":"http://www.facebook.com/HiltonMiddleEast/?brand_redir=125762892900",
+	"facebook":"http://www.facebook.com/hiltonheliopolis",
 	"web":"http://www3.hilton.com/en/index.html",
 	"arCategory":[
 		"فنادق ومنتجعات"

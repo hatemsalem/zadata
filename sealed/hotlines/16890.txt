@@ -2,7 +2,7 @@
 	"enName":"Giza National Automotive - GNA",
 	"hotline":"16890",
 	"facebook":"",
-	"web":"http://www.mercedes-benz.com.eg/content/egypt/mpc/mpc_egypt_website/enng/home_mpc/passengercars/home/our_retail/gna.html",
+	"web":"http://www.mercedes-benz.com.eg/",
 	"arCategory":[
 		"سيارات - وكلاء حصريون - سيارات جديدة"
 	],
@@ -22,7 +22,7 @@
 	"arName":"كم 22 - - مرتفعات الاهرام, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
 	"lat":"30.021711",
 	"lng":"31.072018",
-	"enName":"Km 22, , El Ahram Heights, Cairo alex desert rd., Giza"
+	"enName":"Km 22, , Pyramids Heights, Cairo alex desert rd., Giza"
 },
 		{	"profileId":"421238",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/giza-national-automotive-_-gna/421238?b=2&k=16890&l=search",

@@ -32,7 +32,7 @@
 	"enName":"1 Fawzy Moaz St. El Ibrahimeya Sq., Sama Smouha Tower, Semouha, Alexandria"
 },
 		{	"profileId":"533963",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/533963?b=8&k=19361&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/533963?b=9&k=19361&l=search",
 	"arName":"ش فيصل - الاريزونا, حسن محمد, فيصل, الجيزة",
 	"lat":"30.003810999999999",
 	"lng":"31.174330999999999",
@@ -81,7 +81,7 @@
 	"enName":"Plot 11, 12, 7th Neighbourhood, Mostafa Kamel Spine, 1st Compound, New cairo, Cairo"
 },
 		{	"profileId":"476005",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/476005?b=9&k=19361&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kabbani-furniture/476005?b=8&k=19361&l=search",
 	"arName":"القطعة 7أ - بلوك 1325 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
 	"lat":"30.184249000000001",
 	"lng":"31.461668",

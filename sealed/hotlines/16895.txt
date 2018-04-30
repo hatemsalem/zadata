@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"452493",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/452493?b=1&k=16895&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/452493?b=2&k=16895&l=search",
 	"arName":"خدمة العملاء, الكوربة, مصر الجديدة, القاهرة",
 	"lat":"",
 	"lng":"",
@@ -39,7 +39,7 @@
 	"enName":"3rd District, El Sheikh Zayed, 6th of october, Giza"
 },
 		{	"profileId":"429245",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/429245?b=2&k=16895&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/visage-laser-clinic/429245?b=1&k=16895&l=search",
 	"arName":"7 ش النصر - الدور 1, المعادى الجديدة, المعادى, القاهرة",
 	"lat":"29.972766",
 	"lng":"31.272238999999999",

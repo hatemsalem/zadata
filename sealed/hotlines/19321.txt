@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"187031",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/chemipharm/187031?b=3&k=19321&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chemipharm/187031?b=2&k=19321&l=search",
 	"arName":"خدمة العملاء, المهندسين, الجيزة",
 	"lat":"",
 	"lng":"",
@@ -32,7 +32,7 @@
 	"enName":"3rd Industrial Zone, 6th of october, Giza"
 },
 		{	"profileId":"50789",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/chemipharm/50789?b=2&k=19321&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chemipharm/50789?b=3&k=19321&l=search",
 	"arName":"13 ش احمد عرابى, المهندسين, الجيزة",
 	"lat":"30.062487000000001",
 	"lng":"31.207353999999999",

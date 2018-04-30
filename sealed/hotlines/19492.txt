@@ -25,7 +25,7 @@
 	"enName":"3 Anwar El Mofty St. Off Abbas El Akkad St., Floor 9, 1st Zone, Nasr city, Cairo"
 },
 		{	"profileId":"146981",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/146981?b=6&k=19492&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/146981?b=5&k=19492&l=search",
 	"arName":"61 تقسيم سموحة, سموحة, الاسكندرية",
 	"lat":"31.208763999999999",
 	"lng":"29.936449",
@@ -46,7 +46,7 @@
 	"enName":"Customer Service, Semouha, Alexandria"
 },
 		{	"profileId":"164495",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/164495?b=5&k=19492&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/butagasco-_-egyptian-co.-for-gas-transferring-&-deliverance/164495?b=6&k=19492&l=search",
 	"arName":"69 ش سعد زغلول, وسط البلد, المنيا",
 	"lat":"28.094315000000002",
 	"lng":"30.756005999999999",

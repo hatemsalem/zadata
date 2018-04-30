@@ -29,7 +29,7 @@
 	"enName":"1 El Qatawy St., Ataba, Cairo"
 },
 		{	"profileId":"397613",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/397613?b=7&k=16336&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/397613?b=6&k=16336&l=search",
 	"arName":"52 ش جامعة الدول العربية, المهندسين, الجيزة",
 	"lat":"30.052026999999999",
 	"lng":"31.201035000000001",
@@ -57,7 +57,7 @@
 	"enName":"3 Abou El Mahasen St., Roxy, Heliopolis, Cairo"
 },
 		{	"profileId":"255924",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/255924?b=6&k=16336&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alarabi-modern-metals/255924?b=7&k=16336&l=search",
 	"arName":"خدمة العملاء, المهندسين, الجيزة",
 	"lat":"",
 	"lng":"",

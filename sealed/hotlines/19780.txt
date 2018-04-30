@@ -1,28 +1,35 @@
-{"items":[{	"arName":"سيتى ابو سمبل ليك ريزورت",
-	"enName":"Seti Abu Simbel Lake Resort",
+{"items":[{	"arName":"الهيئة العامة للتنمية الصناعية",
+	"enName":"IDA - Industrial Development Authority",
 	"hotline":"19780",
-	"facebook":"http://www.facebook.com/Seti-Abu-Simbel-Hotel-987961224551134",
-	"web":"http://www.setifirst.com/ShowItem.aspx?itemID=3",
+	"facebook":"http://www.facebook.com/IDA.Egypt",
+	"web":"http://www.ida.gov.eg/",
 	"arCategory":[
-		"فنادق ومنتجعات"
+		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
-		"Hotels & Resorts"
+		"Ministries & Government Organizations"
 	],
 	"contacts":[
-		{	"profileId":"142224",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/seti-abu-simbel-lake-resort/142224?b=1&k=19780&l=search",
-	"arName":"قرية ابو سمبل السياحية, ابو سمبل, اسوان",
-	"lat":"22.338331",
-	"lng":"31.614373000000001",
-	"enName":"Abou Simbel Touristic Village, Abou simbel, Aswan"
+		{	"profileId":"359147",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ida-_-industrial-development-authority/359147?b=2&k=19780&l=search",
+	"arName":"القطعة 42 - ش التسعين محور السلام, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.031428300000002",
+	"lng":"31.456289999999999",
+	"enName":"Plot 42, El Tesaeen St. El Salam Spine, 5th Compound, New cairo, Cairo"
 },
-		{	"profileId":"509463",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/seti-abu-simbel-lake-resort/509463?b=2&k=19780&l=search",
-	"arName":"خدمة العملاء, ابو سمبل, اسوان",
+		{	"profileId":"446298",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ida-_-industrial-development-authority/446298?b=1&k=19780&l=search",
+	"arName":"خدمة العملاء, جاردن سيتى, القاهرة",
 	"lat":"",
 	"lng":"",
-	"enName":"Customer Service, Abou simbel, Aswan"
+	"enName":"Customer Service, Garden city, Cairo"
+},
+		{	"profileId":"231116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ida-_-industrial-development-authority/231116?b=3&k=19780&l=search",
+	"arName":"كم 29 - طريق اسكندرية القاهرة الصحراوى - المنطقة الحرة, العامرية, الاسكندرية",
+	"lat":"31.034509",
+	"lng":"29.778191",
+	"enName":"Km 29, Alex Cairo Desert Rd., Free Zone, Amreya, Alexandria"
 }
 	]
 }]}

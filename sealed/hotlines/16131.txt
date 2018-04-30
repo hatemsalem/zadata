@@ -29,7 +29,7 @@
 	"enName":"519 el ahram st. Giza Sq., Giza, Giza"
 },
 		{	"profileId":"463185",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/463185?b=6&k=16131&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/463185?b=7&k=16131&l=search",
 	"arName":"ش البنوك - مبارك 2, الكوثر, الغردقة",
 	"lat":"27.197589000000001",
 	"lng":"33.827289999999998",
@@ -43,7 +43,7 @@
 	"enName":"Central Spine, 3rd District, 6th of october, Giza"
 },
 		{	"profileId":"140486",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/140486?b=7&k=16131&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/la-pomme-pastry/140486?b=6&k=16131&l=search",
 	"arName":"خدمة توصيل الطلبات للمنازل, الجيزة, الجيزة",
 	"lat":"",
 	"lng":"",

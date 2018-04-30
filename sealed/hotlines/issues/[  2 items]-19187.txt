@@ -32,7 +32,7 @@
 	"enName":"55 Manial St., El manyal, Cairo"
 },
 		{	"profileId":"117614",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/117614?b=19&k=19187&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/117614?b=18&k=19187&l=search",
 	"arName":"65 ش فيكتور عمانويل, سموحة, الاسكندرية",
 	"lat":"31.209904999999999",
 	"lng":"29.947673000000002",
@@ -67,7 +67,7 @@
 	"enName":"440 El Guish Rd., Loran, Alexandria"
 },
 		{	"profileId":"40380",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/40380?b=18&k=19187&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/40380?b=19&k=19187&l=search",
 	"arName":"608 طريق الحرية, زيزينيا, الاسكندرية",
 	"lat":"31.240902999999999",
 	"lng":"29.966481999999999",
@@ -95,7 +95,7 @@
 	"enName":"Commercial Market, Shop 205, Al rehab city, Cairo"
 },
 		{	"profileId":"319288",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/319288?b=12&k=19187&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/319288?b=14&k=19187&l=search",
 	"arName":"كم 106 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
 	"lat":"",
 	"lng":"",
@@ -109,7 +109,7 @@
 	"enName":"Ring Rd., El katameya, Cairo"
 },
 		{	"profileId":"511850",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/511850?b=23&k=19187&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/511850?b=22&k=19187&l=search",
 	"arName":"53 ش محيى الدين ابو العز, الدقى, الجيزة",
 	"lat":"30.040984000000002",
 	"lng":"31.200689000000001",
@@ -123,7 +123,7 @@
 	"enName":"Plot 281, El Tesaeen El Shamaly St. Sector 2, 5th Compound, New cairo, Cairo"
 },
 		{	"profileId":"513212",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/513212?b=22&k=19187&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/513212?b=23&k=19187&l=search",
 	"arName":"كم 97 - طريق اسكندرية مطروح الصحراوى, مارينا, الساحل الشمالى",
 	"lat":"30.825012000000001",
 	"lng":"28.982856000000002",
@@ -179,7 +179,7 @@
 	"enName":"11 Mostafa Kamel St., Roushdy, Alexandria"
 },
 		{	"profileId":"354493",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/354493?b=14&k=19187&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fit-&-fix/354493?b=12&k=19187&l=search",
 	"arName":"ام زغيو, العامرية, الاسكندرية",
 	"lat":"31.0895519",
 	"lng":"29.772563000000002",

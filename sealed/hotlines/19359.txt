@@ -25,14 +25,21 @@
 	"enName":"39 Central Spine, 1st District, 6th of october, Giza"
 },
 		{	"profileId":"165279",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/165279?b=2&k=19359&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/165279?b=1&k=19359&l=search",
 	"arName":"13 ش قصر النيل, وسط البلد, القاهرة",
 	"lat":"30.047229999999999",
 	"lng":"31.237597000000001",
 	"enName":"13 Kasr El Nil St., Downtown, Cairo"
 },
+		{	"profileId":"582918",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/582918?b=6&k=19359&l=search",
+	"arName":"ش 23 يوليو, بنى سويف, بنى سويف",
+	"lat":"",
+	"lng":"",
+	"enName":"23rd Of July St., Benisuef, Benisuef"
+},
 		{	"profileId":"75087",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/75087?b=1&k=19359&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/wonder-travel/75087?b=2&k=19359&l=search",
 	"arName":"9 ميدان التحرير, وسط البلد, القاهرة",
 	"lat":"30.045009",
 	"lng":"31.236187000000001",

@@ -19,7 +19,7 @@
 },
 		{	"profileId":"166869",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-motors-trading-co./166869?b=3&k=19224&l=search",
-	"arName":"12 ش الرشيد متفرع من ش احمد عرابى, المهندسين, الجيزة",
+	"arName":"12 ش الرشيد متفرع من ش احمد عرابى , المهندسين, الجيزة",
 	"lat":"30.068493",
 	"lng":"31.205494999999999",
 	"enName":"12 El Rashid St. Off Ahmed Orabi St., Mohandeseen, Giza"

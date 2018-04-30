@@ -46,7 +46,7 @@
 	"enName":"22 Zein El Abedeen St., Moharram bey, Alexandria"
 },
 		{	"profileId":"537142",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/537142?b=11&k=16840&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/537142?b=10&k=16840&l=search",
 	"arName":"231 طريق الحرية, الابراهيمية, الاسكندرية",
 	"lat":"31.210215999999999",
 	"lng":"29.932096999999999",
@@ -81,7 +81,7 @@
 	"enName":"45 El Eqbal St., Loran, Alexandria"
 },
 		{	"profileId":"545049",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/545049?b=10&k=16840&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/dr.-osama-el-tayeby-pharmacies/545049?b=11&k=16840&l=search",
 	"arName":"عمارات الفرات - ش عبد القادر رجب, كفر عبده, الاسكندرية",
 	"lat":"31.223642000000002",
 	"lng":"29.949414000000001",

@@ -19,16 +19,16 @@
 },
 		{	"profileId":"582512",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/nevada-properties/582512?b=2&k=19335&l=search",
-	"arName":"261 طريق الجيش برج ستانلى - الدور 1, ستانلى, الاسكندرية",
-	"lat":"",
-	"lng":"",
-	"enName":"261 Guish Rd. Stanly Tower, Floor 1, Stanly, Alexandria"
+	"arName":"261 طريق الجيش - برج ستانلى - الدور 1, ستانلى, الاسكندرية",
+	"lat":"31.233601",
+	"lng":"29.949325999999999",
+	"enName":"261 El Guish Rd., Stanly Tower, Floor 1, Stanly, Alexandria"
 },
 		{	"profileId":"582446",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/nevada-properties/582446?b=3&k=19335&l=search",
 	"arName":"32 ش جامعة الدول العربية, المهندسين, الجيزة",
-	"lat":"",
-	"lng":"",
+	"lat":"30.056189",
+	"lng":"31.204888",
 	"enName":"32 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
 }
 	]

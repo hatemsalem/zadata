@@ -50,7 +50,7 @@
 	"enName":"4 El Mohadeseen Bldgs., El Guish St., Downtown, Kafr el sheikh"
 },
 		{	"profileId":"146731",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/welatain-restaurants/146731?b=10&k=16799&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/welatain-restaurants/146731?b=9&k=16799&l=search",
 	"arName":"ش البحر, المحلة الكبرى, الغربية",
 	"lat":"30.974833400000001",
 	"lng":"31.173596100000001",
@@ -85,7 +85,7 @@
 	"enName":"Commercial Market, Al rehab city, Cairo"
 },
 		{	"profileId":"115584",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/welatain-restaurants/115584?b=9&k=16799&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/welatain-restaurants/115584?b=10&k=16799&l=search",
 	"arName":"ش بطرس متفرع من ش ثروت, طنطا, الغربية",
 	"lat":"30.793124299999999",
 	"lng":"31.0095119",

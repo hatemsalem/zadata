@@ -50,7 +50,7 @@
 	"enName":"14th Of May Rd., Semouha, Alexandria"
 },
 		{	"profileId":"45495",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/45495?b=7&k=16393&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/45495?b=6&k=16393&l=search",
 	"arName":"628 طريق الجيش, ميامى, الاسكندرية",
 	"lat":"31.269624",
 	"lng":"29.990938",
@@ -64,7 +64,7 @@
 	"enName":"Youssef El Sebaey St., El mamorah shatia, Alexandria"
 },
 		{	"profileId":"202840",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/202840?b=6&k=16393&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pizza-queen/202840?b=7&k=16393&l=search",
 	"arName":"قرية النخيل, العجمى, الاسكندرية",
 	"lat":"31.089054999999998",
 	"lng":"29.72982",

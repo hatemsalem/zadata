@@ -25,7 +25,7 @@
 	"enName":"El Ramad District, Al abasery, Benisuef"
 },
 		{	"profileId":"7553",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/kandeel-industry-&-trade/7553?b=4&k=16369&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandeel-industry-&-trade/7553?b=5&k=16369&l=search",
 	"arName":"32 ش الهرم, الهرم, الجيزة",
 	"lat":"29.987804000000001",
 	"lng":"31.143408999999998",
@@ -46,7 +46,7 @@
 	"enName":"Kenoz Tower, Ahmed Orabi St., Floor 1, Mit ghamr, El dakahleya"
 },
 		{	"profileId":"72662",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/kandeel-industry-&-trade/72662?b=5&k=16369&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandeel-industry-&-trade/72662?b=4&k=16369&l=search",
 	"arName":"ش المغسلة, المنصورة, الدقهلية",
 	"lat":"",
 	"lng":"",

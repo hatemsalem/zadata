@@ -18,7 +18,7 @@
 	"enName":"293 A El Tharwa El Maadaneya St., Hadayek El Ahram, El haram, Giza"
 },
 		{	"profileId":"12590",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/12590?b=22&k=16711&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/12590?b=21&k=16711&l=search",
 	"arName":"81 ش المحطة, الجيزة, الجيزة",
 	"lat":"30.009599999999999",
 	"lng":"31.215399999999999",
@@ -46,7 +46,7 @@
 	"enName":"347 Port Said St., El sayeda zeinab, Cairo"
 },
 		{	"profileId":"197050",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/197050?b=20&k=16711&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/197050?b=22&k=16711&l=search",
 	"arName":"16 ابراج بنك مصر - ش خاتم المرسلين, العمرانية الشرقية, الهرم, الجيزة",
 	"lat":"30.004666",
 	"lng":"31.202565",
@@ -74,7 +74,7 @@
 	"enName":"3 Tersa El Omoumy St., El moneeb, Giza"
 },
 		{	"profileId":"274270",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/274270?b=18&k=16711&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/274270?b=17&k=16711&l=search",
 	"arName":"50 ش السيسى متفرع من ش زغلول, مشعل, الهرم, الجيزة",
 	"lat":"29.982195000000001",
 	"lng":"31.151653",
@@ -123,14 +123,14 @@
 	"enName":"El Wafaa & El Amal St. Off Haram St., El haram, Giza"
 },
 		{	"profileId":"327098",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/327098?b=17&k=16711&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/327098?b=18&k=16711&l=search",
 	"arName":"36 ش ترعة الزمر, العمرانية الشرقية, الهرم, الجيزة",
 	"lat":"30.003150999999999",
 	"lng":"31.204163000000001",
 	"enName":"36 Teraet El Zomor St., El Omraneya El Sharkeya, El haram, Giza"
 },
 		{	"profileId":"12564",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/12564?b=21&k=16711&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/shady-pharmacies/12564?b=20&k=16711&l=search",
 	"arName":"24 ش المحطة, الجيزة, الجيزة",
 	"lat":"30.0091",
 	"lng":"31.210699999999999",

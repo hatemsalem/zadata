@@ -46,14 +46,14 @@
 	"enName":"46 El Iskandar El Akbar St., El shatby, Alexandria"
 },
 		{	"profileId":"289938",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/289938?b=17&k=19295&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/289938?b=18&k=19295&l=search",
 	"arName":"21 ش ارض الاندية - الدور 1, وسط البلد, الاسماعيلية",
 	"lat":"30.612606",
 	"lng":"32.277827000000002",
 	"enName":"21 Ard El Andeya St., Floor 1, Downtown, Ismaileya"
 },
 		{	"profileId":"406892",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/406892?b=18&k=19295&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/406892?b=17&k=19295&l=search",
 	"arName":"19 ش 44 - الحى الاول - منطقة 800 متر, مدينة العبور, القليوبية",
 	"lat":"30.233598000000001",
 	"lng":"31.459233000000001",
@@ -67,7 +67,7 @@
 	"enName":"18 El Gomhoureya St., Floor 3, Damanhour, El beheira"
 },
 		{	"profileId":"141020",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/141020?b=14&k=19295&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/141020?b=15&k=19295&l=search",
 	"arName":"1 ش الجيش - عمارة الاوقاف, وسط البلد, كفر الشيخ",
 	"lat":"31.114588000000001",
 	"lng":"30.940375",
@@ -102,14 +102,14 @@
 	"enName":"Km 16 Alex Matrouh Desert Rd., Classic District, El Malky Tower, Floor 2, Agami, Alexandria"
 },
 		{	"profileId":"123555",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/123555?b=6&k=19295&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/123555?b=4&k=19295&l=search",
 	"arName":"162 ش شبرا - الدور 1, شبرا, القاهرة",
 	"lat":"30.088759",
 	"lng":"31.245173999999999",
 	"enName":"162 Shoubra St., Floor 1, Shoubra, Cairo"
 },
 		{	"profileId":"177603",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/177603?b=4&k=19295&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/177603?b=6&k=19295&l=search",
 	"arName":"خدمة العملاء, روكسى, مصر الجديدة, القاهرة",
 	"lat":"",
 	"lng":"",
@@ -151,7 +151,7 @@
 	"enName":"3 C El Kamal St., Floor 2 Flat 2, Helmeyet el zaitoun, Cairo"
 },
 		{	"profileId":"89221",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/89221?b=15&k=19295&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/e_planet-for-educational-services/89221?b=14&k=19295&l=search",
 	"arName":"المحور المركزى - المجاورة الاولى - عمارة 93, الحى الثانى, السادس من اكتوبر, الجيزة",
 	"lat":"29.973320999999999",
 	"lng":"30.946902000000001",

@@ -83,8 +83,8 @@
 		{	"profileId":"582154",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nawawy-pharmacies/582154?b=26&k=19813&l=search",
 	"arName":"2 مساكن الخزف والصينى - , مسطرد, القليوبية",
-	"lat":"",
-	"lng":"",
+	"lat":"30.120981",
+	"lng":"31.253689000000001",
 	"enName":"2 El Khazaf & El Siny Bldgs., , Mostorod, Kaliobeya"
 },
 		{	"profileId":"582076",
@@ -132,8 +132,8 @@
 		{	"profileId":"582130",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nawawy-pharmacies/582130?b=16&k=19813&l=search",
 	"arName":"132 ش مصر والسودان, حدائق القبة, القاهرة",
-	"lat":"",
-	"lng":"",
+	"lat":"30.085899999999999",
+	"lng":"31.284099999999999",
 	"enName":"132 Misr & Sudan St., Hadayek el kobba, Cairo"
 },
 		{	"profileId":"582091",
@@ -174,8 +174,8 @@
 		{	"profileId":"582069",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nawawy-pharmacies/582069?b=18&k=19813&l=search",
 	"arName":"4 أ عمارات القوات المسلحة - ش جسر السويس, جسر السويس, القاهرة",
-	"lat":"",
-	"lng":"",
+	"lat":"30.109504999999999",
+	"lng":"31.328651000000001",
 	"enName":"4 A Armed Forces Bldgs., Gesr El Suez St., Gesr el suez, Cairo"
 },
 		{	"profileId":"582126",
@@ -202,8 +202,8 @@
 		{	"profileId":"582068",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/el-nawawy-pharmacies/582068?b=2&k=19813&l=search",
 	"arName":"ش محمد كامل حسين, النزهة الجديدة, القاهرة",
-	"lat":"",
-	"lng":"",
+	"lat":"30.122447000000001",
+	"lng":"31.366098000000001",
 	"enName":"Mohamed Kamel Hussein St., El nozha el gadida, Cairo"
 }
 	]

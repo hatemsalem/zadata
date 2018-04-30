@@ -13,7 +13,7 @@
 	],
 	"contacts":[
 		{	"profileId":"564400",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/564400?b=9&k=16128&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/564400?b=8&k=16128&l=search",
 	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
 	"lat":"30.028613",
 	"lng":"31.020530000000001",
@@ -27,7 +27,7 @@
 	"enName":"Central Spine, Hosary Sq., 2nd District, 6th of october, Giza"
 },
 		{	"profileId":"578393",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578393?b=8&k=16128&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/578393?b=9&k=16128&l=search",
 	"arName":"ش الشيراتون - الممشى السياحى, طريق القرى, الغردقة",
 	"lat":"27.186499999999999",
 	"lng":"33.825746000000002",
@@ -69,7 +69,7 @@
 	"enName":"El Salam Rd., Umm el sid hill, Sharm el sheikh"
 },
 		{	"profileId":"557841",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/557841?b=11&k=16128&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/557841?b=10&k=16128&l=search",
 	"arName":"خدمة العملاء, المهندسين, الجيزة",
 	"lat":"",
 	"lng":"",
@@ -97,7 +97,7 @@
 	"enName":"., Masbat, Dahab"
 },
 		{	"profileId":"564396",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/564396?b=10&k=16128&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/blue-bus/564396?b=11&k=16128&l=search",
 	"arName":"30 ب ش البحر الاعظم, الجيزة, الجيزة",
 	"lat":"30.001156000000002",
 	"lng":"31.214521000000001",

@@ -62,7 +62,7 @@
 	"enName":"Aldo Accessories",
 	"hotline":"19467",
 	"facebook":"",
-	"web":"http://www.aldoshoes.com/egypt",
+	"web":"http://www.aldoshoes.com/eg/en_EG",
 	"arCategory":[
 		"اكسسوارات حريمى"
 	],

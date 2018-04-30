@@ -38,14 +38,14 @@
 	],
 	"contacts":[
 		{	"profileId":"139869",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/fue-_-future-university-in-egypt/139869?b=2&k=16383&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fue-_-future-university-in-egypt/139869?b=1&k=16383&l=search",
 	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"",
 	"lng":"",
 	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
 },
 		{	"profileId":"128273",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/fue-_-future-university-in-egypt/128273?b=1&k=16383&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fue-_-future-university-in-egypt/128273?b=2&k=16383&l=search",
 	"arName":"ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"30.026062",
 	"lng":"31.491233999999999",

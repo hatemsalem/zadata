@@ -18,14 +18,14 @@
 	"enName":"Block 254, Rd. 36, 3rd Industrial Zone, Industrial Zone, 6th of october, Giza"
 },
 		{	"profileId":"55158",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hiteknofal/55158?b=1&k=19906&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hiteknofal/55158?b=2&k=19906&l=search",
 	"arName":"43 الشطر السادس , زهراء المعادى, المعادى, القاهرة",
 	"lat":"29.963574999999999",
 	"lng":"31.319139",
 	"enName":"43 6th Sector, Zahraa El Maadi, Maadi, Cairo"
 },
 		{	"profileId":"141747",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hiteknofal/141747?b=2&k=19906&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hiteknofal/141747?b=1&k=19906&l=search",
 	"arName":"خدمة العملاء, زهراء المعادى, المعادى, القاهرة",
 	"lat":"",
 	"lng":"",

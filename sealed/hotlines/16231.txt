@@ -4,10 +4,10 @@
 	"facebook":"http://www.facebook.com/ABS-Courier-Freight-Systems-Egypt-1456150147976677/",
 	"web":"http://www.absegy.com/",
 	"arCategory":[
-		"بريد سريع خدمات"
+		"شحن جوى وبحرى وبرى"
 	],
 	"enCategories":[
-		"Courier Services"
+		"Shipping, Air Cargo & Freight"
 	],
 	"contacts":[
 		{	"profileId":"112235",

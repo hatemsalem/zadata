@@ -13,7 +13,7 @@
 	],
 	"contacts":[
 		{	"profileId":"19423",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/ebe-_-export-development-bank-of-egypt/19423?b=15&k=16710&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ebe-_-export-development-bank-of-egypt/19423?b=16&k=16710&l=search",
 	"arName":"108 ش محيى الدين ابو العز, المهندسين, الجيزة",
 	"lat":"30.046558999999998",
 	"lng":"31.199351",
@@ -69,7 +69,7 @@
 	"enName":"43 Faisal St., Ezbet Jebril, El Mariouteya, Faisal, Giza"
 },
 		{	"profileId":"195513",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/ebe-_-export-development-bank-of-egypt/195513?b=14&k=16710&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ebe-_-export-development-bank-of-egypt/195513?b=15&k=16710&l=search",
 	"arName":"6 ش ابن الارحب تقاطع ش النيل, الجيزة, الجيزة",
 	"lat":"30.027052999999999",
 	"lng":"31.216882999999999",
@@ -209,7 +209,7 @@
 	"enName":"1 El Obour Bldgs., Salah Salem Rd., Nasr city, Cairo"
 },
 		{	"profileId":"76649",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/ebe-_-export-development-bank-of-egypt/76649?b=16&k=16710&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ebe-_-export-development-bank-of-egypt/76649?b=14&k=16710&l=search",
 	"arName":"القطعة 1/3 - المحور المركزى - مجمع البنوك, السادس من اكتوبر, الجيزة",
 	"lat":"29.945471000000001",
 	"lng":"30.897380999999999",
@@ -257,7 +257,7 @@
 	"enName":"Airport Rd., Airport Area, Heliopolis, Cairo"
 },
 		{	"profileId":"397337",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/export-development-bank-of-egypt-_-atm/397337?b=52&k=16710&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/export-development-bank-of-egypt-_-atm/397337?b=53&k=16710&l=search",
 	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
 	"lat":"30.005434000000001",
 	"lng":"30.974428",
@@ -278,7 +278,7 @@
 	"enName":"Km 28,, Cairo alex desert rd., Giza"
 },
 		{	"profileId":"469511",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/export-development-bank-of-egypt-_-atm/469511?b=53&k=16710&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/export-development-bank-of-egypt-_-atm/469511?b=52&k=16710&l=search",
 	"arName":"كم 105 - طريق مطروح الاسكندرية الصحراوى - مارينا 5, مارينا, الساحل الشمالى",
 	"lat":"",
 	"lng":"",

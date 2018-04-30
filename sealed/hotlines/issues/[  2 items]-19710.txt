@@ -20,14 +20,14 @@
 	"enName":"341 El Guish Rd., Glim, Alexandria"
 },
 		{	"profileId":"115666",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-west/115666?b=2&k=19710&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-west/115666?b=1&k=19710&l=search",
 	"arName":"كم 23.5 -, طريق اسكندرية مطروح الصحراوى, الساحل الشمالى",
 	"lat":"31.063485",
 	"lng":"29.725978000000001",
 	"enName":"Km 23.5,, Alex. matrouh desert rd., North coast"
 },
 		{	"profileId":"155629",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-west/155629?b=1&k=19710&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/alex-west/155629?b=2&k=19710&l=search",
 	"arName":"خدمة العملاء, جليم, الاسكندرية",
 	"lat":"",
 	"lng":"",

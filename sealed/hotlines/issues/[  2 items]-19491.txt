@@ -35,7 +35,7 @@
 	"enName":"173 Haram St., El haram, Giza"
 },
 		{	"profileId":"392133",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/392133?b=23&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/392133?b=22&k=19491&l=search",
 	"arName":"68 ش النحاس, طنطا, الغربية",
 	"lat":"30.794571000000001",
 	"lng":"30.997039000000001",
@@ -49,7 +49,7 @@
 	"enName":"Central Spine, 1st District, 6th of october, Giza"
 },
 		{	"profileId":"358917",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/358917?b=15&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/358917?b=14&k=19491&l=search",
 	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
 	"lat":"30.073430999999999",
 	"lng":"31.347339000000002",
@@ -91,7 +91,7 @@
 	"enName":"3 Saleh Selim St., Zamalek, Cairo"
 },
 		{	"profileId":"450712",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/450712?b=34&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/450712?b=33&k=19491&l=search",
 	"arName":"22 ش الجلاء, الملاحة, السويس",
 	"lat":"29.961458",
 	"lng":"32.547280999999998",
@@ -112,21 +112,21 @@
 	"enName":"Rd. 17 Off El Tesaeen St., 1St Zone, 5th Compound, New cairo, Cairo"
 },
 		{	"profileId":"271169",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/271169?b=14&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/271169?b=15&k=19491&l=search",
 	"arName":"9 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
 	"lat":"30.061188000000001",
 	"lng":"31.332156000000001",
 	"enName":"9 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
 },
 		{	"profileId":"451588",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/451588?b=29&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/451588?b=30&k=19491&l=search",
 	"arName":"19 ش نادى الصيد متفرع من ش محيى الدين ابو العز, الدقى, الجيزة",
 	"lat":"30.042899999999999",
 	"lng":"31.198599999999999",
 	"enName":"19 Nady El Seid St. Off Mohy El Din Abou El Ezz St., Dokki, Giza"
 },
 		{	"profileId":"451587",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/451587?b=33&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/451587?b=34&k=19491&l=search",
 	"arName":"ش التجارى, الشيخ زايد, الاسماعيلية",
 	"lat":"30.604665000000001",
 	"lng":"32.276581999999998",
@@ -175,7 +175,7 @@
 	"enName":"Zayed 2000, El Sheikh Zayed, 6th of october, Giza"
 },
 		{	"profileId":"564524",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/564524?b=39&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/564524?b=40&k=19491&l=search",
 	"arName":"31 ش عمر بن الخطاب - القومية, الزقازيق, الشرقية",
 	"lat":"30.591519000000002",
 	"lng":"31.498743999999999",
@@ -203,14 +203,14 @@
 	"enName":"home delivery, Mohandeseen, Giza"
 },
 		{	"profileId":"441120",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/441120?b=22&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/441120?b=23&k=19491&l=search",
 	"arName":"22 ب ش مراد, الجيزة, الجيزة",
 	"lat":"30.016901000000001",
 	"lng":"31.213732",
 	"enName":"22 B Mourad St., Giza, Giza"
 },
 		{	"profileId":"521000",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/521000?b=40&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/521000?b=39&k=19491&l=search",
 	"arName":"ش كورنيش النيل, الكورنيش, المنيا",
 	"lat":"28.107514999999999",
 	"lng":"30.753188999999999",
@@ -238,7 +238,7 @@
 	"enName":"4 Abdel Moneim Riad St., El Motamayez District, 6th of october, Giza"
 },
 		{	"profileId":"454246",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/454246?b=30&k=19491&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/spectra-restaurant-&-cafe/454246?b=29&k=19491&l=search",
 	"arName":"96 ب ش 26 يوليو, حى الشرق, بور سعيد",
 	"lat":"31.268205999999999",
 	"lng":"32.306018000000002",

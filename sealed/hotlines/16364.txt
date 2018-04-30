@@ -1,7 +1,7 @@
 {"items":[{	"arName":"القاهرة الوطنية للسيارات - سى ان ايه",
 	"enName":"Cairo National Automotive - CNA",
 	"hotline":"16364",
-	"facebook":"http://www.facebook.com/MercedesBenzEgypt",
+	"facebook":"",
 	"web":"http://www.mercedes-benz.com.eg/",
 	"arCategory":[
 		"سيارات - وكلاء حصريون - سيارات جديدة"
@@ -26,10 +26,10 @@
 },
 		{	"profileId":"100743",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-national-automotive-_-cna/100743?b=2&k=16364&l=search",
-	"arName":"القطعة السابعة - الطريق الدائرى, القطامية, القاهرة",
+	"arName":"القطعة الثالثة - الطريق الدائرى, القطامية, القاهرة",
 	"lat":"29.992152000000001",
 	"lng":"31.382811100000001",
-	"enName":"7th Plot, Ring Rd., El katameya, Cairo"
+	"enName":"3rd Plot, Ring Rd., El katameya, Cairo"
 }
 	]
 }]}

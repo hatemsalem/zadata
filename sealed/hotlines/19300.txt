@@ -60,14 +60,14 @@
 	"enName":"1 Jeddah St., Mohandeseen, Giza"
 },
 		{	"profileId":"145224",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/145224?b=5&k=19300&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/145224?b=6&k=19300&l=search",
 	"arName":"19 ابراج الفردوس - ش احمد سعيد, عباسية, القاهرة",
 	"lat":"30.066299999999998",
 	"lng":"31.2712",
 	"enName":"19 El Fardous Towers, Ahmed Said St., Abbasseya, Cairo"
 },
 		{	"profileId":"145234",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/145234?b=3&k=19300&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/145234?b=2&k=19300&l=search",
 	"arName":"98 عمارات صقر قريش -, مساكن شيراتون, مصر الجديدة, القاهرة",
 	"lat":"30.104662999999999",
 	"lng":"31.371486999999998",
@@ -81,7 +81,7 @@
 	"enName":"Shebin El Koum St., Downtown, Ismaileya"
 },
 		{	"profileId":"174646",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/174646?b=6&k=19300&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/174646?b=5&k=19300&l=search",
 	"arName":"48 ش روض الفرج, شبرا, القاهرة",
 	"lat":"30.080784000000001",
 	"lng":"31.240652000000001",
@@ -95,7 +95,7 @@
 	"enName":"El Berka St., El corniche, Aswan"
 },
 		{	"profileId":"148810",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/148810?b=13&k=19300&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/148810?b=12&k=19300&l=search",
 	"arName":"2 ش غرب النادى البحرى - الحميات, حى غرب, سوهاج",
 	"lat":"26.562078",
 	"lng":"31.694671",
@@ -123,7 +123,7 @@
 	"enName":"3 Amin Othman St. Off El Namees St., Shark district, Assyout"
 },
 		{	"profileId":"88699",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/88699?b=2&k=19300&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/88699?b=3&k=19300&l=search",
 	"arName":"116 ش الجيش, باب الشعرية, القاهرة",
 	"lat":"30.0563",
 	"lng":"31.259",
@@ -144,7 +144,7 @@
 	"enName":"Customer Service, Mohandeseen, Giza"
 },
 		{	"profileId":"88694",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/88694?b=12&k=19300&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/art-_-egyptian-co.-for-digital-services/88694?b=13&k=19300&l=search",
 	"arName":"59 ش الوحدة, امبابة, الجيزة",
 	"lat":"30.0864279",
 	"lng":"31.2209684",

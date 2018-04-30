@@ -32,7 +32,7 @@
 	"enName":"20 Syria St., Mohandeseen, Giza"
 },
 		{	"profileId":"126069",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./126069?b=6&k=19797&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./126069?b=5&k=19797&l=search",
 	"arName":"23 ش عمر بن عبد العزيز, حى شرق, اسيوط",
 	"lat":"27.184850999999998",
 	"lng":"31.184654999999999",
@@ -46,7 +46,7 @@
 	"enName":"3rd District, El sheikh zayed, Ismaileya"
 },
 		{	"profileId":"181133",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./181133?b=5&k=19797&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./181133?b=6&k=19797&l=search",
 	"arName":"خدمة العملاء, المهندسين, الجيزة",
 	"lat":"",
 	"lng":"",

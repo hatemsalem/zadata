@@ -16,6 +16,13 @@
 	"lat":"30.005928999999998",
 	"lng":"31.187477000000001",
 	"enName":"382 El Haram St., El haram, Giza"
+},
+		{	"profileId":"475093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ganna-hospital/475093?b=2&k=19787&l=search",
+	"arName":"51 ش شهاب, المهندسين, الجيزة",
+	"lat":"30.055481",
+	"lng":"31.195826",
+	"enName":"51 Shehab St., Mohandeseen, Giza"
 }
 	]
 }]}

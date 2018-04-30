@@ -18,14 +18,14 @@
 	"enName":"32 Nady El Seid St., Dokki, Giza"
 },
 		{	"profileId":"149684",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/sico-technology/149684?b=1&k=19242&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sico-technology/149684?b=2&k=19242&l=search",
 	"arName":"خدمة العملاء, وسط البلد, القاهرة",
 	"lat":"",
 	"lng":"",
 	"enName":"Customer Service, Downtown, Cairo"
 },
 		{	"profileId":"132829",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/sico-technology/132829?b=2&k=19242&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sico-technology/132829?b=1&k=19242&l=search",
 	"arName":"6 ش البورصة الجديدة متفرع من ش قصر النيل, وسط البلد, القاهرة",
 	"lat":"30.0489",
 	"lng":"31.240100000000002",

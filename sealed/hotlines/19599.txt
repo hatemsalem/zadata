@@ -1,7 +1,7 @@
 {"items":[{	"arName":"الاسكا",
 	"enName":"Alaska",
 	"hotline":"19599",
-	"facebook":"",
+	"facebook":"http://www.facebook.com/w.alaska.group",
 	"web":"http://www.alaska.com.eg/",
 	"arCategory":[
 		"ثلاجات ومجمدات ومخازن تبريد"

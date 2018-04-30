@@ -18,7 +18,7 @@
 	"enName":"Happy Land Sq. - Aly Mubarak Sq. Previously, Tiba Tower, El mansoura, El dakahleya"
 },
 		{	"profileId":"97868",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/97868?b=17&k=19989&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/97868?b=20&k=19989&l=search",
 	"arName":"7 ش بنك مصر متفرع من ش سعد زغلول - الدور 1, بنها, القليوبية",
 	"lat":"30.4634261",
 	"lng":"31.180060099999999",
@@ -102,7 +102,7 @@
 	"enName":"El Salam St. El Qawmeya Sq., El zagazig, El sharkeya"
 },
 		{	"profileId":"110638",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/110638?b=19&k=19989&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/110638?b=17&k=19989&l=search",
 	"arName":"ش المستشار نافع, دمياط, دمياط",
 	"lat":"31.408546999999999",
 	"lng":"31.812062999999998",
@@ -116,7 +116,7 @@
 	"enName":"6th Zone, 4th District, 5th Compound, New cairo, Cairo"
 },
 		{	"profileId":"97870",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/97870?b=18&k=19989&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/97870?b=21&k=19989&l=search",
 	"arName":"81 ش جمال عبد الناصر - الدور 1, شبين الكوم, المنوفية",
 	"lat":"30.555748000000001",
 	"lng":"31.011068000000002",
@@ -158,14 +158,14 @@
 	"enName":"34 Rd. 100 El Horreya Sq., Maadi, Cairo"
 },
 		{	"profileId":"195363",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/195363?b=20&k=19989&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/195363?b=18&k=19989&l=search",
 	"arName":"28 ميدان الحصرى - الدور 1, الحى الاول, السادس من اكتوبر, الجيزة",
 	"lat":"29.973265999999999",
 	"lng":"30.946646999999999",
 	"enName":"28 El Hosary Sq., Floor 1, 1st District, 6th of october, Giza"
 },
 		{	"profileId":"195375",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/195375?b=21&k=19989&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/techno-scan/195375?b=19&k=19989&l=search",
 	"arName":"64 ش ابراهيم خليل متفرع من ش شبين, قويسنا, المنوفية",
 	"lat":"30.549441999999999",
 	"lng":"31.135995999999999",

@@ -29,14 +29,14 @@
 	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
 },
 		{	"profileId":"75873",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/nestle-egypt/75873?b=6&k=16180&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nestle-egypt/75873?b=5&k=16180&l=search",
 	"arName":"كم 15 - طريق القاهرة اسكندرية الزراعى, قليوب, القليوبية",
 	"lat":"",
 	"lng":"",
 	"enName":"Km 15, Cairo Alex Agricultural Rd., Qalyub, Kaliobeya"
 },
 		{	"profileId":"127243",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/nestle-egypt/127243?b=5&k=16180&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nestle-egypt/127243?b=6&k=16180&l=search",
 	"arName":"خدمة العملاء, ابو رواش, الجيزة",
 	"lat":"",
 	"lng":"",

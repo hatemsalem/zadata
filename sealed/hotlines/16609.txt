@@ -1,0 +1,21 @@
+{"items":[{	"arName":"مستشفى العاصمة",
+	"enName":"El Asema Hospital",
+	"hotline":"16609",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"مستشفيات ومراكز طبية"
+	],
+	"enCategories":[
+		"Hospitals & Medical Centers"
+	],
+	"contacts":[
+		{	"profileId":"472700",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-asema-hospital/472700?b=1&k=16609&l=search",
+	"arName":"4 ش الجمهورية متفرع من ش الاحرار, الدقى, الجيزة",
+	"lat":"31.207091999999999",
+	"lng":"31.207091999999999",
+	"enName":"4 El Gomhoureya St. Off El Ahrar St., Dokki, Giza"
+}
+	]
+}]}

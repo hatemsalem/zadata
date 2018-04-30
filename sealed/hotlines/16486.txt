@@ -36,7 +36,7 @@
 	"arName":"3 أ ش سليمان الحلبى متفرع من ش رمسيس, وسط البلد, القاهرة",
 	"lat":"30.055700000000002",
 	"lng":"31.241700000000002",
-	"enName":"3 A Soliman El Halaby St. Off Ramsis St., Downtown, Cairo"
+	"enName":"3 a Soliman El Halaby St. Off Ramsis St., Downtown, Cairo"
 },
 		{	"profileId":"75375",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/nakhla-tobacco/75375?b=4&k=16486&l=search",

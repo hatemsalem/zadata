@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"142780",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/142780?b=2&k=19058&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/142780?b=3&k=19058&l=search",
 	"arName":"10 ش عمر طوسون متفرع من ش احمد عرابى, المهندسين, الجيزة",
 	"lat":"30.063700000000001",
 	"lng":"31.207899999999999",
@@ -32,7 +32,7 @@
 	"enName":"1 Amer Amin St., El Sadat City, Imbaba, Giza"
 },
 		{	"profileId":"144065",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/144065?b=3&k=19058&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/international-co.-for-appliances-maintenance/144065?b=2&k=19058&l=search",
 	"arName":"3 ش على باشا فهمى, جليم, الاسكندرية",
 	"lat":"31.241168999999999",
 	"lng":"29.962222000000001",

@@ -1,7 +1,7 @@
 {"items":[{	"arName":"اخر ساعة",
 	"enName":"Akher Saa",
 	"hotline":"19550",
-	"facebook":"http://www.facebook.com/AkherSaaEG",
+	"facebook":"",
 	"web":"",
 	"arCategory":[
 		"وجبات سريعة",

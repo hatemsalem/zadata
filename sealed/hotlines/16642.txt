@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"527411",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/527411?b=3&k=16642&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/527411?b=4&k=16642&l=search",
 	"arName":"محلية 8 - ش سليمان الفارسى - الحى الاول, مدينة العبور, القليوبية",
 	"lat":"30.232419",
 	"lng":"31.460429000000001",
@@ -32,7 +32,7 @@
 	"enName":"4 El Nasr Rd. Intersection Of Makram Ebaid St., Nasr city, Cairo"
 },
 		{	"profileId":"522322",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/522322?b=4&k=16642&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/panda-super/522322?b=3&k=16642&l=search",
 	"arName":"طريق القاهرة اسكندرية الزراعى, قها, القليوبية",
 	"lat":"30.279768000000001",
 	"lng":"31.201687",

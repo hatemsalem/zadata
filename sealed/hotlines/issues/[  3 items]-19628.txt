@@ -49,7 +49,7 @@
 	"enName":"Plot 30, , El Herafeen Industrial Zone, El kawther, Hurghada"
 },
 		{	"profileId":"37343",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/37343?b=5&k=19628&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/37343?b=6&k=19628&l=search",
 	"arName":"كم 26 - طريق اسكندرية القاهرة الصحراوى, مرغم, الاسكندرية",
 	"lat":"31.056913000000002",
 	"lng":"29.804072999999999",
@@ -63,7 +63,7 @@
 	"enName":"1 Maamal El Alban St. El Mamalik Sq., El Khalafawy, Shoubra, Cairo"
 },
 		{	"profileId":"187147",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/187147?b=6&k=19628&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mcv-_-manufacturing-commercial-vehicles-co.-s.a.e/187147?b=5&k=19628&l=search",
 	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
 	"lat":"",
 	"lng":"",

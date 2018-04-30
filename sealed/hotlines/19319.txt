@@ -25,7 +25,7 @@
 	"enName":"7 Fouad St. Intersection Of El Nabi Daniel St., Raml station, Alexandria"
 },
 		{	"profileId":"136208",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./136208?b=14&k=19319&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./136208?b=13&k=19319&l=search",
 	"arName":"15 ش الجمهورية, الجمهورية, بور سعيد",
 	"lat":"31.266813200000001",
 	"lng":"32.313411299999999",
@@ -88,7 +88,7 @@
 	"enName":"27 Abdel Aziz St., Downtown, Cairo"
 },
 		{	"profileId":"91307",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./91307?b=13&k=19319&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./91307?b=14&k=19319&l=search",
 	"arName":"كم 47 -, طريق القاهرة الاسكندرية الزراع, طريق القاهرة الاسكندرية الزراعى, القليوبية",
 	"lat":"30.452817",
 	"lng":"31.196300999999998",
@@ -99,7 +99,7 @@
 	"arName":"منطقة مبارك الصناعية الثالثة, قويسنا, المنوفية",
 	"lat":"30.540859000000001",
 	"lng":"31.178391999999999",
-	"enName":"3rd Mubarak Industrial Zone, Quwasnah, El monofeya"
+	"enName":"Mubarak 3rd Industrial Zone, Quwasnah, El monofeya"
 },
 		{	"profileId":"136373",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/media-el-araby-co./136373?b=4&k=19319&l=search",

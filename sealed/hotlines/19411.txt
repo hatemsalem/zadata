@@ -1,0 +1,21 @@
+{"items":[{	"arName":"افرست للمصاعد",
+	"enName":"Everest For Elevators",
+	"hotline":"19411",
+	"facebook":"",
+	"web":"http://www.xizi-everest.com/",
+	"arCategory":[
+		"انشاءات ومقاولات"
+	],
+	"enCategories":[
+		"Construction"
+	],
+	"contacts":[
+		{	"profileId":"223868",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/everest-for-elevators/223868?b=1&k=19411&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"customer service, Heliopolis, Cairo"
+}
+	]
+}]}

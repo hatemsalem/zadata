@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"537463",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/537463?b=18&k=16996&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/537463?b=17&k=16996&l=search",
 	"arName":"ش المعسكر الرومانى, رشدى, الاسكندرية",
 	"lat":"31.230034",
 	"lng":"29.948494",
@@ -32,7 +32,7 @@
 	"enName":"El Hadaba Rd., El hadaba, Hurghada"
 },
 		{	"profileId":"564505",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/564505?b=17&k=16996&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/564505?b=18&k=16996&l=search",
 	"arName":"12 ميدان فيكتور عمانويل - برج القطن, سموحة, الاسكندرية",
 	"lat":"31.213792000000002",
 	"lng":"29.946498999999999",
@@ -81,7 +81,7 @@
 	"enName":"35 Youssef El Seddik St. Off El Nahhas St., Tanta, El gharbeya"
 },
 		{	"profileId":"501310",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/501310?b=9&k=16996&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/501310?b=8&k=16996&l=search",
 	"arName":"26 ش دندرة والاقصر, عرايشية مصر, الاسماعيلية",
 	"lat":"",
 	"lng":"",
@@ -95,7 +95,7 @@
 	"enName":"Plot 31, , El Sheikh Zayed, 6th of october, Giza"
 },
 		{	"profileId":"503006",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/503006?b=8&k=16996&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/503006?b=9&k=16996&l=search",
 	"arName":"القطعة الرابعة - ش سامية الجمل - برج شهاب الدين, المنصورة, الدقهلية",
 	"lat":"31.02927",
 	"lng":"31.371573000000001",
@@ -109,14 +109,14 @@
 	"enName":"137 El Orouba St. Off El Gazaer St., New Maadi, Maadi, Cairo"
 },
 		{	"profileId":"26277",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/26277?b=11&k=16996&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/26277?b=12&k=16996&l=search",
 	"arName":"24 ش الاسكندر الاكبر, الازاريطة, الاسكندرية",
 	"lat":"31.204045000000001",
 	"lng":"29.905891",
 	"enName":"24 El Iskandar El Akbar St., Azarita, Alexandria"
 },
 		{	"profileId":"5999",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/5999?b=12&k=16996&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aramex/5999?b=11&k=16996&l=search",
 	"arName":"31 ش مصدق, الدقى, الجيزة",
 	"lat":"30.040035",
 	"lng":"31.206951",

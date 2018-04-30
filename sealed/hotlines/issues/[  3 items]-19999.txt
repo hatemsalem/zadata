@@ -87,7 +87,7 @@
 	"enName":"Gamal Abdel Nasser St., El lido, Marsa matrouh"
 },
 		{	"profileId":"579412",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579412?b=20&k=19999&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579412?b=22&k=19999&l=search",
 	"arName":"19 ش احمد مرسى بدر, العطارين, الاسكندرية",
 	"lat":"31.194883999999998",
 	"lng":"29.900342999999999",
@@ -115,7 +115,7 @@
 	"enName":"32 Salah Salem St. Intersection Of Fouad St., El attarin, Alexandria"
 },
 		{	"profileId":"577423",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577423?b=21&k=19999&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577423?b=20&k=19999&l=search",
 	"arName":"8 ش الشيخ محمد متولى الشعراوى, طنطا, الغربية",
 	"lat":"30.781465000000001",
 	"lng":"30.995677000000001",
@@ -150,7 +150,7 @@
 	"enName":"16 Emad El Din St., Downtown, Cairo"
 },
 		{	"profileId":"579387",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579387?b=16&k=19999&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/579387?b=17&k=19999&l=search",
 	"arName":"القطعة 21 - قطاع A6 - المنطقة الصناعية الثالثة - المبنى الادارى, العاشر من رمضان, الشرقية",
 	"lat":"30.246500000000001",
 	"lng":"31.758963999999999",
@@ -164,7 +164,7 @@
 	"enName":"55 Abou El Fawares St., 6th District, Nasr city, Cairo"
 },
 		{	"profileId":"577413",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577413?b=17&k=19999&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577413?b=16&k=19999&l=search",
 	"arName":"9 ش عاطف السادات, حى المناخ, بور سعيد",
 	"lat":"31.271478999999999",
 	"lng":"32.296362999999999",
@@ -185,7 +185,7 @@
 	"enName":"83 Corniche El Nil St., El corniche, Aswan"
 },
 		{	"profileId":"577459",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577459?b=22&k=19999&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/zanussi/577459?b=21&k=19999&l=search",
 	"arName":"52 ش صفية زغلول, محطة الرمل, الاسكندرية",
 	"lat":"31.199300000000001",
 	"lng":"29.902200000000001",

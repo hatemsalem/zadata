@@ -88,7 +88,7 @@
 	"enName":"25 El Tahrir St., Bab el louk, Cairo"
 },
 		{	"profileId":"578714",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578714?b=4&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578714?b=7&k=19910&l=search",
 	"arName":"6 ش عين شمس, عين شمس, القاهرة",
 	"lat":"30.133403999999999",
 	"lng":"31.323436999999998",
@@ -123,7 +123,7 @@
 	"enName":"26th Of July Spine, Touristic Zone, El Motamayez District, 6th of october, Giza"
 },
 		{	"profileId":"578492",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578492?b=1&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578492?b=4&k=19910&l=search",
 	"arName":"ش 9, حدائق المعادى, المعادى, القاهرة",
 	"lat":"29.969833999999999",
 	"lng":"31.250879000000001",
@@ -137,7 +137,7 @@
 	"enName":"Bldg. 40W, Hadayek El Ahram, El haram, Giza"
 },
 		{	"profileId":"578531",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578531?b=2&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578531?b=5&k=19910&l=search",
 	"arName":"68 عمارات بنك الاسكان والتعمير - ش السوق, الحى العاشر, مدينة نصر, القاهرة",
 	"lat":"30.046993000000001",
 	"lng":"31.373508999999999",
@@ -179,7 +179,7 @@
 	"enName":"2 Othman Moharram St., El Talbeya, El haram, Giza"
 },
 		{	"profileId":"569268",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569268?b=7&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569268?b=3&k=19910&l=search",
 	"arName":"1 ش العزب متفرع من ش جمال عبد الناصر, حدائق حلوان, القاهرة",
 	"lat":"29.892555000000002",
 	"lng":"31.293755999999998",
@@ -221,7 +221,7 @@
 	"enName":"95 El Mahatta St. Off Sidi Shabaan St., Giza, Giza"
 },
 		{	"profileId":"578699",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578699?b=38&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578699?b=39&k=19910&l=search",
 	"arName":"ش الملك فيصل, التعاون, فيصل, الجيزة",
 	"lat":"30.004538",
 	"lng":"31.175846",
@@ -249,7 +249,7 @@
 	"enName":"22 Taha Abou Rayya St. Intersection Of Ahmed Zaky St., Maadi, Cairo"
 },
 		{	"profileId":"569155",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569155?b=5&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569155?b=1&k=19910&l=search",
 	"arName":"خدمة العملاء, المعادى, القاهرة",
 	"lat":"",
 	"lng":"",
@@ -298,14 +298,14 @@
 	"enName":"14 El Marwa Bldgs., , koleyet El Banat, Heliopolis, Cairo"
 },
 		{	"profileId":"578593",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578593?b=37&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578593?b=38&k=19910&l=search",
 	"arName":"., شبرا الخيمة, القليوبية",
 	"lat":"30.113679999999999",
 	"lng":"31.248754000000002",
 	"enName":"., Shoubra el khaymah, Kaliobeya"
 },
 		{	"profileId":"578598",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578598?b=3&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/578598?b=6&k=19910&l=search",
 	"arName":"., شبرا, القاهرة",
 	"lat":"30.070913999999998",
 	"lng":"31.245096",
@@ -389,7 +389,7 @@
 	"enName":"21 Ibn El Hakam St., Helmeyet el zaitoun, Cairo"
 },
 		{	"profileId":"569249",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569249?b=39&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569249?b=37&k=19910&l=search",
 	"arName":"195 ش 15 مايو - منشية الحرية - محل 2, شبرا الخيمة, القليوبية",
 	"lat":"",
 	"lng":"",
@@ -417,7 +417,7 @@
 	"enName":"Atlas Bldgs., Block 22, , El salam city, Cairo"
 },
 		{	"profileId":"569167",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569167?b=6&k=19910&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/aman/569167?b=2&k=19910&l=search",
 	"arName":"36 ش السيدة عائشة, الخليفة, القاهرة",
 	"lat":"30.025596",
 	"lng":"31.256478999999999",

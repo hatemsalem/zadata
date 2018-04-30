@@ -6,18 +6,24 @@
 	"arCategory":[
 		"اعلان - وكالات",
 		"انترنت شركات ومصممون مواقع",
+		"استشاريون",
+		"افلام وفيديو وخدمات تليفزيونية وترجمة",
 		"تسويق عبر الانترنت",
-		"خرائط ونظم معلومات جغرافية"
+		"خرائط ونظم معلومات جغرافية",
+		"تسويق استشاريون"
 	],
 	"enCategories":[
 		"Advertising Agencies",
 		"Internet Companies & Website Design",
+		"Consultants",
+		"Film, Video, TV Services & Subtitling",
 		"Internet Marketing",
-		"Maps & GIS"
+		"Maps & GIS",
+		"Marketing Consultants"
 	],
 	"contacts":[
 		{	"profileId":"129034",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/yellow-media,-an-egypt-yellow-pages-company/129034?b=11&k=19345&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yellow-media,-an-egypt-yellow-pages-company/129034?b=12&k=19345&l=search",
 	"arName":"المحور المركزى - المجاورة الثانية - عمارة 343 - الدور 4 شقة 1, الحى الثانى, السادس من اكتوبر, الجيزة",
 	"lat":"29.968803000000001",
 	"lng":"30.939806000000001",
@@ -94,7 +100,7 @@
 	"enName":"101 Suez Canal St., Nawar Tower, Floor 6 Flat 16, El mansoura, El dakahleya"
 },
 		{	"profileId":"102446",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/yellow-media,-an-egypt-yellow-pages-company/102446?b=12&k=19345&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/yellow-media,-an-egypt-yellow-pages-company/102446?b=11&k=19345&l=search",
 	"arName":"42 ش الهرم تقاطع ش الوفاء والامل - الدور 3 شقة 314, المريوطية, الهرم, الجيزة",
 	"lat":"29.988942999999999",
 	"lng":"31.146311000000001",
@@ -108,11 +114,13 @@
 	"web":"http://www.dalili.com.eg/",
 	"arCategory":[
 		"اعلان - وكالات",
-		"تسويق عبر الانترنت"
+		"تسويق عبر الانترنت",
+		"تسويق استشاريون"
 	],
 	"enCategories":[
 		"Advertising Agencies",
-		"Internet Marketing"
+		"Internet Marketing",
+		"Marketing Consultants"
 	],
 	"contacts":[
 		{	"profileId":"229050",

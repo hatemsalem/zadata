@@ -27,14 +27,14 @@
 	"enName":"66 El Sabaa Banat St., El mansheya, Alexandria"
 },
 		{	"profileId":"141233",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/141233?b=5&k=19159&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/141233?b=7&k=19159&l=search",
 	"arName":"6 ش سيبويه المصرى متفرع من ش الطيران, المنطقة الاولى, مدينة نصر, القاهرة",
 	"lat":"30.065764000000001",
 	"lng":"31.326364000000002",
 	"enName":"6 Sibawayh El Masry St. Off El Tayaran st., 1st Zone, Nasr city, Cairo"
 },
 		{	"profileId":"166868",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/166868?b=7&k=19159&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/166868?b=6&k=19159&l=search",
 	"arName":"21 ش كليوباترا, الكوربة, مصر الجديدة, القاهرة",
 	"lat":"30.090484",
 	"lng":"31.327829000000001",
@@ -48,7 +48,7 @@
 	"enName":"14 Saray El Azbakeya St. Off Emad El Din St., Downtown, Cairo"
 },
 		{	"profileId":"179239",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/179239?b=6&k=19159&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-sewedy-electric-holding/179239?b=5&k=19159&l=search",
 	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"",
 	"lng":"",

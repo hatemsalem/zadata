@@ -78,8 +78,8 @@
 		{	"profileId":"272783",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/272783?b=18&k=16862&l=search",
 	"arName":"2 ش ابراهيم المغازى - برج البيالى, وسط البلد, كفر الشيخ",
-	"lat":"31.114753",
-	"lng":"30.946829000000001",
+	"lat":"31.112528999999999",
+	"lng":"30.948067999999999",
 	"enName":"2 Ibrahim El Moghazy St., El Beialy Tower, Downtown, Kafr el sheikh"
 },
 		{	"profileId":"450520",
@@ -104,7 +104,7 @@
 	"enName":"10 El Saleh Aioub St., Zamalek, Cairo"
 },
 		{	"profileId":"149272",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/149272?b=6&k=16862&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/149272?b=7&k=16862&l=search",
 	"arName":"29 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
 	"lat":"30.061809",
 	"lng":"31.336103000000001",
@@ -174,7 +174,7 @@
 	"enName":"90 Mohy El Din Abou El Ezz St., Mohandeseen, Giza"
 },
 		{	"profileId":"171706",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/171706?b=7&k=16862&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/171706?b=8&k=16862&l=search",
 	"arName":"خدمة العملاء, وسط البلد, القاهرة",
 	"lat":"",
 	"lng":"",
@@ -188,7 +188,7 @@
 	"enName":"4 Afify Alley, Off El Amin St., SHIBIN EL KAWM, Shebein el kawm, El monofeya"
 },
 		{	"profileId":"168657",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/168657?b=8&k=16862&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt/168657?b=6&k=16862&l=search",
 	"arName":"9 ش طلعت حرب, وسط البلد, القاهرة",
 	"lat":"30.046488",
 	"lng":"31.237634",
@@ -236,7 +236,7 @@
 	],
 	"contacts":[
 		{	"profileId":"427283",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/427283?b=33&k=16862&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/427283?b=32&k=16862&l=search",
 	"arName":"القطعة A - ش التسعين - مركز المدينة, التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"30.017107800000002",
 	"lng":"31.412465300000001",
@@ -411,7 +411,7 @@
 	"enName":"9 El Batrawy St. Off Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
 },
 		{	"profileId":"394146",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/394146?b=32&k=16862&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-national-bank-_-egypt-_-atm/394146?b=33&k=16862&l=search",
 	"arName":"ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"30.025798000000002",
 	"lng":"31.489863",

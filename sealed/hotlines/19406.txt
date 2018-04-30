@@ -18,7 +18,7 @@
 	"enName":"1 Ahmed El Sharqawy St. Off Faisal St., Faisal, Giza"
 },
 		{	"profileId":"533444",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533444?b=15&k=19406&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533444?b=18&k=19406&l=search",
 	"arName":"ش عباس محمود - ش البركة سابقا, وسط البلد, اسوان",
 	"lat":"24.094111000000002",
 	"lng":"32.901069999999997",
@@ -95,7 +95,7 @@
 	"enName":"16 Rabaa Investment Bldgs., El Nozha St. El Saah Sq., Nasr city, Cairo"
 },
 		{	"profileId":"533879",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533879?b=18&k=19406&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533879?b=17&k=19406&l=search",
 	"arName":"383 ش جمال عبد الناصر, العصافرة, الاسكندرية",
 	"lat":"31.273215",
 	"lng":"30.005057000000001",
@@ -116,7 +116,7 @@
 	"enName":"362 El Guish St., Belal Tower, El arbeen, Suez"
 },
 		{	"profileId":"533867",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533867?b=17&k=19406&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533867?b=16&k=19406&l=search",
 	"arName":"1 ميدان المحطة, وسط البلد, قنا",
 	"lat":"26.161701999999998",
 	"lng":"32.726436999999997",
@@ -130,7 +130,7 @@
 	"enName":"6 Syria St., Roushdy, Alexandria"
 },
 		{	"profileId":"533468",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533468?b=16&k=19406&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/union-group/533468?b=15&k=19406&l=search",
 	"arName":"الشارع الجديد - ش صلاح الدين سابقا, الكورنيش, اسوان",
 	"lat":"",
 	"lng":"",

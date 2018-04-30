@@ -18,42 +18,42 @@
 	"enName":"El Tesaeen St., 5th Compound, New cairo, Cairo"
 },
 		{	"profileId":"454560",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/454560?b=3&k=19857&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/454560?b=4&k=19857&l=search",
 	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
 	"lat":"31.245384000000001",
 	"lng":"29.965707999999999",
 	"enName":"El Guish Rd., San stefano, Alexandria"
 },
 		{	"profileId":"455363",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/455363?b=8&k=19857&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/455363?b=9&k=19857&l=search",
 	"arName":"كم 6 - , طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
 	"lat":"31.167404000000001",
 	"lng":"29.933047999999999",
 	"enName":"Km 6, , Alex. cairo desert rd., Alexandria"
 },
 		{	"profileId":"514469",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/514469?b=5&k=19857&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/514469?b=6&k=19857&l=search",
 	"arName":"بفرلى هيلز - ذا بوليجون كمباوند - مبنى 3 - الدور الارضى, الشيخ زايد, السادس من اكتوبر, الجيزة",
 	"lat":"30.071090000000002",
 	"lng":"30.945986999999999",
 	"enName":"Beverly Hills, The Polygon Compound, Bldg. 3, Ground Floor, El Sheikh Zayed, 6th of october, Giza"
 },
 		{	"profileId":"317791",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/317791?b=7&k=19857&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/317791?b=8&k=19857&l=search",
 	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
 	"lat":"30.005434000000001",
 	"lng":"30.974428",
 	"enName":"Juhaina Sq., 6th of october, Giza"
 },
 		{	"profileId":"52331",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/52331?b=6&k=19857&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/52331?b=7&k=19857&l=search",
 	"arName":"35 ش جامعة الدول العربية, المهندسين, الجيزة",
 	"lat":"30.050999999999998",
 	"lng":"31.199100000000001",
 	"enName":"35 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
 },
 		{	"profileId":"189867",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/189867?b=9&k=19857&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/189867?b=10&k=19857&l=search",
 	"arName":"كم 28 -, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
 	"lat":"30.062851999999999",
 	"lng":"31.027342999999998",
@@ -67,18 +67,25 @@
 	"enName":"Omar Ibn El Khattab St., Heliopolis, Cairo"
 },
 		{	"profileId":"542062",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/542062?b=4&k=19857&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/542062?b=5&k=19857&l=search",
 	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
 	"lat":"29.971907000000002",
 	"lng":"31.01773",
 	"enName":"El Wahat Rd., 6th of october, Giza"
 },
 		{	"profileId":"454566",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/454566?b=10&k=19857&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/454566?b=11&k=19857&l=search",
 	"arName":"خدمة العملاء, المهندسين, الجيزة",
 	"lat":"",
 	"lng":"",
 	"enName":"Customer Service, Mohandeseen, Giza"
+},
+		{	"profileId":"582661",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tradeline-stores/582661?b=3&k=19857&l=search",
+	"arName":"2005 ج ابراج نايل سيتى - كورنيش النيل, رملة بولاق, القاهرة",
+	"lat":"30.071845",
+	"lng":"31.227637000000001",
+	"enName":"2005 C Nile City Towers, Corniche El Nil, Ramlet boulak, Cairo"
 }
 	]
 }]}

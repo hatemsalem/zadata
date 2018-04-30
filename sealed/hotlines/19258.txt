@@ -1,0 +1,35 @@
+{"items":[{	"arName":"اورينت للتأمين التكافلى",
+	"enName":"Orient Takaful Insurance",
+	"hotline":"19258",
+	"facebook":"",
+	"web":"http://www.orienttakaful.com/",
+	"arCategory":[
+		"تأمين"
+	],
+	"enCategories":[
+		"Insurance"
+	],
+	"contacts":[
+		{	"profileId":"582628",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orient-takaful-insurance/582628?b=1&k=19258&l=search",
+	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Heliopolis, Cairo"
+},
+		{	"profileId":"464287",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orient-takaful-insurance/464287?b=3&k=19258&l=search",
+	"arName":"65 ش مصدق, الدقى, الجيزة",
+	"lat":"30.039255000000001",
+	"lng":"31.203040999999999",
+	"enName":"65 Mossadak St., Dokki, Giza"
+},
+		{	"profileId":"464286",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orient-takaful-insurance/464286?b=2&k=19258&l=search",
+	"arName":"27 ش حسن صادق - الدور 1, مصر الجديدة, القاهرة",
+	"lat":"30.085374999999999",
+	"lng":"31.329979999999999",
+	"enName":"27 Hassan Sadeq St., Floor 1, Heliopolis, Cairo"
+}
+	]
+}]}

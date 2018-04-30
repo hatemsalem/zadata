@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"139926",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/139926?b=6&k=16172&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/139926?b=7&k=16172&l=search",
 	"arName":"330 ش الهرم, الهرم, الجيزة",
 	"lat":"30.004045999999999",
 	"lng":"31.186544000000001",
@@ -25,14 +25,14 @@
 	"enName":"Customer Service, El Talbeya, El haram, Giza"
 },
 		{	"profileId":"139905",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/139905?b=15&k=16172&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/139905?b=16&k=16172&l=search",
 	"arName":"ش البحر الاعظم - ابراج المانسترلى - برج 4, الهرم, الجيزة",
 	"lat":"29.997059799999999",
 	"lng":"31.2144944",
 	"enName":"El Bahr El Aazam St., El Menstrly Towers, Tower 4, El haram, Giza"
 },
 		{	"profileId":"139900",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/139900?b=14&k=16172&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/139900?b=15&k=16172&l=search",
 	"arName":"ش الترعة, المنصورة, الدقهلية",
 	"lat":"31.0335234",
 	"lng":"31.3684987",
@@ -60,14 +60,14 @@
 	"enName":"40 Mostafa Kamel St. Off Victor Emanuel St., Semouha, Alexandria"
 },
 		{	"profileId":"148338",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/148338?b=7&k=16172&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/148338?b=5&k=16172&l=search",
 	"arName":"16 ش البيطاش الرئيسى, العجمى, الاسكندرية",
 	"lat":"31.116074000000001",
 	"lng":"29.792859",
 	"enName":"16 El Bitash Main St., Agami, Alexandria"
 },
 		{	"profileId":"139894",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/139894?b=5&k=16172&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/139894?b=6&k=16172&l=search",
 	"arName":"برج المروة - ش الجمهورية, حى شرق, اسيوط",
 	"lat":"27.189871",
 	"lng":"31.186451000000002",
@@ -88,7 +88,7 @@
 	"enName":"46 El Estad St., Dahar, Hurghada"
 },
 		{	"profileId":"141260",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/141260?b=16&k=16172&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cmb-_-chemicals-for-modern-building/141260?b=14&k=16172&l=search",
 	"arName":"389 ش فيصل الطالبية, فيصل, الجيزة",
 	"lat":"30.004799999999999",
 	"lng":"31.177",

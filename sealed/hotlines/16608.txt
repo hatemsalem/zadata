@@ -46,7 +46,7 @@
 	"enName":"Corniche El Nil St., Damietta, Damietta"
 },
 		{	"profileId":"460078",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/460078?b=10&k=16608&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/460078?b=9&k=16608&l=search",
 	"arName":"خدمة العملاء, مدينة العبور, القليوبية",
 	"lat":"",
 	"lng":"",
@@ -95,21 +95,21 @@
 	"enName":"Plot 2/1, El Laselky Division, New Maadi, Maadi, Cairo"
 },
 		{	"profileId":"452835",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/452835?b=9&k=16608&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/452835?b=10&k=16608&l=search",
 	"arName":"المحور المركزى, السادس من اكتوبر, الجيزة",
 	"lat":"29.975954000000002",
 	"lng":"30.944488",
 	"enName":"Central Spine, 6th of october, Giza"
 },
 		{	"profileId":"58357",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/58357?b=11&k=16608&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/58357?b=12&k=16608&l=search",
 	"arName":"27 ش سيدى المتولى, العطارين, الاسكندرية",
 	"lat":"31.194682",
 	"lng":"29.897962",
 	"enName":"27 Sidi El Metwally St., El attarin, Alexandria"
 },
 		{	"profileId":"178546",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/178546?b=12&k=16608&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/kandil-egypt/178546?b=11&k=16608&l=search",
 	"arName":"44 ش المشاية السفلية - ش حسنى مبارك سابقا - برج الاندلس, المنصورة, الدقهلية",
 	"lat":"31.045442699999999",
 	"lng":"31.364290400000002",

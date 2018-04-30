@@ -25,7 +25,7 @@
 	"enName":"46 Syria St., Mohandeseen, Giza"
 },
 		{	"profileId":"172752",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/172752?b=3&k=16866&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/172752?b=2&k=16866&l=search",
 	"arName":"القطعة 13، 14 - ش 17 - الحى الاول - مركز خدمات التجمع الخامس, التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"30.010377999999999",
 	"lng":"31.423137000000001",
@@ -39,7 +39,7 @@
 	"enName":"7 Saint Marc St., El mansheya, Alexandria"
 },
 		{	"profileId":"53035",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/53035?b=2&k=16866&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bouri/53035?b=3&k=16866&l=search",
 	"arName":"5 ش شريف تقاطع ش صبرى ابو علم, وسط البلد, القاهرة",
 	"lat":"30.045732999999998",
 	"lng":"31.242281999999999",

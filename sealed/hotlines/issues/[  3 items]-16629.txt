@@ -31,7 +31,7 @@
 	"enName":"92 El Merghany St., koleyet El Banat, Heliopolis, Cairo"
 },
 		{	"profileId":"393097",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/393097?b=3&k=16629&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/393097?b=2&k=16629&l=search",
 	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
 	"lat":"30.073430999999999",
 	"lng":"31.347339000000002",
@@ -87,7 +87,7 @@
 	"enName":"El Guish St., San stefano, Alexandria"
 },
 		{	"profileId":"457278",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/457278?b=2&k=16629&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/auntie-anne's/457278?b=3&k=16629&l=search",
 	"arName":"., مدينة الرحاب, القاهرة",
 	"lat":"30.054638000000001",
 	"lng":"31.492152000000001",

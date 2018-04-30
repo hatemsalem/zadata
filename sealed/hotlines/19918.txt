@@ -31,7 +31,7 @@
 	"enName":"16 Shams El Din El Zahaby St. Off El Merghany St., Ard El Golf, Heliopolis, Cairo"
 },
 		{	"profileId":"189045",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/189045?b=7&k=19918&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/189045?b=6&k=19918&l=search",
 	"arName":"السوق التجارى - محل 243, مدينة الرحاب, القاهرة",
 	"lat":"30.056567000000001",
 	"lng":"31.491710999999999",
@@ -66,7 +66,7 @@
 	"enName":"45 Abou Bakr El Seddik St. Intersection Of Haroun St., El Mahkama Square, Heliopolis, Cairo"
 },
 		{	"profileId":"75567",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/75567?b=6&k=19918&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tseppas-mg/75567?b=7&k=19918&l=search",
 	"arName":"575 ش بورسعيد, باب الشعرية, القاهرة",
 	"lat":"30.059536999999999",
 	"lng":"31.260262000000001",

@@ -13,8 +13,8 @@
 		{	"profileId":"581930",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/huawei-devices/581930?b=3&k=19286&l=search",
 	"arName":"41 ش شبين الكوم, الشيخ زايد, الاسماعيلية",
-	"lat":"",
-	"lng":"",
+	"lat":"30.611535",
+	"lng":"32.270923000000003",
 	"enName":"41 Shebin El Koum St., El sheikh zayed, Ismaileya"
 },
 		{	"profileId":"503685",

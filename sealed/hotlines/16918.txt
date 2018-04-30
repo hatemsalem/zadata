@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"540425",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/etihad-airways/540425?b=1&k=16918&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etihad-airways/540425?b=2&k=16918&l=search",
 	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
 	"lat":"30.126996999999999",
 	"lng":"31.402411000000001",
@@ -25,7 +25,7 @@
 	"enName":"Customer Service, Heliopolis, Cairo"
 },
 		{	"profileId":"475672",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/etihad-airways/475672?b=2&k=16918&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/etihad-airways/475672?b=1&k=16918&l=search",
 	"arName":"8 ابراج سيتى ستارز - ش عمر بن الخطاب - وحدة 3, مصر الجديدة, القاهرة",
 	"lat":"30.072102000000001",
 	"lng":"31.344508999999999",

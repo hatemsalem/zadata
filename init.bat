@@ -16,10 +16,6 @@ xcopy C:\zadata\sealed\categories\*.* C:\zadata\work\categories\*.* /E
 echo "Copying init data files--16xxx hotlines,Press any key to continue"
 pause
 xcopy C:\zadata\sealed\hotlines\16*.* C:\zadata\work\hotlines\*.* 
-xcopy C:\zadata\sealed\hotlines\issues\*16113.* C:\zadata\work\hotlines\*.* 
-xcopy C:\zadata\sealed\hotlines\issues\*16404.* C:\zadata\work\hotlines\*.* 
-xcopy C:\zadata\sealed\hotlines\issues\*16061.* C:\zadata\work\hotlines\*.* 
-xcopy C:\zadata\sealed\hotlines\issues\*16257.* C:\zadata\work\hotlines\*.* 
 echo "Copying init data files--19xxx hotlines,Press any key to continue"
 pause
 xcopy C:\zadata\sealed\hotlines\19*.* C:\zadata\work\hotlines\*.* 

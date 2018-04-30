@@ -18,7 +18,7 @@
 	"enName":"., 10th of ramadan, El sharkeya"
 },
 		{	"profileId":"129477",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/higher-technological-institute-_-hti/129477?b=2&k=19288&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/higher-technological-institute-_-hti/129477?b=1&k=19288&l=search",
 	"arName":"التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"29.994423999999999",
 	"lng":"31.436074000000001",
@@ -46,7 +46,7 @@
 	"enName":"7 Square 1227, Khaled Teama St., Sheraton Bldgs., Heliopolis, Cairo"
 },
 		{	"profileId":"137829",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/higher-technological-institute-_-hti/137829?b=1&k=19288&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/higher-technological-institute-_-hti/137829?b=2&k=19288&l=search",
 	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
 	"lat":"",
 	"lng":"",

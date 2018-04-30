@@ -201,7 +201,7 @@
 	"enName":"210 El Salam Rd., Naama bay, Sharm el sheikh"
 },
 		{	"profileId":"347972",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347972?b=30&k=19342&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347972?b=29&k=19342&l=search",
 	"arName":"المنطقة الصناعية الاولى, العاشر من رمضان, الشرقية",
 	"lat":"",
 	"lng":"",
@@ -236,7 +236,7 @@
 	"enName":"Oasis Rd., 6th of october, Giza"
 },
 		{	"profileId":"347965",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347965?b=29&k=19342&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egyptian-gulf-bank-_-egb-_-atm/347965?b=30&k=19342&l=search",
 	"arName":"نزلة عبد الله, حى شرق, اسيوط",
 	"lat":"",
 	"lng":"",

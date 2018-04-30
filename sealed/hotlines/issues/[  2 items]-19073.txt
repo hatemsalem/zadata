@@ -1,0 +1,93 @@
+{"items":[{	"arName":"المنصور للتجارة والتوزيع",
+	"enName":"Al Mansour Co. For Trading & Distribution",
+	"hotline":"19073",
+	"facebook":"",
+	"web":"http://www.seclamfood.com/",
+	"arCategory":[
+		"البان منتجات - مصنعون"
+	],
+	"enCategories":[
+		"Dairy Industry"
+	],
+	"contacts":[
+		{	"profileId":"235518",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-co.-for-trading-&-distribution/235518?b=3&k=19073&l=search",
+	"arName":"خدمة العملاء, الرأس السوداء, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Ras elsoda, Alexandria"
+},
+		{	"profileId":"133052",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-co.-for-trading-&-distribution/133052?b=2&k=19073&l=search",
+	"arName":"ش مصطفى كامل - مصنع سيكلام, الرأس السوداء, الاسكندرية",
+	"lat":"31.260636000000002",
+	"lng":"30.021176000000001",
+	"enName":"Moustafa Kamel St., Seclam Factory, Ras elsoda, Alexandria"
+},
+		{	"profileId":"166006",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-mansour-co.-for-trading-&-distribution/166006?b=1&k=19073&l=search",
+	"arName":"ش قنال المحمودية, حجر النواتية, الاسكندرية",
+	"lat":"31.222995000000001",
+	"lng":"29.970606",
+	"enName":"Canal El Mahmoudeya St., Hagar el nouateya, Alexandria"
+}
+	]
+}, {	"arName":"فريش فوود ماركت",
+	"enName":"Fresh Food Market",
+	"hotline":"19073",
+	"facebook":"http://www.facebook.com/freshfoodmarketegypt",
+	"web":"http://www.mmd.mansourgroup.com/",
+	"arCategory":[
+		"مخابز ومعجنات وحلوى محلات",
+		"مقاهى",
+		"مطاعم ايطالية",
+		"مطاعم",
+		"مطاعم توصيل الطلبات للمنازل",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"Bakery & Pastry Shops",
+		"Cafes and Coffee Shops",
+		"Italian Food",
+		"Restaurants",
+		"Restaurants Home Delivery",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"583150",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-food-market/583150?b=4&k=19073&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"512488",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-food-market/512488?b=6&k=19073&l=search",
+	"arName":"طريق الجيش, سان استيفانو, الاسكندرية",
+	"lat":"31.245864999999998",
+	"lng":"29.967065999999999",
+	"enName":"El Guish Rd., San stefano, Alexandria"
+},
+		{	"profileId":"577416",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-food-market/577416?b=8&k=19073&l=search",
+	"arName":"المحور المركزى - المجاورة الثالثة - الحى الثالث, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.030936000000001",
+	"lng":"30.998421",
+	"enName":"Central Spine, 3rd Neighbourhood, 3rd District, El Sheikh Zayed, 6th of october, Giza"
+},
+		{	"profileId":"489826",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-food-market/489826?b=5&k=19073&l=search",
+	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.020237000000002",
+	"lng":"31.494927000000001",
+	"enName":"El Obour St. Off El Tesaeen St., 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"577420",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/fresh-food-market/577420?b=7&k=19073&l=search",
+	"arName":"بالم هيلز, الشيخ زايد, السادس من اكتوبر, الجيزة",
+	"lat":"30.013930999999999",
+	"lng":"31.026371999999999",
+	"enName":"Palm Hills, El Sheikh Zayed, 6th of october, Giza"
+}
+	]
+}]}

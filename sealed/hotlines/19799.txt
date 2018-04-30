@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"64197",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/64197?b=5&k=19799&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/64197?b=6&k=19799&l=search",
 	"arName":"13 ش الفردوس امتداد ش احمد سعيد, عباسية, القاهرة",
 	"lat":"30.059279",
 	"lng":"31.277094000000002",
@@ -25,7 +25,7 @@
 	"enName":"Km 67,, Alex. matrouh desert rd., North coast"
 },
 		{	"profileId":"88010",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/88010?b=15&k=19799&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/88010?b=16&k=19799&l=search",
 	"arName":"القطعة 3/2 - - المنطقة الصناعية الاولى, العاشر من رمضان, الشرقية",
 	"lat":"30.244429",
 	"lng":"31.729721999999999",
@@ -46,7 +46,7 @@
 	"enName":"5 Secon Bldgs., El Nozha St., Ard El Golf, Heliopolis, Cairo"
 },
 		{	"profileId":"131137",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/131137?b=10&k=19799&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/131137?b=11&k=19799&l=search",
 	"arName":"23 ش فريدة حسان - ش المختلط سابقا, المنصورة, الدقهلية",
 	"lat":"31.049659999999999",
 	"lng":"31.391318999999999",
@@ -60,7 +60,7 @@
 	"enName":"9 Rd. 257, New Maadi, Maadi, Cairo"
 },
 		{	"profileId":"106421",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/106421?b=11&k=19799&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/106421?b=10&k=19799&l=search",
 	"arName":"طريق اسكندرية مطروح الصحراوى, البيطاش, الاسكندرية",
 	"lat":"31.116102999999999",
 	"lng":"29.79607",
@@ -88,7 +88,7 @@
 	"enName":"Customer Service, Abbasseya, Cairo"
 },
 		{	"profileId":"141583",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/141583?b=6&k=19799&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/141583?b=5&k=19799&l=search",
 	"arName":"1 طريق النصر تقاطع ش مكرم عبيد - عمارة سيتى لايت, مدينة نصر, القاهرة",
 	"lat":"30.069144000000001",
 	"lng":"31.344362",
@@ -109,7 +109,7 @@
 	"enName":"4th Neighbourhood, 1St District, El sherouk city, Cairo"
 },
 		{	"profileId":"106417",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/106417?b=16&k=19799&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/taki-vita/106417?b=15&k=19799&l=search",
 	"arName":"مارينا 4 - السوق التجارى, مارينا, الساحل الشمالى",
 	"lat":"30.826995",
 	"lng":"28.983322999999999",

@@ -25,7 +25,7 @@
 	"enName":"Customer Service, Mohandeseen, Giza"
 },
 		{	"profileId":"126070",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./126070?b=5&k=19933&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./126070?b=6&k=19933&l=search",
 	"arName":"10 ش البستان, وسط البلد, قنا",
 	"lat":"26.155062000000001",
 	"lng":"32.716372999999997",
@@ -67,7 +67,7 @@
 	"enName":"3rd District, El sheikh zayed, Ismaileya"
 },
 		{	"profileId":"108561",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./108561?b=6&k=19933&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/universal-group-co./108561?b=5&k=19933&l=search",
 	"arName":"القطعة 147، 148، 149 - ش البرنس - المنطقة الصناعية الثانية, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
 	"lat":"29.925000000000001",
 	"lng":"30.900524999999998",

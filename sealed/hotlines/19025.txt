@@ -1,7 +1,7 @@
 {"items":[{	"arName":"ايه ام جى - الغلبان جروب",
 	"enName":"AMG - El Ghalban Group",
 	"hotline":"19025",
-	"facebook":"http://www.facebook.com/pages/AMG-Auto-Market-Group/796339490460882",
+	"facebook":"http://www.facebook.com/AMG-Auto-Market-Group-796339490460882",
 	"web":"",
 	"arCategory":[
 		"سيارات - تجار - سيارات جديدة"

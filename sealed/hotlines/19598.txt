@@ -1,0 +1,28 @@
+{"items":[{	"arName":"عباد الرحمن",
+	"enName":"Ebad Al Rahman",
+	"hotline":"19598",
+	"facebook":"http://www.facebook.com/ebadalrahman.hrg",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"582589",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ebad-al-rahman/582589?b=2&k=19598&l=search",
+	"arName":"طريق الاحياء, منطقة الاحياء, الغردقة",
+	"lat":"27.274256000000001",
+	"lng":"33.784767000000002",
+	"enName":"El Ahyaa Rd., El ahyaa area, Hurghada"
+},
+		{	"profileId":"582593",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ebad-al-rahman/582593?b=1&k=19598&l=search",
+	"arName":"خدمة العملاء, منطقة الاحياء, الغردقة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, El ahyaa area, Hurghada"
+}
+	]
+}]}

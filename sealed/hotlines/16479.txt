@@ -22,7 +22,7 @@
 	"enName":"95 D El Merghany St., Roxy, Heliopolis, Cairo"
 },
 		{	"profileId":"498550",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/498550?b=1&k=16479&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/498550?b=2&k=16479&l=search",
 	"arName":"حى النخيل, التجمع الاول, القاهرة الجديدة, القاهرة",
 	"lat":"30.058610999999999",
 	"lng":"31.424568000000001",
@@ -43,7 +43,7 @@
 	"enName":"Km 129, Alex Matrouh Desert Rd., Marassi Village, Sidi abdel rahman, North coast"
 },
 		{	"profileId":"470697",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/470697?b=2&k=16479&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manoushe-street/470697?b=1&k=16479&l=search",
 	"arName":"خدمة توصيل الطلبات للمنازل, روكسى, مصر الجديدة, القاهرة",
 	"lat":"",
 	"lng":"",

@@ -25,14 +25,14 @@
 	"enName":"16 Mahmoud Basiony St. Off Talaat Harb Sq., Downtown, Cairo"
 },
 		{	"profileId":"68380",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/air-arabia/68380?b=3&k=16278&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-arabia/68380?b=2&k=16278&l=search",
 	"arName":"10 ش احمد يحيى متفرع من ش ابو قير, جليم, الاسكندرية",
 	"lat":"31.239353000000001",
 	"lng":"29.962506000000001",
 	"enName":"10 Ahmed Yehia St. Off Abou Qir St., Glim, Alexandria"
 },
 		{	"profileId":"187432",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/air-arabia/187432?b=2&k=16278&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/air-arabia/187432?b=3&k=16278&l=search",
 	"arName":"خدمة العملاء, المهندسين, الجيزة",
 	"lat":"",
 	"lng":"",

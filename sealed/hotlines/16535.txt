@@ -4,9 +4,11 @@
 	"facebook":"http://www.facebook.com/qualityegypt%20",
 	"web":"",
 	"arCategory":[
+		"",
 		"كمبيوتر اجهزة وقطع غيار"
 	],
 	"enCategories":[
+		"",
 		"Computer Hardware"
 	],
 	"contacts":[

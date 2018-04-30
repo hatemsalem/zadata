@@ -18,7 +18,7 @@
 	"enName":"42 Talaat Mostafa St. Phase 1, Al rehab city, Cairo"
 },
 		{	"profileId":"442004",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/442004?b=6&k=16258&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/442004?b=5&k=16258&l=search",
 	"arName":"410 ش الهرم - الدور 2, نصر الدين, الهرم, الجيزة",
 	"lat":"30.009024",
 	"lng":"31.199635000000001",
@@ -32,7 +32,7 @@
 	"enName":"customer Service, Sheraton Bldgs., Heliopolis, Cairo"
 },
 		{	"profileId":"388974",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/388974?b=5&k=16258&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/berlitz-egypt/388974?b=6&k=16258&l=search",
 	"arName":"34 ش القدس الشريف متفرع من ش شهاب - الدور 4, المهندسين, الجيزة",
 	"lat":"30.057392",
 	"lng":"31.194023000000001",

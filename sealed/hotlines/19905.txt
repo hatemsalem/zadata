@@ -1,7 +1,7 @@
 {"items":[{	"arName":"صيدليات على وعلى",
 	"enName":"Ali & Ali Pharmacies",
 	"hotline":"19905",
-	"facebook":"",
+	"facebook":"http://www.facebook.com/Ali-Ali-Pharmacies-179985212083227",
 	"web":"",
 	"arCategory":[
 		"صيدليات"
@@ -25,7 +25,7 @@
 	"enName":"222 B Gardenia St., Hadayek El Ahram, El haram, Giza"
 },
 		{	"profileId":"11491",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/11491?b=6&k=19905&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/11491?b=7&k=19905&l=search",
 	"arName":"399 ش رمسيس, عباسية, القاهرة",
 	"lat":"30.073229999999999",
 	"lng":"31.280023",
@@ -81,7 +81,7 @@
 	"enName":"33 Kasr El Ainy St., Kasr el ainy, Cairo"
 },
 		{	"profileId":"129806",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/129806?b=7&k=19905&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ali-&-ali-pharmacies/129806?b=6&k=19905&l=search",
 	"arName":"خدمة توصيل الطلبات للمنازل, عباسية, القاهرة",
 	"lat":"30.073153000000001",
 	"lng":"31.280258",

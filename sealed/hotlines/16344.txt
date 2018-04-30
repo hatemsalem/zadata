@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"396574",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/al-magd-pharmacies/396574?b=6&k=16344&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-magd-pharmacies/396574?b=7&k=16344&l=search",
 	"arName":"419 ش فيصل, مدكور, فيصل, الجيزة",
 	"lat":"30.007670999999998",
 	"lng":"31.184376",
@@ -25,7 +25,7 @@
 	"enName":"1 El Nahda St. Dokki Sq., Dokki, Giza"
 },
 		{	"profileId":"396573",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/al-magd-pharmacies/396573?b=8&k=16344&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-magd-pharmacies/396573?b=9&k=16344&l=search",
 	"arName":"166 ابراج سعود - ش فيصل, الكوم الاخضر, فيصل, الجيزة",
 	"lat":"29.997199999999999",
 	"lng":"31.155799999999999",
@@ -39,7 +39,7 @@
 	"enName":"415 Sudan St., El Sahafeyeen City, Mohandeseen, Giza"
 },
 		{	"profileId":"501572",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/al-magd-pharmacies/501572?b=7&k=16344&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-magd-pharmacies/501572?b=6&k=16344&l=search",
 	"arName":"67 ش ابو الهول السياحى - المنصورية, الهرم, الجيزة",
 	"lat":"29.980508",
 	"lng":"31.143343000000002",
@@ -53,7 +53,7 @@
 	"enName":"416 N El Guish St., Hadayek El Ahram, El haram, Giza"
 },
 		{	"profileId":"325010",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/al-magd-pharmacies/325010?b=9&k=16344&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-magd-pharmacies/325010?b=8&k=16344&l=search",
 	"arName":"خدمة توصيل الطلبات للمنازل, حدائق الاهرام, الهرم, الجيزة",
 	"lat":"",
 	"lng":"",

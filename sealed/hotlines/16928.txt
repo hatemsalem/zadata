@@ -18,7 +18,7 @@
 	"enName":"20 Gamal Salem St. Off Mossadak St., Dokki, Giza"
 },
 		{	"profileId":"550355",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/oppo-egypt/550355?b=2&k=16928&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oppo-egypt/550355?b=1&k=16928&l=search",
 	"arName":"خدمة العملاء, المنطقة السادسة, مدينة نصر, القاهرة",
 	"lat":"",
 	"lng":"",
@@ -53,7 +53,7 @@
 	"enName":"10 Land Mark Bldgs., 14th Of May Bridge Rd., Semouha, Alexandria"
 },
 		{	"profileId":"551461",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/oppo-egypt/551461?b=1&k=16928&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/oppo-egypt/551461?b=2&k=16928&l=search",
 	"arName":"3 عمارات العبور - طريق صلاح سالم, مدينة نصر, القاهرة",
 	"lat":"30.080383999999999",
 	"lng":"31.315144",

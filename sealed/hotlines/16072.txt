@@ -1,32 +1,28 @@
-{"items":[{	"arName":"مطعم طشه",
-	"enName":"Tasha Restaurant",
+{"items":[{	"arName":"سيراميكا اورينت",
+	"enName":"Orient Ceramics",
 	"hotline":"16072",
-	"facebook":"http://www.facebook.com/Tasha.Restaurant",
-	"web":"",
+	"facebook":"http://www.facebook.com/Orient-Ceramics-461990813992090",
+	"web":"http://www.ceramicaorient.com/",
 	"arCategory":[
-		"مطاعم مصرية",
-		"مطاعم",
-		"مطاعم صالات طعام"
+		"سيراميك وبورسيلين منتجات"
 	],
 	"enCategories":[
-		"Egyptian Cuisine",
-		"Restaurants",
-		"Restaurants Eat Out"
+		"Ceramic & Porcelain"
 	],
 	"contacts":[
-		{	"profileId":"518601",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tasha-restaurant/518601?b=1&k=16072&l=search",
-	"arName":"خدمة توصيل الطلبات للمنازل, الشيخ زايد, السادس من اكتوبر, الجيزة",
+		{	"profileId":"582759",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orient-ceramics/582759?b=2&k=16072&l=search",
+	"arName":"5 /1144 ش ابو بكر الصديق متفرع من ش متولى الشعراوى, مساكن شيراتون, مصر الجديدة, القاهرة",
 	"lat":"",
 	"lng":"",
-	"enName":"Home Delivery, El Sheikh Zayed, 6th of october, Giza"
+	"enName":"5 /1144 Abou Bakr El Seddik St. Off Metwally El Shaarawy St., Sheraton Bldgs., Heliopolis, Cairo"
 },
-		{	"profileId":"456140",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tasha-restaurant/456140?b=2&k=16072&l=search",
-	"arName":"امتداد محور 26 يوليو, الشيخ زايد, السادس من اكتوبر, الجيزة",
-	"lat":"30.027032999999999",
-	"lng":"31.013698999999999",
-	"enName":"Extension Of 26th Of July Spine, El Sheikh Zayed, 6th of october, Giza"
+		{	"profileId":"582764",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orient-ceramics/582764?b=1&k=16072&l=search",
+	"arName":"خدمة العملاء, مساكن شيراتون, مصر الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Sheraton Bldgs., Heliopolis, Cairo"
 }
 	]
 }]}

@@ -25,7 +25,7 @@
 	"enName":"Square 1167, El Moushir Ahmed Ismail St. Off Salah Salem Rd., Sheraton Bldgs., Heliopolis, Cairo"
 },
 		{	"profileId":"238253",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-academy-for-science,-technology-&-maritime-transport-_-aastmt/238253?b=6&k=19838&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-academy-for-science,-technology-&-maritime-transport-_-aastmt/238253?b=5&k=19838&l=search",
 	"arName":"خدمة العملاء, الدقى, الجيزة",
 	"lat":"",
 	"lng":"",
@@ -39,7 +39,7 @@
 	"enName":"El Sadat Rd., Sahary, Aswan"
 },
 		{	"profileId":"386641",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-academy-for-science,-technology-&-maritime-transport-_-aastmt/386641?b=5&k=19838&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arab-academy-for-science,-technology-&-maritime-transport-_-aastmt/386641?b=6&k=19838&l=search",
 	"arName":"كم 28 - طريق القاهرة اسكندرية الصحراوى, طريق القاهرة الاسكندرية الصحرا, طريق القاهرة الاسكندرية الصحراوى, الجيزة",
 	"lat":"30.065577000000001",
 	"lng":"31.025396000000001",

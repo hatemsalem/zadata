@@ -21,13 +21,6 @@
 	"lng":"31.336465",
 	"enName":"9 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
 },
-		{	"profileId":"329758",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/329758?b=19&k=19099&l=search",
-	"arName":"ش كورنيش النيل, دمياط, دمياط",
-	"lat":"31.4163949",
-	"lng":"31.8117673",
-	"enName":"Corniche El Nil St., Damietta, Damietta"
-},
 		{	"profileId":"392262",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/392262?b=20&k=19099&l=search",
 	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
@@ -36,7 +29,7 @@
 	"enName":"14th Of May Rd., Semouha, Alexandria"
 },
 		{	"profileId":"43011",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/43011?b=14&k=19099&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/43011?b=13&k=19099&l=search",
 	"arName":"خدمة توصيل الطلبات للمنازل, المهندسين, الجيزة",
 	"lat":"",
 	"lng":"",
@@ -148,18 +141,25 @@
 	"enName":"Km 57.5,, Alex. matrouh desert rd., North coast"
 },
 		{	"profileId":"101303",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/101303?b=18&k=19099&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/101303?b=19&k=19099&l=search",
 	"arName":"طريق الجيش, بحرى, الاسكندرية",
 	"lat":"31.204916000000001",
 	"lng":"29.885096999999998",
 	"enName":"El Guish Rd., Bahary, Alexandria"
 },
 		{	"profileId":"190056",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/190056?b=13&k=19099&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/190056?b=14&k=19099&l=search",
 	"arName":"426 طريق الجيش تقاطع ش شعراوى, لوران, الاسكندرية",
 	"lat":"31.250350999999998",
 	"lng":"29.969797",
 	"enName":"426 El Guish Rd. Intersectoin Of Shaarawy St., Loran, Alexandria"
+},
+		{	"profileId":"583212",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/chicken-tikka/583212?b=18&k=19099&l=search",
+	"arName":"محور 26 يوليو, الحى المتميز, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"26th Of July Spine, El Motamayez District, 6th of october, Giza"
 }
 	]
 }]}

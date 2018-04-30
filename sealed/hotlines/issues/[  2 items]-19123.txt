@@ -69,7 +69,7 @@
 	"enName":"1 El Saleh Aioub St., Zamalek, Cairo"
 },
 		{	"profileId":"82534",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc/82534?b=14&k=19123&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc/82534?b=13&k=19123&l=search",
 	"arName":"طريق السلام, خليج نعمة, شرم الشيخ",
 	"lat":"27.916416000000002",
 	"lng":"34.332470999999998",
@@ -118,7 +118,7 @@
 	"enName":"111 El Gomhoureya St., El mansoura, El dakahleya"
 },
 		{	"profileId":"163775",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc/163775?b=13&k=19123&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc/163775?b=14&k=19123&l=search",
 	"arName":"ابراج النيل - ش صلاح سالم - ش الهلالى سابقا, حى شرق, اسيوط",
 	"lat":"27.184396",
 	"lng":"31.194941",
@@ -264,7 +264,7 @@
 	"enName":"198 Haram St., El Taawon, El haram, Giza"
 },
 		{	"profileId":"465418",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc-_-atm/465418?b=42&k=19123&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc-_-atm/465418?b=43&k=19123&l=search",
 	"arName":"طريق القاهرة اسكندرية الزراعى, شبرا الخيمة, القليوبية",
 	"lat":"30.114820999999999",
 	"lng":"31.246254",
@@ -292,7 +292,7 @@
 	"enName":"6 Mekka St., Hadayek el kobba, Cairo"
 },
 		{	"profileId":"396637",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc-_-atm/396637?b=44&k=19123&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc-_-atm/396637?b=42&k=19123&l=search",
 	"arName":"ش كوبرى الملك فيصل, اسيوط, اسيوط",
 	"lat":"27.195499000000002",
 	"lng":"31.176742000000001",
@@ -355,7 +355,7 @@
 	"enName":"El Sad El Aaly Rd., Downtown, Aswan"
 },
 		{	"profileId":"465463",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc-_-atm/465463?b=43&k=19123&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bank-abc-_-atm/465463?b=44&k=19123&l=search",
 	"arName":"المنطقة الصناعية, دمياط الجديدة, دمياط",
 	"lat":"31.423500000000001",
 	"lng":"31.701350000000001",

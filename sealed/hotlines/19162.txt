@@ -2,7 +2,7 @@
 	"enName":"Cleopatra Hospital",
 	"hotline":"19162",
 	"facebook":"",
-	"web":"http://www.cleopatrahospital.com/",
+	"web":"http://www.cleopatrahospitals.com/",
 	"arCategory":[
 		"مستشفيات ومراكز طبية"
 	],

@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"126282",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/126282?b=7&k=16630&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/126282?b=8&k=16630&l=search",
 	"arName":"., السوق القديم, شرم الشيخ",
 	"lat":"27.865468",
 	"lng":"34.293652000000002",
@@ -39,7 +39,7 @@
 	"enName":"Customer Service, Mohandeseen, Giza"
 },
 		{	"profileId":"130632",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/130632?b=8&k=16630&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/130632?b=9&k=16630&l=search",
 	"arName":"كم 95 - طريق القاهرة اسكندرية الزراعى, طنطا, الغربية",
 	"lat":"",
 	"lng":"",
@@ -60,7 +60,7 @@
 	"enName":"2nd Industrial Zone, Ism. cairo desert road, Ismaileya"
 },
 		{	"profileId":"71382",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/71382?b=9&k=16630&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/juhayna-for-food-industries/71382?b=7&k=16630&l=search",
 	"arName":"القطعة 39 - - المنطقة الصناعية الاولى, المنطقة الصناعية, السادس من اكتوبر, الجيزة",
 	"lat":"29.932884000000001",
 	"lng":"30.900203999999999",

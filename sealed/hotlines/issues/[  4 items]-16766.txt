@@ -27,14 +27,14 @@
 	"enName":"18 Kamel Sedqy St. Off Ramsis Sq., Faggala, Cairo"
 },
 		{	"profileId":"6442",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/6442?b=6&k=16766&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/6442?b=7&k=16766&l=search",
 	"arName":"21 ش احمد عرابى متفرع من ميدان سفنكس - برج النهضة, المهندسين, الجيزة",
 	"lat":"30.063199999999998",
 	"lng":"31.206399999999999",
 	"enName":"21 Ahmed Orabi St. Off Sphinx Sq., El Nahda Tower, Mohandeseen, Giza"
 },
 		{	"profileId":"166813",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/166813?b=7&k=16766&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/nahdet-misr-for-publishing-house/166813?b=6&k=16766&l=search",
 	"arName":"خدمة العملاء, المهندسين, الجيزة",
 	"lat":"",
 	"lng":"",

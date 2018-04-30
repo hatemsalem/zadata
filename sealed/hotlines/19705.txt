@@ -18,7 +18,7 @@
 	"enName":"Home Delivery, Mohandeseen, Giza"
 },
 		{	"profileId":"395243",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/395243?b=6&k=19705&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/395243?b=8&k=19705&l=search",
 	"arName":"14 ش شهاب, المهندسين, الجيزة",
 	"lat":"30.05029",
 	"lng":"31.196038000000001",
@@ -60,7 +60,7 @@
 	"enName":"El Sadat Spine, 1st Compound, New cairo, Cairo"
 },
 		{	"profileId":"466753",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/466753?b=8&k=19705&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-fouad-pharmacies/466753?b=6&k=19705&l=search",
 	"arName":"260 ع ش الجيش, حدائق الاهرام, الهرم, الجيزة",
 	"lat":"29.953938999999998",
 	"lng":"31.088946",

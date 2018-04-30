@@ -11,7 +11,7 @@
 	],
 	"contacts":[
 		{	"profileId":"84922",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/84922?b=7&k=19324&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/84922?b=6&k=19324&l=search",
 	"arName":"6 ش المريس, السيدة زينب, القاهرة",
 	"lat":"30.029285000000002",
 	"lng":"31.234442999999999",
@@ -46,7 +46,7 @@
 	"enName":"5 Masarra St. Off Shoubra St., Shoubra, Cairo"
 },
 		{	"profileId":"59324",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/59324?b=6&k=19324&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ansary-laboratories/59324?b=7&k=19324&l=search",
 	"arName":"69 ش 9 - الدور 3, المعادى, القاهرة",
 	"lat":"29.956968",
 	"lng":"31.260977",

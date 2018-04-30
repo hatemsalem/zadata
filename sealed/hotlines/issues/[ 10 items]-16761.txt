@@ -1,0 +1,208 @@
+{"items":[{	"arName":"باندورا",
+	"enName":"Pandora",
+	"hotline":"16761",
+	"facebook":"http://www.facebook.com/pandorajewelry",
+	"web":"",
+	"arCategory":[
+		"جواهرجية"
+	],
+	"enCategories":[
+		"Jewelers"
+	],
+	"contacts":[
+		{	"profileId":"514432",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/pandora/514432?b=8&k=16761&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"تيد بيكر",
+	"enName":"Ted Baker",
+	"hotline":"16761",
+	"facebook":"http://www.facebook.com/TedBaker",
+	"web":"http://www.tedbaker.com/row?country=EG",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"435669",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/ted-baker/435669?b=10&k=16761&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ليجو",
+	"enName":"Lego",
+	"hotline":"16761",
+	"facebook":"http://www.facebook.com/LEGO",
+	"web":"http://www.lego.com/",
+	"arCategory":[
+		"لعب"
+	],
+	"enCategories":[
+		"Toys"
+	],
+	"contacts":[
+		{	"profileId":"475067",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lego/475067?b=7&k=16761&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"كايرو فيستيفال سيتى مول",
+	"enName":"Cairo Festival City Mall",
+	"hotline":"16761",
+	"facebook":"http://www.facebook.com/CairoFestivalCityMall?ref=ts&fref=ts",
+	"web":"http://www.festivalcitycairo.com/cntn.aspx?id=4",
+	"arCategory":[
+		"مول"
+	],
+	"enCategories":[
+		"Malls"
+	],
+	"contacts":[
+		{	"profileId":"419172",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-festival-city-mall/419172?b=2&k=16761&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"مجموعة الفطيم العقارية",
+	"enName":"El Futtaim Group For Real Estate",
+	"hotline":"16761",
+	"facebook":"",
+	"web":"http://www.cairofestivalcity.com/en/ABOUT_US/Al-Futtaim+Group+Real+Estate",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"261525",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-futtaim-group-for-real-estate/261525?b=4&k=16761&l=search",
+	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, 5th Compound, New cairo, Cairo"
+},
+		{	"profileId":"191501",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/el-futtaim-group-for-real-estate/191501?b=3&k=16761&l=search",
+	"arName":"ش طه حسين - الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.036973",
+	"lng":"31.417293000000001",
+	"enName":"Taha Hussein St., Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"جلاكسى سينيبلكس سينما",
+	"enName":"Galaxy Cineplex Cinema",
+	"hotline":"16761",
+	"facebook":"http://www.facebook.com/galaxycineplexcfcm",
+	"web":"",
+	"arCategory":[
+		"سينما ومسارح"
+	],
+	"enCategories":[
+		"Cinemas & Theaters"
+	],
+	"contacts":[
+		{	"profileId":"519463",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/galaxy-cineplex-cinema/519463?b=5&k=16761&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"كايرو فيستيفال سيتى",
+	"enName":"Cairo Festival City",
+	"hotline":"16761",
+	"facebook":"",
+	"web":"http://www.festivalcitycairo.com/",
+	"arCategory":[
+		"مجمعات سكنية"
+	],
+	"enCategories":[
+		"Residential Compounds"
+	],
+	"contacts":[
+		{	"profileId":"419185",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cairo-festival-city/419185?b=1&k=16761&l=search",
+	"arName":"الطريق الدائرى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.029940499999999",
+	"lng":"31.406518999999999",
+	"enName":"Ring Rd., 5th Compound, New cairo, Cairo"
+}
+	]
+}, {	"arName":"ال سى واى كى كى",
+	"enName":"LC Waikiki",
+	"hotline":"16761",
+	"facebook":"http://www.facebook.com/LCWaikikiEgypt",
+	"web":"corporate.lcwaikiki.com",
+	"arCategory":[
+		"ملابس - تسوق"
+	],
+	"enCategories":[
+		"Clothing - Shopping"
+	],
+	"contacts":[
+		{	"profileId":"453821",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lc-waikiki/453821?b=6&k=16761&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"بيد روم",
+	"enName":"The Bedroom By Inter Coil",
+	"hotline":"16761",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"اثاث منزلى ومكتبى واثاث حدائق"
+	],
+	"enCategories":[
+		"Furniture - Home, Office & Garden"
+	],
+	"contacts":[
+		{	"profileId":"469219",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bedroom-by-inter-coil/469219?b=11&k=16761&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028863000000001",
+	"lng":"31.407785000000001",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}, {	"arName":"سينى",
+	"enName":"Sini",
+	"hotline":"16761",
+	"facebook":"http://www.facebook.com/Siniegypt",
+	"web":"",
+	"arCategory":[
+		"مطاعم صينية"
+	],
+	"enCategories":[
+		"Chinese Food"
+	],
+	"contacts":[
+		{	"profileId":"483776",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/sini/483776?b=9&k=16761&l=search",
+	"arName":"الطريق الدائرى, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
+	"lat":"30.028760999999999",
+	"lng":"31.407788",
+	"enName":"Ring Rd., Cairo Festival City, New cairo, Cairo"
+}
+	]
+}]}

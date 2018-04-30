@@ -87,7 +87,7 @@
 	"enName":"76 Rd. 9, Thakanat El Maadi, Maadi, Cairo"
 },
 		{	"profileId":"331600",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/331600?b=15&k=16885&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/331600?b=14&k=16885&l=search",
 	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
 	"lat":"30.073430999999999",
 	"lng":"31.347339000000002",
@@ -129,7 +129,7 @@
 	"enName":"Home Delivery, Zamalek, Cairo"
 },
 		{	"profileId":"334041",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/334041?b=14&k=16885&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mori-sushi/334041?b=15&k=16885&l=search",
 	"arName":"19 ش الجبلايا, الزمالك, القاهرة",
 	"lat":"30.057952",
 	"lng":"31.217480999999999",
@@ -167,14 +167,14 @@
 	],
 	"contacts":[
 		{	"profileId":"373013",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/373013?b=33&k=16885&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/373013?b=34&k=16885&l=search",
 	"arName":"ش عمر بن الخطاب, مدينة نصر, القاهرة",
 	"lat":"30.073430999999999",
 	"lng":"31.347339000000002",
 	"enName":"Omar Ibn El Khattab St., Nasr city, Cairo"
 },
 		{	"profileId":"424671",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/424671?b=34&k=16885&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/tamara/424671?b=33&k=16885&l=search",
 	"arName":"خدمة توصيل الطلبات للمنازل, مدينة نصر, القاهرة",
 	"lat":"",
 	"lng":"",
@@ -291,14 +291,14 @@
 	"enName":"Plot 31,, El Sheikh Zayed, 6th of october, Giza"
 },
 		{	"profileId":"501508",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/501508?b=4&k=16885&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/501508?b=3&k=16885&l=search",
 	"arName":"22 أ - ذا ووتر واى كومبوند, التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"30.041346999999998",
 	"lng":"31.476859999999999",
 	"enName":"22 A , The Waterway Compound, 5th Compound, New cairo, Cairo"
 },
 		{	"profileId":"530684",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/530684?b=3&k=16885&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/530684?b=4&k=16885&l=search",
 	"arName":"ش العبور متفرع من ش التسعين, التجمع الخامس, القاهرة الجديدة, القاهرة",
 	"lat":"30.020237000000002",
 	"lng":"31.494927000000001",
@@ -312,7 +312,7 @@
 	"enName":"18 El Maraashly St., Zamalek, Cairo"
 },
 		{	"profileId":"452868",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/452868?b=5&k=16885&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/452868?b=6&k=16885&l=search",
 	"arName":"4 ش الشهيد عبد المنعم حافظ, الماظة, مصر الجديدة, القاهرة",
 	"lat":"30.084432",
 	"lng":"31.341550000000002",
@@ -326,7 +326,7 @@
 	"enName":"Km 129, Alex Matrouh Desert Rd., Marassi Village, Sidi abdel rahman, North coast"
 },
 		{	"profileId":"524294",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/524294?b=6&k=16885&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mince/524294?b=5&k=16885&l=search",
 	"arName":"ش عمر بن الخطاب, مصر الجديدة, القاهرة",
 	"lat":"30.073430999999999",
 	"lng":"31.347339000000002",

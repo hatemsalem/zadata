@@ -13,14 +13,14 @@
 	],
 	"contacts":[
 		{	"profileId":"339835",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/339835?b=7&k=16255&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/339835?b=8&k=16255&l=search",
 	"arName":"33 ابراج كونتننتال - ش فوزى معاذ, سموحة, الاسكندرية",
 	"lat":"31.213994",
 	"lng":"29.944662999999998",
 	"enName":"33 Continental Towers, Fawzy Moaz St., Semouha, Alexandria"
 },
 		{	"profileId":"39870",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/39870?b=3&k=16255&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/39870?b=4&k=16255&l=search",
 	"arName":"177 ش عبد السلام عارف, ثروت, الاسكندرية",
 	"lat":"31.247039000000001",
 	"lng":"29.968992",
@@ -62,7 +62,7 @@
 	"enName":"69 El Sultan Hussein St., El shalalat, Alexandria"
 },
 		{	"profileId":"91565",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/91565?b=4&k=16255&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/91565?b=3&k=16255&l=search",
 	"arName":"115 ش البيطاش, البيطاش, الاسكندرية",
 	"lat":"31.127254000000001",
 	"lng":"29.781253",
@@ -90,7 +90,7 @@
 	"enName":"7 Syria St., Roshdy House Bldg., Roushdy, Alexandria"
 },
 		{	"profileId":"323655",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/323655?b=8&k=16255&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/manna-patisserie/323655?b=7&k=16255&l=search",
 	"arName":"خدمة توصيل الطلبات للمنازل, ثروت, الاسكندرية",
 	"lat":"",
 	"lng":"",

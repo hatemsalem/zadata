@@ -32,14 +32,14 @@
 	"enName":"El Nasser St. Off Mohamed Hemaida St., El modoureya district, Benisuef"
 },
 		{	"profileId":"142150",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/142150?b=7&k=19765&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/142150?b=6&k=19765&l=search",
 	"arName":"68 ش الجيش, بور توفيق, السويس",
 	"lat":"29.944197899999999",
 	"lng":"32.567562500000001",
 	"enName":"68 El Guish St., Port tawfik, Suez"
 },
 		{	"profileId":"164387",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/164387?b=6&k=19765&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/smart-_-smart-cards-applications/164387?b=7&k=19765&l=search",
 	"arName":"2 ش نور الايمان متفرع من ش المستشفى الدولى, الاقصر, الاقصر",
 	"lat":"",
 	"lng":"",

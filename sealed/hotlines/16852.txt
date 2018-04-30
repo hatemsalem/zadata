@@ -4,18 +4,27 @@
 	"facebook":"http://www.facebook.com/CasperandGambinisWorldwide",
 	"web":"http://www.casperandgambinis.com/",
 	"arCategory":[
+		"مقاهى",
 		"مطاعم عالمية",
 		"مطاعم",
 		"مطاعم صالات طعام"
 	],
 	"enCategories":[
+		"Cafes and Coffee Shops",
 		"International Cuisine",
 		"Restaurants",
 		"Restaurants Eat Out"
 	],
 	"contacts":[
+		{	"profileId":"583230",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/583230?b=7&k=16852&l=search",
+	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Wahat Rd., 6th of october, Giza"
+},
 		{	"profileId":"294758",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/294758?b=7&k=16852&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/casper-&-gambini's/294758?b=8&k=16852&l=search",
 	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
 	"lat":"30.005434000000001",
 	"lng":"30.974428",

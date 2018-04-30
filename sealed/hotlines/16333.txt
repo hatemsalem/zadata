@@ -25,7 +25,7 @@
 	"enName":"Customer Service, Dokki, Giza"
 },
 		{	"profileId":"354014",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/354014?b=15&k=16333&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/354014?b=16&k=16333&l=search",
 	"arName":"40 ش الفردوس, سموحة, الاسكندرية",
 	"lat":"31.209319000000001",
 	"lng":"29.950388",
@@ -95,7 +95,7 @@
 	"enName":"Ring Rd., El Mearag City, New Maadi, Maadi, Cairo"
 },
 		{	"profileId":"356154",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356154?b=16&k=16333&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/orange-dsl/356154?b=15&k=16333&l=search",
 	"arName":"16 برج خالدية - ميدان المساحة, الدقى, الجيزة",
 	"lat":"30.036815000000001",
 	"lng":"31.213995000000001",

@@ -1,0 +1,45 @@
+{"items":[{	"arName":"ليتوسيت",
+	"enName":"Lettuceat",
+	"hotline":"19657",
+	"facebook":"http://www.facebook.com/pg/Lettuceat",
+	"web":"",
+	"arCategory":[
+		"مطاعم عالمية",
+		"مطاعم",
+		"مطاعم صالات طعام"
+	],
+	"enCategories":[
+		"International Cuisine",
+		"Restaurants",
+		"Restaurants Eat Out"
+	],
+	"contacts":[
+		{	"profileId":"438554",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/lettuceat/438554?b=1&k=19657&l=search",
+	"arName":"خدمة العملاء, الزمالك, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Zamalek, Cairo"
+}
+	]
+}, {	"arName":"رويال للتطوير العقارى",
+	"enName":"Royal For Real Estate Development",
+	"hotline":"19657",
+	"facebook":"http://www.facebook.com/Royalforealestate",
+	"web":"http://www.royaldevelopment-eg.com/",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"583068",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/royal-for-real-estate-development/583068?b=2&k=19657&l=search",
+	"arName":"ش التسعين الشمالى, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"",
+	"lng":"",
+	"enName":"El Tesaeen El Shamaly St., 5th Compound, New cairo, Cairo"
+}
+	]
+}]}

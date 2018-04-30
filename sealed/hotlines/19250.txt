@@ -39,7 +39,7 @@
 	"enName":"27 Cleopatra St., LUXOR, Luxor, Luxor"
 },
 		{	"profileId":"108562",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108562?b=3&k=19250&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/108562?b=2&k=19250&l=search",
 	"arName":"138 ش الترعة البولاقية متفرع من ش احمد بدوى, شبرا, القاهرة",
 	"lat":"30.0764",
 	"lng":"31.2485",
@@ -74,7 +74,7 @@
 	"enName":"Ahmed Maher St., Tanta, El gharbeya"
 },
 		{	"profileId":"85766",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/85766?b=2&k=19250&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/the-bible-society-of-egypt/85766?b=3&k=19250&l=search",
 	"arName":"1 ش على فهمى الزناتى, ميدان هليوبوليس, مصر الجديدة, القاهرة",
 	"lat":"30.104800000000001",
 	"lng":"31.335100000000001",

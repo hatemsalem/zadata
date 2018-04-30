@@ -4,13 +4,9 @@
 	"facebook":"http://www.facebook.com/elolasteel",
 	"web":"http://www.elolasteel.com/",
 	"arCategory":[
-		"اسمنت وخرسانة وجبس وطوب ومعدات",
-		"انشاءات ومقاولات",
 		"حديد وصلب"
 	],
 	"enCategories":[
-		"Cement & Concrete, Gypsum, Brick & Equipment",
-		"Construction",
 		"Steel & Iron"
 	],
 	"contacts":[

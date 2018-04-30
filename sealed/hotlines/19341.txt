@@ -25,7 +25,7 @@
 	"enName":"Abdel Salam El Shazly St., Damanhour, El beheira"
 },
 		{	"profileId":"287952",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/287952?b=3&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/287952?b=4&k=19341&l=search",
 	"arName":"طريق المطار, منطقة المطار, مصر الجديدة, القاهرة",
 	"lat":"30.126996999999999",
 	"lng":"31.402411000000001",
@@ -60,14 +60,14 @@
 	"enName":"16 Saray El Gezirah St., Zamalek, Cairo"
 },
 		{	"profileId":"118533",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/118533?b=11&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/118533?b=12&k=19341&l=search",
 	"arName":"ش 26 يوليو - عمارة مصر للتأمين, وسط البلد, قنا",
 	"lat":"26.157962999999999",
 	"lng":"32.716012999999997",
 	"enName":"26th Of July St., Misr Lel Taamin Bldg., Downtown, Qena"
 },
 		{	"profileId":"141700",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/141700?b=12&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/141700?b=10&k=19341&l=search",
 	"arName":"16 ش فلسطين - ش السلطان حسين سابقا, حى الشرق, بور سعيد",
 	"lat":"31.261289999999999",
 	"lng":"32.311681",
@@ -81,7 +81,7 @@
 	"enName":"Abdel Masih Mousa St. Off El Ganayen St., El Sagha District, El zagazig, El sharkeya"
 },
 		{	"profileId":"323129",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/323129?b=4&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/323129?b=3&k=19341&l=search",
 	"arName":"خدمة العملاء, عباسية, القاهرة",
 	"lat":"",
 	"lng":"",
@@ -95,7 +95,7 @@
 	"enName":"6th Of October Sq. - El Mashhama Sq. Previously, El mahalla el kobra, El gharbeya"
 },
 		{	"profileId":"118351",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/118351?b=19&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/118351?b=20&k=19341&l=search",
 	"arName":"ش الشيراتون ميدان العروسة - المركز التجارى, سقالة, الغردقة",
 	"lat":"27.222628",
 	"lng":"33.837555000000002",
@@ -116,7 +116,7 @@
 	"enName":"7 Talaat Harb St., Downtown, Cairo"
 },
 		{	"profileId":"103042",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/103042?b=20&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/103042?b=19&k=19341&l=search",
 	"arName":"33 ش صلاح سالم, العطارين, الاسكندرية",
 	"lat":"31.195675999999999",
 	"lng":"29.899363999999998",
@@ -137,7 +137,7 @@
 	"enName":"Abbaseya Sq., Misr Travel Tower, Abbasseya, Cairo"
 },
 		{	"profileId":"134685",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/134685?b=10&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/134685?b=13&k=19341&l=search",
 	"arName":"28 ش سعد زغلول, محطة الرمل, الاسكندرية",
 	"lat":"31.198357000000001",
 	"lng":"29.897683000000001",
@@ -158,14 +158,14 @@
 	"enName":"3 El Awqaf Bldgs., 23rd Of July St., Assyout, Assyout"
 },
 		{	"profileId":"287626",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/287626?b=32&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/287626?b=33&k=19341&l=search",
 	"arName":"4 ش المتحف, طنطا, الغربية",
 	"lat":"30.793790999999999",
 	"lng":"30.9990244",
 	"enName":"4 El Mathaf St., Tanta, El gharbeya"
 },
 		{	"profileId":"287900",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/287900?b=33&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/287900?b=32&k=19341&l=search",
 	"arName":"2 ابراج الميهوب - ش طه حسين, ارض سلطان, المنيا",
 	"lat":"28.106839999999998",
 	"lng":"30.751617",
@@ -221,7 +221,7 @@
 	"enName":"5th Plot, Hadiqat El Hayawan St. Tower Division, Umm el sid hill, Sharm el sheikh"
 },
 		{	"profileId":"141712",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/141712?b=13&k=19341&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-travel/141712?b=11&k=19341&l=search",
 	"arName":"السوق السياحى, الكورنيش, اسوان",
 	"lat":"",
 	"lng":"",

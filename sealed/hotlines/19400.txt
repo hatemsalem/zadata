@@ -32,7 +32,7 @@
 	"enName":"23 Mohamed El Maqrify St., 6th Zone, Nasr city, Cairo"
 },
 		{	"profileId":"45029",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/45029?b=6&k=19400&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/45029?b=5&k=19400&l=search",
 	"arName":"445 أ ش الهرم, نصر الدين, الهرم, الجيزة",
 	"lat":"30.009302000000002",
 	"lng":"31.201616999999999",
@@ -46,7 +46,7 @@
 	"enName":"Teraet El Mansoureya St., El Mariouteya, El haram, Giza"
 },
 		{	"profileId":"126190",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/126190?b=5&k=19400&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/itc-_-international-trading-center/126190?b=6&k=19400&l=search",
 	"arName":"14 طريق كفر طهرمس - برج الورد, الطالبية, فيصل, الجيزة",
 	"lat":"30.009853799999998",
 	"lng":"31.175822",

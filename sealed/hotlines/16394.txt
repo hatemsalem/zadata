@@ -1,21 +1,35 @@
-{"items":[{	"arName":"ايزى كارد",
-	"enName":"Ezi Card",
+{"items":[{	"arName":"ايست ويست ترافيل",
+	"enName":"East West Travel",
 	"hotline":"16394",
 	"facebook":"",
-	"web":"http://www.ezicard.net/",
+	"web":"",
 	"arCategory":[
-		"كروت تخفيض"
+		"سياحة وكالات"
 	],
 	"enCategories":[
-		"Discount Cards"
+		"Travel Agents"
 	],
 	"contacts":[
-		{	"profileId":"325312",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/ezi-card/325312?b=1&k=16394&l=search",
-	"arName":"خدمة العملاء, المعادى, القاهرة",
+		{	"profileId":"583140",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/east-west-travel/583140?b=3&k=16394&l=search",
+	"arName":"خدمة العملاء, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
 	"lat":"",
 	"lng":"",
-	"enName":"Customer Service, Maadi, Cairo"
+	"enName":"Customer Service, Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"1623",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/east-west-travel/1623?b=1&k=16394&l=search",
+	"arName":"3 ش الفاطميين, ميدان الاسماعيلية, مصر الجديدة, القاهرة",
+	"lat":"30.0975",
+	"lng":"31.334399999999999",
+	"enName":"3 El Fatemeyeen St., Ismaileya Square, Heliopolis, Cairo"
+},
+		{	"profileId":"70126",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/east-west-travel/70126?b=2&k=16394&l=search",
+	"arName":"1 طريق مصر حلوان - برج مامكو, كورنيش المعادى, المعادى, القاهرة",
+	"lat":"29.956554000000001",
+	"lng":"31.252203000000002",
+	"enName":"1 Misr Helwan Rd., Mamco Tower, Corniche El Maadi, Maadi, Cairo"
 }
 	]
 }]}

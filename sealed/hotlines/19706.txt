@@ -26,7 +26,7 @@
 	"enName":"El Fath St. Intersection Of El Khashab St., El Qawmeya Sq., El zagazig, El sharkeya"
 },
 		{	"profileId":"470936",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/470936?b=3&k=19706&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/470936?b=2&k=19706&l=search",
 	"arName":"ش النادى, طنطا, الغربية",
 	"lat":"30.796607999999999",
 	"lng":"30.995441",
@@ -47,7 +47,7 @@
 	"enName":"El Nasser St. Off Botros St., Tanta, El gharbeya"
 },
 		{	"profileId":"468722",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/468722?b=2&k=19706&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/stereo-restaurant-&-cafe/468722?b=3&k=19706&l=search",
 	"arName":"55 ش هجرس متفرع من ش المشاية السفلية, المنصورة, الدقهلية",
 	"lat":"31.046112000000001",
 	"lng":"31.362045999999999",

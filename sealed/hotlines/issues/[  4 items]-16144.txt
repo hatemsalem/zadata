@@ -18,7 +18,7 @@
 	"enName":"Km 201,, Alex. matrouh desert rd., North coast"
 },
 		{	"profileId":"455251",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/455251?b=7&k=16144&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/455251?b=6&k=16144&l=search",
 	"arName":"8 ش ويصا واصف - برج الامراء - الدور 4, الجيزة, الجيزة",
 	"lat":"30.028117999999999",
 	"lng":"31.217278",
@@ -32,7 +32,7 @@
 	"enName":"Km 76,, Alex. matrouh desert rd., North coast"
 },
 		{	"profileId":"442936",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/442936?b=6&k=16144&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/mena-for-touristic-&-real-estate-investment/442936?b=7&k=16144&l=search",
 	"arName":"برج الامداد - ش ويصا واصف, الجيزة, الجيزة",
 	"lat":"30.027820999999999",
 	"lng":"31.217279000000001",

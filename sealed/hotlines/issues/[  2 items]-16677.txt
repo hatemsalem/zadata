@@ -33,7 +33,7 @@
 	],
 	"contacts":[
 		{	"profileId":"74662",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/74662?b=9&k=16677&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/74662?b=8&k=16677&l=search",
 	"arName":"خدمة العملاء, الجيزة, الجيزة",
 	"lat":"",
 	"lng":"",
@@ -68,7 +68,7 @@
 	"enName":"9 El Laselky St. Intersection Of Ahmed Kamel St., New Maadi, Maadi, Cairo"
 },
 		{	"profileId":"489961",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/489961?b=6&k=16677&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/489961?b=7&k=16677&l=search",
 	"arName":"بالم هيلز, الشيخ زايد, السادس من اكتوبر, الجيزة",
 	"lat":"30.013916999999999",
 	"lng":"31.026399000000001",
@@ -89,14 +89,14 @@
 	"enName":"Corniche El Nil, El Safa Tower, Benisuef, Benisuef"
 },
 		{	"profileId":"493979",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/493979?b=7&k=16677&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/493979?b=6&k=16677&l=search",
 	"arName":"المنطقة التجارية - عمارة 6أ, الطور, جنوب سيناء",
 	"lat":"",
 	"lng":"",
 	"enName":"Commercial Zone, Bldg. 6A, EL TUR, El tur, South sinai"
 },
 		{	"profileId":"111184",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/111184?b=8&k=16677&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/cib-_-commercial-international-bank/111184?b=9&k=16677&l=search",
 	"arName":"457 طريق الحرية, رشدى, الاسكندرية",
 	"lat":"31.229365000000001",
 	"lng":"29.953963999999999",

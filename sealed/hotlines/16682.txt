@@ -18,14 +18,14 @@
 	"enName":"12 Abou El Mahasen El Shazly St. Off Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
 },
 		{	"profileId":"99239",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/99239?b=1&k=16682&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/99239?b=2&k=16682&l=search",
 	"arName":"58 ش خسرو تقاطع ش اسماعيل كامل, حلوان, القاهرة",
 	"lat":"29.852599999999999",
 	"lng":"31.337900000000001",
 	"enName":"58 Khesro St. Intersection Of Ismail Kamel St., Helwan, Cairo"
 },
 		{	"profileId":"201978",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/201978?b=2&k=16682&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/egy-_-drug/201978?b=1&k=16682&l=search",
 	"arName":"6 ش بستان الدكة, وسط البلد, القاهرة",
 	"lat":"30.053754999999999",
 	"lng":"31.244796999999998",

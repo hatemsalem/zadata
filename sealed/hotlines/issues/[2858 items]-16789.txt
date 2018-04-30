@@ -807,13 +807,12 @@
 	"enName":"Nagaa El Qarya, El Awsat Qamoula Village, Nakada, Qena"
 }
 	]
-}, {	"arName":"مكتب بريد - دماص",
+}, {	"arName":"",
 	"enName":"Post Office - Damas",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -821,7 +820,7 @@
 	"contacts":[
 		{	"profileId":"288610",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-damas/288610?b=556&k=16789&l=search",
-	"arName":"قرية دماص, ميت غمر, الدقهلية",
+	"arName":"",
 	"lat":"30.807966",
 	"lng":"31.324871999999999",
 	"enName":"Damas Village, Mit ghamr, El dakahleya"
@@ -3395,7 +3394,7 @@
 	],
 	"contacts":[
 		{	"profileId":"325253",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bani-saleh/325253?b=400&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bani-saleh/325253?b=401&k=16789&l=search",
 	"arName":"قرية بنى صالح, الزقازيق, الشرقية",
 	"lat":"30.451432",
 	"lng":"31.424669000000002",
@@ -3416,7 +3415,7 @@
 	"enName":"Bani Saleh Village, El quseyah, Assyout"
 },
 		{	"profileId":"327324",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bani-saleh/327324?b=401&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bani-saleh/327324?b=400&k=16789&l=search",
 	"arName":"قرية بنى صالح, الفشن, بنى سويف",
 	"lat":"",
 	"lng":"",
@@ -3890,6 +3889,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -5313,14 +5313,14 @@
 	],
 	"contacts":[
 		{	"profileId":"302572",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-sidi-abou-el-haggag/302572?b=2881&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-sidi-abou-el-haggag/302572?b=2880&k=16789&l=search",
 	"arName":"سيدى ابو الحجاج, وسط البلد, اسوان",
 	"lat":"",
 	"lng":"",
 	"enName":"Sidi Abou El Haggag, Downtown, Aswan"
 },
 		{	"profileId":"295974",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-sidi-abou-el-haggag/295974?b=2880&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-sidi-abou-el-haggag/295974?b=2881&k=16789&l=search",
 	"arName":"ش مطحن الاتحاد - قرية سيدى ابو الحجاج - السوق الحضرى, الاقصر, الاقصر",
 	"lat":"25.705335999999999",
 	"lng":"32.648888999999997",
@@ -5427,13 +5427,12 @@
 	"enName":"Kafr Shoubra Qalloug, Zefta, El gharbeya"
 }
 	]
-}, {	"arName":"مكتب بريد - دمنهور الوحش",
+}, {	"arName":"",
 	"enName":"Post Office - Damanhour El Wahsh",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -5441,7 +5440,7 @@
 	"contacts":[
 		{	"profileId":"338612",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-damanhour-el-wahsh/338612?b=553&k=16789&l=search",
-	"arName":"قرية دمنهور الوحش, زفتى, الغربية",
+	"arName":"",
 	"lat":"30.674976999999998",
 	"lng":"31.195955999999999",
 	"enName":"Damanhour El Wahsh Village, Zefta, El gharbeya"
@@ -6986,14 +6985,14 @@
 	],
 	"contacts":[
 		{	"profileId":"223353",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berket-el-sabaa/223353?b=478&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berket-el-sabaa/223353?b=476&k=16789&l=search",
 	"arName":"ش كريم الدين متفرع من طريق النصر - البر الشرقى, بركة السبع, المنوفية",
 	"lat":"30.637651999999999",
 	"lng":"31.085953",
 	"enName":"Karim El Din st. Off El Nasr Rd., Eastern Bank, Berket el sabaa, El monofeya"
 },
 		{	"profileId":"297388",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berket-el-sabaa/297388?b=477&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berket-el-sabaa/297388?b=475&k=16789&l=search",
 	"arName":"ش عبد المنعم رياض, بركة السبع, المنوفية",
 	"lat":"30.634986000000001",
 	"lng":"31.080812999999999",
@@ -7427,7 +7426,7 @@
 	"enName":"., El roda, Damietta"
 },
 		{	"profileId":"292884",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/292884?b=1402&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/292884?b=1404&k=16789&l=search",
 	"arName":"قرية الروضة, طامية, الفيوم",
 	"lat":"29.445366",
 	"lng":"31.000074000000001",
@@ -7441,35 +7440,35 @@
 	"enName":"El Rawda Village, Downtown, Kafr el sheikh"
 },
 		{	"profileId":"338372",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/338372?b=1396&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/338372?b=1397&k=16789&l=search",
 	"arName":"قرية الروضة, السنطة, الغربية",
 	"lat":"30.818507199999999",
 	"lng":"31.079182299999999",
 	"enName":"El Rawda Village, As-santah, El gharbeya"
 },
 		{	"profileId":"291381",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/291381?b=1401&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/291381?b=1403&k=16789&l=search",
 	"arName":"قرية الروضة, فاقوس, الشرقية",
 	"lat":"30.684994",
 	"lng":"31.824463000000002",
 	"enName":"El Rawda Village, Faqus, El sharkeya"
 },
 		{	"profileId":"328730",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/328730?b=1404&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/328730?b=1401&k=16789&l=search",
 	"arName":"قرية الروضة, ملوى, المنيا",
 	"lat":"",
 	"lng":"",
 	"enName":"El Rawda Village, Mallawi, El menia"
 },
 		{	"profileId":"304836",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/304836?b=1403&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/304836?b=1402&k=16789&l=search",
 	"arName":"قرية الروضة, بئر العبد, شمال سيناء",
 	"lat":"",
 	"lng":"",
 	"enName":"El Rawda Village, Bear el abd, North sinai"
 },
 		{	"profileId":"325893",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/325893?b=1397&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-rawda/325893?b=1396&k=16789&l=search",
 	"arName":"قرية الروضة, طلخا, الدقهلية",
 	"lat":"31.123761099999999",
 	"lng":"31.4035802",
@@ -7603,13 +7602,12 @@
 	"enName":"El Shoaraa Village, Damietta, Damietta"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر الوسطانى",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr El Westany",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -7617,7 +7615,7 @@
 	"contacts":[
 		{	"profileId":"306172",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-el-westany/306172?b=2023&k=16789&l=search",
-	"arName":"كفر الوسطانى, كفر سعد, دمياط",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Kafr El Westany, Kafr saad, Damietta"
@@ -8085,13 +8083,12 @@
 	"enName":"Bowait Village, Sahel selim, Assyout"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر الوكالة",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr El Wekala",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -8099,7 +8096,7 @@
 	"contacts":[
 		{	"profileId":"290175",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-el-wekala/290175?b=2022&k=16789&l=search",
-	"arName":"كفر الوكالة, شربين, الدقهلية",
+	"arName":"",
 	"lat":"31.349349",
 	"lng":"31.516566000000001",
 	"enName":"Kafr El Wekala, Sherbin, El dakahleya"
@@ -9187,14 +9184,14 @@
 	"enName":"El Tahrir st. Sorour Sq., Damietta, Damietta"
 },
 		{	"profileId":"290219",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-governmental-authorities-complex/290219?b=1816&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-governmental-authorities-complex/290219?b=1815&k=16789&l=search",
 	"arName":"ش المحافظة, الزقازيق, الشرقية",
 	"lat":"30.584817999999999",
 	"lng":"31.497254000000002",
 	"enName":"El Mohafza St., El zagazig, El sharkeya"
 },
 		{	"profileId":"305400",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-governmental-authorities-complex/305400?b=1815&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-governmental-authorities-complex/305400?b=1816&k=16789&l=search",
 	"arName":"ش الشهيد احمد حمدى, الطور, جنوب سيناء",
 	"lat":"28.236801",
 	"lng":"33.632922999999998",
@@ -9916,13 +9913,12 @@
 	"enName":"Bahnay Village, El bagour, El monofeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر بلمشط",
+}, {	"arName":"",
 	"enName":"Post Office - kafr Balmasht",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -9930,19 +9926,18 @@
 	"contacts":[
 		{	"profileId":"298969",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-balmasht/298969?b=1934&k=16789&l=search",
-	"arName":"كفر بلمشط, منوف, المنوفية",
+	"arName":"",
 	"lat":"30.450347000000001",
 	"lng":"30.883358999999999",
 	"enName":"kafr Balmasht, Minuf, El monofeya"
 }
 	]
-}, {	"arName":"مكتب بريد - دلهمو",
+}, {	"arName":"",
 	"enName":"Post Office - Dalhomo",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -9950,7 +9945,7 @@
 	"contacts":[
 		{	"profileId":"298966",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-dalhomo/298966?b=550&k=16789&l=search",
-	"arName":"قرية دلهمو, اشمون, المنوفية",
+	"arName":"",
 	"lat":"30.344114999999999",
 	"lng":"30.852067999999999",
 	"enName":"Dalhomo Village, Ashmoun, El monofeya"
@@ -12434,6 +12429,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -12863,13 +12859,12 @@
 	"enName":"Abdel Salam Aref St., El mansoura, El dakahleya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر حكيم",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Hakim",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -12877,7 +12872,7 @@
 	"contacts":[
 		{	"profileId":"116579",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-hakim/116579?b=2035&k=16789&l=search",
-	"arName":"قرية كفر حكيم, اوسيم, الجيزة",
+	"arName":"",
 	"lat":"30.079117",
 	"lng":"31.116381000000001",
 	"enName":"Kafr Hakim Village, Auseem, Giza"
@@ -13391,6 +13386,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -13431,6 +13427,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -14114,7 +14111,7 @@
 }
 	]
 }, {	"arName":"مكتب بريد - برمبال الجديدة",
-	"enName":"Post Office - Berembal El Gadida",
+	"enName":"Post Office - Bermbal El Gadida",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
@@ -14126,11 +14123,11 @@
 	],
 	"contacts":[
 		{	"profileId":"289288",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berembal-el-gadida/289288?b=473&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bermbal-el-gadida/289288?b=480&k=16789&l=search",
 	"arName":"قرية برمبال الجديدة, دكرنس, الدقهلية",
 	"lat":"31.144043",
 	"lng":"31.714812999999999",
-	"enName":"Berembal El Gadida Village, Dikirnis, El dakahleya"
+	"enName":"Bermbal El Gadida Village, Dikirnis, El dakahleya"
 }
 	]
 }, {	"arName":"مكتب بريد - مصيف جمصة",
@@ -14206,7 +14203,7 @@
 	],
 	"contacts":[
 		{	"profileId":"295965",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-toud/295965?b=1606&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-toud/295965?b=1605&k=16789&l=search",
 	"arName":"مدينة الطود, الاقصر, الاقصر",
 	"lat":"",
 	"lng":"",
@@ -14220,7 +14217,7 @@
 	"enName":"El Toud Village, Kom hamada, El beheira"
 },
 		{	"profileId":"300334",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-toud/300334?b=1605&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-toud/300334?b=1606&k=16789&l=search",
 	"arName":"نجع الطود - قرية القرعان, جرجا, سوهاج",
 	"lat":"",
 	"lng":"",
@@ -14315,7 +14312,7 @@
 }
 	]
 }, {	"arName":"مكتب بريد - برمبال القديمة",
-	"enName":"Post Office - Berembal El Qadima",
+	"enName":"Post Office - Bermbal El Qadima",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
@@ -14327,11 +14324,11 @@
 	],
 	"contacts":[
 		{	"profileId":"289292",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berembal-el-qadima/289292?b=474&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bermbal-el-qadima/289292?b=481&k=16789&l=search",
 	"arName":"قرية برمبال القديمة, منية النصر, الدقهلية",
 	"lat":"31.160529",
 	"lng":"31.735772000000001",
-	"enName":"Berembal El Qadima Village, Meniet el nasr, El dakahleya"
+	"enName":"Bermbal El Qadima Village, Meniet el nasr, El dakahleya"
 }
 	]
 }, {	"arName":"مكتب بريد - مدينة الفتح",
@@ -14600,6 +14597,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -15048,7 +15046,7 @@
 	],
 	"contacts":[
 		{	"profileId":"299967",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bani-helal/299967?b=374&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bani-helal/299967?b=376&k=16789&l=search",
 	"arName":"قرية بنى هلال, المراغة, سوهاج",
 	"lat":"",
 	"lng":"",
@@ -15062,7 +15060,7 @@
 	"enName":"Bani Helal Village, El quseyah, Assyout"
 },
 		{	"profileId":"322787",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bani-helal/322787?b=376&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bani-helal/322787?b=374&k=16789&l=search",
 	"arName":"قرية بنى هلال, منيا القمح, الشرقية",
 	"lat":"30.488538999999999",
 	"lng":"31.418911999999999",
@@ -15296,13 +15294,12 @@
 	"enName":"Sham El Basal El Bahareya Village, Magaghah, El menia"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر خزام",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Khozam",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -15310,7 +15307,7 @@
 	"contacts":[
 		{	"profileId":"297321",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-khozam/297321?b=2045&k=16789&l=search",
-	"arName":"كفر خزام, دير مواس, المنيا",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Kafr Khozam, Dayr mawas, El menia"
@@ -16440,13 +16437,12 @@
 	"enName":"Kafr Abou Ayyana, Kutour, El gharbeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر بلضم",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Baldam",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -16454,7 +16450,7 @@
 	"contacts":[
 		{	"profileId":"338353",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-baldam/338353?b=1933&k=16789&l=search",
-	"arName":"كفر بلضم, قطور, الغربية",
+	"arName":"",
 	"lat":"30.941580999999999",
 	"lng":"30.989125000000001",
 	"enName":"Kafr Baldam, Kutour, El gharbeya"
@@ -17194,13 +17190,12 @@
 	"enName":"Tahla Village, Banha, Kaliobeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر تصفا",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Tesfa",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -17208,7 +17203,7 @@
 	"contacts":[
 		{	"profileId":"306749",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-tesfa/306749?b=2090&k=16789&l=search",
-	"arName":"كفر تصفا, كفر شكر, القليوبية",
+	"arName":"",
 	"lat":"30.570861000000001",
 	"lng":"31.306061",
 	"enName":"Kafr Tesfa, Kafr shoukr, Kaliobeya"
@@ -18556,7 +18551,7 @@
 	],
 	"contacts":[
 		{	"profileId":"292527",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-beriet-lasafir/292527?b=475&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-beriet-lasafir/292527?b=473&k=16789&l=search",
 	"arName":"قرية برية لاصفير, سيدى سالم, كفر الشيخ",
 	"lat":"",
 	"lng":"",
@@ -19764,13 +19759,12 @@
 	"enName":"Bani Ebaid Village, Abou qurqas, El menia"
 }
 	]
-}, {	"arName":"مكتب بريد - دلاور",
+}, {	"arName":"",
 	"enName":"Post Office - Dalawer",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -19778,7 +19772,7 @@
 	"contacts":[
 		{	"profileId":"308583",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-dalawer/308583?b=548&k=16789&l=search",
-	"arName":"عزبة دلاور, بولاق الدكرور, الجيزة",
+	"arName":"",
 	"lat":"30.027868999999999",
 	"lng":"31.199444",
 	"enName":"Ezbet Dalawer, Boulak el dakrour, Giza"
@@ -20212,13 +20206,12 @@
 	"enName":"El Shaheedy Village, El mahalla el kobra, El gharbeya"
 }
 	]
-}, {	"arName":"مكتب بريد - دمرو",
+}, {	"arName":"",
 	"enName":"Post Office - Demro",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -20226,19 +20219,18 @@
 	"contacts":[
 		{	"profileId":"116063",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-demro/116063?b=609&k=16789&l=search",
-	"arName":"قرية دمرو, المحلة الكبرى, الغربية",
+	"arName":"",
 	"lat":"31.089200999999999",
 	"lng":"31.151484",
 	"enName":"Demro Village, El mahalla el kobra, El gharbeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر جمعة",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Gomaa",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -20246,7 +20238,7 @@
 	"contacts":[
 		{	"profileId":"322860",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-gomaa/322860?b=2034&k=16789&l=search",
-	"arName":"كفر جمعة, الزقازيق, الشرقية",
+	"arName":"",
 	"lat":"30.553401000000001",
 	"lng":"31.461537",
 	"enName":"Kafr Gomaa, El zagazig, El sharkeya"
@@ -20979,14 +20971,14 @@
 	],
 	"contacts":[
 		{	"profileId":"295613",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-zaraby/295613?b=1653&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-zaraby/295613?b=1652&k=16789&l=search",
 	"arName":"قرية الزرابى, بنى سويف, بنى سويف",
 	"lat":"29.053032999999999",
 	"lng":"31.075568000000001",
 	"enName":"El Zaraby Village, Benisuef, Benisuef"
 },
 		{	"profileId":"326444",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-zaraby/326444?b=1652&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-zaraby/326444?b=1653&k=16789&l=search",
 	"arName":"قرية الزرابى, ابو تيج, اسيوط",
 	"lat":"26.982013999999999",
 	"lng":"31.270906",
@@ -21386,6 +21378,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -21955,13 +21948,12 @@
 	"enName":"El Benouk st., Umm el sid hill, Sharm el sheikh"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر ايوب سليمان",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Aioub Soliman",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -21969,7 +21961,7 @@
 	"contacts":[
 		{	"profileId":"290807",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-aioub-soliman/290807?b=1922&k=16789&l=search",
-	"arName":"كفر ايوب سليمان, بلبيس, الشرقية",
+	"arName":"",
 	"lat":"30.442101999999998",
 	"lng":"31.593142",
 	"enName":"Kafr Aioub Soliman, Belbeis, El sharkeya"
@@ -22268,14 +22260,14 @@
 	],
 	"contacts":[
 		{	"profileId":"290819",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-salam/290819?b=1458&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-salam/290819?b=1459&k=16789&l=search",
 	"arName":"قرية السلام, بلبيس, الشرقية",
 	"lat":"",
 	"lng":"",
 	"enName":"El Salam Village, Belbeis, El sharkeya"
 },
 		{	"profileId":"304778",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-salam/304778?b=1459&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-el-salam/304778?b=1458&k=16789&l=search",
 	"arName":"ش الجيش ضاحية السلام, العريش, شمال سيناء",
 	"lat":"31.133232",
 	"lng":"33.806454000000002",
@@ -23976,6 +23968,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -26039,13 +26032,12 @@
 	"enName":"Shabshir El Hessa Village, Tanta, El gharbeya"
 }
 	]
-}, {	"arName":"مكتب بريد - دلبشان",
+}, {	"arName":"",
 	"enName":"Post Office - Delebshan",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -26053,7 +26045,7 @@
 	"contacts":[
 		{	"profileId":"293958",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-delebshan/293958?b=603&k=16789&l=search",
-	"arName":"قرية دلبشان, كفر الزيات, الغربية",
+	"arName":"",
 	"lat":"30.782558000000002",
 	"lng":"30.805626",
 	"enName":"Delebshan Village, Kafr el zayat, El gharbeya"
@@ -26886,13 +26878,12 @@
 	"enName":"Bani Aleem Village, Belbeis, El sharkeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر حموده",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Hamouda",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -26900,7 +26891,7 @@
 	"contacts":[
 		{	"profileId":"320337",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-hamouda/320337?b=2036&k=16789&l=search",
-	"arName":"كفر حموده, ههيا, الشرقية",
+	"arName":"",
 	"lat":"30.603197000000002",
 	"lng":"31.581292999999999",
 	"enName":"Kafr Hamouda, Hehia, El sharkeya"
@@ -28494,6 +28485,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -28923,7 +28915,7 @@
 }
 	]
 }, {	"arName":"مكتب بريد - عزبة خورشيد",
-	"enName":"Post Office - Ezbet Khorsid",
+	"enName":"Post Office - Ezbet Khorshid",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
@@ -28935,7 +28927,7 @@
 	],
 	"contacts":[
 		{	"profileId":"115832",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-ezbet-khorsid/115832?b=1708&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-ezbet-khorshid/115832?b=1708&k=16789&l=search",
 	"arName":"خورشيد القبلية, خورشيد, الاسكندرية",
 	"lat":"31.195522",
 	"lng":"30.033583",
@@ -29109,13 +29101,12 @@
 	"enName":"El Tawador Village, El balina, Sohag"
 }
 	]
-}, {	"arName":"مكتب بريد - دلجا",
+}, {	"arName":"",
 	"enName":"Post Office - Delga",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -29123,7 +29114,7 @@
 	"contacts":[
 		{	"profileId":"296690",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-delga/296690?b=604&k=16789&l=search",
-	"arName":"قرية دلجا, دير مواس, المنيا",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Delga Village, Dayr mawas, El menia"
@@ -29449,13 +29440,12 @@
 	"enName":"Nagaa Ewais, Gerga, Sohag"
 }
 	]
-}, {	"arName":"مكتب بريد - دمشير",
+}, {	"arName":"",
 	"enName":"Post Office - Damshir",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -29463,7 +29453,7 @@
 	"contacts":[
 		{	"profileId":"329218",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-damshir/329218?b=564&k=16789&l=search",
-	"arName":"قرية دمشير, وسط البلد, المنيا",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Damshir Village, Downtown, El menia"
@@ -29930,13 +29920,12 @@
 	"enName":"El Nasimeya Village, El mansoura, El dakahleya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر بداوى القديم",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Badawy El Qadim",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -29944,19 +29933,18 @@
 	"contacts":[
 		{	"profileId":"326160",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-badawy-el-qadim/326160?b=1930&k=16789&l=search",
-	"arName":"كفر بداوى القديم, المنصورة, الدقهلية",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Kafr Badawy El Qadim, El mansoura, El dakahleya"
 }
 	]
-}, {	"arName":"مكتب بريد - دموشيا",
+}, {	"arName":"",
 	"enName":"Post Office - Domoshya",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -29964,7 +29952,7 @@
 	"contacts":[
 		{	"profileId":"327494",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-domoshya/327494?b=637&k=16789&l=search",
-	"arName":"قرية دموشيا, بنى سويف, بنى سويف",
+	"arName":"",
 	"lat":"29.076988",
 	"lng":"31.023812",
 	"enName":"Domoshya Village, Benisuef, Benisuef"
@@ -30410,13 +30398,12 @@
 	"enName":"Koum Zomoran Village, Ad dilinjat, El beheira"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر بهوت",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Bahout",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -30424,7 +30411,7 @@
 	"contacts":[
 		{	"profileId":"326151",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-bahout/326151?b=1932&k=16789&l=search",
-	"arName":"كفر بهوت, المنصورة, الدقهلية",
+	"arName":"",
 	"lat":"31.135583",
 	"lng":"31.328541000000001",
 	"enName":"Kafr Bahout, El mansoura, El dakahleya"
@@ -31845,13 +31832,12 @@
 	"enName":"., El nakhl, North sinai"
 }
 	]
-}, {	"arName":"مكتب بريد - دمرو الحدادى",
+}, {	"arName":"",
 	"enName":"Post Office - Damaro El Hadady",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -31859,7 +31845,7 @@
 	"contacts":[
 		{	"profileId":"328719",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-damaro-el-hadady/328719?b=555&k=16789&l=search",
-	"arName":"قرية دمرو الحدادى, سيدى سالم, كفر الشيخ",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Damaro El Hadady Village, Sidi salem, Kafr el sheikh"
@@ -32058,7 +32044,7 @@
 	],
 	"contacts":[
 		{	"profileId":"328723",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bermbal/328723?b=481&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-bermbal/328723?b=479&k=16789&l=search",
 	"arName":"قرية برمبال, مطوبس, كفر الشيخ",
 	"lat":"",
 	"lng":"",
@@ -33079,6 +33065,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -33253,13 +33240,12 @@
 	"enName":"Sidi Omar st., Banha, Kaliobeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر الواصلين",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr El Wasleen",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -33267,7 +33253,7 @@
 	"contacts":[
 		{	"profileId":"167853",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-el-wasleen/167853?b=2021&k=16789&l=search",
-	"arName":"كفر الواصلين, اطفيح, الجيزة",
+	"arName":"",
 	"lat":"29.451091000000002",
 	"lng":"31.272134000000001",
 	"enName":"Kafr El Wasleen, Atfih, Giza"
@@ -33493,13 +33479,12 @@
 	"enName":"Farid Nada St., Banha, Kaliobeya"
 }
 	]
-}, {	"arName":"مكتب بريد - دملو",
+}, {	"arName":"",
 	"enName":"Post Office - Demlo",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -33507,7 +33492,7 @@
 	"contacts":[
 		{	"profileId":"116223",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-demlo/116223?b=607&k=16789&l=search",
-	"arName":"قرية دملو, بنها, القليوبية",
+	"arName":"",
 	"lat":"30.499652999999999",
 	"lng":"31.195727000000002",
 	"enName":"Demlo Village, Banha, Kaliobeya"
@@ -34214,13 +34199,12 @@
 	"enName":"Juhaina El Qebleya Village, Faqus, El sharkeya"
 }
 	]
-}, {	"arName":"مكتب بريد - دمشا وهاشم",
+}, {	"arName":"",
 	"enName":"Post Office - Damasha & Hashem",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -34228,7 +34212,7 @@
 	"contacts":[
 		{	"profileId":"297187",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-damasha-&-hashem/297187?b=557&k=16789&l=search",
-	"arName":"قرية دمشا وهاشم, وسط البلد, المنيا",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Damasha & Hashem Village, Downtown, El menia"
@@ -35474,6 +35458,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -38126,7 +38111,7 @@
 }
 	]
 }, {	"arName":"مكتب بريد - كفر ديما",
-	"enName":"Post Office - Kafr Dayama",
+	"enName":"Post Office - Kafr Dema",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
@@ -38138,11 +38123,11 @@
 	],
 	"contacts":[
 		{	"profileId":"116202",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-dayama/116202?b=1939&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-dema/116202?b=1939&k=16789&l=search",
 	"arName":"كفر ديما, كفر الزيات, الغربية",
 	"lat":"30.798317399999998",
 	"lng":"30.876806899999998",
-	"enName":"Kafr Dayama, Kafr el zayat, El gharbeya"
+	"enName":"Kafr Dema, Kafr el zayat, El gharbeya"
 }
 	]
 }, {	"arName":"مكتب بريد - محلة خلف",
@@ -38985,6 +38970,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -39233,13 +39219,12 @@
 	"enName":"Meet Ghorab Village, As sinbillawain, El dakahleya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر حجازى",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Hegazy",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -39247,7 +39232,7 @@
 	"contacts":[
 		{	"profileId":"116113",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-hegazy/116113?b=2041&k=16789&l=search",
-	"arName":"كفر حجازى, المحلة الكبرى, الغربية",
+	"arName":"",
 	"lat":"30.947724999999998",
 	"lng":"31.184608999999998",
 	"enName":"Kafr Hegazy, El mahalla el kobra, El gharbeya"
@@ -39733,13 +39718,12 @@
 	"enName":"El Mostafeya Village, El mahalla el kobra, El gharbeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر حسان",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Hassan",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -39747,7 +39731,7 @@
 	"contacts":[
 		{	"profileId":"337821",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-hassan/337821?b=2039&k=16789&l=search",
-	"arName":"كفر حسان, سمنود, الغربية",
+	"arName":"",
 	"lat":"31.010809999999999",
 	"lng":"31.301439999999999",
 	"enName":"Kafr Hassan, Samannoud, El gharbeya"
@@ -39773,13 +39757,12 @@
 	"enName":"Defra Village, Tanta, El gharbeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر بهيدة",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Bahida",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -39787,7 +39770,7 @@
 	"contacts":[
 		{	"profileId":"316902",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-bahida/316902?b=1931&k=16789&l=search",
-	"arName":"كفر بهيدة, ميت غمر, الدقهلية",
+	"arName":"",
 	"lat":"30.780574999999999",
 	"lng":"31.287814000000001",
 	"enName":"Kafr Bahida, Mit ghamr, El dakahleya"
@@ -40627,13 +40610,12 @@
 	"enName":"Umm Aqaba Village, Bear el abd, North sinai"
 }
 	]
-}, {	"arName":"مكتب بريد - دمتنو",
+}, {	"arName":"",
 	"enName":"Post Office - Demetno",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -40641,7 +40623,7 @@
 	"contacts":[
 		{	"profileId":"337800",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-demetno/337800?b=606&k=16789&l=search",
-	"arName":"قرية دمتنو, المحلة الكبرى, الغربية",
+	"arName":"",
 	"lat":"31.054107999999999",
 	"lng":"31.127841499999999",
 	"enName":"Demetno Village, El mahalla el kobra, El gharbeya"
@@ -41774,13 +41756,12 @@
 	"enName":"Wabour El Teheen St., Meet Assas Village, Samannoud, El gharbeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر حشاد",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Hashad",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -41788,7 +41769,7 @@
 	"contacts":[
 		{	"profileId":"293787",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-hashad/293787?b=2038&k=16789&l=search",
-	"arName":"كفر حشاد, كفر الزيات, الغربية",
+	"arName":"",
 	"lat":"30.795289",
 	"lng":"30.794938999999999",
 	"enName":"Kafr Hashad, Kafr el zayat, El gharbeya"
@@ -41934,13 +41915,12 @@
 	"enName":"Menaqatain Village, Samalut, El menia"
 }
 	]
-}, {	"arName":"مكتب بريد - دماط",
+}, {	"arName":"",
 	"enName":"Post Office - Demat",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -41948,7 +41928,7 @@
 	"contacts":[
 		{	"profileId":"293791",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-demat/293791?b=605&k=16789&l=search",
-	"arName":"قرية دماط, قطور, الغربية",
+	"arName":"",
 	"lat":"30.944626",
 	"lng":"30.961476999999999",
 	"enName":"Demat Village, Kutour, El gharbeya"
@@ -41967,7 +41947,7 @@
 	],
 	"contacts":[
 		{	"profileId":"293790",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berma/293790?b=480&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berma/293790?b=478&k=16789&l=search",
 	"arName":"قرية برما, طنطا, الغربية",
 	"lat":"30.843796999999999",
 	"lng":"30.907993999999999",
@@ -42160,6 +42140,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -42454,13 +42435,12 @@
 	"enName":"Ras El Khalig El Balad Village, Sherbin, El dakahleya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر حمزة",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Hamza",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -42468,7 +42448,7 @@
 	"contacts":[
 		{	"profileId":"307650",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-hamza/307650?b=2037&k=16789&l=search",
-	"arName":"كفر حمزة, الخانكة, القليوبية",
+	"arName":"",
 	"lat":"30.231494000000001",
 	"lng":"31.335066000000001",
 	"enName":"Kafr Hamza, El khanka, Kaliobeya"
@@ -42594,14 +42574,14 @@
 	],
 	"contacts":[
 		{	"profileId":"307652",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-qalioub-el-mahatta/307652?b=2582&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-qalioub-el-mahatta/307652?b=2583&k=16789&l=search",
 	"arName":"قليوب المحطة, قليوب, القليوبية",
 	"lat":"30.178985000000001",
 	"lng":"31.215202000000001",
 	"enName":"Qalioub El Mahatta, Qalyub, Kaliobeya"
 },
 		{	"profileId":"306469",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-qalioub-el-mahatta/306469?b=2583&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-qalioub-el-mahatta/306469?b=2582&k=16789&l=search",
 	"arName":"ش المركز - قليوب المحطة, قليوب, القليوبية",
 	"lat":"30.177244000000002",
 	"lng":"31.225318999999999",
@@ -43235,13 +43215,12 @@
 	"enName":"El Hagayza Village, Timai el amdid, El dakahleya"
 }
 	]
-}, {	"arName":"مكتب بريد - دمو",
+}, {	"arName":"",
 	"enName":"Post Office - Demou",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -43249,7 +43228,7 @@
 	"contacts":[
 		{	"profileId":"293394",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-demou/293394?b=608&k=16789&l=search",
-	"arName":"قرية دمو, وسط البلد, الفيوم",
+	"arName":"",
 	"lat":"29.303194999999999",
 	"lng":"30.908408999999999",
 	"enName":"Demou Village, Downtown, El fayoum"
@@ -43715,6 +43694,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -44182,7 +44162,7 @@
 	],
 	"contacts":[
 		{	"profileId":"304576",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berket-ghattas/304576?b=479&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berket-ghattas/304576?b=477&k=16789&l=search",
 	"arName":"قرية بركة غطاس, ابو حمص, البحيرة",
 	"lat":"31.118151000000001",
 	"lng":"30.261785",
@@ -44482,7 +44462,7 @@
 	],
 	"contacts":[
 		{	"profileId":"116502",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berket-el-haj/116502?b=476&k=16789&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-berket-el-haj/116502?b=474&k=16789&l=search",
 	"arName":"ش الجمهورية - بركة الحاج, المرج, القاهرة",
 	"lat":"30.150455000000001",
 	"lng":"31.367080999999999",
@@ -44869,6 +44849,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -47111,13 +47092,12 @@
 	"enName":"Shakshouk Village, Ibshaway, El fayoum"
 }
 	]
-}, {	"arName":"مكتب بريد - دمشقين",
+}, {	"arName":"",
 	"enName":"Post Office - Demshqin",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -47125,7 +47105,7 @@
 	"contacts":[
 		{	"profileId":"293403",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-demshqin/293403?b=610&k=16789&l=search",
-	"arName":"قرية دمشقين, وسط البلد, الفيوم",
+	"arName":"",
 	"lat":"29.232284",
 	"lng":"30.934608000000001",
 	"enName":"Demshqin Village, Downtown, El fayoum"
@@ -49511,6 +49491,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -51479,13 +51460,12 @@
 	"enName":"Manial Arous Village, Ashmoun, El monofeya"
 }
 	]
-}, {	"arName":"مكتب بريد - دمليج",
+}, {	"arName":"",
 	"enName":"Post Office - Damlig",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -51493,7 +51473,7 @@
 	"contacts":[
 		{	"profileId":"315335",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-damlig/315335?b=562&k=16789&l=search",
-	"arName":"قرية دمليج, منوف, المنوفية",
+	"arName":"",
 	"lat":"30.414057",
 	"lng":"30.884582000000002",
 	"enName":"Damlig Village, Minuf, El monofeya"
@@ -51565,6 +51545,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -51839,13 +51820,12 @@
 	"enName":"Saft El Arfa Village, El fashn, Benisuef"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر بطا",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Bata",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -51853,7 +51833,7 @@
 	"contacts":[
 		{	"profileId":"307715",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-bata/307715?b=1935&k=16789&l=search",
-	"arName":"كفر بطا, بنها, القليوبية",
+	"arName":"",
 	"lat":"30.457183000000001",
 	"lng":"31.143146999999999",
 	"enName":"Kafr Bata, Banha, Kaliobeya"
@@ -52953,13 +52933,12 @@
 	"enName":"Maydoum Village, El wastah, Benisuef"
 }
 	]
-}, {	"arName":"مكتب بريد - دلهانس",
+}, {	"arName":"",
 	"enName":"Post Office - Dalhans",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -52967,7 +52946,7 @@
 	"contacts":[
 		{	"profileId":"295286",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-dalhans/295286?b=549&k=16789&l=search",
-	"arName":"قرية دلهانس, الفشن, بنى سويف",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Dalhans village, El fashn, Benisuef"
@@ -52993,13 +52972,12 @@
 	"enName":"El Hammad Village, Downtown, Kafr el sheikh"
 }
 	]
-}, {	"arName":"مكتب بريد - دمنكة",
+}, {	"arName":"",
 	"enName":"Post Office - Damanka",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -53007,7 +52985,7 @@
 	"contacts":[
 		{	"profileId":"337548",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-damanka/337548?b=554&k=16789&l=search",
-	"arName":"قرية دمنكة, وسط البلد, كفر الشيخ",
+	"arName":"",
 	"lat":"",
 	"lng":"",
 	"enName":"Damanka Village, Downtown, Kafr el sheikh"
@@ -54799,6 +54777,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -57073,6 +57052,7 @@
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
 	"arCategory":[
+		"وزارات وهيئات حكومية",
 		"وزارات وهيئات حكومية"
 	],
 	"enCategories":[
@@ -57227,13 +57207,12 @@
 	"enName":"El Kafr El Qadim Village, Belbeis, El sharkeya"
 }
 	]
-}, {	"arName":"مكتب بريد - كفر حفنا",
+}, {	"arName":"",
 	"enName":"Post Office - Kafr Hefna",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -57241,7 +57220,7 @@
 	"contacts":[
 		{	"profileId":"322542",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-kafr-hefna/322542?b=2040&k=16789&l=search",
-	"arName":"كفر حفنا, بلبيس, الشرقية",
+	"arName":"",
 	"lat":"30.407978",
 	"lng":"31.441967999999999",
 	"enName":"Kafr Hefna, Belbeis, El sharkeya"
@@ -57854,13 +57833,12 @@
 	"enName":"El Ezbet Qalamsha Village, Atsa, El fayoum"
 }
 	]
-}, {	"arName":"مكتب بريد - دمنهور",
+}, {	"arName":"",
 	"enName":"Post Office - Damanhour",
 	"hotline":"16789",
 	"facebook":"",
 	"web":"http://www.egyptpost.org/",
-	"arCategory":[
-		"وزارات وهيئات حكومية"
+	"arCategory":
 	],
 	"enCategories":[
 		"Ministries & Government Organizations"
@@ -57868,7 +57846,7 @@
 	"contacts":[
 		{	"profileId":"115916",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/post-office-_-damanhour/115916?b=552&k=16789&l=search",
-	"arName":"ش المديرية ميدان المحطة, دمنهور, البحيرة",
+	"arName":"",
 	"lat":"31.035886000000001",
 	"lng":"30.469044",
 	"enName":"El Modereya st. El Mahatta sq., Damanhour, El beheira"

@@ -38,7 +38,7 @@
 	"enName":"Home Delivery, Abbasseya, Cairo"
 },
 		{	"profileId":"125403",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/125403?b=6&k=19915&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/125403?b=5&k=19915&l=search",
 	"arName":"25 ش 9 ميدان النافورة, المقطم, القاهرة",
 	"lat":"30.013943999999999",
 	"lng":"31.284945",
@@ -59,7 +59,7 @@
 	"enName":"7 Abbas El Akkad St., 1st Zone, Nasr city, Cairo"
 },
 		{	"profileId":"145886",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/145886?b=5&k=19915&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/majesty-restaurants/145886?b=6&k=19915&l=search",
 	"arName":"138 ش النزهة, تريومف, مصر الجديدة, القاهرة",
 	"lat":"30.102309999999999",
 	"lng":"31.343156",

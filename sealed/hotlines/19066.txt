@@ -57,7 +57,7 @@
 	"enName":"338 El Guish Rd. Intersection Of El Moaskar El Romany St., Roushdy, Alexandria"
 },
 		{	"profileId":"103333",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/103333?b=6&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/103333?b=4&k=19066&l=search",
 	"arName":"6 أ ش اسماعيل محمد, الزمالك, القاهرة",
 	"lat":"30.064926",
 	"lng":"31.217482",
@@ -85,7 +85,7 @@
 	"enName":"Ring Rd., Zahraa El Maadi, Maadi, Cairo"
 },
 		{	"profileId":"97993",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/97993?b=5&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/97993?b=6&k=19066&l=search",
 	"arName":"1 ميدان التحرير, وسط البلد, القاهرة",
 	"lat":"30.043751",
 	"lng":"31.236391000000001",
@@ -127,21 +127,21 @@
 	"enName":"El Guish Rd., San stefano, Alexandria"
 },
 		{	"profileId":"246966",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/246966?b=7&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/246966?b=8&k=19066&l=search",
 	"arName":"ش 77, المعادى, القاهرة",
 	"lat":"29.963362",
 	"lng":"31.262732",
 	"enName":"Rd. 77, Maadi, Cairo"
 },
 		{	"profileId":"315994",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/315994?b=22&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/315994?b=21&k=19066&l=search",
 	"arName":"ميدان جهينة, السادس من اكتوبر, الجيزة",
 	"lat":"30.005434000000001",
 	"lng":"30.974428",
 	"enName":"Juhaina Sq., 6th of october, Giza"
 },
 		{	"profileId":"80762",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/80762?b=12&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/80762?b=11&k=19066&l=search",
 	"arName":"ش عطية الصوالحى امتداد ش مكرم عبيد, الحى الثامن, مدينة نصر, القاهرة",
 	"lat":"30.051110999999999",
 	"lng":"31.349364000000001",
@@ -155,7 +155,7 @@
 	"enName":"Home Delivery, Mohandeseen, Giza"
 },
 		{	"profileId":"80765",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/80765?b=4&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/80765?b=5&k=19066&l=search",
 	"arName":"61 ش الميرغنى, مصر الجديدة, القاهرة",
 	"lat":"30.083918000000001",
 	"lng":"31.326605000000001",
@@ -183,14 +183,14 @@
 	"enName":"Km 28,, Cairo alex desert rd., Giza"
 },
 		{	"profileId":"341292",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/341292?b=8&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/341292?b=7&k=19066&l=search",
 	"arName":"مربع 1258ف - طريق الاوتوستراد, مساكن شيراتون, مصر الجديدة, القاهرة",
 	"lat":"30.102922",
 	"lng":"31.386609",
 	"enName":"Square 1258F, Autostrad Rd., Sheraton Bldgs., Heliopolis, Cairo"
 },
 		{	"profileId":"97921",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/97921?b=11&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/97921?b=12&k=19066&l=search",
 	"arName":"15 ش البطراوى متفرع من ش عباس العقاد, المنطقة الاولى, مدينة نصر, القاهرة",
 	"lat":"30.061556",
 	"lng":"31.334333999999998",
@@ -211,7 +211,7 @@
 	"enName":"14th Of May Rd., Semouha, Alexandria"
 },
 		{	"profileId":"116932",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/116932?b=20&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/116932?b=19&k=19066&l=search",
 	"arName":"164 ش الهرم, الهرم, الجيزة",
 	"lat":"29.994326999999998",
 	"lng":"31.160708",
@@ -225,7 +225,7 @@
 	"enName":"53 Mossadak St. Off Mohy El Din Abou El Ezz St., Dokki, Giza"
 },
 		{	"profileId":"80772",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/80772?b=19&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/80772?b=20&k=19066&l=search",
 	"arName":"كم 6 -, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
 	"lat":"31.167404000000001",
 	"lng":"29.933047999999999",
@@ -239,7 +239,7 @@
 	"enName":"55 Abdel Hamid Badawy St., Heliopolis, Cairo"
 },
 		{	"profileId":"253707",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/253707?b=21&k=19066&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/hardee's/253707?b=22&k=19066&l=search",
 	"arName":"المحور المركزى, السادس من اكتوبر, الجيزة",
 	"lat":"29.973347",
 	"lng":"30.944596000000001",

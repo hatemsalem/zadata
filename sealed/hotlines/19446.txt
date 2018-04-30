@@ -11,14 +11,14 @@
 	],
 	"contacts":[
 		{	"profileId":"376606",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376606?b=20&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376606?b=18&k=19446&l=search",
 	"arName":"ش المدارس, مدينة بدر, البحيرة",
 	"lat":"30.573217",
 	"lng":"30.706097",
 	"enName":"El Madares St., Badr city, El beheira"
 },
 		{	"profileId":"376290",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376290?b=18&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376290?b=16&k=19446&l=search",
 	"arName":"47 ش بورسعيد, ابو قير, الاسكندرية",
 	"lat":"31.320482999999999",
 	"lng":"30.063497000000002",
@@ -74,7 +74,7 @@
 	"enName":"El Horreya St., Downtown, El fayoum"
 },
 		{	"profileId":"376675",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376675?b=23&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376675?b=21&k=19446&l=search",
 	"arName":"145 ش مصطفى كامل, ابو كبير, الشرقية",
 	"lat":"",
 	"lng":"",
@@ -116,7 +116,7 @@
 	"enName":"Mostafa Kamel St., Meniet el nasr, El dakahleya"
 },
 		{	"profileId":"304210",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/304210?b=16&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/304210?b=23&k=19446&l=search",
 	"arName":"255 ش الجلاء - عمارة مصر للتأمين - الدور 1, طنطا, الغربية",
 	"lat":"30.786548100000001",
 	"lng":"31.001935",
@@ -151,7 +151,7 @@
 	"enName":"Abou El Hasaib St., Zefta, El gharbeya"
 },
 		{	"profileId":"376283",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376283?b=17&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376283?b=15&k=19446&l=search",
 	"arName":"513 برج الكرنك - ش الفتح تقاطع ش قطاوى, بولكلى, الاسكندرية",
 	"lat":"31.233981",
 	"lng":"29.958627",
@@ -165,14 +165,14 @@
 	"enName":"El Gomhoureya St., El saff, Giza"
 },
 		{	"profileId":"376625",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376625?b=22&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376625?b=20&k=19446&l=search",
 	"arName":"برج على بن ابى طالب - عمارة الاوقاف - ش الجيش - مدينة البندر, وسط البلد, كفر الشيخ",
 	"lat":"31.113375099999999",
 	"lng":"30.940510700000001",
 	"enName":"Aly Ibn Abi Taleb Tower, El Awqaf Bldg., El Guish St., El Bandar City, Downtown, Kafr el sheikh"
 },
 		{	"profileId":"376620",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376620?b=21&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376620?b=19&k=19446&l=search",
 	"arName":"ش صلاح سالم, شبراخيت, البحيرة",
 	"lat":"31.030756100000001",
 	"lng":"30.713514199999999",
@@ -249,7 +249,7 @@
 	"enName":"203 El Horreya St., El afrang district, Ismaileya"
 },
 		{	"profileId":"376334",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376334?b=19&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376334?b=17&k=19446&l=search",
 	"arName":"ش سيدى عقيل, سمنود, الغربية",
 	"lat":"30.964665799999999",
 	"lng":"31.240310600000001",
@@ -487,7 +487,7 @@
 	"enName":"10 Maamoun El Shennawy St., El zarka, Damietta"
 },
 		{	"profileId":"376702",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376702?b=24&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/376702?b=22&k=19446&l=search",
 	"arName":"ش النصر, ديرب نجم, الشرقية",
 	"lat":"",
 	"lng":"",
@@ -557,7 +557,7 @@
 	"enName":"Bank Misr St. Intersection Of El Mahakem St., Kafr sakr, El sharkeya"
 },
 		{	"profileId":"304462",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/304462?b=15&k=19446&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/misr-life-insurance/304462?b=24&k=19446&l=search",
 	"arName":"26 ش الجيش, طنطا, الغربية",
 	"lat":"30.7904436",
 	"lng":"30.998935899999999",

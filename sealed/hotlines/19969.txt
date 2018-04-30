@@ -60,7 +60,7 @@
 	"enName":"El Gazaer St., New Maadi, Maadi, Cairo"
 },
 		{	"profileId":"424652",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/424652?b=1&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/424652?b=2&k=19969&l=search",
 	"arName":"الطريق الدائرى - الدور 1, كايرو فيستيفال, القاهرة الجديدة, القاهرة",
 	"lat":"30.028863000000001",
 	"lng":"31.407785000000001",
@@ -108,6 +108,13 @@
 	"lng":"31.141197999999999",
 	"enName":"2 El Mansoureya Rd., El haram, Giza"
 },
+		{	"profileId":"583227",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/583227?b=53&k=19969&l=search",
+	"arName":"116 طريق الحرية, الشلالات, الاسكندرية",
+	"lat":"",
+	"lng":"",
+	"enName":"116 El Horreya Rd., El shalalat, Alexandria"
+},
 		{	"profileId":"581086",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/581086?b=19&k=19969&l=search",
 	"arName":"القطعة 37 - , التجمع الخامس, القاهرة الجديدة, القاهرة",
@@ -144,7 +151,7 @@
 	"enName":"41 Rayel St., Helwan, Cairo"
 },
 		{	"profileId":"541941",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/541941?b=48&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/541941?b=47&k=19969&l=search",
 	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
 	"lat":"29.971907000000002",
 	"lng":"31.01773",
@@ -158,7 +165,7 @@
 	"enName":"62 Rd. 9, Thakanat El Maadi, Maadi, Cairo"
 },
 		{	"profileId":"461888",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/461888?b=23&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/461888?b=22&k=19969&l=search",
 	"arName":"5 ش البرازيل, الزمالك, القاهرة",
 	"lat":"30.060600000000001",
 	"lng":"31.2225",
@@ -200,7 +207,7 @@
 	"enName":"Central Spine, Intersection Of 26th Of July Spine, 6th of october, Giza"
 },
 		{	"profileId":"581174",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/581174?b=54&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/581174?b=55&k=19969&l=search",
 	"arName":"المدينة القديمة, سهل حشيش, الغردقة",
 	"lat":"",
 	"lng":"",
@@ -228,7 +235,7 @@
 	"enName":"19 Iskan Shabab El Mohandeseen Bldgs., Extension Of Makram Ebaid St., 1st Zone, Nasr city, Cairo"
 },
 		{	"profileId":"516138",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/516138?b=22&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/516138?b=23&k=19969&l=search",
 	"arName":"الطريق الدائرى, التجمع الاول, القاهرة الجديدة, القاهرة",
 	"lat":"30.064154200000001",
 	"lng":"31.423205100000001",
@@ -270,7 +277,7 @@
 	"enName":"Borg El Arab Rd., Borg el arab, Alexandria"
 },
 		{	"profileId":"346609",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/346609?b=2&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/346609?b=1&k=19969&l=search",
 	"arName":"105 ش الميرغنى, مصر الجديدة, القاهرة",
 	"lat":"30.088442000000001",
 	"lng":"31.338104999999999",
@@ -298,7 +305,7 @@
 	"enName":"Km 6, Alex. cairo desert rd., Alexandria"
 },
 		{	"profileId":"581225",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/581225?b=55&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/581225?b=56&k=19969&l=search",
 	"arName":"طريق القاهرة اسكندرية الزراعى, قها, القليوبية",
 	"lat":"",
 	"lng":"",
@@ -312,14 +319,14 @@
 	"enName":"Amin Hasouna St. Intersection Of Mostafa Kamel St., El seyouf, Alexandria"
 },
 		{	"profileId":"542196",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/542196?b=47&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/542196?b=48&k=19969&l=search",
 	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
 	"lat":"29.971907000000002",
 	"lng":"31.01773",
 	"enName":"El Wahat Rd., 6th of october, Giza"
 },
 		{	"profileId":"581100",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/581100?b=53&k=19969&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abu-auf-house-of-nuts/581100?b=54&k=19969&l=search",
 	"arName":"ش ملك حفنى, المنتزة, المنتزه, الاسكندرية",
 	"lat":"31.282347000000001",
 	"lng":"30.023105000000001",

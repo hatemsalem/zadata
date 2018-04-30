@@ -48,7 +48,7 @@
 }, {	"arName":"سيتى بلازا مول",
 	"enName":"City Plaza Mall",
 	"hotline":"19986",
-	"facebook":"",
+	"facebook":"http://www.facebook.com/City.Plaza.mall.shoroukcity",
 	"web":"",
 	"arCategory":[
 		"مول"

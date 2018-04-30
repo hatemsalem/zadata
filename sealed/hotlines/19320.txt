@@ -27,7 +27,7 @@
 	"enName":"90 El Galaa St., Downtown, Cairo"
 },
 		{	"profileId":"14013",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/14013?b=3&k=19320&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/14013?b=4&k=19320&l=search",
 	"arName":"110 ش الجلاء, وسط البلد, القاهرة",
 	"lat":"30.057397000000002",
 	"lng":"31.241273",
@@ -90,7 +90,7 @@
 	"enName":"649 Asiout Sohag Rd., Misr Lel Taamin Bldg., Shark district, Sohag"
 },
 		{	"profileId":"145711",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145711?b=4&k=19320&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/industrial-development-&-workers-bank-of-egypt/145711?b=3&k=19320&l=search",
 	"arName":"خدمة العملاء, وسط البلد, القاهرة",
 	"lat":"",
 	"lng":"",

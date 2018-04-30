@@ -2,7 +2,7 @@
 	"enName":"Bernasos Stationery, Office Supplies & Surveying",
 	"hotline":"19185",
 	"facebook":"http://www.facebook.com/Bernasos1918",
-	"web":"http://www.bernasos.com/",
+	"web":"bernasos.com",
 	"arCategory":[
 		"ادوات مكتبية"
 	],
@@ -88,7 +88,7 @@
 	"enName":"Youth Center - El Kharga Wall, Gamal Abdel Nasser St., El kharga, El wadi el gadid"
 },
 		{	"profileId":"147147",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/147147?b=7&k=19185&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/147147?b=8&k=19185&l=search",
 	"arName":"خدمة العملاء, وسط البلد, القاهرة",
 	"lat":"",
 	"lng":"",
@@ -158,7 +158,7 @@
 	"enName":"13 Ismail El Mazny St. Off Amar Ibn Yasser St., Hegaz Square, Heliopolis, Cairo"
 },
 		{	"profileId":"83284",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/83284?b=8&k=19185&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bernasos-stationery,-office-supplies-&-surveying/83284?b=7&k=19185&l=search",
 	"arName":"30 ش شريف, وسط البلد, القاهرة",
 	"lat":"30.049900000000001",
 	"lng":"31.2423",

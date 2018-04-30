@@ -15,7 +15,7 @@
 	"arName":"كم 75 - طريق ترعة النصر - غرب النوبارية, طريق الاسكندرية القاهرة الصحرا, طريق الاسكندرية القاهرة الصحراوى, الاسكندرية",
 	"lat":"",
 	"lng":"",
-	"enName":"Km 57, Teraet El Nasr Rd., Gharb El Nobareya, Alex. cairo desert rd., Alexandria"
+	"enName":"Km 75, Teraet El Nasr Rd., Gharb El Nobareya, Alex. cairo desert rd., Alexandria"
 },
 		{	"profileId":"577084",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/lamar/577084?b=3&k=16657&l=search",

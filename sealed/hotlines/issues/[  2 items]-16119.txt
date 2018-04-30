@@ -32,7 +32,7 @@
 	"enName":"Corniche El Nil St., LUXOR, Luxor, Luxor"
 },
 		{	"profileId":"73901",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/travel-choice/73901?b=14&k=16119&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/travel-choice/73901?b=13&k=16119&l=search",
 	"arName":"8 ش الشيراتون, سقالة, الغردقة",
 	"lat":"27.227484",
 	"lng":"33.838383999999998",
@@ -46,7 +46,7 @@
 	"enName":"59 Abtal El Tahrir St. Off Corniche El Nil St., El corniche, Aswan"
 },
 		{	"profileId":"132941",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/travel-choice/132941?b=13&k=16119&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/travel-choice/132941?b=14&k=16119&l=search",
 	"arName":"3 ش النصر, الدهار, الغردقة",
 	"lat":"27.250543",
 	"lng":"33.817312000000001",
@@ -67,7 +67,7 @@
 	"enName":"Corniche El Nil, Elephantine Island, El corniche, Aswan"
 },
 		{	"profileId":"34141",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/travel-choice/34141?b=9&k=16119&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/travel-choice/34141?b=10&k=16119&l=search",
 	"arName":"15 ميدان سعد زغلول, محطة الرمل, الاسكندرية",
 	"lat":"31.202703",
 	"lng":"29.902452",
@@ -116,7 +116,7 @@
 	"enName":"83 23rd Of July St. Intersection Of Salah Salem St., El shark district, Port said"
 },
 		{	"profileId":"73904",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/travel-choice/73904?b=10&k=16119&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/travel-choice/73904?b=9&k=16119&l=search",
 	"arName":"طريق السلام, خليج نعمة, شرم الشيخ",
 	"lat":"27.917435000000001",
 	"lng":"34.335140000000003",

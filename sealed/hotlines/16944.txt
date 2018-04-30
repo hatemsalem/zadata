@@ -32,7 +32,7 @@
 	"enName":"32 El Sawah St., El amireya, Cairo"
 },
 		{	"profileId":"163404",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bisco-misr-_-egyptian-co.-for-foods/163404?b=13&k=16944&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bisco-misr-_-egyptian-co.-for-foods/163404?b=14&k=16944&l=search",
 	"arName":"3 ش الغرفة التجارية متفرع من ش مراد - ميدان الجيزة, الجيزة, الجيزة",
 	"lat":"30.016795999999999",
 	"lng":"31.212627999999999",
@@ -137,7 +137,7 @@
 	"enName":"3 El Ray Bldgs., Ahmed Maher St., El zagazig, El sharkeya"
 },
 		{	"profileId":"194101",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bisco-misr-_-egyptian-co.-for-foods/194101?b=14&k=16944&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/bisco-misr-_-egyptian-co.-for-foods/194101?b=13&k=16944&l=search",
 	"arName":"100 ش العطارين, العطارين, الاسكندرية",
 	"lat":"31.195236999999999",
 	"lng":"29.897023000000001",

@@ -1,0 +1,54 @@
+{"items":[{	"arName":"تكوين للاستثمار العقارى",
+	"enName":"Takween Real Estate",
+	"hotline":"19796",
+	"facebook":"",
+	"web":"",
+	"arCategory":[
+		"عقارات"
+	],
+	"enCategories":[
+		"Real Estate"
+	],
+	"contacts":[
+		{	"profileId":"444115",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/takween-real-estate/444115?b=3&k=19796&l=search",
+	"arName":"72 ش جامعة الدول العربية, المهندسين, الجيزة",
+	"lat":"30.049648999999999",
+	"lng":"31.199175",
+	"enName":"72 Gamaet El Dewal El Arabeya St., Mohandeseen, Giza"
+},
+		{	"profileId":"444116",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/takween-real-estate/444116?b=2&k=19796&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+}
+	]
+}, {	"arName":"شركة التوكل الكهربائية - جيلا ش.م.م",
+	"enName":"Al Tawakol Electrical Co. - Gila S.A.E",
+	"hotline":"19796",
+	"facebook":"http://www.facebook.com/GilaAlTawakolElectricalCo/",
+	"web":"http://www.gilaelectric.com/",
+	"arCategory":[
+		"كهرباء والكترونيات اجهزة ومعدات",
+		"كهرباء مقاولون وكهربائيون",
+		"حريق مكافحة وحماية ومعدات",
+		"اتصالات ومعدات اتصال وخدمات"
+	],
+	"enCategories":[
+		"Electric & Electronic Devices",
+		"Electric Contractors & Electricians",
+		"Fire Protection Equipment",
+		"Telecommunications"
+	],
+	"contacts":[
+		{	"profileId":"44093",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/al-tawakol-electrical-co.-_-gila-s.a.e/44093?b=1&k=19796&l=search",
+	"arName":"33 ش 26 يوليو, وسط البلد, القاهرة",
+	"lat":"30.053433999999999",
+	"lng":"31.239452",
+	"enName":"33 26th Of July St., Downtown, Cairo"
+}
+	]
+}]}

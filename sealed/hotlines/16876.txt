@@ -18,7 +18,7 @@
 	"enName":"Km 27, Alex Cairo Desert Rd., Mirghem, Alexandria"
 },
 		{	"profileId":"156888",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/156888?b=1&k=16876&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/156888?b=2&k=16876&l=search",
 	"arName":"6 ش مختار اباظة امتداد ش جسر السويس - المنطقة الصناعية الثانية, جسر السويس, القاهرة",
 	"lat":"30.140732",
 	"lng":"31.391957999999999",
@@ -39,7 +39,7 @@
 	"enName":"Kobry Dandara Rd., Ahmed Aly El Daw Bldg., Downtown, Qena"
 },
 		{	"profileId":"187213",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/187213?b=2&k=16876&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/abaza-auto-trade/187213?b=1&k=16876&l=search",
 	"arName":"خدمة العملاء, جسر السويس, القاهرة",
 	"lat":"",
 	"lng":"",

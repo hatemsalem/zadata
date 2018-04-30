@@ -15,7 +15,7 @@
 	],
 	"contacts":[
 		{	"profileId":"178262",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/178262?b=7&k=16919&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/178262?b=6&k=16919&l=search",
 	"arName":"منطقة المطاعم, مدينة الرحاب, القاهرة",
 	"lat":"30.059089",
 	"lng":"31.489937999999999",
@@ -120,7 +120,7 @@
 	"enName":"Albert El Awal St., Semouha, Alexandria"
 },
 		{	"profileId":"185084",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/185084?b=6&k=16919&l=search",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/arabiata/185084?b=7&k=16919&l=search",
 	"arName":"كم 8 - طريق القاهرة السويس الصحراوى - الحى الخامس, مدينة الشروق, القاهرة",
 	"lat":"30.1170647",
 	"lng":"31.6060433",
