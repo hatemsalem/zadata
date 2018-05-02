@@ -53,31 +53,4 @@
 	"enName":"73 Omar Lotfy St., El ibrahimeya, Alexandria"
 }
 	]
-}, {	"arName":"فافولا كووك وير",
-	"enName":"Favola Cookware",
-	"hotline":"19631",
-	"facebook":"http://www.facebook.com/Favolacookware",
-	"web":"http://www.favolacookware.com/",
-	"arCategory":[
-		"ادوات منزلية منتجات"
-	],
-	"enCategories":[
-		"Housewares Products"
-	],
-	"contacts":[
-		{	"profileId":"495392",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/favola-cookware/495392?b=7&k=19631&l=search",
-	"arName":"خدمة العملاء, سموحة, الاسكندرية",
-	"lat":"",
-	"lng":"",
-	"enName":"Customer Service, Semouha, Alexandria"
-},
-		{	"profileId":"495388",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/favola-cookware/495388?b=8&k=19631&l=search",
-	"arName":"19 ش مصطفى كامل, سموحة, الاسكندرية",
-	"lat":"31.215454999999999",
-	"lng":"29.942287",
-	"enName":"19 Mostafa Kamel St., Semouha, Alexandria"
-}
-	]
 }]}
