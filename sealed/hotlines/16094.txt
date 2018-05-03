@@ -1,24 +1,4 @@
-{"items":[{	"arName":"بداية",
-	"enName":"Bedaya",
-	"hotline":"16094",
-	"facebook":"",
-	"web":"",
-	"arCategory":[
-		"مجمعات سكنية"
-	],
-	"enCategories":[
-		"Residential Compounds"
-	],
-	"contacts":[
-		{	"profileId":"387688",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/bedaya/387688?b=1&k=16094&l=search",
-	"arName":"حدائق اكتوبر, السادس من اكتوبر, الجيزة",
-	"lat":"",
-	"lng":"",
-	"enName":"Hadaeq October, 6th of october, Giza"
-}
-	]
-}, {	"arName":"تطوير مصر",
+{"items":[ {	"arName":"تطوير مصر",
 	"enName":"Tatweer Misr",
 	"hotline":"16094",
 	"facebook":"http://www.facebook.com/Tatweer-Misr-1710101395887774",
