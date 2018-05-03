@@ -10,7 +10,14 @@
 		"Real Estate"
 	],
 	"contacts":[
-		{	"profileId":"482759",
+		{	"profileId":"451696",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/rofaida-real-estate/451696?b=3&k=16132&l=search",
+	"arName":"خدمة العملاء, المهندسين, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Mohandeseen, Giza"
+},
+{	"profileId":"482759",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/rofaida-for-real-estate/482759?b=2&k=16132&l=search",
 	"arName":"57 ش محى الدين ابو العز, الدقى, الجيزة",
 	"lat":"30.041713000000001",
@@ -23,33 +30,6 @@
 	"lat":"30.062729000000001",
 	"lng":"31.339777999999999",
 	"enName":"14 Abdel Razeq El Sanhoury St. Off Abbas El Akkad St., Floor 5, 7th District, Nasr city, Cairo"
-}
-	]
-}, {	"arName":"رفيدة العقارية",
-	"enName":"Rofaida Real Estate",
-	"hotline":"16132",
-	"facebook":"",
-	"web":"",
-	"arCategory":[
-		"عقارات"
-	],
-	"enCategories":[
-		"Real Estate"
-	],
-	"contacts":[
-		{	"profileId":"451330",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/rofaida-real-estate/451330?b=4&k=16132&l=search",
-	"arName":"15 ش احمد عرابى, المهندسين, الجيزة",
-	"lat":"30.062799999999999",
-	"lng":"31.207000000000001",
-	"enName":"15 Ahmed Orabi St., Mohandeseen, Giza"
-},
-		{	"profileId":"451696",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/rofaida-real-estate/451696?b=3&k=16132&l=search",
-	"arName":"خدمة العملاء, المهندسين, الجيزة",
-	"lat":"",
-	"lng":"",
-	"enName":"Customer Service, Mohandeseen, Giza"
 }
 	]
 }]}

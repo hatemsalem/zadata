@@ -33,8 +33,8 @@
 		{	"profileId":"449532",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/el-mamlaka-for-investment-&-urban-development/449532?b=3&k=16192&l=search",
 	"arName":"برج اللؤلؤة - ش الحسن والحسين - ابراج حدائق جزيرة الدهب, الجيزة, الجيزة",
-	"lat":"",
-	"lng":"",
+	"lat":"29.984294999999999",
+	"lng":"31.212758999999998",
 	"enName":"El Loualoaa Tower, El Hassan & El Hussein St., Hadaeq Geziret El Dahab Towers, Giza, Giza"
 },
 		{	"profileId":"449534",

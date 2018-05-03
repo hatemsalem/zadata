@@ -123,24 +123,4 @@
 	"enName":"El Salam Rd., Naama bay, Sharm el sheikh"
 }
 	]
-}, {	"arName":"شطا لاقمشة الستائر والمفروشات",
-	"enName":"Shatta Fabrics & Curtains",
-	"hotline":"16119",
-	"facebook":"http://www.facebook.com/pages/Vantex-Mohamed-shatta/159941707351621",
-	"web":"",
-	"arCategory":[
-		"منسوجات"
-	],
-	"enCategories":[
-		"Textiles"
-	],
-	"contacts":[
-		{	"profileId":"568728",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/shatta-fabrics-&-curtains/568728?b=2&k=16119&l=search",
-	"arName":"28 ش النصر, المعادى الجديدة, المعادى, القاهرة",
-	"lat":"29.975209",
-	"lng":"31.279039000000001",
-	"enName":"28 El Nasr St., New Maadi, Maadi, Cairo"
-}
-	]
 }]}

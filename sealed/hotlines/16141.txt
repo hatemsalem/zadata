@@ -1,24 +1,4 @@
-{"items":[{	"arName":"ايستهاوس",
-	"enName":"East House",
-	"hotline":"16141",
-	"facebook":"",
-	"web":"",
-	"arCategory":[
-		"اجهزة منزلية"
-	],
-	"enCategories":[
-		"Appliances"
-	],
-	"contacts":[
-		{	"profileId":"123327",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/east-house/123327?b=4&k=16141&l=search",
-	"arName":"القطعة الثانية - بلوك 13125 - - المنطقة الصناعية الاولى, مدينة العبور, القليوبية",
-	"lat":"30.186533000000001",
-	"lng":"31.462978",
-	"enName":"2nd plot, block 13125, , 1st Industrial Zone, Obour city, Kaliobeya"
-}
-	]
-}, {	"arName":"القاهرة للمبيعات",
+{"items":[ {	"arName":"القاهرة للمبيعات",
 	"enName":"Cairo Sales Stores",
 	"hotline":"16141",
 	"facebook":"http://www.facebook.com/cairosales",

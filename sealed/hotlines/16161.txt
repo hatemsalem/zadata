@@ -10,26 +10,7 @@
 		"Travel Agents"
 	],
 	"contacts":[
-		{	"profileId":"444566",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/vfs-tasheel-egypt/444566?b=1&k=16161&l=search",
-	"arName":"القطعة 44 - ش التسعين الشمالى - مبنى سوميت, التجمع الخامس, القاهرة الجديدة, القاهرة",
-	"lat":"30.0457",
-	"lng":"31.213200000000001",
-	"enName":"Plot 44, El Tesaeen El Shamaly St., Somit Bldg., 5th Compound, New cairo, Cairo"
-}
-	]
-}, {	"arName":"فى اف اس تسهيل الدولية",
-	"enName":"VFS Tasheel International",
-	"hotline":"16161",
-	"facebook":"http://www.facebook.com/vfstasheelegypt",
-	"web":"http://www.vfstasheel.com/",
-	"arCategory":[
-		"سياحة وكالات"
-	],
-	"enCategories":[
-		"Travel Agents"
-	],
-	"contacts":[
+	
 		{	"profileId":"444576",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/vfs-tasheel-international/444576?b=3&k=16161&l=search",
 	"arName":"خدمة العملاء, التجمع الخامس, القاهرة الجديدة, القاهرة",
@@ -50,6 +31,13 @@
 	"lat":"30.091850999999998",
 	"lng":"31.378411",
 	"enName":"Plot 25, Autostrad Rd., El Moltaqa El Araby District, Sheraton Bldgs., Heliopolis, Cairo"
+},
+		{	"profileId":"444566",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vfs-tasheel-egypt/444566?b=1&k=16161&l=search",
+	"arName":"القطعة 44 - ش التسعين الشمالى - مبنى سوميت, التجمع الخامس, القاهرة الجديدة, القاهرة",
+	"lat":"30.0457",
+	"lng":"31.213200000000001",
+	"enName":"Plot 44, El Tesaeen El Shamaly St., Somit Bldg., 5th Compound, New cairo, Cairo"
 }
 	]
 }]}
