@@ -21,8 +21,8 @@
 }, {	"arName":"فيوجن فرنيتشر",
 	"enName":"Fusion Furniture",
 	"hotline":"16577",
-	"facebook":"http://www.facebook.com/Fusion-Furniture-1443639665688555",
-	"web":"fusionfurniturestore.com",
+	"facebook":"https://www.facebook.com/Fusionfurniture.egy/",
+	"web":"http://fusionfurniturestore.com",
 	"arCategory":[
 		"اثاث منزلى ومكتبى واثاث حدائق"
 	],

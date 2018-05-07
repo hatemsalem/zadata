@@ -440,24 +440,4 @@
 	"enName":"95 Haram St., El Mariouteya, El haram, Giza"
 }
 	]
-}, {	"arName":"كلو",
-	"enName":"Clue",
-	"hotline":"16678",
-	"facebook":"http://www.facebook.com/Cluewear",
-	"web":"",
-	"arCategory":[
-		"ملابس - تسوق"
-	],
-	"enCategories":[
-		"Clothing - Shopping"
-	],
-	"contacts":[
-		{	"profileId":"542301",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/clue/542301?b=62&k=16678&l=search",
-	"arName":"طريق الواحات, السادس من اكتوبر, الجيزة",
-	"lat":"29.971907000000002",
-	"lng":"31.01773",
-	"enName":"El Wahat Rd., 6th of october, Giza"
-}
-	]
 }]}

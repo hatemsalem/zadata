@@ -32,24 +32,4 @@
 	"enName":"8 El Shaheed Zakareya Khalil St., Oriental Weavers Bldg., Sheraton Bldgs., Heliopolis, Cairo"
 }
 	]
-}, {	"arName":"القاهرة الكبرى للانماء والتعمير",
-	"enName":"Greater Cairo For Development & Building",
-	"hotline":"16234",
-	"facebook":"",
-	"web":"http://www.oudegypt.com/",
-	"arCategory":[
-		"عقارات"
-	],
-	"enCategories":[
-		"Real Estate"
-	],
-	"contacts":[
-		{	"profileId":"475110",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/greater-cairo-for-development-&-building/475110?b=1&k=16234&l=search",
-	"arName":"8 ش الشهيد زكريا خليل, مساكن شيراتون, مصر الجديدة, القاهرة",
-	"lat":"30.103639000000001",
-	"lng":"31.373192",
-	"enName":"8 El Shaheed Zakareya Khalil St., Sheraton Bldgs., Heliopolis, Cairo"
-}
-	]
 }]}

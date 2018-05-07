@@ -1,7 +1,7 @@
 {"items":[{	"arName":"اماريتس هايتس",
 	"enName":"Emirates Heights",
 	"hotline":"16448",
-	"facebook":"",
+	"facebook":"https://www.facebook.com/emiratesheightsofficial",
 	"web":"http://www.emiratesheights.com/",
 	"arCategory":[
 		"عقارات"

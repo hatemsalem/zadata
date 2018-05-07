@@ -1,28 +1,8 @@
-{"items":[{	"arName":"لاكوينتا",
-	"enName":"La Quinta",
-	"hotline":"16628",
-	"facebook":"",
-	"web":"",
-	"arCategory":[
-		"سياحة - تنمية"
-	],
-	"enCategories":[
-		"Tourism Development"
-	],
-	"contacts":[
-		{	"profileId":"443128",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/la-quinta/443128?b=3&k=16628&l=search",
-	"arName":"29 ب مربع 1170 -, مساكن شيراتون, مصر الجديدة, القاهرة",
-	"lat":"30.097213799999999",
-	"lng":"31.3804306",
-	"enName":"29 B Square 1170,, Sheraton Bldgs., Heliopolis, Cairo"
-}
-	]
-}, {	"arName":"كريشن جروب",
+{"items":[ {	"arName":"كريشن جروب",
 	"enName":"Creation Group",
 	"hotline":"16628",
 	"facebook":"http://www.facebook.com/creation.gr",
-	"web":"",
+	"web":"http://www.creation.com.eg/",
 	"arCategory":[
 		"عقارات"
 	],

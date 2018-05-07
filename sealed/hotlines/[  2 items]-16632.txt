@@ -28,7 +28,7 @@
 }, {	"arName":"لاميرادا",
 	"enName":"La Mirada",
 	"hotline":"16632",
-	"facebook":"",
+	"facebook":"https://www.facebook.com/lamirada.eg",
 	"web":"http://www.lamirada-eg.com/",
 	"arCategory":[
 		"مجمعات سكنية"

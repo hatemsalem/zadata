@@ -1,4 +1,4 @@
-{"items":[{	"arName":"زهران",
+{"items":[{	"arName":"زهران - تيفال",
 	"enName":"Zahran",
 	"hotline":"16622",
 	"facebook":"http://www.facebook.com/TefalEgypt",
@@ -93,26 +93,6 @@
 	"lat":"29.982722299999999",
 	"lng":"31.339874300000002",
 	"enName":"Ring Rd., Baron City, El katameya, Cairo"
-}
-	]
-}, {	"arName":"زهران جروب - تيفال",
-	"enName":"Zahran Group - Tefal",
-	"hotline":"16622",
-	"facebook":"",
-	"web":"http://www.zahrangroup.com/",
-	"arCategory":[
-		"ادوات منزلية منتجات"
-	],
-	"enCategories":[
-		"Housewares Products"
-	],
-	"contacts":[
-		{	"profileId":"352698",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/zahran-group-_-tefal/352698?b=13&k=16622&l=search",
-	"arName":"طريق 14 مايو, سموحة, الاسكندرية",
-	"lat":"31.211919000000002",
-	"lng":"29.956344000000001",
-	"enName":"14th Of May Rd., Semouha, Alexandria"
 }
 	]
 }]}

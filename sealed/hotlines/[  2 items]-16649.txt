@@ -2,7 +2,7 @@
 	"enName":"Atlantis Corners",
 	"hotline":"16649",
 	"facebook":"http://www.facebook.com/AtlantisCorners",
-	"web":"",
+	"web":"http://atlantis-egy.com",
 	"arCategory":[
 		"مطاعم عالمية",
 		"مطاعم",

@@ -25,24 +25,4 @@
 	"enName":"101 A , Industrial Zone, Abou rawash, Giza"
 }
 	]
-}, {	"arName":"ستارز سنتر",
-	"enName":"Stars Centre",
-	"hotline":"16229",
-	"facebook":"",
-	"web":"",
-	"arCategory":[
-		"فنادق ومنتجعات"
-	],
-	"enCategories":[
-		"Hotels & Resorts"
-	],
-	"contacts":[
-		{	"profileId":"517477",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/stars-centre/517477?b=3&k=16229&l=search",
-	"arName":"طريق مطروح اسكندرية الصحراوى - الفوكا, رأس الحكمة, الساحل الشمالى",
-	"lat":"",
-	"lng":"",
-	"enName":"Matrouh Alex Desert Rd., El Foka, Ras el hekma, North coast"
-}
-	]
 }]}

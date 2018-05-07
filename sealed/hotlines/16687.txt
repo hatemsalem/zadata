@@ -62,26 +62,4 @@
 	"enName":"1 Ibrahim Abou El Naga St. Off Zaker Hussein St., Nasr city, Cairo"
 }
 	]
-}, {	"arName":"حلوانى اكسبشن",
-	"enName":"Exception Pastry",
-	"hotline":"16687",
-	"facebook":"http://www.facebook.com/Exceptionpatissier",
-	"web":"http://www.exception.com.eg/",
-	"arCategory":[
-		"مخابز ومعجنات وحلوى محلات",
-		"مطاعم"
-	],
-	"enCategories":[
-		"Bakery & Pastry Shops",
-		"Restaurants"
-	],
-	"contacts":[
-		{	"profileId":"5170913",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/exception-pastry/5170913?b=2&k=16687&l=search",
-	"arName":"4 عمارات مصر للتأمين -, المسلة, الفيوم",
-	"lat":"",
-	"lng":"",
-	"enName":"4 Misr Lel Taamin Bldgs.,, El massalah, El fayoum"
-}
-	]
 }]}

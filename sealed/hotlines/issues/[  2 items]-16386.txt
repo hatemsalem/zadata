@@ -21,7 +21,7 @@
 }, {	"arName":"الشمس للتسويق العقارى",
 	"enName":"El Shams Real Estate",
 	"hotline":"16386",
-	"facebook":"http://www.facebook.com/elshams/timeline",
+	"facebook":"http://www.facebook.com/elshams",
 	"web":"http://www.elshams.com/",
 	"arCategory":[
 		"عقارات"
