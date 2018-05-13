@@ -1,7 +1,7 @@
 {"items":[{	"arName":"مباشر مصر",
 	"enName":"Mubasher Misr",
 	"hotline":"16717",
-	"facebook":"",
+	"facebook":"https://www.facebook.com/Mubasher.Info",
 	"web":"http://www.mubasher.info/",
 	"arCategory":[
 		"اسهم وسندات سماسرة"

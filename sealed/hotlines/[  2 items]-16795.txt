@@ -28,7 +28,7 @@
 }, {	"arName":"بوجو بلس",
 	"enName":"BOGO Plus",
 	"hotline":"16795",
-	"facebook":"",
+	"facebook":"https://www.facebook.com/BogoPlus/",
 	"web":"http://www.bogo-plus.com/",
 	"arCategory":[
 		"كروت تخفيض"

@@ -39,31 +39,4 @@
 	"enName":"Customer Service, Mohandeseen, Giza"
 }
 	]
-}, {	"arName":"فيجن للتسويق العقارى والمبيعات",
-	"enName":"Vision For Real Estate Marketing & Sales",
-	"hotline":"16772",
-	"facebook":"http://www.facebook.com/visionrescom",
-	"web":"http://www.vision-res.com/",
-	"arCategory":[
-		"عقارات"
-	],
-	"enCategories":[
-		"Real Estate"
-	],
-	"contacts":[
-		{	"profileId":"413436",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/vision-for-real-estate-marketing-&-sales/413436?b=6&k=16772&l=search",
-	"arName":"27 ش عبد الحميد لطفى - الدور 2 شقة 7, المهندسين, الجيزة",
-	"lat":"30.049800000000001",
-	"lng":"31.202000000000002",
-	"enName":"27 Abdel Hamid Lotfy St., Floor 2 Flat 7, Mohandeseen, Giza"
-},
-		{	"profileId":"498520",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/vision-for-real-estate-marketing-&-sales/498520?b=5&k=16772&l=search",
-	"arName":"خدمة العملاء, المهندسين, الجيزة",
-	"lat":"",
-	"lng":"",
-	"enName":"Customer Service, Mohandeseen, Giza"
-}
-	]
 }]}

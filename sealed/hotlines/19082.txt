@@ -1,34 +1,7 @@
-{"items":[{	"arName":"الجومانا",
-	"enName":"Al Jomanah",
-	"hotline":"19082",
-	"facebook":"",
-	"web":"",
-	"arCategory":[
-		"بلاستيك ومطاط"
-	],
-	"enCategories":[
-		"Plastic & Rubber"
-	],
-	"contacts":[
-		{	"profileId":"539942",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/al-jomanah/539942?b=2&k=19082&l=search",
-	"arName":"خدمة العملاء, الماظة, مصر الجديدة, القاهرة",
-	"lat":"",
-	"lng":"",
-	"enName":"Customer Service, Almaza, Heliopolis, Cairo"
-},
-		{	"profileId":"539937",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/al-jomanah/539937?b=1&k=19082&l=search",
-	"arName":"109 ش فريد سميكة, الماظة, مصر الجديدة, القاهرة",
-	"lat":"30.106200000000001",
-	"lng":"31.349399999999999",
-	"enName":"109 Farid Semeika St., Almaza, Heliopolis, Cairo"
-}
-	]
-}, {	"arName":"روبيكس العالمية لتصنيع البلاستيك والاكريليك",
+{"items":[{	"arName":"روبيكس العالمية لتصنيع البلاستيك والاكريليك",
 	"enName":"Rubex International For Plastic & Acrylic Manufacturing",
 	"hotline":"19082",
-	"facebook":"http://www.facebook.com/rubex.eg",
+	"facebook":"https://www.facebook.com/rubexegypt.eg",
 	"web":"http://www.rubexegypt.eg/",
 	"arCategory":[
 		"بلاستيك ومطاط"

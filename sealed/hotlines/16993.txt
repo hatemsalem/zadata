@@ -1,7 +1,7 @@
 {"items":[{	"arName":"فيرست ماس انترناشيونال تورز",
 	"enName":"First Mas International Tours",
 	"hotline":"16993",
-	"facebook":"http://www.facebook.com/firstmas",
+	"facebook":"https://www.facebook.com/FirstMASTours/",
 	"web":"",
 	"arCategory":[
 		"سياحة وكالات"
@@ -23,26 +23,6 @@
 	"lat":"30.090900000000001",
 	"lng":"31.331600000000002",
 	"enName":"51 Beirut St. Off El Orouba St., Floor 6, Heliopolis, Cairo"
-}
-	]
-}, {	"arName":"ماس العالمية",
-	"enName":"Mas International Co.",
-	"hotline":"16993",
-	"facebook":"http://www.facebook.com/Masintc",
-	"web":"http://www.mas.net.kw/",
-	"arCategory":[
-		"عقارات"
-	],
-	"enCategories":[
-		"Real Estate"
-	],
-	"contacts":[
-		{	"profileId":"468856",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/mas-international-co./468856?b=3&k=16993&l=search",
-	"arName":"خدمة العملاء, مصر الجديدة, القاهرة",
-	"lat":"",
-	"lng":"",
-	"enName":"Customer Service, Heliopolis, Cairo"
 }
 	]
 }]}

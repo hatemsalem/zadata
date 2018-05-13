@@ -1,27 +1,7 @@
-{"items":[{	"arName":"السقا للسيارات",
-	"enName":"El Saqqa Motors",
-	"hotline":"16924",
-	"facebook":"",
-	"web":"",
-	"arCategory":[
-		"سيارات - تجار - سيارات جديدة"
-	],
-	"enCategories":[
-		"Cars - Dealers, New Cars"
-	],
-	"contacts":[
-		{	"profileId":"16022",
-	"profileURL":"//www.yellowpages.com.eg/en/profile/el-saqqa-motors/16022?b=1&k=16924&l=search",
-	"arName":"21 ش السباق متفرع من ش جسر السويس, المريلاند, مصر الجديدة, القاهرة",
-	"lat":"30.100771000000002",
-	"lng":"31.323405000000001",
-	"enName":"21 El Sebaq St. Off Gesr El Suez St., El Merryland, Heliopolis, Cairo"
-}
-	]
-}, {	"arName":"انفيتيشين تورز",
+{"items":[{	"arName":"انفيتيشين تورز",
 	"enName":"Invitation Tours",
 	"hotline":"16924",
-	"facebook":"",
+	"facebook":"https://www.facebook.com/686856004667125",
 	"web":"http://www.invitationtours.net/",
 	"arCategory":[
 		"سياحة وكالات"

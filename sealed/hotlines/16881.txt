@@ -51,21 +51,8 @@
 	"lat":"30.079319000000002",
 	"lng":"31.339628000000001",
 	"enName":"7 Secon Bldgs., El Nozha St., Floor 5, Ard El Golf, Heliopolis, Cairo"
-}
-	]
-}, {	"arName":"اندلسية",
-	"enName":"Andalosia",
-	"hotline":"16881",
-	"facebook":"http://www.facebook.com/Andalosia.Resort",
-	"web":"http://www.andalosiaresort.com/",
-	"arCategory":[
-		"قرى سياحية"
-	],
-	"enCategories":[
-		"Villages - Touristic"
-	],
-	"contacts":[
-		{	"profileId":"369978",
+},
+{	"profileId":"369978",
 	"profileURL":"//www.yellowpages.com.eg/en/profile/andalosia/369978?b=1&k=16881&l=search",
 	"arName":"., علم الروم, مرسى مطروح",
 	"lat":"31.363946299999999",

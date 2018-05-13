@@ -1,0 +1,21 @@
+{"items":[{	"arName":"فودافون مصر",
+	"enName":"Vodafone Egypt",
+	"hotline":"16888",
+	"facebook":"http://www.facebook.com/Vodafone.Egypt",
+	"web":"http://www.vodafone.com.eg/",
+	"arCategory":[
+		"تليفونات محمولة مشغلوا خطوط"
+	],
+	"enCategories":[
+		"Mobile Line Operators"
+	],
+	"contacts":[
+		{	"profileId":"124984",
+	"profileURL":"//www.yellowpages.com.eg/en/profile/vodafone-egypt/124984?b=108&k=16888&l=search",
+	"arName":"خدمة العملاء, ابو رواش, الجيزة",
+	"lat":"",
+	"lng":"",
+	"enName":"Customer Service, Abou rawash, Giza"
+}
+	]
+}]}
